@@ -1,0 +1,34 @@
+ID:	1281
+Name:	Alpengarten Villacher Alpe 
+Fax:	
+Info:	  Austria - Austria - Villach  ;Garden Information;  Institution Code: AGVA; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	g.huethmayr@aon.at
+Telephone:	0 42 42 / 59138
+Villacher Alpenstrasse Office:	Klagenfurterstrasse 66 9500 VILLACHAustria
+Administration Staff Number:	
+Curator's Name:	Gerold Huethmayr-Stieglmayr
+Director's Name:	Cernic Nicole
+Educational Staff Number:	
+Horticultural Staff Number:	40
+Plant Records Officer's Name:	Gerold Huethmayr-Stieglmayr
+Research Staff Number:	
+Altitude:	1500.00 Metres
+Annual Rainfall:	1350 mm
+Date founded:	1973
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	46.3550
+Longitude:	13.4450
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Arboretum:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	10000
+Open to public:	Yes
+Seed Bank:	No
+Cultivation Taxa Num:	1000
+Special Collections:	Alpine plants only, about 1000 several species
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes

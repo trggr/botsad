@@ -1,0 +1,17 @@
+ID:	732
+Name:	University of South Florida Botanical Gardens 
+Curator's Name:	
+Director's Name:	Laurie Walker, Director
+Info:	  United States of America - Florida - Tampa  ;Garden Information;  Institution Code: USF; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of South Florida Botanical Gardens; 4202 East Fowler Avenue, NES107; Tampa; Florida 33620 United States of America; ;  Telephone: (813) 974-5653; Fax: (813) 974-2184; URL: <a target="_blank" href="http://www.cas.usf.edu/garden">www.cas.usf.edu/garden; Primary Email: lwalker@chuma1.cas.usf.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1969
+Institution Type:	Botanic Garden
+Latitude:	27.9494360
+Longitude:	-82.4651440
+Total Area:	3 Hectares
+Friends society:	Yes
+Number of Visitors:	35000
+Open to public:	Yes
+Special Collections:	Araceae, Acanthaceae, Arecaceae, Bromeliaceae, Zingiberaceae, Clematis.
+Public Lectures/Talks:	Yes

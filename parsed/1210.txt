@@ -1,0 +1,78 @@
+ID:	1210
+Name:	Jardin Botanico de la Universidad Autónoma de Guerrero 
+Administration Staff Number:	1
+Curator's Name:	Elvia Barrera, Herbarium Manager
+Director's Name:	Sabás Vasquez Agustín
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  Mexico - Guerrero - Chilpancingo de los Bravo  ;Garden Information;  Institution Code: GUERR; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanico de la Universidad Autónoma de Guerrero Misión ; Contribuye al conocimiento y conservación de la diversidad de la flora del estado de Guerrero, a través de preservar plantas representativas de importancia ecológica y cultural. Se vincula con la comunidad académica universitaria y de otros niveles educativos; y con la sociedad en general para la difusión y transmisión del conocimiento, biológico y etnobiológico de las especies vegetales, su uso sustentable. Sirve como un espacio para la educación ambiental y esparcimiento.; ; OBJETIVO GENERAL; Conservar especies locales representativas de la flora de Guerrero, y fomentar la investigación de estas especies para incidir en el uso y manejo sustentable;  Main Address:; Jardin Botanico de la Universidad Autónoma de Guerrero; Universidad Autonoma de Guerrero; Ave. Làzaro Cárdenas s/n. C. Universitaria. Colonia La Haciendita; Chilpancingo de los Bravo; Guerrero 39000 Mexico; ;  Telephone: 01 747 47 2 9630; Fax: 01 747 47 29630; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	6
+Altitude:	1257.00 Metres
+Annual Rainfall:	1006 mm
+Date founded:	1977
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	17.6006
+Local Address:	Avenida Lázaro Cardnas s/n. Interior de Ciudad Universitaria. Colonia La Haciendita. Chilpancingo, Guerrero Máxico.
+Locality:	Information
+Longitude:	-99.5057
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Total area of shadehouses:	150 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	500
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	150
+Cultivation Taxa Num:	4
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Las plantas que alberga el jardín, provienen de las siete regiones del estado de Guerrero. En su gran mayoría, pertenecen al tipo de vegetación bosque tropical caducifolio
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

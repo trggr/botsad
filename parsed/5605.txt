@@ -1,0 +1,9 @@
+ID:	5605
+Name:	Jardín Botánico Tropical Mutile 
+Curator's Name:	
+Director's Name:	Digmar Alfredo Lajones Mole
+Info:	  Ecuador - Esmeraldas - Esmeraldas  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Tropical Mutile; Hacienda Experimental Mutile; Universidad Tecnica Luis Vargas Torres, Facultad Ciencias Agropecuarias, Casilla:08-01-0173; Esmeraldas; Esmeraldas Ecuador; ;  Telephone: 593 0994193359; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: digmar1955@hotmail.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	0.890724
+Longitude:	-79.6211

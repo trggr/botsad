@@ -1,0 +1,13 @@
+ID:	743
+Name:	North Coast Regional Botanic Garden 
+Curator's Name:	
+Director's Name:	Mr. J. Shaw
+Info:	  Australia - NSW - Coffs Harbour  ;Garden Information;  Institution Code: COFF; International Agenda Registration: No; BGCI Member: No;  Main Address:; North Coast Regional Botanic Garden; c/o Parks Branch, Coffs Harbour City Council; Coffs Harbour; NSW 2450 Australia; ;  Telephone: 61 (0)2 6652 0779; Fax: 61 (0)2 6652 1517; URL: <a target="_blank" href="http://www.holidaycoast.net.au/coffs/garden/">www.holidaycoast.net.au/coffs/garden/; Primary Email: coffs.council@chcc.nsw.gov.au ; 
+Plant Records Officer's Name:	Ian Corbett
+Altitude:	0.00 Metres
+Date founded:	1981
+Institution Type:	Botanic Garden
+Latitude:	-30.295381
+Longitude:	153.124429
+Seed Bank:	Yes
+Special Collections:	70 % of collection if Australian flora. Native and exotic species which grow in subtropical environments.

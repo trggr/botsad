@@ -1,0 +1,12 @@
+ID:	296
+Name:	Wollongong Botanic Gardens 
+Curator's Name:	Jason Brown
+Director's Name:	NK
+Info:	  Australia - NSW - Wollongong  ;Garden Information;  Institution Code: WOLL; International Agenda Registration: No; BGCI Member: No; About the Wollongong Botanic Gardens Wollongong's Botanic Garden is situated in Keiraville, bounded by Murphys Avenue, Robsons Road and NorthfieldsAvenue. The picturesque 22 hectare garden features a dazzling array of plant specimens, from both tropic and temperate regions. Over 200,000 people visit the Botanic Garden each year to admire features such as the rose garden, the azalea bank and the Illawarra rainforest.;  Main Address:; Wollongong Botanic Gardens; Locked Bag 8821,; South Coast Mail Centre,; Wollongong; NSW 2521 Australia; ;  Telephone: 61 (0)2 4225 2636/2637; Fax: 61 (0)2 4227 2746; URL: <a target="_blank" href="http://botanicgarden.wollongong.nsw.gov.au/">http://botanicgarden.wollongong.nsw.gov.au/; Primary Email: BotanicGardens@Wollongong.nsw.gov.au ; 
+Plant Records Officer's Name:	Jason Brown, Wayne Jolliffe
+Altitude:	0.00 Metres
+Date founded:	1964
+Institution Type:	Botanic Garden
+Latitude:	-34.4102497
+Longitude:	150.8747475
+Special Collections:	60 % of collection is Australian flora. Maintains a seed bank with medium-term storage capacity, containing 1,500 accessions, representing 1,165 species (1994 figures).

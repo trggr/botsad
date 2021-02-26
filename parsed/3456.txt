@@ -1,0 +1,27 @@
+ID:	3456
+Name:	Hidden Lake Gardens 
+Curator's Name:	Steven Courtney
+Director's Name:	Steven Courtney, Manager
+Info:	  United States of America - Michigan - Tipton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Hidden Lake Gardens Hidden Lake Gardens is dedicated to the benefit and education of the public.; ; Hidden Lake Gardens primary purpose is to provide the visitor with a better awareness, understanding, and appreciation of natural and improved environments.;  Main Address:; Hidden Lake Gardens; Michigan State University; 6214 Monroe Road; Tipton; Michigan 49287 United States of America; ;  Telephone: (517) 431-2060; Fax: (517) 431-9148; URL: <a target="_blank" href="http://www.hiddenlakegardens.msu.edu">www.hiddenlakegardens.msu.edu; Primary Email: ; 
+Plant Records Officer's Name:	Steven Courtney
+Altitude:	0.00 Metres
+Date founded:	1945
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.0223240
+Longitude:	-84.1063150
+Natural Vegetation Area:	Yes
+Total Area:	81 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Number of Visitors:	50000
+Number of Volunteers:	200
+Open to public:	Yes
+Cultivation Taxa Num:	1600
+Special Collections:	Michigan Hosta Society Collection
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

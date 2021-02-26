@@ -1,0 +1,10 @@
+ID:	3535
+Name:	Jardín Didáctico de Especies Nativas 
+Curator's Name:	Prof. Marcela Huerta de la Rocha
+Director's Name:	Dra. Patricia Perelman
+Info:	  Argentina - Buenos Aires - Buenos Aires  ;Garden Information;  Institution Code: BA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Didáctico de Especies Nativas; Museo Argentino de Ciencias Naturales "Bernardino Rivadavia"; Av. Angel Gallardo 470; Buenos Aires; Buenos Aires 1405 Argentina; ;  Telephone: 54 (0) 11-49824791/8797/8370, ext. 237; Fax: 54 (0) 4982-5243/4494; URL: <a target="_blank" href="http://www.macn.secyt.gov.ar">http://www.macn.secyt.gov.ar; Primary Email: patriperelman@gmail.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-34.60514
+Longitude:	-58.43769

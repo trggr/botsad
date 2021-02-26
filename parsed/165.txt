@@ -1,0 +1,10 @@
+ID:	165
+Name:	Dendrological Park 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  Russian Federation - Meshcherskoje  ;Garden Information;  Institution Code: MESHK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dendrological Park; Forest Steppe Research Station for Decorative, Plants,Lipetskaya obl., 399707 MESHCHERSKOJE, Russ; Meshcherskoje; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	55.6730
+Longitude:	37.4143

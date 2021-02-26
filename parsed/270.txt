@@ -1,0 +1,23 @@
+ID:	270
+Name:	Belmonte Arboretum 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	D. Smid
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Netherlands - Wageningen  ;Garden Information;  Institution Code: WAG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Belmonte Arboretum; Generaal Foulkesweg 94a; Wageningen; 6703 DS Netherlands; ;  Telephone: +31(0)6-53249215; Fax: ; URL: <a target="_blank" href="http://www.belmontearboretum.nl">http://www.belmontearboretum.nl; Primary Email: info@belmontearboretum.nl ; 
+Plant Records Officer's Name:	M. Lemmens
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1951
+Institution Type:	Botanic Garden
+Latitude:	51.9659
+Longitude:	5.6948
+Total Area:	17 Hectares
+Arboretum:	Yes
+Arboretum Size:	17
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes

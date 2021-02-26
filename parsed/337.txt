@@ -1,0 +1,60 @@
+ID:	337
+Name:	Kunming Botanical Garden 
+Fax:	(86 871) 65223612
+Info:	  China - Yunnan - Kunming  ;Garden Information;  Institution Code: KUN; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	
+Telephone:	(86 871) 65223628/65223803
+Administration Staff Number:	6
+Curator's Name:	Wang Shiqiong
+Director's Name:	Sun Weibang
+Educational Staff Number:	3
+Horticultural Staff Number:	24
+Plant Records Officer's Name:	GaoFu
+Research Staff Number:	18
+Altitude:	1990.00 Metres
+Annual Rainfall:	1006 mm
+Date founded:	1938
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	25.0166
+Local Address:	中国云南省昆明市北郊黑龙潭中科院昆明植物研究所，邮编 650201
+Locality:	Information
+Longitude:	102.6833
+Natural Vegetation Area:	Yes
+Total Area:	44 Hectares
+Total area of glasshouses:	3 Metres
+Total area of shadehouses:	10 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	800000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	4
+Special Collections:	Economically valuable species and cultivars and species of Camellia, Rhododendron, Begonia,Fern, Lilium, Medicinal Plants, Monocotyledons. Plants with volatile plant oils (Camphor etc). Conifers. Regular seed list produced.Rare and endangered plants of Yunnan
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Molecular Genetics:	Yes
+Pollination Biology:	Yes
+Seed/Spore Biology:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

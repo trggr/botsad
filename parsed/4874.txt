@@ -1,0 +1,12 @@
+ID:	4874
+Name:	Incheon Arboretum 
+Curator's Name:	Soo-Kyoung Jung
+Director's Name:	hak-Yeol Kim
+Info:	  South Korea - Incheon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Incheon Arboretum; 310 Jangsu-dong; Namdong-gu; Incheon; 405-250 South Korea; ;  Telephone: +82 32-440-5881; Fax: ; URL: <a target="_blank" href="http://arboretum.incheon.go.kr/icweb/html/web23/023.html">http://arboretum.incheon.go.kr/icweb/html/web23/023.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	37.7022
+Local Address:	남동구 장수동 무네미길 160
+Locality:	Information
+Longitude:	126.32978

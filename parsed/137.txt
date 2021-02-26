@@ -1,0 +1,38 @@
+ID:	137
+Name:	National Botanical Gardens of PNG 
+Administration Staff Number:	1
+Curator's Name:	Roy Banka
+Director's Name:	Nalish Sam
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Info:	  Papua New Guinea - Morobe Province - Lae  ;Garden Information;  Institution Code: LAE; International Agenda Registration: No; BGCI Member: No; About the National Botanical Gardens of PNG The Papua New Guinea Forest Research Institute (FRI), is charged with, among other things, the responsibility to provide through research, scientific information and basis for the sustainable management of Papua New Guinea's forests.;  Main Address:; National Botanical Gardens of PNG; Papua New Guinea Forest Research Institute; P.O. Box 314; Lae; Morobe Province Papua New Guinea; ;  Telephone: 675 472 4188; Fax: 675 4726572; URL: <a target="_blank" href="http://www.fao.org/DOCREP/003/X1576E/X1576E06.htm">http://www.fao.org/DOCREP/003/X1576E/X1576E06.htm; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	40.00 Metres
+Annual Rainfall:	450 mm
+Date founded:	1949
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-6.7236
+Longitude:	146.9909
+Natural Vegetation Area:	Yes
+Total Area:	57 Hectares
+Arboretum:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Special Collections:	Native Araceae, Begoniaceae, Orchidaceae (+1000 spp.), bamboo, Elacocarpaceae, Combretaceae, cycas, Guttiferae, Hoya, Leguminosae, Musaceae, Myrtaceae, Palmae, Sapindaceae, Rubiaceae, Dipterocarpaceae, Pandanaceae and Zingiberaceae, Heliconia, cacti, timbIndigenous palm species of Papua New Guinea
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Conservation - Biology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Systematics and Taxonomy:	Yes
+Courses for School Children:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

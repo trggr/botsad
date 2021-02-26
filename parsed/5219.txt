@@ -1,0 +1,18 @@
+ID:	5219
+Name:	Universiti Brunei Darussalam 
+Administration Staff Number:	
+Curator's Name:	Daniele Cicuzza
+Director's Name:	Daniele Cicuzza
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  Brunei Darussalam  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Universiti Brunei Darussalam; Jalan Tungku Link; Gadong; BE1410 Brunei Darussalam; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2018
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	4.975905
+Longitude:	114.893908
+Natural Vegetation Area:	Yes
+Total Area:	5 Hectares

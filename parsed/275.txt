@@ -1,0 +1,54 @@
+ID:	275
+Name:	Royal Horticultural Society's Garden, Wisley 
+Fax:	44 (0)1483 211750
+Info:	  United Kingdom - Surrey - Woking  ;Garden Information;  Institution Code: WSY; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	hortdb@rhs.org.uk
+Telephone:	44 (0)1483 224234
+Administration Staff Number:	15
+Curator's Name:	Matthew Pottage
+Director's Name:	Dr Tim Upson (Director of Horticulture)
+Educational Staff Number:	25
+Horticultural Staff Number:	87
+Plant Records Officer's Name:	Gill Skilton
+Research Staff Number:	20
+Altitude:	18.00 Metres
+Annual Rainfall:	652 mm
+Date founded:	1904
+Institution Type:	Botanic Garden
+Latitude:	51.310672
+Longitude:	-0.47541
+Satellite Garden Names:	Rosemoor, Hyde Hall, Harlow Carr
+Total Area:	60 Hectares
+Total area of glasshouses:	4200 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	690000
+Number of Volunteers:	84
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	43226
+Cultivation Taxa Num:	24770
+Invasive Species Monitoring:	Yes
+Special Collections:	Orchidaceae, Epimedium, Crocus, Colchicum, Galanthus, Hosta, Rheum, Cyclamen, Narcissus, Daboecia, Erica, Calluna. Rhododendron, rock-garden plants, conifers, heathers, Mediterranean and Near East bulbs, apples.
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

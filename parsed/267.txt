@@ -1,0 +1,83 @@
+ID:	267
+Name:	Botanical Garden-Institute of the Far Eastern Branch, Russian Academy of Science 
+Fax:	(4232) 388041
+Info:	  Russian Federation - Vladivostok  ;Garden Information;  Institution Code: VLA; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	mail@botsad.ru
+Telephone:	(4232) 388041
+Administration Staff Number:	10
+Curator's Name:	Vadim A. Bakalin
+Director's Name:	Pavel V. Krestov
+Educational Staff Number:	4
+Horticultural Staff Number:	12
+Plant Records Officer's Name:	Natalya V. Labetskaya
+Research Staff Number:	20
+Altitude:	9.00 Metres
+Annual Rainfall:	826 mm
+Date founded:	1949
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	43.223889
+Local Address:	ул. Маковского 142
+Locality:	Information
+Longitude:	131.993611
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Sakhalin branch, Yuzhno-Sakhalinsk Amur branch, Blagoveshchensk
+Total Area:	169 Hectares
+Total area of glasshouses:	500 Metres
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	200000
+Number of Volunteers:	50
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Cultivation Taxa Num:	5500
+Geographical regions:	Western Europe, Eastern Europe, Crimea and Caucasus, Middle Asia, Western and Eastern Siberia, Far East, North America.
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Perennial herbs:	Anemone, Astilbe, Chrysanthemum, Dahlia, Hemerocallis, Iris, Lilium, Narcissus, Phlox, Sedum, Tulipa(and many others).
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

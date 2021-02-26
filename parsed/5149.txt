@@ -1,0 +1,10 @@
+ID:	5149
+Name:	Asociación Mexicana de Jardines Botánicos (AMJB) 
+Curator's Name:	Beatriz Maruri
+Director's Name:	Emiliano Sanchez, AMJB Director
+Info:	  Mexico - Querétaro - Querétaro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Asociación Mexicana de Jardines Botánicos (AMJB); Luis Pasteur Sur 36, Centro; Querétaro; Querétaro 76000 Mexico; ;  Telephone: +52 441-276-0647; Fax: ; URL: <a target="_blank" href="http://www.concyteq.edu.mx/amjb/">http://www.concyteq.edu.mx/amjb/; Primary Email: esanchez@concyteq.edu.mx ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Network
+Latitude:	22.592282
+Longitude:	-100.388589

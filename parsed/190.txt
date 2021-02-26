@@ -1,0 +1,75 @@
+ID:	190
+Name:	Walter Sisulu National Botanical Garden 
+Administration Staff Number:	4
+Curator's Name:	Ms Xolelwa Mokoena
+Director's Name:	Christopher Willis
+Educational Staff Number:	2
+Horticultural Staff Number:	3
+Info:	  South Africa - Gauteng - Johannesburg  ;Garden Information;  Institution Code: NBGW; International Agenda Registration: Yes; BGCI Member: Yes; About the Walter Sisulu National Botanical Garden Parastatal organisation, the South African National Biodiversity Institute (SANBI) under the national Department of Environment, Forestry & Fisheries (DEFF); ; Named after the late Iconic Apartheid Struggle Hero Walter Sisulu Against the backdrop of the magnificent Witpoortjie waterfall, this Garden (previously called the Witwatersrand National Botanical Garden) covers almost 300 hectares and consists of both landscaped and natural veld areas. The history of the Garden shows that it was founded in 1982, but has been a popular venue for outings since the 1800's. ; ; The natural vegetation of the area is known as the "Gold Reef Mountain Bushveld" and consists of a mosaic of grassland and savanna, with forest communities in kloofs and along streams. A list of naturally occuring trees is available.The variety of habitats accommodates over 600 naturally occurring plant species. View the seasonal highlights.;  Main Address:; Walter Sisulu National Botanical Garden; Physical: End of Malcom Road, Poortview, Roodepoort, 1724; Postal: PO Box 2194, Wilro Park; Johannesburg; Gauteng 1731 South Africa; ;  Telephone: +27 (0) 86 100 1278; Fax: +27 (0)11 958 1752; URL: <a target="_blank" href="http://www.sanbi.org">www.sanbi.org; Primary Email: sisulugarden@sanbi.org.za ; 
+Plant Records Officer's Name:	Mrs Alice Aubrey
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Annual Rainfall:	750 mm
+Date founded:	1982
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-26.0873
+Longitude:	27.8446
+Natural Vegetation Area:	Yes
+Total Area:	308 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	240000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Flagship Threatend taxa:	Orbea elegans
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Plant Groups in the collections:	Agapanthus
+Special Collections:	Over 90% of the garden is made up of natural vegetation of Gold Reef Mountain Bushveld which is comprised of Protea caffra wooded grassland slopes with, Acacia caffra, Cussonia paniculata subsp. sinuata, and rocky ridges with Englerophytum magalismontanum, and Ancylobotrys.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

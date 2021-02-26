@@ -1,0 +1,9 @@
+ID:	4686
+Name:	Rio Grande Zoo 
+Curator's Name:	Catherine Hubbard, Garden Manager
+Director's Name:	Unknown
+Info:	  United States of America - New Mexico - Albuquerque  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Rio Grande Zoo; 903 Tenth Street SW; Albuquerque; New Mexico 87104 United States of America; ;  Telephone: 505-848-7181; Fax: ; URL: <a target="_blank" href="http://www.cabq.gov/biopark/zoo/">www.cabq.gov/biopark/zoo/; Primary Email: biopark@cabq.gov ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	35.0780050
+Longitude:	-106.6624889

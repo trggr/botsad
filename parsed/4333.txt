@@ -1,0 +1,10 @@
+ID:	4333
+Name:	Bradenham Hall Gardens and Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Norfolk - Thetford  ;Garden Information;  Institution Code: BHGAT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bradenham Hall Gardens and Arboretum; Bradenham; Thetford; Norfolk IP25 7QR United Kingdom; ;  Telephone: 01362 687279; Fax: 01362 687669; URL: <a target="_blank" href="http://www.bradenhamhall.co.uk">www.bradenhamhall.co.uk; Primary Email: info@bradenhamhall.co.uk ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	52.651625
+Longitude:	0.840108

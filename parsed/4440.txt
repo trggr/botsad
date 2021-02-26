@@ -1,0 +1,11 @@
+ID:	4440
+Name:	Henry Doorly Zoo 
+Curator's Name:	Terri Gouveia, Curator of Horticulture
+Director's Name:	Unknown
+Info:	  United States of America - Nebraska - Omaha  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Henry Doorly Zoo; 3701 South 10th Street; Omaha; Nebraska 68107 United States of America; ;  Telephone: (402) 733-8401; Fax: ; URL: <a target="_blank" href="http://www.omahazoo.com">www.omahazoo.com; Primary Email: psl@omahazoo.com ; 
+Plant Records Officer's Name:	Dr. Margaret From, Head of Lab for Rare & Endangered Plants
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	41.2247060
+Longitude:	-95.9294230
+Reintroduction Programme:	Yes

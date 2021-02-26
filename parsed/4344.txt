@@ -1,0 +1,10 @@
+ID:	4344
+Name:	Jardim Botânico de Manaus Adolpho Ducke 
+Curator's Name:	
+Director's Name:	Williams Cavalcante Diniz de Carvalho
+Info:	  Brazil - Amazonas - Manaus  ;Garden Information;  Institution Code: JBADM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico de Manaus Adolpho Ducke; Alameda Cosme Ferreira 1756 - Petrópolis; Manaus; Amazonas 69.000-970 Brazil; ;  Telephone: (92) 3643 3252; 3681 2287; Fax: ; URL: <a target="_blank" href="http://www.jardimbotanicodemanaus.org/doku.php">http://www.jardimbotanicodemanaus.org/doku.php; Primary Email: atendimento@jardimbotanicodemanaus.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-10.660607
+Longitude:	-35.288085

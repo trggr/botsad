@@ -1,0 +1,80 @@
+ID:	104
+Name:	Harold L. Lyon Arboretum 
+Fax:	(808) 988-0462
+Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: HLA; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; 
+Primary Email:	lyonarb@hawaii.edu
+Telephone:	(808) 988-0456
+Administration Staff Number:	3
+Curator's Name:	Liloa Dunn, Grounds and Collections Manager
+Director's Name:	Dr. Rakan (Zak) Zahawi, Director
+Educational Staff Number:	3
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	Jesse W. Adams, Research Associate
+Research Staff Number:	5
+Altitude:	360.00 Metres
+Annual Rainfall:	4190 mm
+Date founded:	1918
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	21.3304548
+Local Address:	3860 Manoa Road Honolulu, HI 96822
+Locality:	Information
+Longitude:	-157.8008789
+Natural Vegetation Area:	Yes
+Total Area:	82 Hectares
+Arboretum:	Yes
+Arboretum Size:	82
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	45000
+Number of Volunteers:	380
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	19300
+Cultivation Taxa Num:	6200
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Araceae, Arecaceae, Zingiberales, Cordyline, and Ficus. Taxa native to the Hawaiian Islands and other archipelagos across the Pacific Ocean.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

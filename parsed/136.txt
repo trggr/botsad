@@ -1,0 +1,32 @@
+ID:	136
+Name:	Hortus botanicus Leiden 
+Administration Staff Number:	2
+Curator's Name:	Dr. Gerda van Uffelen
+Director's Name:	Dr. Paul J.A. Keßler
+Educational Staff Number:	1
+Horticultural Staff Number:	8
+Info:	  Netherlands - Leiden  ;Garden Information;  Institution Code: HBL; International Agenda Registration: No; BGCI Member: Yes; About the Hortus botanicus Leiden The Hortus botanicus Leiden is the oldest botanic garden in the Netherlands, founded in 1590. Its first plant list and plan have been preserved, and a reconstruction of our earliest garden has been laid out in its original place. It has always been part of Leiden University, and is now also a registered museum. It's most important research collection is the Orchid collection, but tropical ferns, cycads, Hoya, Dischidia, Aeschynanthus, myrmecophytes, and hardy ferns are also substantial research collections. The collection data are stored in a recently developed Living Collections module of BRAHMS.; http://www.hortusleiden.nl/index.php/english/;  Main Address:; Hortus botanicus Leiden; P.O. Box 9500; Leiden; 2300 RA Netherlands; ;  Telephone: +31 (0)71 5275144/7249; Fax: +31 (0)71 271 273511; URL: <a target="_blank" href="http://www.hortus.leidenuniv.nl">www.hortus.leidenuniv.nl; Primary Email: hortus@hortus.leidenuniv.nl ; 
+Plant Records Officer's Name:	Dr. Gerda van Uffelen
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1590
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	52.1610
+Longitude:	4.4901
+Total Area:	3 Hectares
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Number of Visitors:	110000
+Number of Volunteers:	40
+Open to public:	Yes
+Special Collections:	Largest collections form part of the Dutch National Plant Collection.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Invasive Species Biology and Control:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

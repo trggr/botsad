@@ -1,0 +1,10 @@
+ID:	1372
+Name:	Arboretum de Sibangu 
+Curator's Name:	
+Director's Name:	A.M.Louis
+Info:	  Gabon - Libreville  ;Garden Information;  Institution Code: LIBRE; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Arboretum de Sibangu; c/o National Herbarium of Gabon, CENAREST, B.P. 842, LIBREVILLE, Gabon.; Libreville; Gabon; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1931
+Institution Type:	Botanic Garden
+Latitude:	0.3857
+Longitude:	9.4496

@@ -1,0 +1,11 @@
+ID:	540
+Name:	Botanische tuin van de Gemeente te Rotterdam 
+Curator's Name:	V. Antuzzi
+Director's Name:	H. Haven
+Info:	  Netherlands - Rotterdam  ;Garden Information;  Institution Code: ROTTB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanische tuin van de Gemeente te Rotterdam; Coolsingel 6, 3000 BE ROTTERDAM, The Netherlands.; Rotterdam; Netherlands; ;  Telephone: 010 4172704; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1913
+Institution Type:	Botanic Garden
+Latitude:	51.9226
+Longitude:	4.4707

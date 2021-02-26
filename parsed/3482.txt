@@ -1,0 +1,26 @@
+ID:	3482
+Name:	J. Paul Getty Museum 
+Curator's Name:	D. Brian Houck, Manager of Grounds and Gardens
+Director's Name:	-
+Info:	  United States of America - California - Los Angeles  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the J. Paul Getty Museum The Central Garden, created by renowned artist Robert Irwin, lies at the heart of the Getty Center. The 134,000-square-foot design features a natural ravine and tree-lined walkway that leads the visitor through an extraordinary experience of sights, sounds, and scents.;  Main Address:; J. Paul Getty Museum; 1200 Getty Center Drive; Suite 100; Los Angeles; California 90049–1668 United States of America; ;  Telephone: (310) 440-7143; Fax: (310) 440-7723; URL: <a target="_blank" href="http://www.getty.edu">www.getty.edu; Primary Email: visitorservices@getty.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1997
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.0784410
+Longitude:	-118.4750370
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	500
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No

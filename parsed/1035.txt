@@ -1,0 +1,12 @@
+ID:	1035
+Name:	Simon Fraser University Arboretum 
+Curator's Name:	Leslie Dodd, Greenhouse Technician
+Director's Name:	Felix Breden, Department Chair
+Info:	  Canada - British Columbia - Burnaby  ;Garden Information;  Institution Code: BURN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Simon Fraser University Arboretum; Department of Biological Sciences; 8888 University Drive; Burnaby; British Columbia V5A 1S6 Canada; ;  Telephone: (778) 782-4475; Fax: (778) 782-3496; URL: <a target="_blank" href="http://www.biology.sfu.ca">www.biology.sfu.ca; Primary Email: bisc-chr@sfu.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1967
+Institution Type:	Botanic Garden
+Latitude:	49.27972
+Longitude:	-122.92179
+Special Collections:	No information available.

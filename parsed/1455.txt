@@ -1,0 +1,11 @@
+ID:	1455
+Name:	Big Brook Forest Arboretum 
+Curator's Name:	District Manager
+Director's Name:	Dr. S. Shea
+Info:	  Australia - Pemberton  ;Garden Information;  Institution Code: KALGO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Big Brook Forest Arboretum; Department of CALM, PEMBERTON, WA 6260, Australia; Pemberton; Australia; ;  Telephone: 61 (0)8 9776 1207; Fax: 61 (0)8 9776 1410; URL: <a target="_blank" href="http://">; Primary Email: harryh@calm.wa.gov.au ; 
+Plant Records Officer's Name:	
+Date founded:	1929
+Institution Type:	Botanic Garden
+Latitude:	-34.40519
+Longitude:	116.00407
+Special Collections:	80 % of collection is Australian flora. Sequoia sempervirens, mixed conifers, eucalyptus

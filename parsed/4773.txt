@@ -1,0 +1,36 @@
+ID:	4773
+Name:	Smithsonian National Museum of Natural History - Botany Greenhouses 
+Administration Staff Number:	3
+Curator's Name:	Warren Wagner
+Director's Name:	Kirk Johnson
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - Maryland - Suitland  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Smithsonian National Museum of Natural History - Botany Greenhouses The Botany Greenhouses of the Smithsonian Institution provide support to National Museum of Natural History - Department of Botany researchers. In essence we are a living collection which complements the preserved collection of the US National Herbarium. While dried (herbarium) specimens show plants at an instant in time, living materials provide opportunities to collect more information. In addition, some characters can be destroyed, degraded or difficult to see in an herbarium specimen.; ; The collections are primarily tropical in nature, representing research interests of curators in the Department of Botany. Speciens come from both wild and cultivated sources such as botanic gardens and nurseries. We have material sourced from six continents, the largest collection of Zingiberales and Commelinaceae species in the world under glass, a growing collection of Euphorbiaceae, and representatives from many other families.; ; In the greenhouse, living materials are used for identification, preserved specimens (vouchers), chemical analysis, documentation of processes, illustration, and photography.;  Main Address:; Smithsonian National Museum of Natural History - Botany Greenhouses; Museum Support Center; 4210 Silver Hill Rd; Suitland; Maryland 20746 United States of America; ;  Telephone: 301-238-1060; Fax: ; URL: <a target="_blank" href="http://botany.si.edu/ghhighlight/GHouseAbout.html">http://botany.si.edu/ghhighlight/GHouseAbout.html; Primary Email: info@si.edu ; 
+Plant Records Officer's Name:	Gary Krupnick
+Research Staff Number:	43
+Altitude:	87.80 Metres
+Date founded:	1977
+Institution Type:	Other
+Latitude:	38.84299
+Longitude:	-76.94274
+Herbarium:	Yes
+ABS Policy:	Yes
+Accession Number:	800
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	The greenhouse complex at the Museum Support Center is a research and living collections facility for the Department of Botany, of the National Museum of Natural History, and not an exhibit greenhouse. Persons working there are involved in the research activities of the department.
+Conservation Programme:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Molecular Genetics:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Systematics and Taxonomy:	Yes

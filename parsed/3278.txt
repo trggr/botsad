@@ -1,0 +1,10 @@
+ID:	3278
+Name:	Gradina Botanica din Tulcea 
+Curator's Name:	Prof Gabriela Dorosencu
+Director's Name:	Prof Aurel Dorosencu
+Info:	  Romania - Tulcea  ;Garden Information;  Institution Code: TULR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gradina Botanica din Tulcea; Str Elizeului 74 8800 Tulcea Romania; Tulcea; Romania; ;  Telephone: +(40) 40 514 146; Fax: +(40) 40 510 449; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1983
+Institution Type:	Botanic Garden
+Latitude:	45.0722
+Longitude:	28.8769

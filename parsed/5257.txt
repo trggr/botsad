@@ -1,0 +1,77 @@
+ID:	5257
+Name:	College of Horticulture Mudigere 
+Administration Staff Number:	1
+Curator's Name:	Dr. Raviraja Shetty G
+Director's Name:	Dr. M. Hanumanthappa
+Educational Staff Number:	2
+Horticultural Staff Number:	4
+Info:	  India - Karnataka - Mudigere  ;Garden Information;  Institution Code: CHM; International Agenda Registration: No; BGCI Member: No; About the College of Horticulture Mudigere The college of Horticulture, Mudigere is located in the central part of Western Ghats of India. The Western Ghats of India is among the ecologically richest regions and has around 4000 species of higher plants of which 500 species have medicinal value. Plants that were very common in Western Ghats when they were first studied have got into the IUCN Red List over the years. In the absence of cultivation practices, there is destructive harvesting for various plant parts like stem/roots which leads to their depletion from the wild. In recent years, the growing demand for herbal products has also lead to a quantum jump in volume of plant material traded within and outside the country. Consequently, the danger is looming large with respect to threat to genetic stocks and to the diversity of medicinal plants. Conservation of Rare,Endangered & Threatened(RET) medicinal plants is absolutely essential. Hence the field Gene bank of RET medicinal plants has been established at College of Horticulture, Mudigere;  Main Address:; College of Horticulture Mudigere; Mudigere Taluk; Chikkamagalur District); Mudigere; Karnataka 577132 India; ;  Telephone: +919481620695; Fax: 08263-228152; URL: <a target="_blank" href="http://www.uahs.in">www.uahs.in; Primary Email: rrshetty2059@gmail.com ; 
+Plant Records Officer's Name:	Dr. Raviraja Shetty G
+Research Staff Number:	2
+Altitude:	970.00 Metres
+Annual Rainfall:	3500 mm
+Date founded:	2012
+Institution Type:	Other
+Landscaped Area:	No
+Latitude:	13.116183
+Local Address:	College of Horticulture, Mudigere Chikkamagalur(Districyt)-577132
+Locality:	Information
+Longitude:	75.632829
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	20000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	1200
+Cultivation Taxa Num:	40
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	The rare endangered and threatened (RET)species of medicinal plants of Western Ghats of India have been conserved in this Field Gene Bank
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

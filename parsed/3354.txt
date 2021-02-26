@@ -1,0 +1,10 @@
+ID:	3354
+Name:	Jardin Botanico, Escuela de Agronomia 
+Curator's Name:	
+Director's Name:	
+Info:	  Venezuela - Lara  ;Garden Information;  Institution Code: LARA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico, Escuela de Agronomia; Universidad Centro Occidental Lisandro Alvarado A.P. 400 Barquisimeto LARA; Lara; Venezuela; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	10.1255
+Longitude:	-69.8615

@@ -1,0 +1,26 @@
+ID:	3063
+Name:	Shing Mun Arboretum (Hong Kong) 
+Fax:	(852) 2376 3749
+Info:	  China - Hong Kong SAR  ;Garden Information;  Institution Code: SMHK; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	(852) 2150 6900
+Curator's Name:	
+Director's Name:	NK
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1977
+Institution Type:	Botanic Garden
+Latitude:	22.3964
+Local Address:	中国香港新界城门郊野公园
+Locality:	Information
+Longitude:	114.1094
+Natural Vegetation Area:	Yes
+Total Area:	1400 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Open to public:	Yes
+Accession Number:	7000
+Cultivation Taxa Num:	270
+Special Collections:	At the last count in 2000, this green sanctuary boasted more 7,000 trees belonging to over 270 species native to Hong Kong or Southern China. Among them are many rare and endangered species. Indeed, the arboretum plays a vital role in flora conservation.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes

@@ -1,0 +1,39 @@
+ID:	276
+Name:	University of Washington Botanic Gardens 
+Administration Staff Number:	2
+Curator's Name:	Ray Larson, Curator of Living Collections
+Director's Name:	Fred C.Hoyt, Interim Director
+Educational Staff Number:	3
+Horticultural Staff Number:	8
+Info:	  United States of America - Washington - Seattle  ;Garden Information;  Institution Code: WTU; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the University of Washington Botanic Gardens More than 320 acres of gardens and woodlands -- including one of the oldest arboretums this side of the Mississippi -- and one of the West Coast's largest horticulture centers and libraries collectively fit under the umbrella "University of Washington Botanic Gardens."; ; The botanic gardens include the Washington Park Arboretum, Center for Urban Horticulture, Elisabeth C. Miller Library, Otis Hyde Herbarium and Union Bay Natural Area, all of which retain their individual names. The UW owns and manages the plant collections in the Washington Park Arboretum and works cooperatively with the city and the nonprofit Arboretum Foundation there. ; ; The mission of the University of Washington Botanic Gardens is "sustaining managed to natural ecosystems and the human spirit through plant research, display and education." Conservation and research programs currently include the Rare Plant Care and Conservation Program -- a member of the national Center for Plant Conservation -- and restoration ecology where scientists are learning how to rehabilitate degraded ecosystems.; ; The University of Washington Botanic Gardens is a unit of the UW School of Environmental & Forest Science.;  Main Address:; University of Washington Botanic Gardens; 3501 NE 41st Street; Mailing: University of Washington, Box 358010; Seattle; Washington 98195-8010 United States of America; ;  Telephone: (206) 543-8616; Fax: (206) 685-2692; URL: <a target="_blank" href="http://www.uwbotanicgardens.org">www.uwbotanicgardens.org; Primary Email: uwbg@uw.edu ; 
+Plant Records Officer's Name:	Keith Ferguson, Plant Registrar
+Research Staff Number:	
+Altitude:	5.00 Metres
+Annual Rainfall:	952 mm
+Date founded:	1934
+Institution Type:	Botanic Garden
+Latitude:	47.6580460
+Longitude:	-122.2886900
+Natural Vegetation Area:	Yes
+Total Area:	130 Hectares
+Arboretum:	Yes
+Arboretum Size:	93
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	320000
+Number of Volunteers:	500
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	4310
+Special Collections:	Aceraceae, Caprifoliaceae, Ericaceae, Fagaceae, Hamamelidaceae, Leguminosae, Pinaceae, Rosaceae, Acer (68 spp., 270 taxa), Camellia (12 spp., 232 taxa), Ilex (34 spp., 163 taxa), Magnolia (32 spp., 107 taxa), Pinus (58 spp., 93 taxa), Prunus (55 spp., 113
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Land Restoration:	Yes
+Urban Environments:	Yes

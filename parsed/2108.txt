@@ -1,0 +1,10 @@
+ID:	2108
+Name:	Parque Zoobotanico Getulio Vargas 
+Curator's Name:	
+Director's Name:	.
+Info:	  Brazil - Salvador  ;Garden Information;  Institution Code: SALVZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parque Zoobotanico Getulio Vargas; Alto de Ondina s/no., 41910 Salvador - BA, Brazil, Zoo only not BG - FP 07/92; Salvador; Brazil; ;  Telephone: 071-2470052; Fax: ; URL: <a target="_blank" href="http://www.zoo.ba.gov.br/">http://www.zoo.ba.gov.br/; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-12.9703
+Longitude:	-38.5123

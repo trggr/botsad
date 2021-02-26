@@ -1,0 +1,12 @@
+ID:	3035
+Name:	Beijing Forestry University Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Beijing - Beijing  ;Garden Information;  Institution Code: BFUC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Beijing Forestry University Botanic Garden; Landscape Architecture Department, Forest Resources College, Beijing Forestry University, Beijing, 100083, China; Beijing; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	39.9055
+Local Address:	中国北京市北京林业大学森林资源与环境学院园林系，邮编 100083
+Locality:	Information
+Longitude:	116.3958

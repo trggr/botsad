@@ -1,0 +1,9 @@
+ID:	4577
+Name:	Los Angeles Zoo & Botanical Gardens 
+Curator's Name:	
+Director's Name:	John R. Lewis, Zoo Director
+Info:	  United States of America - California - Los Angeles  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Los Angeles Zoo & Botanical Gardens; 533 Zoo Drive; Los Angeles; California 90027 United States of America; ;  Telephone: (323) 644-4200; Fax: ; URL: <a target="_blank" href="http://www.lazoo.org/botanicalgardens/">www.lazoo.org/botanicalgardens/; Primary Email: info@lazoo.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	34.1550367
+Longitude:	-118.2957046

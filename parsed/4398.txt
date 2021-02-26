@@ -1,0 +1,10 @@
+ID:	4398
+Name:	Gyeongsangnam-do Arboretum 
+Curator's Name:	Young-Taek Kim
+Director's Name:	Hwang-Kyu Kim
+Info:	  South Korea - Gyeongsangnam-do - Jinju-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gyeongsangnam-do Arboretum; 482-1, Daecheon-ri, Ibanseeong-myeon; Jinju-si; Gyeongsangnam-do 660-871 South Korea; ;  Telephone: 055-771-6545; Fax: 055-771-6539; URL: <a target="_blank" href="http://hhtp://tree.gndo.kr">hhtp://tree.gndo.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	35.1675
+Longitude:	128.29268

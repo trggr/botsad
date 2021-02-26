@@ -1,0 +1,9 @@
+ID:	4744
+Name:	Northeastern Wisconsin Zoo 
+Curator's Name:	
+Director's Name:	Neil Anderson, Zoo Director
+Info:	  United States of America - Wisconsin - Green Bay   ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Northeastern Wisconsin Zoo; 4418 Reforestation Road; Green Bay ; Wisconsin 54313 United States of America; ;  Telephone: (920) 434-8597; Fax: ; URL: <a target="_blank" href="http://www.newzoo.org">www.newzoo.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	44.6608770
+Longitude:	-88.0877760

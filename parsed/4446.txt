@@ -1,0 +1,9 @@
+ID:	4446
+Name:	New Jersey State Botanical Garden 
+Curator's Name:	
+Director's Name:	Thomas Grissom, President
+Info:	  United States of America - New Jersey - Ringwood  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; New Jersey State Botanical Garden; P.O. Box 302; Ringwood; New Jersey 07456 United States of America; ;  Telephone: (973) 962-9534; Fax: ; URL: <a target="_blank" href="http://www.njbg.org">www.njbg.org; Primary Email: info@njbg.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	41.1311240
+Longitude:	-74.2583060

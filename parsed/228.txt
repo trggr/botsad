@@ -1,0 +1,33 @@
+ID:	228
+Name:	San Diego Zoo Botanical Gardens 
+Administration Staff Number:	
+Curator's Name:	Stephanie Shigematsu, Curator of Horticulture
+Director's Name:	Doug Myers, Zoo Director
+Educational Staff Number:	
+Horticultural Staff Number:	32
+Info:	  United States of America - California - San Diego  ;Garden Information;  Institution Code: SDZO; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; San Diego Zoo Botanical Gardens; 2920 Zoo Drive; P.O. Box 120551; San Diego; California 92112-0551 United States of America; ;  Telephone: (619) 231-1515/557-3906; Fax: (619) 685-3232; URL: <a target="_blank" href="http://www.sandiegozoo.org">www.sandiegozoo.org; Primary Email: sshigematsu@sandiegozoo.org ; 
+Plant Records Officer's Name:	Shari Buckhout
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1916
+Institution Type:	Zoological Institution
+Latitude:	32.7381587
+Longitude:	-117.1487305
+Total Area:	770 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	19817
+Aloe:	127 spp., 1025 specimens
+Bamboo:	22 genera, 91 species, 511 specimens
+Caudiciform:	22 families, 32 genera, 73 spp., 291 specimens
+Cultivation Taxa Num:	2971
+Erythrina:	50 spp., 223 specimens
+Ficus:	71 spp., 385 specimens
+Orchid:	172 genera, 719 spp., 2,332 specimens
+Palms:	77 genera, 250 spp., 1,881 specimens
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes

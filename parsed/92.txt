@@ -1,0 +1,12 @@
+ID:	92
+Name:	Botanischer Garten der Universitat Gottingen 
+Curator's Name:	Dipl. Ing. Kerstin Mausolf
+Director's Name:	Dr. Michael Schwerdtfeger
+Info:	  Germany - Deutschland - Gottingen  ;Garden Information;  Institution Code: GOET; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Universitat Gottingen; Untere Karspule 2; Gottingen; D-37073 Germany - Deutschland; ;  Telephone: 0551 395753; Fax: ; URL: <a target="_blank" href="http://www.gwdg.de/~rcallau/botgart.htm">www.gwdg.de/~rcallau/botgart.htm; Primary Email: mschwer@uni-goettingen.de ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1736
+Institution Type:	Botanic Garden
+Latitude:	51.5326
+Longitude:	9.9344
+Special Collections:	Bromeliaceae, (1,000 spp., including Tillandsia, 500 spp.), succulents, central European flora, Passifloraceae (100 spp.), Araceae (250 spp.),

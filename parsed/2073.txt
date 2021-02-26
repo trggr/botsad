@@ -1,0 +1,11 @@
+ID:	2073
+Name:	Patio Botanico Garden 
+Curator's Name:	Dr Domingo Madulid
+Director's Name:	
+Info:	  Philippines - Manila  ;Garden Information;  Institution Code: PNH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Patio Botanico Garden; National Museum of the Philippines,; Manila; Philippines; ;  Telephone: 63 2 476 887; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	Dr Domingo A. Madulid
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	14.6155
+Longitude:	120.9835
+Special Collections:	A small number of native plants grown in an area situated by the National Museum.

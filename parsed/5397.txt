@@ -1,0 +1,9 @@
+ID:	5397
+Name:	Belau National Museum 
+Curator's Name:	Marciana Telmetang, Collections Manager
+Director's Name:	Olympia E. Morei, Director/Curator
+Info:	  Palau - Koror  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Belau National Museum; P.O. Box 666; Koror; 96940 Palau; ;  Telephone: (680)488-2265; Fax: (680)488-2265; URL: <a target="_blank" href="http://belaunationalmuseum.net">belaunationalmuseum.net; Primary Email: bnm@palaunet.com ; 
+Plant Records Officer's Name:	Ann Kitalong, Herbarium Manager
+Institution Type:	Botanic Garden
+Latitude:	7.3367
+Longitude:	134.4761

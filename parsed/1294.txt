@@ -1,0 +1,10 @@
+ID:	1294
+Name:	Jardin Botanico de Santa Lucia 
+Curator's Name:	
+Director's Name:	Dr. H. Zambrano Camader
+Info:	  Colombia - Pasto  ;Garden Information;  Institution Code: PASTO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Santa Lucia; CORPONARINO, Calle 18 # 19-64, PASTO, Colombia.; Pasto; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	1.2119
+Longitude:	-77.2704

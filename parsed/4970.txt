@@ -1,0 +1,16 @@
+ID:	4970
+Name:	Troy University Arboretum 
+Curator's Name:	
+Director's Name:	Dr. Alvin R. Diamond, Jr., Director
+Info:	  United States of America - Alabama - Troy  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Troy University Arboretum The mission of the Troy University Arboretum is to acquire representative species of the flora of Southeast Alabama and to display them in situations that mimic the natural conditions under which the species would occur. In particular, the Arboretum is interested in research on rare and uncommon species and communities. The Arboretum works to preserve representative members, communities and habitats of the Wiregrass region of Southeast Alabama on its 75-acre's adjacent to Troy University's main campus and on its 18 acre Pocosin Nature Preserve located approximately 6 miles due east of the main campus.; ; The Arboretum seeks to further the educational opportunities available to the University and the surrounding area. As such, the Arboretum serves as a living laboratory for ecology, field botany, field vertebrate zoology, environmental science, entomology, and other classes, introducing students to the variety and diversity of the Wiregrass region of Alabama.; ; The Arboretum also serves as a readily accessible area to the University and the city of Troy for such activities as picnics, bird watching and the simple enjoyment of nature. The Arboretum is open to the public from sunrise until sunset seven days a week.;  Main Address:; Troy University Arboretum; Troy University - Dept. of Biol. and Envir. Sciences; Mailing: 210K McCall Hall (MSCX); Troy; Alabama 36082 United States of America; ;  Telephone: (334) 670-3938; Fax: ; URL: <a target="_blank" href="http://trojan.troy.edu/artsandsciences/biologicalsciences/arboretum.html">http://trojan.troy.edu/artsandsciences/biologicalsciences/arboretum.html; Primary Email: adiamond@troy.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	31.793708
+Longitude:	-85.957947
+Total Area:	30 Hectares
+Arboretum:	Yes
+Arboretum Size:	30
+Herbarium:	Yes
+Open to public:	Yes
+Cultivation Taxa Num:	300

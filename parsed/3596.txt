@@ -1,0 +1,28 @@
+ID:	3596
+Name:	Botanova 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Katarina Stenman
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  Sweden - Umeå  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Botanova Small (former botanic garden) collection in transit to new facilities. Not open to the public currently but will be in teh future.;  Main Address:; Botanova; Tallvagen 47; Växthuset, Umeå University; Umeå; 90738 Sweden; ;  Telephone: +4690178811; Fax: +4690178811; URL: <a target="_blank" href="http://">; Primary Email: Katarina.Stenman@emg.umu.se ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1970
+Institution Type:	Other
+Landscaped Area:	No
+Latitude:	63.8287
+Longitude:	20.2581
+Natural Vegetation Area:	No
+Total area of glasshouses:	300 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	2400
+Cultivation Taxa Num:	2200

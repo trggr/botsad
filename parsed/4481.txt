@@ -1,0 +1,9 @@
+ID:	4481
+Name:	Chatham University Arboretum 
+Curator's Name:	
+Director's Name:	Lisa Kunst Vavro, RLA, ASLA, Director of Arboretum
+Info:	  United States of America - Pennsylvania - Pittsburgh  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Chatham University Arboretum; Woodland Road; Pittsburgh; Pennsylvania 15232 United States of America; ;  Telephone: (412) 365-1882; Fax: (412) 365-1505; URL: <a target="_blank" href="http://www.chatham.edu/about/arboretum.cfm">www.chatham.edu/about/arboretum.cfm; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	40.4512758
+Longitude:	-79.9254910

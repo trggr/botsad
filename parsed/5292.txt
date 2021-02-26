@@ -1,0 +1,71 @@
+ID:	5292
+Name:	Heronswood Garden 
+Administration Staff Number:	5
+Curator's Name:	Ross Bayton
+Director's Name:	Daniel J. Hinkley
+Educational Staff Number:	2
+Horticultural Staff Number:	4
+Info:	  United States of America - Washington - Kingston  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Heronswood Garden; 7530 NE 288th Street; Mailing: 31912 Little Boston Road NE; Kingston; Washington 98346 United States of America; ;  Telephone: (360) 297-9620; Fax: ; URL: <a target="_blank" href="http://www.heronswoodgarden.org">www.heronswoodgarden.org; Primary Email: ; 
+Plant Records Officer's Name:	Ross Bayton
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1987
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	47.821046
+Longitude:	-122.548872
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Landscaping around the Port Gamble S'Klallam tribal center in Little Boston has been planted by Heronswood. We also have a close connection and share plants widely with our Director's private garden, Windcliff, in Indianola, WA.
+Total Area:	6 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Our primary goal is to maintain wild-collected material gathered by our Director on his travels (primarily China, Taiwan and Vietnam, though also Chile, South Africa, New Zealand, Australia and Europe). Groups of interest include Hydrangeaceae, Lardizabalaceae, Magnoliaceae, Berberidaceae, Ranunculaceae and woodland lilies.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

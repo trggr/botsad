@@ -1,0 +1,9 @@
+ID:	5608
+Name:	Jardín Botánico Ishpingo 
+Curator's Name:	David Neill
+Director's Name:	Iván Morillo
+Info:	  Ecuador - Napo - Tena  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Ishpingo; Vía Puerto Napo-Ahuano Km. 22; Tena; Napo Ecuador; ;  Telephone: 593 (02) 2432240; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: direjecutiva@jatunsacha.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-1.066
+Longitude:	-77.6283

@@ -1,0 +1,9 @@
+ID:	5613
+Name:	Jardín Botánico El Padmi 
+Curator's Name:	
+Director's Name:	Zhofre Aguirre Mendoza
+Info:	  Ecuador - Provincia de Zamora Chinchipe - Cantón Yantzaza  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico El Padmi; Parroquia Los Encuentros; Cantón Yantzaza; Provincia de Zamora Chinchipe Ecuador; ;  Telephone: 593 (07) 3035041; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: herbario@unl.edu.ec ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-3.72708
+Longitude:	-78.6083

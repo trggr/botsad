@@ -1,0 +1,66 @@
+ID:	2087
+Name:	Real Jardín Botánico Juan Carlos I 
+Administration Staff Number:	4
+Curator's Name:	Beatriz González Domínguez
+Director's Name:	Rosendo Elvira Palacio
+Educational Staff Number:	2
+Horticultural Staff Number:	23
+Info:	  Spain - Madrid - Alcalá de Henares  ;Garden Information;  Institution Code: ALCA; International Agenda Registration: Yes; BGCI Member: Yes; About the Real Jardín Botánico Juan Carlos I The Juan Carlos I Royal Botanic Gardens is a Botanical Garden dedicated to research, conservation and divulgation of flora and environment and belonge to the University of Alcalá. It began in 1991 on an area of 26 hectares in the external campus of the University. The flora is represented in the following exhibition areas: World Flora, Iberian Flora, Regional Flora and Special Collections. Parallel has worked hard on bringing all spaces and collections from the beginning to optimize their didactic use. It is an experimental and educational resource for the university community.;  Main Address:; Real Jardín Botánico Juan Carlos I; Campus de la Universidad de Alcala; Alcalá de Henares; Madrid E -28805 Spain; ;  Telephone: 34 91 885 64 06; Fax: 34 91 885 49 93; URL: <a target="_blank" href="http://www.botanicoalcala.es">www.botanicoalcala.es; Primary Email: jardin.botanico@uah.es ; 
+Plant Records Officer's Name:	
+Research Staff Number:	4
+Altitude:	595.00 Metres
+Annual Rainfall:	418 mm
+Date founded:	1991
+Institution Type:	Botanic Garden
+Latitude:	40.504167
+Local Address:	Campus de la Universidad de Alcalá 28805 ALCALÁ DE HENARES (Madrid)Spain
+Locality:	Information
+Longitude:	-3.342071
+Satellite Garden Names:	Real Jardin Botanico Juan Carlos I, Alcalá de Henares
+Total Area:	26 Hectares
+Total area of glasshouses:	1500 Metres
+Total area of shadehouses:	810 Metres
+Arboretum:	Yes
+Arboretum Size:	7
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	6000
+Number of Volunteers:	4
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	35000
+Cultivation Taxa Num:	7500
+Plant Collection Policy:	Yes
+RESEARCH AND TESTING AREAS:	Including an experimental area, close to the garden, of 30 Ha forested with native vegetation.
+Special Collections:	TAXONOMICAL GARDEN (1400 species cultivated to the open air from the five continents), IBERIAN ARBORETUM (170 species of trees and shrubs from the Iberian Peninsula), ARBORETUM OF CONIFERS (280 species of trees and shrubs of this group, including cycads), ARBORETUM OF EXOTIC PLANTS (560 trees and shrubs exotic and ornamental), ROSE GARDEN (550 some are species and most of the rest are hybrid of tea), CRASSULETUM (3400 cactus and succulent plants cultivated in hothouse),TROPICARIUM (750 species of tropical plants cultivated in greenhouse, among those are 250 types of orchids), REGIONAL FLORA (800 species of the flora from Madrid and Guadalajara), ECOLOGIC VEGETABLE GARDEN (200 varieties of permanent and seasonal cultures).
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,10 @@
+ID:	1102
+Name:	Pinetum "De Horstlanden" 
+Curator's Name:	
+Director's Name:	-
+Info:	  Netherlands - Enschede  ;Garden Information;  Institution Code: DHORS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Pinetum "De Horstlanden"; Technische Hogeschool Twente, Postbus 217, 7500 AE ENSCHEDE, The Netherlands.; Enschede; Netherlands; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	53.2654
+Longitude:	7.0269

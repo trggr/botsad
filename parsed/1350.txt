@@ -1,0 +1,12 @@
+ID:	1350
+Name:	Botanical Garden of Dalian 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  China - Liaoning - Dalian  ;Garden Information;  Institution Code: DALOR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of Dalian; No.39 Wanghai Street; Zhongshan District; Dalian; Liaoning 116001 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	38.9194
+Local Address:	中国辽宁省大连市中山区望海街39号，邮编 116001
+Locality:	Information
+Longitude:	121.6416

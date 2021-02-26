@@ -1,0 +1,11 @@
+ID:	5071
+Name:	Jardin botanique de Paris - Seed Bank 
+Curator's Name:	
+Director's Name:	Laurent Bray
+Info:	  France - Paris  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin botanique de Paris - Seed Bank; 103 avenue de France; Paris; 75639 Paris Cedex 13 France; ;  Telephone: + 33 01 71 28 53 36; Fax: + 33 01 71 28 53 52; URL: <a target="_blank" href="http://www.paris.fr/pratique/Portal.lut?page_id=8354">http://www.paris.fr/pratique/Portal.lut?page_id=8354; Primary Email: jardin.botanique@paris.fr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	48.8551
+Longitude:	2.2577
+Seed Bank:	Yes

@@ -1,0 +1,41 @@
+ID:	2007
+Name:	Geelong Botanic Gardens 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Ms Annette Zealley
+Educational Staff Number:	
+Horticultural Staff Number:	10
+Info:	  Australia - VIC - Geelong  ;Garden Information;  Institution Code: GEELG; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Geelong Botanic Gardens; City of Greater Geelong, PO Box 104, GEELONG, VIC 3220, Australia.; Geelong; VIC 3220 Australia; ;  Telephone: 61 (0)3 5272 4379; Fax: 61 (0)3 5272 4555; URL: <a target="_blank" href="http://www.geelongaustralia.com.au">http://www.geelongaustralia.com.au; Primary Email: botanic@geelongcity.vic.gov.au ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-38.1490426
+Longitude:	144.3768389
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	50000
+Number of Volunteers:	50
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	10 % of collection if Australian flora. Pelargonium cultivars and species, Agapanthus
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

@@ -1,0 +1,11 @@
+ID:	367
+Name:	Botanisk Have 
+Curator's Name:	
+Director's Name:	Prof. Ole Seberg
+Info:	  Denmark - Aarhus  ;Garden Information;  Institution Code: AARBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanisk Have; Park-og Kirkegardsforvaltningen, Toldbodgade 5,; DK-8000 AARHUS, Denmark.; Aarhus; Denmark; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	Peter Krogstrup
+Altitude:	0.00 Metres
+Date founded:	1943
+Institution Type:	Botanic Garden
+Latitude:	56.1581
+Longitude:	10.2120

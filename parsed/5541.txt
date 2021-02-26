@@ -1,0 +1,9 @@
+ID:	5541
+Name:	Jardín Botánico La Paz 
+Curator's Name:	
+Director's Name:	Esther Valenzuela Celis
+Info:	  Bolivia - La Paz - La Paz  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico La Paz; Instituto de Ecologia, Universidad Mayor de San Andres,; Campus Universitario, Calle 27 de Cota Cota. Casilla 10077, Correo Central,; La Paz; La Paz Casilla 10077 Bolivia; ;  Telephone: 591-70625189; Fax: 591 2 797511; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-16.499
+Longitude:	-68.1462

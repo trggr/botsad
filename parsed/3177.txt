@@ -1,0 +1,28 @@
+ID:	3177
+Name:	Olds College Botanic Garden 
+Curator's Name:	
+Director's Name:	Wendy Daley, Garden Supervisor
+Info:	  Canada - Alberta - Olds  ;Garden Information;  Institution Code: OLDS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Olds College Botanic Garden; 4500 50th Street; Olds; Alberta T4H 1R6 Canada; ;  Telephone: (403) 507-7926; Fax: (403) 556-4713; URL: <a target="_blank" href="http://www.oldscollege.ca/botanicgarden">www.oldscollege.ca/botanicgarden; Primary Email: info@oldscollege.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	51.79194
+Longitude:	-114.09381
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Arboretum Size:	12
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Accession Number:	1500
+Special Collections:	No information available.
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Ecology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Urban Environments:	Yes

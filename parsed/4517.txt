@@ -1,0 +1,12 @@
+ID:	4517
+Name:	University of Washington Botanic Gardens - Miller Seed Vault 
+Curator's Name:	Wendy Gibble, Associate Director
+Director's Name:	Fred C.Hoyt, Interim Director
+Info:	  United States of America - Washington - Seattle  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; University of Washington Botanic Gardens - Miller Seed Vault; University of Washington, 3501 NE 41st Street; Box 358010; Seattle; Washington 98195-8010 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://botanicgardens.uw.edu/science-conservation/rarecare/seedbank/">https://botanicgardens.uw.edu/science-conservation/rarecare/seedbank/; Primary Email: rarecare@uw.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2003
+Institution Type:	Gene/Seed Bank
+Latitude:	47.6580460
+Longitude:	-122.2886900
+Seed Bank:	Yes

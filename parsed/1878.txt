@@ -1,0 +1,39 @@
+ID:	1878
+Name:	Arboretum des Grands-Murcins 
+Address:	Les Grands-Murcins, 42370 ARCON.
+Fax:	
+Founded:	1936-37
+Garden Name:	Arboretum des Grands-Murcins
+Herbarium:	No
+Info:	  France - Arcon  ;Garden Information;  Institution Code: AGM; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Status:	Municipal (Community of Municipalities) & Associative
+Telephone:	++33 4 77 64 40 51
+Curator's Name:	Paul CORNIER
+Director's Name:	Claude DEVAUX
+Plant Records Officer's Name:	Bruno CORNIER
+Altitude:	775.00 Metres
+Annual Rainfall:	900 mm
+Date founded:	1936
+Institution Type:	Botanic Garden
+Latitude:	46.0260
+Local Address:	Les Grands-Murcins 42370 Arcon
+Locality:	Information
+Longitude:	3.8931
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Arboretum Size:	3
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	200
+Special Collections:	Native and exotic forestry trees (40 spp.), trees of the Mediterranean region, Betula, Larix hybrids, Pinus, Quercus, Sorbus (24 spp).
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for School Children:	Yes
+Guided Tours:	Yes

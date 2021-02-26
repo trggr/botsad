@@ -1,0 +1,38 @@
+ID:	1482
+Name:	Caledon Wildflower Garden 
+Curator's Name:	
+Director's Name:	Adriaan Hanekom
+Info:	  South Africa - Western Cape - Caledon  ;Garden Information;  Institution Code: CALWG; International Agenda Registration: No; BGCI Member: No; About the Caledon Wildflower Garden The Caledon Wildflower Garden is currently managed by the Caledon Wildflower Society in partnership with the local municipality.;  Main Address:; Caledon Wildflower Garden; P.O.Box 24, CALEDON 7230, South Africa.; Caledon; Western Cape 7230 South Africa; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.caledonwildflowers.co.za/">http://www.caledonwildflowers.co.za/; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1927
+Institution Type:	Botanic Garden
+Latitude:	-34.225442
+Local Address:	
+Locality:	Information
+Longitude:	19.42843
+Arboretum:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

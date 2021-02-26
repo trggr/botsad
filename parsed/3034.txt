@@ -1,0 +1,12 @@
+ID:	3034
+Name:	Beijing Teaching Botanical Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Beijing - Chongwen  ;Garden Information;  Institution Code: BTLB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Beijing Teaching Botanical Garden; Education Bureau of Beijing, No. 3 Baiguoyuan, Longtanhu, Chongwen District, Beijing, 100061, China; Chongwen; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	39.9055
+Local Address:	中国北京市崇文区龙潭湖百果园3号北京市教育局，邮编 100061
+Locality:	Information
+Longitude:	116.3958

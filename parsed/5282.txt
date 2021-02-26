@@ -1,0 +1,76 @@
+ID:	5282
+Name:	Mary M.B. Wakefield Estate & Arboretum 
+Administration Staff Number:	1
+Curator's Name:	Debbie Merriam
+Director's Name:	Mark Smith
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Info:	  United States of America - Massachusetts - Milton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Mary M.B. Wakefield Estate & Arboretum The Wakefield Estate & Arboretum was home to ten consecutive generations of the same family, beginning with John Davenport in 1706 and continuing through Mary “Polly” Wakefield, who died in 2004. Before her death, Polly created the Mary M. B. Wakefield Charitable Trust to preserve and restore the buildings and gardens that she and her predecessors built.; ; Polly Wakefield trained as a landscape architect and plant propagator. She developed her plant collection over a 50-year period, working closely with the Arnold Arboretum of Harvard University where she studied propagation techniques. She developed her own collection from seeds and cuttings from trees of the Arnold Arboretum. Polly loved the Kousa dogwood and patented 8 cultivars that are cold hardy and have lovely fruit and flower displays. The Wakefield collection consists of more than 500 species and cultivars of woody plants. Plant material includes many Cornus, Acer, Magnolias and a large collection of conifers.;  Main Address:; Mary M.B. Wakefield Estate & Arboretum; 1465 Brush Hill Road; Milton; Massachusetts 02186 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://wakefieldtrust.org/">http://wakefieldtrust.org/; Primary Email: dmerriam@comcast.net ; 
+Plant Records Officer's Name:	Debbie Merriam
+Research Staff Number:	
+Altitude:	40.00 Metres
+Annual Rainfall:	1346 mm
+Date founded:	2004
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.224148
+Local Address:	1465 Brush Hill Road
+Locality:	Information
+Longitude:	-71.119977
+Natural Vegetation Area:	Yes
+Total Area:	15 Hectares
+Arboretum:	Yes
+Arboretum Size:	14
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	5000
+Number of Volunteers:	28
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	600
+Cultivation Taxa Num:	30
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

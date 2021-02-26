@@ -1,0 +1,28 @@
+ID:	2223
+Name:	St. Kilda Botanic Garden 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Unknown
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Australia - Victoria - St. Kilda  ;Garden Information;  Institution Code: STKIL; International Agenda Registration: Yes; BGCI Member: No; About the St. Kilda Botanic Garden A number of tree's located in the St Kilda Botanic Gardens have been added to the National Trust Register of Significant Trees.;  Main Address:; St. Kilda Botanic Garden; Crn of Blessington St&Tennyson St , ST. KILDA, VIC 3182, Australia; Private Bag No3 PO St Kilda 3182; St. Kilda; Victoria 3182 Australia; ;  Telephone: 61 (0)3 9209 6725; Fax: 61 (0)3 92096311; URL: <a target="_blank" href="http://www.portphillip.vic.gov.au">www.portphillip.vic.gov.au; Primary Email: jbaker@portphillip.vic.gov.au ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	600 mm
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-37.870437
+Longitude:	144.983898
+Natural Vegetation Area:	Yes
+Total Area:	6 Hectares
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Number of Volunteers:	103
+Open to public:	Yes
+Cultivation Taxa Num:	960
+Special Collections:	10 % of collection is Australian flora.
+Horticulture:	Yes
+Education Signs in Garden:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,9 @@
+ID:	4213
+Name:	Botanische Tuin Westmaas 
+Curator's Name:	
+Director's Name:	
+Info:	  Netherlands - Westmaas  ;Garden Information;  Institution Code: BTWW; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanische Tuin Westmaas; Westmaas; Netherlands; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	51.7882
+Longitude:	4.4730

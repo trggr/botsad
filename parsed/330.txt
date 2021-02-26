@@ -1,0 +1,11 @@
+ID:	330
+Name:	Jardin Botanico "Carl Skottsberg" 
+Curator's Name:	
+Director's Name:	Edmundo Pisano V.
+Info:	  Chile - Punta Arenas  ;Garden Information;  Institution Code: HIP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico "Carl Skottsberg"; Instituto de la Patagonia,; Casilla 102-D; Punta Arenas; Chile; ;  Telephone: (061) 223 039; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	-53.1479
+Longitude:	-70.9303
+Special Collections:	A phyteogeographic Garden of the Magellanic plant associations.

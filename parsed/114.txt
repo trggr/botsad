@@ -1,0 +1,66 @@
+ID:	114
+Name:	Royal Botanic Gardens, Kew 
+-" src="https:	//www.bgci.org/files/ERABG/project_images/Royal%20Botanic%20Gardens%20Kew/peru_huarango_deforestation.jpg" alt="" width="500" height="332" />
+-<img style="display:	block
+-<p style="text-align:	center
+-margin-left:	auto
+-margin-right:	auto
+Fax:	0208 332 5197
+Info:	  United Kingdom - Surrey - Richmond  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: K; International Agenda Registration: Yes; BGCI Member: Yes; 
+Kew is a world-leading public organisation governed by Trustees and sponsored by Defra:	our funding comes mainly from Defra, visitor income and fundraising from individuals and organisations.
+Primary Email:	info@kew.org
+Telephone:	0208 332 5000
+When the totals held at Kew's satellite garden, at Wakehurst Place, are added, the totals rise to the following:	Genera - 4,875, Species - 13,808, Taxa - 33,748, Accessions - 72,254 and Plants - 148,008.
+Administration Staff Number:	
+Curator's Name:	Tony Kirkham, Head of Arboretum, Gardens and Horticultural Services
+Director's Name:	Richard Deverell, Director
+Educational Staff Number:	
+Horticultural Staff Number:	200
+Plant Records Officer's Name:	
+Research Staff Number:	200
+Altitude:	0.00 Metres
+Annual Rainfall:	659 mm
+Date founded:	1759
+Institution Type:	Botanic Garden
+Latitude:	51.478845
+Longitude:	-0.296843
+Satellite Garden Names:	Wakehurst Place Millenium Seed Bank
+Total Area:	130 Hectares
+Total area of glasshouses:	3000 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	1000000
+Number of Volunteers:	485
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	108663
+Cultivation Taxa Num:	20000
+Invasive Species Monitoring:	Yes
+Special Collections:	Alliaceae, Aloaceae, Amaryllidaceae, Araceae, Bromeliaceae, Cactaceae, Compositae, Cycadaceae, Ericaceae, Gramineae, Iridaceae, Labiatae, Leguminosae, Liliaceae, Oleaceae, Orchidaceae, Palmae, Pinaceae, Saxifragaceae, Scrophulariaceae, Ranunculaceae, Rosaceae, Filices. Extensive collections of herbaceous, alpine, insectivorous, economic and succulent plants from most parts of the world.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Restoration Ecology:	Yes
+Courses for General Public:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,11 @@
+ID:	4513
+Name:	Jardin Etnobotanico - Francisco Pelaez R. - Banco de Semillas 
+Curator's Name:	Estela Hernandez
+Director's Name:	Eloina Pelaez
+Info:	  Mexico - Puebla - San Andres Cholula  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Etnobotanico - Francisco Pelaez R. - Banco de Semillas; 2 sur No.1700; San Andres Cholula; Puebla 72810 Mexico; ;  Telephone: (52 222) 2610350; Fax: (52 222) 2496146; URL: <a target="_blank" href="http://www.jardinetnobotanico.org">www.jardinetnobotanico.org; Primary Email: jardinetnobotanico@gmail.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	19.0456
+Longitude:	-98.3091
+Seed Bank:	Yes

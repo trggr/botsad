@@ -1,0 +1,10 @@
+ID:	775
+Name:	Jardin Botanico de la Universidad Central 
+Curator's Name:	
+Director's Name:	
+Info:	  Venezuela - Caracas  ;Garden Information;  Institution Code: CARAC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de la Universidad Central; CARACAS, Venezuela.; Caracas; Venezuela; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	10.4960
+Longitude:	-66.8982

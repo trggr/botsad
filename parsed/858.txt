@@ -1,0 +1,11 @@
+ID:	858
+Name:	Jardin Botanico "Alejandro von Humboldt" 
+Curator's Name:	
+Director's Name:	I.A.Raul Echeverry
+Info:	  Colombia - Ibague  ;Garden Information;  Institution Code: HUMBO; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin Botanico "Alejandro von Humboldt"; Universidad de Tolima,Apto Aereo 546,IBAGUE, Colombia.; Ibague; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1968
+Institution Type:	Botanic Garden
+Latitude:	4.4364
+Longitude:	-75.1916
+Special Collections:	Acanthaceae, Amarantaceae, Amaryllidaceae, Anacardiaceae, Annonaceae, Apocinaceae, Araceae, Araliaceae, Bignoniaceae, Bombacaceae, Bromeliaceae, Cactaceae, Caesalpiniaceae, Cyperaceae, Compositae, Convolvulaceae, Crassulaceae, Cucurbitaceae, Eleocarpaceae

@@ -1,0 +1,10 @@
+ID:	4706
+Name:	Columbus Zoo & Aquarium 
+Curator's Name:	Ann Lokai-Owens, Horticulturist
+Director's Name:	Unknown
+Info:	  United States of America - Ohio - Powell  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Columbus Zoo & Aquarium; P.O. Box 400; Powell; Ohio 43065 United States of America; ;  Telephone: (614) 645-3465; Fax: ; URL: <a target="_blank" href="http://www.columbuszoo.org">www.columbuszoo.org; Primary Email: info@columbuszoo.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	40.1561900
+Longitude:	-83.1177100

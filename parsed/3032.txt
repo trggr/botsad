@@ -1,0 +1,14 @@
+ID:	3032
+Name:	Beijing (northern) Botanical Garden 
+Curator's Name:	
+Director's Name:	Mr Tiecheng Li
+Info:	  China - Beijing - Xiangshan  ;Garden Information;  Institution Code: BNX; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Beijing (northern) Botanical Garden; Parks and Landscape Bureau of Beijing, Wofosi Road, Western Suburb, Beijing, 100093, China; Xiangshan; Beijing China; ;  Telephone: (8610)62591283; Fax: (8610)62591283; URL: <a target="_blank" href="http://www.beijingbg.com">www.beijingbg.com; Primary Email: information@beijingbg.com ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	39.6333
+Local Address:	中国北京市香山卧佛寺路，邮编 100093
+Locality:	Information
+Longitude:	118.1666
+Number of Visitors:	4000000
+Open to public:	Yes

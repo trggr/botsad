@@ -1,0 +1,31 @@
+ID:	1334
+Name:	Reeves-Reed Arboretum 
+Administration Staff Number:	
+Curator's Name:	Julieanne Frascinella, Lead Horticulturist
+Director's Name:	Frank Juliano, Executive Director
+Educational Staff Number:	2
+Horticultural Staff Number:	2
+Info:	  United States of America - New Jersey - Summit  ;Garden Information;  Institution Code: RRARB; International Agenda Registration: No; BGCI Member: No; About the Reeves-Reed Arboretum Mission Statement ; ; The Reeves-Reed Arboretum is a suburban conservancy dedicated to environmental and horticultural education for children and adults and to the enjoyment of nature through the professional care and preservation of a historic country estate.;  Main Address:; Reeves-Reed Arboretum; 165 Hobart Avenue; Summit; New Jersey 07901 United States of America; ;  Telephone: (908) 273-8787; Fax: (908) 273-6869; URL: <a target="_blank" href="http://www.reeves-reedarboretum.org">www.reeves-reedarboretum.org; Primary Email: j.frascinella@reeves-reedarboretum.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1974
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.7257000
+Longitude:	-74.3484000
+Natural Vegetation Area:	Yes
+Total Area:	5 Hectares
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Some native flora, herbs, roses.
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

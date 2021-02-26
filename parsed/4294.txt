@@ -1,0 +1,13 @@
+ID:	4294
+Name:	Miami Beach Botanical Garden 
+Curator's Name:	
+Director's Name:	Sandy Shapiro, Executive Director
+Info:	  United States of America - Florida - Miami Beach  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Miami Beach Botanical Garden The mission of the Miami Beach Botanical Garden is to provide free public access to an attractive botanical garden, create environmental education programs for children and adults, preserve green space, and promote green living. We serve as a venue for visual and performing arts, and act as a cultural tourist destination.;  Main Address:; Miami Beach Botanical Garden; 2000 Convention Center Drive; Miami Beach; Florida 33139 United States of America; ;  Telephone: (305) 673-7256; Fax: ; URL: <a target="_blank" href="http://www.mbgarden.org">www.mbgarden.org; Primary Email: sshapiro@mbgarden.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	25.7958100
+Longitude:	-80.1359670
+Total Area:	2 Hectares
+Open to public:	Yes
+Reintroduction Programme:	No

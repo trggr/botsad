@@ -1,0 +1,11 @@
+ID:	5128
+Name:	Orto Botanico - Università degli Studi di Catania- Seed Bank 
+Curator's Name:	
+Director's Name:	Pietro Pavone
+Info:	  Italy - Sicily - Catania  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico - Università degli Studi di Catania- Seed Bank; Via Antonino Longo 19; Catania; Sicily 95125 Italy; ;  Telephone: 39 (0)95 430901; Fax: 39 (0)95 441209; URL: <a target="_blank" href="http://www.dipbot.unict.it">www.dipbot.unict.it; Primary Email: orto.scuola@yahoo.it ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	37.5279
+Longitude:	15.0798
+Seed Bank:	Yes

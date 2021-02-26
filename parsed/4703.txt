@@ -1,0 +1,10 @@
+ID:	4703
+Name:	Cleveland Metroparks Zoo 
+Curator's Name:	Zoo Manager of Horticulture
+Director's Name:	Ann Kaminsky, Administrative Assistant
+Info:	  United States of America - Ohio - Cleveland  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cleveland Metroparks Zoo; 3900 Wildlife Way; Cleveland; Ohio 44109 United States of America; ;  Telephone: (216) 635-3345; Fax: ; URL: <a target="_blank" href="http://www.clemetzoo.com">www.clemetzoo.com; Primary Email: zooinfo@clevelandmetroparks.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	41.4455212
+Longitude:	-81.7079440

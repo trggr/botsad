@@ -1,0 +1,16 @@
+ID:	5090
+Name:	Arboretum Leśne im. prof. S. Białoboka w Nadleśnictwie Sycow 
+Fax:	
+Info:	  Poland - dolnośląskie - Dziadowa Kłoda  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	arboretum@poznan.lasy.gov.pl
+Telephone:	+48 62 785 1325
+Administration Staff Number:	2
+Curator's Name:	Jaroslaw Sęktas
+Director's Name:	Stanisław Sęktas
+Educational Staff Number:	1
+Horticultural Staff Number:	15
+Plant Records Officer's Name:	Martyna Kuźniak
+Research Staff Number:	2
+Institution Type:	Botanic Garden
+Latitude:	51.22
+Longitude:	17.72

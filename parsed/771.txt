@@ -1,0 +1,23 @@
+ID:	771
+Name:	Shaw Nature Reserve of the Missouri Botanical Garden 
+Curator's Name:	William Davit, Board Member
+Director's Name:	Dr. Quinn Long, Director
+Info:	  United States of America - Missouri - Gray Summit  ;Garden Information;  Institution Code: MO; International Agenda Registration: No; BGCI Member: Yes; About the Shaw Nature Reserve of the Missouri Botanical Garden Shaw Nature Reserve of the Missouri Botanical Garden has over 2,400 acres of Ozark-border landscape with 1.5 miles of Meramec River frontage (both banks) and an extraordinary diversity of native plant and animal habitats. Located 35 miles southwest of St. Louis at Gray Summit, Missouri, it strives to inspire responsible stewardship of our environment through education, protection and restoration of natural habitats, and public enjoyment of the natural world. SNR works closely with the Missouri Department of Conservation to promote native plants and encourage their use in sustainable and environmentally friendly gardens and landscapes.;  Main Address:; Shaw Nature Reserve of the Missouri Botanical Garden; Highway 100 and I-44; P.O. Box 38; Gray Summit; Missouri 63039 United States of America; ;  Telephone: (636) 451-3512; Fax: ; URL: <a target="_blank" href="http://www.shawnature.org">www.shawnature.org; Primary Email: helen.mccallie@mobot.org ; 
+Plant Records Officer's Name:	Rebecca Sucher, Plant Records Manager, MBG
+Altitude:	0.00 Metres
+Date founded:	1925
+Institution Type:	Botanic Garden
+Latitude:	38.4818900
+Longitude:	-90.8240600
+Natural Vegetation Area:	Yes
+Total Area:	974 Hectares
+Arboretum:	Yes
+Arboretum Size:	971
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	62000
+Open to public:	Yes
+Special Collections:	Pinetum and native flora, prairie establishment.
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Visitor/Education Centre:	Yes

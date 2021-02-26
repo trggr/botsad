@@ -1,0 +1,11 @@
+ID:	423
+Name:	Botanischer Garten der Stadt 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Altenburg  ;Garden Information;  Institution Code: ALTBS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Stadt; Heinrich-Zille-Strasse 12,; Altenburg; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	50.9921
+Longitude:	12.4443
+Special Collections:	Erica (150 taxa), roses (150 taxa)

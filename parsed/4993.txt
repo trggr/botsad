@@ -1,0 +1,22 @@
+ID:	4993
+Name:	Genbank Bayern Arche 
+Fax:	
+Info:	  Germany - Deutschland - Regensburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	Genbank@uni-regensburg.de
+Telephone:	0941 - 943 - 3137
+Curator's Name:	Martin Leipold
+Director's Name:	Prof. Dr. Peter Poschlod
+Plant Records Officer's Name:	
+Altitude:	350.00 Metres
+Annual Rainfall:	650 mm
+Date founded:	2009
+Institution Type:	Gene/Seed Bank
+Latitude:	48.993686
+Longitude:	12.092975
+Seed Bank:	Yes
+Plant Collection Policy:	Yes
+Ex Situ Conservation Programme:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Molecular Genetics:	Yes
+Seed/Spore Biology:	Yes

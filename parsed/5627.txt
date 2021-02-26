@@ -1,0 +1,33 @@
+ID:	5627
+Name:	The Sky Ranch Lodge Botanical Gardens 
+Fax:	928-282-7382
+Info:	  United States of America - AZ - Sedona  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
+Primary Email:	DSmith@skyranchlodge.com
+Telephone:	928-282-6400
+Administration Staff Number:	
+Curator's Name:	Gary Graham
+Director's Name:	Daniel Smith
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Anna-Marie Tribble
+Research Staff Number:	
+Altitude:	1472.00 Metres
+Annual Rainfall:	584 mm
+Date founded:	1982
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.86
+Local Address:	1105 Airport rd
+Locality:	Information
+Longitude:	111.76
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Education Signs in Garden:	Yes
+Permanent Public Displays:	Yes
+Visitor/Education Centre:	Yes

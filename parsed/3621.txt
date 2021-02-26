@@ -1,0 +1,69 @@
+ID:	3621
+Name:	Dutch Open Air Museum / Nederlands Openluchtmuseum 
+Administration Staff Number:	1
+Curator's Name:	Rob Plomp
+Director's Name:	Pieter Matthijs Gijsbers
+Educational Staff Number:	10
+Horticultural Staff Number:	10
+Info:	  Netherlands - Gelderland - Arnhem  ;Garden Information;  Institution Code: ARNHE; International Agenda Registration: No; BGCI Member: No; About the Dutch Open Air Museum / Nederlands Openluchtmuseum The garden is part of the Open air museum Arnhem.;  Main Address:; Dutch Open Air Museum / Nederlands Openluchtmuseum; Schelmseweg 89; Postbus 649; Arnhem; Gelderland NL-6800 Netherlands; ;  Telephone: +31 (0)26-3576111; Fax: +31 (0)26-3576147; URL: <a target="_blank" href="http://www.openluchtmuseum.nl">www.openluchtmuseum.nl; Primary Email: info@openluchtmuseum.nl ; 
+Plant Records Officer's Name:	René Bailly
+Research Staff Number:	2
+Altitude:	65.00 Metres
+Date founded:	1930
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	52.0367
+Local Address:	Schelmseweg 89
+Locality:	Information
+Longitude:	5.8795
+Natural Vegetation Area:	Yes
+Total Area:	44 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	450000
+Number of Volunteers:	5
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	1050
+Cultivation Taxa Num:	28
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

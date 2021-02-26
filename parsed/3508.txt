@@ -1,0 +1,10 @@
+ID:	3508
+Name:	New England Ecological Garden 
+Curator's Name:	
+Director's Name:	John Hart, Professor
+Info:	  United States of America - New Hampshire - Durham  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; New England Ecological Garden; Thompson School; University of New Hampshire; Durham; New Hampshire 03824-3652 United States of America; ;  Telephone: (603) 862-1091; Fax: (603) 862-4752; URL: <a target="_blank" href="http://www.unh.edu/neeg/neecolgdn.html">www.unh.edu/neeg/neecolgdn.html; Primary Email: jlhart@christa.UNH.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	43.1362500
+Longitude:	-70.9315200

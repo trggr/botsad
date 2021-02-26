@@ -1,0 +1,30 @@
+ID:	2320
+Name:	Royal Burgers' Zoo 
+Administration Staff Number:	
+Curator's Name:	Willeke Huizinga
+Director's Name:	Alex van Hooff
+Educational Staff Number:	3
+Horticultural Staff Number:	6
+Info:	  Netherlands - Arnhem  ;Garden Information;  Institution Code: BURDI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Royal Burgers' Zoo; Antoon van Hooffplein 1; Arnhem; 6816 SH Netherlands; ;  Telephone: +31 (0)26 4450373; Fax: +31 (0)26 4430776; URL: <a target="_blank" href="http://www.burgerszoo.eu">www.burgerszoo.eu; Primary Email: info@burgerszoo.nl ; 
+Plant Records Officer's Name:	Ernst Kamphuis
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1913
+Institution Type:	Zoological Institution
+Latitude:	51.9797
+Longitude:	5.9124
+Arboretum:	No
+Computer Plant Record System:	Yes
+Herbarium:	No
+Number of Visitors:	1000000
+Open to public:	Yes
+ABS Policy:	No
+Accession Number:	3000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Member NPC scheme specialising in Ficus (Moraceae), Costus (Costaceae), Dracaena, Zingiberaceae and mangrove plants
+Conservation Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes

@@ -1,0 +1,50 @@
+ID:	619
+Name:	Bedgebury National Pinetum & Forest 
+Administration Staff Number:	
+Curator's Name:	Daniel Luscombe
+Director's Name:	Patrick West
+Educational Staff Number:	
+Horticultural Staff Number:	8
+Info:	  United Kingdom  ;Garden Information;  Institution Code: BEDGE; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Bedgebury National Pinetum & Forest; Park Lane; Goudhurst, Cranbrook, Kent; TN17 2SL United Kingdom; ;  Telephone: 0300 067 4479; Fax: ; URL: <a target="_blank" href="http://www.forestryengland.uk/bedgebury">www.forestryengland.uk/bedgebury; Primary Email: ; 
+Plant Records Officer's Name:	Liz Randall
+Research Staff Number:	
+Altitude:	140.00 Metres
+Annual Rainfall:	600 mm
+Date founded:	1925
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	51.0751
+Longitude:	0.4556
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Lynford Arboretum Nr Munford Norfolk
+Total Area:	100 Hectares
+Arboretum:	Yes
+Arboretum Size:	130
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	50000
+Number of Volunteers:	50
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	12500
+Cultivation Taxa Num:	1975
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	A comprehensive collection of coniferous trees, Cephalotaxaceae, Cupressaceae, Ginkgoaceae, Pinaceae, Podocarpaceae, Taxaceae, Taxodiaceae, Juniperus, x Cupressocyparis and Taxus
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

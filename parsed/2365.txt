@@ -1,0 +1,24 @@
+ID:	2365
+Name:	Tam Dao Botanic Garden 
+Curator's Name:	
+Director's Name:	Mr Do Dinh Tien
+Info:	  Viet Nam - Vinh Phuc Province - Tam Dao  ;Garden Information;  Institution Code: TDAO; International Agenda Registration: No; BGCI Member: No; About the Tam Dao Botanic Garden garden formally opened in 2000. A small but developing herbarium recently established with voucher specimens collected in the National Park.;  Main Address:; Tam Dao Botanic Garden; Tam Dao National Park Headquarters Ho Son Commune,; Tam Dao District,; Tam Dao; Vinh Phuc Province Viet Nam; ;  Telephone: 021 867 399; Fax: ; URL: <a target="_blank" href="http://www.flora33.com/en/botanical_gardens/vn.php">http://www.flora33.com/en/botanical_gardens/vn.php; Primary Email: vpgtd_vp@hn.vnn.vn ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1997
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	21.52425
+Longitude:	105.65423
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Number of Visitors:	30
+Number of Volunteers:	13
+Open to public:	Yes
+Special Collections:	Native plants of the Tam Dao region and National Park. Mainly plants of economic importance such as medicinals, fruit trees, fodder, food and fibre plants.
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Education Signs in Garden:	Yes

@@ -1,0 +1,11 @@
+ID:	3459
+Name:	Luthy Botanical Garden 
+Curator's Name:	
+Director's Name:	Bob Streitmatter, Manager
+Info:	  United States of America - Illinois - Peoria  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Luthy Botanical Garden Our mission remains clear: To enrich life in our community through stewardship of the environment and through provision of quality recreation and leisure opportunities.;  Main Address:; Luthy Botanical Garden; 2520 N. Prospect Road; Peoria; Illinois 61603 United States of America; ;  Telephone: (309) 686-3362; Fax: (309) 685-6240; URL: <a target="_blank" href="http://www.peoriaparks.org/luthy-botanical-garden">www.peoriaparks.org/luthy-botanical-garden; Primary Email: bstreitmatter@peoriaparks.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	40.7183910
+Longitude:	-89.5768020
+Open to public:	Yes

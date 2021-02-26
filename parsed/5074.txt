@@ -1,0 +1,9 @@
+ID:	5074
+Name:	Botanische Tuin Afrikaanderwijk 
+Curator's Name:	
+Director's Name:	Lieke Fortuin
+Info:	  Netherlands - Rotterdam  ;Garden Information;  Institution Code: BTA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanische Tuin Afrikaanderwijk; Afrikaanderplein 38A; Rotterdam; 3072 EC Netherlands; ;  Telephone: +31 (0)6 37 55 45 64; Fax: ; URL: <a target="_blank" href="http://botanischetuinafrikaanderwijk.nl/">http://botanischetuinafrikaanderwijk.nl/; Primary Email: info@botanichetuinafrikaanderwijk.nl ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	51.9008327
+Longitude:	4.502339

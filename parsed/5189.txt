@@ -1,0 +1,9 @@
+ID:	5189
+Name:	Universidad de Panamá, Herbario (PMA) 
+Curator's Name:	
+Director's Name:	
+Info:	  Panama - Panama City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Universidad de Panamá, Herbario (PMA); Agua Buena de Chilibre; Casa B-34; Panama City; Panama; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	8.983867
+Longitude:	-79.5377028

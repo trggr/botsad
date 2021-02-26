@@ -1,0 +1,12 @@
+ID:	990
+Name:	Experimental Botanical Garden 
+Curator's Name:	O.N.Kosareva
+Director's Name:	Dr. M.A.Konganbaeva
+Info:	  Kazakhstan - Shevchenko  ;Garden Information;  Institution Code: SHEV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Experimental Botanical Garden; Academy of Sciences, P.O. Box 106, 466200 SHEVCHENKO, Mangyshlak, Kazakhstan; Shevchenko; Kazakhstan; ;  Telephone: 24 7 24; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1971
+Institution Type:	Botanic Garden
+Latitude:	43.766667
+Longitude:	51.2
+Special Collections:	Salix, Populus, Cotoneaster, Crataegus, Spiraea, Berberis, Syringa, Philadelphus, Malus, Pyrus, Pinus, Juniperus, Thuya.

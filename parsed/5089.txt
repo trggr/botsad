@@ -1,0 +1,12 @@
+ID:	5089
+Name:	Miejski Ogród Botaniczny w Zabrzu 
+Fax:	
+Info:	  Poland - śląskie - Zabrze  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	ogrod@mob.zabrze.pl
+Telephone:	0048 322713033
+Curator's Name:	
+Director's Name:	dr Agnieszka Zawisza-Raszka
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	50.32
+Longitude:	18.76

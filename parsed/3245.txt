@@ -1,0 +1,16 @@
+ID:	3245
+Name:	Jardin Botanico y Reserva Natural El Refugio Torremolinos 
+Curator's Name:	
+Director's Name:	.
+Info:	  Colombia - Cali  ;Garden Information;  Institution Code: TCAL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico y Reserva Natural El Refugio Torremolinos; Av. 3 CN No. 62N-77Villas de San Martin Casa 43, CALI,Colombia; Cali; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	1900.00 Metres
+Date founded:	1978
+Institution Type:	Botanic Garden
+Latitude:	3.4233
+Local Address:	
+Locality:	Information
+Longitude:	-76.5245
+Natural Vegetation Area:	Yes
+Total Area:	18 Hectares
+Plant Breeding:	Yes

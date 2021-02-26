@@ -1,0 +1,76 @@
+ID:	5313
+Name:	Jardín Botánico Cuenta Soles 
+Fax:	
+Info:	  Argentina - San Luis - Carpintería  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	01154141860
+Curator's Name:	Germán Roitman
+Director's Name:	Germán Roitman
+Plant Records Officer's Name:	
+Altitude:	950.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	2018
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-31.9877884
+Local Address:	Calle sin número
+Locality:	Information
+Longitude:	-65.2434587
+Natural Vegetation Area:	Yes
+Total Area:	8 Hectares
+Total area of glasshouses:	120 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	70
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	2000
+Cultivation Taxa Num:	500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Collection of Cactaceae from Argentina, Perú, Bolivia and México
+Conservation Programme:	No
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

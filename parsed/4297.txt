@@ -1,0 +1,16 @@
+ID:	4297
+Name:	Tulsa Botanical Garden 
+Curator's Name:	Kenny White, Senior Gardener
+Director's Name:	-
+Info:	  United States of America - Oklahoma - Tulsa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tulsa Botanical Garden; N 52nd W Avenue & W 43rd Street North; Mailing: 2 West 6th Street, Suite 325; Tulsa; Oklahoma 74119 United States of America; ;  Telephone: (918) 289-0330; Fax: ; URL: <a target="_blank" href="http://www.ocbg.org">www.ocbg.org; Primary Email: info@ocbg.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	36.1177920
+Longitude:	-96.0518830
+Natural Vegetation Area:	Yes
+Total Area:	85 Hectares
+Friends society:	Yes
+Education Programme:	Yes
+Visitor/Education Centre:	Yes

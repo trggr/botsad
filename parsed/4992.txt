@@ -1,0 +1,34 @@
+ID:	4992
+Name:	V.N. Sukachev Institute of Forest SB RAS, Federal Research Center 'Krasnoyarsk Science Center' SB RA 
+Curator's Name:	Maria Sedaeva, Research Scientist
+Director's Name:	Dr. Alexandr Onuchin, Director
+Info:	  Russian Federation - Krasnoyarsky krai - Krasnoyarsk  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; V.N. Sukachev Institute of Forest SB RAS, Federal Research Center 'Krasnoyarsk Science Center' SB RA; Akademgorodok, 50/28; Krasnoyarsk; Krasnoyarsky krai 660036 Russian Federation; ;  Telephone: +7(391-2) 43-36-86; Fax: +7(391-2) 43-36-86; URL: <a target="_blank" href="http://forest.akadem.ru">http://forest.akadem.ru; Primary Email: institute@forest.akadem.ru ; 
+Plant Records Officer's Name:	Maria Sedaeva, Research Scientist
+Altitude:	0.00 Metres
+Date founded:	1944
+Institution Type:	Other
+Latitude:	55.987628
+Local Address:	Академгородок, 50/28, город Красноярск, Россия, 660036
+Locality:	Information
+Longitude:	92.762446
+Arboretum:	Yes
+Arboretum Size:	12
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	230
+Agriculture:	Yes
+Biotechnology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Land Restoration:	Yes
+Pollination Biology:	Yes
+Education Booklets/Leaflets:	Yes
+Guided Tours:	Yes

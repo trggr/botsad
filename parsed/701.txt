@@ -1,0 +1,35 @@
+ID:	701
+Name:	Connecticut College Arboretum 
+Administration Staff Number:	4
+Curator's Name:	Mary Villa, Curator/Information Resources Manager
+Director's Name:	Miles Schwartz Sax, Director
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  United States of America - Connecticut - New London  ;Garden Information;  Institution Code: CCNL; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ;  Main Address:; Connecticut College Arboretum; 270 Mohegan Avenue; New London; Connecticut 06320-9913 United States of America; ;  Telephone: (860) 439-2144; Fax: (860) 439-5482; URL: <a target="_blank" href="http://www.conncoll.edu/the-arboretum/">http://www.conncoll.edu/the-arboretum/; Primary Email: arbor@conncoll.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1931
+Institution Type:	Botanic Garden
+Latitude:	41.3781820
+Longitude:	-72.1036150
+Natural Vegetation Area:	Yes
+Total Area:	304 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+ABS Policy:	Yes
+Accession Number:	6118
+Cultivation Taxa Num:	745
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes

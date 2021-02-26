@@ -1,0 +1,11 @@
+ID:	1178
+Name:	Bayou Bend Gardens 
+Curator's Name:	Bart Brechter, Curator of Gardens
+Director's Name:	Bonnie Campbell, Director
+Info:	  United States of America - Texas - Houston  ;Garden Information;  Institution Code: BAYOU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bayou Bend Gardens; 1 Westcott Street at Memorial; P.O. Box 6826; Houston; Texas 77265-6826 United States of America; ;  Telephone: (713) 639-7750; Fax: ; URL: <a target="_blank" href="http://www.mfah.org/bayoubend">www.mfah.org/bayoubend; Primary Email: bayoubend@mfah.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	29.7585880
+Longitude:	-95.4219500
+Open to public:	Yes

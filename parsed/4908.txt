@@ -1,0 +1,59 @@
+ID:	4908
+Name:	Botresearch USA Seed Bank and Research Collection 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	John N. Covanes, Director of Research
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  United States of America - Texas - Spring  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Botresearch USA Seed Bank and Research Collection Botresearch USA is a non-profit research organization with; a three-fold mission.The first part of our mission is ; expanding the base of knowledge and understanding with regards to structural and physiological similarities and differences, chemical analysis which will evaluate their potential for pharmaceutical and medicinal uses, and the developement of methods of mass production via in vitro micropropagation or tissue culture within the Lamiaceae/; Labiatae plant family.; The second part of our mission is to develop educational materials based on the results of our research to produce a set of manuals for use by university students of Botany, Horticulture, and Biotechnology. These materials will bring together both new and old information in a manner that will clarify basic principles and place them in one central location.; The final part of our mission is related to the conservation of these species. This involves the establishment of a protected area or garden and seed bank which are strictly dedicated to the protection of these species. Equally important is the development of a plan whereby species which are mass produced can be re-introduced into their native habitat through the utilization of university students in those regions. Also part of the final phase is the educating the general public with regard to which of these species are endangered, why it is important to conserve them, and what they can do to ensure their existence. Our collection currently has 951 species, varieties, or cultivars within this one family.;  Main Address:; Botresearch USA Seed Bank and Research Collection; 23410 Harpergate Drive; Spring; Texas 77373 United States of America; ;  Telephone: (281) 350-1707; Fax: ; URL: <a target="_blank" href="http://www.botresearch.com">http://www.botresearch.com; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	25
+Altitude:	0.00 Metres
+Date founded:	1998
+Institution Type:	Gene/Seed Bank
+Latitude:	30.0463920
+Longitude:	-95.366511
+Computer Plant Record System:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Cultivation Taxa Num:	1102
+Special Collections:	Our seed bank has 1102 species in the Lamiaceae plant family. These seed are used for research purposes primarily
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

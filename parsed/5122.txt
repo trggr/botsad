@@ -1,0 +1,11 @@
+ID:	5122
+Name:	Istituto e Orto Botanico dell'Universita di Pavia- Seed Bank 
+Curator's Name:	
+Director's Name:	Prof. Augusto Pirola
+Info:	  Italy - Pavia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Istituto e Orto Botanico dell'Universita di Pavia- Seed Bank; Via San Epifanio 14, I-27100 PAVIA, Italy.; Pavia; Italy; ;  Telephone: 0382 23069; Fax: 0382 34240; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	45.1854
+Longitude:	9.1635
+Seed Bank:	Yes

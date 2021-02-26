@@ -1,0 +1,9 @@
+ID:	5268
+Name:	Banco Base de Semillas - Instituto de Investigaciones Agropecuarias - INIA 
+Curator's Name:	
+Director's Name:	
+Info:	  Chile - Vicuna Region de Coquimbo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Banco Base de Semillas - Instituto de Investigaciones Agropecuarias - INIA; Camino a Peralillo S/N; Vicuna Region de Coquimbo; 1760000 Chile; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ana.sandoval@inia.cl ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-30.0318806
+Longitude:	-70.7168548

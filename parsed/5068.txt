@@ -1,0 +1,9 @@
+ID:	5068
+Name:	Burren Nature Sanctuary 
+Curator's Name:	
+Director's Name:	
+Info:	  Ireland - Co Galway  ;Garden Information;  Institution Code: BNATS; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Burren Nature Sanctuary; Cloonasee; Kinvara; Co Galway Ireland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.bns.ie/">http://www.bns.ie/; Primary Email: info@bns.ie ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	53.1284258
+Longitude:	-8.9268138

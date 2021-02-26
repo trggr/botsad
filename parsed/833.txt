@@ -1,0 +1,10 @@
+ID:	833
+Name:	Arboretum Alnarpskparken 
+Curator's Name:	J.Johansson (Dr.)
+Director's Name:	
+Info:	  Sweden - Alnarp  ;Garden Information;  Institution Code: ALNAR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Alnarpskparken; The Swedish University of Agricultural Sciences, Postbox 52,; Alnarp; S-230 53 Sweden; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	55.6585
+Longitude:	13.0826

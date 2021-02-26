@@ -1,0 +1,9 @@
+ID:	4124
+Name:	Botanical Garden in Bad Langensalza 
+Curator's Name:	
+Director's Name:	The Director
+Info:	  Germany - Deutschland - Bad Langensalza  ;Garden Information;  Institution Code: LSALZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden in Bad Langensalza; Cure society Bad Langensalza mbH ; Kurpromenade 5b ; Bad Langensalza; D-99947 Germany - Deutschland; ;  Telephone: 0049 - (0 36 03) 83 44 24 ; Fax: 0049 - (0 36 03) 83 44 22; URL: <a target="_blank" href="http://www.bad-langensalza.de/index.php?id=390&L=1">http://www.bad-langensalza.de/index.php?id=390&L=1; Primary Email: gaesteinfo@thueringen-kur.de ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	51.1051
+Longitude:	10.5778

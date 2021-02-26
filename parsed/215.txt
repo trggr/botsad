@@ -1,0 +1,44 @@
+ID:	215
+Name:	Pretoria National Botanical Garden 
+Administration Staff Number:	
+Curator's Name:	Mr Alec Naidoo (Acting)
+Director's Name:	Mr Christopher Willis
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  South Africa - Gauteng - Pretoria  ;Garden Information;  Institution Code: PRE; International Agenda Registration: Yes; BGCI Member: Yes; About the Pretoria National Botanical Garden Parastatal organisation (SANBI) under the national Department of Environmental Affairs (DEA); ; This 76 ha urban oasis is a pristine getaway a mere stone's throw away from the madding crowd. The Pretoria National Botanical Garden, founded in 1946, is home to the Head Office of SANBI. This Garden successfully bridges the divide between scientific research and the recreational environment. Read more about its history.;  Main Address:; Pretoria National Botanical Garden; South African National Biodiversity Institute; Private Bag X101, PRETORIA 0001, South Africa.; Pretoria; Gauteng South Africa; ;  Telephone: +27 (0)12 843 5194; Fax: +27 (0)12 804 3166; URL: <a target="_blank" href="http://www.sanbi.org">www.sanbi.org; Primary Email: a.naidoo@sanbi.org.za ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	1.00 Metres
+Annual Rainfall:	750 mm
+Date founded:	1958
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-25.7389
+Local Address:	2 Cussonia Avenue Brummeria Pretoria
+Locality:	Information
+Longitude:	28.2721
+Natural Vegetation Area:	Yes
+Total Area:	76 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	158000
+Open to public:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Education:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

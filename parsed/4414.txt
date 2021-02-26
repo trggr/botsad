@@ -1,0 +1,10 @@
+ID:	4414
+Name:	Indianapolis Zoo 
+Curator's Name:	Lori Roedell
+Director's Name:	Unknown
+Info:	  United States of America - Indiana - Indianapolis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Indianapolis Zoo; 1200 West Washington Street; Indianapolis; Indiana 46222 United States of America; ;  Telephone: (317) 630-2089; Fax: ; URL: <a target="_blank" href="http://www.indyzoo.com">www.indyzoo.com; Primary Email: lroedell@indyzoo.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	39.7670140
+Longitude:	-86.1801830

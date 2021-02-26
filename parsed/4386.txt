@@ -1,0 +1,12 @@
+ID:	4386
+Name:	Korea Botanic Garden 
+Curator's Name:	Chang-Yeol Kim
+Director's Name:	Chang-Yeol Kim
+Info:	  South Korea - Kangwon-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Korea Botanic Garden; 405-2 Byungnae-ri, Daegwallyeong-myon; Pyongchang-kun; Kangwon-do 232-955 South Korea; ;  Telephone: 033-332-7069; Fax: 033-333-7069; URL: <a target="_blank" href="http://www.kbotanic.co.kr">http://www.kbotanic.co.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	37.70746
+Local Address:	평창군 대관령면 병내리 405-2
+Locality:	Information
+Longitude:	128.6151

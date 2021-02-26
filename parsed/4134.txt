@@ -1,0 +1,9 @@
+ID:	4134
+Name:	Jardin Botanique et Zoologique de l'Université d'Abomey-Calavi 
+Curator's Name:	
+Director's Name:	
+Info:	  Benin - Cotonou  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanique et Zoologique de l'Université d'Abomey-Calavi; Calavi; BP 361128; Cotonou; 361128 Benin; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: akoegnin@bj.refer.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	6.3505
+Longitude:	2.4331

@@ -1,0 +1,68 @@
+ID:	786
+Name:	Ewanrigg Botanical Gardens 
+Fax:	Nil
+Info:	  Zimbabwe - Zimbabwe - Harare  ;Garden Information;  Institution Code: SLEG; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	apasipanodya@zimparks.org.zw
+Telephone:	+263772572044
+Administration Staff Number:	3
+Curator's Name:	Annah Pasipanodya
+Director's Name:	Mr. Geofreys Matipano
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	Christine Chiteka
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1200 mm
+Date founded:	1914
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-17.6937
+Local Address:	Ewanrigg Botanical Gardens Shamva Road Arcturus
+Locality:	Information
+Longitude:	31.3359
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Vumba Botanical Gardens Harare Gardens Greenwood Park Ballantyne Park
+Total Area:	285 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	15000
+Number of Volunteers:	3
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Cultivation Taxa Num:	515
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	African trees and shrubs, Aloes, cycads, Stapeliaceae, Bougainvillea, Gerbera, Fuchsia, medicinal plants, native plants.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

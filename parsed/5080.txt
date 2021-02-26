@@ -1,0 +1,9 @@
+ID:	5080
+Name:	Escuela Agricola Panamericana 
+Curator's Name:	
+Director's Name:	-
+Info:	  Honduras - Tegucigalpa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Escuela Agricola Panamericana; Valle de Yeguare, San Antonio de Oriente; Francisco Morazan, Km 30 carretara hacia Danli; Tegucigalpa; 11207 Honduras; ;  Telephone: (504) 2287 2022; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: malvarado@zamorano.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	14.0839155
+Longitude:	-87.205376

@@ -1,0 +1,75 @@
+ID:	5222
+Name:	Instituto Inhotim 
+Administration Staff Number:	5
+Curator's Name:	Juliano Borin
+Director's Name:	Antônio Grassi
+Educational Staff Number:	10
+Horticultural Staff Number:	65
+Info:	  Brazil - Minas Gerais - Brumadinho  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Instituto Inhotim; Rua B, 20. Fazenda Inhotim; Brumadinho; Minas Gerais 35460-000 Brazil; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.inhotim.org.br">http://www.inhotim.org.br; Primary Email: info@inhotim.org.br ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	900.00 Metres
+Annual Rainfall:	1325 mm
+Date founded:	2006
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-20.127574
+Longitude:	-44.215206
+Natural Vegetation Area:	Yes
+Total Area:	134 Hectares
+Total area of glasshouses:	4000 Metres
+Total area of shadehouses:	5000 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	200000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	5100
+Cultivation Taxa Num:	4000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

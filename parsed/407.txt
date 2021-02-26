@@ -1,0 +1,10 @@
+ID:	407
+Name:	Botanischer Garten der Stadt Duisburg (Garden I) 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Duisburg  ;Garden Information;  Institution Code: DUISB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Stadt Duisburg (Garden I); Furst-Puckler-Strasse 18, D-47166 DUISBURG, Germany.; Duisburg; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1905
+Institution Type:	Botanic Garden
+Latitude:	51.4916
+Longitude:	6.7540

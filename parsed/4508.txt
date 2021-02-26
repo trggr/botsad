@@ -1,0 +1,17 @@
+ID:	4508
+Name:	Desert Botanical Garden - Seed Bank 
+Administration Staff Number:	
+Curator's Name:	Raul Puente-Martinez, Curator of Living Collections
+Director's Name:	Ken Schutz, Executive Director
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  United States of America - Arizona - Phoenix  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Desert Botanical Garden - Seed Bank; 1201 North Galvin Parkway; Phoenix; Arizona 85008 United States of America; ;  Telephone: (480) 941-1225; Fax: (480) 481-8124; URL: <a target="_blank" href="http://www.dbg.org">www.dbg.org; Primary Email: horticulture@dbg.org ; 
+Plant Records Officer's Name:	Kimberlie McCue, PhD, Director of Conservation
+Research Staff Number:	18
+Altitude:	0.00 Metres
+Date founded:	1939
+Institution Type:	Gene/Seed Bank
+Latitude:	33.4598200
+Longitude:	-111.9493100
+Computer Plant Record System:	Yes
+Seed Bank:	Yes

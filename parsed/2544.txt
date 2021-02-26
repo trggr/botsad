@@ -1,0 +1,28 @@
+ID:	2544
+Name:	Les Jardins de Valloires 
+Administration Staff Number:	3
+Curator's Name:	
+Director's Name:	Romain Duthilleul
+Educational Staff Number:	2
+Horticultural Staff Number:	8
+Info:	  France - ARGOULES  ;Garden Information;  Institution Code: ARGO; International Agenda Registration: No; BGCI Member: No; About the Les Jardins de Valloires Location: ARGOULES; Founded: 1987Location: ARGOULES; Founded: 1987; Garden Name: Les Jardins de Valloires; Address: 80120 ARGOULES; Status: Unknown; Herbarium: Unknown; Ex situ Collections:; Ornamental plants, roses, cultivated plants, particularly from C;  Main Address:; Les Jardins de Valloires; ARGOULES; 80120 France; ;  Telephone: +33 03 22 23 53 55; Fax: +33 03 22 23 91 32; URL: <a target="_blank" href="http://www.jardinsdevalloires.com">www.jardinsdevalloires.com; Primary Email: contact@jardinsdevalloires.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	15.00 Metres
+Annual Rainfall:	762 mm
+Date founded:	1987
+Institution Type:	Botanic Garden
+Latitude:	50.3418
+Longitude:	1.8352
+Total Area:	8 Hectares
+Arboretum:	Yes
+Arboretum Size:	5
+Number of Visitors:	60000
+Open to public:	Yes
+Cultivation Taxa Num:	5000
+Special Collections:	Ornamental plants, roses, cultivated plants, particularly from China, collection of 24 thematic gardens, based on flower colour etc.
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

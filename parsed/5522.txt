@@ -1,0 +1,73 @@
+ID:	5522
+Name:	Nairobi Physic Garden 
+Fax:	
+Info:	  Kenya - Nairobi  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	deborahmarvincoulson@gmail.com
+Telephone:	+(254) 0722510434
+Administration Staff Number:	1
+Curator's Name:	Deborah Coulson
+Director's Name:	Deborah Coulson
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	1828.00 Metres
+Date founded:	2017
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-1.353160
+Longitude:	36.725150
+Natural Vegetation Area:	No
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Cultivation Taxa Num:	175
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	The garden contains African indigenous plant species, and exotic species.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

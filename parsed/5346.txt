@@ -1,0 +1,9 @@
+ID:	5346
+Name:	Ogród Botaniczny "Egzotarium Ogród Botaniczny" 
+Curator's Name:	
+Director's Name:	
+Info:	  Poland - Sosnowiec  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ogród Botaniczny "Egzotarium Ogród Botaniczny"; ul. Marszałka J. Piłsudskiego 116; 41-200 Sosnowiec; Sosnowiec; Poland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.mzuk.sosnowiec.pl/dzial_botanicznozoologiczny_egzotarium.html">http://www.mzuk.sosnowiec.pl/dzial_botanicznozoologiczny_egzotarium.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	50.283937
+Longitude:	19.104795

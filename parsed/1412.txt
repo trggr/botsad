@@ -1,0 +1,34 @@
+ID:	1412
+Name:	Hunter Region Botanic Gardens 
+Curator's Name:	Patricia Shearston
+Director's Name:	Kevin Stokes
+Info:	  Australia - NSW - Heatherbrae  ;Garden Information;  Institution Code: HUNRGN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hunter Region Botanic Gardens; 2100 Pacific Highway,.; Heatherbrae; NSW 2324 Australia; ;  Telephone: 61 (0)2 4987 1655; Fax: 61 (0)2 4987 1440; URL: <a target="_blank" href="http://www.huntergardens.org.au">www.huntergardens.org.au; Primary Email: admin@huntergardens.org.au ; 
+Plant Records Officer's Name:	Tim Parsons
+Altitude:	0.00 Metres
+Date founded:	1986
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-32.802378
+Longitude:	151.719564
+Natural Vegetation Area:	Yes
+Total Area:	133 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Number of Volunteers:	100
+Open to public:	Yes
+Accession Number:	3000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Predominately Australian plants with an emphasis on plants of the Hunter Region.Gardens include Proteaceae, Myrtaceae, Lamiaceae,rare and endangered,acacias, palms, Australian rainforest,conifers, orchids ,succulents.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

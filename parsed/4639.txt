@@ -1,0 +1,9 @@
+ID:	4639
+Name:	Klehm Arboretum & Botanic Garden 
+Curator's Name:	John Moors, Director of Horticulture
+Director's Name:	Unknown
+Info:	  United States of America - Illinois - Rockford  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Klehm Arboretum & Botanic Garden; 2715 South Main Street; Rockford; Illinois 61102 United States of America; ;  Telephone: (815) 965-8146; Fax: ; URL: <a target="_blank" href="http://www.klehm.org">www.klehm.org; Primary Email: driggs@klehm.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	42.2460599
+Longitude:	-89.1100852

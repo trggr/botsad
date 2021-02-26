@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: 200px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>Fairchild Tropical Botanic Garden</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=87"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>United States of America - Florida - Coral Gables</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+														<li><a href="#tabs-2">Community Projects</a></li>
+																					<li><a href="#tabs-3">Restoration Projects</a></li>
+													</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> FTG</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: Yes</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: Yes</p>
+							
+														
+														<div class="garden-photo">
+								<img src="/photos/87/Copy of rainforestwaterfall.jpg" alt="Fairchild's rainforest waterfall" />
+								<div>Fairchild's rainforest waterfall</div>
+							</div>
+											
+														<h2>About the Fairchild Tropical Botanic Garden</h2>
+							<p>Fairchild Tropical Botanic Garden is dedicated to exploring, explaining and conserving the world of tropical plants. <br />
+<br />
+It is one of the premier research and education-based gardens in the world and a recognized international leader in conservation. Fairchild Tropical Botanic Garden's palm and cycad collections are part of the North American Plant Collections Consortium of the American Public Gardens Association (APGA). FTBG has an education program reaching some 50,000 school children per year; hosts popular events like the International Mango, Chocolate and Orchid Festivals, the Ramble, concerts, affiliated plant society shows and sales and more; and, is a not-for-profit organization relying on the support of its 40,000 members and benefactors.</p>
+														<p>
+								<b>Main Address:</b><br />
+								Fairchild Tropical Botanic Garden<br />
+								10901 Old Cutler Road<br />																Coral Gables<br />								Florida 33156 United States of America<br />
+							</p>
+							<p>
+								<b>Telephone:</b> (305) 667-1651<br />
+								<b>Fax:</b> (305) 667-6930<br />
+								<b>URL:</b> <a target="_blank" href="http://www.fairchildgarden.org">www.fairchildgarden.org</a><br />
+								<b>Primary Email:</b> webmaster@fairchildgarden.org							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: Dr. Carl Lewis, Director<br />
+										Curator's Name: Jennifer Possley, Field Biologist<br />
+										Plant Records Officer's Name: Chad Husby, Plant Records Manager<br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: 15<br />
+										Educational Staff Number: 8<br />
+										Research Staff Number: 6<br />
+										Administration Staff Number: 3									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+										Status: Private: Yes<br />																				Status: Educational: Yes<br />																				Status: Satellite: Yes<br />																			</li>
+															
+																		<li>Date founded: 1938</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+																		<li>
+										Natural Vegetation Area: Yes<br />										Natural vegetation area: Size: 2 Hectares<br />									</li>
+															
+																		<li>
+										Landscaped Area: Yes<br />										Landscaped Area: Size: 31 Hectares<br />									</li>
+															
+									<li>
+										Total Area: 33 Hectares<br />										Latitude: 25.6759820<br />										Longitude: -80.2758850<br />										Annual Rainfall: 1525 mm<br />										Altitude: 0.00 Metres<br />																													</li>
+									
+																		<li><b>Additional Locations</b></li>
+									<li>Satellite Garden Names: Fairchild Farm at Williams Grove</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+										Herbarium: Yes<br />										Herbarium: Number of Specimens: 150000<br />										Arboretum: Yes<br />																			</li>
+															
+																		<li>
+										Micropropagation/ Tissue Culture Facilities: No<br />										Seed Bank: Yes<br />										Published Plant Catalogue: Yes<br />										Computer Plant Record System: Yes<br />									</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: Yes<br />										Retail Outlet: Shop: Yes<br />										Retail Outlet: Plant Sales: Yes<br />										Disabled access: Yes<br />									</li>
+															
+																		<li>
+										Number of Visitors: 200000<br />										Number of  Volunteers: 350<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 10719<br />										Cultivation Taxa Num: 4092<br />									</li>
+															
+																		<li><b>Special Collections:</b>Arecaceae (palms), cycads, Bromeliaceae, Araceae,tropical flowering ornamentals (trees, shrubs, and vines), plants of Madagascar, Caribbean flora, bamboos, mango, avocado, jackfruit.  Ex situ collections for endangered species of Florida, Puerto Rico and the US Virgin Islands.</li>
+																
+																		<li>
+										Invasive Species Monitoring: Yes<br />
+										
+										
+										Plant Collection Policy: Yes<br />
+									</li>
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: Yes<br />										Medicinal Plant Programme: No<br />										Ex Situ Conservation Programme: Yes<br />										Reintroduction Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+																														Conservation - Biology: Yes<br />										Conservation - Genetics: Yes<br />										Data Management Systems and Information Technology: Yes<br />										Ecology: Yes<br />										Ecosystem Conservation: Yes<br />										Education: Yes<br />										Ethnobotany: Yes<br />										Exploration: Yes<br />										Floristics: Yes<br />																				Invasive Species Biology and Control: Yes<br />										Molecular Genetics: Yes<br />										Pollination Biology: Yes<br />										Restoration Ecology: Yes<br />										Seed/Spore Biology: Yes<br />																				Sustainability: No<br />										Pharmacology: No<br />										Agriculture: Yes<br />										Land Restoration: Yes<br />																			</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: Yes<br />										Education Booklets/Leaflets: Yes<br />										Guided Tours: Yes<br />										Permanent Public Displays: Yes<br />										Special Exhibitions: Yes<br />										Courses for School Children: Yes<br />										Courses for University/College Students: Yes<br />										Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												<div id="tabs-2">
+																					<div class="garden-project" style="margin-top:1em">
+								<h3>The Fairchild challenge</h3>
+																<!-- <img src="/files/Worldwide/Education/communitiesIN/fairchild_challenge_group_image_small.gif" alt="" /> -->
+																<p style="text-align: justify;">The Fairchild Challenge supports and encourages motivated young people towards:<br />&bull;&nbsp; Active learning<br />&bull;&nbsp; Environmental stewardship<br />&bull;&nbsp; Building connections with professionals in the field<br />&bull;&nbsp;&nbsp;Innovative career pathway<br /><br /><strong>This year&rsquo;s Fairchild Challenge started:</strong> 24th August 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp; <br />Anticipated end date:</strong> 30th June 2014</p>
+<table style="height: 99px; margin-right: auto; margin-left: auto;" width="90">
+<tbody>
+<tr style="text-align: center;">
+<td>&nbsp;<img src="/files/Worldwide/Education/communitiesIN/fairchild_challenge_group.gif" alt="" width="450" height="302" border="0" /></td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<h5>&copy; Fairchild Tropical Botanic Garden</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: justify;">&nbsp;</h3>
+<h3 style="text-align: justify;"><strong>ABOUT</strong></h3>
+<p style="text-align: justify;">The Fairchild Challenge is a unique school-based environmental education program whereby students are engaged and actively involved in environmental education and stewardship, beginning in elementary school and continuing through college. The guiding principals of the Challenge are to ensure that these young people are given the opportunity to be active learners using real-life experiences, to explore and create independently and to connect with people in the field (either young careers professionals or seasoned veterans).<br /><br />There are two objectives:</p>
+<ol>
+<li style="text-align: justify;">To support the development of environmentally-aware and motivated students who will become solution-oriented stewards of the environment;</li>
+<li style="text-align: justify;">To offer students with an interest and aptitude for biological sciences a complete pathway to a career in this field.<br /><br /></li>
+</ol>
+<table style="height: 51px; margin-right: auto; margin-left: auto;" width="82">
+<tbody>
+<tr style="text-align: center;">
+<td>
+<table style="height: 30px;" width="100">
+<tbody>
+<tr>
+<td><img src="/files/Worldwide/Education/communitiesIN/fairchild_challenge_trees.gif" alt="" width="215" height="140" border="0" /></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="/files/Worldwide/Education/communitiesIN/fairchild_challenge_seedlings.gif" alt="" width="200" height="140" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<h5>&copy; Fairchild Tropical Botanic Garden</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">The programme is a free, interdisciplinary competition that is aligned with state and national educational standards and is embedded into the local public education system. Through the programme, students actively learn, explore and devise creative and effective responses to some of the most pressing environmental issues of our time. With competitions in various disciplines, the annual menu of options uses the environment as an integrating context for learning.<br /> <br />Contest options, called challenges, allow students to engage in the following projects: research, debate and devise solutions to environmental issues; create environmentally themed artwork; work in and with their community to raise environmental awareness; learn from their elders; conduct habitat restoration at schools; implement green initiatives at home, school and in the community; creatively write about nature; and work with professionals throughout the region to explore science careers.</p>
+<table style="height: 51px; margin-right: auto; margin-left: auto;" width="82">
+<tbody>
+<tr style="text-align: center;">
+<td>
+<table style="height: 30px;" width="100">
+<tbody>
+<tr>
+<td><img src="/files/Worldwide/Education/communitiesIN/fairchild_challenge_microscope.gif" alt="" width="197" height="154" border="0" /></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><img src="/files/Worldwide/Education/communitiesIN/fairchild_challenge_lab.gif" alt="" width="200" height="154" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<h5>&copy; Fairchild Tropical Botanic Garden</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: justify;">&nbsp;</h3>
+<h3 style="text-align: justify;"><strong>IMPACT</strong></h3>
+<p style="text-align: justify;">Through repeated exposure to highly experiential and inquiry-based environmental education from an early age, the Fairchild Challenge influences and empowers a diverse new generation of scientists, researchers, educated voters, policy makers, and environmentally-minded citizens. Promoting the Challenge programme through schools maximizes youth involvement and weaves attention to nature into the daily lives of young people, regardless of age, race, religion, socio-economic status, or ability. &nbsp;<br /><br /></p>
+<h3 style="text-align: justify;"><strong>WHAT&rsquo;S NEXT?</strong></h3>
+<p style="text-align: justify;">In response to the local success of the Fairchild Challenge, Fairchild has begun to offer the program as a replicable model to other cities throughout the United States and abroad. The eagerness with which dozens of national and international sites have taken up this offer reflects the programme's resonance in diverse social settings. <br /><br />The goal of the Fairchild Challenge&nbsp; National&nbsp; Movement&nbsp; is&nbsp; to&nbsp; build&nbsp; the&nbsp; environmental&nbsp; education&nbsp; capacity&nbsp; and&nbsp; impact&nbsp; of&nbsp; the&nbsp; Fairchild Challenge programme by defining, capturing, celebrating and showcasing best practices of the Miami-model and currently active sites. <br /><br />Fairchild also partners with Botanic Gardens Conservation International to host a Global Challenge in which students from all over the world can participate in one specific challenge and compete internationally.</p>
+<h3>&nbsp;<br /><strong>LINKS</strong></h3>
+<p>Visit <a href="/cms/www.fairchildchallenge.org">www.fairchildchallenge.org</a> for more information about the Fairchild Challenge and this year&rsquo;s Global Challenge opportunity.</p>
+<h3><br /><strong>PRACTITIONERS &amp; SPONSORS</strong></h3>
+<p><strong>Amy Padolf</strong>, Director of Education at Fairchild Tropical Botanic Garden</p>
+<p>Funded through corporate and foundation support</p>
+<p>Partnered with <strong>Botanic Gardens Conservation International</strong></p>
+<table style="height: 49px;" border="0" width="227">
+<tbody>
+<tr>
+<td><img src="/files/Worldwide/Education/communitiesIN/fairchild_challenge_logo.gif" alt="" width="100" height="105" border="0" /></td>
+<td>&nbsp;&nbsp;</td>
+<td><br /><img src="/files/Worldwide/BGCI_logos/bgcicmyk.jpg" alt="" width="90" height="103" border="0" />&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>																<hr />
+							</div>
+													</div>
+												
+												<div id="tabs-3">
+																					<div class="garden-project" style="margin-top:1em">
+								<h3>Preserving rare plants in urban South Florida</h3>
+																<!-- <img src="/files/ERABG/project_images/Fairchild%20Tropical%20Botanic%20Garden/tumbnail.jpg" alt="" /> -->
+																<p style="text-align: justify;">Fairchild Tropical Botanic Garden's South Florida Conservation Team (SFCT) works to maintain native plant diversity in the highly fragmented urban landscape of southeast Florida.&nbsp; The city of Miami was built atop the Miami Rock Ridge, a limestone outcropping home to lush tropical hardwood forests intermixed within a pyrogenic landscape of calcareous pine savannah known as pine rocklands.&nbsp; These habitats share a unique blend of temperate and tropical species at the edges of the perspective ranges.&nbsp; Outside of Everglades National Park, these habitats now exist as small, scattered parcels, most of which are owned and managed by Miami-Dade County (MDC).&nbsp; These parcels still hold a wealth of rare plant species, in some cases the only populations in existence.&nbsp; For over a decade, the SFCT has worked closely with MDC to take important steps to prevent local extinctions.&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bgci.org/files/ERABG/project_images/Fairchild%20Tropical%20Botanic%20Garden/Ridge_website2.png" alt="" width="491" height="432" /></p>
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bgci.org/files/ERABG/project_images/Fairchild%20Tropical%20Botanic%20Garden/Satellite%20imagery_website.png" alt="" width="500" height="392" /></p>
+<p style="text-align: center;"><strong>Figure 1:</strong> The Miami Rock Ridge, though a hotspot for plant diversity, also represents the only high ground in the region.&nbsp; Most of the area was developed into greater Miami in the 20th century.&nbsp; (Top) Extent of the Miami Rock Ridge is outlined with remaining parcels slightly enlarged in red.&nbsp; (Bottom) Satellite imagery showing the development of the Miami Rock Ridge.&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: justify;"><strong>Mapping/ Monitoring:</strong> The SFCT maintains maps for every known occurrence, both current and historical, of over 70 rare plant species on MDC preserves.&nbsp; These maps serve as a fundamental baseline for local conservation action plans, guiding preserve managers', and aid the SFCT in monitoring rare plant populations.</p>
+<p style="text-align: justify;"><strong>Reintroductions:</strong> The SFCT has conducted 36 total reintroductions of 17 species within MDC preserves.&nbsp; These reintroductions reduce extinction risk while providing important ecological data on each species and their habitat requirements, in addition to adding conservation value to preserves.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bgci.org/files/ERABG/project_images/Fairchild%20Tropical%20Botanic%20Garden/fairchild%20interns_wesbite.jpg" alt="" width="500" height="666" /></p>
+<p style="text-align: center;"><strong>Figure 2:</strong> Fairchild interns and MDC biologists reintroducing rare ferns grown by the SFCT to a MDC preserve.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: justify;"><strong>Ex-situ collections:</strong> The SFCT oversees the ex situ conservation of rare plants of MDC preserves.&nbsp; It currently holds collections of nearly every endangered plant on the Miami Rock Ridge, always trying to represent as many individuals from as many populations as possible.&nbsp; This is made possible by large-scale seed collection and storage efforts, aided by its partnership with the National Laboratory for Genetic Resource Preservation (NLGRP) to whom over 100,000 seeds of Florida endangered species have been sent, in addition to the SFCT in-house seed storage facilities.&nbsp;&nbsp;</p>
+<p style="text-align: justify;"><strong>Outreach:</strong> Conservation in an urban landscape requires public outreach, thus, the SFCT oversees the Connect to Protect Network, a citizen Science program that donates native pine rockland plants to local schools, businesses, and homeowners with the goal of helping to promote biological connectivity in the landscape by establishing "stepping stone" gardens.&nbsp; Public outreach and education is necessary to ensure that management strategies like fire can be implemented with support from the public.&nbsp;</p>
+<p style="text-align: left;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bgci.org/files/ERABG/project_images/Fairchild%20Tropical%20Botanic%20Garden/Pine%20rockland%20garden%20at%20West%20Miami%20Middle%20School_website.jpg" alt="" width="500" height="375" /></p>
+<p style="text-align: center;"><strong>Figure 3:</strong> Pine rockland garden at West Miami Middle School, with understory species donated by Fairchild&rsquo;s Connect to Protect Network.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img src="https://www.bgci.org/files/ERABG/project_images/Fairchild%20Tropical%20Botanic%20Garden/A%20recently%20burned%20pine%20rockland%20in%20foreground%20with%20Miami%20homes%20in%20the%20background.jpg" alt="" width="384" height="512" /></p>
+<p style="text-align: center;"><strong>Figure 4:</strong> A recently burned pine rockland in foreground with Miami homes in the background.&nbsp; Many rare plants of this system are dependent on fire, and fire management is complicated by the urban interface.&nbsp;</p>
+<p style="text-align: left;">For more information about this project, visit:</p>
+<p style="text-align: left;"><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p style="text-align: left;"><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal"><a href="http://www.fairchildgarden.org/science-conservation-/plant-collections/florida-native-plant-collection">http://www.fairchildgarden.org/science-conservation-/plant-collections/florida-native-plant-collection</a></p>
+<p class="MsoNormal"><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p class="MsoNormal"><a href="http://www.fairchildgarden.org/science-conservation/connect-to-protect-network">http://www.fairchildgarden.org/science-conservation/connect-to-protect-network</a></p>
+<p style="text-align: left;">&nbsp;</p>																<hr />
+							</div>
+													</div>
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+<section class="related">
+	<h2>Related articles</h2>
+		<div class="com-content">
+		<h3><a href="/resources/article/0616/">The Connect to Protect Network: Botanical gardens working to restore habitats and conserve rare species</a></h3>
+		<p class="articlePubDate">January 2009</p>
+	</div>
+		<div class="com-content">
+		<h3><a href="/resources/article/0526/">The Fairchild Challenge: Engaging Teenagers, Schools, and Communities</a></h3>
+		<p class="articlePubDate">October 2006</p>
+	</div>
+	</section>
+				﻿<!-- Related news section -->
+<section class="related">
+	<h2>Related news</h2>
+		<div class="com-content">
+		<h3><a href="/public-engagement/news/0946/">Winners announced - Fairchild Challenge/BGCI Global Competition 2012</a></h3>
+		<p class="published">16 May 2012</p>
+		<div class="com-content">
+		<h3><a href="/news-and-events/news/0791/">Winner of Fairchild Challenge/BGCI Global Option announced</a></h3>
+		<p class="published">12 April 2011</p>
+		<div class="com-content">
+		<h3><a href="/news-and-events/news/0490/">New Sites Poised to Take on The Fairchild Challenge</a></h3>
+		<p class="published">19 February 2008</p>
+		<div class="com-content">
+		<h3><a href="/news-and-events/news/0434/">Mexican Botanic Gardens Grow Plants Agenda</a></h3>
+		<p class="published">17 October 2007</p>
+		<div class="com-content">
+		<h3><a href="/eurasia/news/0431/">RBG Edinburgh Helps Plan Giant Garden in Desert</a></h3>
+		<p class="published">15 October 2007</p>
+	</section>
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

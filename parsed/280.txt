@@ -1,0 +1,31 @@
+ID:	280
+Name:	Botanical Garden - Institute of the Volga State Technological University / ???????????? ??? ??????? 
+Curator's Name:	Svetlana M. Lazareva, Deputy Director for Academic Research
+Director's Name:	Dr. L.I. Kotova, Director
+Info:	  Russian Federation - Mari El republic - Yoshkar-Ola  ;Garden Information;  Institution Code: YOSH; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanical Garden - Institute of the Volga State Technological University / ???????????? ??? ???????; Mira Street, 2"b"; Lenin Square 3; Yoshkar-Ola; Mari El republic 424030 Russian Federation; ;  Telephone: (8362) 64-74-87; Fax: (8362) 64-64-77; URL: <a target="_blank" href="http://botsad.volgatech.net/">http://botsad.volgatech.net/; Primary Email: botsad@volgatech.net ; 
+Plant Records Officer's Name:	
+Altitude:	100.00 Metres
+Annual Rainfall:	580 mm
+Date founded:	1939
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	56.30
+Local Address:	улица Мира, 2 б
+Locality:	Information
+Longitude:	48.00
+Natural Vegetation Area:	Yes
+Total Area:	73 Hectares
+Arboretum:	Yes
+Arboretum Size:	10
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	12000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Reintroduction Programme:	Yes
+Courses for General Public:	Yes
+Courses for University/College Students:	Yes
+Guided Tours:	Yes

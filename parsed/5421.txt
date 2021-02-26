@@ -1,0 +1,50 @@
+ID:	5421
+Name:	Stoneleigh: a natural garden 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Ethan Kauffman
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Info:	  United States of America - Pennsylvania - Villanova  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Stoneleigh: a natural garden; 1829 East County Line Road; Villanova; Pennsylvania 19085 United States of America; ;  Telephone: (951) 295-8338; Fax: ; URL: <a target="_blank" href="http://stoneleighgarden.org">stoneleighgarden.org; Primary Email: info@natlands.org ; 
+Plant Records Officer's Name:	Cody Hudgens
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2016
+Institution Type:	Botanic Garden
+Latitude:	40.042614
+Local Address:	1829 County Line Road Villanova, PA 19085
+Locality:	Information
+Longitude:	-75.340909
+Total Area:	16 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	15
+Number of Volunteers:	300
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	2703
+Cultivation Taxa Num:	1482
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

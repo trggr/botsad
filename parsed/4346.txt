@@ -1,0 +1,54 @@
+ID:	4346
+Name:	Jardim Botânico de Jundiaí - Valmor de Souza 
+Curator's Name:	Bruna Gonçalves da Silva
+Director's Name:	Thiago Pinto Pires
+Info:	  Brazil - São Paulo - Jundiai  ;Garden Information;  Institution Code: JBJWS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico de Jundiaí - Valmor de Souza; Avenida Navarro de Andrade, n° 120, Jardim Botânico, Jundiaí, São Paulo, Brazil; Av. Antonio Frederico Ozanan, n° 6400, Jardim Botânico, Jundiaí, São Paulo, Brazil; Jundiai; São Paulo 13214-900 Brazil; ;  Telephone: (11) 4582 2468; Fax: ; URL: <a target="_blank" href="http://jardimbotanico.jundiai.sp.gov.br/&usg=ALkJrhg-6mqVVR2t7YlMJ27P326aX2WMrQ">http://jardimbotanico.jundiai.sp.gov.br/&usg=ALkJrhg-6mqVVR2t7YlMJ27P326aX2WMrQ; Primary Email: jardimbotanico@jundiai.sp.gov.br ; 
+Plant Records Officer's Name:	
+Altitude:	730.00 Metres
+Annual Rainfall:	1500 mm
+Date founded:	2004
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-23.170682
+Local Address:	Av. Navarro de Andrade, 120 Av. Antonio Frederico Ozanan, 6400
+Locality:	Information
+Longitude:	-46.902099
+Natural Vegetation Area:	Yes
+Total Area:	15 Hectares
+Total area of glasshouses:	7 Metres
+Total area of shadehouses:	3000 Metres
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	100000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	11000
+Cultivation Taxa Num:	807
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Plant Breeding:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for University/College Students:	No
+Education Programme:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

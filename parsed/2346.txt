@@ -1,0 +1,28 @@
+ID:	2346
+Name:	Chanticleer Garden 
+Administration Staff Number:	2
+Curator's Name:	Eric Hsu, Plant Information Coordinator
+Director's Name:	R. William Thomas, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	13
+Info:	  United States of America - Pennsylvania - Wayne  ;Garden Information;  Institution Code: CHANT; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Chanticleer Garden; 786 Church Road; Wayne; Pennsylvania 19087 United States of America; ;  Telephone: (610) 687-6894; Fax: (610) 293-0149; URL: <a target="_blank" href="http://www.chanticleergarden.org">www.chanticleergarden.org; Primary Email: admin@chanticleergarden.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1196 mm
+Date founded:	1990
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.0300461
+Longitude:	-75.3908798
+Total Area:	19 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Number of Visitors:	37000
+Number of Volunteers:	5
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	9640
+Special Collections:	Woodland species and native wildflowers.
+Guided Tours:	Yes

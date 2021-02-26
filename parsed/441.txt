@@ -1,0 +1,40 @@
+ID:	441
+Name:	Fõvárosi Állat- és Növénykert 
+Administration Staff Number:	15
+Curator's Name:	ZSIGMOND Vince
+Director's Name:	Dr. BOGSCH Ilma
+Educational Staff Number:	5
+Horticultural Staff Number:	20
+Info:	  Hungary - Budapest  ;Garden Information;  Institution Code: BUDFA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fõvárosi Állat- és Növénykert; Budapest Zoo and Botanical Garden; Allatkerti Korut 6 - 12,; Budapest; 1146 Hungary; ;  Telephone: +36 1 273 49 46; Fax: +36 1 273 49 50; URL: <a target="_blank" href="http://www.zoobudapest.com">www.zoobudapest.com; Primary Email: zsigmond@zoobudapest.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	105.00 Metres
+Annual Rainfall:	508 mm
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	47.5000
+Local Address:	1146, 羖latkerti krt. 6-12
+Locality:	Information
+Longitude:	19.1666
+Satellite Garden Names:	-
+Total Area:	10 Hectares
+Number of Visitors:	1
+Number of Volunteers:	20
+Open to public:	Yes
+Seed Bank:	Yes
+Special Collections:	Cactaceae, succulents, National Bonsai Collection, dendrological collectionEuropean and Hungarian Protected Plants
+Ex Situ Conservation Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Invasive Species Biology and Control:	Yes
+Seed/Spore Biology:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

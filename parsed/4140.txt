@@ -1,0 +1,9 @@
+ID:	4140
+Name:	Biodôme de Montréal - Botanical Garden 
+Curator's Name:	Stéphane Labelle, Agent de conservation et phytoprotection
+Director's Name:	Rachel Léger, Director
+Info:	  Canada - Quebec - Montreal  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Biodôme de Montréal - Botanical Garden; 4777, avenue Pierre-de-Coubertin; Montreal; Quebec H1V 1B3 Canada; ;  Telephone: (514) 868-3000; Fax: (514) 868-3065; URL: <a target="_blank" href="http://www.biodome.qc.ca/">www.biodome.qc.ca/; Primary Email: biodome@ville.montreal.qc.ca ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	45.55956
+Longitude:	-73.54976

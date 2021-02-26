@@ -1,0 +1,12 @@
+ID:	3371
+Name:	University of Nevada Las Vegas Arboretum 
+Curator's Name:	Fred Smith, Grounds Supervisor
+Director's Name:	Robert Lynn, Facilities Supervisor
+Info:	  United States of America - Nevada - Las Vegas  ;Garden Information;  Institution Code: RENOA; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Nevada Las Vegas Arboretum; 4505 South Maryland Parkway; P.O. Box 451064; Las Vegas; Nevada 89557 United States of America; ;  Telephone: (702) 895-3392; Fax: ; URL: <a target="_blank" href="http://www.unr.edu/arboretum">www.unr.edu/arboretum; Primary Email: grndshop@unlv.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1985
+Institution Type:	Botanic Garden
+Latitude:	36.1052370
+Longitude:	-115.1398950
+Open to public:	Yes

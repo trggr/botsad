@@ -1,0 +1,10 @@
+ID:	3613
+Name:	Jardín Etnobotánico Felipe Marin Moreno Pisaq 
+Curator's Name:	
+Director's Name:	Entomóloga Rosmarina Marin Loayza
+Info:	  Peru - Cusco - Pisaq  ;Garden Information;  Institution Code: PISQ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Etnobotánico Felipe Marin Moreno Pisaq; Asociacion para la Naturaleza y Desarrollo para Comunidades Sostenibles ( ANDES); Ruinas 451; Pisaq; Cusco Peru; ;  Telephone: +51 84 245021; Fax: +51 84 230626; URL: <a target="_blank" href="http://">; Primary Email: andes@andes.org.pe ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-6.9674
+Longitude:	-76.4274

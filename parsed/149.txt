@@ -1,0 +1,59 @@
+ID:	149
+Name:	Jardim Botânico Tropical 
+Fax:	
+Info:	  Portugal - Lisbon  ;Garden Information;  Institution Code: JBT; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	geral@museus.ulisboa.pt
+Telephone:	(351) 213 921 808
+Curator's Name:	Maria Cristina Duarte (scientific curator)
+Director's Name:	Marta Lourenço
+Plant Records Officer's Name:	
+Altitude:	30.00 Metres
+Annual Rainfall:	617 mm
+Date founded:	1906
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	38.699444
+Local Address:	Largo de Belém
+Locality:	Information
+Longitude:	-9.202222
+Natural Vegetation Area:	No
+Total Area:	7 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	Tropical Trees and Shrubs
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

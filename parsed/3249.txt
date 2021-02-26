@@ -1,0 +1,11 @@
+ID:	3249
+Name:	Jardin Botanico de Cordoba 
+Curator's Name:	
+Director's Name:	NK
+Info:	  Colombia - Monteria  ;Garden Information;  Institution Code: CMCO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Cordoba; Universidad de Cordoba, MONTERIA,Colombia; Monteria; 14004 Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	8.7597
+Longitude:	-75.8873
+Special Collections:	Germplasm bank of Andalusian plants (including +3,000 accessions, representing 1,500 taxa), ethnobotanical plants and a museum of ethnobotanical artefacts, greenhouse collections including ornamental plants, economic plants, Agavaceae and Cactaceae, plant

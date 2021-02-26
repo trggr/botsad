@@ -1,0 +1,11 @@
+ID:	5148
+Name:	Jardin Botanico de la Instituto de Botánica, Universidad de Guadalajara 
+Curator's Name:	
+Director's Name:	Dr. Miguel Ángel Muñiz Castro, Researcher and Professor
+Info:	  Mexico - Jalisco - Zapopan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de la Instituto de Botánica, Universidad de Guadalajara; Departamento de Botánica y Zoología, Centro Universitario de Ciencias Biológicas y Agropecuarias, Universidad de Guadalajara; Km 15.5 carr. Guadalajara a Nogales, Las Agujas, Nextipac; Zapopan; Jalisco 45110 Mexico; ;  Telephone: +52 (33)3777-1150; Fax: ; URL: <a target="_blank" href="http://cucba.udg.mx">cucba.udg.mx; Primary Email: miguelmunizcastro@gmail.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	20.745608
+Longitude:	-103.512970
+Herbarium:	Yes

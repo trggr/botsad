@@ -1,0 +1,30 @@
+ID:	4570
+Name:	Clovis Botanical Garden 
+Administration Staff Number:	
+Curator's Name:	Ruth Saludes
+Director's Name:	Anne Clemons, Board President
+Educational Staff Number:	6
+Horticultural Staff Number:	6
+Info:	  United States of America - California - Clovis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Clovis Botanical Garden The Clovis Botanical Garden, established in 2002, is a one-acre water-wise demonstration garden composed of beautiful plants and landscapes appropriate for the hot summers and cool winters of California’s Central Valley. The garden is on land owned by the City of Clovis, bordered by a bike trail and Dry Creek Park. The garden is a non-profit organization with a Board of Directors and is a 100% volunteer effort.; Mission: To promote water conservation in the California Central Valley landscape though excellent gardens, exhibits and programs that educate and inspire the public.;  Main Address:; Clovis Botanical Garden; 945 North Clovis Avenue; Mailing: 1865 Herndon Avenue, Suite K, Mailbox 330; Clovis; California 93611 United States of America; ;  Telephone: (559) 298-3091; Fax: ; URL: <a target="_blank" href="http://www.clovisbotanicalgarden.org">www.clovisbotanicalgarden.org; Primary Email: admin@clovisbotanicalgarden.com ; 
+Plant Records Officer's Name:	Ruth Saludes
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2002
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	36.8375567
+Local Address:	945 N. Clovis Avenue
+Locality:	Information
+Longitude:	-119.6810692
+Natural Vegetation Area:	Yes
+Number of Volunteers:	100
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

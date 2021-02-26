@@ -1,0 +1,33 @@
+ID:	2037
+Name:	Thorp Perrow Arboretum 
+Administration Staff Number:	1
+Curator's Name:	Faith Douglas
+Director's Name:	Sir John Ropner
+Educational Staff Number:	2
+Horticultural Staff Number:	3
+Info:	  United Kingdom - North Yorkshire - Bedale  ;Garden Information;  Institution Code: PERRO; International Agenda Registration: No; BGCI Member: Yes; About the Thorp Perrow Arboretum Thorp Perrow Arboretum is one of the finest private collections of trees and shrubs in the country. This 85 acre arboretum is unique to Britain, if not Europe, in that it was the creation of one man, Colonel Sir Leonard Ropner (1895 - 1977) and is now owned and managed by Sir John Ropner.; ; Situated in the Yorkshire Dales, not far from the historic town of Bedale, Thorp Perrow is an exciting place to explore offering something for everyone, and is home to some of the largest and rarest trees and shrubs in England. There are tree trails, a nature trail and a children's trail, a large lake, picnic area and children's play area. The Arboretum also embraces the Milbank Pinetum planted by Lady Augusta Milbank in the mid-nineteenth century, and the medieval Spring Wood dates back to the 16th century.; ; Thorp Perrow provides interest all the year round. In the spring you can witness one of the finest and most extensive plantings of daffodils in the north of England, including some old and unusual varieties. This is followed by many of the trees covered in blossom, carpets of bluebells and bold drifts of wild flowers. Midsummer brings evenings theatre events, children's trail throughout August and newly planted hydrangeas will be in their full glory. Later in the year the autumn provides stunning colours. The grass paths through the Arboretum are mown regularly, but other areas are mown once a year to provide an ideal habitat for the many wild flowers, fungi and insects that you can see.;  Main Address:; Thorp Perrow Arboretum; Thorp Perrow; Bedale; North Yorkshire DL8 2PR United Kingdom; ;  Telephone: 01677 425323; Fax: 01677 425323; URL: <a target="_blank" href="http://www.thorpperrow.com">www.thorpperrow.com; Primary Email: curator@thorpperrow.com ; 
+Plant Records Officer's Name:	Faith Douglas
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1931
+Institution Type:	Private Collection
+Latitude:	54.263133
+Longitude:	-1.605091
+Total Area:	34 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Number of Visitors:	55000
+Number of Volunteers:	18
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Cultivation Taxa Num:	1744
+Special Collections:	Juglans, Quercus, Fraxinus, Tilia, Cotinus.
+Education:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

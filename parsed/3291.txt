@@ -1,0 +1,15 @@
+ID:	3291
+Name:	National Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Castlewellan  ;Garden Information;  Institution Code: CFP; International Agenda Registration: No; BGCI Member: No; About the National Arboretum Herbarium - held in conjunction with BEL.; ; Taxa - 3,000 accessions, 4,000 plants.;  Main Address:; National Arboretum; Castelwellan Forest Park Castlewellan Co. Down BT31 9BU Northern Ireland UK; Castlewellan; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	54.265193
+Longitude:	-5.95022
+Total Area:	40 Hectares
+Herbarium:	Yes
+Number of Visitors:	45000
+Cultivation Taxa Num:	1750
+Special Collections:	Cupressaceae, Podocarpaceae, Pinaceae, Liliaceae, Eucryphiaceae, Malvaceae, Myrtaceae, Aceraceae, Winteraceae, Compositae, Pittosporaceae, Araliaceae, Theaceae, Taxodiaceae, Escalloniaceae, Rosaceae, Ericaceae, Tropaeolaceae, Epicridaceae, Fagaceae. Cupre

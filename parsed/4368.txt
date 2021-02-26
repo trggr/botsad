@@ -1,0 +1,41 @@
+ID:	4368
+Name:	EcoJardin Instituto Investigaciones en Ecosistemas y Sustentabilida 
+Fax:	(55) 443 3 22 27 19
+Info:	  Mexico - Michoacan - Morelia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jmc@cieco.unam.mx
+Telephone:	(55) 443 3 22 38 06
+Administration Staff Number:	1
+Curator's Name:	Juan Martínez Cruz
+Director's Name:	Dr. Ken Oyama Nakagawa
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Juan Martínez Cruz
+Research Staff Number:	1
+Altitude:	1910.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	2005
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	19.5000
+Local Address:	Antigua carretera a Pátzcuaro 8701. col. ExHacienda de San José de la Huerta. C.P.58190. Morelia, Michoacán
+Locality:	Information
+Longitude:	-101.1000
+Natural Vegetation Area:	No
+Total Area:	6 Hectares
+Total area of shadehouses:	500 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Number of Visitors:	50
+Open to public:	Yes
+Special Collections:	Las colecciones aún se encuentran en desarrollo, Se tiene una base de datos pero aún no se rotula en las áreas desarrolladas (arboretum) el número de ejemplares.
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Plant Breeding:	Yes
+Urban Environments:	Yes
+Guided Tours:	Yes

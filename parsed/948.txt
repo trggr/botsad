@@ -1,0 +1,37 @@
+ID:	948
+Name:	The Sir Harold Hillier Gardens 
+Administration Staff Number:	6
+Curator's Name:	David Jewell
+Director's Name:	Clare Goddard
+Educational Staff Number:	3
+Horticultural Staff Number:	16
+Info:	  United Kingdom - Hampshire - Romsey  ;Garden Information;  Institution Code: HILL; International Agenda Registration: Yes; BGCI Member: Yes; About the The Sir Harold Hillier Gardens One of the largest collections of hardy trees and shrubs in the world. 180 acres with a selection of different areas showing a wide range of growing conditions. A world class winter garden, a bog and peat garden, a pond area with marginal plants, a vast arboretum, heather gardens and dwarf conifer beds, woodlands and meadows. Some of our large plant collections include Camellias, Rhododendrons, Magnolias. We have, probably, the worlds longest, double herbaceous borders showing an incredible range of perennials, many new to cultivation. We are also holders of 12 National Plant Collections including Qaks (Quercus and Lithocarpus), Witch hazels (Hamamelis) and Cornus. We also have the National Collection of Hillier Plants (those raised and named by Hillier nurseries).;  Main Address:; The Sir Harold Hillier Gardens; Jermyns House; Ampfield; Romsey; Hampshire SO51 0QA United Kingdom; ;  Telephone: 01794 369317/318; Fax: 01794 368027; URL: <a target="_blank" href="http://www.hilliergardens.org.uk">http://www.hilliergardens.org.uk; Primary Email: info@hilliergardens.org.uk ; 
+Plant Records Officer's Name:	Barry Clarke
+Research Staff Number:	
+Altitude:	50.00 Metres
+Annual Rainfall:	750 mm
+Date founded:	1953
+Institution Type:	Botanic Garden
+Latitude:	51.00976
+Local Address:	
+Locality:	Information
+Longitude:	-1.45486
+Total Area:	72 Hectares
+Arboretum:	Yes
+Arboretum Size:	72
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	220000
+Number of Volunteers:	160
+Open to public:	Yes
+Accession Number:	24000
+Cultivation Taxa Num:	11471
+Special Collections:	Betulaceae, Ericaceae, Fagaceae, Hamamelidaceae, Magnoliaceae,Sapindaceae.
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

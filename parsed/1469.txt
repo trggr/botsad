@@ -1,0 +1,10 @@
+ID:	1469
+Name:	Jardin Botanico "Leandro Agreda" 
+Curator's Name:	
+Director's Name:	-
+Info:	  Colombia - Putumayo  ;Garden Information;  Institution Code: PUTUM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico "Leandro Agreda"; Sibundoy; Putumayo; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	0.4230
+Longitude:	-75.5220

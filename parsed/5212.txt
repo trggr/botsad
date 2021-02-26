@@ -1,0 +1,82 @@
+ID:	5212
+Name:	The Green Ark Foundation 
+Fax:	
+Info:	  Costa Rica - Santa Barbara de Heredia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	mcoffey@theark.green
+Telephone:	+ 506 2269 4849
+Workshops and educational courses:	We offer a large variety of workshops and educational courses to visitors and students on the commercial uses of plants such as medicinal plant preparations, essential oil extraction, alcohol tinctures, food dehydration, natural colorant extraction, preparation of plant-based fungicides, insecticides, and repellents, worm composting, organic fertilizers, mushroom cultivation, tree grafting, orchid growing and farm to table cooking, among others. We are currently setting up an online course platform to continue educating and sharing our knowledge about plants and their uses.
+Administration Staff Number:	4
+Curator's Name:	Harve Thomas
+Director's Name:	Isabel Simpson
+Educational Staff Number:	1
+Horticultural Staff Number:	16
+Plant Records Officer's Name:	Harve Thomas
+Research Staff Number:	
+Altitude:	1200.00 Metres
+Annual Rainfall:	2200 mm
+Date founded:	2017
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	10.0382275
+Local Address:	De la Y Griega Rosales 800 m North Santa Barbara, Heredia, Santa Bárbara, 40401. Calle Sabaneta
+Locality:	Information
+Longitude:	-84.168793
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	None
+Total Area:	7 Hectares
+Total area of shadehouses:	5000 Metres
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	2000
+Number of Volunteers:	2
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	-
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

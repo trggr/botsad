@@ -1,0 +1,37 @@
+ID:	4354
+Name:	Alcsúti Arboretum 
+Fax:	+3622353061
+Info:	  Hungary - Alcsútdoboz  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	arboretuma@externet.hu
+Telephone:	+36204248995
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Ferenc HALÁSZ
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	134.00 Metres
+Annual Rainfall:	600 mm
+Date founded:	1820
+Institution Type:	Botanic Garden
+Latitude:	47.423333
+Local Address:	
+Locality:	Information
+Longitude:	18.598333
+Total Area:	40 Hectares
+Arboretum:	Yes
+Arboretum Size:	40
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	30000
+Number of Volunteers:	200
+Open to public:	Yes
+Ex Situ Conservation Programme:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes

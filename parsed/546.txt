@@ -1,0 +1,20 @@
+ID:	546
+Name:	Karachi University Botanic Garden 
+Administration Staff Number:	6
+Curator's Name:	Sher Wali Khan
+Director's Name:	Prof. Dr. Anjum Perveen
+Educational Staff Number:	1
+Horticultural Staff Number:	25
+Info:	  Pakistan - Sindh - Karachi  ;Garden Information;  Institution Code: SINDI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Karachi University Botanic Garden; University of Karachi; University Road; Karachi; Sindh 75270 Pakistan; ;  Telephone: +9243131 - 37 (ext 2557); Fax: 0921-99261364; URL: <a target="_blank" href="http://">; Primary Email: exsitu.conservation@gmail.com ; 
+Plant Records Officer's Name:	Haider Abbas
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	24.8510
+Longitude:	67.0083
+Micropropagation/ Tissue Culture Facilities:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Education:	Yes
+Horticulture:	Yes
+Education Programme:	Yes

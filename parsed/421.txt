@@ -1,0 +1,34 @@
+ID:	421
+Name:	Botanischer Garten der Universitat Tubingen 
+Curator's Name:	Dr. Alexandra Kehl, Curator
+Director's Name:	Prof.Dr. Katja Tielbörger
+Info:	  Germany - Deutschland - Tubingen  ;Garden Information;  Institution Code: TUEB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Universitat Tubingen; Hartmeyerstr. 123; Tubingen; D-72076 Germany - Deutschland; ;  Telephone: 7071 29-78822; Fax: 7071 29-5344; URL: <a target="_blank" href="https://www.uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/botanischer-garten.html">https://www.uni-tuebingen.de/einrichtungen/zentrale-einrichtungen/botanischer-garten.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	450.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1969
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	48.5498
+Longitude:	9.0423
+Total Area:	10 Hectares
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Number of Visitors:	20000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Invasive Species Policy:	Yes
+Special Collections:	Fuchsia (30 spp.), Rhododendron (150-180 spp.), Dionysia (40 spp.)
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

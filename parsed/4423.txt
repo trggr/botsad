@@ -1,0 +1,63 @@
+ID:	4423
+Name:	Phoenix Zoo - Gardens 
+Administration Staff Number:	16
+Curator's Name:	Scott Frische, Horticulture
+Director's Name:	Bert Castro
+Educational Staff Number:	37
+Horticultural Staff Number:	12
+Info:	  United States of America - Arizona - Phoenix  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Phoenix Zoo - Gardens; 455 N. Galvin Parkway; Phoenix; Arizona 85008 United States of America; ;  Telephone: (602) 273-1341; Fax: (602) 914-4380; URL: <a target="_blank" href="http://www.phoenixzoo.org">www.phoenixzoo.org; Primary Email: hkassim@thephxzoo.com ; 
+Plant Records Officer's Name:	Hassena Kassim
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Date founded:	1967
+Institution Type:	Zoological Institution
+Landscaped Area:	Yes
+Latitude:	33.4537840
+Longitude:	-111.9532640
+Natural Vegetation Area:	Yes
+Total Area:	126 Hectares
+Arboretum:	No
+Disabled access:	Yes
+Herbarium:	No
+Open to public:	Yes
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

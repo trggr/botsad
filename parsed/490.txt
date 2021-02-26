@@ -1,0 +1,10 @@
+ID:	490
+Name:	Istituto Botanico dell'Universita 
+Curator's Name:	V Coletto
+Director's Name:	F Montacchini
+Info:	  Italy - Piemonte - Torino  ;Garden Information;  Institution Code: TO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Istituto Botanico dell'Universita; Viale P. A. Mattioli 25; Torino; Piemonte 10125 Italy; ;  Telephone: +39 011 6699884; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	45.0568
+Longitude:	7.6810

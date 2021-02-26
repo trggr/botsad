@@ -1,0 +1,65 @@
+ID:	705
+Name:	Botanic Garden of Smith College, The 
+"garden-photo"> <img src="/photos/705/BGSC-Lyman&Arb-200.jpg" alt="Lyman Conservatory with perennial border in the foreground and the campus arboretum. Botanic Garden of Smith College, Northampton, MA" /> Lyman Conservatory with perennial border in the foreground and the campus arboretum. Botanic Garden of Smith College, Northampton, MA  About the Botanic Garden of Smith College, The The Smith College campus was originally planned and planted over one hundred years ago as a botanic garden and arboretum, designed by the landscape architecture firm of Frederick Law Olmsted. Today, the Botanic Garden encompasses the 125 acre college campus. The Lyman Plant House features a changing Exhibition Gallery and the Lyman Conservatory consists of 12,000 square feet under glass, housing tropical collections and two special shows annually:	the Spring Bulb Show in March and the Fall Chrysanthemum Show in November. The campus arboretum and specialty gardens on campus contain over of 7000 labeled and mapped plants. Adjacent to the Lyman Conservatory are the Rock Garden, one of the oldest in America, and the Systematics Garden, renovated in 2015 to reflect the Angiosperm Phylogeny Group system of classification. Other gardens include Capen Garden, a Woodland and Wildflower Garden, and Herb Garden. Audio tours are available as well as guided tours for school groups.
+Fax:	(413) 585-2744
+Info:	  United States of America - Massachusetts - Northampton  ;Garden Information;  Institution Code: SCHN; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
+Primary Email:	garden@smith.edu
+Telephone:	(413) 585-2742
+Administration Staff Number:	5
+Curator's Name:	Elaine Chittenden, Manager of Living Collections
+Director's Name:	Tim Johnson, Director
+Educational Staff Number:	2
+Horticultural Staff Number:	8
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	61.00 Metres
+Annual Rainfall:	1092 mm
+Date founded:	1895
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.3165694
+Longitude:	-72.6401580
+Natural Vegetation Area:	No
+Total Area:	50 Hectares
+Total area of glasshouses:	1115 Metres
+Arboretum:	Yes
+Arboretum Size:	50
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	60000
+Number of Volunteers:	35
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	8353
+Cultivation Taxa Num:	5339
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	-1200 types of woody trees and shrubs
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Conservation - Biology:	No
+Education:	Yes
+Ethnobotany:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	No
+Restoration Ecology:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

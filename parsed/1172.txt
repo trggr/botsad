@@ -1,0 +1,54 @@
+ID:	1172
+Name:	Hershey Gardens 
+Administration Staff Number:	3
+Curator's Name:	Jamie Shiffer, Grounds Manager
+Director's Name:	Don Papson, Executive Director, The M.S. Hershey Foundation
+Educational Staff Number:	3
+Horticultural Staff Number:	7
+Info:	  United States of America - Pennsylvania - Hershey  ;Garden Information;  Institution Code: HERSG; International Agenda Registration: No; BGCI Member: No; About the Hershey Gardens When approached to sponsor a national rosarium in Washington , D.C. , Milton S. Hershey instead decided to create a garden in Hershey, where he and the community could enjoy it. Hershey Gardens began with Mr. Hershey's request to "create a nice garden of roses."; ; The 23 acre Gardens are now much more than just roses; visit breathtaking theme gardens, brilliant seasonal displays, unique trees, a mesh enclosed Butterfly House and a wondrous Children's Garden.;  Main Address:; Hershey Gardens; 170 Hotel Road; Hershey; Pennsylvania 17033 United States of America; ;  Telephone: (717) 508-5975; Fax: (717) 533-8287; URL: <a target="_blank" href="http://www.hersheygardens.com">www.hersheygardens.com; Primary Email: info@hersheygardens.org ; 
+Plant Records Officer's Name:	Barbara Whitcraft, Horticulture Specialist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1023 mm
+Date founded:	1937
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.2952930
+Local Address:	170 Hotel Road
+Locality:	Information
+Longitude:	-76.6646370
+Natural Vegetation Area:	Yes
+Total Area:	9 Hectares
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	96000
+Number of Volunteers:	357
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Roses, dwarf conifers, beech, herbaceous perennials, grasses, weeping conifers.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Education:	No
+Horticulture:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,14 @@
+ID:	4132
+Name:	Central Botanical Garden of National Academy of Sciences of Azerbaijan 
+Administration Staff Number:	10
+Curator's Name:	Farid Seyfullayev
+Director's Name:	Farzaliyev Vahid
+Educational Staff Number:	8
+Horticultural Staff Number:	10
+Info:	  Azerbaijan - Azerbaijan - Baku  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Central Botanical Garden of National Academy of Sciences of Azerbaijan; Mikayil Mushfig 103; Baku; Azerbaijan AZ1004 Azerbaijan; ;  Telephone: (+994 12) 502 43 21; Fax: (+994 12) 502 41 72; URL: <a target="_blank" href="http://www.cbg.org.az">www.cbg.org.az; Primary Email: fseyfullayev@yahoo.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	35
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	40.3834
+Longitude:	49.8932

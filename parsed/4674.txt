@@ -1,0 +1,9 @@
+ID:	4674
+Name:	Hattiesburg Zoo 
+Curator's Name:	Robert Mange, Horticulture Supervisor
+Director's Name:	Tommy Hall, Crew Supervisor
+Info:	  United States of America - Mississippi - Hattiesburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hattiesburg Zoo; 107 South 17th Avenue; Hattiesburg; Mississippi 39401 United States of America; ;  Telephone: (601) 545-4576; Fax: ; URL: <a target="_blank" href="http://www.zoohattiesburg.com">www.zoohattiesburg.com; Primary Email: zoo@hattiesburg.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	31.3245524
+Longitude:	-89.3144004

@@ -1,0 +1,32 @@
+ID:	1179
+Name:	Green Bay Botanical Garden 
+Administration Staff Number:	21
+Curator's Name:	Mark Konlock, Director of Horticulture
+Director's Name:	Susan Garot, Executive Director
+Educational Staff Number:	2
+Horticultural Staff Number:	5
+Info:	  United States of America - Wisconsin - Green Bay  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Green Bay Botanical Garden Green Bay Botanical Garden cultivates an appreciation for the enduring relationship between plants and people. Through our volunteers and staff, we serve people of all ages by providing year-round educational and recreational experiences within an environment that engages, inspires and refreshes.;  Main Address:; Green Bay Botanical Garden; 2600 Larsen Road; Green Bay; Wisconsin 54303 United States of America; ;  Telephone: 920 490.9457; Fax: (920) 490- 9461; URL: <a target="_blank" href="http://www.gbbg.org">www.gbbg.org; Primary Email: info@gbbg.org ; 
+Plant Records Officer's Name:	Sarah Pingel, Horticulture/Education Specialist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1996
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	44.5312480
+Longitude:	-88.0971760
+Natural Vegetation Area:	Yes
+Total Area:	19 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Accession Number:	7830
+Cultivation Taxa Num:	3800
+Plant Collection Policy:	Yes
+Special Collections:	Woodys, Herbs, perennials, roses.
+Horticulture:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

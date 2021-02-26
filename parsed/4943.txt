@@ -1,0 +1,9 @@
+ID:	4943
+Name:	Vizcaya Museum and Gardens 
+Curator's Name:	Ian Simpkins, Deputy Director for Horticulture
+Director's Name:	Joel M. Hoffman, Executive Director
+Info:	  United States of America - Florida - Miami  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Vizcaya Museum and Gardens; 3251 South Miami Avenue; Miami; Florida 33129 United States of America; ;  Telephone: (305) 250-8430; Fax: (305) 285-7137; URL: <a target="_blank" href="http://www.vizcayamuseum.org">www.vizcayamuseum.org; Primary Email: vizcayainformation@vizcayamuseum.org ; 
+Plant Records Officer's Name:	Carol De Biase, Curator of Orchids
+Institution Type:	Botanic Garden
+Latitude:	25.744607
+Longitude:	-80.210456

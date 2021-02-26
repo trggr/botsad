@@ -1,0 +1,37 @@
+ID:	303
+Name:	Geografisch Arboretum Tervuren 
+Fax:	
+Info:	  Belgium - Tervuren  ;Garden Information;  Institution Code: OVERI; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	patrick.huvenne@lne.vlaanderen.be
+Telephone:	32 (0)475 914 700
+Administration Staff Number:	1
+Curator's Name:	Marc Van Hummelen and Wilfried Emmerechts
+Director's Name:	Patrick Huvenne
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	Marc Van Hummelen and Wilfried Emmerechts
+Research Staff Number:	1
+Altitude:	100.00 Metres
+Annual Rainfall:	780 mm
+Date founded:	1902
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	50.8000
+Longitude:	4.4833
+Natural Vegetation Area:	Yes
+Total Area:	350 Hectares
+Arboretum:	Yes
+Arboretum Size:	100
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Cultivation Taxa Num:	470
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Plant Breeding:	Yes
+Urban Environments:	Yes
+Guided Tours:	Yes

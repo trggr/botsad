@@ -1,0 +1,9 @@
+ID:	4690
+Name:	Seneca Park Zoo 
+Curator's Name:	David Hamilton, General Curator
+Director's Name:	Larry Sorel, Zoo Director
+Info:	  United States of America - New York - Rochester  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Seneca Park Zoo; 2222 St. Paul Street; Rochester; New York 14621 United States of America; ;  Telephone: (716) 266-6591; Fax: ; URL: <a target="_blank" href="http://www.senecaparkzoo.org">www.senecaparkzoo.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	43.1968701
+Longitude:	-77.6174640

@@ -1,0 +1,33 @@
+ID:	3619
+Name:	Botanische Tuin Groningen "Domies Toen" 
+Curator's Name:	
+Director's Name:	nienke reeder
+Info:	  Netherlands - Pieterburen  ;Garden Information;  Institution Code: PIETB; International Agenda Registration: No; BGCI Member: No; About the Botanische Tuin Groningen "Domies Toen" botanische tuin met inhemse soorten en stinsenplanten;  Main Address:; Botanische Tuin Groningen "Domies Toen"; Hoofdstraat 76; 9968 AG; Pieterburen; 9968 AG Netherlands; ;  Telephone: 0595-528636; Fax: ; URL: <a target="_blank" href="http://www.domiestoen.nl">www.domiestoen.nl; Primary Email: info@domiestoen.nl ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1961
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	53.4016
+Local Address:	Hoofdstraat 76 9968 AG Pieterburen
+Locality:	Information
+Longitude:	6.4457
+Total Area:	1 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Number of Volunteers:	35
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	900
+Special Collections:	stinzenplanten
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

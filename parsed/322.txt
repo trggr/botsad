@@ -1,0 +1,12 @@
+ID:	322
+Name:	Morgan Arboretum 
+Curator's Name:	Christina Idziak, Curator
+Director's Name:	Unknown
+Info:	  Canada - Quebec - Ste-Anne-de-Bellevue  ;Garden Information;  Institution Code: MORGA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Morgan Arboretum; Macdonald Campus, McGill University, 150 chemin des Pins; 21,111 Lakeshore Road, P.O. Box 186; Ste-Anne-de-Bellevue; Quebec H9X 3V9 Canada; ;  Telephone: (514) 398-7811; Fax: (514) 398-7959; URL: <a target="_blank" href="http://www.morganarboretum.org">www.morganarboretum.org; Primary Email: morgan.arboretum@mcgill.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1952
+Institution Type:	Botanic Garden
+Latitude:	45.42885
+Longitude:	-73.95207
+Special Collections:	Native trees of Canada, especially Betula spp.

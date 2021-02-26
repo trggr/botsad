@@ -1,0 +1,11 @@
+ID:	2102
+Name:	Museu de Biologia Mello Leitao 
+Curator's Name:	Helio deQ Boudet Fernandes
+Director's Name:	Jose Waldemar Tabacow
+Info:	  Brazil - Santa Tereza  ;Garden Information;  Institution Code: MELET; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Museu de Biologia Mello Leitao; Av. Jose Ruschi, 4, Centro, 29650 Santa Tereza - ES, Brazil; Santa Tereza; Brazil; ;  Telephone: 027-2591182; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	-19.8614
+Longitude:	-40.6739
+Special Collections:	Epiphytes and rupicolous plants. Atlantic forest plants.

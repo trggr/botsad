@@ -1,0 +1,9 @@
+ID:	5349
+Name:	California State University Fullerton Biology Greenhouse Complex 
+Curator's Name:	
+Director's Name:	Edward Read
+Info:	  United States of America - California - Fullerton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; California State University Fullerton Biology Greenhouse Complex; Department of Biological Science (MH-282), California State University Fullerton; 800 North State College Blvd; Fullerton; California 92831 United States of America; ;  Telephone: (657) 278-3614; Fax: (657) 278-3426; URL: <a target="_blank" href="http://www.fullerton.edu/biology/facilities/greenhouse/">http://www.fullerton.edu/biology/facilities/greenhouse/; Primary Email: eread@fullerton.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	33.879718
+Longitude:	-117.887387

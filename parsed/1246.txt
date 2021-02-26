@@ -1,0 +1,23 @@
+ID:	1246
+Name:	Aburi Botanic Gardens 
+Fax:	233 2177 7821
+Info:	  Ghana - Aburi  ;Garden Information;  Institution Code: ABURI; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	
+Telephone:	233 2176 4337
+Curator's Name:	vacant
+Director's Name:	George Owusu-Afriyie
+Plant Records Officer's Name:	Albert Prempeh
+Altitude:	460.00 Metres
+Date founded:	1890
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	5.8469
+Longitude:	-0.1755
+Natural Vegetation Area:	Yes
+Total Area:	64 Hectares
+Number of Visitors:	75000
+Open to public:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes

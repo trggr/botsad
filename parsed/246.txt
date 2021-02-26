@@ -1,0 +1,29 @@
+ID:	246
+Name:	Trinity College Dublin Botanic Garden 
+Curator's Name:	Dr Stephen Waldren
+Director's Name:	Professor Jennifer C. McElwain
+Info:	  Ireland - Dublin  ;Garden Information;  Institution Code: TCD; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Trinity College Dublin Botanic Garden; University of Dublin,; Palmerston Park, Dartry; Dublin; 6 Ireland; ;  Telephone: 353 (0)1 497 2070; Fax: 353 (0)1 608 1147; URL: <a target="_blank" href="https://www.tcd.ie/Botany/botanic-garden/">https://www.tcd.ie/Botany/botanic-garden/; Primary Email: swaldren@tcd.ie ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	53.3181
+Longitude:	-6.2615
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Seed Bank:	Yes
+Special Collections:	Trees, shrubs and herbaceous plants, bulbs, alpines, greenhouse collection of tropical and subtropical ornamentals, economic plants, cacti and other succulents, orchids, ferns (including tree ferns), cycads, Begonia, Pelargonium, a large collection of wil
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Restoration Ecology:	Yes
+Guided Tours:	Yes

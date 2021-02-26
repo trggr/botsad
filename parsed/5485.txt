@@ -1,0 +1,11 @@
+ID:	5485
+Name:	Finnish Museum of Natural History / Helsinki University Botanic Garden SEED BANK 
+Curator's Name:	
+Director's Name:	
+Info:	  Finland - Helsinki  ;Garden Information;  Institution Code: HSB; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Finnish Museum of Natural History / Helsinki University Botanic Garden SEED BANK; P.O. Box 7; Unioninkatu 44; Helsinki; FI-00014 Finland; ;  Telephone: +358 2 941 50041; Fax: +358 2 941 50033; URL: <a target="_blank" href="https://www.luomus.fi/en/botany-unit-0">https://www.luomus.fi/en/botany-unit-0; Primary Email: hortus-botanicus@helsinki.fi ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	60.1833
+Longitude:	24.9500
+Seed Bank:	Yes

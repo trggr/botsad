@@ -1,0 +1,9 @@
+ID:	5155
+Name:	Marwell Zoo 
+Curator's Name:	
+Director's Name:	Marwell Wildlife
+Info:	  United Kingdom - Hampshire - Winchester,  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Marwell Zoo; Thompsons Lane; Winchester,; Hampshire SO21 1JH United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.marwell.org.uk/zoo">www.marwell.org.uk/zoo; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	50.990451
+Longitude:	-1.284004

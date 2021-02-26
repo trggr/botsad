@@ -1,0 +1,9 @@
+ID:	5323
+Name:	Michigan State University Plant Sciences Greenhouse 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - Michigan - East Lansing  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Michigan State University Plant Sciences Greenhouse; 1059 Farm Ln; East Lansing; Michigan 48824 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://www.canr.msu.edu/hrt/about-us/facilities/plant_science_greenhouses">https://www.canr.msu.edu/hrt/about-us/facilities/plant_science_greenhouses; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	42.722800
+Longitude:	-84.475812

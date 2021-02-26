@@ -1,0 +1,25 @@
+ID:	4886
+Name:	IITA - Forest Unit 
+Fax:	
+Info:	  Nigeria - Oyo State - Ibadan  ;Garden Information;  Institution Code: IITA; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	
+Curator's Name:	
+Director's Name:	Deni Bown
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	7.412822
+Longitude:	3.894395
+Open to public:	Yes
+Special Collections:	The collection focuses on medicinal plants, indigenous trees and forest plants of Nigeria.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Restoration Ecology:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes

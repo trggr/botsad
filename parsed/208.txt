@@ -1,0 +1,10 @@
+ID:	208
+Name:	Buckhout Greenhouse, The 
+Curator's Name:	
+Director's Name:	Anthony Omeis, Greenhouse Technician
+Info:	  United States of America - Pennsylvania - University Park  ;Garden Information;  Institution Code: PAC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Buckhout Greenhouse, The; Department of Biology, Pennsylvania State University; 202 Buckhout Laboratory; University Park; Pennsylvania 16802 United States of America; ;  Telephone: (814) 865-6593; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: aho1@psu.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	40.7995640
+Longitude:	-77.8602660

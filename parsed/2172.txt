@@ -1,0 +1,38 @@
+ID:	2172
+Name:	Olbrich Botanical Gardens 
+Administration Staff Number:	6
+Curator's Name:	John Wirth, Conservatory Curator
+Director's Name:	Roberta Sladky, Director
+Educational Staff Number:	2
+Horticultural Staff Number:	9
+Info:	  United States of America - Wisconsin - Madison  ;Garden Information;  Institution Code: OLBR; International Agenda Registration: No; BGCI Member: No; About the Olbrich Botanical Gardens Olbrich Botanical Gardens features 16 acres of outdoor display gardens and a year-round tropical conservatory. The Sunken Garden features regional prairie style terraces, a mix of perennial plants, and an 80-foot reflecting pool. In the two and a half acre Perennial Garden, a meandering stream weaves through a colorful mix of perennial plants hardy to the upper Midwest. Visitors can experience the exquisite artisanship and exotic culture of Thailand in Olbrich’s Thai Pavilion and Garden. The Pavilion is the only one in the continental United Sates. The unique Thai-style garden uses Midwest hardy plants with a tropical feel. In June, 2005 the 50th Anniversary Rose Garden will open to the public with innovate mixed borders of Midwest hardy shrub roses and perennials. Other gardens include the Herb, Rock, Meadow, and Wildflower Gardens. The Bolz Conservatory, a sunny glass pyramid, houses a diverse collection of tropical plants and blooming orchids year-round.;  Main Address:; Olbrich Botanical Gardens; 3330 Atwood Avenue; Madison; Wisconsin 53704 United States of America; ;  Telephone: (608) 246-4550; Fax: (608) 246-4719; URL: <a target="_blank" href="http://www.olbrich.org">www.olbrich.org; Primary Email: scybart@cityofmadison.com ; 
+Plant Records Officer's Name:	Kate McWhirter, Plant Recorder
+Research Staff Number:	
+Altitude:	236.00 Metres
+Date founded:	1952
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	43.0926010
+Longitude:	-89.3346750
+Total Area:	6 Hectares
+Total area of glasshouses:	6 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	250
+Number of Volunteers:	500
+Open to public:	Yes
+Special Collections:	Herbs, perennials, roses and All-America Rose Selections Display gardens.
+Ex Situ Conservation Programme:	Yes
+Data Management Systems and Information Technology:	Yes
+Horticulture:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

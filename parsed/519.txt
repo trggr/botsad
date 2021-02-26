@@ -1,0 +1,11 @@
+ID:	519
+Name:	The Botanic Garden 
+Curator's Name:	
+Director's Name:	Dr. T. Tsujii
+Info:	  Japan - Sapporo  ;Garden Information;  Institution Code: SAPPO; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanic Garden; Faculty of Agriculture, Hokkaido University, N-3, W-8, Chuo-Ku, SAPPORO 060, Japan.; Sapporo; Japan; ;  Telephone: 011 221 0066; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	43.0637
+Longitude:	141.3580
+Special Collections:	Collections - South-eastern Asia, North America, Eurosiberian, native flora.

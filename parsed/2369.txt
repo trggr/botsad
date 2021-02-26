@@ -1,0 +1,13 @@
+ID:	2369
+Name:	Jardín Botánico 'Selva Misionera' 
+Curator's Name:	Ing. Claudio Dummel
+Director's Name:	Ing. Ftal. Beatriz Eibl
+Info:	  Argentina - Misiones - Eldorado  ;Garden Information;  Institution Code: ELDOR; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico 'Selva Misionera'; Facultad Ciencias Forestales, Universidad Nacional de Misiones; Bertoni 124; Eldorado; Misiones 3382 Argentina; ;  Telephone: 54-(0) 3751-431780 / 431526; Fax: 54-(0) 3751-431766; URL: <a target="_blank" href="http://">; Primary Email: beibl@facfor.unam.edu.ar ; 
+Plant Records Officer's Name:	Guillermo Kuppers
+Altitude:	0.00 Metres
+Date founded:	2005
+Institution Type:	Botanic Garden
+Latitude:	-26.405161
+Longitude:	-54.665225
+Open to public:	Yes
+Special Collections:	No information available.

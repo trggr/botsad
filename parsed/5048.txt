@@ -1,0 +1,9 @@
+ID:	5048
+Name:	Department of Forests 
+Curator's Name:	
+Director's Name:	
+Info:	  Cyprus  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Department of Forests; Louki Akrita 26; Lefkosia; 1414 Cyprus; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	35.1333956
+Longitude:	33.3069293

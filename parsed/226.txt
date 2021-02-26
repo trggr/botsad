@@ -1,0 +1,79 @@
+ID:	226
+Name:	Bergius Botanic Garden 
+Administration Staff Number:	6
+Curator's Name:	Lars Gunnar Reinhammar, Karin Martinsson, Gunvor Larsson
+Director's Name:	Catarina Rydin
+Educational Staff Number:	3
+Horticultural Staff Number:	15
+Info:	  Sweden - Stockholm  ;Garden Information;  Institution Code: SBT; International Agenda Registration: Yes; BGCI Member: Yes; About the Bergius Botanic Garden The Bergius Botanic Garden is ideally situated at Brunnsviken, an inlet of the Baltic Sea. The garden is part of the city’s national park, protected by law to preserve natural and cultural values for the future.; ; The primary objective of the Bergius Botanic Garden is to support teaching and research about plant diversity, and the garden is also a recreational spot and a source of botanical knowledge for all its visitors. With a history stretching back to the 18th century, the garden is today owned and managed by the Royal Swedish Academy of Sciences and Stockholm University.;  Main Address:; Bergius Botanic Garden; Stockholm University; Stockholm; SE-106 91 Sweden; ;  Telephone: +46 (0) 163387; Fax: ; URL: <a target="_blank" href="http://www.bergianska.se">www.bergianska.se; Primary Email: catarina.rydin@bergianska.se ; 
+Plant Records Officer's Name:	Gunvor Larsson
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Annual Rainfall:	539 mm
+Date founded:	1791
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	59.3327
+Local Address:	Veit Wittrocks väg 10 114 18 Stockholm
+Locality:	Information
+Longitude:	18.0644
+Natural Vegetation Area:	Yes
+Total Area:	20 Hectares
+Total area of glasshouses:	3000 Metres
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	138000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	9500
+Cultivation Taxa Num:	6000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Herbaria
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

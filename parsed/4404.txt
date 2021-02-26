@@ -1,0 +1,12 @@
+ID:	4404
+Name:	Wonkwang Botanical Garden 
+Curator's Name:	Jin-Cheol Jeong
+Director's Name:	Tae-oh Kwon
+Info:	  South Korea - Jeollabuk-do - Iksan-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wonkwang Botanical Garden; 344-2 Shinyong-dong; Iksan-si; Jeollabuk-do 570-749 South Korea; ;  Telephone: 063-850-5043; Fax: 063-850-5042; URL: <a target="_blank" href="http://botanicalgarden.wonkwang.ac.kr">http://botanicalgarden.wonkwang.ac.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	35.97133
+Local Address:	신용동 344-2
+Locality:	Information
+Longitude:	126.95218

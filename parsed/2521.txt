@@ -1,0 +1,11 @@
+ID:	2521
+Name:	Conservatoire Botanique Pyreneen 
+Curator's Name:	
+Director's Name:	Dr Jocelyne Cambecedes
+Info:	  France - Bagneres De Bigorr  ;Garden Information;  Institution Code: SALU; International Agenda Registration: No; BGCI Member: No; About the Conservatoire Botanique Pyreneen Location: BAGNERES DE BIGORRE; Founded: Unknown; Garden Name: Conservatoire Botanique Pyreneen; Address: Vallon de Salut, BP 315, 65203 BAGNERES DE BIGORRE Cedex.; Status: Unknown.; Herbarium: Unknown.; Ex situ Collections:; Native plants of the Pyrenees.;  Main Address:; Conservatoire Botanique Pyreneen; Vallon de Salut, BP 315 65203 BAGNERES DE BIGORRE Cedex FRANCE; Bagneres De Bigorr; France; ;  Telephone: 33 5 62 95 85 30; Fax: 33 5 62 95 03 48; URL: <a target="_blank" href="http://">; Primary Email: cbp.jc@wanadoo.fr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	43.0677
+Longitude:	0.1504
+Special Collections:	Native plants of the Pyrenees.

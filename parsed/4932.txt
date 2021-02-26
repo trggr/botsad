@@ -1,0 +1,9 @@
+ID:	4932
+Name:	Conservatoire Genetique des Arbres Forestiers USC ONF-INRA 
+Curator's Name:	
+Director's Name:	The Director
+Info:	  France - Orleans  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Conservatoire Genetique des Arbres Forestiers USC ONF-INRA; Centre de recherche d'Orleans; 2163 Avenue de la Pomme de Pin,; Orleans; CS 40001 Ardon France; ;  Telephone: ; Fax: + 33 (0) 2 38 41 48 00; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	Thierry Lamant
+Institution Type:	Botanic Garden
+Latitude:	47.82948
+Longitude:	1.91578

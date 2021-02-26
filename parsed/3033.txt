@@ -1,0 +1,12 @@
+ID:	3033
+Name:	Beijing Medical University Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Beijing - Beijing  ;Garden Information;  Institution Code: BMUB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Beijing Medical University Botanic Garden; Botany Department, College of Pharmacy, Beijing Medical University, Beijing, 100083, China; Beijing; Beijing 100083 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	39.9055
+Local Address:	中国北京市北京医科大学药学院植物系，邮编 100083
+Locality:	Information
+Longitude:	116.3958

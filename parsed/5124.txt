@@ -1,0 +1,11 @@
+ID:	5124
+Name:	Istituto ed Orto Botanico della Universita- Seed Bank 
+Curator's Name:	
+Director's Name:	Prof. Paolo Meletti
+Info:	  Italy - Pisa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Istituto ed Orto Botanico della Universita- Seed Bank; Via Luca Ghini 5, I-56100 PISA, Italy.; Pisa; Italy; ;  Telephone: 50 560045; Fax: 50 551345; URL: <a target="_blank" href="http://">; Primary Email: GIANNI@DSB.UNIPI.IT ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	43.7198
+Longitude:	10.3971
+Seed Bank:	Yes

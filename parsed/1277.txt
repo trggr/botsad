@@ -1,0 +1,11 @@
+ID:	1277
+Name:	Wimborne Botanic Gardens 
+Curator's Name:	Terry Bishop
+Director's Name:	
+Info:	  United Kingdom - Wimborne  ;Garden Information;  Institution Code: WIMBO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wimborne Botanic Gardens; Stapehill, WIMBORNE, Dorset BH21 7ND, U.K.; Wimborne; United Kingdom; ;  Telephone: 0202 873931; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1986
+Institution Type:	Botanic Garden
+Latitude:	50.799786
+Longitude:	-1.917512
+Special Collections:	Australian Plants

@@ -1,0 +1,9 @@
+ID:	5629
+Name:	Tashkent Botanical Garden 
+Curator's Name:	
+Director's Name:	ABDINAZAROV Sodikjon
+Info:	  Uzbekistan - Tashkent  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tashkent Botanical Garden; 232, Bogishamol str.; Yunusobod district; Tashkent; 100053 Uzbekistan; ;  Telephone: +998712891028; Fax: ; URL: <a target="_blank" href="http://tashkentgarden.uz/">http://tashkentgarden.uz/; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	41.3440127
+Longitude:	69.3078197

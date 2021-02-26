@@ -1,0 +1,82 @@
+ID:	561
+Name:	Rogów Arboretum of Warsaw University of Life Sciences 
+Fax:	+48468748136
+Info:	  Poland - łódzkie - Rogów  ;Garden Information;  Institution Code: ROGOW; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	arboretum@sggw.pl
+Telephone:	+48468748136
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Piotr Banaszczak
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	185.00 Metres
+Annual Rainfall:	596 mm
+Date founded:	1923
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	51.8166
+Local Address:	ul. Leśna 5b, 95-063 Rogów
+Locality:	Information
+Longitude:	19.8833
+Natural Vegetation Area:	Yes
+Total Area:	54 Hectares
+Total area of glasshouses:	424 Metres
+Total area of shadehouses:	1000 Metres
+Arboretum:	Yes
+Arboretum Size:	54
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	50000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	7400
+Cultivation Taxa Num:	4200
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Conifers - 1021 accessions, 415 taxa including 206 cultivars
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

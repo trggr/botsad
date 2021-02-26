@@ -1,0 +1,78 @@
+ID:	218
+Name:	Botanical Garden of the University of Latvia, The 
+Fax:	+371 67450852
+Info:	  Latvia - Riga  ;Garden Information;  Institution Code: RIGG; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	botdarzs@lanet.lv
+Telephone:	+371 67450852
+Administration Staff Number:	4
+Curator's Name:	Inese Martena, Signe Tomsone (Deputy Directors)
+Director's Name:	Anta Sparinska
+Educational Staff Number:	1
+Horticultural Staff Number:	26
+Plant Records Officer's Name:	Andris Orehovs
+Research Staff Number:	6
+Altitude:	8.00 Metres
+Date founded:	1922
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	56.9533
+Local Address:	Kandavas iela 2
+Locality:	Information
+Longitude:	24.0387
+Natural Vegetation Area:	No
+Satellite Garden Names:	No
+Total Area:	15 Hectares
+Total area of glasshouses:	1025 Metres
+Total area of shadehouses:	45 Metres
+Arboretum:	Yes
+Arboretum Size:	9
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	43000
+Number of Volunteers:	6
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Cultivation Taxa Num:	5400
+Special Collections:	Trees and shrubs (755 taxa), tropical and subtropical plants under glass (1660 taxa), ornamental herbaceous plants in display gardens (1990 taxa).
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

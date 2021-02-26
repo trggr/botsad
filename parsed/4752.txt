@@ -1,0 +1,75 @@
+ID:	4752
+Name:	Blandford Manor 
+Administration Staff Number:	3
+Curator's Name:	peter chaldecott
+Director's Name:	peter chaldecott
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  South Africa - Gauteng - Randburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Blandford Manor The gardens at Blandford Manor have been developed to showcase a variety of indigenous and exotic flora.; The gardens have been divided on the basis of themes, these themes include the seasons, an autumn garden, spring garden,winter garden and summer garden plus an indigenous garden, water garden and colours.;  Main Address:; Blandford Manor; 106 Hyperion Drive; North Riding; Randburg; Gauteng 2156 South Africa; ;  Telephone: 27114625012; Fax: 27114629364; URL: <a target="_blank" href="http://www.blandfordmanor.com">http://www.blandfordmanor.com; Primary Email: peter@blandfordmanor.com ; 
+Plant Records Officer's Name:	peter chaldecott
+Research Staff Number:	1
+Altitude:	1510.00 Metres
+Annual Rainfall:	720 mm
+Date founded:	1976
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-26.042522
+Local Address:	106 Hyperion Drive North Riding Randburg
+Locality:	Information
+Longitude:	27.963621
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Total area of shadehouses:	3000 Metres
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	2000
+Number of Volunteers:	2
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

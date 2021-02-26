@@ -1,0 +1,9 @@
+ID:	4217
+Name:	Howick Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Northumberland  ;Garden Information;  Institution Code: HOW; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Howick Arboretum; Alnwick; Northumberland NE66 3LB United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.howickhallgardens.org">www.howickhallgardens.org; Primary Email: estateoffice@howickuk.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	55.450632
+Longitude:	-1.609675

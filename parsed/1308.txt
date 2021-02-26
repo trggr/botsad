@@ -1,0 +1,17 @@
+ID:	1308
+Name:	Mary Flagler Cary Arboretum 
+Curator's Name:	Allan Kling, Grounds Foreman
+Director's Name:	Dr. William Schlesinger, President
+Info:	  United States of America - New York - Millbrook  ;Garden Information;  Institution Code: NY; International Agenda Registration: No; BGCI Member: No; About the Mary Flagler Cary Arboretum The Cary Institute of Ecosystem Studies is dedicated to the creation, dissemination and application of knowledge about ecological systems. This knowledge is created through scientific research, disseminated through teaching, writing, and exhibits, and applied through participation in decision-making regarding the ecological management of natural resources and through promotion of a broader awareness about the importance of ecological relationships to human welfare.;  Main Address:; Mary Flagler Cary Arboretum; Cary Institute of Ecosystem Studies; 2801 Sharon Turnpike (Route 44), P.O. Box AB; Millbrook; New York 12545 United States of America; ;  Telephone: (845) 677-5343; Fax: ; URL: <a target="_blank" href="http://www.ecostudies.org/hiking-trails.html">www.ecostudies.org/hiking-trails.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1971
+Institution Type:	Botanic Garden
+Latitude:	41.7936010
+Longitude:	-73.6945500
+Total Area:	778 Hectares
+Arboretum:	Yes
+Arboretum Size:	778
+Open to public:	Yes
+Special Collections:	Wild collected woody plants of temperate areas, especially the former Soviet Union and eastern Asia. Emphasis on Betulaceae, Pinaceae, Acer, Salix, Fraxinus, temperate ferns and allies.
+Urban Environments:	Yes

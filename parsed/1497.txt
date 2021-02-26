@@ -1,0 +1,10 @@
+ID:	1497
+Name:	Kagoshima Botanical Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Japan - Kagoshima  ;Garden Information;  Institution Code: KAGOC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kagoshima Botanical Garden; 1-7-15 Yoziro, KAGOSHIMA CITY, Kagoshima Prefecture, Japan.; Kagoshima; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1971
+Institution Type:	Botanic Garden
+Latitude:	31.5753
+Longitude:	130.5398

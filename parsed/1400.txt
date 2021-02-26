@@ -1,0 +1,39 @@
+ID:	1400
+Name:	Filoli 
+Administration Staff Number:	10
+Curator's Name:	Jim Salyards, Manager of Hort. Collections and Education
+Director's Name:	Kara Newport, Executive Director
+Educational Staff Number:	2
+Horticultural Staff Number:	14
+Info:	  United States of America - California - Woodside  ;Garden Information;  Institution Code: FILOL; International Agenda Registration: No; BGCI Member: No; About the Filoli Filoli is dedicated to the preservation, interpretation and stewardship of the cultural traditions and natural history of this country estate for public education and enjoyment.;  Main Address:; Filoli; 86 Canada Road; Woodside; California 94062 United States of America; ;  Telephone: (650) 364-8300; Fax: (650) 366-7836; URL: <a target="_blank" href="http://www.filoli.org">www.filoli.org; Primary Email: friends@filoli.org ; 
+Plant Records Officer's Name:	Jim Salyards, Manager of Hort. Collections and Education
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	728 mm
+Date founded:	1976
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	37.4695970
+Local Address:	86 Canada Road
+Locality:	Information
+Longitude:	-122.3104680
+Natural Vegetation Area:	Yes
+Total Area:	264 Hectares
+Total area of glasshouses:	518 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Number of Visitors:	100000
+Number of Volunteers:	1100
+Open to public:	Yes
+Special Collections:	Compositae, Cupressaceae, Ericaceae, Iridaceae, Labiatae, Leguminosae, Liliaceae, Magnoliaceae, Oleaceae, Polypodiaceae, Ranunculaceae, Rosaceae, Rutaceae, Saxifragaceae, Scrophulariaceae, Taxodiaceae, Theaceae
+Conservation Programme:	Yes
+Reintroduction Programme:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

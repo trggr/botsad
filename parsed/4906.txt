@@ -1,0 +1,77 @@
+ID:	4906
+Name:	Cox Arboretum & Gardens 
+Administration Staff Number:	2
+Curator's Name:	Evelyn Cox
+Director's Name:	Tom Cox
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Info:	  United States of America - Georgia - Canton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Cox Arboretum & Gardens The Cox Arboretum and Gardens is a private estate located in Canton, Georgia. Canton is approximately 40 miles north of Atlanta in the foothills of the Piedmont Range. Numbering over 4,000 living specimens, the plantings display one of the largest private collections of temperate flora in the United States. With an elevation of 1200 feet and containing several lakes and streams, we are able to grow a wide variety of plants in our zone 7B climate. The property is also bounded by several large wetland habitats where many migratory and native fowl make their home. It is situated on 13 acres in the middle of an old-growth southern deciduous hardwood forest, containing many large Oaks, Hickory, Poplar and Sweetgum--some of which are over 100 years old;  Main Address:; Cox Arboretum & Gardens; 1621 N. Lake Drive; Canton; Georgia 30115 United States of America; ;  Telephone: 404-421-6614; Fax: ; URL: <a target="_blank" href="http://www.coxgardens.com/">http://www.coxgardens.com/; Primary Email: coxarb2@gmail.com ; 
+Plant Records Officer's Name:	Tom Cox
+Research Staff Number:	1
+Altitude:	368.00 Metres
+Annual Rainfall:	1422 mm
+Date founded:	1990
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.21751
+Local Address:	1621 North Lake Dr
+Locality:	Information
+Longitude:	-84.37131
+Natural Vegetation Area:	Yes
+Total Area:	5 Hectares
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	200
+Number of Volunteers:	3
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	4000
+Cultivation Taxa Num:	2800
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	The garden maintains a representative collection of temperate conifers, along with a handful of tropical species that we demonstrate as good houseplants such as Araucaria, Podocarpus and Retrophyllum.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

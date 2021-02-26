@@ -1,0 +1,2434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: 200px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>Multiplant International Medicinal Conservation</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=4203"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>Kenya - Kenya - Endebess</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+																				</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> MIMC</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: Yes</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: No</p>
+							
+														<p><a href="http://www.arbnet.org" target="_blank">ArbNet Accredited</a>: 
+								Level III							</p>
+														
+														<div class="garden-photo">
+								<img src="/photos/4203/medicinal-kenya.jpg" alt="A new medicinal plant Plectranthus sp. from Lamiaceae family which we have been cultivating and using a lot in helping people overcome conditions such as Anxiety, Arthritis, Cancer, Chronic Fatigue, Depression, Diabetes, Heart Problems, Infertility, Low Energy, Lack of Motivation, Toxic overload and now it has proved to be effective in treatment of Epilepsy" />
+								<div>A new medicinal plant Plectranthus sp. from Lamiaceae family which we have been cultivating and using a lot in helping people overcome conditions such as Anxiety, Arthritis, Cancer, Chronic Fatigue, Depression, Diabetes, Heart Problems, Infertility, Low Energy, Lack of Motivation, Toxic overload and now it has proved to be effective in treatment of Epilepsy</div>
+							</div>
+											
+														<h2>About the Multiplant International Medicinal Conservation</h2>
+							<p>Multiplant International Medicinal Conservation(MIMC) is a non-profit making organization based in Trans-nzoia county of Kwanza District, Endebess sub-county, Kaitaboss farm located 25 km West of Kitale town at an altitude of 1900-2200m. <br />
+MIMC is primarily concerned with wild plants conservation as well as integrating conservation with sustainable development, equitable use of aromatic and medicinal plants for the well-being of our entire society in general. <br />
+The organization has put medicinal and aromatic plants to the economic benefits of disadvantaged people and especially the women to enhance gender equality and improve income in rural poor.<br />
+<br />
+The Specific objectives of MIMC are; <br />
+<br />
+1.	To undertake and encourage the planting and tending of valuable and endangered plant species.<br />
+2.	To identify medicinal and aromatic plants species for which demand exist and which are suitable for cultivation in tropical countries.<br />
+3.	To identify suitable partners among those who are cultivating land and forging alliances with interested individuals, particularly women, on alternative land use for the cultivation of medicinal and aromatic plants.<br />
+4.	To carry out field trials with selected plants species.<br />
+5.	To establish broad ranged field extraction facilities in rural areas.<br />
+6.	To train people and particularly women in operating and maintaining field extraction facilities.<br />
+7.	To set up a simple packaging and storage facilities for semi processed materials.<br />
+8.	To establish in close collaboration with academic and research institutions on quality control mechanisms.<br />
+9.	To encourage small-scale entrepreneurship and establish marketing mechanisms.<br />
+10. To liaise with similar initiatives elsewhere in tropical countries.<br />
+11.     To mobilize funding from national, and international bodies to enable launching of the initiative and maintaining its functions<br />
+Mimc activities;<br />
+Since its inception, Mimc has advocated the establishment of medicinal plant nurseries in rural communities where useful plants are propagated and not only to provide a source of coveted medicinal and edible plants, but the purpose is to familiarize the public and especially the young people on useful medicinal plants that are used by their society in health improvement.<br />
+We have established an ethnobotanic garden consisting of herbal indigenous plants which are in cultivated plots thus serving as demonstration and commercial garden whereby, over harvested wild plant species are planted. <br />
+<br />
+Activities at MIMC:<br />
+•	Propagation and cultivating of endangered medicinal plants<br />
+•	Medicinal plant nursery with over 100,000 seedlings.<br />
+•	Processing and packaging of medicinal plants  <br />
+•	Environmental education and awareness creation <br />
+•	Vermiculture                                  <br />
+The Director, Mr. Joannes Bosco B. Samikwo, is also a herbal practitioner, and medicinal plants consultant in various organizations in Kenya including Plants for life, Sanctuaries landscape Ltd, A.K Amstrong forest restoration project and Sanata charitable trust in Gilgil. MIMC is accredited member of BGCI in the international agenda in plant conservation. One of the aims of BGCI is to ensure that national botanic gardens conserve indigenous flora. <br />
+ <br />
+MULTIPLANT INTERNATIONAL MEDICINAL CONSERVATION <br />
+Multiplant international medicinal conservation was founded in September 2002 with a mission of restoring, researching, capacity building and awareness creation on the uses of medicinal herbal plants for our own well-being, and conservation of indigenous wild plants species. And MIMC remains committed to supporting public rights to truthful information about the health benefit of medicinal herbal plants.<br />
+<br />
+With the little income Mimc generates from medicinal plants and products sale, Mimc has been able to undertake and perform some activities like; Monthly environmental and ethnobotanic education, putting medicinal plants to the economic benefits of disadvantaged communities to provide income, nutrition and health improvement. <br />
+<br />
+Mimc has also encouraged communities to plant valuable endangered medicinal plants like Echinops, Warburgia, Euphorbia crotonoides, Withania somnifera e.t.c as any other crop for their own benefit and the entire world community in the coming future. Through our education programmes, we are reaching about 100 people each month with accurate information on the safe and appropriate use of medicinal herbal plants. <br />
+ <br />
+Environmental & Plant Conservation; <br />
+Plants are important and yet their habitats are vitally important as well, plants provide us with; food, medicine, firewood, clothes, regulate climate, stabilizes the soil, oxygen production and it makes life on earth possible for both humans and all other animal form. The consumption of plant based medicines and health food is a worldwide phenomenon. This has resulted in the rapid growth in trade in hundreds of wild crafted and cultivated medicinal plants and development of a sophisticated botanical extraction industry. Plant species are vanishing at an alarming rate, and out of 270,000 of the plant species found in 200 countries, one in eight is threatened with extinction. And this is brought up by the loss of wild habitats, growing industrialization, urbanization, intensive farming and unsustainable harvesting of wild species and ideally, together we can save plant live before being destructed or over harvested.<br />
+<br />
+Sustainable management of traditional medicinal plants resources is important, not only because of their value as a potential source of new drugs but due to reliance on traditional medicinal plants for health. The vast majority of people in Africa consult traditional medicinal practitioners for their health care. With few exceptions, traditional medicinal plants are gathered from the wild. Although reliance on traditional medicinal practitioners may decline in long term as alternative health care, facilities become available, increasing demand for popular herbal medicines is expected in the foreseeable future.<br />
+<br />
+Over the same period, certain vegetation types that were sources of supply of traditional medicines are drastically vanishing due to forest clearance for agriculture, uncontrolled burning, logging and livestock grazing. And exclusion from core conservation areas adversely affects traditional medicinal practitioners who previously gathered medicinal plants in those sites. In addition, supplies of herbal medicines to traditional medicinal practitioners are affected by competing resource use such as; timber logging, commercial harvesting for export etc. This creates a growing demand for fewer resources in some cases resulting in local disappearance of favored and effective sources of traditional medicine and reduced species diversity.<br />
+<br />
+The most vulnerable species are popular, slow growing or slow to reproduce or species with specific habitat requirements and a limited distribution. Although in theory, sustainable use of bark, roots or whole plant used as herbal medicines is possible, the high levels of money and manpower for intensive management of slow growing species in multiple species systems are unlikely to be found in most African countries. <br />
+<br />
+The cultivation of alternative sources of supply of popular, high conservation areas is therefore essential. However, commercial cultivation of such species is not a simple solution and at present, it is unlikely to be profitable due to the slow growth rate for most species and low prices paid for traditional medicines.  <br />
+With over 1200 species of indigenous plants growing in our Ethnobotanic garden, the garden is becoming a seed bank of many species that are locally, nationally or internationally threatened. <br />
+Environmental education <br />
+MIMC runs courses on herbal medicines, plant identification, tree growing and management (from tree nursery to forest establishment) and nature walks. For bookings, contact Joannes on 0735393606; email: samikwo@gmail.com <br />
+ <br />
+MIMC ASSOCIATED ACTIVITIES<br />
+Since its establishment in the year 2002, we started with a small home tree nursery that consisted of 1 tree species (Pittosporum viridiflorum) and gradually, the tree nursery begun to emerge and so far we’ve planted over 500,000 seedlings since we started. <br />
+MIMC plant collection, propagation and conservation activities<br />
+MIMC has collected, conserved, propagated and planted over 1200 species of trees, shrubs, lianas and herbs since September 2002. These consist of over 1200 upland Kenya species, 70 lowland Kenya species, 70 non-Kenyan African species, and 210 exotic species (non Kenya and Africa in general). These can be found both inside the main campus and seedlings can be obtained from our extension campus nursery, and retail outlets countrywide. <br />
+Ethnobotanic and herbal garden <br />
+On southern side of Endebess, at Chorlim location, ask for a place called Kaa-moss farm, this is just off the Mt. Elgon National park road, you’ll find our 1 hectare Ethnobotanic garden which consists of medicinal nursery and herbal garden. Inside the garden and its environ, we’re finding more bird and insect species coming in but no inventory record that has been kept up to date but soon we’re going do develop one.<br />
+Medicinal plant nursery <br />
+Multiplant medicinal nursery currently has many species for sale, especially on contract order. We mainly concentrate on unusual indigenous trees and non tree plants found in local habitat. We’ve two medicinal nurseries one at the main Mimc Ethnobotanic garden campus and the other one at Mimc extension campus at Endebess trading centre (Suam road just after the Endebess bridge then turn to your right). At Mimc, we have established two centres one in Kitale town and the other one in West Pokot county, both are natural health and plant shops, please we do appreciate if you can pay us a visit.<br />
+Recreation <br />
+At Mimc main campus garden and extension campus, we’ve visitors and recreation centre both for children and adult. Mimc visitors centre offers several recreational services and we do also serve refreshments at our coffee shop as per request. <br />
+Indigenous flower garden; <br />
+Most of our landscaping has been done using indigenous wild flowers found locally from within and some from the alpine zone of Mt. Elgon. This will encourage more people who visit the garden to transform their gardens into beautiful natural eco gardens thus improving biodiversity in general.<br />
+MIMC Resources/products; <br />
+Our products range from; Herbal soaps, Natural beauty products, Herbal teas, Herbal tinctures, Medicinal plant seedlings, Medicinal plant seeds, Semi-processed herbal products<br />
+Our main species;<br />
+At Mimc, our main species of interest is to conserve all the wild plant species despite their economic importance.<br />
+Our total collection at Mimc<br />
+•	 1500 upland species<br />
+•	 230 lowland/coastal species<br />
+•	 70 non-Kenyan African<br />
+•	 210 exotic species<br />
+Total =2010 species represented in our Ethno-botanic garden<br />
+Our core message to the entire world community;<br />
+ “Care for plants and they’ll care for you”.<br />
+                    <br />
+ <br />
+<br />
+The garden itself is located on the western side ok Kitale at Chorlim location, Kaa-moss farm in Endebess Division of Trans-nzoia County, Kwanza District. The nearest market centre is Endebess and Cheptatan trading centre just off the Mt. Elgon national park road.<br />
+<br />
+CONTACT:<br />
+MULTIPLANT INTERNATIONAL MEDICINAL CONSERVATION | ENDEBESS | P.O. Box 50|ENDEBESS-30201, Kenya | Tel +254738268514/+254774914507; Cell +254735393606/+254713914507|Social media: Facebook page; Multiplant Medicinal; Twitter handle: @MIMC9</p>
+														<p>
+								<b>Main Address:</b><br />
+								Multiplant International Medicinal Conservation<br />
+								P.O. Box 50<br />								P.O. Box 50<br />								Endebess<br />								Kenya 30201 Kenya<br />
+							</p>
+							<p>
+								<b>Telephone:</b> Tel:- +254735393606/+254713914507<br />
+								<b>Fax:</b> <br />
+								<b>URL:</b> <a target="_blank" href="http://"></a><br />
+								<b>Primary Email:</b> multiplant_cnsrvtn@yahoo.co.uk							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: Joannes Bosco Barng'etuny Samikwo<br />
+										Curator's Name: Jecinta C. Simatwa<br />
+										Plant Records Officer's Name: Stephanie Chebet<br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: 6<br />
+										Educational Staff Number: 3<br />
+										Research Staff Number: 3<br />
+										Administration Staff Number: 5									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+																				Status: State: No<br />										Status: Educational: Yes<br />										Status: Municipal: No<br />										Status: Satellite: Yes<br />										Status: Trust: No<br />									</li>
+															
+																		<li>Date founded: 2002</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+															
+																		<li>
+										Landscaped Area: Yes<br />																			</li>
+															
+									<li>
+										Total Area: 3 Hectares<br />										Latitude: 1.0656<br />										Longitude: 34.8595<br />																				Altitude: 2000.00 Metres<br />																													</li>
+									
+															
+																		<li><b>Locality: Information</b></li>
+									<li>Locality: Garden Name: MULTIPLANT ETHNOBOTANIC GARDEN</li>
+									<li>Local Address: P.O.BOX 50, ENDEBESS-30201</li>
+									<li>Locality: City: ENDEBESS LOCATION OF KWANZA DISTRICT</li>
+									<li>Locality: State: KITALE IN TRANS-NZOIA COUNTY</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+										Herbarium: Yes<br />										Herbarium: Number of Specimens: 1500<br />										Arboretum: Yes<br />										Arboretum Size: 3<br />									</li>
+															
+																		<li>
+										Micropropagation/ Tissue Culture Facilities: No<br />										Seed Bank: Yes<br />										Published Plant Catalogue: Yes<br />										Computer Plant Record System: Yes<br />									</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: Yes<br />										Retail Outlet: Shop: Yes<br />										Retail Outlet: Plant Sales: Yes<br />										Disabled access: Yes<br />									</li>
+															
+																		<li>
+										Number of Visitors: 1000<br />										Number of  Volunteers: 30<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 2200<br />										Cultivation Taxa Num: 100<br />									</li>
+															
+																		<li><b>Special Collections:</b>LIST OF PLANTS COLLECTION.<br />
+Abrus precatorius<br />
+Abutilon grandifolium<br />
+Abutilon longicuspe<br />
+Abutilon mauritianum<br />
+Acacia amythethophylla<br />
+Acacia ancistroclada<br />
+Acacia ataxacantha<br />
+Acacia caffra<br />
+Acacia dolichocephala<br />
+Acacia etbaica<br />
+Acacia farnesiana<br />
+Acacia mearnsii<br />
+Acacia mellifera<br />
+Acacia persiciflora<br />
+Acacia persiciflora<br />
+Acalypha bipartita  <br />
+Acalypha fruticosa<br />
+Acalypha glabrata<br />
+Acalypha hispida<br />
+Acalypha ornata<br />
+Acalypha villicaulis<br />
+Acalypha volkensii<br />
+Acanthopale pubescens<br />
+Acanthospermum hispidum<br />
+Acanthus eminens<br />
+Acanthus montanus<br />
+Acanthus pubescens<br />
+Acanthus sennii<br />
+Achyranthes aspera<br />
+Achyranthes lanuginosa   <br />
+Achyraspermum parviflora<br />
+Achyrospermum carvalhi<br />
+Achyrospermum schimperi<br />
+Acmella caulirhiza<br />
+Acmella oleracea<br />
+Acokanthera oppositifolia<br />
+Acokanthera schimperi<br />
+Acrocarpus fraxinifolius<br />
+Actiniopteris semiflabellata<br />
+Adenia bequaertii<br />
+Adenia gummifera<br />
+Adenia wightiana<br />
+Adhatoda engleriana<br />
+Adhatoda schimperiana<br />
+Adiantum capilus-veneris<br />
+Aeolanthus stormsii<br />
+Aeollanthus repens<br />
+Aeonium leucoblepharun<br />
+Aerangis brachycarpa<br />
+Aerangis confusa<br />
+Aerangis luteoalba<br />
+Aerangis thomsonii<br />
+Aerangis ugandensis<br />
+Aerva javanica<br />
+Aerva lanata<br />
+Aerva leucura<br />
+Aeschynomene abyssinica<br />
+Aeschynomene schimperi<br />
+Aframomum angustifolium<br />
+Aframomum zambesiacum<br />
+Afrocanthium keniense<br />
+Afrocanthium lactescens               <br />
+Afrocarpus falcatus<br />
+Afrocarpus usambarensis<br />
+Afroligusticum aculeolatum<br />
+Agapanthus africanus<br />
+Agarista salicifolia<br />
+Agathisanthemum globosum<br />
+Agelaea pentagyna<br />
+Agelanthus oehleri<br />
+Agrocharis ingognita<br />
+Agrocharis melanantha<br />
+Ajuga integrifolia<br />
+Alangium chinense<br />
+Albizia adianthifolia<br />
+Albizia amara subsp. amara<br />
+Albizia amara subsp. sericocephala<br />
+Albizia coriaria<br />
+Albizia grandibracteata<br />
+Albizia gummifera<br />
+Albizia harveyi<br />
+Albizia procera<br />
+Albizia schimperiana<br />
+Albizia zygia<br />
+Albuca abyssinica<br />
+Albuca kirkii<br />
+Albuca setosa<br />
+Alchemilla elgonensis<br />
+Alchemilla fischeri<br />
+Alchemilla haumannii<br />
+Alchemilla johnstonii<br />
+Alchemilla rothii<br />
+Alectra sessiliflora var.senegalensis<br />
+Aleurites moluccana<br />
+Alisma plantago<br />
+Allophylus abyssinicus<br />
+Allophylus africanus<br />
+Allophylus ferrugineus<br />
+Allophylus rubifolius<br />
+Alnus serrulata<br />
+Aloe amudatensis<br />
+Aloe ballyi<br />
+Aloe confusa<br />
+Aloe debrana<br />
+Aloe elgonica <br />
+Aloe eminens<br />
+Aloe kedongensis<br />
+Aloe lateritia<br />
+Aloe lateritia var.graminicola<br />
+Aloe powysiorum<br />
+Aloe rabaiensis<br />
+Aloe ruspoliana<br />
+Aloe bussei<br />
+Aloe tweediae             <br />
+Aloe vera<br />
+Aloe volkensii<br />
+Aloe wilsonii<br />
+Aloe wollatsonii<br />
+Alternanthera sessilis<br />
+Alysicarpus glumaceus<br />
+Amaranthus blitum<br />
+Amaranthus caudatus<br />
+Amaranthus dubius<br />
+Amaranthus graecizans<br />
+Amaranthus hybridus<br />
+Amaranthus spinosus<br />
+Ammocharis tinneana<br />
+Amorphophallus galdaensis<br />
+Amorphophallus gallaensis<br />
+Ampelocissus africana<br />
+Anagallis arvensis<br />
+Androcymbium melanthioides<br />
+Aneilema aequinoctiale<br />
+Aneilema hirtum<br />
+Aneilema minutiflorum<br />
+Angraecopsis amaniensis<br />
+Angraecopsis gracillima<br />
+Angraecum erectum<br />
+Anisopappus chinensis<br />
+Anisopappus holstii<br />
+Anisotes parvifolius<br />
+Annona senegalensis<br />
+Ansellia africana<br />
+Anthericopsis sepalosa<br />
+Anthericum subpetiolatum<br />
+Antherotoma naudinii<br />
+Anthocleista grandiflora<br />
+Anthospermum usambarense<br />
+Antiaris toxicaria<br />
+Antidesma venosum<br />
+Aphloia theiformis<br />
+Apodytes dimidiata<br />
+Aponogeton abyssinicus<br />
+Araujia sericifera<br />
+Argemone mexicana<br />
+Argyrolobium fischeri<br />
+Arisaema enneaphyllum<br />
+Arisaema mildbraedii<br />
+Artabotrys likimensis<br />
+Artemisia afra<br />
+Artemisia annua<br />
+Artemisia ludoviciana<br />
+Asparagus asparagoides<br />
+Asparagus falcatus<br />
+Asparagus flagellaris<br />
+Asparagus racemosus<br />
+Asparagus scaberulus<br />
+Asparagus setaceus<br />
+Aspilia mossambicensis<br />
+Aspilia pluriseta<br />
+Asteranthe asterias<br />
+Asterolinon adoense<br />
+Astragalus atropilosulus<br />
+Astragalus atropilosulus subsp.abyssinicus<br />
+Astragalus venosus<br />
+Astripomoea hyoscyamoides<br />
+Astripomoea lachnosperma<br />
+Asystasia charmian<br />
+Asystasia gangetica<br />
+Asystasia laticapsula<br />
+Asystasia mysorensis<br />
+Athroisma psyllioides <br />
+Auricularia auricular-judae<br />
+Avena fatua<br />
+Azanza garkeana<br />
+Baccharoides adoensis<br />
+Baccharoides filigera<br />
+Baccharoides lasiopus<br />
+Balanites aegyptica       <br />
+Balanites pedicellaris<br />
+Balanites wilsoniana<br />
+Barleria acanthoides <br />
+Barleria argentea<br />
+Barleria grandicalyx<br />
+Barleria submollis<br />
+Barleria taitensis<br />
+Barleria ventricosa<br />
+Bartsia longiflora<br />
+Basella alba<br />
+Bauhinia taitensis<br />
+Bauhinia thonningii<br />
+Bauhinia tomentosa<br />
+Begonia argenteo-guttata<br />
+Begonia heracleifolia<br />
+Begonia meyeri-johannis<br />
+Begonia sutherlandii<br />
+Behnia reticulata<br />
+Berchemia discolor<br />
+Berkheya bipinnatifida<br />
+Berkheya spekeana<br />
+Bersama abyssinica<br />
+Bersama abyssinica subsp.paullinioides<br />
+Bersama lucens<br />
+Bersama tysoniana<br />
+Bidens biternata<br />
+Bidens buchneri                       <br />
+Bidens grantii                    <br />
+Bidens kilimandscharica<br />
+Bidens macroptera<br />
+Bidens pilosa<br />
+Bidens schimperi<br />
+Bidens ternata                      <br />
+Bidens ugandensis                   <br />
+Biophytum abyssinicum<br />
+Blepharis linariifolia<br />
+Blepharis maderaspatensis<br />
+Blepharispermum pubescens<br />
+Blighia unijugata<br />
+Blumea brevipes<br />
+Blumea cafra<br />
+Blumea elatior<br />
+Boehmeria macrophylla<br />
+Boerhavia diffusa<br />
+Boophone disticha<br />
+Boscia angustifolia<br />
+Boswellia neglecta<br />
+Bothriocline calycina<br />
+Bothriocline fusca<br />
+Bothriocline longipes<br />
+Bougainvillea glabra<br />
+Bourreria teitensis<br />
+Brachylaena huillensis<br />
+Brassica carinata <br />
+Brassica oleracea<br />
+Brassica oleracea var.capitata<br />
+Breonadia salicina<br />
+Breynia disticha <br />
+Breynia disticha var.nivosa<br />
+Bridelia micrantha<br />
+Bridelia taitensis<br />
+Brillantaisia cicatricosa<br />
+Brillantaisia lamium<br />
+Brillantaisia madagascariensis<br />
+Brillantaisia vogeliana<br />
+Brillantasia owariensis<br />
+Bromus catharticus<br />
+Bromus pectinatus<br />
+Brucea antidysenterica<br />
+Brucea macrocarpa<br />
+Buddleija polystachya<br />
+Buddleija pulchella<br />
+Buddleija saligna<br />
+Bulbine abyssinica<br />
+Bulbine frutescens<br />
+Bulbophyllum cochleatum<br />
+Bulbophyllum intertextum<br />
+Bullockia fadenii<br />
+Bullockia pseudosetiflora<br />
+Byttneria sp. nov. (faydenii??)<br />
+Cadia purpurea<br />
+Caesalpinia decapetala                 <br />
+Caesalpinia trothae subsp.trothae<br />
+Caesalpinia volkensii<br />
+Cajanus cajan<br />
+Calanthe sylvatica<br />
+Calliandra calothyrsus<br />
+Calliandra eriophylla<br />
+Calliandra gilbertii     <br />
+Calodendrum capense<br />
+Calophyllum inophyllum<br />
+Calpurnia aurea<br />
+Calyptrotheca taitensis<br />
+Camellia sinensis<br />
+Canarina abyssinica<br />
+Canarium schweinfurthii<br />
+Canavalia virosa<br />
+Canthium oligocarpum<br />
+Capparis erythrocarpos<br />
+Capparis tomentosa<br />
+Capsella bursa-pastoris <br />
+Caralluma dicapuae<br />
+Caralluma retrospiciens<br />
+Carapa grandiflora<br />
+Cardamine africana <br />
+Cardamine trichocarpa<br />
+Cardiospermum halicacabum <br />
+Carduus nyassanus<br />
+Carissa bispinosa <br />
+Carissa spinarum<br />
+Carissa tetramera<br />
+Casearia battiscombei<br />
+Cassine buchananii<br />
+Cassine schweinfurthianum<br />
+Cassipourea celastroides<br />
+Cassipourea euryoides<br />
+Cassipourea gummiflua<br />
+Cassipourea malosana<br />
+Cassipourea ruwensorensis<br />
+Castanospermum australe<br />
+Catha edulis<br />
+Catharanthus roseus<br />
+Caylusea abyssinica                  <br />
+Ceasalpinia trothae ssp.erlangeri<br />
+Cedrela odorata<br />
+Celtis africana<br />
+Celtis gomphophylla<br />
+Celtis mildbraedii<br />
+Celtis occidentalis<br />
+Centella asiatica<br />
+Centemopsis gracilenta? Kirkii<br />
+Centrapalus pauciflorus<br />
+Cephalaria pungens<br />
+Cerastium lanceolatum<br />
+Ceriops tagal<br />
+Ceropegia ballyana<br />
+Ceropegia meyeri-johannis<br />
+Ceropegia nilotica var.simplex<br />
+Chaetacme aristata<br />
+Chamaeangis odoratissima<br />
+Chamaecrista absus<br />
+Chamaecrista grantii<br />
+Chamaecrista kirkii<br />
+Chamaecrista mimosoides<br />
+Chamaecrista usambarensis<br />
+Chamaepentas hindsioides<br />
+Chassalia kenyensis<br />
+Chassalia parvifolia<br />
+Chassalia umbraticola<br />
+Cheilanthes farinosa<br />
+Cheilanthes hirta<br />
+Chenopodium ambrosoides<br />
+Chenopodium carinatum<br />
+Chenopodium murale<br />
+Chionanthus battiscombei<br />
+Chionanthus mildbraedii<br />
+Chloris gayana<br />
+Chloris pycnothrix<br />
+Chloris virgata<br />
+Chlorophytum cameronii<br />
+Chlorophytum cameronii var.grantii<br />
+Chlorophytum macrophyllum<br />
+Chlorophytum silvaticum<br />
+Chlrophytum cooperi<br />
+Chrysanthellum americanum<br />
+Chrysophyllum albidum<br />
+Chrysophyllum gorungosanum<br />
+Cineraria deltoides<br />
+Cinnamomum camphora<br />
+Cirsium vulgare<br />
+Cissampelos pareira<br />
+Cissus adeyana<br />
+Cissus cactiformis<br />
+Cissus cornifolia<br />
+Cissus humbertii<br />
+Cissus oliveri<br />
+Cissus petiolata<br />
+Cissus quadrangularis<br />
+Cissus rotundifolia<br />
+Cistanche tubulosa<br />
+Cladostemon kirkii<br />
+Clausena anisata<br />
+Clausena dentata<br />
+Cleistanthus polystachyus<br />
+Cleome hirta<br />
+Cleome monophylla               <br />
+Cleome usambarica<br />
+Clerodendron johnstonii<br />
+Clerodendrum capitatum<br />
+Clerodendrum rotundifolium<br />
+Clerodendrum silvanum<br />
+Cliffortia nitidula<br />
+Clinopodium abyssinicum<br />
+Clinopodium uhligii var.obtusifolium<br />
+Clitoria ternata<br />
+Clutia abyssinica<br />
+Clutia kilimandscharica<br />
+Coccinia grandis<br />
+Coccinia megarrhiza<br />
+Cocculus pendulus<br />
+Coddia rudis<br />
+Coffea arabica<br />
+Coffea canephora           <br />
+Coffea eugenioides<br />
+Coffea fadenii<br />
+Coffea mufindiensis<br />
+Cola greenwayi<br />
+Cola nitida<br />
+Colutea abyssinica<br />
+Combretum apiculatum<br />
+Combretum capituliflorum<br />
+Combretum exalatum<br />
+Combretum hereoense<br />
+Combretum hereroense<br />
+Combretum molle<br />
+Combretum paniculatum<br />
+Combretum schumannii<br />
+Combretum tanaense<br />
+Combretum zeyheri                <br />
+Commelina africana<br />
+Commelina benghalensis<br />
+Commelina elgonensis <br />
+Commelina imberbis<br />
+Commelina latifolia<br />
+Commelina nairobiensis<br />
+Commelina subulata<br />
+Commicarpus pedunculosus<br />
+Commicarpus plumbagineus<br />
+Commiphora africana<br />
+Commiphora corrugata<br />
+Commiphora eminii ssp.zimmermannii<br />
+Commiphora habessinica<br />
+Commiphora holtziana<br />
+Commiphora rostrata<br />
+Commiphora terebinthina<br />
+Conostomium quadrangulare<br />
+Convolvulus kilimandschari<br />
+Conysa schimperi<br />
+Conysa volkensii<br />
+Conyza newii<br />
+Conyza pallidiflora<br />
+Conyza schimperi<br />
+Conyza subscaposa<br />
+Conyza sumatrensis<br />
+Conyza volkensii<br />
+Coptosperma graveolens<br />
+Corchorus olitorius<br />
+Corchorus tridens<br />
+Cordia africana<br />
+Cordia milleni<br />
+Cordia monoica<br />
+Cordia sebestina<br />
+Cordia sinensis<br />
+Corydalis mildbraedii<br />
+Costus spectabilis<br />
+Cotula abyssinica<br />
+Cotula anthemoides                  <br />
+Cotula cryptocephala<br />
+Cotyledon barbeyi<br />
+Crabbea velutina<br />
+Craibia brevicaudata<br />
+Craibia brownii<br />
+Craibia laurentii<br />
+Craibia zimmermannii<br />
+Crassocephalum montuosum<br />
+Crassocephalum picridifolium<br />
+Crassocephalum rubens<br />
+Crassocephalum rubens var.sarcobasi<br />
+Crassocephalum vitellinum<br />
+Crassocephalum x picridifolium<br />
+Crassula alba       <br />
+Crassula schimperi                <br />
+Craterispermum schweinfurthii<br />
+Craterostigma hirsutum<br />
+Craterostigma latibracteatum <br />
+Craterostigma plantagineum<br />
+Craterostigma pumilum<br />
+Craterostigma sp.nov<br />
+Crepis rueppellii<br />
+Crinum kirkii<br />
+Crinum macowanii<br />
+Crossandra massaica<br />
+Crossandra mucronata<br />
+Crossandra nilotica<br />
+Crossandra subacaulis<br />
+Crotalaria agatiflora subsp.agatiflora<br />
+Crotalaria agatiflora subsp.engleri<br />
+Crotalaria agatiflora subsp.erlangeri<br />
+Crotalaria agatiflora subsp.imperialis<br />
+Crotalaria axillaris<br />
+Crotalaria brevidens<br />
+Crotalaria brevidens var.parviflora      <br />
+Crotalaria cephalotes<br />
+Crotalaria chrysochlora  <br />
+Crotalaria cleomifolia            <br />
+Crotalaria cylindrica<br />
+Crotalaria deflersii<br />
+Crotalaria dewildemaniana               <br />
+Crotalaria goodiiformis<br />
+Crotalaria incana<br />
+Crotalaria incana subsp.purpurascens<br />
+Crotalaria intermedia<br />
+Crotalaria keniensis<br />
+Crotalaria lachnocarpoides<br />
+Crotalaria lachnophora<br />
+Crotalaria mauensis<br />
+Crotalaria natalita<br />
+Crotalaria orthoclada<br />
+Crotalaria pallida<br />
+Crotalaria polysperma<br />
+Crotalaria pycnostachya<br />
+Crotalaria recta<br />
+Crotalaria rosenii<br />
+Crotalaria scassellatii<br />
+Crotalaria spinosa                  <br />
+Crotalaria tabularis<br />
+Crotalaria vallicola<br />
+Crotalaria vatkeana<br />
+Croton alienus<br />
+Croton macrostachyus<br />
+Croton megalocarpus<br />
+Croton polytrichus<br />
+Croton pseudopulchellus<br />
+Croton sylvaticus<br />
+Cucumis ficifolius<br />
+Cucumis metuliferus<br />
+Cucurbita ficifolia<br />
+Cucurbita lanatus<br />
+Culcasia falcifolia<br />
+Culcasia orientalis<br />
+Cuscuta campestris<br />
+Cuscuta kilimanjari<br />
+Cussonia arborea<br />
+Cussonia holstii<br />
+Cussonia spicata<br />
+Cussonia myriantha<br />
+Cussonia zimmermannii<br />
+Cyamopsis senegalensis<br />
+Cyanotis arachnoidea<br />
+Cyanotis barbata<br />
+Cyanotis caespitosa<br />
+Cyanotis foecunda<br />
+Cyanotis longifolia<br />
+Cyanotis speciosa<br />
+Cyanthillium cinereum<br />
+Cyathea humilis<br />
+Cyathea manniana<br />
+Cyathula cylindrica<br />
+Cyathula orthacantha<br />
+Cyathula polycephala<br />
+Cyathula uncinulata<br />
+Cyclospermum leptophyllum<br />
+Cycniopsis humifusa<br />
+Cycnium herzfeldianum<br />
+Cycnium tenuisectum<br />
+Cycnium tubulosum<br />
+Cylicomorpha parviflora<br />
+Cylindropuntia spinosior<br />
+Cynanchum altiscandens<br />
+Cynanchum validum<br />
+Cynoglossum coeruleum var.mannii<br />
+Cynoglssum amplifolium<br />
+Cynometra greenwayi<br />
+Cynometra sp. 1<br />
+Cyperus dives<br />
+Cyperus papyrus<br />
+Cyperus rigidifolius<br />
+Cyphia glandulifera<br />
+Cyphomandra betaceae<br />
+Cyphostemma bambuseti<br />
+Cyphostemma jiguu<br />
+Cyphostemma junceum<br />
+Cyphostemma kilimandscharicum<br />
+Cyphostemma maranguense <br />
+Cyphostemma nieriense<br />
+Cyphostemma orondo<br />
+Cyrtorchis arcuata<br />
+Dactyloctenium giganteum<br />
+Dalbergia lactea<br />
+Dalechampia parvifolia<br />
+Dasylepsis integra<br />
+Daucus carota<br />
+Deinbollia kilimandscharica<br />
+Delonix elata<br />
+Desmodium gangeticum var. gangeticum<br />
+Desmodium intortum<br />
+Desmodium repandum<br />
+Desmodium salicifolium<br />
+Desmodium uncinatum<br />
+Diaphananthe rohrii <br />
+Dichapetalum arenarium<br />
+Dichapetalum madagascariense<br />
+Dichondra repens<br />
+Dichrocephala chrysanthemifolia<br />
+Dichrocephala integrifolia<br />
+Dichrostachys cinerea ssp. africana<br />
+Dicliptera colorata<br />
+Dicliptera laxata<br />
+Diclis bambuseti<br />
+Diclis ovata<br />
+Dicranolepis usambarica<br />
+Didymodoxa caffra<br />
+Dietes iridioides<br />
+Digitaria abyssinica<br />
+Diodella scandens<br />
+Dioscorea quartiniana<br />
+Dioscorea schimperiana<br />
+Diospyros abyssinica<br />
+Diospyros consolatae<br />
+Diospyros cornii<br />
+Diospyros mespiliformis<br />
+Diospyros natalensis<br />
+Diospyros scabra<br />
+Diospyros simii<br />
+Diphasia sp.A<br />
+Diphasiopsis fadenii<br />
+Diplolophium africanum<br />
+Dipsacus pinnatifidus<br />
+Discopodium eremanthum<br />
+Discopodium pennivervium<br />
+Disperis anthoceros<br />
+Disperis dicerochila<br />
+Disperis kilimanjari<br />
+Disperis reichenbachiana<br />
+Dissotis irvingiana<br />
+Dissotis speciosa<br />
+Distephanus biafrae<br />
+Dodonaea viscosa subsp.angustifolia<br />
+Dolichpentas longiflora                 <br />
+Dombeya burgessiae<br />
+Dombeya kirkii<br />
+Dombeya rotundifolia<br />
+Dombeya torrida<br />
+Dorstenia ellenbeckiana<br />
+Dorstenia hildebrandtii<br />
+Dorstenia kameruniana<br />
+Dovyalis abyssinica<br />
+Dovyalis hispidula<br />
+Dovyalis macrocalyx<br />
+Dracaena afromontana<br />
+Dracaena ellenbeckiana<br />
+Dracaena fragrans<br />
+Dracaena laxissima<br />
+Dracaena steudneri<br />
+Dregea abyssinica<br />
+Dregea macrantha<br />
+Dregea rubicunda<br />
+Dregea schimperi <br />
+Drimia altissima<br />
+Drimiopsis botryoides<br />
+Drymaria cordata<br />
+Dryopteris athamantica<br />
+Drypetes gerrardii<br />
+Duhaldea stuhlmannii<br />
+Dyschoriste clinopodioides<br />
+Dyschoriste keniensis<br />
+Dyschoriste radicans<br />
+Dyschoriste thunbergiiflora<br />
+Ecbolium revolutum<br />
+Echinochloa pyramidalis<br />
+Echinopepon wrightii<br />
+Echinops hispidus<br />
+Echiochilon lithospermoides<br />
+Eclipta prostrata<br />
+Edithcolea grandis<br />
+Ehretia bakeri<br />
+Ehretia cymosa<br />
+Ekebergia capensis<br />
+Elatostema monticola<br />
+Elephantorrhiza burkei<br />
+Eleusine coracana<br />
+Eleusine indica<br />
+Embelia keniensis<br />
+Embelia schimperi<br />
+Emilia coccinea<br />
+Emilia debilis<br />
+Emilia discifolia<br />
+Emilia praetermissa<br />
+Encephalartos kisambo<br />
+Encephalartos tegulaneus<br />
+Encepharlatos whittelockii<br />
+Englerastrum altiscandens<br />
+Englerodaphne subcordata<br />
+Engleromyces goetzei<br />
+Englerophytum oblanceolatum<br />
+Ensete ventricosum<br />
+Entada abyssinica<br />
+Entada leptostachya<br />
+Entandrophragma angolense<br />
+Epilobium salicifolium<br />
+Epilobium stereophyllum<br />
+Eragrostis bicolor<br />
+Eragrostis inamoena<br />
+Eragrostis patentipilosa<br />
+Erigeron karvinskianus<br />
+Eriosema psoraleoides<br />
+Eriosema sparsiflorum<br />
+Erlangea calycina<br />
+Erycastrum arabicum<br />
+Erythrina abyssinica<br />
+Erythrina burtii<br />
+Erythrina lysistemon<br />
+Erythrina sacleuxii<br />
+Erythrocephalum minus<br />
+Erythrochlamys spectabilis<br />
+Erythrococca kirkii<br />
+Erythroxylum emarginatum<br />
+Erythrycocca bongensis<br />
+Euclea divinorum<br />
+Euclea natalensis<br />
+Euclea racemosa<br />
+Eulophia horsfallii<br />
+Eulophia streptopetala<br />
+Euphorbia abyssinica<br />
+Euphorbia bicompacta<br />
+Euphorbia bongensis<br />
+Euphorbia bussei<br />
+Euphorbia candelabrum<br />
+Euphorbia crotonoides<br />
+Euphorbia cuneata<br />
+Euphorbia cussonioides<br />
+Euphorbia cyparissoides<br />
+Euphorbia depauperata<br />
+Euphorbia engleri<br />
+Euphorbia gossypina<br />
+Euphorbia graciliramea<br />
+Euphorbia heterochroma<br />
+Euphorbia heterophylla<br />
+Euphorbia hirta                      <br />
+Euphorbia inaequilatera<br />
+Euphorbia magnicapsula<br />
+Euphorbia nyikae<br />
+Euphorbia prostrata<br />
+Euphorbia quinquecostata<br />
+Euphorbia saxorum<br />
+Euphorbia schimperiana<br />
+Euphorbia tanaensis<br />
+Euphorbia tenuspina<br />
+Euphorbia umbellata<br />
+Euphorbia wakefieldii<br />
+Euryops elgonensis<br />
+Eustachys paspaloides<br />
+Evolvulus alsinoides<br />
+Evolvulus nummularius<br />
+Excoecaria madagascariensis           <br />
+Fagaropsis angolensis<br />
+Fagaropsis hildebrandtii<br />
+Faurea rochetiana<br />
+Faurea saligna<br />
+Felicia muricata<br />
+Ficus bubu<br />
+Ficus bussei<br />
+Ficus capreifolia<br />
+Ficus cyathistipula<br />
+Ficus exasperata<br />
+Ficus faulknerae<br />
+Ficus ingens<br />
+Ficus lutea<br />
+Ficus natalensis<br />
+Ficus ottonifolia<br />
+Ficus ovata<br />
+Ficus scasselatii<br />
+Ficus sur<br />
+Ficus sycomorus<br />
+Ficus thonningii<br />
+Ficus usambarensis<br />
+Ficus vallis-choudae<br />
+Ficus vasta<br />
+Filicium decipiens<br />
+Flabellaria paniculata<br />
+Fleroya rubrostipulata<br />
+Floscopa glomerata<br />
+Foeniculum vulgare<br />
+Fuerstia africana<br />
+Fumaria abyssinica                <br />
+Funtumia africana<br />
+Galega battiscombei<br />
+Galega lindblomii<br />
+Galiniera saxifraga <br />
+Galium ruwenzoriense<br />
+Galium scioanum<br />
+Garcinia buchananii<br />
+Garcinia livingstonei<br />
+Garcinia volkensii<br />
+Gardenia ternifolia<br />
+Gardenia volkensii<br />
+Geophila repens<br />
+Geranium abyssinica<br />
+Geranium aculeolatum<br />
+Geranium arabicum<br />
+Geranium kilimandscharicum<br />
+Geranium mascatense<br />
+Geranium purpureum<br />
+Gerbera piloselloides <br />
+Gerbera viridifolia<br />
+Gerrardanthus lobatus<br />
+Ghikae speciosa<br />
+Girardinia bullosa<br />
+Girardinia diversifolia<br />
+Gisekia pharnaceoides<br />
+Gladiolus dalenii<br />
+Gladiolus dalenii subsp.andongensis<br />
+Gladiolus watsonioides<br />
+Glenniea africana<br />
+Gloriosa superba<br />
+Gmelina arborea<br />
+Gnaphalium pensylvanicum<br />
+Gnaphalium rubriflorum <br />
+Gnaphalium unionis<br />
+Gnaphalium unionis var.tweediae<br />
+Gnidia glauca<br />
+Gnidia lamprantha<br />
+Gomphia scheffleri<br />
+Gomphocarpus fruticosus<br />
+Gomphocarpus physocarpus             <br />
+Gomphrena celosioides<br />
+Gouania longispicata<br />
+Grewia flavescens<br />
+Grewia lilacina<br />
+Grewia mollis<br />
+Grewia similis<br />
+Grewia trichocarpa<br />
+Grewia villosa<br />
+Guizotia jacksonii<br />
+Guizotia scabra<br />
+Gunnera perpensa<br />
+Gutenbergia cordifolia<br />
+Gutenbergia rueppellii<br />
+Gutenbergia rueppellii var.fischeri<br />
+Gymnosporia buchananii<br />
+Gymnosporia harveyana<br />
+Gymnosporia heterophylla<br />
+Gynura scandens<br />
+Gynura valeriana<br />
+Habenaria chirensis<br />
+Habenaria holubii<br />
+Habenaria lindblomii<br />
+Habenaria malacophylla<br />
+Habenaria vaginata<br />
+Hagenia abyssinica<br />
+Halleria lucida<br />
+Haplocoelum foliolosum<br />
+Haplosciadium abyssinicum<br />
+Harpephyllum caffrum<br />
+Harplocarpha rueppellii<br />
+Harrisonia abyssinica<br />
+Harungana madagascariensis<br />
+Heinsenia diervilleoides<br />
+Heinsia crinata<br />
+Heinsia zanzibarica<br />
+Helichrysum albiflorum<br />
+Helichrysum cymosum<br />
+Helichrysum foetidum<br />
+Helichrysum forskahlii                <br />
+Helichrysum globosum                  <br />
+Helichrysum odoratissimum<br />
+Helichrysum panduratum<br />
+Helichrysum schimperi<br />
+Helichrysum setosum<br />
+Helinus mystacinus<br />
+Heliotropium longiflorum <br />
+Heliotropium steudneri<br />
+Heliotropium zeylanicum<br />
+Heracleum abyssinicum<br />
+Hermannia uhlugii<br />
+Heteromorpha arborescens<br />
+Heywoodia lucens<br />
+Hibiscus acetosella<br />
+Hibiscus aethiopicus              <br />
+Hibiscus aponeurus<br />
+Hibiscus calyphyllus<br />
+Hibiscus cannabinus<br />
+Hibiscus diversifolius<br />
+Hibiscus flavifolius<br />
+Hibiscus fuscus<br />
+Hibiscus micranthus<br />
+Hibiscus pycnostemon<br />
+Hibiscus rosa-sinensis<br />
+Hibiscus surattensis                  <br />
+Hibiscus trionum<br />
+Hibiscus vitifolius<br />
+Hildebrandtia sepalosa<br />
+Hirpicium diffusum<br />
+Hirtella zanzibarica<br />
+Holothrix brongniartiana<br />
+Holothrix elgonensis<br />
+Holothrix pentadactyla<br />
+Hoslundia opposita<br />
+Hydrocotyle ranunculoides<br />
+Hydrocotyle sibthorpioides<br />
+Hygrophila auriculata<br />
+Hymenaea verrucosa<br />
+Hymenocallis latifolia<br />
+Hymenodictyon floribundum            <br />
+Hymenodictyon parvifolium<br />
+Hypericum annulatum<br />
+Hypericum kiboense<br />
+Hypericum peplidifolium<br />
+Hypericum quartinianum<br />
+Hypericum revolutum<br />
+Hypericum revolutum subsp.revolutum<br />
+Hypericum roeperanum<br />
+Hypoestes aristata<br />
+Hypoestes forskaolii<br />
+Hypoestes triflora<br />
+Hypoxis angustifolia<br />
+Hypoxis kilimanjarica<br />
+Hypoxis obtusa<br />
+Ilex mitis<br />
+Illigera pentaphylla<br />
+Impatiens fischeri<br />
+Impatiens flaccida<br />
+Impatiens hochstetteri<br />
+Impatiens hochstetteri ssp.hochstetteri<br />
+Impatiens hoehnelii<br />
+Impatiens irvingii<br />
+Impatiens meruensisi<br />
+Impatiens nana<br />
+Impatiens niamniamensis<br />
+Impatiens sodenii                    <br />
+Impatiens tinctoria subsp. elegantissima<br />
+Impatiens tweedieae<br />
+Impatiens walleriana<br />
+Indigofera  spinosa<br />
+Indigofera arrecta<br />
+Indigofera brevicalyx<br />
+Indigofera homblei<br />
+Indigofera tinctoria var.tinctoria<br />
+Indigofera trita<br />
+Indigofera volkensii<br />
+Inula glomerata                   <br />
+Inula mannii<br />
+Inula paniculata<br />
+Ipomoe jaegeri<br />
+Ipomoea alba<br />
+Ipomoea batatas<br />
+Ipomoea cairica<br />
+Ipomoea donaldsonii<br />
+Ipomoea hildebrandtii<br />
+Ipomoea kituiensis<br />
+Ipomoea longituba<br />
+Ipomoea ochracea<br />
+Ipomoea polymorpha<br />
+Ipomoea spathulata<br />
+Ipomoea urbaniana<br />
+Ipomoea wightii<br />
+Isoglossa gregorii<br />
+Isoglossa lactea <br />
+Isoglossa laxa<br />
+Isoglossa oerstediana<br />
+Isoglossa substrobilina<br />
+Ixora scheffleri<br />
+Jacquemontia ovalifolia<br />
+Jasminum abyssinicum<br />
+Jasminum fluminense<br />
+Jasminum grandiflorum subsp. floribundum<br />
+Jasminum meyeri-Johannis<br />
+Juniperus procera<br />
+Justicia anagalloides<br />
+Justicia anselliana<br />
+Justicia betonica<br />
+Justicia bizuneshiae<br />
+Justicia caerulea<br />
+Justicia cordata<br />
+Justicia cufodontii<br />
+Justicia diclipteroides<br />
+Justicia elliotii<br />
+Justicia flava<br />
+Justicia odora<br />
+Justicia pinguior<br />
+Justicia schoensis<br />
+Justicia unyorensis var.keniensis<br />
+Justicia whytei<br />
+Kalanchoe citrina<br />
+Kalanchoe densiflora<br />
+Kalanchoe glaucescens<br />
+Kalanchoe lateritia<br />
+Kalanchoe marmorata<br />
+Kalanchoe ndotoensis<br />
+Kalanchoe prittwitzii<br />
+Kalanchoe pumila<br />
+Kanahia laniflora<br />
+Kedrostis leloja<br />
+Keetia guenzii<br />
+Khaya anthotheca                     <br />
+Kigelia africana<br />
+Kigelia africana subsp.moosa<br />
+Kleinia abyssinica                 <br />
+Kleinia odora<br />
+Kleinia petraea                     <br />
+Kniphofia thomsonii<br />
+Kohautia caespitosa<br />
+Kosteletzkya adoensis<br />
+Kosteletzkya begoniifolia<br />
+Kyllinga alba<br />
+Lablab purpureus<br />
+Lactuca glandulifera<br />
+Lactuca inermis<br />
+Lagenaria siceraria<br />
+Lagenaria sphaerica<br />
+Laggera pterodonta<br />
+Lamprothamnus zanguebaricus<br />
+Landolphia buchananii<br />
+Lannea humilis<br />
+Lannea schimperi<br />
+Lannea schweinfurthii var.stuhlmannii<br />
+Lantana trifolia<br />
+Lantana ukambensis<br />
+Lantana viburnoides<br />
+Laportea alatipes<br />
+Lasianthus kilimandscharicus<br />
+Lathyrus hygrophilus<br />
+Lathyrus sphaericus<br />
+Launaea cornuta<br />
+Laurus nobilis<br />
+Lecaniodiscus fraxinifolius<br />
+Ledebouria kirkii<br />
+Ledebouria revoluta<br />
+Ledebouria sp.<br />
+Leea guineensis<br />
+Lefebvrea abyssinica<br />
+Leonotis nepetifolia<br />
+Leonotis nepetifolia var.africana<br />
+Leonotis ocymifolia<br />
+Leonotis ocymifolia var.raineriana<br />
+Lepidagathis scariosa<br />
+Lepidotrichilia volkensii<br />
+Lepisanthes senegalensis<br />
+Lepistemon owariensis                <br />
+Leptactina playphylla<br />
+Leptadenia lancifolia<br />
+Lettowianthus stellatus<br />
+Leucaena leucocephala<br />
+Leucas calostachyus                   <br />
+Leucas deflexa<br />
+Leucas glabrata<br />
+Leucas grandis<br />
+Leucas jamesii<br />
+Leucas martinicensis<br />
+Leucas urticifolia<br />
+Lindernia abyssinica<br />
+Lindernia rotundifolia<br />
+Linum volkensii<br />
+Liparis bowkeri                     <br />
+Liparis deistelii                   <br />
+Lippia carviodora                   <br />
+Lippia grandifolia<br />
+Lippia javanica<br />
+Lippia kituiensis<br />
+Litchi chinensis                 <br />
+Lobelia bambuseti<br />
+Lobelia baumannii<br />
+Lobelia gibberoa<br />
+Lobelia holstii<br />
+Loeseneria africana<br />
+Lonchocarpus eriocalyx<br />
+Lotus goetzei<br />
+Ludwigia stolonifera<br />
+Luffa cylindrica<br />
+Lupinus princei<br />
+Lupinus pubescens                     <br />
+Lycopodiella affinis<br />
+Macadamia tetraphylla<br />
+Macaranga capensis<br />
+Macaranga conglomerata<br />
+Macaranga kilimandscharica<br />
+Macrorungia pubinervia<br />
+Macrotyloma axillare  <br />
+Macrotyloma uniflorum                 <br />
+Maerua angolensis<br />
+Maerua cafra<br />
+Maerua kirkii<br />
+Maerua subcordata <br />
+Maerua triphylla<br />
+Maesa lanceolata<br />
+Maesopsis eminii<br />
+Majidea zanguebarica<br />
+Makaya bella<br />
+Maltebrunia schliebenii<br />
+Malva parviflora<br />
+Manilkara butugi<br />
+Manilkara discolor<br />
+Margaritaria discoidea<br />
+Margaritaria discoidea var.fagifolia<br />
+Markhamia lutea<br />
+Maytenus acuminata<br />
+Maytenus arbutifolia<br />
+Maytenus obscura<br />
+Maytenus senegalensis<br />
+Maytenus undata<br />
+Meineckia ovata<br />
+Melia volkensii<br />
+Melochia corchorifolia<br />
+Memecylon buxoides<br />
+Memecylon greenwayi<br />
+Memecylon teitense<br />
+Mentha aquatica<br />
+Mentha longifolia                 <br />
+Mentha pulegium<br />
+Merremia tridentata<br />
+Metaporana densiflora<br />
+Metarungia pubinervia<br />
+Meyna tetraphylla<br />
+Micractis bojeri<br />
+Micrococca holstii<br />
+Micrococca scariosa<br />
+Microglossa angolensis<br />
+Microglossa pyrifolia<br />
+Microglossa pyrrhopappa<br />
+Micromeria biflora<br />
+Mikania natalensis<br />
+Mikaniopsis bambuseti                  <br />
+Mikaniopsis usambarensis<br />
+Milicia excelsa<br />
+Milletia elliptica                  <br />
+Milletia vatkei<br />
+Millettia dura<br />
+Millettia oblata subsp.teitensis<br />
+Mimosa pigra<br />
+Mimosa scabrella<br />
+Mimulopsis alpina <br />
+Mimulopsis solmsii<br />
+Mimusops bagshawei<br />
+Mimusops kummel <br />
+Mimusops obtusifolia<br />
+Mitracarpus hirsutus<br />
+Mollugo nudicaulis<br />
+Momordica foetida<br />
+Momordica friesiorum                    <br />
+Momordica rostrata<br />
+Monadenium stapelloides<br />
+Monanthotaxis parvifolia<br />
+Mondia whytei<br />
+Monodora grandidieri<br />
+Monodora myristica<br />
+Monopsis stellarioides       <br />
+Monsonia angustifolia<br />
+Monsonia longipes          <br />
+Monstera deliciosa<br />
+Moraea afro-orientale<br />
+Moraea thomsonii<br />
+Moringa oleifera<br />
+Moringa rivae<br />
+Moringa stenopetala<br />
+Morus mesozygia<br />
+Morus rubra<br />
+Mucuna gigantea<br />
+Mukia maderaspatana<br />
+Multidentia crassa<br />
+Mundulea sericea<br />
+Murdannia semiteres<br />
+Murdannia simplex<br />
+Musa × paradisiaca<br />
+Mussaenda arcuata<br />
+Mussaenda microdonta<br />
+Mussaenda microdonta<br />
+Myrianthus holstii<br />
+Myrica humilis<br />
+Myrica salicifolia<br />
+Myrothamnus flabellifolius<br />
+Myrsine africana<br />
+Mystroxylon aethiopicum<br />
+Neoboutonia macrocalyx<br />
+Neoboutonia melleri<br />
+Neonotonia wightii<br />
+Nepeta azurea<br />
+Neurada procumbens<br />
+Newtonia buchananii<br />
+Newtonia hilderbrandtii <br />
+Notholaena inaequalis<br />
+Nuxia congesta<br />
+Obetia radula<br />
+Obetia tenax<br />
+Ochna bracteosa<br />
+Ochna holstii<br />
+Ochna ovata<br />
+Ocimum americanum<br />
+Ocimum cufodontii<br />
+Ocimum gratissimum<br />
+Ocimum kilimandscharicum<br />
+Ocimum lamiifolium<br />
+Ocimum obovatum<br />
+Ocimum sp.A<br />
+Ocotea kenyensis<br />
+Ocotea usambarensis<br />
+Olax obtusifolia                       <br />
+Oldenlandia corymbosa<br />
+Oldenlandia monanthos<br />
+Olea capensis subsp.macrocarpa<br />
+Olea europaea subsp.cuspidata<br />
+Olea welwitschii<br />
+Olea woodiana<br />
+Olinia emarginata<br />
+Olinia rochetiana<br />
+Olyra latifolia<br />
+Oncoba routledgei<br />
+Oncoba spinosa<br />
+Oncocalyx fischeri              <br />
+Opilia campestris<br />
+Oplismenus hirtellus<br />
+Oreosyce africana  <br />
+Ormocarpum keniensis<br />
+Ormocarpum kirkii<br />
+Ornithogalum gracillium<br />
+Ornithogalum tenuifolium<br />
+Ornithogalum tenuifolium subsp. robustum<br />
+Ornithogalum tenuifolium subsp. sordidum<br />
+Orobanche minor<br />
+Orthosiphon parvifolius<br />
+Orthosiphon thymiflorus<br />
+Osyridicarpos schimperianus<br />
+Osyris lanceolata<br />
+Otomeria oculata<br />
+Ouratea schusteri<br />
+Oxalis corniculata<br />
+Oxalis latifolia<br />
+Oxalis obliquifolia<br />
+Oxyanthus goetzei<br />
+Oxyanthus speciosa<br />
+Oxyanthus pyriformis<br />
+Oxyanthus zanguebaricus<br />
+Oxygonum sinuatum<br />
+Oxygonum stuhlmannii<br />
+Ozoroa insignis<br />
+Paederia pospischili<br />
+Pancovia golungensis<br />
+Panicum maximum<br />
+Pappea capensis<br />
+Paramacrolobium coeruleum<br />
+Paspalum distichum<br />
+Paspalum notatum<br />
+Passiflora arizonica<br />
+Passiflora edulis<br />
+Passiflora incarnata<br />
+Passiflora subpeltata<br />
+Paullinia pinnata<br />
+Pauridiantha paucinervis<br />
+Pavetta abyssinica<br />
+Pavetta crebrifolia<br />
+Pavetta gardeniifolia<br />
+Pavetta lanceolata    <br />
+Pavetta oliverana                     <br />
+Pavetta pavettoides<br />
+Pavetta schumanniana<br />
+Pavetta stenosepala<br />
+Pavetta tarennoides<br />
+Pavonia burchellii<br />
+Pavonia procumbens<br />
+Pavonia urens<br />
+Peddiea fischeri<br />
+Pelargonium alchemilloides            <br />
+Pelargonium quinquelobatum          <br />
+Pelargonium whytei<br />
+Pellaea adiantoides<br />
+Pellaea calomelanos<br />
+Pennisetum clandestinum<br />
+Pennisetum glaucum<br />
+Pennisetum mezianum<br />
+Pennisetum purpureum<br />
+Pentanisia ouranogyne<br />
+Pentarrhinum insipidum<br />
+Pentas caffensis<br />
+Pentas lanceolata<br />
+Pentas lanceolata subsp.quartiniana<br />
+Pentas lanceolata var.nemorosa<br />
+Pentas pubiflora<br />
+Pentas schimperiana<br />
+Pentas zanzibarica<br />
+Peperomia abyssinica<br />
+Peperomia tetraphylla<br />
+Pergularia daemia<br />
+Periploca linearlifolia<br />
+Persicaria decipiens<br />
+Persicaria pulchra<br />
+Persicaria senegalensis<br />
+Persicaria setosula<br />
+Persicaria strigosa<br />
+Phaulopsis angolana<br />
+Phaulopsis imbricata<br />
+Phragmanthera dschallensis<br />
+Phyllanthus fischeri<br />
+Phyllanthus odontadenius<br />
+Phyllanthus ovalifolius<br />
+Phyllanthus sepialis<br />
+Physalis angulata<br />
+Physalis peruviana       <br />
+Phytolacca dodecandra<br />
+Pilea cadierei<br />
+Pilea johnstonii     <br />
+Pimpinella keniensis<br />
+Piper capense<br />
+Piper guineense<br />
+Piper umbellatum<br />
+Pistacia aethiopica<br />
+Pisum sativum<br />
+Pittosporum lanatum<br />
+Pittosporum mannii<br />
+Pittosporum spathicalyx<br />
+Pittosporum viridifolium<br />
+Plantago lanceolata<br />
+Plantago major<br />
+Plantago palmata<br />
+Platostoma africanum<br />
+Platostoma rotundifolium    <br />
+Plectranthus amboinicus    <br />
+Plectranthus barbatus<br />
+Plectranthus barbatus ssp. barbatus<br />
+Plectranthus barbatus var.grandis<br />
+Plectranthus bojeri<br />
+Plectranthus caninus<br />
+Plectranthus coleoides<br />
+Plectranthus cyaneus<br />
+Plectranthus defoliatus             <br />
+Plectranthus edulis<br />
+Plectranthus grandicalyx<br />
+Plectranthus hadiensis<br />
+Plectranthus lactiflorus<br />
+Plectranthus lanuginosus<br />
+Plectranthus laxiflorus<br />
+Plectranthus longipes<br />
+Plectranthus melleri<br />
+Plectranthus montanus<br />
+Plectranthus neochilus<br />
+Plectranthus ornatus<br />
+Plectranthus pseudomarrubioides<br />
+Plectranthus rotundifolius<br />
+Plectranthus scandens<br />
+Plectranthus sp.nov<br />
+Plectranthus sylvestris<br />
+Plectranthus xylopodus<br />
+Pleurostylia africana<br />
+Pluchea dioscoridis<br />
+Plumbago zeylanica<br />
+Podocarpus henkelii<br />
+Podocarpus latifolius<br />
+Pollichia campestris<br />
+Polygala albida<br />
+Polygala sadebeckiana<br />
+Polygala sphenoptera<br />
+Polygonum afromontanum<br />
+Polyscias fulva<br />
+Polyscias kikuyuensis<br />
+Polyscias stuhlmannii<br />
+Polysphaeria parvifolia<br />
+Polystachya bicarinata<br />
+Polystachya lindblomii<br />
+Polystachya steudneri<br />
+Polystachya tenuissima<br />
+Populus ilicifolia <br />
+Portulaca massaica<br />
+Portulaca oleracea<br />
+Portulaca quadrifida<br />
+Pouteria adolfi-friedericii<br />
+Pouteria alnifolia<br />
+Pouteria altissima<br />
+Premna hildebrandtii<br />
+Premna maxima<br />
+Premna oligotricha<br />
+Premna resinosa<br />
+Priva curtisiae<br />
+Protea caffra<br />
+Protea gaguedi<br />
+Protea madiensis<br />
+Prunus africana<br />
+Prunus ssp.<br />
+Pseudarthria confertiflora<br />
+Pseudarthria hookeri<br />
+Pseuderanthemum ludovicianum<br />
+Pseudocarum eminii<br />
+Pseudospondias microcarpa<br />
+Psilotrichum elliottii<br />
+Psychotria alsophila<br />
+Psychotria amboniana<br />
+Psychotria crassipetala<br />
+Psychotria fractinervata<br />
+Psychotria kirkii<br />
+Psychotria lauracea<br />
+Psychotria mahonii<br />
+Psychotria orophila<br />
+Psychotria peduncularis var.nyassana<br />
+Psychotria petitii<br />
+Psychotria pseudoplatyphylla<br />
+Psychotria tanganyicensis<br />
+Psychotria so.B of FTEA<br />
+Psychotria zombamontana<br />
+Psydrax parviflora<br />
+Pteridum aquilinum <br />
+Pteris cretica<br />
+Pterocarpus angolensis<br />
+Pterolobium stellatum<br />
+Punica granatum<br />
+Puppalia lappacea<br />
+Pycnocoma littoralis<br />
+Pycnostachys deflexifolia<br />
+Pycnostachys niamniamensis<br />
+Pycnostachys stuhlmannii<br />
+Pycnostachyus meyeri<br />
+Pycnostachyus umbrosa<br />
+Pyrostria phyllanthoidea<br />
+Rangaeris amaniensis<br />
+Rangaeris muscicola<br />
+Ranunculus multifidus<br />
+Ranunculus neopolitanus<br />
+Rapanea melanophloeos<br />
+Rauvolfia caffra<br />
+Rauvolfia mannii<br />
+Rauvolfia vomitoria<br />
+Rawsonia lucida<br />
+Reichardia tingitana<br />
+Rhamnus prinoides<br />
+Rhamnus staddo<br />
+Rhipidoglossum subsimplex<br />
+Rhipsalis baccifera<br />
+Rhodopentas parvifolia<br />
+Rhoicissus revolii<br />
+Rhoicissus tridentata<br />
+Rhus virens var.choriophylla<br />
+Rhynchosia elegans<br />
+Rhynchosia holstii<br />
+Rhynchosia minima<br />
+Rhynchosia nyasica<br />
+Rhynchosia orthobotrya              <br />
+Rhynchosia usambarensis<br />
+Richardia brasiliensis<br />
+Ricinodendron heudelotii<br />
+Ricinus communis<br />
+Rinorea brachypetala<br />
+Ritchiea albersii<br />
+Rivina humilis<br />
+Rogeria adenophylla<br />
+Rotala tenella    <br />
+Rotheca myricoides<br />
+Rothmannia fischeri<br />
+Rothmannia globosa<br />
+Rothmannia manganjae<br />
+Rothmannia urcelliformis<br />
+Rourea minor<br />
+Rourea thomsonii<br />
+Rubia cordifolia<br />
+Rubus friesiorum<br />
+Rubus keniensis<br />
+Rubus niveus<br />
+Ruellia megachlamys<br />
+Ruellia patula<br />
+Rumex abyssinicus<br />
+Rumex steudelii<br />
+Rumex usambarensis<br />
+Rungia grandis<br />
+Ruta graveolens<br />
+Ruttya fruticosa<br />
+Rytigynia eickii<br />
+Rytigynia neglecta<br />
+Rytigynia uhligii<br />
+Saba comorensis<br />
+Salix mucronata<br />
+Salsola dendroides<br />
+Salvadora persica<br />
+Salvia coccinea<br />
+Salvia hispanica<br />
+Salvia merjamie<br />
+Salvia nilotica<br />
+Sambucus africana<br />
+Sansevieria fischeri<br />
+Sansevieria intermediatia<br />
+Sansevieria suffruticosa<br />
+Saraca asoca<br />
+Sarcocephalus latifolius<br />
+Sarcosperma parviflorum<br />
+Satyrium fimbriatum<br />
+Scabiosa columbaria<br />
+Scadoxus multiflorus<br />
+Schefflera abyssinica<br />
+Schefflera volkensii<br />
+Schkuhria pinnata<br />
+Schrebera alata<br />
+Schlechterina mitostammoides<br />
+Scindapsus aureus<br />
+Sclerocarya birrea ssp.caffra<br />
+Sclerochiton boivinii<br />
+Scolopia zeyheri<br />
+Scutia myrtina<br />
+Searsia lancea<br />
+Searsia longipes<br />
+Searsia natalensis<br />
+Searsia pyroides<br />
+Searsia tenuinervis<br />
+Secamone alpini<br />
+Secamone punctulata<br />
+Securidaca longipedunculata<br />
+Selaginella goudotiana<br />
+Senecio deltoideus<br />
+Senecio hadiensis<br />
+Senecio hochstetteri<br />
+Senecio johnstonii <br />
+Senecio mesogrammoides<br />
+Senecio moorei<br />
+Senecio ruwenzoriensis            <br />
+Senecio schweinfurthii<br />
+Senecio syringifolius<br />
+Senna alata<br />
+Senna bicapsularis<br />
+Senna didymobotrya<br />
+Senna singueana<br />
+Sericostachys scandens<br />
+Sesbania dummeri<br />
+Sesbania keniensis                   <br />
+Sesbania sesban<br />
+Setaria megaphylla<br />
+Setaria pumila<br />
+Setaria verticillata<br />
+Shirakiopsis elliptica<br />
+Sida alba<br />
+Sida cordifolia<br />
+Sida dregei<br />
+Sida ovata<br />
+Sida rhobifolifolia<br />
+Sida ternata<br />
+Sideroxylon inerme<br />
+Sigesbeckia abyssinica<br />
+Sinarudinaria alpina<br />
+Siphonochilus aethiopicus<br />
+Smilax anceps<br />
+Smilax aspera<br />
+Solanecio angulatus<br />
+Solanecio cydoniifolius<br />
+Solanecio mannii<br />
+Solanum aculeastrum<br />
+Solanum aculeastrum var.albifolium<br />
+Solanum aculeatissimum<br />
+Solanum aethiopicum<br />
+Solanum americanum<br />
+Solanum anguivi<br />
+Solanum capsicastrum<br />
+Solanum hastifolium<br />
+Solanum incanum<br />
+Solanum marginatum<br />
+Solanum mauense<br />
+Solanum nakurense<br />
+Solanum renschii<br />
+Solanum schumanianum<br />
+Solanum sessilistellatum<br />
+Solanum terminale<br />
+Solenostemon sylvaticus<br />
+Sonchus asper<br />
+Sonchus oleraceus<br />
+Sorghum bicolor<br />
+Sorindeia calantha<br />
+Sorindeia madagascariensis<br />
+Spathodea campanulata<br />
+Spermacocce dibrachiata<br />
+Spermacoce minutiflora<br />
+Spermacoce princeae<br />
+Spermacoce pusilla<br />
+Sphaeanthus ukambensis<br />
+Sphaeranthus kirkii var.cyathuloides<br />
+Sphaeranthus steetzii<br />
+Sphaeranthus suaveolens<br />
+Spirostachys africana<br />
+Spirostachys venenifera<br />
+Sporobolus stapfianus<br />
+Stachys aculeolata<br />
+Stachytarpheta jamaicensis<br />
+Stachytarpheta urticifolia<br />
+Stadmania oppositifolia<br />
+Stathmostelma diversifolium<br />
+Stathmostelma rhacodes<br />
+Steganotaenia araliacea<br />
+Stellaria sennii<br />
+Stephania abyssinica<br />
+Stephania cyanantha<br />
+Sterculia africana<br />
+Sterculia dawei<br />
+Sterculia stenocarpa<br />
+Stictocardia beraviensis<br />
+Stolzia repens<br />
+Streptocarpus caulescens<br />
+Streptocarpus exsertus<br />
+Streptocarpus glandulosissimus<br />
+Striga asiatica<br />
+Strombosia scheffleri<br />
+Struthiola thomsonii<br />
+Strychnos henningsii<br />
+Strychnos innocua<br />
+Strychnos madagascariensis<br />
+Strychnos mitis<br />
+Strychnos spinosa<br />
+Strychnos usambarensis<br />
+Stuhlmannia moavi<br />
+Stylosanthes fruiticosa<br />
+Suaeda monoica<br />
+Suregada procera<br />
+Suregada zanzibariensis<br />
+Swertia calycina<br />
+Synaptolepis kirkii<br />
+Synsepalum cerasiferum<br />
+Syzygium aromaticum<br />
+Syzygium cordatum<br />
+Syzygium guineense<br />
+Syzygium micklethwaitii<br />
+Syzygium sclerophyllum<br />
+Tabermontana elegans<br />
+Tabermontana stapfiana<br />
+Tabernaemontana ventricosa        <br />
+Tacazzea apiculata<br />
+Tacazzea conferta<br />
+Tagetes minuta                   <br />
+Talinum caffrum<br />
+Talinum portulacifolium<br />
+Tamarindus indica<br />
+Tapiphyllum schumannianum<br />
+Tapura fischeri<br />
+Tarchonanthus camphoratus<br />
+Tarenna pavettoides<br />
+Tectaria gemmifera<br />
+Tectona grandis<br />
+Telfairia occidentalis<br />
+Tephrosia candida<br />
+Tephrosia emeroides<br />
+Tephrosia hildebrandtii<br />
+Tephrosia interrupta<br />
+Tephrosia pumila<br />
+Tephrosia villosa<br />
+Tephrosia vogelii<br />
+Terminalia brownii<br />
+Terminalia mollis<br />
+Terminalia sericea<br />
+Terminalia spinosa<br />
+Tetradenia brevispicata<br />
+Tetradenia riparia<br />
+Thalictrum rhynchocarpum<br />
+Thunbergia alata<br />
+Thunbergia battiscombei<br />
+Thunbergia dregeana<br />
+Thunbergia fischeri<br />
+Thunbergia gibsonii<br />
+Thunbergia holstii<br />
+Thunbergia natalensis<br />
+Thunbergia paulitschkeana<br />
+Thylachium africanum<br />
+Tiliacora funifera<br />
+Tinnea aethiopica<br />
+Tinospora caffra<br />
+Toddalia asiatica<br />
+Torilis arvensis<br />
+Trachyandra saltii<br />
+Tragia brevipes<br />
+Tragia impedita<br />
+Tragia insuavis<br />
+Trema orientalis<br />
+Triaspis niedenzuiana<br />
+Tribulus terrestris<br />
+Tricalysia niamniamensis<br />
+Trichilia dregeana<br />
+Trichilia emetica<br />
+Trichocladus ellipticus<br />
+Trichodesma physaloides<br />
+Trichodesma zeylanica<br />
+Tridactyle bicaudata<br />
+Tridactyle furcistipes<br />
+Tridax procumbens<br />
+Trifolium baccarinii<br />
+Trifolium burchellianum <br />
+Trifolium burchellianum ssp.johnstonii<br />
+Trifolium rueppellianum<br />
+Trifolium semipilosum<br />
+Trifolium steudneri<br />
+Trilepisium madagascariense<br />
+Trimeria grandifolia<br />
+Triticum aestivum<br />
+Triumfetta annua<br />
+Triumfetta brachyceras<br />
+Triumfetta flavescens<br />
+Triumfetta rhomboidea<br />
+Triumfetta tomentosa<br />
+Turbina stenosiphon<br />
+Turraea fischeri<br />
+Turraea holstii<br />
+Turraea mombassana<br />
+Turraea parviflora<br />
+Turraea robusta<br />
+Turraea wakefieldii<br />
+Tylosema fassoglense<br />
+Typha capensis<br />
+Urena lobata<br />
+Urera hypselodendron<br />
+Urtica massaica<br />
+Urtica simensis<br />
+Usnea sp. <br />
+Uvaria acuminata<br />
+Uvaria kirkii<br />
+Uvaria leptocladon<br />
+Uvaria lucida<br />
+Uvaria scheffleri<br />
+Uvariodendron anisatum<br />
+Uvariodendron gorgonis<br />
+Uvariopsis congensis<br />
+Vachellia abyssinica<br />
+Vachellia gerrardii<br />
+Vachellia hockii<br />
+Vachellia kirkii<br />
+Vachellia lahai<br />
+Vachellia nilotica<br />
+Vachellia polyacantha<br />
+Vachellia seyal<br />
+Vachellia seyal var.fistula<br />
+Vachellia sieberiana<br />
+Vachellia xanthophloea<br />
+Vangueria apiculata<br />
+Vangueria infausta<br />
+Vangueria madagascarensis<br />
+Vangueria volkensii<br />
+Vatovaea pseudolablab<br />
+Vepris dainellii<br />
+Vepris eugeniifolia<br />
+Vepris fadenii<br />
+Vepris glandulosa<br />
+Vepris glomerata<br />
+Vepris hanangensis<br />
+Vepris nobilis <br />
+Vepris simplicifolia<br />
+Vepris trichocarpa<br />
+Vepris uguenensis<br />
+Verbascum brevipedicellatum<br />
+Verbascum sinaiticum<br />
+Verbena aristigera<br />
+Verbena bonariensis<br />
+Vernonia amygdalina<br />
+Vernonia auriculifera<br />
+Vernonia brachycalyx<br />
+Vernonia hochstetteri<br />
+Vernonia holstii<br />
+Vernonia schweinfurthii<br />
+Vernonia smithiana<br />
+Veronica abyssinica<br />
+Veronica javanica<br />
+Veronica tufnelliae<br />
+Vicia hirsuta<br />
+Vigna frutescens<br />
+Vigna monophylla<br />
+Vigna parkeri<br />
+Vigna radiata<br />
+Vigna vexillata<br />
+Viola abyssinica<br />
+Viola eminii<br />
+Vismia orientalis<br />
+Vitex doniana<br />
+Vitex fischeri<br />
+Vitex keniensis<br />
+Vitex mombassae<br />
+Vitex payos<br />
+Vitex strickeri<br />
+Voacanga thouarsii<br />
+Volkamera acerbiana<br />
+Wahlenbergia krebsii<br />
+Waltheria indica<br />
+Warburgia stuhlmannii<br />
+Warburgia ugandensis<br />
+Whitefieldia elongata<br />
+Withania somnifera<br />
+Wrightia demartiniana<br />
+Xanthium pungens<br />
+Xerophyta spekei<br />
+Ximenia americana<br />
+Xylopia parviflora<br />
+Xymalos monospora<br />
+Zaleya pentandra         <br />
+Zanha africana<br />
+Zanthoxylum chalybeum<br />
+Zanthoxylum gilletii<br />
+Zanthoxylum mildbraedii<br />
+Zanthoxylum rubescens<br />
+Zanthoxylum usambarense<br />
+Zea mays<br />
+Zehneria scabra<br />
+Ziziphus abyssinica<br />
+Ziziphus mucronata<br />
+Ziziphus pubescens<br />
+Ziziphus spina-christi<br />
+Zornia pratensis<br />
+Zornia setosa</li>
+																
+																		<li>
+										
+										
+										ABS Policy: Yes<br />
+										Plant Collection Policy: Yes<br />
+									</li>
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: Yes<br />										Medicinal Plant Programme: Yes<br />										Ex Situ Conservation Programme: Yes<br />										Reintroduction Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+										Biotechnology: Yes<br />																				Conservation - Biology: Yes<br />										Conservation - Genetics: Yes<br />																				Ecology: Yes<br />										Ecosystem Conservation: Yes<br />										Education: Yes<br />										Ethnobotany: Yes<br />										Exploration: Yes<br />										Floristics: Yes<br />										Horticulture: Yes<br />										Invasive Species Biology and Control: Yes<br />										Molecular Genetics: No<br />										Pollination Biology: Yes<br />										Restoration Ecology: Yes<br />										Seed/Spore Biology: Yes<br />										Systematics and Taxonomy: Yes<br />										Sustainability: Yes<br />										Pharmacology: Yes<br />										Agriculture: Yes<br />										Land Restoration: Yes<br />										Urban Environments: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: Yes<br />										Education Booklets/Leaflets: Yes<br />										Guided Tours: Yes<br />										Permanent Public Displays: Yes<br />										Special Exhibitions: Yes<br />										Courses for School Children: Yes<br />										Courses for University/College Students: Yes<br />										Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+<section class="related">
+	<h2>Related articles</h2>
+		<div class="com-content">
+		<h3><a href="/resources/article/0749/">Nature based therapy – an ideal role for a botanical garden?</a></h3>
+		<p class="articlePubDate">April 2011</p>
+	</div>
+		<div class="com-content">
+		<h3><a href="/resources/article/0744/">Educating for sustainable horticulture</a></h3>
+		<p class="articlePubDate">October 2010</p>
+	</div>
+		<div class="com-content">
+		<h3><a href="/resources/article/0742/">Involving tribal communities in plant conservation</a></h3>
+		<p class="articlePubDate">October 2010</p>
+	</div>
+	</section>
+				﻿<!-- Related news section -->
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+ID:	223
+Name:	Saratov State University Botanic Garden 
+Administration Staff Number:	9
+Curator's Name:	Shakina Tatiana
+Director's Name:	I.M. Kirillova
+Educational Staff Number:	
+Horticultural Staff Number:	6
+Info:	  Russian Federation - Saratov  ;Garden Information;  Institution Code: SARAT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Saratov State University Botanic Garden; Navashina 1 str., 410010 SARATOV, Russian Federation; Saratov; 410010 Russian Federation; ;  Telephone: 8 (8452) 55-94-13, 64-71-20; Fax: 8 (8452)55-94-13; URL: <a target="_blank" href="http://www.sgu.ru">www.sgu.ru; Primary Email: irina0465@mail.ru ; 
+Plant Records Officer's Name:	
+Research Staff Number:	33
+Altitude:	0.00 Metres
+Date founded:	1956
+Institution Type:	Botanic Garden
+Latitude:	51.5332
+Local Address:	Россия, 410056, г. Саратов, ул. Навашина, 1
+Locality:	Information
+Longitude:	46.0345
+Arboretum:	Yes
+Arboretum Size:	900
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Trees and shrubs, lilac, roses, perennials, native plants of local wild flora, cereals, palms, Paeonia, Chrysanthemum,tropical and cubtropical, canna indian, Gladiolas.
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Horticulture:	Yes
+Plant Breeding:	Yes
+Courses for University/College Students:	Yes

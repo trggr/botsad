@@ -1,0 +1,30 @@
+ID:	4234
+Name:	Buffalo and Erie County Botanical Gardens 
+Administration Staff Number:	11
+Curator's Name:	Doug O'Reilly, Head Gardener
+Director's Name:	David Swarts, President/CEO
+Educational Staff Number:	2
+Horticultural Staff Number:	3
+Info:	  United States of America - New York - Buffalo  ;Garden Information;  Institution Code: BUEBG; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Buffalo and Erie County Botanical Gardens; 2655 South Park Avenue; Buffalo; New York 14218 United States of America; ;  Telephone: (716) 827-1584; Fax: (716) 828-0091; URL: <a target="_blank" href="http://www.buffalogardens.com">www.buffalogardens.com; Primary Email: events@buffalogardens.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1900
+Institution Type:	Botanic Garden
+Latitude:	42.8278640
+Longitude:	-78.8239960
+Total Area:	63 Hectares
+Arboretum:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Number of Visitors:	90000
+Number of Volunteers:	230
+Open to public:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

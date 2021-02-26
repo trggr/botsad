@@ -1,0 +1,10 @@
+ID:	3251
+Name:	Jardin Botanico de Palmira 
+Curator's Name:	
+Director's Name:	
+Info:	  Colombia - Palmira  ;Garden Information;  Institution Code: BPAL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Palmira; Calle 34 No. 40-06, PALMIRA, Colombia.; Palmira; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	3.8414
+Longitude:	-73.6237

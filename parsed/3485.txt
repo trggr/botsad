@@ -1,0 +1,14 @@
+ID:	3485
+Name:	Highstead 
+Curator's Name:	
+Director's Name:	Geordie Elkins, Operations Director
+Info:	  United States of America - Connecticut - Redding  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Highstead; 127 Lonetown Road; P.O. Box 1097; Redding; Connecticut 06875 United States of America; ;  Telephone: (203) 938-8809; Fax: (203) 938-0343; URL: <a target="_blank" href="http://www.highstead.net">www.highstead.net; Primary Email: info@highstead.net ; 
+Plant Records Officer's Name:	Kathleen Kitka, Landscape and Collections
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	41.3247440
+Longitude:	-73.3877310
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Plant Collection Policy:	Yes

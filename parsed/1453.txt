@@ -1,0 +1,71 @@
+ID:	1453
+Name:	Jardin Botanique Yves Rocher 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Thierry Aleberteau
+Educational Staff Number:	4
+Horticultural Staff Number:	8
+Info:	  France - Morbihan - La Gacilly  ;Garden Information;  Institution Code: YROCH; International Agenda Registration: No; BGCI Member: Yes; About the Jardin Botanique Yves Rocher Le Jardin botanique de La Gacilly est situé sur le site industriel de La Gacilly, devant le centre de distribution de La Croix des Archers. ; Il est ouvert librement aux visiteurs. Créé en 1975, il fait partie intégrante du domaine paysager remanié entièrement en 1998. C'est avant tout un observatoire des plantes médicinales et des plantes utiles à l'homme. Riche de plus de mille espèces classées par grands domaines d'utilisations, il a deux grandes vocations.; Tout d'abord, c'est lieu d'études et d'observation des plantes qui peuvent avoir une application en cosmétique. Chaque année, de nouvelles espèces sont introduites et étudiées en collaboration avec le Centre international de Recherche bio-végétal d'Yves Rocher à Issy-les-Moulineaux, près de Paris. Mais il a aussi un rôle éducatif, complémentaire de la Maison Yves Rocher.; La classification et la présentation des plantes par grands types d'usages permet aux nombreux visiteurs de s'initier à la diversité du monde végétal et à ses nombreux domaines d'application.;  Main Address:; Jardin Botanique Yves Rocher; Laboratoires Yves Rocher; La Croix des Archers; La Gacilly; Morbihan 56 201 France; ;  Telephone: 02 99 08 28 12; Fax: ; URL: <a target="_blank" href="http://www.jardinbotanique-yvesrocher.fr/">http://www.jardinbotanique-yvesrocher.fr/; Primary Email: jardinbotanique@yrnet.com ; 
+Plant Records Officer's Name:	Britta Freidinger
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1979
+Institution Type:	Botanic Garden
+Latitude:	47.7656
+Local Address:	
+Locality:	Information
+Longitude:	-2.1310
+Natural Vegetation Area:	Yes
+Total Area:	1 Hectares
+Total area of glasshouses:	350 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Invasive Species Policy:	Yes
+Special Collections:	Medicinal, aromatic plants (38 spp.), cosmetic/perfume plants (92 spp.), fruit plants (50 taxa), industrial plants (23 spp.), dye plants (19 spp.), useful plants of the tropics (150 spp.), desert plants (250 spp.).
+Two specialised plant collections:	National Collection of Artemisia and a collection of scented pelargoniums
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

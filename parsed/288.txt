@@ -1,0 +1,77 @@
+ID:	288
+Name:	Jardín Botánico "Arturo E. Ragonese" JBAER 
+Fax:	54-(0) 11-4621-6903
+Info:	  Argentina - Buenos Aires - Hurlingham  ;Garden Information;  Institution Code: BAB; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	irb.botanicoragonese@inta.gob.ar
+Telephone:	54-(0) 11-3754-8442
+Administration Staff Number:	
+Curator's Name:	Ing. Agr. Marcela Sánchez
+Director's Name:	Lic. Silvina Lewis
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Ing. Agr. Bárbara Pidal Hepburn
+Research Staff Number:	3
+Altitude:	22.00 Metres
+Annual Rainfall:	1050 mm
+Date founded:	1947
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-34.6104
+Local Address:	Instituto de Recursos Biológicos Centro de Investigaciones de Recursos Naturales INTA-Castelar De Los Reseros y Nicolás Repetto (ex De Las Cabañas) s.n. (1686) Hurlingham, Buenos Aires
+Locality:	Information
+Longitude:	-58.6745
+Natural Vegetation Area:	Yes
+Total Area:	30 Hectares
+Total area of glasshouses:	70 Metres
+Arboretum:	Yes
+Arboretum Size:	25
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1600
+Number of Volunteers:	4
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	1130
+Special Collections:	No information available.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

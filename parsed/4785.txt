@@ -1,0 +1,11 @@
+ID:	4785
+Name:	Makana Botanical Garden 
+Curator's Name:	Mark Hazell
+Director's Name:	Unknown
+Info:	  South Africa - Eastern Cape - Grahamstown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Makana Botanical Garden; Rhodes University; Grahamstown; Eastern Cape South Africa; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://bots.ru.ac.za/index.html">http://bots.ru.ac.za/index.html; Primary Email: grounds@ru.ac.za ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1853
+Institution Type:	Botanic Garden
+Latitude:	-33.314994
+Longitude:	26.520789

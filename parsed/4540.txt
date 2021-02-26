@@ -1,0 +1,9 @@
+ID:	4540
+Name:	New Zealand Herb Gardens 
+Curator's Name:	
+Director's Name:	
+Info:	  New Zealand - Orewa - Auckland  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; New Zealand Herb Gardens; 19a Ocean View Road; Hatfields Beach; Auckland; Orewa 0931 New Zealand; ;  Telephone: +6421667768; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: amg@nzherbgardens.org.nz ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-36.848462
+Longitude:	174.763339

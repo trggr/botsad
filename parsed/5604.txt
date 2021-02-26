@@ -1,0 +1,9 @@
+ID:	5604
+Name:	Proyecto Jardín Botánico Tafí del Valle 
+Curator's Name:	
+Director's Name:	Soraya Gutierrez
+Info:	  Argentina - Tucumán - Concepción  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Proyecto Jardín Botánico Tafí del Valle; Hotel Boutique Castillo de Piedra; Av. de los Jesuitas (Ruta Prov. 325) s.n. y Pasaje Malvinas Argentinas; Concepción; Tucumán Argentina; ;  Telephone: +54 381 154134184; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: info@castillodepiedra.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-26.858605
+Longitude:	-65.724875

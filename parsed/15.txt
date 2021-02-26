@@ -1,0 +1,14 @@
+ID:	15
+Name:	Botanic Garden of the National and Kapodistrian University of Athens SEED BANK 
+Curator's Name:	
+Director's Name:	Assoc. Professor Theophanis Constantinidis
+Info:	  Greece - Athens  ;Garden Information;  Institution Code: ATHUSB; International Agenda Registration: No; BGCI Member: No; About the Botanic Garden of the National and Kapodistrian University of Athens SEED BANK Our garden is the first Botanic Garden of Greece founded in 1835.; ; There are c. 200 different plant species (mainly trees and shrubs) from around the world cultivated in an area of 7000 square meters.; ; The Garden is situated in the heart of Athens near the ancient cemetary of Keramikos and unfortunately is not open to the public;  Main Address:; Botanic Garden of the National and Kapodistrian University of Athens SEED BANK; Department of Biology, Division of Ecology and Taxonomy,; National and Kapodistrian University of Athens, Panepistimiopolis; Athens; 157 84 Greece; ;  Telephone: +30 210 7274240, +30 210 7274258; Fax: +30 210 7274885; URL: <a target="_blank" href="http://en.uoa.gr/about-us/museums/botanical-garden.html">http://en.uoa.gr/about-us/museums/botanical-garden.html; Primary Email: ibazos@biol.uoa.gr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1835
+Institution Type:	Gene/Seed Bank
+Latitude:	37.9894
+Longitude:	23.7444
+Natural Vegetation Area:	No
+Open to public:	No
+Seed Bank:	Yes

@@ -1,0 +1,9 @@
+ID:	4746
+Name:	Henry Vilas Zoo 
+Curator's Name:	
+Director's Name:	Jim Hubing, Zoo Director
+Info:	  United States of America - Wisconsin - Madison  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Henry Vilas Zoo; 702 S. Randall Avenue; Madison; Wisconsin 53715 United States of America; ;  Telephone: (608) 266-4732; Fax: ; URL: <a target="_blank" href="http://www.vilaszoo.org">www.vilaszoo.org; Primary Email: zoo@co.dane.wi.us ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	43.0598290
+Longitude:	-89.4121680

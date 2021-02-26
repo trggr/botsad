@@ -1,0 +1,80 @@
+ID:	424
+Name:	Späth-Arboretum der Humboldt-Universität zu Berlin 
+Fax:	+49 (0)30 6369446
+Info:	  Germany - Deutschland - Berlin  ;Garden Information;  Institution Code: BHU; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	arboretum@hu-berlin.de
+Telephone:	+49 (0)30 6366941
+Administration Staff Number:	
+Curator's Name:	Dr. Thomas Janßen
+Director's Name:	Prof. Dr. Kurt Zoglauer
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	35.00 Metres
+Annual Rainfall:	580 mm
+Date founded:	1879
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	52.5234
+Longitude:	13.4114
+Natural Vegetation Area:	No
+Total Area:	4 Hectares
+Total area of glasshouses:	100 Metres
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	5000
+Number of Volunteers:	4
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	4000
+Cultivation Taxa Num:	3900
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	woody plants (including many rare cultivars and hybrids
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

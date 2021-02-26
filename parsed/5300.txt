@@ -1,0 +1,70 @@
+ID:	5300
+Name:	Arboretum Zampach 
+Fax:	
+Info:	  Czech Republic - Czech Republic - Zampach  ;Garden Information;  Institution Code: AZAM; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; 
+Primary Email:	uspza@uspza.cz
+Telephone:	465635220
+Curator's Name:	PaedDr. Luděk Grätz
+Director's Name:	PaedDr. Luděk Grätz
+Plant Records Officer's Name:	Mgr. Jiřina Matějíčková
+Altitude:	440.00 Metres
+Date founded:	1884
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	50.0390
+Local Address:	Arboretum Žampach, Žampach 1, 564 01 Žamberk
+Locality:	Information
+Longitude:	16.4319
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Lower Park, Upper Park, Indoor area
+Total Area:	4 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	8000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Accession Number:	1200
+Cultivation Taxa Num:	900
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Approximately 1200 plants and cultivars of woody plants, which are easily identifiable through a provided information system and scenic tour, are grown and cultivated on 4 hectares of surrounding land.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

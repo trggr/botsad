@@ -1,0 +1,9 @@
+ID:	4188
+Name:	Suleyman Demirel University Botanical Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Turkey - Isparta  ;Garden Information;  Institution Code: SDUBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Suleyman Demirel University Botanical Garden; Botanical Garden and Herbarium Research and Applied Center; Isparta; 32260 Turkey; ;  Telephone: +90 246 2371244; Fax: +90 246 2371106; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	37.7635
+Longitude:	30.5589

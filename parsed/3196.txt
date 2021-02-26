@@ -1,0 +1,11 @@
+ID:	3196
+Name:	Fredericton Botanic Garden 
+Curator's Name:	Richard Tarn, Garden Association
+Director's Name:	Nora Davidson-Wright, Board President
+Info:	  Canada - New Brunswick - Fredericton  ;Garden Information;  Institution Code: FRED; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fredericton Botanic Garden; P.O. Box 57, Station A; Fredericton; New Brunswick E3B 4Y2 Canada; ;  Telephone: (506) 452-9269; Fax: ; URL: <a target="_blank" href="http://www.frederictonbotanicgarden.com">www.frederictonbotanicgarden.com; Primary Email: fbga@nb.aibn.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	45.95052
+Longitude:	-66.67665
+Special Collections:	Rhodendrons

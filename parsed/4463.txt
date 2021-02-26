@@ -1,0 +1,77 @@
+ID:	4463
+Name:	Lincoln Park Conservatory 
+Fax:	(312) 742-5619
+Info:	  United States of America - Illinois - Chicago  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	(312) 742-7739
+With its four display houses:	the Palm House, Fern Room, Orchid House and Show House - home to the annual flower shows - the Conservatory continues to provide a haven in the city.
+Administration Staff Number:	1
+Curator's Name:	Harvey Bernstein
+Director's Name:	Mary Eysenbach
+Educational Staff Number:	
+Horticultural Staff Number:	14
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	177.00 Metres
+Annual Rainfall:	840 mm
+Date founded:	1890
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.9256610
+Local Address:	2391 N. Stockton Drive
+Locality:	Information
+Longitude:	-87.6360220
+Natural Vegetation Area:	No
+Satellite Garden Names:	Great Garden Conifer Garden
+Total area of glasshouses:	5180 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1822500
+Number of Volunteers:	7
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

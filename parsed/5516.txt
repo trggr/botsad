@@ -1,0 +1,11 @@
+ID:	5516
+Name:	Otari Native Botanic Garden & Wilton's Bush Reserve SEED BANK 
+Curator's Name:	
+Director's Name:	
+Info:	  New Zealand - Wellington  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Otari Native Botanic Garden & Wilton's Bush Reserve SEED BANK; 160 Wilton Road, Wilton; Mailing: Wellington City Council, P.O. Box 2199; Wellington; 6012 New Zealand; ;  Telephone: (04) 475 3245; Fax: ; URL: <a target="_blank" href="http://www.wellington.govt.nz">www.wellington.govt.nz; Primary Email: otari@wcc.govt.nz ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	-41.26554
+Longitude:	174.75114
+Seed Bank:	Yes

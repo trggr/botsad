@@ -1,0 +1,9 @@
+ID:	5304
+Name:	Vale Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - New York - Schenectady  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Vale Arboretum; 907 State Street; Schenectady; New York 12307 United States of America; ;  Telephone: 5183460423; Fax: ; URL: <a target="_blank" href="http://valecemetery.org/">http://valecemetery.org/; Primary Email: vale@valecemetery.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	42.806278
+Longitude:	-73.932723

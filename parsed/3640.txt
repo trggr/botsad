@@ -1,0 +1,10 @@
+ID:	3640
+Name:	Forest Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Greece - Thessaloniki  ;Garden Information;  Institution Code: TAU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Forest Botanic Garden; Aristotle University of Thessaloniki, Faculty of Forestry and Natural Environment; Institute of Forest Botany-Geobotany; Thessaloniki; 541 24 Greece; ;  Telephone: +30 2310 992765; Fax: +30 2310 992773; URL: <a target="_blank" href="http://www.auth.gr/units/botanicalGarden.el.php3">www.auth.gr/units/botanicalGarden.el.php3; Primary Email: ktheodor@for.auth.gr ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	40.6398
+Longitude:	22.9322

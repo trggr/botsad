@@ -1,0 +1,46 @@
+ID:	4726
+Name:	Grapevine Botanical Gardens at Heritage Park 
+Fax:	817-410-3051
+Info:	  United States of America - Texas - Grapevine  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Mailing:	P.O. Box 95104
+Primary Email:	gardener@grapevinetexas.gov
+Telephone:	(817) 410-3347
+Administration Staff Number:	1
+Curator's Name:	Lisa Adams Grove, Gardener/Horticulturist
+Director's Name:	Kevin R. Mitchell, Assistant Parks Director/Horticulturist
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	32.9378130
+Longitude:	-97.0836829
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	The Bessie Mitchell Center Julie's Garden Ed and Edith Pewitt Education Pavilion Kitchen Garden Butterfly Garden Koi Ponds Compost Corral
+Total Area:	5 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Volunteers:	60
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Accession Number:	500
+Cultivation Taxa Num:	450
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Education:	Yes
+Horticulture:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

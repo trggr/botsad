@@ -1,0 +1,91 @@
+ID:	20
+Name:	Jardín Botánico de la ciudad de Buenos Aires "Carlos Thays" 
+-" src="https:	//images.bgci.org/HeuPeqRXuUbFYNaqyn7jrAbn1tE=/fit-in/1024x/https%3A%2F%2Fwww.bgci.org%2Fwp%2Fwp-content%2Fuploads%2F2019%2F05%2FDSCN0398.jpg" alt="" width="700" />
+-</li> <li style="text-align:	justify
+-<img style="display:	block
+-<p style="text-align:	center
+-<ul> <li style="text-align:	justify
+-and</li> <li style="text-align:	justify
+-margin-left:	auto
+-margin-right:	auto
+-nico Carlos Thays. For more information about the project please contact <a href="mailto:	gmbarreiro@gmail.com">Graciela Barreiro.
+Fax:	
+Info:	  Argentina - Buenos Aires - Buenos Aires  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: BAJ; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
+Primary Email:	buenosairesjardin@buenosaires.gob.ar
+Telephone:	54 11 4833-3748
+Administration Staff Number:	20
+Curator's Name:	Ing. Agr. Gabriela Benito
+Director's Name:	Ing. Agr. Graciela Barreiro
+Educational Staff Number:	10
+Horticultural Staff Number:	20
+Plant Records Officer's Name:	Ing. Fernando Cano
+Research Staff Number:	10
+Altitude:	25.00 Metres
+Annual Rainfall:	1300 mm
+Date founded:	1898
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-34.5828
+Local Address:	Santa Fe 3951
+Locality:	Information
+Longitude:	-58.4190
+Natural Vegetation Area:	No
+Total Area:	8 Hectares
+Total area of glasshouses:	700 Metres
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	400000
+Number of Volunteers:	85
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	5100
+Cultivation Taxa Num:	1500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Plants of the template region of Argentina
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

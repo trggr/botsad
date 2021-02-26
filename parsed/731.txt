@@ -1,0 +1,42 @@
+ID:	731
+Name:	Scott Arboretum of Swarthmore College 
+Fax:	(610) 328-7755
+Info:	  United States of America - Pennsylvania - Swarthmore  ;Garden Information;  Institution Code: SWC; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
+Primary Email:	scott@swarthmore.edu
+Telephone:	(610) 328-8025
+Administration Staff Number:	8
+Curator's Name:	Mary Tipping, Curator & Plant Recorder
+Director's Name:	Claire Sawyers, Director
+Educational Staff Number:	2
+Horticultural Staff Number:	15
+Plant Records Officer's Name:	Mary Tipping
+Research Staff Number:	
+Altitude:	51.14 Metres
+Date founded:	1929
+Institution Type:	Botanic Garden
+Latitude:	39.9065520
+Longitude:	-75.3518800
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	30000
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	11414
+Cultivation Taxa Num:	3270
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

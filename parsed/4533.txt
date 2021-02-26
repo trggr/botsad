@@ -1,0 +1,74 @@
+ID:	4533
+Name:	Oman Botanic Garden 
+Administration Staff Number:	17
+Curator's Name:	
+Director's Name:	Dr. Annette Patzelt
+Educational Staff Number:	8
+Horticultural Staff Number:	34
+Info:	  Oman - Muscat  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Oman Botanic Garden Oman Botanic Garden is located in Muscat in the Sultanate of Oman. The Garden, currently under development, is an exciting, dynamic and ground breaking project. ; The Garden will combine the cultivation, study and conservation of Oman’s rich native flora with creative large scale native habitat displays and amenity planting under the over-arching themes of plant conservation, environmental education and horticultural excellence. ; Oman Botanic Garden will be a regional and international leader in conservation and will lead the way in innovation and learning. The Garden will bring the plants and habitats and plant-related traditions of Oman to life through displays, exhibitions, events and activities to engage a wide range of visitors. ; The Garden comprises extensive visitor and staff service facilities and will eventually include:; ; 14000 m2 of climate-controlled displays, housed within biomes; 70000 m2 of outdoor naturalistic habitats and amenity planting areas; Exhibitions and interpretive installations (interior and exterior); Shops, restaurants, and cafes ; A series of exhibits displaying crafts and heritage; Family zones, playgrounds and passive recreational areas ; Research facilities including laboratories, library, herbarium, auditorium, staff canteen and seminar rooms; A 30000 m2 nursery with associated buildings and offices ; Education facilities with classrooms, accommodation for up to 60 people, canteen and study rooms; Office facilities and work places for c. 350 staff; Sustainability elements such as photovoltaic farm and constructed wetlands; Extensive amenity planting, car parks, and other visitor facilities;  Main Address:; Oman Botanic Garden; P.O. Box 808; Muscat; 122 Oman; ;  Telephone: 00968-24531916; Fax: 00968-24531941; URL: <a target="_blank" href="http://www.omanbotanicgarden.om">www.omanbotanicgarden.om; Primary Email: annette.patzelt@omanbotanicgarden.om ; 
+Plant Records Officer's Name:	Ghudaina Al Issai and Khadija Al Maawali
+Research Staff Number:	19
+Altitude:	100.00 Metres
+Annual Rainfall:	120 mm
+Date founded:	2006
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	23.5609
+Longitude:	58.1287
+Natural Vegetation Area:	Yes
+Total Area:	420 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	3000
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	60000
+Cultivation Taxa Num:	450
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Garden holds only plants native to Oman.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

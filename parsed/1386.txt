@@ -1,0 +1,28 @@
+ID:	1386
+Name:	Botanical Garden Druzba 
+Administration Staff Number:	3
+Curator's Name:	
+Director's Name:	Unknown
+Educational Staff Number:	
+Horticultural Staff Number:	18
+Info:	  Bulgaria - Varna  ;Garden Information;  Institution Code: VARNA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden Druzba; Varna 9000,Bulgaria.; Varna; Bulgaria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1977
+Institution Type:	Botanic Garden
+Latitude:	43.2059
+Longitude:	27.9067
+Total Area:	36 Hectares
+Total area of glasshouses:	469 Metres
+Arboretum:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	50000
+Seed Bank:	Yes
+Cultivation Taxa Num:	1750
+Special Collections:	No information available.
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Education:	Yes

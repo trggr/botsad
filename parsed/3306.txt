@@ -1,0 +1,11 @@
+ID:	3306
+Name:	Granada Arboretum (Jodrell Bank Science Centre and Arboretum) 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Macclesfield  ;Garden Information;  Institution Code: GMAC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Granada Arboretum (Jodrell Bank Science Centre and Arboretum); Jodrell Bank Macclesfield Cheshire SK11 9DL; Macclesfield; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	53.23857
+Longitude:	-2.30562
+Special Collections:	Alnus, Betula, Pinus, Sorbus, Malus, Erica, Calluna.

@@ -1,0 +1,36 @@
+ID:	751
+Name:	Orto Botanico Hanbury di Genova 
+Administration Staff Number:	
+Curator's Name:	Dr Elena Mora
+Director's Name:	Dr Mauro Mariotti
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  Italy - Liguria - Genova  ;Garden Information;  Institution Code: GE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico Hanbury di Genova; Università Degli Studi di Genova - Corso Dogali 1M; Genova; Liguria 16136 Italy; ;  Telephone: +39 (0)10 209 9392; Fax: +39 (0)10 209 9377; URL: <a target="_blank" href="http://">; Primary Email: botgarden@unige.it ; 
+Plant Records Officer's Name:	Dr Elena Mora
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	44.4070
+Longitude:	8.9339
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Tropical plants - Ferns - Useful Plants - Sages - Medicinal plants.
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Urban Environments:	Yes
+Courses for University/College Students:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	No

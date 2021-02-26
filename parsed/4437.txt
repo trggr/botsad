@@ -1,0 +1,13 @@
+ID:	4437
+Name:	Bok Tower Gardens 
+Curator's Name:	Greg Kramer, Director of Horticulture
+Director's Name:	David Price, President
+Info:	  United States of America - Florida - Lake Wales  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Bok Tower Gardens; 1151 Tower Boulevard; Lake Wales; Florida 33853-3412 United States of America; ;  Telephone: (813) 676-1408; Fax: (813) 676-6770; URL: <a target="_blank" href="https://boktowergardens.org/">https://boktowergardens.org/; Primary Email: gkramer@boktower.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	27.9175060
+Longitude:	-81.5659760
+Seed Bank:	Yes
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes

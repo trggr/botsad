@@ -1,0 +1,10 @@
+ID:	4436
+Name:	National Aquarium - Baltimore 
+Curator's Name:	Horticulture Curator
+Director's Name:	David Pittenger, Executive Director
+Info:	  United States of America - Maryland - Baltimore  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Aquarium - Baltimore; 501 East Pratt Street; Baltimore; Maryland 21202 United States of America; ;  Telephone: (410) 576-3800; Fax: ; URL: <a target="_blank" href="http://www.aqua.org">www.aqua.org; Primary Email: conserve@aqua.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	39.2854980
+Longitude:	-76.6083310

@@ -1,0 +1,28 @@
+ID:	4477
+Name:	Ontario Forest Research Institute Arboretum 
+Fax:	(705) 946-2030
+Info:	  Canada - Ontario - Sault Ste Marie  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	information.ofri@ontario.ca
+Telephone:	(705) 946-2981
+Curator's Name:	
+Director's Name:	Manager - Forest Research and Monitoring Section
+Plant Records Officer's Name:	
+Altitude:	230.00 Metres
+Date founded:	1990
+Institution Type:	Other
+Latitude:	46.504465
+Longitude:	-84.303329
+Arboretum:	Yes
+Arboretum Size:	94
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	No
+Conservation - Genetics:	Yes
+Ecology:	Yes
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	Yes

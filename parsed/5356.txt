@@ -1,0 +1,9 @@
+ID:	5356
+Name:	City of East Point 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - GA - East Point  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; City of East Point; 1431 Norman Berry Drive; East Point; GA 30344 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.eastpointcity.org/parks-recreation/">http://www.eastpointcity.org/parks-recreation/; Primary Email: dmaldonado@eastpointcity.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	33.6768
+Longitude:	-84.4725

@@ -1,0 +1,55 @@
+ID:	4602
+Name:	Lakes Park Botanic Garden 
+Administration Staff Number:	11
+Curator's Name:	Wesley Higgins
+Director's Name:	Vicki Baugh
+Educational Staff Number:	2
+Horticultural Staff Number:	25
+Info:	  United States of America - Florida - Fort Myers  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Lakes Park Botanic Garden Our Mission is to support Lee County Parks & Recreation through philanthropic and ; voluntary efforts promoting ongoing community awareness and support of the recreational; and educational value of Lakes Park and its continuing evolution, to include a botanic garden and; other enhancements, resulting in an even more attractive natural environment for the community to ; enjoy.;  Main Address:; Lakes Park Botanic Garden; 7330 Gladiolus Drive; Fort Myers; Florida 33908 United States of America; ;  Telephone: 239-533-7575; Fax: ; URL: <a target="_blank" href="http://www.lakesparkenrichmentfoundation.org">www.lakesparkenrichmentfoundation.org; Primary Email: Info@LakesParkEnrichmentFoundation.org ; 
+Plant Records Officer's Name:	Dave Bush
+Research Staff Number:	
+Altitude:	1.20 Metres
+Annual Rainfall:	1376 mm
+Date founded:	1984
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	26.5065138
+Local Address:	Lee County
+Locality:	Information
+Longitude:	-81.9894860
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Fragrance Garden, Succulent Garden, Rose Garden, Aquatic Garden
+Total Area:	120 Hectares
+Arboretum:	Yes
+Arboretum Size:	40
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	900000
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	220
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Special Collections:	Only display plants accessioned
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

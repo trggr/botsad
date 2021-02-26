@@ -1,0 +1,74 @@
+ID:	4295
+Name:	Mobile Botanical Gardens 
+Administration Staff Number:	3
+Curator's Name:	Amanda Wilkins
+Director's Name:	Robin Krchak, Executive Director
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - Alabama - Mobile  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Mobile Botanical Gardens Located in the heart of Mobile, the Mobile Botanical Gardens - a 501(c)3 organization, was established in 1974 by a group of horticulturists to preserve the natural aspects of the local environment. Within its 100 acres are a Camellia Winter Garden, Fern Glade, Fragrance and Texture Garden, Herb Garden, Japanese Maple Garden, Rhododendron Garden, and collections of hollies, magnolias, roses, and perennials, as well as a 27 acre longleaf pine habitat.;  Main Address:; Mobile Botanical Gardens; 5151 Museum Drive; Mobile; Alabama 36608 United States of America; ;  Telephone: (251) 342-0555; Fax: (251) 342-3149; URL: <a target="_blank" href="http://www.mobilebotanicalgardens.org">www.mobilebotanicalgardens.org; Primary Email: info@mbgardens.org ; 
+Plant Records Officer's Name:	Amanda Wilkins, Curator of Collections
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1974
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	30.7036570
+Local Address:	5151 Museum Drive
+Locality:	Information
+Longitude:	-88.1608000
+Natural Vegetation Area:	Yes
+Total Area:	40 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	20000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Kosaku Sawada WinterGarden, Pollinator Garden, Millie McConnell Rhododendron Garden, Aromi Azalea Garden, Fragrance and Texture Garden, Herb Garden, John Allen Smith Japanese Maple Garden, Longleaf Pine Forest, Katherine Shropshire Nature Trail
+major collections:	Rhododendron, Camellia, Ilex, Ericaceae, Theaceae
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

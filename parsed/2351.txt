@@ -1,0 +1,22 @@
+ID:	2351
+Name:	Provinciaal Domein Rivierenhof 
+Administration Staff Number:	4
+Curator's Name:	Peter Verdyck
+Director's Name:	Peter Verdyck
+Educational Staff Number:	10
+Horticultural Staff Number:	25
+Info:	  Belgium - Deurne  ;Garden Information;  Institution Code: DEUR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Provinciaal Domein Rivierenhof; Turnhoutsebaan 232,; Deurne; Belgium; ;  Telephone: 32 (0)3 360 52 00; Fax: 32 (0)3 360 52 13; URL: <a target="_blank" href="http://www.rivierenhof.be">www.rivierenhof.be; Primary Email: info@groenantwerpen.be ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	5.00 Metres
+Annual Rainfall:	992 mm
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	51.1896
+Longitude:	4.4612
+Natural Vegetation Area:	Yes
+Total Area:	130 Hectares
+Arboretum:	Yes
+Arboretum Size:	2
+Number of Visitors:	650
+Special Collections:	in constructionno

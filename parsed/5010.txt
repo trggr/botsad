@@ -1,0 +1,22 @@
+ID:	5010
+Name:	Wondo Genet College Arboretum 
+Curator's Name:	Ato Habtamu Assaye (Site manager)
+Director's Name:	Dr. Girma (Wondo Genet College, Dean)
+Info:	  Ethiopia - Shashemene / Wondo Genet  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Wondo Genet College Arboretum Established in 1978 at the Wondo Genet College of Forestry and Natural Resources this arboretum of 4 hectares was planted in 10m x 10m single species plots for research purposes. There are around 95 tree and shrub species represented in the arboretum, mainly consisting of exotic species. The last plots were planted in 2000 and since then planting and associated activities at the arboretum stopped. In 2012, a restoration project was initiated at the arboretum entitled 'ARBOPRO'. This project is a joint initiative between Wondo Genet College, the University of Hamburg and the University of Oxford Harcourt Arboretum. Funding was successfully sourced for three start-up workshops to guide restoration of the arboretum, construction of an entrance gate and fence to keep out cattle and baboons, and salaries for two staff positions; a Site Manager and Arboretum Curator. The restoration project aims to rejuvenate the arboretum, provide training to staff and students at Wondo Genet College and build the collections of the arboretum to establish a national collection of endemic and endangered tree and shrub species of Ethiopia.;  Main Address:; Wondo Genet College Arboretum; Wondo Genet College of Forestry and Natural Resources; Hawassa University; Shashemene / Wondo Genet; P.O. Box 128 Ethiopia; ;  Telephone: 00251911383577 (Site manager); Fax: ; URL: <a target="_blank" href="http://www.hu.edu.et/hu/index.php/78-hu/icetabs/201-wondo-genet-college-of-forestry-wgcf">http://www.hu.edu.et/hu/index.php/78-hu/icetabs/201-wondo-genet-college-of-forestry-wgcf; Primary Email: borchardt@geowiss.uni-hamburg.de ; 
+Plant Records Officer's Name:	Senait Desalgne
+Altitude:	2000.00 Metres
+Annual Rainfall:	1200 mm
+Date founded:	1978
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	7.084209
+Local Address:	P.O. Box 128 Shashemene Ethiopia
+Locality:	Information
+Longitude:	38.617973
+Natural Vegetation Area:	No
+Total Area:	4 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Herbarium:	Yes
+Open to public:	Yes
+Education Signs in Garden:	Yes

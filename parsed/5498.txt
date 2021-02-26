@@ -1,0 +1,25 @@
+ID:	5498
+Name:	Germplasm Bank of Wild Species 
+Curator's Name:	Xiang-Yun Yang
+Director's Name:	De-Zhu Li
+Info:	  China - Yunnan - Kunming  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Germplasm Bank of Wild Species The Germplasm Bank of Wild Species is a national large-scale Sci & Tech facility supported by the Chinese Government and under the auspices of the Chinese Academy of Sciences in conjunction with the Provincial Government of Yunnan.;  Main Address:; Germplasm Bank of Wild Species; Kunming Institute of Botany, Chinese Academy of Sciences; Heilongtan, Panlong District; Kunming; Yunnan 650201 China; ;  Telephone: +86-871-6522 3503; Fax: +86-871-6521 7791; URL: <a target="_blank" href="http://www.genobank.org">http://www.genobank.org; Primary Email: lihongtao@mail.kib.ac.cn ; 
+Plant Records Officer's Name:	Hong-Tao Li
+Altitude:	1960.00 Metres
+Annual Rainfall:	1000 mm
+Date founded:	2007
+Institution Type:	Gene/Seed Bank
+Landscaped Area:	Yes
+Latitude:	25.0166
+Local Address:	盘龙区黑龙潭
+Locality:	Information
+Longitude:	102.6833
+Natural Vegetation Area:	No
+Satellite Garden Names:	Kunming Botanical Garden
+Total Area:	5 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes

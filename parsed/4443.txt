@@ -1,0 +1,41 @@
+ID:	4443
+Name:	Robert A. Winters Arboretum, The 
+Administration Staff Number:	1
+Curator's Name:	Joe Greipp
+Director's Name:	Joe Greipp
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  United States of America - New Jersey - Hightstown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Robert A. Winters Arboretum, The The private garden of residents of Meadow Lakes, open to the public by appointment and tours only.;  Main Address:; Robert A. Winters Arboretum, The; Meadow Lakes; 300 Etra Road; Hightstown; New Jersey 08520 United States of America; ;  Telephone: (609) 426-6811; Fax: (609) 426-6884; URL: <a target="_blank" href="http://meadowlakesonline.org">http://meadowlakesonline.org; Primary Email: jgreipp@springpointsl.org ; 
+Plant Records Officer's Name:	Joe Greipp
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.2545050
+Local Address:	
+Locality:	Information
+Longitude:	-74.5096440
+Natural Vegetation Area:	Yes
+Total Area:	40 Hectares
+Arboretum:	Yes
+Arboretum Size:	40
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Open to public:	Yes
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	5,000 trees. 400 unique species. Shrubs and herbaceous plants not cataloged.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Education Booklets/Leaflets:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

@@ -1,0 +1,21 @@
+ID:	4266
+Name:	Gardens at SIUE, The 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Doug Conley, Director
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  United States of America - Illinois - Edwardsville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Gardens at SIUE, The The Gardens at SIUE is a 35 acre public botanical garden on the campus of Southern Illinois University Edwardsville. Recognized by the Missouri Botanical Garden as a Signature Garden, The Gardens currently include natural areas, gardens, and sculpture arranged in a landscaped setting.; ; The mission of The Gardens at SIUE is to create a venue of beauty and distinction that will support the educational and research components of the University; that will engage the public in educational opportunity and campus life; and that will provide a haven for relaxation and enjoyment for all.;  Main Address:; Gardens at SIUE, The; Southern Illinois University Edwardsville, University Drive and Cougar Lake Road; Mailing: Deparment of Biological Sciences, Box 1651; Edwardsville; Illinois 62026 United States of America; ;  Telephone: (618) 650-3788; Fax: (618) 650-3174; URL: <a target="_blank" href="http://www.siue.edu/gardens">www.siue.edu/gardens; Primary Email: thegardens@siue.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1990
+Institution Type:	Botanic Garden
+Latitude:	38.8009580
+Longitude:	-89.9930200
+Total Area:	14 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Friends society:	Yes
+Number of Volunteers:	500
+Open to public:	Yes

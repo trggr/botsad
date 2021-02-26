@@ -1,0 +1,9 @@
+ID:	4137
+Name:	Tofino Botanical Gardens 
+Curator's Name:	
+Director's Name:	George Patterson, Director
+Info:	  Canada - British Columbia - Tofino  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Tofino Botanical Gardens; 1084 Pacific Rim Highway; Mailing: P.O. Box 886; Tofino; British Columbia V0R 2Z0 Canada; ;  Telephone: (250) 725-1220; Fax: (250) 725-2435; URL: <a target="_blank" href="http://www.tbgf.org">www.tbgf.org; Primary Email: info@tbgf.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	49.13326
+Longitude:	-125.89302

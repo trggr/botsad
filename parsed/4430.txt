@@ -1,0 +1,10 @@
+ID:	4430
+Name:	Eastern Ontario Model Forest 
+Curator's Name:	Erin Neave, Biodiversity Specialist
+Director's Name:	Mark Richardson, General Manager
+Info:	  Canada - Ontario - Kemptville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Eastern Ontario Model Forest; P.O. Bag 2111; Kemptville; Ontario K0G 1J0 Canada; ;  Telephone: (613) 258-8241; Fax: (613) 258-8363; URL: <a target="_blank" href="http://www.eomf.on.ca">www.eomf.on.ca; Primary Email: modelforest@eomf.on.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	45.00636
+Longitude:	-75.6379

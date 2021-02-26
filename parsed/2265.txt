@@ -1,0 +1,11 @@
+ID:	2265
+Name:	Estacion Experimental de Plantas Medicinales "Dr. Juan T. Roig" 
+Curator's Name:	
+Director's Name:	
+Info:	  Cuba - Havana  ;Garden Information;  Institution Code: PMEDI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Estacion Experimental de Plantas Medicinales "Dr. Juan T. Roig"; Apartado Postal 33, Guira de Melena C.P. 33600, Provincia La Habana, Cuba.; Havana; Cuba; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	23.1333
+Longitude:	-82.3666
+Special Collections:	Medicinal plants.

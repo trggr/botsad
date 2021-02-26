@@ -1,0 +1,68 @@
+ID:	957
+Name:	Jardín Botánico Lankester 
+Administration Staff Number:	8
+Curator's Name:	Jorge Warner
+Director's Name:	Adam Karremans
+Educational Staff Number:	
+Horticultural Staff Number:	9
+Info:	  Costa Rica - Cartago - Cartago  ;Garden Information;  Institution Code: JBL; International Agenda Registration: Yes; BGCI Member: Yes; About the Jardín Botánico Lankester Officially founded in 1973, the mission of the University of Costa Rica's Lankester Botanical Garden is to promote conservation, enjoyment and sustainable use of the epiphytic flora through scientific research, horticulture, and environmental education. ; ; Lankester Botanical Garden was established as a center for the exhibition, conservation and research of tropical epiphytic plants, with a special interest in orchids. On 11 hectares, the field collections, collections in greenhouses and secondary forests host over 3,000 species of plants.; ; The origin of Lankester Botanical Garden goes back to the 1910's when the British naturalist Charles H. Lankester (1879-1969) became interested in the study and cultivation of Costa Rica's epiphytic plants. As an amateur botanist, he collaborated with the most prominent orchidologists of his time and dedicated his life to the creation of a private garden in his farm. After his death, the importance of preserving his garden became evident. Through the joint efforts of the American Orchid Society and the Stanley Smith Horticultural Trust, the garden of “don Carlos” was donated to the University of Costa Rica on March 2nd, 1973, with the promise to transform it into a botanical garden. With dedication and much effort, the Lankester Botanical Garden has become one of the most active and important botanical institutions of the Neotropics.;  Main Address:; Jardín Botánico Lankester; Universidad de Costa Rica; Cartago; Cartago 302-7050 Costa Rica; ;  Telephone: (506) 2511-7931; Fax: (506) 2511-7937; URL: <a target="_blank" href="http://www.jbl.ucr.ac.cr">www.jbl.ucr.ac.cr; Primary Email: jardinbotanico.lankester@ucr.ac.cr ; 
+Plant Records Officer's Name:	Jorge Warner
+Research Staff Number:	7
+Altitude:	1370.00 Metres
+Annual Rainfall:	2000 mm
+Date founded:	1973
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	9.8396
+Local Address:	Carretera de Cartago a Paraíso, kilómetro 4. De la fábrica PLYCEM 500 metros al sur y 100 metros al oeste.
+Locality:	Information
+Longitude:	-83.8885
+Natural Vegetation Area:	Yes
+Total Area:	11 Hectares
+Total area of shadehouses:	1400 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	25000
+Number of Volunteers:	1
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	15000
+Cultivation Taxa Num:	1500
+Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Agriculture:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes

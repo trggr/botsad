@@ -1,0 +1,36 @@
+ID:	793
+Name:	University Botanic Gardens 
+Administration Staff Number:	1
+Curator's Name:	Yana Shopova
+Director's Name:	Dr Krasimir Kosev
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  Bulgaria - Sofia, Varna, Balchik  ;Garden Information;  Institution Code: SO; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; University Botanic Gardens; 49 Moskovska str, PO Box 157, 1000 SOFIA, Bulgaria; Sofia, Varna, Balchik; 1000 Bulgaria; ;  Telephone: 359 2 988 17 97; Fax: 359 2 988 17 97; URL: <a target="_blank" href="http://ubg-bg.com">ubg-bg.com; Primary Email: ubg_sofia@abv.bg ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	549.00 Metres
+Annual Rainfall:	687 mm
+Date founded:	1892
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.7105
+Longitude:	23.3238
+Satellite Garden Names:	University Botanic Garden, town of Balchik University Botanic Garden - Ecopark, town of Varna
+Total Area:	1 Hectares
+Total area of glasshouses:	500 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	6000
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	7821
+Special Collections:	Ferns, palms, shade-loving plants on banks of a small stream, orchids, peonies, clematises, roses
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Education:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes

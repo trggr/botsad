@@ -1,0 +1,12 @@
+ID:	5234
+Name:	Huntington Library, Art Museum and Botanical Gardens, The - Tissue Culture Lab 
+Curator's Name:	Rakel Folgado, Plant Physiologist
+Director's Name:	Jim Folsom, Director
+Info:	  United States of America - California - San Marino  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Huntington Library, Art Museum and Botanical Gardens, The - Tissue Culture Lab; 1151 Oxford Road; San Marino; California 91108 United States of America; ;  Telephone: (626) 405-3505; Fax: (626) 405-3501; URL: <a target="_blank" href="http://www.huntington.org">www.huntington.org; Primary Email: rfolgado@huntington.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	34.1277933
+Longitude:	-118.1094371
+Micropropagation/ Tissue Culture Facilities:	Yes
+Seed Bank:	Yes

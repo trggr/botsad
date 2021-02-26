@@ -1,0 +1,50 @@
+ID:	2178
+Name:	Fundação de Parques Municipais e Zoobotânica 
+Fax:	+31 3277-7280
+Info:	  Brazil - Minas Gerais - Belo Horizonte  ;Garden Information;  Institution Code: BELOH; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	fzbjb@pbh.gov.br
+Telephone:	+31 3277-7280 / 3277-9823 / 3277-9211
+Administration Staff Number:	71
+Curator's Name:	Inês Ribeiro de Andrade
+Educational Staff Number:	
+Horticultural Staff Number:	48
+Plant Records Officer's Name:	Miriam Pimentel Mendonça
+Research Staff Number:	10
+Altitude:	800.00 Metres
+Date founded:	1991
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-19.8157
+Longitude:	-43.9542
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	No
+Total Area:	10 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	750
+Number of Volunteers:	14
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	3232
+Cultivation Taxa Num:	1510
+Special Collections:	Atlantic forest species, desert brushland species, Amazon forest species, cerrado species, aquatic plants, insectivorous plants, palms, orchids, bromeliads, succulents, pteridophytes, aroids. - Bromelias, Cactaceas, Suculentas, Orquideas, Araceas, Aquaticas
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

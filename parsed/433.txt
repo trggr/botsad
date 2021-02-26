@@ -1,0 +1,33 @@
+ID:	433
+Name:	Botanic Garden of Rostock University 
+Administration Staff Number:	1
+Curator's Name:	Dr. Johannes Nauenburg
+Director's Name:	Prof. Dr. Stefan Porembski
+Educational Staff Number:	
+Horticultural Staff Number:	13
+Info:	  Germany - Deutschland - Rostock  ;Garden Information;  Institution Code: ROST; International Agenda Registration: No; BGCI Member: No; About the Botanic Garden of Rostock University In the actual position the garden exists since 1939, with an outdoor area of 8 ha. Greenhouses are needed, there are difficulties to built them new.;  Main Address:; Botanic Garden of Rostock University; Hamburger Str. 28; Rostock; 18051 Germany - Deutschland; ;  Telephone: +49-381-4986250; Fax: +49-381-4986253; URL: <a target="_blank" href="http://www.biologie.uni-rostock.de/botgart/index.htm">www.biologie.uni-rostock.de/botgart/index.htm; Primary Email: johannes.nauenburg@uni-rostock.de ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	15.00 Metres
+Annual Rainfall:	575 mm
+Date founded:	1885
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	54.0901
+Local Address:	Hamburger Straße 28
+Locality:	Information
+Longitude:	12.1329
+Natural Vegetation Area:	Yes
+Total Area:	8 Hectares
+Total area of glasshouses:	400 Metres
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	30000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Accession Number:	10000
+Cultivation Taxa Num:	5000
+Special Collections:	Alpine plants and Coniferae

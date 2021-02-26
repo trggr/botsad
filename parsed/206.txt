@@ -1,0 +1,28 @@
+ID:	206
+Name:	Jardin de Aclimatacion de la Orotava 
+Administration Staff Number:	1
+Curator's Name:	J.A.Rodriguez Perez
+Director's Name:	A.Arroyo Hodgson
+Educational Staff Number:	1
+Horticultural Staff Number:	17
+Info:	  Spain - Tenerife  ;Garden Information;  Institution Code: ORT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin de Aclimatacion de la Orotava; La Paz, 38400 Puerto de la Cruz, TENERIFE, Canary Islands, Spain.; Tenerife; Spain; ;  Telephone: ; Fax: 922 - 384751; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1788
+Institution Type:	Botanic Garden
+Latitude:	28.4060
+Longitude:	-16.5439
+Total Area:	3 Hectares
+Arboretum:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	188729
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	944
+Special Collections:	Palms, Aroids, Bromeliads
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Education:	Yes

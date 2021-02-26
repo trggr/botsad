@@ -1,0 +1,61 @@
+ID:	5519
+Name:	Jardín Botánico Horco Molle 
+Curator's Name:	Prof. Vanina Rearte
+Director's Name:	Lic. Pablo Quiroga
+Info:	  Argentina - Tucumán - San Miguel de Tucumán  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Horco Molle; Reserva Horco Molle, Horco Molle, Dpto. Yerba Buena; Facultad de Ciencias Naturales e Instituto Miguel Lillo, Universidad Nacional de Tucumán, Miguel Lillo 205; San Miguel de Tucumán; Tucumán CP.4017 Argentina; ;  Telephone: +54 381 425 0936; Fax: ; URL: <a target="_blank" href="http://www.reservahorcomolle.com.ar/">http://www.reservahorcomolle.com.ar/; Primary Email: areabotanicarehm@gmail.com ; 
+Plant Records Officer's Name:	Lic. Matías Salas
+Altitude:	0.00 Metres
+Date founded:	2016
+Institution Type:	Botanic Garden
+Latitude:	-26.79272
+Longitude:	-65.31607
+Natural Vegetation Area:	Yes
+Total Area:	89 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

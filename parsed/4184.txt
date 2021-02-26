@@ -1,0 +1,75 @@
+ID:	4184
+Name:	Fundação Jardim Botânico de Pocos de Caldas 
+Administration Staff Number:	3
+Curator's Name:	Silvana Vieira
+Director's Name:	João Neves Toledo
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Info:	  Brazil - Minas Gerais - Poços de Caldas  ;Garden Information;  Institution Code: CALDAS; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Fundação Jardim Botânico de Pocos de Caldas; Rua Paulo de Oliveira, 320; Parque Véu das Noivas; Poços de Caldas; Minas Gerais 37704-377 Brazil; ;  Telephone: 55 35 3715 6054; Fax: ; URL: <a target="_blank" href="http://www.jardimbotanicopocos.org">www.jardimbotanicopocos.org; Primary Email: fjbpc@yahoo.com.br ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	1400.00 Metres
+Date founded:	2003
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-21.7882
+Local Address:	Rua Paulo de Oliveira 320
+Locality:	Information
+Longitude:	-46.5625
+Natural Vegetation Area:	Yes
+Total Area:	305 Hectares
+Arboretum:	Yes
+Arboretum Size:	40
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	150
+Number of Volunteers:	25
+Open to public:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	2500
+Cultivation Taxa Num:	1500
+Invasive Species Monitoring:	No
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

@@ -1,0 +1,46 @@
+ID:	5487
+Name:	Amorepacific Botanic Garden 
+Curator's Name:	Sungmin Kim
+Director's Name:	Kweonyoung Han
+Info:	  South Korea - Gyeonggi-do - Osan-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Amorepacific Botanic Garden; 37, Gajangsaneopdongro; Osan-si; Gyeonggi-do 18103 South Korea; ;  Telephone: +82 31 8047 1451; Fax: +82 31 8047 1459; URL: <a target="_blank" href="http://www.amorepacific.com">http://www.amorepacific.com; Primary Email: kyhan@amorepacific.com ; 
+Plant Records Officer's Name:	Songi Jeon
+Altitude:	0.00 Metres
+Date founded:	2019
+Institution Type:	Botanic Garden
+Latitude:	37.1491369
+Longitude:	127.0464445
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	No
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Guided Tours:	Yes

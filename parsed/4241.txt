@@ -1,0 +1,20 @@
+ID:	4241
+Name:	Georgeson Botanical Garden 
+Curator's Name:	Katie DiCristina, Garden Manager
+Director's Name:	Dr. Milan Shipka, Director
+Info:	  United States of America - Alaska - Fairbanks  ;Garden Information;  Institution Code: GEOBG; International Agenda Registration: No; BGCI Member: Yes; About the Georgeson Botanical Garden The Georgeson Botanical Garden (GBG) is a nationally recognized botanical garden and a member of a national network of educational and research institutions dedicated to plant culture and conservation. It is designed to allow the public to learn about plant culture in the far north. The GBG is one of five botanical gardens in the nation to be a satellite test garden for the International Hardy Fern Foundation.;  Main Address:; Georgeson Botanical Garden; University of Alaska Fairbanks, 117 West Tanana Drive; Mailing: University of Alaska Fairbanks, P.O. Box 757200; Fairbanks; Alaska 99775 United States of America; ;  Telephone: (907) 474-1944; Fax: (907) 484-1841; URL: <a target="_blank" href="http://www.georgesonbotanicalgarden.org/">http://www.georgesonbotanicalgarden.org/; Primary Email: gbgardensuaf@gmail.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1991
+Institution Type:	Botanic Garden
+Latitude:	64.8557441
+Longitude:	-147.8568754
+Arboretum:	No
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	30000
+Number of Volunteers:	16
+Open to public:	Yes
+Reintroduction Programme:	No
+Pollination Biology:	Yes
+Education Programme:	Yes

@@ -1,0 +1,9 @@
+ID:	4994
+Name:	Botanica - Louisville's Waterfront Botanical Gardens 
+Curator's Name:	Jamie Burghardt, Director of Horticulture & Education
+Director's Name:	Kasey Maier, President
+Info:	  United States of America - Kentucky - Louisville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanica - Louisville's Waterfront Botanical Gardens; 129 East River Road; Mailing: P.O. Box 5056; Louisville; Kentucky 40255 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://waterfrontgardens.org">http://waterfrontgardens.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	38.259244
+Longitude:	-85.746265

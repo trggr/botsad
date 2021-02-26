@@ -1,0 +1,10 @@
+ID:	3157
+Name:	Jardin Botanico "Ollintepetl" 
+Curator's Name:	
+Director's Name:	
+Info:	  Mexico - Hildago  ;Garden Information;  Institution Code: COEDE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico "Ollintepetl"; Parque Ecologico Cubito,; Hildago; Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	20.4972
+Longitude:	-98.9243

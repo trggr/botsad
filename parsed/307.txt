@@ -1,0 +1,16 @@
+ID:	307
+Name:	Museu Paraense Emílio Goeldi e Parque Zoobotânico 
+Curator's Name:	
+Director's Name:	Ima Célia Guimarães Vieira
+Info:	  Brazil - Pará - Belém  ;Garden Information;  Institution Code: MG; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Museu Paraense Emílio Goeldi e Parque Zoobotânico; Av.Magalhães Barata, 376 - São Brás; Belém; Pará 66.040-170 Brazil; ;  Telephone: (91) 3249 0234; Fax: ; URL: <a target="_blank" href="http://www.museu-goeldi.br">www.museu-goeldi.br; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	-1.4517
+Longitude:	-48.4781
+Total Area:	5 Hectares
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Number of Visitors:	65535
+Cultivation Taxa Num:	3000
+Special Collections:	Amazonian flora, including many types described by J Huber and A Ducke. Ethnobotanical collections

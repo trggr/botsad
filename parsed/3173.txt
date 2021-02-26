@@ -1,0 +1,11 @@
+ID:	3173
+Name:	Boreal Botanic Garden 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  Canada - Alberta - High Level  ;Garden Information;  Institution Code: BORE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Boreal Botanic Garden; Box 1106; High Level; Alberta T0H 1Z0 Canada; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	58.510372
+Longitude:	-117.1329048
+Special Collections:	No information available.

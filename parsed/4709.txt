@@ -1,0 +1,10 @@
+ID:	4709
+Name:	Tulsa Zoo 
+Curator's Name:	Jay Ross, Horticulture Curator
+Director's Name:	-
+Info:	  United States of America - Oklahoma - Tulsa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tulsa Zoo; 5701 East 36th Street North; Tulsa; Oklahoma 74115 United States of America; ;  Telephone: (918) 669-6600; Fax: ; URL: <a target="_blank" href="http://www.tulsazoo.org">www.tulsazoo.org; Primary Email: info@tulsazoo.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	36.2061281
+Longitude:	-95.9127647
+Reintroduction Programme:	No

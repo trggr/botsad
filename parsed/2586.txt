@@ -1,0 +1,36 @@
+ID:	2586
+Name:	Horticultural Gardens (Faculty of Life Sciences), University of Copenhagen 
+Fax:	
+Info:	  Denmark - Frederiksberg C  ;Garden Information;  Institution Code: KVL; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	haven@life.ku.dk
+Telephone:	+4535332182
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Hanne Lipczak Jakobsen
+Educational Staff Number:	
+Horticultural Staff Number:	15
+Plant Records Officer's Name:	Steen-Allan Fredensborg
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	600 mm
+Date founded:	1858
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	55.6808
+Local Address:	
+Locality:	Information
+Longitude:	12.5428
+Satellite Garden Names:	Glasshouses nearby (500 sqm) with collections of tropical and subtropical plants for horticultural purposes (teaching and research)
+Total Area:	4 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	6000
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Courses for University/College Students:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes

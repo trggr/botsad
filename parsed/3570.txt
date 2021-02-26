@@ -1,0 +1,12 @@
+ID:	3570
+Name:	Hohhot Botanical Garden 
+Curator's Name:	
+Director's Name:	-
+Info:	  China - Inner Mongolia Autonomous Region - Hohhot  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hohhot Botanical Garden; No. 132 Gangtie Road; Huimin; Hohhot; Inner Mongolia Autonomous Region 010030 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	40.8055
+Local Address:	中国内蒙古呼和浩特市钢铁路132号，邮编 010030
+Locality:	Information
+Longitude:	111.6625

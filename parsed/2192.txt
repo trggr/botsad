@@ -1,0 +1,10 @@
+ID:	2192
+Name:	Camperdown Botanic Gardens 
+Curator's Name:	
+Director's Name:	The Director
+Info:	  Australia - Camperdown  ;Garden Information;  Institution Code: CAMPN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Camperdown Botanic Gardens; PO Box 14, CAMPERDOWN, VIC 3260, Australia; Camperdown; Australia; ;  Telephone: 61 (0)3 5593 1177; Fax: 61 (0)3 5593 1795; URL: <a target="_blank" href="http://www.anbg.gov.au/chabg/bg-dir/024.html">www.anbg.gov.au/chabg/bg-dir/024.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-38.23695
+Longitude:	143.11773

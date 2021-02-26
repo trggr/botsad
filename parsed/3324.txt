@@ -1,0 +1,76 @@
+ID:	3324
+Name:	Zamorano Botanical Garden 
+Administration Staff Number:	4
+Curator's Name:	Cinthya Martinez
+Director's Name:	Dr. Jeffrey Lansdale
+Educational Staff Number:	5
+Horticultural Staff Number:	15
+Info:	  Honduras - Francisco Morazan - San Antonio de Oriente  ;Garden Information;  Institution Code: ZAM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Zamorano Botanical Garden; Yeguare Valley, km. 30 road to Danli; San Antonio de Oriente; Francisco Morazan Honduras; ;  Telephone: +504 2287-2000; Fax: +504 2767-6240; URL: <a target="_blank" href="http://www.zamorano.edu">www.zamorano.edu; Primary Email: cmartinez@zamorano.edu ; 
+Plant Records Officer's Name:	Rina Díaz
+Research Staff Number:	5
+Altitude:	800.00 Metres
+Annual Rainfall:	1000 mm
+Date founded:	1995
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	14.011152
+Longitude:	-87.013253
+Natural Vegetation Area:	Yes
+Total Area:	4000 Hectares
+Total area of glasshouses:	1000 Metres
+Total area of shadehouses:	300 Metres
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	436
+Cultivation Taxa Num:	304
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Fruit Plant Collection
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

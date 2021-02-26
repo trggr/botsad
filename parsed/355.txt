@@ -1,0 +1,27 @@
+ID:	355
+Name:	Flora Olomouc 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Unknown
+Educational Staff Number:	
+Horticultural Staff Number:	10
+Info:	  Czech Republic - Olomouc  ;Garden Information;  Institution Code: OLOMO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Flora Olomouc; Wolkerova 17, 775 10 OLOMOUC, Czech Republic.; Olomouc; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1927
+Institution Type:	Botanic Garden
+Latitude:	49.5955
+Longitude:	17.2518
+Total Area:	8 Hectares
+Arboretum:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	23400
+Seed Bank:	No
+Cultivation Taxa Num:	1900
+Special Collections:	Cactacae, Bromeliaceae, Aracaceae, Orchidaceae, tulips, perennials, roses, arboretum, alpinum, magnolias, irises, plants of Georgia, Hungary, Latvia, Ukraine, Crimea, Bulgaria.
+Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Education:	No

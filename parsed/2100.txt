@@ -1,0 +1,11 @@
+ID:	2100
+Name:	Jardim Botanico do Recife 
+Curator's Name:	
+Director's Name:	Islene Filizola Falcao Bezerra
+Info:	  Brazil - Recife  ;Garden Information;  Institution Code: RECIF; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardim Botanico do Recife; BR 232 - Km 7,5, Curado; Recife; PE - CEP 50.791-540 Brazil; ;  Telephone: +55 81 33550003; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jeffersonmaciel@recife.pe.gov.br ; 
+Plant Records Officer's Name:	
+Date founded:	1961
+Institution Type:	Botanic Garden
+Latitude:	-8.07672722
+Longitude:	-34.961828
+Special Collections:	The collections are all native regenerated forest species growing in situ in the garden.

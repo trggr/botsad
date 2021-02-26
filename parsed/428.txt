@@ -1,0 +1,13 @@
+ID:	428
+Name:	Botanischer Garten der Friedrich-Schiller-Universitaet 
+Curator's Name:	Dr. Stefan Arndt
+Director's Name:	Prof. Dr. Frank Hellwig
+Info:	  Germany - Deutschland - Jena  ;Garden Information;  Institution Code: JENA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Friedrich-Schiller-Universitaet; Fuerstengraben 26; Jena; 07743 Germany - Deutschland; ;  Telephone: +49 (0)3641 949250; Fax: +49 (0)3641 949252; URL: <a target="_blank" href="http://www2.uni-jena.de/biologie/spezbot/">http://www2.uni-jena.de/biologie/spezbot/; Primary Email: thomas.bopp@uni-jena.de ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1586
+Institution Type:	Botanic Garden
+Latitude:	50.9496
+Longitude:	11.5838
+Open to public:	Yes
+Special Collections:	Mountain and rock plants, especially from Mediterranean regions

@@ -1,0 +1,11 @@
+ID:	968
+Name:	Minsk State University Botanical Garden 
+Curator's Name:	Chernik V.V.
+Director's Name:	Kapura S.G.
+Info:	  Belarus - Minsk  ;Garden Information;  Institution Code: MSKU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Minsk State University Botanical Garden; 4, Nezavisimost Ave; Minsk; 220030 Belarus; ;  Telephone: (+395) 0172 095 858, (+395) 0172 095 854; Fax: (+375) 017 209 58 08; URL: <a target="_blank" href="http://www.bio.bsu.by/botany/botsad.html">http://www.bio.bsu.by/botany/botsad.html; Primary Email: botany@bsu.by ; 
+Plant Records Officer's Name:	
+Date founded:	1933
+Institution Type:	Botanic Garden
+Latitude:	53.9677
+Longitude:	27.5765
+Special Collections:	Dendrarium, native flora of the Byelorussian Republic.

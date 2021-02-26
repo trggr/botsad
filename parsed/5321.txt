@@ -1,0 +1,9 @@
+ID:	5321
+Name:	McMaster Biology Department Greenhouse 
+Curator's Name:	
+Director's Name:	Dr. Susan Dudley
+Info:	  Canada - Ontario - Hamilton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; McMaster Biology Department Greenhouse; McMaster University; 1280 Main St. West; Hamilton; Ontario L8S 4K1 Canada; ;  Telephone: 905-525-9140 ext 24004; Fax: ; URL: <a target="_blank" href="http://www.macbiogreenhouse.ca/">http://www.macbiogreenhouse.ca/; Primary Email: sdudley@mcmaster.ca ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	43.260690
+Longitude:	-79.919182

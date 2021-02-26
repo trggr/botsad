@@ -1,0 +1,35 @@
+ID:	4518
+Name:	Center for Plant Conservation (USA) 
+Administration Staff Number:	4
+Curator's Name:	Joyce Maschinski, Chief of Science
+Director's Name:	John Clark, President/Executive Director
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  United States of America - California - Escondido  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Center for Plant Conservation (USA) The Center for Plant Conservation recovers America’s vanishing flora. The Center maintains the National Collection of Endangered Plants, a collection of cultivated plants and seeds of imperiled, native plants in the United States. The Center’s participating institutions work with these imperiled plants off-site and in the wild. In the greenhouse, institution scientists conduct horticultural research and learn how to grow the plants from seed or from cuttings. The Center’s scientists then provide plant material for restoration efforts in the wild. Institution scientists also assist in monitoring populations in the wild, managing habitat and restoring plants to native habitats.;  Main Address:; Center for Plant Conservation (USA); San Diego Zoo Global; 15600 San Pasqual Valley Rd.; Escondido; California 92027-7000 United States of America; ;  Telephone: (760) 796-5686; Fax: ; URL: <a target="_blank" href="http://saveplants.org/">http://saveplants.org/; Primary Email: info@saveplants.org ; 
+Plant Records Officer's Name:	Katie Heineman, Data Scientist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1985
+Institution Type:	Network
+Latitude:	33.093853
+Longitude:	-116.99982
+Open to public:	No
+Seed Bank:	Yes
+Special Collections:	The National Collection of Endangered Plants contains plant material (most of it seed banked) for more than 1400 of the country’s most imperiled native plants. An important conservation resource, the Collection is a back-up in case a species becomes extinct or no longer reproduces in the wild. The Collection provides the material needed for restoration work for the species. It’s also an important resource for the scientific study of plant rarity, rare plant life cycles and rare plant storage and germination requirements. Search the National Collection at saveplants.org
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Invasive Species Biology and Control:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

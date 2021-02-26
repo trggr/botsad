@@ -1,0 +1,23 @@
+ID:	2345
+Name:	Agder Botanical Garden 
+Administration Staff Number:	
+Curator's Name:	Per Arvid Åsen
+Director's Name:	Per Arvid Åsen
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  Norway - Kristiansand  ;Garden Information;  Institution Code: KMN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Agder Botanical Garden; Gimleveien 23, Gimle Gård; P.O.Box 1887 Gimlemoen, N-4686 Kristiansand, Norway; Kristiansand; Norway; ;  Telephone: +47 38 09 23 88; Fax: +47 38 09 23 78; URL: <a target="_blank" href="http://www.museumsnett.no/naturmuseum/">http://www.museumsnett.no/naturmuseum/; Primary Email: per.aasen@kristiansand.kommune.no ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1969
+Institution Type:	Botanic Garden
+Latitude:	58.1446
+Longitude:	7.9982
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	75000
+Open to public:	Yes
+Conservation Programme:	Yes

@@ -1,0 +1,29 @@
+ID:	2327
+Name:	Botanical Gardens of Nevis 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Post vacant
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  Saint Kitts and Nevis - Nevis - Charlestown  ;Garden Information;  Institution Code: NEVIS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Gardens of Nevis; P.O.Box 309; Charlestown; Nevis Saint Kitts and Nevis; ;  Telephone: (869) 469-3509; Fax: (869) 469-1354; URL: <a target="_blank" href="http://www.botanicalgardennevis.com">www.botanicalgardennevis.com; Primary Email: info@botanicalgardennevis.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	120.00 Metres
+Annual Rainfall:	1016 mm
+Date founded:	1991
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	17.1412
+Longitude:	-62.6271
+Natural Vegetation Area:	Yes
+Total Area:	5 Hectares
+Total area of shadehouses:	1000 Metres
+Open to public:	Yes
+Special Collections:	Ornamental tropical trees, palms. bromeliads, orchids, shrubs and herbaceous perennials.
+Conservation Programme:	Yes
+Education:	Yes
+Horticulture:	Yes
+Sustainability:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

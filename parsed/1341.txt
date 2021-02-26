@@ -1,0 +1,13 @@
+ID:	1341
+Name:	Nanjing Botanical Garden of Medicinal Plants 
+Curator's Name:	
+Director's Name:	Zhang Enhan
+Info:	  China - Jiangsu - Nanjing  ;Garden Information;  Institution Code: NAMED; International Agenda Registration: No; BGCI Member: No;  Main Address:; Nanjing Botanical Garden of Medicinal Plants; China Pharmaceutical University, College of Traditional Chinese Pharmacy, Jixiang An, Nanjing, Northern Suburbs, Jiangsu, 210038, China; Nanjing; Jiangsu China; ;  Telephone: 631611; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1958
+Institution Type:	Botanic Garden
+Latitude:	32.0750
+Local Address:	中国江苏省南京市北郊吉祥庵中国药科大学中药学院，邮编 210038
+Locality:	Information
+Longitude:	118.7958
+Special Collections:	Medicinal plants

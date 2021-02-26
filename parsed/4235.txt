@@ -1,0 +1,18 @@
+ID:	4235
+Name:	Columbus Botanical Garden 
+Curator's Name:	
+Director's Name:	Martha Lopez , Executive Director
+Info:	  United States of America - Georgia - Columbus  ;Garden Information;  Institution Code: COLBG; International Agenda Registration: No; BGCI Member: No; About the Columbus Botanical Garden To preserve a portion of the rapidly diminishing open space in Columbus and to provide the public with a unique educational facility that is based on environmental awareness, horticulture, historic preservation and agricultural values. This facility shall strive to inspire and leave a lasting impression on those who visit.;  Main Address:; Columbus Botanical Garden; 3603 Weems Road; Columbus; Georgia 31909 United States of America; ;  Telephone: (706) 327-8400; Fax: ; URL: <a target="_blank" href="http://www.columbusbotanicalgarden.org">www.columbusbotanicalgarden.org; Primary Email: watchyourgardengrow@yahoo.com ; 
+Plant Records Officer's Name:	Chelsea Scoggin, Database Manager
+Altitude:	0.00 Metres
+Date founded:	1999
+Institution Type:	Botanic Garden
+Latitude:	32.5396200
+Longitude:	-84.9325380
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes
+Accession Number:	436
+Cultivation Taxa Num:	270

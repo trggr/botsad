@@ -1,0 +1,53 @@
+ID:	5630
+Name:	Preston B. Bird/Mary Heinlein Redland Fruit & Spice Park 
+Administration Staff Number:	3
+Curator's Name:	Louise E. King
+Director's Name:	Jhyna Arauco (acting)
+Educational Staff Number:	6
+Horticultural Staff Number:	5
+Info:	  United States of America - FL - Homestead  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Preston B. Bird/Mary Heinlein Redland Fruit & Spice Park; 24801 SW 187 Ave.; Homestead; FL 33031 United States of America; ;  Telephone: (305) 247-5727; Fax: ; URL: <a target="_blank" href="https://redlandfruitandspice.com/">https://redlandfruitandspice.com/; Primary Email: fruitandspicepark@miamidade.gov ; 
+Plant Records Officer's Name:	Louise E. King
+Research Staff Number:	
+Altitude:	3.00 Metres
+Annual Rainfall:	1524 mm
+Date founded:	1944
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	25.5344897
+Longitude:	-80.4951112
+Natural Vegetation Area:	No
+Satellite Garden Names:	n/a
+Total Area:	16 Hectares
+Total area of glasshouses:	694 Metres
+Arboretum:	Yes
+Arboretum Size:	16
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	2
+Cultivation Taxa Num:	500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Agriculture:	Yes
+Biotechnology:	No
+Horticulture:	Yes
+Plant Breeding:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

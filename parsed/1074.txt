@@ -1,0 +1,10 @@
+ID:	1074
+Name:	Orto Botanico Universita 
+Curator's Name:	
+Director's Name:	Prof. F. Tammaro
+Info:	  Italy - L'AQUILA  ;Garden Information;  Institution Code: AQUI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico Universita; Piazza Annunziata l, I-67100 L'AQUILA, Italy.; L'AQUILA; Italy; ;  Telephone: 0862 646608; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1967
+Institution Type:	Botanic Garden
+Latitude:	42.3872
+Longitude:	13.4135

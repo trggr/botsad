@@ -1,0 +1,9 @@
+ID:	4448
+Name:	Bard College Arboretum 
+Curator's Name:	Amy Parrella Foster, Horticulture Supervisor
+Director's Name:	Unknown
+Info:	  United States of America - New York - Annandale On Hudson  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Bard College Arboretum; 30 Campus Road; P.O. Box 5000; Annandale On Hudson; New York 12504 United States of America; ;  Telephone: (845) 758-7179; Fax: ; URL: <a target="_blank" href="http://inside.bard.edu/horticulture">http://inside.bard.edu/horticulture; Primary Email: horticulture@bard.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	42.0222530
+Longitude:	-73.9064220

@@ -1,0 +1,9 @@
+ID:	5273
+Name:	Oamaru Public Gardens 
+Curator's Name:	
+Director's Name:	
+Info:	  New Zealand - Oamaru  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oamaru Public Gardens; Chelmer St; Oamaru; 9400 New Zealand; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.waitaki.govt.nz/our-facilities/parks-gardensandreserves/Pages/oamarupublicgardens.aspx">www.waitaki.govt.nz/our-facilities/parks-gardensandreserves/Pages/oamarupublicgardens.aspx; Primary Email: csunit@waitaki.govt.nz ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-45.098569
+Longitude:	170.959265

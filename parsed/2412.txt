@@ -1,0 +1,67 @@
+ID:	2412
+Name:	Munda Wanga Trust Botanical Garden 
+Administration Staff Number:	4
+Curator's Name:	Mr. Innocent Kabinda
+Director's Name:	Mr. Bill Tomas
+Educational Staff Number:	2
+Horticultural Staff Number:	8
+Info:	  Zambia - Lusaka province - Lusaka  ;Garden Information;  Institution Code: MUNDA; International Agenda Registration: Yes; BGCI Member: No; About the Munda Wanga Trust Botanical Garden In 1950, a gentle man named Ralph Sander founded a Botanical Garden that was destined to become the showpiece of Lusaka, Zambia's Capital city. at the time he was a colonial civil servant working for the department of Game and Tsetse Control and he called his garden Munda Wanga, which means "My Garden" in Nyanja. He gained an enviable reputation as a botanist and was responsible for the establishment of many parks, gardens, and tree lined avenues in Lusaka.; ; Munda Wanga Mission is:;  To develop a modern pro-active environmental education and interpretation facility to promote wider understanding, knowledge, sustainable use, care of and appreciation for the environment and its conservation.;  To maintain and develop a wildlife park, sanctuary and botanical garden in keeping with modern standards and practices where we will propagate, exhibit, conserve and care for indigenous and exotic flora and fauna for the benefit of the community at large.;  To follow our corporate social responsibility of offering services to the less privileged.;  Main Address:; Munda Wanga Trust Botanical Garden; P.O Box 350068, Chilanga, Zambia; Lusaka; Lusaka province 10101 Zambia; ;  Telephone: +260 1 278614; Fax: +260 1 278529; URL: <a target="_blank" href="http://www.mundawanga.com">www.mundawanga.com; Primary Email: mundawanga.gardens@iconnect.zm ; 
+Plant Records Officer's Name:	Mr. Andrew Mtonga
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	1950
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-15.5616
+Longitude:	28.2724
+Natural Vegetation Area:	No
+Total Area:	10 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	60000
+Number of Volunteers:	6
+Open to public:	Yes
+Special Collections:	Approximately 30 % of the plant collections are of indigenous plants. 15 plant families are represented in the collection.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

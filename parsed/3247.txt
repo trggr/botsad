@@ -1,0 +1,10 @@
+ID:	3247
+Name:	Jardin Botanico Alejandro Humboldt de Marsella, Risaralda 
+Curator's Name:	
+Director's Name:	
+Info:	  Colombia - Marsella  ;Garden Information;  Institution Code: AHMC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Alejandro Humboldt de Marsella, Risaralda; Ave. Vlla Rica de Segovia Cr.9 y 10. Apartado 3409, MARSELLA, Pereira Colombia.; Marsella; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1979
+Institution Type:	Botanic Garden
+Latitude:	6.2666
+Longitude:	-73.8833

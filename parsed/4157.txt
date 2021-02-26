@@ -1,0 +1,82 @@
+ID:	4157
+Name:	Vallarta Botanical Gardens, A.C. 
+"garden-photo"> <img src="/photos/4157/botanical.jpg" alt="Escudo del Jardin Botanico de Vallarta" /> Escudo del Jardin Botanico de Vallarta  About the Vallarta Botanical Gardens, A.C. The Vallarta Botanical Gardens started in 2004 with a vision of building Mexico’s greatest botanical garden in the enchanted tropical highlands of Jalisco, Mexico. With Mexican native orchids, cacti, chocolate plants, bromeliads, giant tree ferns, carnivorous plants, and a host of other botanical delights to fascinate, there is something here for everyone. Activities include hiking nature trails, river swimming, bird watching, and daily tours. Our Gardens are open to the public 6 days per week for most of the year and 7 days per week during the winter season. Please visit our website our location, current hours, and entry rates:	www.vbgardens.org
+Fax:	
+Info:	  Mexico - Jalisco - Puerto Vallarta  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
+Primary Email:	info@vbgardens.org
+Telephone:	+52 (322) 223 6182 or +52 (322) 223 6184
+Administration Staff Number:	2
+Curator's Name:	Robert Benjamin Price
+Director's Name:	Jesus Reyes
+Educational Staff Number:	1
+Horticultural Staff Number:	11
+Plant Records Officer's Name:	Centeotl Aragon
+Research Staff Number:	2
+Altitude:	490.00 Metres
+Annual Rainfall:	2058 mm
+Date founded:	2005
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	20.4000
+Locality:	Information
+Longitude:	-105.3000
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	none
+Total Area:	8 Hectares
+Total area of shadehouses:	1000 Metres
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	40000
+Number of Volunteers:	3
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	323
+Cultivation Taxa Num:	80
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	The Vallarta Botanical Gardens hosts collections of native Mexican Orchid species, native tropical trees and shrubs (including one of the region's most diverse oak collections), cacti, agaves, bromiliads, ferns, and a host of other plants of great ornamental and agricultural interest.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

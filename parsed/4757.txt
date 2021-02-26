@@ -1,0 +1,11 @@
+ID:	4757
+Name:	Lady Bird Johnson Wildflower Center - seed bank 
+Curator's Name:	Michael Eason, MSB Project Coordinator
+Director's Name:	Flo Oxley, Director of Plant Conservation and Education
+Info:	  United States of America - Texas - Austin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lady Bird Johnson Wildflower Center - seed bank; 4801 La Crosse Avenue; Austin; Texas 78739 United States of America; ;  Telephone: (512) 232-0100; Fax: (512) 232-0156; URL: <a target="_blank" href="http://www.wildflower.org/msb/">http://www.wildflower.org/msb/; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	30.1863910
+Longitude:	-97.8742180
+Seed Bank:	Yes

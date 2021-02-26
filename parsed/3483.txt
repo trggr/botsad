@@ -1,0 +1,10 @@
+ID:	3483
+Name:	University Botanic Garden, Maseno 
+Curator's Name:	
+Director's Name:	Professor John C Onyango
+Info:	  Kenya - Maseno  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; University Botanic Garden, Maseno; Maseno University; Kisumu - Busia Road, P.O. Box 28; Maseno; 40105 Kenya; ;  Telephone: +254 722 659155 or +254 733 680874; Fax: +254 (0)57 351179; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	0.0247
+Longitude:	34.5845

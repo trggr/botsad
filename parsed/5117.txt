@@ -1,0 +1,11 @@
+ID:	5117
+Name:	National Museum "d'Histoire Naturelle"- Seed Bank 
+Curator's Name:	
+Director's Name:	-
+Info:	  France - Paris  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Museum "d'Histoire Naturelle"- Seed Bank; 57 Rue Cuvier; Paris; 75005 France; ;  Telephone: +33 1 40 79 56 01; Fax: ; URL: <a target="_blank" href="https://www.mnhn.fr/fr">https://www.mnhn.fr/fr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	48.844335
+Longitude:	2.356232
+Seed Bank:	Yes

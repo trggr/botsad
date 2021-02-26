@@ -1,0 +1,33 @@
+ID:	204
+Name:	Botanischer Garten der Carl von Ossietzky-Universitat Oldenburg 
+Administration Staff Number:	1
+Curator's Name:	Dr. Bernhard von Hagen, Curator
+Director's Name:	Prof. Dr. Dirk C. Albach
+Educational Staff Number:	1
+Horticultural Staff Number:	15
+Info:	  Germany - Deutschland - Oldenburg  ;Garden Information;  Institution Code: OLD; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanischer Garten der Carl von Ossietzky-Universitat Oldenburg; Philosophenweg 39, D-26121 OLDENBURG, Germany.; Oldenburg; 26121 Germany - Deutschland; ;  Telephone: 49 (0)441 777 654; Fax: 49 (0)441 716 41; URL: <a target="_blank" href="http://www.uni-oldenburg.de/botgarten">www.uni-oldenburg.de/botgarten; Primary Email: bot.garten@uni-oldenburg.de ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1882
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	53.1528
+Longitude:	8.2083
+Total Area:	4 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Number of Visitors:	35000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Cultivation Taxa Num:	4000
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Courses for University/College Students:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Visitor/Education Centre:	No

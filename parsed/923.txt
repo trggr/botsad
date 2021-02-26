@@ -1,0 +1,76 @@
+ID:	923
+Name:	Botanical Garden Guru Nanak Dev University 
+Administration Staff Number:	1
+Curator's Name:	Dr. Manpreet Singh Bhatti
+Director's Name:	Prof. Jaspal Singh Sandhu
+Educational Staff Number:	4
+Horticultural Staff Number:	7
+Info:	  India - Punjab - Amritsar  ;Garden Information;  Institution Code: AMRS; International Agenda Registration: No; BGCI Member: No; About the Botanical Garden Guru Nanak Dev University Botanical Garden, Guru Nanak Dev University, Amritsar is located at 31.6340° N, 74.8259° E was established in year 1975 and spread in 10 hectares of land. It has about 500 species and divided into 12 sections as per Benthem & Hooker's System of classification. It houses open air theatre, lily pool, aquatic pond, fern house and herbal garden.;  Main Address:; Botanical Garden Guru Nanak Dev University; Department of Botanical and Environmental Sciences; Faculty of Life Sciences; Amritsar; Punjab 143005 India; ;  Telephone: 91 183 2451048; Fax: 91 183 2258819; URL: <a target="_blank" href="http://www.gndu.ac.in">www.gndu.ac.in; Primary Email: botanical.environmental@gndu.ac.in ; 
+Plant Records Officer's Name:	Prof. Renu Bhardwaj
+Research Staff Number:	20
+Altitude:	360.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1975
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	31.6308
+Local Address:	Grand Trunk Road, Amritsar
+Locality:	Information
+Longitude:	74.8715
+Natural Vegetation Area:	Yes
+Total Area:	10 Hectares
+Total area of glasshouses:	10 Metres
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	500
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Trees and shrubs (5,000 accessions) such as Dalbergia sisso, Tectona grandis, Terminalia bellerica, Butea monosperma and Acacia spp. and a wide variety of other plants used for teaching and research, lilies, bamboos, cacti and other succulents (+100 spp.)
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

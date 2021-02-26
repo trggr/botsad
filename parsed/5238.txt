@@ -1,0 +1,9 @@
+ID:	5238
+Name:	Arboretum at the University of Pennsylvania, The 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - Pennsylvania - Philadelphia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Arboretum at the University of Pennsylvania, The; 1301 Walnut Street; Philadelphia; Pennsylvania 19104 United States of America; ;  Telephone: 215-898-1120; Fax: ; URL: <a target="_blank" href="http://www.upenn.edu/">http://www.upenn.edu/; Primary Email: chloec@upenn.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	39.952112
+Longitude:	-75.186058

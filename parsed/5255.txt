@@ -1,0 +1,9 @@
+ID:	5255
+Name:	Baekdudaegan National Arboretum (BDNA) 
+Curator's Name:	
+Director's Name:	
+Info:	  South Korea - Gyeongsangbuk-Do - Bongwa-Gun  ;Garden Information;  Institution Code: BDNA; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Baekdudaegan National Arboretum (BDNA); 2160-53 Munsu-ro; Seobyeok-ri, Chunyang-myun; Bongwa-Gun; Gyeongsangbuk-Do 36209 South Korea; ;  Telephone: +82 (0)10 4542 7881; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: mjkim@bdna.or.kr ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	37.014293
+Longitude:	128.808864

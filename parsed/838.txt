@@ -1,0 +1,13 @@
+ID:	838
+Name:	John Innes Institute 
+Curator's Name:	
+Director's Name:	John Nicol
+Info:	  United Kingdom - Norwich  ;Garden Information;  Institution Code: INNES; International Agenda Registration: No; BGCI Member: No;  Main Address:; John Innes Institute; Colney Lane, NORWICH NR4 7OH, Norfolk, U.K.; Norwich; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1967
+Institution Type:	Other
+Latitude:	52.622265
+Longitude:	1.221403
+Total Area:	20 Hectares
+Special Collections:	Avena, Aegilops, Eremopyrum, Hordeum, Pisum, Secale, Triticum, Vicia, Zea.

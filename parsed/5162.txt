@@ -1,0 +1,30 @@
+ID:	5162
+Name:	Kwelera National Botanical Garden (NBG) 
+Administration Staff Number:	1
+Curator's Name:	Nomama Mei
+Director's Name:	Christopher Willis (Chief Director)
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  South Africa - Eastern Cape - Kwelera  ;Garden Information;  Institution Code: KWEL; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Kwelera National Botanical Garden (NBG); P.O. Box 43; Kwelera; Eastern Cape 5259 South Africa; ;  Telephone: +27 (0)43 737 0061/71; Fax: ; URL: <a target="_blank" href="http://www.sanbi.org">www.sanbi.org; Primary Email: n.mei@sanbi.org.za ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2014
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-32.9126071
+Local Address:	PO Box 43 Kwelera 5259
+Locality:	Information
+Longitude:	28.0681584
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	not applicable
+Total Area:	170 Hectares
+Arboretum:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Reintroduction Programme:	No

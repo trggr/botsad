@@ -1,0 +1,54 @@
+ID:	2031
+Name:	Ganna Walska Lotusland 
+Fax:	(805) 969-4423
+Info:	  United States of America - California - Santa Barbara  ;Garden Information;  Institution Code: LOTUS; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	pmills@lotusland.org
+Telephone:	(805) 969-3767
+Administration Staff Number:	17
+Curator's Name:	Paul Mills, Curator of Living Collections
+Director's Name:	Rebecca Anderson, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	12
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	145.00 Metres
+Annual Rainfall:	482 mm
+Date founded:	1993
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.4429820
+Local Address:	695 Ashley Rd.
+Locality:	Information
+Longitude:	-119.6573620
+Total Area:	15 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	15000
+Number of Volunteers:	250
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	5533
+Cultivation Taxa Num:	3594
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Cycads, palms, ferns, bromeliads, cacti & succulents, aquatics, Aloe, Euphorbia.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,55 @@
+ID:	3394
+Name:	Maymont Foundation 
+Administration Staff Number:	
+Curator's Name:	Peggy Singlemann, Director of Horticulture
+Director's Name:	Norman Burns, II, Executive Director
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Info:	  United States of America - Virginia - Richmond  ;Garden Information;  Institution Code: MRV; International Agenda Registration: No; BGCI Member: No; About the Maymont Foundation Mission:; Maymont Foundation will preserve and celebrate Maymont as a museum and park for the pleasure and education of everyone.; ; In 1886, Major and Mrs. James Dooley acquired a former dairy farm on the James River and transformed the 100-acre tract into an American estate that reflected the opulence and extravagance of the Gilded Age. Their home, Maymont, was bequeathed to the City of Richmond in 1925. Today the estate is appreciated as an unusually complete example of an American country place of the Gilded Age in which magnificent landscaping was an essential part.;  Main Address:; Maymont Foundation; 1700 Hampton Street; Richmond; Virginia 23220 United States of America; ;  Telephone: (804) 358-7166; Fax: (804) 358-9994; URL: <a target="_blank" href="http://www.maymont.org">www.maymont.org; Primary Email: info@maymont.org ; 
+Plant Records Officer's Name:	Peggy Singlemann, Director of Horticulture
+Research Staff Number:	
+Altitude:	45.72 Metres
+Annual Rainfall:	1115 mm
+Date founded:	1925
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	37.5331920
+Local Address:	1700 Hampton Street
+Locality:	Information
+Longitude:	-77.4745100
+Natural Vegetation Area:	Yes
+Total Area:	40 Hectares
+Arboretum:	Yes
+Arboretum Size:	40
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	500000
+Number of Volunteers:	400
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	5000
+Cultivation Taxa Num:	400
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Aceraceae, Anacardiaceae, Aquifoliaceae, Berberaceae, Betulaceae, Bignoniaceae, Buxaceae, Calycanthaceae, Caprifoliaceae, Cephalotaxaceae, Cornaceae, Cupressaceae, Ericaceae, Fagaceae, Hamamelidaceae, Hippocastanaceae, Juglandaceae, Luguminosae, Magnoliaceae
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Horticulture:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Urban Environments:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,52 @@
+ID:	2340
+Name:	Hanoi University of Pharmacy 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Dr. Tran Van On
+Educational Staff Number:	6
+Horticultural Staff Number:	2
+Info:	  Viet Nam - Hanoi  ;Garden Information;  Institution Code: HANPH; International Agenda Registration: No; BGCI Member: No; About the Hanoi University of Pharmacy - History of the Garden:; The Medicinal Plant Garden of Hanoi University of Pharmacy was founded in 1938, belonging to Universite de l'Indochine (University of Indochina), distributed in the centre of Hanoi capital. At the beginning date, the Garden covered on an area of approx. 8,000 m2, and now the area is approx. 10,000 m2, with the collection of more than 400 species of medicinal plants collected from all over Indochina. At present, the Garden is under the management of the Department of Botany, Hanoi University of Pharmacy.; - Structure of the Garden:; The Garden consists of the following parts: the display area, green-house and nursery, composting facility, store, short tem seed bank, herbarium and laboratory for tissue culture. The display area is laid out in 21 beds for terrestial plants and one pond for aquatic plants.The Garden holds a total of more than 400 species of medicinal plants which are arranged by evolutionary order, from fern, through conifers and flowering plants. Each species have a permanent label. Thirty species of them are essential medicinal plants for primary health care, 10 species are listed in the Red Book of Vietnam, and nearly 100 species of them are commonly used in industrial pharmacy in Vietnam.; - The Herbarium (HNIP):; The herbarium (HNIP) stores a total of more than 25,000 specimens of approx. 2,000 species of medicinal plants and other useful plants collected from different parts of Vietnam, Laos, and Cambodia.Particularly, there are more than 500 specimens from the first decade of the 20th century.; - Tasks and Activities of the Garden: ; + Education and Training: The plants in the Garden are used as living specimens for Students studying the subject identification of medicinal plants. The Garden is also providing living specimens for students studying morphology and taxonomy of medicinal plants.; + Research: The Garden provides facilities for researchers and experiments on propagation and cultivation of medicinal plants; carrying out studies on taxonomy of different taxa of medicinal plants in Vietnam; ethno-botanical and ethno-medicinal researches through out Vietnam, especially aims on ethnic minorities in Vietnam.; + Conservation: The Garden participating in National Programmed on Conservation of Medicinal Plants and Genetic Resources by carrying out both in situ and ex situ conservation activities.;  Main Address:; Hanoi University of Pharmacy; 13-15 Le Thanh Tong St, Hanoi, Vietnam; Hanoi; Viet Nam; ;  Telephone: 84 4 9330524; Fax: 84 4 9332332; URL: <a target="_blank" href="https://thucvatduoc.net/">https://thucvatduoc.net/; Primary Email: bomonthucvat.hup@gmail.com ; 
+Plant Records Officer's Name:	MSc. Nguyen Quoc Huy
+Research Staff Number:	6
+Altitude:	10.00 Metres
+Annual Rainfall:	1900 mm
+Date founded:	1910
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	21.019633
+Local Address:	13-15 Lê Thánh Tông, quận Hoàn Kiếm, TP. Hà Nội
+Locality:	Information
+Longitude:	105.85888
+Natural Vegetation Area:	No
+Total area of glasshouses:	20 Metres
+Total area of shadehouses:	100 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Volunteers:	20
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	800
+Cultivation Taxa Num:	500
+Special Collections:	Collection of plants used for medicinal purposes, ethnobotany and botanical teaching. A few rare and endangered Vietamese plants included.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Horticulture:	No
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Courses for University/College Students:	Yes

@@ -1,0 +1,15 @@
+ID:	3378
+Name:	Botanic Garden of Oklahoma State University, The 
+Curator's Name:	Jane Carter, Garden Manager
+Director's Name:	Lou Anella, Director
+Info:	  United States of America - Oklahoma - Stillwater  ;Garden Information;  Institution Code: OKLA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden of Oklahoma State University, The; 3300 W. 6th; Mailing: 358 Agricultural Hall; Stillwater; Oklahoma 74078 United States of America; ;  Telephone: (405) 744-5414; Fax: (405) 744-9709; URL: <a target="_blank" href="http://www.osubotanicalgarden.okstate.edu">www.osubotanicalgarden.okstate.edu; Primary Email: botanicgarden@okstate.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1976
+Institution Type:	Botanic Garden
+Latitude:	36.1268077
+Longitude:	-97.0627150
+Total Area:	40 Hectares
+Arboretum:	Yes
+Open to public:	Yes
+Special Collections:	Herbaceous and woody plants, aquatics

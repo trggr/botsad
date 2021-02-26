@@ -1,0 +1,28 @@
+ID:	1189
+Name:	Cox Arboretum Metropark 
+Curator's Name:	Jay Woodhull, Director of Cox Arboretum Metropark
+Director's Name:	Becky Benná, Executive Director, Five Rivers Metroparks
+Info:	  United States of America - Ohio - Dayton  ;Garden Information;  Institution Code: COX; International Agenda Registration: No; BGCI Member: No; About the Cox Arboretum Metropark Cox Arboretum MetroPark is a hands-on landscaping arboretum, bringing gardening, nature and horticulture to visitors of all ages and backgrounds. It is a truly unique place in our community to experience, learn, see, touch, and smell the natural beauty of the land.;  Main Address:; Cox Arboretum Metropark; 6733 Springboro Pike; Dayton; Ohio 45449 United States of America; ;  Telephone: (937) 434-9005; Fax: (937) 428-1221; URL: <a target="_blank" href="http://www.coxarboretum.org">www.coxarboretum.org; Primary Email: coxinfo@coxarboretum.org ; 
+Plant Records Officer's Name:	Rick Stanforth, Park Manager
+Altitude:	0.00 Metres
+Date founded:	1962
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.6553740
+Longitude:	-84.2242650
+Natural Vegetation Area:	Yes
+Total Area:	76 Hectares
+Arboretum:	Yes
+Arboretum Size:	76
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Malus, Clematis, Viburnum, cacti, ornamental grasses, synoptic garden.
+Conservation Programme:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,14 @@
+ID:	4984
+Name:	Victorian Conservation Seedbank - RBG, Melbourne 
+Curator's Name:	Neville Walsh, Senior Conservation Botanist
+Director's Name:	Dr. Tim Entwisle, Executive Director
+Info:	  Australia - Victoria - Melbourne  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Victorian Conservation Seedbank - RBG, Melbourne; Birdwood Avenue, South Yarra; Mailing: P.O. Box 2000; Melbourne; Victoria 3141 Australia; ;  Telephone: 61 (0)3 9252 2300; Fax: 61 (0)3 9252 2350; URL: <a target="_blank" href="http://www.rbg.vic.gov.au/science/projects/victorian-conservation-seedbank">http://www.rbg.vic.gov.au/science/projects/victorian-conservation-seedbank; Primary Email: rbg@rbgmelb.org.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2005
+Institution Type:	Gene/Seed Bank
+Latitude:	-37.8291413
+Longitude:	144.9798453
+Seed Bank:	Yes
+Cultivation Taxa Num:	500
+Conservation Programme:	Yes

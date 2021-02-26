@@ -1,0 +1,10 @@
+ID:	4632
+Name:	John G. Shedd Aquarium 
+Curator's Name:	Christine Nye, Horticultural Manager
+Director's Name:	Ted A. Beattie, President and CEO
+Info:	  United States of America - Illinois - Chicago  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; John G. Shedd Aquarium; 1200 S. Lake Shore Drive; Chicago; Illinois 60605 United States of America; ;  Telephone: (312) 692-3139; Fax: ; URL: <a target="_blank" href="http://www.sheddaquarium.org">www.sheddaquarium.org; Primary Email: contactus@sheddaquarium.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	41.8675717
+Longitude:	-87.6139804

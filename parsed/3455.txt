@@ -1,0 +1,26 @@
+ID:	3455
+Name:	Cheyenne Botanic Gardens 
+Administration Staff Number:	4
+Curator's Name:	Claus Johnson, Assistant Director
+Director's Name:	Shane Smith, Director
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - Wyoming - Cheyenne  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Cheyenne Botanic Gardens The Cheyenne Botanic Gardens inspires, beautifies and enriches the High Plains through gardening, volunteerism, education, inspiration and stewardship.;  Main Address:; Cheyenne Botanic Gardens; 710 S. Lions Park Drive; Cheyenne; Wyoming 82001 United States of America; ;  Telephone: (307) 637-6458; Fax: (307) 637-6453; URL: <a target="_blank" href="http://www.botanic.org">www.botanic.org; Primary Email: info@botanic.org ; 
+Plant Records Officer's Name:	Steve Scott, Head of Horticulture
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1977
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.1544760
+Longitude:	-104.8290920
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Arboretum:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	27000
+Number of Volunteers:	118
+Open to public:	Yes
+Special Collections:	Cacti, citrus, trees, hardy roses, herbs, ornamental plants, unusual fruits, xeriscape plants
+Conservation Programme:	Yes

@@ -1,0 +1,77 @@
+ID:	35
+Name:	Bakuriani Alpine Botanical Garden 
+Administration Staff Number:	2
+Curator's Name:	Tamar kurdadze
+Director's Name:	Dr.Shalva (Nukri) Sikharulidze
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Info:	  Georgia - Village Bakuriani  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Bakuriani Alpine Botanical Garden Bakuriani Alpine Botanical Garden (BABG) was established in 1912. ; ; The BABG is located at 1,650 m amsl. The garden collections mostly feature the Caucasian plants (up to 400 species). The arboretum comprises 125 species of trees and shrubs (including 75 Caucasian woody plants). Approximately 250 species from different regions of the world have been propagated from seeds. The garden collections serve as a basis for taxonomic studies and ensure conservation of vulnerable plant species.; ; The main goals of the garden are as follows:; ; _ Studies of the high-mountain flora of the Caucasus;; _ Ex-situ conservation of rare, endangered, endemic plants of Georgia and species included into the Georgian Red List;; _ Studies of adaptive mechanisms of plants;; _ Seed exchange with other botanical institutions;; _ Implementation of environmental awareness activities;; _ Ethnobotanical studies.; ; Fragment of primary forest formed by spruce, pine and beech is retained at the garden. The forest fragment occupies approximately 10 ha. It is critical that this forest ecosystem be conserved as it is one of the last remnants of the regional primary forests.; ; Many renowned botanists and horticulturists from various countries have visited BABG since its foundation. ; ; The garden is open to visitors of any age all year round. Admission is free of charge with the garden staff acting as guides.; ; Ecological Education Centre functions at BABG. It was built in 1997 by the support of the WWF. The centre provides regular training sessions for teachers, media representatives and other professional groups.; ; The garden collections occupy approximately 6 ha. Majority of the collections is maintained at the alpine rock garden. At present the garden supports 94 endemic species of the Caucasus including 32 Georgian endemics. In addition, the garden collections include 77 rare and 55 endangered plant species.; ; 2,000 specimens are stored at the Garden Herbarium and 800 of them are vascular plants of Borjomi-Bakuriani region. ; ; The garden has a department that serves for conservation (ex situ) of species occurring in places experiencing severe human intrusions in order to return them to their natural habitats.;  Main Address:; Bakuriani Alpine Botanical Garden; Ilia State University Institute of Botany 1 Botanikuri street, Tbilisi; 57 Borjomi street; Village Bakuriani; Georgia; ;  Telephone: +995 32 272 08 10; Fax: +995 32 272 08 10; URL: <a target="_blank" href="http://">; Primary Email: bakurianigarden@yahoo.com ; 
+Plant Records Officer's Name:	Eter Chichiboshvili
+Research Staff Number:	2
+Altitude:	1.65 Metres
+Annual Rainfall:	800 mm
+Date founded:	1912
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.759508
+Local Address:	დაბა ბაკურიანი, ქ. ბორჯომის #56
+Locality:	Information
+Longitude:	43.521094
+Natural Vegetation Area:	Yes
+Total Area:	35 Hectares
+Total area of glasshouses:	100 Metres
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	1500
+Cultivation Taxa Num:	400
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	The garden collections occupy approximately 6 ha. Majority of the collections is maintained at the alpine rock garden. At present the garden supports 94 endemic species of the Caucasus including 32 Georgian endemics. In addition, the garden collections include 77 rare and 55 endangered plant species.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

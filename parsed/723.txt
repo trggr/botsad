@@ -1,0 +1,34 @@
+ID:	723
+Name:	Red Butte Garden and Arboretum 
+Curator's Name:	Bruce Pavlik, Conservation Director
+Director's Name:	Dr. Gregory Lee, Executive Director
+Info:	  United States of America - Utah - Salt Lake City  ;Garden Information;  Institution Code: UTSA; International Agenda Registration: No; BGCI Member: No; About the Red Butte Garden and Arboretum Red Butte Garden cultivates the human connection with the beauty of living landscapes. We do this through plant displays and collections, education, conservation, and as a setting for cultural enrichment and events.;  Main Address:; Red Butte Garden and Arboretum; University of Utah; 300 Wakara Way; Salt Lake City; Utah 84108 United States of America; ;  Telephone: (801) 581-0556; Fax: (801) 587-5887; URL: <a target="_blank" href="http://www.redbuttegarden.org">www.redbuttegarden.org; Primary Email: bruce.pavlik@redbutte.utah.edu ; 
+Plant Records Officer's Name:	Jason Baker, Curator of Plant Records
+Altitude:	0.00 Metres
+Date founded:	1961
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.7628100
+Longitude:	-111.8249500
+Total Area:	40 Hectares
+Arboretum:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Open to public:	Yes
+Seed Bank:	Yes
+Conifer:	49 Species 104 Taxa Misc Locations
+Hemerocallis:	2 Species 118 Taxa Water Pavilion & Misc Locations
+Iris:	4 Species 28 Taxa Water Pavilion, Floral Walk & Rose Garden
+Lavandula:	2 Species 11 Taxa Terrace Gardens
+Malus:	19 Taxa Misc Locations
+Origanum:	3 Species 5 Taxa Terrace Gardens
+Ornamental Grass:	30 Species 92 Taxa Misc Locations
+Penstemon:	17 Species 29 Taxa Childrens Garden, Terrace Garden & Medicinal Garden
+Rose:	9 Species 153 Taxa Rose Garden and Misc Locations
+Salvia:	4 Species 15 Taxa Terrace Gardens
+Syringa:	3 Species 23 Taxa Floral Walk
+Thymus:	5 Species 13 Taxa Terrace Gardens
+Viburnum:	11 Species 28 Taxa Misc Locations
+Conservation Programme:	Yes
+Courses for General Public:	Yes
+Public Lectures/Talks:	Yes

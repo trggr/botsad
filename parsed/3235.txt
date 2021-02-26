@@ -1,0 +1,10 @@
+ID:	3235
+Name:	Centre National des Semences Forestieres 
+Curator's Name:	
+Director's Name:	
+Info:	  Burkina Faso - Ougadougou  ;Garden Information;  Institution Code: OUGAF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Centre National des Semences Forestieres; 01 BP 2682 Ouagadougou Kassodo Burkina Faso; Ougadougou; Burkina Faso; ;  Telephone: ; Fax: (22) 358013/356111; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	12.3569
+Longitude:	-1.5351

@@ -1,0 +1,15 @@
+ID:	274
+Name:	Ogród Botaniczny Uniwersytetu Wroclawskiego 
+Fax:	(071) 322-44-83
+Info:	  Poland - dolnośląskie - Wroclaw  ;Garden Information;  Institution Code: WRSL; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	obuwr@biol.uni.wroc.pl
+Telephone:	(071) 322-59-57
+Curator's Name:	
+Director's Name:	dr hab. Zygmunt Kącki prof. nadzw. UWr
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1811
+Institution Type:	Botanic Garden
+Latitude:	51.1078
+Longitude:	17.0385
+Total Area:	7 Hectares

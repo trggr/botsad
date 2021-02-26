@@ -1,0 +1,9 @@
+ID:	5610
+Name:	Jardín Botánico Padre Julio Marrero 
+Curator's Name:	
+Director's Name:	Rafael Suárez López
+Info:	  Ecuador - Santo Domingo de los Tsáchilas - Santo Domingo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Padre Julio Marrero; Cooperativa Juan Eulogio Paz y Miño; Santo Domingo de los Tsáchilas; Santo Domingo; Santo Domingo de los Tsáchilas Ecuador; ;  Telephone: 593 (02) 3702868; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jbotanico@pucesd.edu.ec ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-0.22426
+Longitude:	-79.1858

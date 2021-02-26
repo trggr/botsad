@@ -1,0 +1,11 @@
+ID:	1380
+Name:	Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  Reunion - St. Denis  ;Garden Information;  Institution Code: STDEN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum; Office National des Forets, Domaine de la Providence, 97488 St DENIS Cedex, La Reunion - France; St. Denis; Reunion; ;  Telephone: 262 904818; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: onf-dr@oceanes.fr ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-20.8732
+Longitude:	55.4603
+Special Collections:	Salix, Rosa, Syringa, Philadelphus, Ribes, Spiraea, Betula, Lonicera

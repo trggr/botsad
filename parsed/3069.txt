@@ -1,0 +1,28 @@
+ID:	3069
+Name:	Jardin botanico "El Castillejo" (El Castillejo botanical garden) 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Unknown
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Info:	  Spain - Cadiz - El Bosque  ;Garden Information;  Institution Code: CBEB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin botanico "El Castillejo" (El Castillejo botanical garden); Sierra de Grazalema Natural Park; El Bosque; Cadiz 11670 Spain; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	2010
+Institution Type:	Botanic Garden
+Latitude:	36.7524
+Longitude:	-5.5150
+Total Area:	7 Hectares
+Total area of glasshouses:	700 Metres
+Arboretum:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	10000
+Seed Bank:	Yes
+Cultivation Taxa Num:	1300
+Special Collections:	Trees endemic to Xiaoxinganling, Abies, Pinus, Picea, Larix, Juniperus, Roses, Lilac, Spiraea
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Education:	Yes

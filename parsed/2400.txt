@@ -1,0 +1,42 @@
+ID:	2400
+Name:	Noosa Botanic Gardens 
+Fax:	61 (0)7 54426 255
+Info:	  Australia - Queensland - Tewantin  ;Garden Information;  Institution Code: NOOSA; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	Jacky.Kelk@noosa.qld.gov.au
+Telephone:	61 (07) 53296500
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Noosa Council
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Jacky Kelk
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1600 mm
+Date founded:	1987
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-26.38783
+Local Address:	Lake MacDonald Drive
+Locality:	Information
+Longitude:	152.92977
+Natural Vegetation Area:	No
+Total Area:	8 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	50000
+Number of Volunteers:	15
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Special Collections:	70 to 80% of collection is Australian flora.
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes

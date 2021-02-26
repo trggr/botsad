@@ -1,0 +1,41 @@
+ID:	185
+Name:	Drakensberg Botanic Garden 
+Curator's Name:	None
+Director's Name:	None
+Info:	  South Africa - Free State - Harrismith  ;Garden Information;  Institution Code: HARRS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Drakensberg Botanic Garden; P.O. Box 157, HARRISMITH 9880, South Africa.; Harrismith; Free State South Africa; ;  Telephone: None; Fax: ; URL: <a target="_blank" href="http://None">None; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1967
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	-28.284986
+Longitude:	29.164698
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Plants of indigenous to the Eastern Free State and Drakensberg area.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

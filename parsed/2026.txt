@@ -1,0 +1,11 @@
+ID:	2026
+Name:	Welsh Plant Breeding Station 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Aberystwyth  ;Garden Information;  Institution Code: WPBS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Welsh Plant Breeding Station; Plas Goderddan, ABERYSTWYTH, Dyfed SY23 3EB, U.K.; Aberystwyth; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	52.43363
+Longitude:	-4.01727
+Special Collections:	Temperate forage plants of agricultural value, such as species of Lolium, Festuca, Dactylis and Trifolium. Maintains a seed bank with medium-term storage capacity, containing 6,688 accessions, representing 464 species (1994 figures).

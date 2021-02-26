@@ -1,0 +1,13 @@
+ID:	1184
+Name:	DuPage Forest: Forest Preserve District of DuPage County 
+Curator's Name:	Scott Kobal, Ecologist
+Director's Name:	Dewey Pierotti
+Info:	  United States of America - Illinois - Wheaton  ;Garden Information;  Institution Code: FPDGE; International Agenda Registration: No; BGCI Member: No;  Main Address:; DuPage Forest: Forest Preserve District of DuPage County; 3S580 Naperville Road; P.O. Box 5000; Wheaton; Illinois 60138 United States of America; ;  Telephone: (630) 933-7200; Fax: ; URL: <a target="_blank" href="http://www.dupageforest.com">www.dupageforest.com; Primary Email: skobal@dupageforest.com ; 
+Plant Records Officer's Name:	Rachel Reklau, Resource Data Analyst
+Altitude:	0.00 Metres
+Date founded:	1915
+Institution Type:	Other
+Latitude:	41.8190480
+Longitude:	-88.1124110
+Natural Vegetation Area:	Yes
+Open to public:	Yes

@@ -1,0 +1,53 @@
+ID:	3126
+Name:	The Balkan Botanic Garden at Kroussia Mountains 
+Curator's Name:	Maloupa Eleni
+Director's Name:	Dr Maloupa Eleni
+Info:	  Greece - Thessaloniki  ;Garden Information;  Institution Code: BBGK; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; The Balkan Botanic Garden at Kroussia Mountains; Agricultural Research Center of Macedonia and Thrace, Laboratory of Conservation and Evaluation of the Native and Floricultural Species,; PO Box 60 125; Thessaloniki; 570 01 Greece; ;  Telephone: + 30 2310 471613; Fax: + 30 2310 478907; URL: <a target="_blank" href="http://www.bbgk.gr">www.bbgk.gr; Primary Email: bbgk@bbgk.gr ; 
+Plant Records Officer's Name:	
+Altitude:	620.00 Metres
+Date founded:	2001
+Institution Type:	Other
+Latitude:	40.6398
+Local Address:	
+Locality:	Information
+Longitude:	22.9322
+Natural Vegetation Area:	Yes
+Total Area:	31 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	4100
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	1500
+Cultivation Taxa Num:	1000
+Special Collections:	Greek and Balkan native plant species. Native trees and shrubs from the region. Herbaceous perennials, old varieties of fruit trees, local plants of ethnobotanical importance and interest, rock plants, ferns, Campanula species, wetland plants, annual weeds of arable land.
+Special displays:	Scents and forms of thyme, What is the sage?, Are plants innocent, Hortus officinarum, Silver garden, Coastal garden, Ornamental beds, White lillies, Endemic,rare and endangered plants of Greece and/or the Balkans. Important species of the Natura 2000 Network.
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

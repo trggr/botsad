@@ -1,0 +1,43 @@
+ID:	1484
+Name:	University of North Carolina at Charlotte Botanical Gardens 
+Fax:	
+Info:	  United States of America - North Carolina - Charlotte  ;Garden Information;  Institution Code: NCUC; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	botanicalgardens@uncc.edu
+Telephone:	(704) 687-0721
+Administration Staff Number:	3
+Curator's Name:	Edward Davis, Horticulture Director of the Gardens
+Director's Name:	Dr. Jeff Gillman, Director
+Educational Staff Number:	2
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1966
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	35.3028130
+Longitude:	-80.7290520
+Natural Vegetation Area:	Yes
+Total Area:	4 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	30000
+Number of Volunteers:	30
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Sarraceniaceae (100 taxa), native Magnolia, native Ilex, Rhododendron (300 taxa).
+Courses for General Public:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	No

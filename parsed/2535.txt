@@ -1,0 +1,17 @@
+ID:	2535
+Name:	Oregon Garden 
+Curator's Name:	Heather Desmarteau-Fast, Horticulture Manager
+Director's Name:	Mark Hunter, Development Director
+Info:	  United States of America - Oregon - Silverton  ;Garden Information;  Institution Code: AZH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oregon Garden; 879 West Main Street; Silverton; Oregon 97381 United States of America; ;  Telephone: (503) 874-8100; Fax: (503) 874-8200; URL: <a target="_blank" href="http://www.oregongarden.org">www.oregongarden.org; Primary Email: info@oregongarden.org ; 
+Plant Records Officer's Name:	Jeff Pera, Horticulture Assistant Manager
+Altitude:	0.00 Metres
+Date founded:	1999
+Institution Type:	Botanic Garden
+Latitude:	44.9976935
+Longitude:	-122.7943226
+Total Area:	32 Hectares
+Open to public:	Yes
+Special Collections:	aquatics, conifers
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes

@@ -1,0 +1,24 @@
+ID:	5378
+Name:	The Walled Garden 
+Administration Staff Number:	4
+Curator's Name:	Tim Newman
+Director's Name:	Steve White
+Educational Staff Number:	10
+Horticultural Staff Number:	4
+Info:	  United Kingdom - Dorset - Moreton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; The Walled Garden; Moreton; Dorset DT2 8RH United Kingdom; ;  Telephone: 01929 405685; Fax: ; URL: <a target="_blank" href="http://www.walledgardenmoreton.co.uk">www.walledgardenmoreton.co.uk; Primary Email: info@employmyability.org.uk ; 
+Plant Records Officer's Name:	Tim newman
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2015
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	50.7030439
+Longitude:	-2.2802559
+Natural Vegetation Area:	Yes
+Total Area:	4 Hectares
+Arboretum:	Yes
+Disabled access:	Yes
+Number of Visitors:	50000
+Open to public:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes

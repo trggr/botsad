@@ -1,0 +1,10 @@
+ID:	368
+Name:	The Forest Botanical Garden 
+Curator's Name:	
+Director's Name:	Peter Brun Madsen
+Info:	  Denmark - Aarhus  ;Garden Information;  Institution Code: AARF; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Forest Botanical Garden; AARHUS, Denmark.; Aarhus; Denmark; ;  Telephone: +45 6 142739; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1923
+Institution Type:	Botanic Garden
+Latitude:	56.1581
+Longitude:	10.2120

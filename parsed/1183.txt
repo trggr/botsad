@@ -1,0 +1,12 @@
+ID:	1183
+Name:	Rogue Community College Arboretum 
+Curator's Name:	Michael Raines, Landscaper/Groundskeeper
+Director's Name:	Unknown
+Info:	  United States of America - Oregon - Grants Pass  ;Garden Information;  Institution Code: GRANT; International Agenda Registration: No; BGCI Member: No; About the Rogue Community College Arboretum The RCC Arboretum is a collection of both native and ornamental plant species arranged for convenient study, interpretation, and enjoyment by the community. Arboretum plantings are an integral part of continuing efforts to beautify the RCC campus. The Arboretum is an addition to the Science, Horticulture, and Forestry Programs of the College. The Arboretum is a community resource available to local groups, elementary and secondary schools, and private citizens.;  Main Address:; Rogue Community College Arboretum; 3345 Redwood Highway; Grants Pass; Oregon 97526 United States of America; ;  Telephone: (541) 956-7161; Fax: (541) 471-3540; URL: <a target="_blank" href="http://www.roguecc.edu/Arboretum/">www.roguecc.edu/Arboretum/; Primary Email: mraines@roguecc.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1982
+Institution Type:	Botanic Garden
+Latitude:	42.4128160
+Longitude:	-123.3894860
+Arboretum:	Yes

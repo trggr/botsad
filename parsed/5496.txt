@@ -1,0 +1,29 @@
+ID:	5496
+Name:	Arboretum-Pinetum Lucus Augusti 
+Fax:	
+Info:	  Spain - Lugo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	jhpr@uvigo.es
+Telephone:	648486840
+Curator's Name:	
+Director's Name:	José Henrique Pérez Rodríguez
+Plant Records Officer's Name:	
+Altitude:	475.00 Metres
+Annual Rainfall:	1037 mm
+Date founded:	2006
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	43.0056437
+Local Address:	Estrada Bonxe-Mosteiro s/n Carballido (Mosteiro) 27153
+Locality:	Information
+Longitude:	-7.5568407
+Natural Vegetation Area:	No
+Arboretum:	Yes
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	465

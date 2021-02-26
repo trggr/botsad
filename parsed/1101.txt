@@ -1,0 +1,11 @@
+ID:	1101
+Name:	Arboretum Eenrum 
+Curator's Name:	Mr. C.N.Smit
+Director's Name:	
+Info:	  Netherlands - Eenrum  ;Garden Information;  Institution Code: EENRU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Eenrum; Heereweg 18, 9967 PP EENRUM, The Netherlands.; Eenrum; Netherlands; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1968
+Institution Type:	Botanic Garden
+Latitude:	53.3639
+Longitude:	6.4605
+Special Collections:	Species rhododendron, Pinus

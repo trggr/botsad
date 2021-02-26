@@ -1,0 +1,18 @@
+ID:	647
+Name:	Peavy Arboretum 
+Curator's Name:	Morgan Carli, GIS & Reforestation Manager
+Director's Name:	Steve Fitzgerald, Director, OSU College Forests
+Info:	  United States of America - Oregon - Corvallis  ;Garden Information;  Institution Code: OSUF; International Agenda Registration: No; BGCI Member: No; About the Peavy Arboretum The Arboretum is a popular gateway to explore the further reaches of McDonald Forest and has provided an outdoor teaching lab for generations of both children and adults. Its history is rich, with ancient Native American sites, the home of the original Oregon State Forest Nursery, as well as the site of a Civilian Conservation Corp camp in the 1930's. Currently, the Arboretum houses the College Forest field office and staff. Arboretum maintenance is funded entirely by the College of Forestry from revenues derived from sale of timber by the College Forests.;  Main Address:; Peavy Arboretum; College of Forestry, Oregon State University; Corvallis; Oregon 97331 United States of America; ;  Telephone: (541) 737-6702; Fax: ; URL: <a target="_blank" href="https://cf.forestry.oregonstate.edu/our-forests/arboretum">https://cf.forestry.oregonstate.edu/our-forests/arboretum; Primary Email: carli.morgan@oregonstate.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1926
+Institution Type:	Botanic Garden
+Latitude:	44.6551200
+Longitude:	-123.2294020
+Total Area:	16 Hectares
+Arboretum:	Yes
+Arboretum Size:	16
+Computer Plant Record System:	Yes
+Herbarium:	No
+Open to public:	Yes
+Special Collections:	Plants of Asia, Europe and North America

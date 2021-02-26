@@ -1,0 +1,54 @@
+ID:	69
+Name:	Desert Botanical Garden 
+Fax:	(480) 481-8124
+Info:	  United States of America - Arizona - Phoenix  ;Garden Information;  Institution Code: DES; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	admin@dbg.org
+Telephone:	(480) 941-1225
+Administration Staff Number:	12
+Curator's Name:	Raul Puente-Martinez, Curator of Living Collections
+Director's Name:	Ken Schutz, Executive Director
+Educational Staff Number:	13
+Horticultural Staff Number:	12
+Plant Records Officer's Name:	Kimberlie McCue, PhD, Director of Conservation
+Research Staff Number:	18
+Altitude:	372.00 Metres
+Date founded:	1939
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	33.4598200
+Longitude:	-111.9493100
+Natural Vegetation Area:	Yes
+Total Area:	57 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	400000
+Number of Volunteers:	900
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	14000
+Cultivation Taxa Num:	4400
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Cactaceae (1,397 spp., 2,190 taxa), Agavaceae (240 spp., 327 taxa), Euphorbiaceae (159 spp., 186 taxa), Fouquieriaceae (14 spp, 15 taxa), Leguminosae (228 spp., 263 taxa), Myrtaceae (148 taxa). Acacia (94 spp., 96 taxa), Agave (146 spp., 196 taxa
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Ecology:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

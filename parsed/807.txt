@@ -1,0 +1,18 @@
+ID:	807
+Name:	University of Debrecen, Botanic Garden(Hortus Botanicus Universitatis Debreceniensis, Hungaria) 
+Administration Staff Number:	1
+Curator's Name:	Dr. László Pólya botanist, Mrs. Erika Erdős gardening engeener
+Director's Name:	Papp László Dr. biologist, botanist
+Educational Staff Number:	2
+Horticultural Staff Number:	8
+Info:	  Hungary - Debrecen  ;Garden Information;  Institution Code: DE; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; University of Debrecen, Botanic Garden(Hortus Botanicus Universitatis Debreceniensis, Hungaria); Debreceni Egyetem, Botanikus Kert (Hortus Botanicus Universitatis Debreceniensis, Hungaria) 4032 Debrecen, Egyetem tér 1., Hungary; Pf. 40,; Debrecen; H-4010 Hungary; ;  Telephone: +36305390370; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: papp.laszlo@gf.unideb.hu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1840
+Institution Type:	Botanic Garden
+Latitude:	47.5299
+Longitude:	21.6360
+Natural Vegetation Area:	Yes
+Total Area:	15 Hectares
+Special Collections:	Cacti and other succulents.

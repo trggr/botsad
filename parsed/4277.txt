@@ -1,0 +1,72 @@
+ID:	4277
+Name:	Juniper Level Botanic Gardens 
+Fax:	(919) 772-4752
+Info:	  United States of America - North Carolina - Raleigh  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	info@plantdelights.com
+Telephone:	(919) 772-4794
+Administration Staff Number:	
+Curator's Name:	Amanda Wilkins, Curator
+Director's Name:	Tony Avent
+Educational Staff Number:	
+Horticultural Staff Number:	6
+Plant Records Officer's Name:	Zac Hill
+Research Staff Number:	5
+Altitude:	100.50 Metres
+Annual Rainfall:	1200 mm
+Date founded:	1988
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	35.6260130
+Longitude:	-78.6398060
+Natural Vegetation Area:	No
+Total Area:	11 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Number of Volunteers:	20
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	No
+Accession Number:	25000
+Cultivation Taxa Num:	20000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

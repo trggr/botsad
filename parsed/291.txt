@@ -1,0 +1,13 @@
+ID:	291
+Name:	Genetic Resources Section 
+Curator's Name:	
+Director's Name:	A.G.Govaars
+Info:	  Australia - Canberra  ;Garden Information;  Institution Code: CSIROCS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Genetic Resources Section; Division of Plant Industry, CSIRO GPO Box 1600, CANBERRA CITY, ACT 2600, Australia.; Canberra; Australia; ;  Telephone: (062) 46 5483; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1926
+Institution Type:	Gene/Seed Bank
+Latitude:	-35.273161
+Longitude:	149.114717
+Seed Bank:	Yes
+Special Collections:	Herbage plants, seed reference collection 6,000 spp. Eucalyptus.

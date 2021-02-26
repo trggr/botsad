@@ -1,0 +1,10 @@
+ID:	4771
+Name:	Botanical Garden of the Kyrgyz National University of Balasagyn 
+Curator's Name:	
+Director's Name:	
+Info:	  Kyrgyzstan - Bishkek  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of the Kyrgyz National University of Balasagyn; Bishkek; Kyrgyzstan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	42.83
+Longitude:	74.61

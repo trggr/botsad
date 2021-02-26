@@ -1,0 +1,74 @@
+ID:	526
+Name:	Friends of Nairobi Arboretum 
+Administration Staff Number:	13
+Curator's Name:	Salome Angaine
+Director's Name:	Mr. William Wambugu c/o Chairman - FONA
+Educational Staff Number:	2
+Horticultural Staff Number:	
+Info:	  Kenya - Nairobi  ;Garden Information;  Institution Code: NAIRA; International Agenda Registration: No; BGCI Member: Yes; About the Friends of Nairobi Arboretum Nairobi Arboretum:-the place of trees ...for nature, ...for people; Nairobi Arboretum occupies a 30.4 hectare site situated about 3 km from the Kenya's Capital centre - Nairobi City, adjacent to State House and bounded by the Kirichwa Kubwa River on the North-west side. It was originally established in 1907 by Mr. Battiscombe, Deputy Chief Conservator of Forests, mainly as a trial plot for fast growing exotic tree species, to meet the high demand of fuel wood for the newly contructed Kenya-Uganda railway line and thus save Kenya's indigenous forests. It was subsequently gazetted as a Forest Reserve in 1932.; ; Under the stewardship of a succession of Foresters whose policy was to obtain seeds from all over the globe to make as complete a collection of indigenous and exotic trees and shrubs as possible, the initial trial plot gradually developed into an arboretum - "a living collection of trees".; ; Friends of Nairobi Arboretum (FONA) was founded in 1993, under the umbrella of Nature Kenya (East Africa Natural History Society), since then FONA has been working alongside Kenya Forest Service (formerly Forest Department) to maintain this green gem for recreation, education and scientific knowledge. An environmental education and outreach programme runs throughout the year that involves hosting academic institutions, corporate and general public visiting the arboretum.; ; Over the years, the Arboretum has become a vital green pocket in the midst of an ever expanding concrete city jungle. It reflects our rich natural and cultural heritage through the more than 350 tree species (indigenous and exotic), more than a hundred resident and migrant ; bird species, a multitude of insects, reptiles and small mammals, notably the playful Vervet(Black-faced) and Sykes monkeys. For the innumerable local and international visitors – including increasing numbers of school groups from all over Kenya, this is a place where lungs ; can be filled with fresh and clean air whilst you enjoy the tranquility of nature and the lovely bird sounds or the hard to detect Cicadas; while strolling, jogging, praying and/or travelling from continent to continent through an abundance of trees and other plants. ; ; The Arboretum also provides an extremely popular venue for a variety of events such as weddings, concerts, team building, corporate parties, and launches among others.;  Main Address:; Friends of Nairobi Arboretum; P.O. Box 44486; 00100 GP; Nairobi; Kenya; ;  Telephone: +254 727 300933, 788 981905; Fax: +254 (0)20 3741049; URL: <a target="_blank" href="http://www.nairobiarboretum.org">www.nairobiarboretum.org; Primary Email: fona@naturekenya.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	1700.00 Metres
+Annual Rainfall:	1000 mm
+Date founded:	1907
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	-1.2743
+Longitude:	36.8131
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Nairobi Botanic Garden
+Total Area:	30 Hectares
+Arboretum:	Yes
+Arboretum Size:	30
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	200000
+Number of Volunteers:	2
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Succulents, Orchids, Palms, Cycads, Grass, Glimbers, Indigenous (Adansonia digitata, Bauhinia tomentosa, Canthium keniense) and exotic trees.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

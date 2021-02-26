@@ -1,0 +1,13 @@
+ID:	4307
+Name:	University of Rochester Arboretum 
+Curator's Name:	
+Director's Name:	Dan Schied, Manager, Horticulture and Grounds
+Info:	  United States of America - New York - Rochester  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the University of Rochester Arboretum The Mission of the University of Rochester Arboretum is to reinforce and maintain an environment that preserves the beauty of the campus through a progessive program of grounds management, while supporting the study of native plant materials and developing new plant collections. The Arboretum will create an opportunity for continuing education about the University and regional horticulture, celebrating their history while promoting interest and support for the University and the Arboretum.;  Main Address:; University of Rochester Arboretum; 612 Wilson Boulevard; Rochester; New York 14627 United States of America; ;  Telephone: (585) 273-5815; Fax: (585) 461-3055; URL: <a target="_blank" href="http://www.facilities.rochester.edu/arboretum">www.facilities.rochester.edu/arboretum; Primary Email: dschied@facilities.rochester.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1999
+Institution Type:	Botanic Garden
+Latitude:	43.1318550
+Longitude:	-77.6234080
+Arboretum:	Yes
+Open to public:	Yes

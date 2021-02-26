@@ -1,0 +1,12 @@
+ID:	4350
+Name:	Jardim Zoobotânico Municipal de Franca 
+Curator's Name:	
+Director's Name:	Célio Bertelli
+Info:	  Brazil - São Paulo - Franca  ;Garden Information;  Institution Code: JZMUF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Zoobotânico Municipal de Franca; Fazenda Pouso Alegre - Rua Frederico Moura, 1517; Franca; São Paulo 14.401-900 Brazil; ;  Telephone: (16) 3703 0454; Fax: (16) 3711 9523; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-20.52864
+Longitude:	-47.39378
+Total Area:	200 Hectares
+Cultivation Taxa Num:	136

@@ -1,0 +1,9 @@
+ID:	4714
+Name:	ZooAmerica North American Wildlife Park 
+Curator's Name:	Pat McCann, Naturalist
+Director's Name:	Unknown
+Info:	  United States of America - Pennsylvania - Hershey  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; ZooAmerica North American Wildlife Park; 100 W. Hershey Park Drive; Hershey; Pennsylvania 17033 United States of America; ;  Telephone: (717) 534-3863; Fax: ; URL: <a target="_blank" href="http://www.zooamerica.com">www.zooamerica.com; Primary Email: ZooAmerica@HersheyPA.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	40.2907150
+Longitude:	-76.6602810

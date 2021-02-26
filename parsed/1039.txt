@@ -1,0 +1,11 @@
+ID:	1039
+Name:	Comenius University Faculty of Pharmacy, Garden of Medicinal Plants 
+Curator's Name:	Viktor Toth
+Director's Name:	Dr. Daniela Tekelova
+Info:	  Slovakia - Bratislava  ;Garden Information;  Institution Code: BRATS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Comenius University Faculty of Pharmacy, Garden of Medicinal Plants; Odbojarov 10, 83232 BRATISLAVA, Slovakia; Bratislava; Slovakia; ;  Telephone: Nat.Bratislava 60651; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1967
+Institution Type:	Botanic Garden
+Latitude:	48.1483
+Longitude:	17.1073

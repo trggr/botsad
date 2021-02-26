@@ -1,0 +1,16 @@
+ID:	4962
+Name:	Bundaberg Botanic Gardens 
+Curator's Name:	Tim Rich, Curator
+Director's Name:	Michael Johnston
+Info:	  Australia - Queensland - Bundaberg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Bundaberg Botanic Gardens Located on Mt Perry Road on the city’s northern outskirts, the Botanic Gardens sprawl over 27 hectares of land and feature a variety of 10,000 trees and shrubs. A magnificent lake, creating a habitat attracting up to 114 species of birds, is centrepiece of the Botanic Gardens, while a wedding chapel, plant nursery, shaded picnic areas, themed boardwalks, Japanese gardens and children’s playground enhance the appeal of one of Bundaberg’s favourite lifestyle precincts.;  Main Address:; Bundaberg Botanic Gardens; Mt. Perry Road; Mailing: Bundaberg Regional Council, P.O. Box 3130; Bundaberg; Queensland 4670 Australia; ;  Telephone: 1300 883 699; Fax: ; URL: <a target="_blank" href="http://bundaberg.qld.gov.au/botanic-gardens">http://bundaberg.qld.gov.au/botanic-gardens; Primary Email: ; 
+Plant Records Officer's Name:	Andrew Spies
+Altitude:	0.00 Metres
+Date founded:	1988
+Institution Type:	Botanic Garden
+Latitude:	-24.85445
+Longitude:	152.32421
+Total Area:	27 Hectares
+Arboretum:	No
+Disabled access:	Yes
+Herbarium:	No
+Open to public:	Yes

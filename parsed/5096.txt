@@ -1,0 +1,16 @@
+ID:	5096
+Name:	Geopark Kielce 
+Fax:	
+Info:	  Poland - świętokrzyskie - Kielce  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	sekretariat@geopark-kielce.pl
+Telephone:	0048(41) 36 76 800
+Administration Staff Number:	1
+Curator's Name:	Katarzyna Socha
+Director's Name:	Elżbieta Czajkowska
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Institution Type:	Botanic Garden
+Latitude:	50.87
+Longitude:	20.67

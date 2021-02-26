@@ -1,0 +1,44 @@
+ID:	934
+Name:	Punjabi University Botanic Garden 
+Administration Staff Number:	5
+Curator's Name:	Dr. Manish Kapoor
+Director's Name:	Prof & Head, Dept of Botany
+Educational Staff Number:	1
+Horticultural Staff Number:	17
+Info:	  India - Punjab - Patiala 147 002  ;Garden Information;  Institution Code: PATPU; International Agenda Registration: No; BGCI Member: No; About the Punjabi University Botanic Garden A nearby garden in Patiala, Chotti Baradari Gardens contains several groves of rare exotic and endemic trees, together with varieties of rare mangoes and guavas. Its glasshouse collections include over 100 varieties of Himalayan ferns, Caladium spp. crot;  Main Address:; Punjabi University Botanic Garden; Department of Botany; Punjabi University; Patiala 147 002; Punjab India; ;  Telephone: +91 94170 57589; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jdmanishkapoor@yahoo.com ; 
+Plant Records Officer's Name:	Dr. Manish Kapoor
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1972
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	30.3206
+Longitude:	76.3951
+Natural Vegetation Area:	Yes
+Total Area:	10 Hectares
+Total area of glasshouses:	50 Metres
+Total area of shadehouses:	200 Metres
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Number of Visitors:	1000
+Number of Volunteers:	3
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	700
+Cultivation Taxa Num:	280
+Special Collections:	Bamboo garden, Bougainvillea garden, bulb garden, cactus garden (including 78 types of cactus and succulents), Gymnosperms (23 types), palm garden, tropical plant house.
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Ecology:	Yes
+Education:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Education Booklets/Leaflets:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

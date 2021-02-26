@@ -1,0 +1,44 @@
+ID:	2272
+Name:	Sunshine Farm and Gardens 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Barry Glick, Manager
+Educational Staff Number:	
+Horticultural Staff Number:	17
+Info:	  United States of America - West Virginia - Renick  ;Garden Information;  Institution Code: SUNFG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sunshine Farm and Gardens; Route 51D; Renick; West Virginia 24966 United States of America; ;  Telephone: (304) 497-2208; Fax: (304) 497-2698; URL: <a target="_blank" href="http://www.sunfarm.com">www.sunfarm.com; Primary Email: barry@sunfarm.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	912.00 Metres
+Annual Rainfall:	1470 mm
+Date founded:	1972
+Institution Type:	Botanic Garden
+Latitude:	38.0633500
+Longitude:	-80.4335300
+Natural Vegetation Area:	Yes
+Total Area:	24 Hectares
+Arboretum:	Yes
+Arboretum Size:	150
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	1870
+Number of Volunteers:	4
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	10000
+Special Collections:	Hosta, Paeonia, Hellebore, Acer, Ilex, Magnolia, Clematis, Iris, Rhododendron, Lily, Hemerocallis, lilacs, roses, Carex, Primula, Cyclamen, unusual fruits - extensive North American plant collections.
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Education:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

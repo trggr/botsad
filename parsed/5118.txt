@@ -1,0 +1,11 @@
+ID:	5118
+Name:	Nature Conservation Unit- Seed Bank 
+Curator's Name:	
+Director's Name:	DR.Costas Kadis
+Info:	  Cyprus - Nicosia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Nature Conservation Unit- Seed Bank; Frederick Institute of Technology; Yianni Frederickou, 7; Nicosia; Cyprus; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.eurekanetwork.org/content/nature-conservation-unit-frederick-institute-technology">http://www.eurekanetwork.org/content/nature-conservation-unit-frederick-institute-technology; Primary Email: pre.kc@fit.ac.cy ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	34.695772
+Longitude:	33.016101
+Seed Bank:	Yes

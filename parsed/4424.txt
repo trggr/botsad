@@ -1,0 +1,9 @@
+ID:	4424
+Name:	Oshawa Valley Botanical Gardens 
+Curator's Name:	
+Director's Name:	Noel Hutchinson, Director, Parks Facilities
+Info:	  Canada - Ontario - Oshawa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oshawa Valley Botanical Gardens; 155 Arena Street; Mailing: OVBG Task Force, 50 Centre Street South; Oshawa; Ontario L1H 3Z7 Canada; ;  Telephone: 905-436-5636, ext. 2107; Fax: ; URL: <a target="_blank" href="http://www.ovbgoshawa.ca">www.ovbgoshawa.ca; Primary Email: ovbg@oshawa.ca ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	43.900171
+Longitude:	-78.870467

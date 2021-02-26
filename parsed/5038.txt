@@ -1,0 +1,80 @@
+ID:	5038
+Name:	African Forest 
+Fax:	
+Info:	  Kenya - Elementaita  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	info@african-forest.net
+Telephone:	+ 254 (0) 722 514765 / + 254 (0) 714 048900
+Administration Staff Number:	1
+Curator's Name:	Kenya Mutiso
+Director's Name:	Helen Thornton-Mutiso
+Educational Staff Number:	1
+Horticultural Staff Number:	8
+Plant Records Officer's Name:	Sally Rop
+Research Staff Number:	1
+Altitude:	1915.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	2006
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	-0.379644
+Local Address:	Soysambu Ranch, Gilgil District, Nakuru County
+Locality:	Information
+Longitude:	36.243570
+Natural Vegetation Area:	Yes
+Total Area:	51 Hectares
+Total area of glasshouses:	32 Metres
+Total area of shadehouses:	2000 Metres
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	200
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	120
+Cultivation Taxa Num:	120
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	African Forest focuses on indigenous Kenyan tree species, with some shrubs and some exotic trees.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

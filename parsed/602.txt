@@ -1,0 +1,11 @@
+ID:	602
+Name:	Botanischer Garten der Stadt St. Gallen 
+Curator's Name:	Robert Goldi
+Director's Name:	
+Info:	  Switzerland - St Gallen  ;Garden Information;  Institution Code: STGAL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Stadt St. Gallen; Stephanshornstrasse, 4,; St Gallen; Switzerland; ;  Telephone: 71.35153; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1945
+Institution Type:	Botanic Garden
+Latitude:	47.4264
+Longitude:	9.3760
+Special Collections:	Alpines, indoor ornamentals, orchids (1,000 spp.), Bromeliaceae, tropical economic plants, carnivorous plants, palms, Citrus.

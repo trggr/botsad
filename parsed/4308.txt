@@ -1,0 +1,26 @@
+ID:	4308
+Name:	Vander Veer Botanical Park 
+Curator's Name:	
+Director's Name:	Susan G. Anderson, Executive Director
+Info:	  United States of America - Iowa - Davenport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Vander Veer Botanical Park; 214 W. Central Park Avenue; Davenport; Iowa 52803 United States of America; ;  Telephone: (563) 326-7894; Fax: (563) 326-7955; URL: <a target="_blank" href="http://www.cityofdavenportiowa.com/department/division.asp?fDD=21-223">www.cityofdavenportiowa.com/department/division.asp?fDD=21-223; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1885
+Institution Type:	Botanic Garden
+Latitude:	41.5455200
+Longitude:	-90.5754750
+Total Area:	13 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Education Programme:	Yes
+Visitor/Education Centre:	No

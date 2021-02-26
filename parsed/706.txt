@@ -1,0 +1,52 @@
+ID:	706
+Name:	Bayard Cutting Arboretum 
+"garden-photo"> <img src="/photos/706/Picture1.jpg" alt="Manor House overlooking the Great Lawn and historic Black Oak." /> Manor House overlooking the Great Lawn and historic Black Oak.  About the Bayard Cutting Arboretum Mission:	to provide an oasis of beauty and quiet for the pleasure, rest and refreshment of those who delight in outdoor beauty
+Fax:	(631) 581-1031
+Info:	  United States of America - New York - Great River  ;Garden Information;  Institution Code: BCA; International Agenda Registration: No; BGCI Member: No; 
+Mailing:	P.O. Box 907
+Primary Email:	Nelson.Sterner@parks.ny.gov
+Telephone:	(631) 581-1002
+Administration Staff Number:	5
+Curator's Name:	Kevin Wiecks, Landscape Curator
+Director's Name:	Nelson Sterner, Executive Director
+Educational Staff Number:	3
+Horticultural Staff Number:	15
+Plant Records Officer's Name:	Joy Arden, GIS Collection Specialist
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Date founded:	1887
+Institution Type:	Botanic Garden
+Latitude:	40.7364000
+Longitude:	-73.1620820
+Total Area:	279 Hectares
+Arboretum:	Yes
+Arboretum Size:	279
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Volunteers:	130
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Sustainability:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

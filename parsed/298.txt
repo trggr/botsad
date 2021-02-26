@@ -1,0 +1,79 @@
+ID:	298
+Name:	Botanischer Garten Innsbruck und Aplengarten Patscherkofel 
+633 m2 tropical greenhouse:	tropical houseplants, water plants, ferns, epiphytes, carnivorous plants, cacti and succulents, plants from the Mediterranean and the Canary Islands.
+Fax:	43 (0)512 507 51199
+Info:	  Austria - Tirol - Innsbruck  ;Garden Information;  Institution Code: IB; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	Botanischer-Garten@uibk.ac.at
+Telephone:	43 (0)512 507 51111
+Administration Staff Number:	1
+Curator's Name:	Mag. Dr. Konrad Pagitz
+Director's Name:	Mag. Dr. Peter Schönswetter
+Educational Staff Number:	2
+Horticultural Staff Number:	7
+Plant Records Officer's Name:	Peter Daniel Schlorhaufer
+Research Staff Number:	1
+Altitude:	600.00 Metres
+Annual Rainfall:	860 mm
+Date founded:	1909
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	47.2500
+Local Address:	Sternwartestrasse 15 A-6020 Innsbruck Oesterreich
+Locality:	Information
+Longitude:	11.5000
+Natural Vegetation Area:	No
+Satellite Garden Names:	Alpine Garden on Mount Patscherkofel <br> On Mt.Patscherkofel, the mountain arising direct in the south of the city of Innsbruck, the Alpine Garden of the University of Innsbruck was reopened to the public in the autumn of 1994. This Alpine Garden is the highest located Botanical Garden in Austria and was founded in 1930 by the Leopold-Franzens University Innsbruck. A new, modern research station within the garden enables Botanists all year round to carry out their studies directly in the field. The 1 hectare (= 2.470 acres) large garden is situated at 2000m above sea near the top station of the Patscherkofel cable car and therefore fast and easily reached. The garden is fenced since 1930 and a lot of plants could maintain here, which were otherwise superseded by the lot of grazing cattle. The favorable position of the garden, situated within the timberline, enables us to show different plant communities naturally occurring here. A new trail leading through the steep area allows the visitors a close view to the communities such as timberline forests, elfin wood/ Krummholz, tall alpine herbfield or alpine tundra associations. Only the understanding of the sensitive balance can help to save this endangered communities. In addition we also want to show plants from other alpine regions of the world.
+Total Area:	2 Hectares
+Total area of glasshouses:	1200 Metres
+Total area of shadehouses:	1200 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	10000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	6000
+Cultivation Taxa Num:	8000
+Special Collections:	Mediterranean and subtropical plants, geographical and geological divided Alpinum,Alpine House, systematical area, succulents, tropical/subtropical greenhouses, medical plants collection.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

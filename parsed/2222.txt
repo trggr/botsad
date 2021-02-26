@@ -1,0 +1,52 @@
+ID:	2222
+Name:	Sherwood Arboretum 
+Fax:	+(07) 617 3403 2552
+Info:	  Australia - Queensland - Sherwood  ;Garden Information;  Institution Code: SHERB; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	botanicgardens@brisbane.qld.gov.au
+Telephone:	+(07) 617 3403 2535
+Curator's Name:	Prue Pettett, Assistant Curator of the Brisbane Botanic Gardens
+Director's Name:	Assistant Curator
+Plant Records Officer's Name:	Prue Pettett, Assistant Curator of the Brisbane Botanic Gardens
+Altitude:	8.00 Metres
+Annual Rainfall:	1150 mm
+Date founded:	1925
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-27.53109
+Longitude:	152.9743
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Brisbane Botanic Gardens, City Botanic Gardens
+Total Area:	15 Hectares
+Arboretum:	Yes
+Arboretum Size:	15
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	50
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	1150
+Cultivation Taxa Num:	250
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Mangroves occur along the river frontage:	milky mangrove (Excoecaria agaloeha), grey mangrove (Auicennia marina) and river mangrove (Aegiceras corniculatum).
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

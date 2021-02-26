@@ -1,0 +1,11 @@
+ID:	122
+Name:	Arboretum 
+Curator's Name:	
+Director's Name:	A.M.Kormilicyna
+Info:	  Russian Federation - Khabarovsk  ;Garden Information;  Institution Code: KHAB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum; The Far East Science Research Institute of Forest Administration, Volochaevskaja St. 71, 680020 KH; Khabarovsk; Russian Federation; ;  Telephone: 33 22 37; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1935
+Institution Type:	Botanic Garden
+Latitude:	48.4767
+Longitude:	135.0940
+Special Collections:	Salix, Rosa, Syringa, Philadelphus, Ribes, Spiraea, Betula, Lonicera

@@ -1,0 +1,26 @@
+ID:	1239
+Name:	South Carolina Botanical Garden, The 
+Administration Staff Number:	2
+Curator's Name:	John Bodiford, Senior Horticulturist
+Director's Name:	Patrick McMillan
+Educational Staff Number:	3
+Horticultural Staff Number:	6
+Info:	  United States of America - South Carolina - Clemson  ;Garden Information;  Institution Code: CLEMS; International Agenda Registration: No; BGCI Member: No; About the South Carolina Botanical Garden, The The South Carolina Botanical Garden is a diverse 295 acres of natural landscapes, display gardens, and miles of streams and nature trails. Together with distinguished education and outreach programs, a nationally recognized nature-based sculpture collection, and the Bob Campbell Geology Museum, the SCBG is a premier site for experiencing nature and culture.; ; The South Carolina Botanical Garden is home to an official American Hosta Society Display Garden, a 70-acre arboretum, miles of nature trails and streams, a butterfly garden, wildflower meadow and fern and bog gardens. The Garden is also home to over 400 varieties of camellias, as well as an extensive collection of hollies, hydrangeas, magnolias and native plants.;  Main Address:; South Carolina Botanical Garden, The; Clemson University; 150 Discovery Lane; Clemson; South Carolina 29634 United States of America; ;  Telephone: (864) 656-3405; Fax: (864) 656-3608; URL: <a target="_blank" href="http://www.clemson.edu/public/scbg">www.clemson.edu/public/scbg; Primary Email: scbg@clemson.edu ; 
+Plant Records Officer's Name:	Amy Hackney Blackwell
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1958
+Institution Type:	Botanic Garden
+Latitude:	34.6684690
+Longitude:	-82.8273010
+Natural Vegetation Area:	Yes
+Total Area:	119 Hectares
+Number of Visitors:	100000
+Open to public:	Yes
+Special Collections:	Ilex, Rhododendron, Camellia.
+Education:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

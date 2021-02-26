@@ -1,0 +1,60 @@
+ID:	684
+Name:	The Barnes Arboretum at SJU 
+Fax:	
+Info:	  United States of America - Pennsylvania - Philadelphia  ;Garden Information;  Institution Code: ABFM; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	jthomas1@sju.edu
+Telephone:	610 660 2801
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Dr. Jacob Thomas, Director, Living Collections & Hort. Programs
+Educational Staff Number:	18
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	William Rein
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1922
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.9982849
+Longitude:	-75.2415180
+Natural Vegetation Area:	Yes
+Total Area:	5 Hectares
+Total area of glasshouses:	30 Metres
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000
+Number of Volunteers:	12
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	3200
+Cultivation Taxa Num:	2521
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Conifers, Ferns, Magnolia, Stewartia, Syringa, Paeonia, Hosta, Phellodendron, Viburnum, Chionanthus, Rose, Medicinal plants,
+Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Education:	Yes
+Horticulture:	Yes
+Plant Breeding:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

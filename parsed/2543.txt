@@ -1,0 +1,13 @@
+ID:	2543
+Name:	Ardkinglas Woodland Garden 
+Curator's Name:	Ian Sinclair
+Director's Name:	Director
+Info:	  United Kingdom - Argyll - Cairndow  ;Garden Information;  Institution Code: ARGY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ardkinglas Woodland Garden; Ardkinglas Estate Office; Cairndow; Argyll PA26 8BG United Kingdom; ;  Telephone: +44 (0) 1499 600261; Fax: +44 (0) 1499 600 241; URL: <a target="_blank" href="http://www.ardkinglas.com">www.ardkinglas.com; Primary Email: info@ardkinglas.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	56.253403
+Longitude:	-4.93943
+Total Area:	25 Hectares
+Number of Visitors:	3500
+Cultivation Taxa Num:	225

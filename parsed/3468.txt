@@ -1,0 +1,13 @@
+ID:	3468
+Name:	Arboretum at Regis University, The 
+Curator's Name:	
+Director's Name:	Patrick L. Schlanger, Director of Operations
+Info:	  United States of America - Colorado - Denver  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Arboretum at Regis University, The In 2000 the campus became a recognized arboretum, thanks to a generous grant from Martin Hart. More trees are planted each year than die from disease.;  Main Address:; Arboretum at Regis University, The; Physical Facilities F-16; 3333 Regis Boulevard; Denver; Colorado 80221 United States of America; ;  Telephone: (303) 458-4944; Fax: (303) 964-5495; URL: <a target="_blank" href="http://www.regis.edu">www.regis.edu; Primary Email: pschlang@regis.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Botanic Garden
+Latitude:	39.7877050
+Longitude:	-105.0302620
+Arboretum:	Yes
+Accession Number:	500

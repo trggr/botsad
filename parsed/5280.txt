@@ -1,0 +1,9 @@
+ID:	5280
+Name:	Lawrence Rotary Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - Kansas - Lawrence  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Lawrence Rotary Arboretum; 5100 W. 27th Street; Lawrence; Kansas 66047 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://lawrenceks.org/lprd/parks/rotaryarboretum/">https://lawrenceks.org/lprd/parks/rotaryarboretum/; Primary Email: cmiles@lawrenceks.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	38.935786
+Longitude:	-95.306116

@@ -1,0 +1,39 @@
+ID:	2385
+Name:	Arboretum Kirchberg 
+Fax:	+352 46 38 48
+Info:	  Luxembourg - Luxembourg  ;Garden Information;  Institution Code: LUX; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	arboretum@mnhn.lu
+Telephone:	+352 46 22 33 201
+Curator's Name:	
+Director's Name:	
+Plant Records Officer's Name:	
+Altitude:	350.00 Metres
+Annual Rainfall:	782 mm
+Date founded:	1994
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	49.627860
+Longitude:	6.158986
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Parc Réimerwee (Fagaceae) Parc Central (Landscape Leisure Parc, Rosaceum) Parc Klosegrënnchen (Sand Arboretum)
+Total Area:	30 Hectares
+Arboretum:	Yes
+Arboretum Size:	30
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	1961
+Cultivation Taxa Num:	1017
+Special Collections:	Native trees and shrubs of Europe(560 taxa grown outdoors), forestry species, fruit trees, Rosaceae, ...
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Education:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes

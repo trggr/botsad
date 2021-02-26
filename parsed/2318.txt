@@ -1,0 +1,10 @@
+ID:	2318
+Name:	Eidgenossische Forschunganstalt fur Pflanzenbau 
+Curator's Name:	Regula Schmitt/
+Director's Name:	
+Info:	  Switzerland - Zurich-reckenholz  ;Garden Information;  Institution Code: EIDGE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Eidgenossische Forschunganstalt fur Pflanzenbau; Alpinum Arosa, 8046 ZURICH-RECKENHOLZ, Switzerland; Zurich-reckenholz; Switzerland; ;  Telephone: 1.3777111; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	47.4258
+Longitude:	8.5171

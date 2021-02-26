@@ -1,0 +1,10 @@
+ID:	792
+Name:	Faculte des Sciences Agronomiques de l'Etat 
+Curator's Name:	J.Froment
+Director's Name:	
+Info:	  Belgium - Gembloux  ;Garden Information;  Institution Code: GEMBL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Faculte des Sciences Agronomiques de l'Etat; Service des Collections Vegetales, B-5800 GEMBLOUX, Belgium.; Gembloux; Belgium; ;  Telephone: 0032 81 62 24 54; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	50.5703
+Longitude:	4.6915

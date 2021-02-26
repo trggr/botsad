@@ -1,0 +1,47 @@
+ID:	4917
+Name:	Beechwood Botanical Gardens 
+Fax:	
+Info:	  South Africa - Gauteng - Johannesburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	sg.mycoroot@outlook.com
+Telephone:	+27110409604
+Administration Staff Number:	1
+Curator's Name:	Steven Gouveia
+Director's Name:	Christopher David Greig
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	Steven Gouveia
+Research Staff Number:	1
+Altitude:	1753.00 Metres
+Annual Rainfall:	780 mm
+Date founded:	1940
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-26.13220
+Local Address:	25 Christopherson Road Hyde Park 2196
+Locality:	Information
+Longitude:	28.040929
+Natural Vegetation Area:	No
+Total Area:	4 Hectares
+Total area of glasshouses:	30 Metres
+Total area of shadehouses:	20 Metres
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	250
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Cultivation Taxa Num:	45
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

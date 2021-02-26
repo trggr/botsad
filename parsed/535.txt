@@ -1,0 +1,23 @@
+ID:	535
+Name:	Pinetum Blijdenstein 
+Administration Staff Number:	
+Curator's Name:	Dr. A. Aptroot, Curator of collections
+Director's Name:	Dr. A. Aptroot
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  Netherlands - Hilversum  ;Garden Information;  Institution Code: HILVE; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Pinetum Blijdenstein; Van der Lindenlaan 125; Mailing: P.O. Box 49, 1200 AA Hilversum, The Netherlands; Hilversum; 1217 PJ Netherlands; ;  Telephone: +31 (0)35-6231123; Fax: +31 (0)35-6247767; URL: <a target="_blank" href="http://www.pinetum.nl">www.pinetum.nl; Primary Email: info@pinetum.nl ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1911
+Institution Type:	Botanic Garden
+Latitude:	52.2239
+Longitude:	5.1709
+Arboretum:	Yes
+Arboretum Size:	2
+Number of Volunteers:	25
+Open to public:	Yes
+Accession Number:	1600
+Cultivation Taxa Num:	500
+Special Collections:	Member of NPC scheme specialising in Coniferae, Cycadales, Ephedra, Rhododendron,. One of the major European collections of conifers and the largest in the Netherlands. Excellent and extensive collection of subtropical and tropical conifers in the glassho
+Ex Situ Conservation Programme:	Yes

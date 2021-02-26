@@ -1,0 +1,73 @@
+ID:	5190
+Name:	Botanical Garden of the North-Eastern Federal University (NEFU) / Ботанический сад Северо-Восточног 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Sargylana Z. Borisova
+Educational Staff Number:	5
+Horticultural Staff Number:	16
+Info:	  Russian Federation - Republic of Sakha (Yakutia) - Yakutsk  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; About the Botanical Garden of the North-Eastern Federal University (NEFU) / Ботанический сад Северо-Восточног Botanical Garden of the North-Eastern Federal University (NEFU) is located in East Siberia, 10 km to the south of Yakutsk city, on the second terrace above the floodplain of the Lena River. The garden was established in 2001 and obtained the status of a specially protected area of Yakutia Republic. Major objectives of the garden include implementation of basic and applied research, training of qualified specialists in the field of plant introduction, study and conservation of plant biodiversity, environmental and cultural education. The garden is a member of the Council of Botanical Gardens of Russia and BGCI. Currently, the garden includes 6 main departments: Department of Woody Plants, Department of Yakutia Natural Flora, Department of Ornamental Plants, Department of Tropical and Subtropical Plants, Plant Protection Service, and Seed Bank. Collections of woody plants currently comprise 158 species from 51 genera and 22 families; collections of steppe plants - 147 species from 100 genera and 36 families; collections of rare and endangered plants - 62 species (85 accessions), included in the Red Book of Yakutia (2000), Rare and Endangered Plants of Siberia (1980) and the Red Book of the Russian Federation (2005); collections of ornamental plants - 300 accessions; collections of tropical and subtropical plants - 157 species from 75 genera and 50 families; collections of Asian lilies hybrids - 64 varieties and 17 accessions; the core collection of floral annuals includes 46 species from 11 families.;  Main Address:; Botanical Garden of the North-Eastern Federal University (NEFU) / Ботанический сад Северо-Восточног; 48 Kulakovskogo st.; Pokrovskiy Road 10 km; Yakutsk; Republic of Sakha (Yakutia) 677000 Russian Federation; ;  Telephone: 007 (4112) 496843; Fax: ; URL: <a target="_blank" href="http://www.s-vfu.ru/universitet/rukovodstvo-i-struktura/instituty/bs/">www.s-vfu.ru/universitet/rukovodstvo-i-struktura/instituty/bs/; Primary Email: botsad_nefu@mail.ru ; 
+Plant Records Officer's Name:	
+Research Staff Number:	11
+Altitude:	0.00 Metres
+Date founded:	2001
+Institution Type:	Botanic Garden
+Latitude:	62.016906
+Local Address:	Pokrovskiy Road 10 km
+Locality:	Information
+Longitude:	129.703827
+Total Area:	2 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1400
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	1580
+Cultivation Taxa Num:	325
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Collection of steppe plants of Central Yakutia - 143 species. Collection of rare plants of Siberia and Yakutia - 40 species. Collection of trees and shrubs - 142 species
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

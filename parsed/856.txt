@@ -1,0 +1,95 @@
+ID:	856
+Name:	Jardín Botánico de Cartagena 
+-" src="http:	//legacy.bgci.org/files/ERABG/project_images/The%20Cartagena%20Botanical%20Garden%20Guillermo%20Pi%C3%B1eres/Ecological%20restoration%20and%20conservation%20of%20the%20Matute%20basin3.jpg" alt="" width="700" height="525" />
+-">For more information on this project, please contact <a href="mailto:	santiago.madrinan@jbgp.org.co">Santiago Madri&ntilde
+-<img style="display:	block
+-<p style="text-align:	left
+-This project aims to conserve and restore the high basin of the Matute region, the major hydrological basin of the region. Three main conservation and restoration strategies have been implemented:	(1) the development of an awareness program with landowners of the Matute basin, (2) commitment agreements to conserve the vegetation near the water, and (3) the propagation of native tree species for active restoration. These actions will conserve and enrich the vegetation of the Matute basin, the closest and the main resource of freshwater of Cartagena.
+-margin-left:	auto
+-margin-right:	auto
+Administration Staff Number:	2
+Curator's Name:	Viviana Londoño
+Director's Name:	Santiago Madriñán
+Educational Staff Number:	3
+Horticultural Staff Number:	4
+Info:	  Colombia - Bolivar - Turbaco  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: JBGP; International Agenda Registration: Yes; BGCI Member: Yes; About the Jardín Botánico de Cartagena Our mission is to educate, investigate and preserve the Colombian Caribbean flora and fauna. We aim to provide botanically and responsibly sourced material for reintroduction and reforestation, to educate the people about the diversity and peculiarity of the Caribbean dry forests. We also host graduate students to do projects on the local flora and fauna, and we maintain a reference collection of herbarium specimens and an extensive library on Neotropical flora.; The garden is situated around at 10.354644 North latitude and 75.429485 West longitude, in the hills above Cartagena in the satellite town of Turbaco. It occupies a total of 9 hectares, which is divided into 5 ha of planted collections and 4 ha of natural forest. It lies around 100 meters above sea level and has an average annual rainfall of 232 mm. Rain falls mostly from late August to early December, with a shorter rainy season in April. The rest of the year it enjoys a dry sunny climate with high average temperatures, although mist and a frequent breeze from the hills make it a pleasant climate. Despite the long dry season, the natural spring supplies the garden with ample fresh water throughout the year. Some of the paths are rather steep, so be sure to wear good, comfortable shoes on your visit. It is a wonderful place to contemplate, relax and to get into close contact with the natural wonders of the Colombian Caribbean.; The natural flora of the Botanical Garden is diverse and well represented both in the natural forest and in the planted collections. It is one of the most important collections of plants from the Caribbean and because the dry Caribbean forests are highly threatened it makes this garden even of greater importance for conservation and as a seed source for reintroduction programs.; ; The garden has many well-developed specimens of trees, shrubs and herbs. There are some incredibly large specimens of giant cashew (Anacardium excelsum), and white fig (Ficus maxima), which rise above the forest canopy with their massive crowns and huge trunks supported by large buttress roots. One giant cashew is a focal point in the garden and may be over 500 years old. Other frequent trees in the garden are Aspidosperma desmanthum, Astrocaryum malybo, Attalea butyracea, Bursera simaruba, Cavanillesia platanifolia, Cecropia peltata, Cedrela odorata, Ficus citrifolia, Mammea americana, Nectandra turbacensis, Pachyra aquatica, Pseudobombax septenatum, Sterculia apetala and Swietenia macrophylla. Many of these species have valuable wood and are thus highly threatened in their remaining populations outside the garden.;  Main Address:; Jardín Botánico de Cartagena; Sector Matute, km 5 Autopista I-90 (Cartagena–Turbaco); Turbaco; Bolivar 131007 Colombia; ;  Telephone: +57 (5) 6637207; Fax: +57 (5) 6638340; URL: <a target="_blank" href="http://jbgp.org.co">http://jbgp.org.co; Primary Email: direccion@jbgp.org.co ; 
+Plant Records Officer's Name:	Maria Contreras
+Research Staff Number:	5
+Altitude:	100.00 Metres
+Annual Rainfall:	232 mm
+Date founded:	1978
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	10.354644
+Local Address:	
+Locality:	Information
+Longitude:	-75.429485
+Natural Vegetation Area:	Yes
+Total Area:	9 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	4
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Drug and Fragrance Garden:	We have a small collection of perfumed, medicinal and psychoactive plants.
+Evolutionary Garden:	We are currently planning and developing our evolutionary garden collection, which will display lycopods, ferns, conifers and early dicots (Magnoliads, Pipevines, etc.). The aim is to show how plants evolved from small moss-like plants spread by spores, to wind-pollinated cone-bearing plants and finally flowering plants pollinated and distributed by animals. We have recently undertaken an expedition to Santa Marta to collect ferns and gymnosperms for this garden.
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Native forest:	Four hectares of primary dry forest have been preserved in the garden, including some very large trees and a diverse flora and fauna. Primary forest is highly threatened in Caribbean Colombia, and thus this makes it an important refuge.
+Orchard:	A small area is designated to show unusual fruiting trees of the Caribbean and beyond.
+Ornamental Garden:	Beautiful meadows surrounded by ornamental borders connect the scientific collections. There are many unusual ornamental plants, some of which were obtained through exchange with other botanical gardens. The ornamental garden includes a nice collection of Zingiberales, the bananas, gingers and relatives.
+Palmetum:	Our palm collection houses a selection of Caribbean and exotic palm trees.
+Plant Collection Policy:	No
+Xerophytic Garden:	This is a selection of cacti and succulents from the Americas, Africa, Asia and Madagascar. The collection is currently under development. It shows how a garden can be created with limited water resources.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes
+" src="http:	//legacy.bgci.org/files/Native%20plant%20species%20propagation.jpg" alt="" width="700" height="510" />
+"><img src="http:	//legacy.bgci.org/files/ERABG/project_images/The%20Cartagena%20Botanical%20Garden%20Guillermo%20Pi%C3%B1eres/Native%20seedlings.jpg" alt="" width="700" height="1050" />
+<a href="mailto:	santiago.madrinan@jbgp.org.co">Santiago Madri&ntilde
+<p style="text-align:	center
+Develop conservation agreements with local landowners to create private conservation areas in vulnerable Colombian Caribbean tropical dry forests</li> </ol> <img style="display:	block
+margin-left:	auto
+margin-right:	auto

@@ -1,0 +1,44 @@
+ID:	4520
+Name:	Gareev Botanical Garden of the National Academy of Sciences, Kyrgyzstan 
+Fax:	+996(312)517355
+Info:	  Kyrgyzstan - Bishkek  ;Garden Information;  Institution Code: FRU; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	gareev100@mail.ru
+Telephone:	+996(312)517355, 517932
+Administration Staff Number:	6
+Curator's Name:	
+Director's Name:	Tashtanbek Akymbaevich Kochkumbayev
+Educational Staff Number:	
+Horticultural Staff Number:	
+Plant Records Officer's Name:	
+Research Staff Number:	29
+Altitude:	900.00 Metres
+Date founded:	1938
+Institution Type:	Botanic Garden
+Latitude:	42.90
+Local Address:	ул. Ахунбаева 1-а
+Locality:	Information
+Longitude:	74.60
+Total Area:	172 Hectares
+Total area of glasshouses:	500 Metres
+Arboretum:	Yes
+Computer Plant Record System:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Invasive Species Monitoring:	Yes
+Reintroduction Programme:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Horticulture:	Yes
+Plant Breeding:	Yes
+Urban Environments:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

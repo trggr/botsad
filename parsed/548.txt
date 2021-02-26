@@ -1,0 +1,23 @@
+ID:	548
+Name:	Makiling Botanic Gardens 
+Administration Staff Number:	9
+Curator's Name:	Edwino S. Fernando
+Director's Name:	Roberto G. Visco
+Educational Staff Number:	2
+Horticultural Staff Number:	2
+Info:	  Philippines - Government - Los Baños  ;Garden Information;  Institution Code: PNHM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Makiling Botanic Gardens; College of Forestry and Natural Resources, University of the Philippines Los Baños, College, Los Baños, LAGUNA 4031, Philippin; College, Los Baños, Laguna, Philippines; Los Baños; Government 4030 Philippines; ;  Telephone: 0495362637; Fax: 63 49 536 3572; URL: <a target="_blank" href="http://www.makiling.center">www.makiling.center; Primary Email: lacastillo@up.edu.ph ; 
+Plant Records Officer's Name:	Leilani Castillo
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1963
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	14.3866
+Longitude:	121.2410
+Natural Vegetation Area:	Yes
+Total Area:	300 Hectares
+Arboretum:	Yes
+Disabled access:	Yes
+Number of Visitors:	200000
+Open to public:	Yes
+Special Collections:	Bamboos, palms, Dipterocarps.

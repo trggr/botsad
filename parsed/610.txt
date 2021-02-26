@@ -1,0 +1,30 @@
+ID:	610
+Name:	Cruickshank Botanic Gardens 
+Curator's Name:	
+Director's Name:	Ian J. Alexander BSc(For) PhD FRSE
+Info:	  United Kingdom - Aberdeen  ;Garden Information;  Institution Code: ABD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cruickshank Botanic Gardens; Department of Plant and Soil Science,University of Aberdeen, Cruickshank Building, Aberdeen AB; Aberdeen; AB24 3UU United Kingdom; ;  Telephone: 01224 272697; Fax: 01224 272703; URL: <a target="_blank" href="http://www.abdn.ac.uk/botanic-garden/">http://www.abdn.ac.uk/botanic-garden/; Primary Email: r.d.walker@abdn.ac.uk ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1898
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	57.168032
+Longitude:	-2.103476
+Total Area:	5 Hectares
+Total area of glasshouses:	250 Metres
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	2597
+Special Collections:	Rock garden plants, Scottish native upland plants, Sorbus (native), CrataegusScottish native upland plants
+Conservation Programme:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Courses for School Children:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

@@ -1,0 +1,13 @@
+ID:	166
+Name:	Jardin Botanico del Instituto de Biologia (UNAM) 
+Curator's Name:	Linda Balcazar, Head of Education
+Director's Name:	Dr. Javier Caballero
+Info:	  Mexico - Distrito Federal - Mexico City, Coyoacan  ;Garden Information;  Institution Code: MEXU; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanico del Instituto de Biologia (UNAM); Universidad Autonoma de Mexico; Circuito Exterior s/n, Ciudad Universitaria, Copilco, A.P. 70-614; Mexico City, Coyoacan; Distrito Federal 04510 Mexico; ;  Telephone: (52) 5616 1297; Fax: (52) 5622 9046; URL: <a target="_blank" href="http://www.ibiologia.unam.mx/jardin/">www.ibiologia.unam.mx/jardin/; Primary Email: jcaballero@ibunam2.ibiologia.unam.mx ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1959
+Institution Type:	Botanic Garden
+Latitude:	19.3253
+Longitude:	-99.6045
+Special Collections:	Agavaceae (175 taxa - Agave 109 taxa, Yucca 22 taxa), Nolinaceae (30 taxa - Dasylirion - 14 taxa), Cactaceae, Opuntia, Orchidaceae, Pinaceae, Arecaceae, plants of economic use.
+Reintroduction Programme:	Yes

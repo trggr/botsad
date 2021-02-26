@@ -1,0 +1,13 @@
+ID:	3475
+Name:	University of Arizona Campus Arboretum 
+Curator's Name:	
+Director's Name:	Elizabeth Davison, Director
+Info:	  United States of America - Arizona - Tucson  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the University of Arizona Campus Arboretum The Mission of the Campus Arboretum at the University of Arizona is to preserve, manage, enhance, and expand a vital collection plants in an active, urban Sonoran Desert setting. The UA Campus Arboretum will showcase the historic, scientific, aesthetic, environmental, economical, conservation, and educational value of these plants within the larger Tucson urban forest and the American Southwest.;  Main Address:; University of Arizona Campus Arboretum; Forbes Building; P.O. Box 210036; Tucson; Arizona 85721 United States of America; ;  Telephone: (520) 621-1582; Fax: (520) 621-7186; URL: <a target="_blank" href="http://arboretum.arizona.edu/">http://arboretum.arizona.edu/; Primary Email: edavison@Ag.Arizona.Edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2002
+Institution Type:	Botanic Garden
+Latitude:	32.2341400
+Longitude:	-110.9534400
+Arboretum:	Yes
+Open to public:	Yes

@@ -1,0 +1,40 @@
+ID:	65
+Name:	Jardin Botanico de Cordoba 
+Administration Staff Number:	18
+Curator's Name:	
+Director's Name:	The Director
+Educational Staff Number:	6
+Horticultural Staff Number:	12
+Info:	  Spain - Cordoba  ;Garden Information;  Institution Code: COSP; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Jardin Botanico de Cordoba; Avda de Linneo s/nApdo. 3048,; Cordoba; 14080 Spain; ;  Telephone: 34 (9)57 200 077; Fax: 34 (9)57 295 333; URL: <a target="_blank" href="http://www.jardinbotanicodecordoba.com">www.jardinbotanicodecordoba.com; Primary Email: info@jardinbotanicodecordoba.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	10
+Altitude:	0.00 Metres
+Date founded:	1985
+Institution Type:	Botanic Garden
+Latitude:	37.8713
+Longitude:	-4.7941
+Total Area:	5 Hectares
+Total area of glasshouses:	1090 Metres
+Arboretum:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	40997
+Number of Volunteers:	32
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	2680
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Conservation - Genetics:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Molecular Genetics:	Yes
+Plant Breeding:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,11 @@
+ID:	827
+Name:	Hortus Plantarum Medicarum 
+Curator's Name:	
+Director's Name:	
+Info:	  Poland - Lodz  ;Garden Information;  Institution Code: LODZM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hortus Plantarum Medicarum; Department of Pharmacognosy Medical Academy, 90-145 LODZ Muszynskiego, Poland.; Lodz; Poland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	51.7592
+Longitude:	19.4559
+Special Collections:	medicinal plants

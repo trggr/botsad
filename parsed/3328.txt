@@ -1,0 +1,11 @@
+ID:	3328
+Name:	INIA Botanical Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Mozambique - Maputo  ;Garden Information;  Institution Code: IAMA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; INIA Botanical Garden; INIA C.P. 3658 Mavalane MAPUTO; Maputo; Mozambique; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1968
+Institution Type:	Botanic Garden
+Latitude:	-25.9686
+Longitude:	32.5804
+Special Collections:	Approximately 90 % of plants in the collection are indigenous to Mozambique. 33 families are represented amongst the plant collections. The Garden contains a building housing the National Gene Bank.

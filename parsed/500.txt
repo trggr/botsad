@@ -1,0 +1,79 @@
+ID:	500
+Name:	The Hiroshima Botanical Garden 
+Fax:	082-923-6100
+Info:	  Japan - Hiroshima - Hiroshima  ;Garden Information;  Institution Code: HIROS; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	hiroshima-bg@midoriikimono.jp
+Telephone:	082-922-3600
+Administration Staff Number:	12
+Curator's Name:	Yoshiyuki Hayashi
+Director's Name:	Yoshiyuki Hayashi
+Educational Staff Number:	5
+Horticultural Staff Number:	18
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	100.00 Metres
+Annual Rainfall:	1550 mm
+Date founded:	1976
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.390745
+Longitude:	132.347442
+Natural Vegetation Area:	No
+Total Area:	18 Hectares
+Arboretum:	Yes
+Arboretum Size:	12
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	200000
+Number of Volunteers:	60
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	203000
+Cultivation Taxa Num:	10000
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Orchids, Begonias, Gesneriaceae.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

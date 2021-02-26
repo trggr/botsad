@@ -1,0 +1,76 @@
+ID:	4944
+Name:	University of Melbourne Grounds and Gardens 
+Fax:	
+Info:	  Australia - Victoria - Melbourne  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	tu@unimelb.edu.au
+Telephone:	0425832554
+Administration Staff Number:	
+Curator's Name:	Tim Uebergang
+Director's Name:	Andrew Gay
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Tim Uebergang
+Research Staff Number:	2
+Altitude:	50.00 Metres
+Annual Rainfall:	650 mm
+Date founded:	1856
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-37.796539
+Local Address:	The University of Melbourne Parkville campus.
+Locality:	Information
+Longitude:	144.959015
+Natural Vegetation Area:	Yes
+Total Area:	1 Hectares
+Total area of glasshouses:	45 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

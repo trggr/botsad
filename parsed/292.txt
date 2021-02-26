@@ -1,0 +1,30 @@
+ID:	292
+Name:	George Brown Darwin Botanic Gardens 
+Administration Staff Number:	6
+Curator's Name:	Paul Munns
+Director's Name:	Bryan Harty
+Educational Staff Number:	
+Horticultural Staff Number:	14
+Info:	  Australia - NT - Darwin  ;Garden Information;  Institution Code: DARW; International Agenda Registration: Yes; BGCI Member: Yes; About the George Brown Darwin Botanic Gardens The Gardens was established 130 years ago to introduce and evaluate plants for food and flavour to a small developing community and has since become important in the recreational and scientific life of the city.; ; They have survived numerous cyclones and the direct effects of World War Two. The site extends inland from the sea to a plateau providing a range of planting environments and is one of a few botanic gardens in the world which has marine and estuarine plants naturally in its grounds.; ; The location of the gardens is within the Fannie Bay cultural and recreational precinct and places it amongst primary tourist venues. Being close to sea, sand and sports facilities visitors can experience a continuum of activities from highly active to quietly passive.;  Main Address:; George Brown Darwin Botanic Gardens; PO Box 1448, Darwin, NT, 0801; Darwin; NT 0801 Australia; ;  Telephone: 61 (0)8 99944493; Fax: 61 (0)8 8981 1647; URL: <a target="_blank" href="https://nt.gov.au/leisure/parks-reserves/george-brown-darwin-botanic-gardens">https://nt.gov.au/leisure/parks-reserves/george-brown-darwin-botanic-gardens; Primary Email: ; 
+Plant Records Officer's Name:	Paul Munns
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1801 mm
+Date founded:	1886
+Institution Type:	Botanic Garden
+Latitude:	-12.4465143
+Longitude:	130.8349462
+Total Area:	42 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes
+Seed Bank:	Yes
+Invasive Species Monitoring:	Yes
+Special Collections:	30 % of collection if Australian flora. Arecaceae, Orchidaceae, economic plants, bromeliads, Ficus, Terminalia.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Education Signs in Garden:	Yes
+Permanent Public Displays:	Yes
+Visitor/Education Centre:	Yes

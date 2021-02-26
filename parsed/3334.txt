@@ -1,0 +1,59 @@
+ID:	3334
+Name:	Forestry Research Institute of Nigeria (FRIN) - Herbal Garden 
+Fax:	
+Info:	  Nigeria - Oyo State - Ibadan  ;Garden Information;  Institution Code: FIBN; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	lawal.io@frin.gov.ng
+Telephone:	
+Administration Staff Number:	2
+Curator's Name:	Omolola Ajayi
+Director's Name:	Dr. Lawal Ibraheem
+Educational Staff Number:	6
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	Adeniyi Stella
+Research Staff Number:	10
+Altitude:	0.00 Metres
+Annual Rainfall:	1500 mm
+Date founded:	2008
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	7.3917
+Local Address:	Forestry Research Institute of Nigeria, Jericho hill, Ibadan
+Locality:	Information
+Longitude:	3.8923
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Herbal Garden
+Total Area:	2 Hectares
+Total area of shadehouses:	200 Metres
+Arboretum:	Yes
+Arboretum Size:	100
+Computer Plant Record System:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	50
+Cultivation Taxa Num:	250
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Medicinal plants. Trees, shrubs and hebaceous perennials.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Horticulture:	Yes
+Pharmacology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Special Exhibitions:	Yes

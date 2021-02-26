@@ -1,0 +1,42 @@
+ID:	5076
+Name:	Conservatoire et Jardin botaniques de la Ville de Genève - Seed Bank 
+Administration Staff Number:	1
+Curator's Name:	LAMBELET Catherine
+Director's Name:	LOIZEAU Pierre-André
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  Switzerland - Chambésy-Genève  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; About the Conservatoire et Jardin botaniques de la Ville de Genève - Seed Bank See informations on Garden: Conservatoire et Jardin botaniques de la Ville de Genève;  Main Address:; Conservatoire et Jardin botaniques de la Ville de Genève - Seed Bank; Ch. de l'Impératrice 1 / Case postale 60; Chambésy-Genève; 1292 Switzerland; ;  Telephone: 41 (0)22 418 51 00; Fax: 41 (0)22 418 51 01; URL: <a target="_blank" href="http://www.cjb-geneve.ch">www.cjb-geneve.ch; Primary Email: raoul.palese@ville-ge.ch ; 
+Plant Records Officer's Name:	MOMBRIAL Florian
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Gene/Seed Bank
+Latitude:	46.2265
+Longitude:	6.1455
+Seed Bank:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	No
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	Yes

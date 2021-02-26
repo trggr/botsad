@@ -1,0 +1,25 @@
+ID:	4236
+Name:	Daniel Stowe Botanical Garden 
+Administration Staff Number:	
+Curator's Name:	Duane Clerc , Garden Curator
+Director's Name:	Patrick Larkin, Executive Director
+Educational Staff Number:	3
+Horticultural Staff Number:	5
+Info:	  United States of America - North Carolina - Belmont  ;Garden Information;  Institution Code: DASBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Daniel Stowe Botanical Garden; 6500 S. New Hope Road; Belmont; North Carolina 28120 United States of America; ;  Telephone: 704-825-4490; Fax: 704) 829-1240; URL: <a target="_blank" href="http://www.dsbg.org">www.dsbg.org; Primary Email: info@dsbg.org ; 
+Plant Records Officer's Name:	Hank Bruno , Director of Horticulture
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1991
+Institution Type:	Botanic Garden
+Latitude:	35.1676600
+Longitude:	-81.0568660
+Total Area:	182 Hectares
+Total area of glasshouses:	734 Metres
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

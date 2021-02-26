@@ -1,0 +1,55 @@
+ID:	674
+Name:	Mildred E. Mathias Botanical Garden 
+Administration Staff Number:	2
+Curator's Name:	Evan Meyer, Assistant Director
+Director's Name:	Dr. Victoria Sork, Professor and Dean of Life Sciences and Garden Director
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  United States of America - California - Los Angeles  ;Garden Information;  Institution Code: LA; International Agenda Registration: No; BGCI Member: Yes; About the Mildred E. Mathias Botanical Garden Located on the beautiful campus of the University of California, Los Angeles (UCLA), this garden maintains a highly significant living botanical collections, with plant specimens from all over the world. Our seven-acre garden is frost-free and therefore includes many species of tropical and subtropical plants. Approximately 5000 species in 225 families are growing here outdoors.;  Main Address:; Mildred E. Mathias Botanical Garden; Department of Ecology and Evolutionary Biology, Box 951606; University of California, Los Angeles; Los Angeles; California 90024 United States of America; ;  Telephone: (310) 825-1260; Fax: ; URL: <a target="_blank" href="https://www.botgard.ucla.edu/">https://www.botgard.ucla.edu/; Primary Email: evanpmeyer@ucla.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	100.00 Metres
+Annual Rainfall:	375 mm
+Date founded:	1929
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.0655100
+Locality:	Information
+Longitude:	-118.4412000
+Natural Vegetation Area:	No
+Satellite Garden Names:	N/A
+Total Area:	3 Hectares
+Total area of shadehouses:	100 Metres
+Arboretum:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	10000
+Number of Volunteers:	35
+Open to public:	Yes
+ABS Policy:	Yes
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	UNDER DEVELOPMENT.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Floristics:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

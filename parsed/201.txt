@@ -1,0 +1,80 @@
+ID:	201
+Name:	New York Botanical Garden, The 
+-" src="https:	//www.bgci.org/files/ERABG/project_images/New%20York%20Botanical%20Garden/6_website.jpg" alt="" width="500" height="750" />
+-"><a href="http:	//link.springer.com/article/10.1007/s12228-016-9417-5">Learn more about the Historic and Extant Spontaneous Flora of NYBG
+-"><img style="display:	block
+-<a href="mailto:	jarcate@nybg.org">Jessica Arcate Schuler for more information about this project.
+-<img style="display:	block
+-<p style="text-align:	center
+-has changed considerably since 1895. The hemlocks that once dominated the canopy began to decline early in the 20th century and have been nearly decimated in the last 30 years by two invasive insects:	hemlock woolly adelgid and elongate hemlock scale. Human-caused disturbances including soil compaction, over-collection of native plants, pollution, introduction of invasive species, fragmentation, loss of top predators, and climate change threaten the remaining native plant communities and habitats. Previous stewards, respectful of natural processes that created the Forest and informed by ecological theories of their times, preferred a &ldquo
+-margin-left:	auto
+-margin-right:	auto
+Fax:	(718) 220-6504
+Info:	  United States of America - New York - Bronx  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: NY; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	
+Telephone:	(718) 817-8700
+Curator's Name:	Todd Forrest, Arthur Ross Vice President for Horticulture and Living Collections
+Director's Name:	J. V. Cossaboom, Interim President and Chief Executive Officer, Office of the Director
+Plant Records Officer's Name:	Kristine Paulus, Living Collections Information Manager
+Altitude:	0.00 Metres
+Annual Rainfall:	89 mm
+Date founded:	1891
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.8667875
+Longitude:	-73.8832653
+Natural Vegetation Area:	Yes
+Total Area:	101 Hectares
+Total area of glasshouses:	12140 Metres
+Total area of shadehouses:	4046 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	800000
+Number of Volunteers:	1484
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	21975
+Cultivation Taxa Num:	14418
+Invasive Species Monitoring:	Yes
+Special Collections:	Acer (119 taxa) - NAPCC Collection
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

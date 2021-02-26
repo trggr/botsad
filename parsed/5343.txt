@@ -1,0 +1,30 @@
+ID:	5343
+Name:	Almere Jungle 
+Administration Staff Number:	2
+Curator's Name:	Youri Witmer
+Director's Name:	Robert Loose
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Info:	  Netherlands - Flevoland - Almere  ;Garden Information;  Institution Code: ALJUN; International Agenda Registration: No; BGCI Member: Yes; About the Almere Jungle Almere Jungle is a young ambitious garden which has the largest part of its collection inside a greenhouse. The garden contains a documented plant collection of which the main collection includes Digitalis, Buddleja, Three ferns (Cyathea, Dicksonia) and Macaronesian flora. Besides being a botanical garden, Almere Jungle became a licensed zoo in 2016.;  Main Address:; Almere Jungle; Kemphaanpad 2; Almere; Flevoland 1328 AC Netherlands; ;  Telephone: +31 (0)36 530 9930; Fax: ; URL: <a target="_blank" href="https://almerejungle.nl/botanische-tuin/">https://almerejungle.nl/botanische-tuin/; Primary Email: info@almerejungle.nl ; 
+Plant Records Officer's Name:	Youri Witmer
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1996
+Institution Type:	Botanic Garden
+Latitude:	52.33422211
+Longitude:	5.2670207
+Total Area:	1 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Herbarium:	No
+Number of Visitors:	80000
+Number of Volunteers:	5
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	The garden contains a documented plant collection of which the main collection includes Digitalis, Buddleja, Three ferns (Cyathea, Dicksonia) and Macaronesian flora.
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes

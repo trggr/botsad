@@ -1,0 +1,41 @@
+ID:	140
+Name:	Musee et Jardins Botaniques Cantonaux 
+Fax:	++41 21 616 46 65
+Info:	  Switzerland - Switzerland - Lausanne  ;Garden Information;  Institution Code: LAU; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	info.botanique@vd.ch
+Telephone:	++41 21 316 99 88
+Administration Staff Number:	1
+Curator's Name:	J.-L.Moret
+Director's Name:	Dr.F. Felber
+Educational Staff Number:	
+Horticultural Staff Number:	7
+Plant Records Officer's Name:	S. Cottet
+Research Staff Number:	3
+Altitude:	420.00 Metres
+Annual Rainfall:	1116 mm
+Date founded:	1946
+Institution Type:	Botanic Garden
+Latitude:	46.5000
+Local Address:	Montriond - Place de Milan
+Locality:	Information
+Longitude:	6.6166
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Jardin alpin "La Thomasia" Pont de Nant
+Total Area:	2 Hectares
+Total area of glasshouses:	103 Metres
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Cultivation Taxa Num:	8000
+Special Collections:	Alpines, medicinal plants, succulent plants, carnivorous plants, orchids, aquatic plants, arboretum.
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecosystem Conservation:	Yes
+Floristics:	Yes
+Systematics and Taxonomy:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

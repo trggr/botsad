@@ -1,0 +1,15 @@
+ID:	627
+Name:	York Museum Gardens 
+Curator's Name:	P.A.Hemsley
+Director's Name:	Director
+Info:	  United Kingdom - York  ;Garden Information;  Institution Code: YRK; International Agenda Registration: No; BGCI Member: No; About the York Museum Gardens TAXA (870 accessions, 4500 plants);  Main Address:; York Museum Gardens; Yorkshire Museum, YORK, Yorkshire; York; YO1 7FR United Kingdom; ;  Telephone: 01904 687687; Fax: ; URL: <a target="_blank" href="http://www.yorkshiremuseum.org.uk/page/gardens.aspx">http://www.yorkshiremuseum.org.uk/page/gardens.aspx; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1827
+Institution Type:	Other
+Latitude:	53.961795
+Longitude:	-1.08745
+Total Area:	4 Hectares
+Number of Visitors:	500000
+Cultivation Taxa Num:	43000
+Special Collections:	Acer, Aesculus, Acuba, Fagus, Fraxinus, Ilex, Narcissus, Rosa, Pyrus, Taxus, Tilia.

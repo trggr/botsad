@@ -1,0 +1,10 @@
+ID:	3530
+Name:	Jardín Botánico “Nuestra Señora del Huerto” 
+Curator's Name:	Ing. Agr. Mónica Gauna
+Director's Name:	Ing. Agr.José Gauna
+Info:	  Argentina - Corrientes - Corrientes  ;Garden Information;  Institution Code: CORR; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico “Nuestra Señora del Huerto”; Av. Frondizi 3500; Fundación "Dr. Hugo Gauna", San Martin 1335; Corrientes; Corrientes 3400 Argentina; ;  Telephone: 54 (0) 3783-452804; Fax: 54 (0) 3783-424914; URL: <a target="_blank" href="http://">; Primary Email: jardinbotanicoctes@gmail.com ; 
+Plant Records Officer's Name:	Ing. Agr. Carolina Peichoto
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-27.46992
+Longitude:	-58.83549

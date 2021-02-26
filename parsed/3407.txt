@@ -1,0 +1,44 @@
+ID:	3407
+Name:	Arboretum Provinciaal Domein Het Leen 
+Fax:	
+Info:	  Belgium - Eeklo  ;Garden Information;  Institution Code: EEKLO; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	het.leen@oost-vlaanderen.be
+Telephone:	+ 32 9 3767474
+Administration Staff Number:	1
+Curator's Name:	Jean-Paul Van Parys
+Director's Name:	Alain Van Ghyseghem
+Educational Staff Number:	
+Horticultural Staff Number:	6
+Plant Records Officer's Name:	Jean-Paul Van Parys
+Research Staff Number:	
+Altitude:	6.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	1980
+Institution Type:	Botanic Garden
+Latitude:	51.1666
+Local Address:	Gentsesteenweg 80
+Locality:	Information
+Longitude:	3.5666
+Total Area:	6 Hectares
+Total area of glasshouses:	160 Metres
+Total area of shadehouses:	750 Metres
+Arboretum:	Yes
+Arboretum Size:	6
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Number of Visitors:	1500
+Number of Volunteers:	13
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	8000
+Cultivation Taxa Num:	6800
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Rhododendron yakushimanum and cultivars, Ericaceae, Camellia, Magnolia, Pinus, Liquidambar, Viburnum, Geranium
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

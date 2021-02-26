@@ -1,0 +1,39 @@
+ID:	2525
+Name:	Cleveland Botanical Garden 
+Fax:	(216) 721-2056
+Info:	  United States of America - Ohio - Cleveland  ;Garden Information;  Institution Code: CLEV; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	info@cbgarden.org
+Telephone:	(216) 721-1600
+Administration Staff Number:	6
+Curator's Name:	Roger Gettig, Director of Horticulture and Conservation
+Director's Name:	Clement Hamilton, President and CEO
+Educational Staff Number:	8
+Horticultural Staff Number:	11
+Plant Records Officer's Name:	Mark Bir, Glasshouse Manager
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1930
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.5104730
+Longitude:	-81.6101790
+Total Area:	4 Hectares
+Total area of glasshouses:	5486 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+Special Collections:	Central American (Costa Rican) tropical biome under glass, comprised of woody and herbaceous species, including orchids and epiphytes.
+Reintroduction Programme:	No
+Urban Environments:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

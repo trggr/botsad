@@ -1,0 +1,14 @@
+ID:	4940
+Name:	Domaine Joly-De Lotbinière 
+Curator's Name:	
+Director's Name:	Jean Bergeron, Foundation President
+Info:	  Canada - Quebec - Sainte-Croix  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Domaine Joly-De Lotbinière; 7015, route de Pointe Platon, C.P. 1000; Sainte-Croix; Quebec G0S 2H0 Canada; ;  Telephone: (418) 926-2462; Fax: (418) 926-2525; URL: <a target="_blank" href="http://www.domainejoly.com/fr/accueil/">http://www.domainejoly.com/fr/accueil/; Primary Email: info@domainejoly.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	46.669539
+Longitude:	-71.85051
+Total Area:	138 Hectares
+Arboretum:	Yes
+Open to public:	Yes
+Cultivation Taxa Num:	2300

@@ -1,0 +1,25 @@
+ID:	800
+Name:	Botanischer Garten der Universitat Osnabruck 
+Administration Staff Number:	2
+Curator's Name:	PD Dr. Nikolai Friesen, Curator
+Director's Name:	Prof. Dr. Sabine Zachgo, Director
+Educational Staff Number:	1
+Horticultural Staff Number:	15
+Info:	  Germany - Deutschland - Osnabrueck  ;Garden Information;  Institution Code: OSN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Universitat Osnabruck; Albrecht Strasse 29; Osnabrueck; D-43076 Germany - Deutschland; ;  Telephone: +49 541 969 2739; Fax: 49 (0)541 969 2724; URL: <a target="_blank" href="http://www.bogos.uni-osnabrueck.de">www.bogos.uni-osnabrueck.de; Primary Email: friesen@biologie.uni-osnabrueck.de ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1984
+Institution Type:	Botanic Garden
+Latitude:	52.2672
+Longitude:	8.0531
+Total area of glasshouses:	600 Metres
+Friends society:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	8000
+Special Collections:	Brassicaceae, Salicaceae. Maintains a seed bank with long-term storage capacity, containing 14,000 accessions representing 1,750 species (1994 figures).
+Conservation Programme:	Yes
+Courses for General Public:	Yes
+Courses for University/College Students:	Yes
+Education Programme:	Yes

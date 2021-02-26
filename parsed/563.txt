@@ -1,0 +1,19 @@
+ID:	563
+Name:	Jardim Botânico da Universidade de Coimbra 
+Fax:	
+Info:	  Portugal - Coimbra  ;Garden Information;  Institution Code: COI; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jardim.botanico@uc.pt
+Telephone:	+351 239 855215
+Curator's Name:	
+Director's Name:	António Carmo Gouveia
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1772
+Institution Type:	Botanic Garden
+Latitude:	40.2145
+Longitude:	-8.4402
+Arboretum:	Yes
+Arboretum Size:	9
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes

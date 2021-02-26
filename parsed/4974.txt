@@ -1,0 +1,10 @@
+ID:	4974
+Name:	St. Mary's Arboretum 
+Curator's Name:	
+Director's Name:	-
+Info:	  United States of America - Maryland - St. Mary's City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; St. Mary's Arboretum; 18952 E Fisher Rd; St. Mary's City; Maryland 20686 United States of America; ;  Telephone: 240-895-4412; Fax: 240-895-4409; URL: <a target="_blank" href="http://www.smcm.edu/arboretum/">http://www.smcm.edu/arboretum/; Primary Email: SMArboretum@smcm.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	38.18749
+Longitude:	-76.42532
+Reintroduction Programme:	Yes

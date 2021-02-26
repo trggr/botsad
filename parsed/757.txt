@@ -1,0 +1,35 @@
+ID:	757
+Name:	Adam Mickiewicz University Botanical Garden in Poznań 
+Fax:	+4861829-2008
+Info:	  Poland - wielkopolskie - Poznań  ;Garden Information;  Institution Code: POZ; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	botanik@amu.edu.pl
+Telephone:	+4861829-2013
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Prof. dr hab. Justyna Wiland-Szymańska
+Educational Staff Number:	3
+Horticultural Staff Number:	65
+Plant Records Officer's Name:	
+Research Staff Number:	10
+Altitude:	0.00 Metres
+Date founded:	1925
+Institution Type:	Botanic Garden
+Latitude:	52.4063
+Local Address:	60-594 Poznań, ul. Dąbrowskiego 165
+Locality:	Information
+Longitude:	16.9251
+Total Area:	80 Hectares
+Total area of glasshouses:	800 Metres
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	85000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	7060
+Special Collections:	Trees and shrubs from selected climatic world zones, plants in systematic approach, succulents, tropical plants, mountain plants, plant species threatened with extinction, decorative perennial plants, national collection of cotoneasters (genus Cotoneaster Medik.)
+Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Education:	Yes

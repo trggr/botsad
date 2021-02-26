@@ -1,0 +1,9 @@
+ID:	4698
+Name:	Highlands Botanical Garden 
+Curator's Name:	Max Lanning, Botanical Garden Supervisor
+Director's Name:	Dr. James T. Costa, Executive Director
+Info:	  United States of America - North Carolina - Highlands  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Highlands Botanical Garden; 930 Horse Cove Road; Mailing: P.O. Box 580; Highlands; North Carolina 28741 United States of America; ;  Telephone: (828) 526-2602; Fax: ; URL: <a target="_blank" href="http://www.wcu.edu/hbs">www.wcu.edu/hbs; Primary Email: hbs@email.wcu.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	35.0522319
+Longitude:	-83.1882554

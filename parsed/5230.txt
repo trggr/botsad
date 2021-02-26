@@ -1,0 +1,59 @@
+ID:	5230
+Name:	Barrocal Botanic Garden MGAP 
+Fax:	
+Info:	  Portugal - Algarve - Silves  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	mgaptreasurer@gmail.com
+Telephone:	+351 289 791 869
+Curator's Name:	Maryrose Peddle FLS
+Director's Name:	Marilyn Medina Ribeiro
+Plant Records Officer's Name:	Maryrose Peddle FLS
+Altitude:	90.00 Metres
+Annual Rainfall:	600 mm
+Date founded:	2016
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	37.1867596
+Local Address:	Quinta da Figueirinha www.qdf.pt
+Locality:	Information
+Longitude:	-8.4073193
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	250
+Number of Volunteers:	30
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Following surveys of the large variety of existing spontaneous plants, shrubs and trees in the botanic garden we are enriching it with specimens which are found in the Barrocal but which are not presently represented in the garden. Our policy is to use only those plants native or naturalised in the Barrocal region.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

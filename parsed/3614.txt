@@ -1,0 +1,53 @@
+ID:	3614
+Name:	Siit Arboretum Botanical Garden 
+Fax:	
+Info:	  Philippines - Negros Oriental - Dumaguete  ;Garden Information;  Institution Code: SIIT; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	siitarboretum@yahoo.com
+Telephone:	63(0)35 4262050
+Administration Staff Number:	1
+Curator's Name:	Eric Hanquinet
+Director's Name:	Pol Carino
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Eric Hanquinet
+Research Staff Number:	
+Altitude:	25.00 Metres
+Annual Rainfall:	900 mm
+Date founded:	1999
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	9.3007
+Local Address:	Lutoban - Zamboanguita,
+Locality:	Information
+Longitude:	123.3122
+Natural Vegetation Area:	Yes
+Total Area:	11 Hectares
+Arboretum:	Yes
+Arboretum Size:	10
+Computer Plant Record System:	Yes
+Disabled access:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	650
+Cultivation Taxa Num:	50
+Invasive Species Monitoring:	Yes
+Special Collections:	African savannah
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Sustainability:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	No

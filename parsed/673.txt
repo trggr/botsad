@@ -1,0 +1,64 @@
+ID:	673
+Name:	Morton Arboretum, The 
+Administration Staff Number:	135
+Curator's Name:	Matt Lobdell, Head of Collections and Curator
+Director's Name:	Gerard T Donnelly PhD, President and CEO
+Educational Staff Number:	35
+Horticultural Staff Number:	45
+Info:	  United States of America - Illinois - Lisle  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: MOR; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Morton Arboretum, The The mission of The Morton Arboretum is to collect and study trees, shrubs, and other plants from around the world, to display them across naturally beautiful landscapes for people to study and enjoy, and to learn how to grow them in ways that enhance our environment. Our goal is to encourage the planting and conservation of trees and other plants for a greener, healthier, and more beautiful world.;  Main Address:; Morton Arboretum, The; 4100 Illinois Route 53; Lisle; Illinois 60532-1293 United States of America; ;  Telephone: (630) 968-0074; Fax: (630) 719-2434; URL: <a target="_blank" href="http://www.mortonarb.org">www.mortonarb.org; Primary Email: trees@mortonarb.org ; 
+Plant Records Officer's Name:	Ed Hedborn, Manager of Plant Records
+Research Staff Number:	30
+Altitude:	201.00 Metres
+Annual Rainfall:	902 mm
+Date founded:	1922
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.8078175
+Longitude:	-88.0761409
+Natural Vegetation Area:	Yes
+Total Area:	690 Hectares
+Arboretum:	Yes
+Arboretum Size:	690
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	1056000
+Number of Volunteers:	1300
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	9045
+Cultivation Taxa Num:	4114
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Temperate trees and shrubs, elms (especially Asiatic species), North American species of Malus, crabapples, oaks, maples, northern Illinois taxa, Pinaceae & Cupressaceae, wild collected taxa from China, United States (Midwest, Ozarks and Appalachians), Europe and Caucasus. Schulenberg Prairie and Savannah, and Rare and Endangered Plant Collections
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	Yes
+Restoration Ecology:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes
+" src="https:	//www.bgci.org/files/ERABG/project_images/The%20Morton%20Arboretum/Schulenberg_website.png" alt="" width="500" height="332" />
+"><img style="display:	block
+<p style="text-align:	center
+margin-left:	auto
+margin-right:	auto

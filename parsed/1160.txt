@@ -1,0 +1,15 @@
+ID:	1160
+Name:	Nebraska Statewide Arboretum 
+Curator's Name:	Justin Evertson
+Director's Name:	Christina Hoyt, Executive Director
+Info:	  United States of America - Nebraska - Lincoln  ;Garden Information;  Institution Code: NEB; International Agenda Registration: No; BGCI Member: No; About the Nebraska Statewide Arboretum Our mission is to "enrich lives through the beauty and wonder of plants." ; ; An arboretum is a living museum where a collection of trees and other plants is assembled and maintained for education, research and enjoyment. Rather than bound to a single place, the Nebraska Statewide Arboretum is a remarkable network of arboretum sites, parks, historic properties and other public landscapes located in dozens of communities across the state. ; ; Linked together and supported by the Arboretum office at the University of Nebraska-Lincoln, this unique statewide network makes the Arboretum accessible and relevant to citizens across Nebraska.;  Main Address:; Nebraska Statewide Arboretum; University of Nebraska, 206 Biochemistry Hall; P.O. Box 830715; Lincoln; Nebraska 68583-0715 United States of America; ;  Telephone: (402) 472-2979; Fax: (402) 472-8095; URL: <a target="_blank" href="http://www.arboretum.unl.edu">www.arboretum.unl.edu; Primary Email: jevertson1@unl.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1969
+Institution Type:	Botanic Garden
+Latitude:	40.8349230
+Longitude:	-96.6642330
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Open to public:	Yes

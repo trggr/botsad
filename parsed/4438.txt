@@ -1,0 +1,26 @@
+ID:	4438
+Name:	Missouri State Arboretum 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Patrick Ward, Arboretum Director
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  United States of America - Missouri - Maryville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Missouri State Arboretum Designated as the Missouri Arboretum, the Northwest Missouri State University campus is a place where people can learn about trees and appreciate their natural beauty. The campus is home to more than 1,700 trees and more than 150 species that have grown and matured during the University’s long history of tree preservation. ; As an ArbNet Level II Arboretum and Tree Campus USA member, the Missouri Arboretum maintains plants and trees which are representative of but not necessarily restricted to the flora and plant communities of Missouri. The arboretum is open to the public for educational programming and is dedicated to the development and preservation of woody plants.;  Main Address:; Missouri State Arboretum; Northwest Missouri State University; 800 University Drive; Maryville; Missouri 64468 United States of America; ;  Telephone: (660) 562-1437; Fax: ; URL: <a target="_blank" href="http://www.nwmissouri.edu/arboretum">www.nwmissouri.edu/arboretum; Primary Email: moarbor@nwmissouri.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1993
+Institution Type:	Botanic Garden
+Latitude:	40.3524320
+Longitude:	-94.8820250
+Natural Vegetation Area:	Yes
+Total Area:	97 Hectares
+Arboretum:	Yes
+Arboretum Size:	154
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No

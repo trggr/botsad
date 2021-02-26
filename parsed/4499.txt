@@ -1,0 +1,10 @@
+ID:	4499
+Name:	Houston Zoo 
+Curator's Name:	Joe Williams, Horticulture Manager
+Director's Name:	Unknown
+Info:	  United States of America - Texas - Houston  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Houston Zoo; 1513 Cambrdige Street; Houston; Texas 77030 United States of America; ;  Telephone: (713) 533-6500; Fax: (713) 533-6762; URL: <a target="_blank" href="http://www.houstonzoo.org">www.houstonzoo.org; Primary Email: jwilliams@houstonzoo.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	29.7144200
+Longitude:	-95.3941810

@@ -1,0 +1,20 @@
+ID:	658
+Name:	Fort Worth Botanic Garden 
+Curator's Name:	Steve Huddleston, Senior Horticulturist
+Director's Name:	Bob Byers, Director
+Info:	  United States of America - Texas - Fort Worth  ;Garden Information;  Institution Code: FORTW; International Agenda Registration: No; BGCI Member: No; About the Fort Worth Botanic Garden The Fort Worth Botanic Garden, the oldest botanic garden in Texas, is a lush 109-acre tapestry of dappled shade and vibrant splashes of color. A peaceful haven nestled in the heart of Fort Worth's Cultural District, the Garden is home to over 2,500 species of native and exotic plants that flourish in its 23 specialty gardens.; ; Mission Statement:; Engage, inform and inspire with plants, landscapes and nature.;  Main Address:; Fort Worth Botanic Garden; 3220 Botanic Garden Boulevard; Fort Worth; Texas 76107 United States of America; ;  Telephone: (817) 392-5510; Fax: (817) 392-5539; URL: <a target="_blank" href="http://www.fwbg.org">www.fwbg.org; Primary Email: BotanicGardenInfo@FortWorthTexas.gov ; 
+Plant Records Officer's Name:	Darcy Gustafson
+Altitude:	0.00 Metres
+Date founded:	1933
+Institution Type:	Botanic Garden
+Latitude:	32.7404540
+Longitude:	-97.3626430
+Total Area:	44 Hectares
+Total area of glasshouses:	929 Metres
+Friends society:	Yes
+Open to public:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Begonias, orchids, plants of North Central Texas
+Education Signs in Garden:	Yes
+Visitor/Education Centre:	Yes

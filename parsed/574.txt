@@ -1,0 +1,35 @@
+ID:	574
+Name:	Gradina Botanica "Alexandru Borza" a Universitatii din Cluj-Napoca 
+Administration Staff Number:	2
+Curator's Name:	Alexandra SUTEU
+Director's Name:	Dr Mihai PUSCAS
+Educational Staff Number:	2
+Horticultural Staff Number:	4
+Info:	  Romania - Cluj - Cluj-Napoca  ;Garden Information;  Institution Code: CL; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Gradina Botanica "Alexandru Borza" a Universitatii din Cluj-Napoca; 42, Republicii str.; Cluj-Napoca; Cluj 400015 Romania; ;  Telephone: +(40) 264 592 152; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: gradina.botanica@ubbcluj.ro ; 
+Plant Records Officer's Name:	
+Research Staff Number:	5
+Altitude:	415.00 Metres
+Date founded:	1920
+Institution Type:	Botanic Garden
+Latitude:	46.7858
+Local Address:	strada Republicii, nr. 42, Cluj-Napoca, ROMANIA
+Locality:	Information
+Longitude:	23.6869
+Total Area:	14 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	Temperate trees such as Sequoidendron giganteum, Ginkgo biloba, Magnolia obovata and Syringa josikaea. Palmae, Cactaceae and other succulents, Orchidaceae (such as Cypripedium calceolus), Rosaceae, Bromeliaceae, Dahlia, Tulipa, Crocus, Iris, insectivorous
+Conservation Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Floristics:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	No

@@ -1,0 +1,76 @@
+ID:	4163
+Name:	Śląski Ogród Botaniczny w Mikołowie (Silesian Botanical Garden in Mikolow) 
+Fax:	
+Info:	  Poland - śląskie - Mikołów  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	sibg@sibg.org.pl
+Telephone:	0048 327797602
+an institution which would attempt not only to protect nature, but to be a meeting place and an environment suitable for exchanging ideas on all subjects:	culture, philosophy, social issues… Finally, the idea was to create a friendly and open space for everyone who simply needs rest and a break from the fast-paced city life.
+Administration Staff Number:	8
+Curator's Name:	
+Director's Name:	Paweł Kojs PhD
+Educational Staff Number:	5
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	4
+Altitude:	0.00 Metres
+Annual Rainfall:	152 mm
+Date founded:	2006
+Institution Type:	Botanic Garden
+Latitude:	50.1758
+Local Address:	
+Locality:	Information
+Longitude:	18.8447
+Satellite Garden Names:	Silesian Botanical Garden in Radzionków
+Total Area:	117 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	55000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Cultivation Taxa Num:	700
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

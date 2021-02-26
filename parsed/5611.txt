@@ -1,0 +1,9 @@
+ID:	5611
+Name:	Jardín Botánico Milpe 
+Curator's Name:	
+Director's Name:	Rafael Romero
+Info:	  Ecuador - Pichincha - San Miguel de los Bancos  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Milpe; Recinto San Pablo de Milpe, vía a San Miguel de los Bancos,; Km 91 vía Calacalí-Río Blanco; San Miguel de los Bancos; Pichincha Ecuador; ;  Telephone: 593 0993018318; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: orquideologo@hotmail.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	0.028727
+Longitude:	-78.8631

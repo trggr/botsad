@@ -1,0 +1,52 @@
+ID:	4996
+Name:	Innisfree Farm and Botanic Garden 
+Administration Staff Number:	2
+Curator's Name:	Chanchal Cabrera
+Director's Name:	Chanchal Cabrera, Garden Director
+Educational Staff Number:	2
+Horticultural Staff Number:	3
+Info:	  Canada - British Columbia - Courtenay  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Innisfree Farm and Botanic Garden The Botanic Garden is run by a medical herbalist and a retired soil scientist, using probiotic techniques of building healthy soil microbiota to grow medicinal herbs for a herbal medicine clinic, as well as vegetables, fruits and nuts for sale at our seasonal farm shop. ; ; We have over 250 medicinal plants arranged in display gardens by uses - herbs for the heart, the lungs, the kidneys and so on. The gardens also feature a wheel chair accessible labyrinth, a pond, a sculpture garden and an extensive raised bed vegetable garden.;  Main Address:; Innisfree Farm and Botanic Garden; Innisfree Farm; 3636 Trent Road; Courtenay; British Columbia V9N 9R4 Canada; ;  Telephone: 250 336-8768; Fax: ; URL: <a target="_blank" href="https://www.innisfreefarm.ca/">https://www.innisfreefarm.ca/; Primary Email: chanchal@chanchalcabrera.com ; 
+Plant Records Officer's Name:	Chanchal Cabrera
+Research Staff Number:	2
+Altitude:	50.00 Metres
+Annual Rainfall:	1150 mm
+Date founded:	2013
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	49.6458
+Longitude:	124.9464
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Number of Visitors:	500
+Number of Volunteers:	10
+Open to public:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	250
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Special Collections:	building data base now
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Agriculture:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Land Restoration:	Yes
+Sustainability:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

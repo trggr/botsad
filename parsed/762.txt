@@ -1,0 +1,20 @@
+ID:	762
+Name:	Çukurova University Ali Nihat Gökyi?it Botanical Garden 
+Curator's Name:	Prof. Dr. Halil ÇAKAN
+Director's Name:	Prof. Dr. Halil ÇAKAN
+Info:	  Turkey - Adana  ;Garden Information;  Institution Code: ADANA; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Çukurova University Ali Nihat Gökyi?it Botanical Garden; Çukurova Üniversitesi Kampüsü; Sarıçam; Adana; 01330 Turkey; ;  Telephone: (322) 338 60 84 / 2037; Fax: ; URL: <a target="_blank" href="http://botanik.cu.edu.tr">http://botanik.cu.edu.tr; Primary Email: botanikbahcesi@cu.edu.tr ; 
+Plant Records Officer's Name:	Uzm. Salih KAVAK
+Altitude:	0.00 Metres
+Date founded:	1972
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	37.02
+Local Address:	Çukurova Üniversitesi Kampüsü 01330
+Locality:	Information
+Longitude:	35.21
+Natural Vegetation Area:	Yes
+Total Area:	20 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes

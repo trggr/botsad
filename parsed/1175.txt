@@ -1,0 +1,24 @@
+ID:	1175
+Name:	Chihuahuan Desert Nature Center & Botanical Gardens 
+Administration Staff Number:	2
+Curator's Name:	Leslie Spicer, Gardener
+Director's Name:	Rick Herrman, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  United States of America - Texas - Fort Davis  ;Garden Information;  Institution Code: CHIHU; International Agenda Registration: No; BGCI Member: No; About the Chihuahuan Desert Nature Center & Botanical Gardens The mission of the Chihuahuan Desert Research Institute is to promote public awareness, appreciation, and concern for the natural diversity of the Chihuahuan Desert region through research and education. To achieve this mission, the Institute provides environmental education to the community, encourages biodiversity conservation, and promotes and demonstrates sustainable development in the desert.;  Main Address:; Chihuahuan Desert Nature Center & Botanical Gardens; Chihuahuan Desert Research Institute, 43869 SH 118; P.O. Box 905; Fort Davis; Texas 79734 United States of America; ;  Telephone: (432) 364-2499; Fax: (432) 364-2686; URL: <a target="_blank" href="http://www.cdri.org">www.cdri.org; Primary Email: cdncphoto@gmail.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1974
+Institution Type:	Botanic Garden
+Latitude:	30.6060220
+Longitude:	-103.9779839
+Total Area:	205 Hectares
+Disabled access:	Yes
+Number of Visitors:	12000
+Number of Volunteers:	145
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Cacti
+Visitor/Education Centre:	Yes

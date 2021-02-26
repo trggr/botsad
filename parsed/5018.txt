@@ -1,0 +1,21 @@
+ID:	5018
+Name:	Park and Botanic Garden Coronel 
+Administration Staff Number:	
+Curator's Name:	Inelia Escobar Jara
+Director's Name:	-
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  Chile - Concepcion  ;Garden Information;  Institution Code: BGC; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Park and Botanic Garden Coronel; Sociedad Agricola del Sur; Casilla 2141; Concepcion; Chile; ;  Telephone: +56-041-2914224; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: parqueyjardinbotanicocoronel@gmail.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	18.00 Metres
+Annual Rainfall:	850 mm
+Institution Type:	Botanic Garden
+Latitude:	-36.8446753
+Local Address:	Yobilo s/n, Coronel, Bio Bio
+Locality:	Information
+Longitude:	-73.006042
+Total Area:	50 Hectares
+Arboretum:	Yes
+Arboretum Size:	25
+Open to public:	No

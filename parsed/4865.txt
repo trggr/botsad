@@ -1,0 +1,69 @@
+ID:	4865
+Name:	Alpengarten Patscherkofel und Botanischer Garten Innsbruck 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Peter Daniel Schlorhaufer, Head of the Alpine Garden
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Austria - Tirol - Innsbruck  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Alpengarten Patscherkofel und Botanischer Garten Innsbruck; Sternwartestrasse 15; Innsbruck; Tirol A-6020 Austria; ;  Telephone: 0512/507-5910; Fax: 0512/507-96952; URL: <a target="_blank" href="http://www.uibk.ac.at/bot-garden/alpen/eindex.html">http://www.uibk.ac.at/bot-garden/alpen/eindex.html; Primary Email: Peter.Schlorhaufer@uibk.ac.at ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	2000.00 Metres
+Date founded:	1930
+Institution Type:	Botanic Garden
+Latitude:	47.26758
+Longitude:	11.38074
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	5000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	500
+Cultivation Taxa Num:	500
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Conservation Programme:	No
+Medicinal Plant Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

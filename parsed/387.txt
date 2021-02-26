@@ -1,0 +1,11 @@
+ID:	387
+Name:	Jardin Botanique Faculte de Medecine et Pharmacie 
+Curator's Name:	
+Director's Name:	
+Info:	  France - Lyon  ;Garden Information;  Institution Code: LYMED; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique Faculte de Medecine et Pharmacie; 8 avenue Rockefeller, LYON, Rhone, France.; Lyon; France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	45.7672
+Longitude:	4.8343
+Special Collections:	Pharmaceutical plants

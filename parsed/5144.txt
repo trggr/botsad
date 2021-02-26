@@ -1,0 +1,19 @@
+ID:	5144
+Name:	Jardín Botánico de San Quintín 
+Curator's Name:	Jorge Simancas
+Director's Name:	James Riley, Jorge Simancas
+Info:	  Mexico - Baja California - San Quintín  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico de San Quintín; Calle Esteban Cantu #200; Ejido Nuevo Baja California, Col. Lázaro Cárdenas; San Quintín; Baja California 22939 Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jardinbotanicosq@gmail.com ; 
+Plant Records Officer's Name:	Susana Alfaro
+Altitude:	0.00 Metres
+Date founded:	2015
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	30.527648
+Longitude:	-115.933227
+Arboretum:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+Cultivation Taxa Num:	56
+Special Collections:	"Diegan Scrub" (peninsular and southern San Diego county) endemics of Baja California, Mexico

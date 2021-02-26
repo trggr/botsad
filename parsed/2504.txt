@@ -1,0 +1,10 @@
+ID:	2504
+Name:	Tregothnan Estate 
+Curator's Name:	
+Director's Name:	Jonathon Jones
+Info:	  United Kingdom - Cornwall - Truro  ;Garden Information;  Institution Code: TREG; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Tregothnan Estate; Estate Office; Truro; Cornwall TR2 4AN United Kingdom; ;  Telephone: +44 (0)1872 520000; Fax: +44 (0)1872 520291; URL: <a target="_blank" href="http://www.tregothnan.co.uk">www.tregothnan.co.uk; Primary Email: enquiries@tregothnan.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	50.240321
+Longitude:	-5.005064

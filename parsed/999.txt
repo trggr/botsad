@@ -1,0 +1,11 @@
+ID:	999
+Name:	Waikamoi Arboretum 
+Curator's Name:	
+Director's Name:	Wesley H.C.Wong Jr.
+Info:	  United States of America - Hawaii - Wailuku, Maui  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Waikamoi Arboretum; Department of Land and Natural Resources; P.O. Box 1015; Wailuku, Maui; Hawaii 96793 United States of America; ;  Telephone: (808) 244 4352; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1960
+Institution Type:	Botanic Garden
+Latitude:	20.9029
+Longitude:	-156.5449

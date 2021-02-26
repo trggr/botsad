@@ -1,0 +1,9 @@
+ID:	5324
+Name:	North Carolina State Phytotron Greenhouses 
+Curator's Name:	Dr. Joe Chiera
+Director's Name:	Dr. Carole Saravitz
+Info:	  United States of America - North Carolina - Raleigh  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; North Carolina State Phytotron Greenhouses; 2731 Pilsbury Cir; Raleigh; North Carolina 27607 United States of America; ;  Telephone: (919) 515 2778; Fax: ; URL: <a target="_blank" href="https://phytotron.ncsu.edu/greenhouses/">https://phytotron.ncsu.edu/greenhouses/; Primary Email: carole@ncsu.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	35.787434
+Longitude:	-78.672490

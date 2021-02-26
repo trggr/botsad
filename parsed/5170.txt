@@ -1,0 +1,11 @@
+ID:	5170
+Name:	Jardín Botánico de Bogotá José Celestino Mutis - Seed Bank 
+Curator's Name:	Nohora Patricia Peña
+Director's Name:	Viviana Barberena Nisimblat
+Info:	  Colombia - Bogotá D.C.  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Jardín Botánico de Bogotá José Celestino Mutis - Seed Bank This botanic garden is the Bogotá´s research and scientific center with emphasis on andean and paramo ecosystems. This institution contributes to plants conservation in Bogotá and its sorrounding area. This institution generates environmental sustainability inside the territory, by using scientific research, technological transference and environmental education.;  Main Address:; Jardín Botánico de Bogotá José Celestino Mutis - Seed Bank; Av. Calle 63 No. 68-95, Bogotá D.C., Colombia; Bogotá D.C.; Colombia; ;  Telephone: +57 (1) 4377060; Fax: +57 (1) 6305075; URL: <a target="_blank" href="http://">; Primary Email: bogotanico@jbb.gov.co ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	4.6098
+Longitude:	-74.0820
+Seed Bank:	Yes

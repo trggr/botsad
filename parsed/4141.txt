@@ -1,0 +1,9 @@
+ID:	4141
+Name:	Jardín Etnobotánico Dominga 
+Curator's Name:	
+Director's Name:	
+Info:	  Costa Rica - San Luis  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Etnobotánico Dominga; Ecolodge San Luis; San Luis Costa Rica; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	10.4735
+Longitude:	-84.2589

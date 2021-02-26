@@ -1,0 +1,23 @@
+ID:	4464
+Name:	Harold L. Lyon Arboretum - Tissue Culture Laboratory 
+Administration Staff Number:	1
+Curator's Name:	Nellie Sugii
+Director's Name:	Dr. Rakan (Zak) Zahawi, Director
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; About the Harold L. Lyon Arboretum - Tissue Culture Laboratory The mission statement of the Harold L. Lyon Arboretum-Tissue Culture Laboratory is: To aid in the prevention of further extinction of Hawaiian plant species by initiating and maintaining an in vitro plant and seed bank collection, and propagating plants for use in approved restoration and reintroduction projects.;  Main Address:; Harold L. Lyon Arboretum - Tissue Culture Laboratory; University of Hawai`i-Manoa; 3860 Manoa Road; Honolulu; Hawaii 96822-1180 United States of America; ;  Telephone: (808) 988-0456; Fax: (808) 988-0462; URL: <a target="_blank" href="https://manoa.hawaii.edu/lyon/research/hrpp/">https://manoa.hawaii.edu/lyon/research/hrpp/; Primary Email: lyonarb@hawaii.edu ; 
+Plant Records Officer's Name:	Cindy Yamamoto
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	21.3304548
+Longitude:	-157.8008789
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes

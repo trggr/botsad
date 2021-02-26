@@ -1,0 +1,33 @@
+ID:	5001
+Name:	Arboretum Parque Dona Ines 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Christian Torres-Santana, Director
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  Puerto Rico - PR - San Juan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Arboretum Parque Dona Ines; Fundacion Luis Munoz Marin; RR 2, Box #5; San Juan; PR 00926-9766 Puerto Rico; ;  Telephone: (787) 755-7979; Fax: ; URL: <a target="_blank" href="http://luismunozmarin.net/flmm/flmm-parque-dona-ines">http://luismunozmarin.net/flmm/flmm-parque-dona-ines; Primary Email: ctorres@flmm.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	18.387532
+Longitude:	-66.028537
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Invasive Species Monitoring:	Yes
+Conservation - Biology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

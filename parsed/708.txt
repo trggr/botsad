@@ -1,0 +1,18 @@
+ID:	708
+Name:	University of Tennessee Arboretum, The 
+Curator's Name:	
+Director's Name:	Richard Evans, Center Director
+Info:	  United States of America - Tennessee - Oak Ridge  ;Garden Information;  Institution Code: OAKAR; International Agenda Registration: No; BGCI Member: No; About the University of Tennessee Arboretum, The 1) To establish a collection of woody plants, including species and cultivars, and those plants with potential commercial value as forest species or for landscape development, from which materials are obtained for breeding and propagation. (2) To provide a place open to the public where individual groups may study the woody and associated herbaceous plants which are adapted to the environs of Tennessee. (3) To provide land and supporting physical resources to facilitate associated plant research programs.;  Main Address:; University of Tennessee Arboretum, The; Forest Resources Research and Education Center; 901 South Illinois Avenue; Oak Ridge; Tennessee 37830 United States of America; ;  Telephone: (865) 483-3571; Fax: (865) 483-3572; URL: <a target="_blank" href="http://www.discoveret.org/utarboretum or http://forestry.tennessee.edu/arbpage.htm">www.discoveret.org/utarboretum or http://forestry.tennessee.edu/arbpage.htm; Primary Email: utforest@utk.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1964
+Institution Type:	Botanic Garden
+Latitude:	35.9986930
+Longitude:	-84.2251660
+Total Area:	101 Hectares
+Arboretum:	Yes
+Arboretum Size:	101
+Number of Visitors:	30000
+Open to public:	Yes
+Accession Number:	25000
+Special Collections:	Aceraceae, Aquifoliaceae, Betulaceae, Cupressaceae, Fagaceae, Magnoliaceae, Pinaceae, Taxaceae, Juniperus (1 spp., 37 taxa), Pinus (21 spp., 48 taxa), Quercus (24 spp., 24 taxa), Rhododendron and azalia (15 spp., 40 taxa), Magnolia (34 taxa), Malus (21 ta

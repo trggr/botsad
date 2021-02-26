@@ -1,0 +1,11 @@
+ID:	3422
+Name:	Botanical Garden of Adiygeja State University / ???????????? ??? ??????????? ??????????????? 
+Curator's Name:	
+Director's Name:	Tatyana Tolstikova, Head of Herbarium
+Info:	  Russian Federation - Republic of Adygeya - Maykop  ;Garden Information;  Institution Code: MAIK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of Adiygeja State University / ???????????? ??? ??????????? ???????????????; 208 Pervomajskaja Street; Maykop; Republic of Adygeya 352700 Russian Federation; ;  Telephone: (87722) 984-35/56, (87722) 423-50; Fax: (87722) 213-74; URL: <a target="_blank" href="http://www.adygnet.ru">www.adygnet.ru; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	44.6091
+Longitude:	40.1132
+Herbarium:	Yes

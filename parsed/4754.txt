@@ -1,0 +1,10 @@
+ID:	4754
+Name:	University of Colorado at Boulder Greenhouse 
+Curator's Name:	Tom Lemieux, Greenhouse Manager
+Director's Name:	Unknown
+Info:	  United States of America - Colorado - Boulder  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Colorado at Boulder Greenhouse; Department of Ecology and Evolutionary Biology; UCB 334, Ramaley N122; Boulder; Colorado 80309 United States of America; ;  Telephone: (303) 492-3387; Fax: (303) 492-8699; URL: <a target="_blank" href="http://www.colorado.edu/ebio/greenhouse/">http://www.colorado.edu/ebio/greenhouse/; Primary Email: thomas.lemieux@colorado.edu ; 
+Plant Records Officer's Name:	Janice Forbis, Assistant Greenhouse Manager
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	40.0102010
+Longitude:	-105.2721740

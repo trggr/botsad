@@ -1,0 +1,11 @@
+ID:	1086
+Name:	Rotorua Arboretum 
+Curator's Name:	
+Director's Name:	Dr. J. Kininmonth
+Info:	  New Zealand - Rotorua  ;Garden Information;  Institution Code: NZFRI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Rotorua Arboretum; Forest Research Institute, P.B., ROTORUA, New Zealand.; Rotorua; New Zealand; ;  Telephone: 64 (0)7 347 5899; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1947
+Institution Type:	Botanic Garden
+Latitude:	-38.160004
+Longitude:	176.265366
+Special Collections:	Provenance trials and clonal archives for a range of timber trees.

@@ -1,0 +1,32 @@
+ID:	394
+Name:	Jardin Botanique de la Ville et de l'Universite de TOURS 
+Administration Staff Number:	2
+Curator's Name:	Sylvie Saulnier
+Director's Name:	Laurence Chapacou (Ville) et Gaëlle Glevarec (Université)
+Educational Staff Number:	2
+Horticultural Staff Number:	9
+Info:	  France - France - Tours  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de la Ville et de l'Universite de TOURS Location: TOURS; Founded: 1843; Garden Name: Jardin Botanique de la Ville et de l’Universite de Tours; Address: Mairie, Service des Parcs et Jardins, 3 rue des Minimes, 37032 TOURS Cedex.; Status: University and municipal; Herbarium: Yes Approx. no. of he;  Main Address:; Jardin Botanique de la Ville et de l'Universite de TOURS; 35 boulevard Tonnellé, 37000 TOURS, France.; Mairie, Service des Parcs et Jardins, 1 à 3 rue des Minimes, 37926 TOURS Cedex 9, France.; Tours; France 37926 France; ;  Telephone: 33 2 47 21 62 67; Fax: 33 2 47 21 62 90; URL: <a target="_blank" href="http://www.tours.fr">www.tours.fr; Primary Email: parcs-jardins@ville-tours.fr ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1843
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	47.3902
+Longitude:	0.6888
+Natural Vegetation Area:	No
+Total Area:	5 Hectares
+Total area of glasshouses:	400 Metres
+Arboretum:	Yes
+Arboretum Size:	300
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	27000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	Gymnosperms (85 spp., 105 cvs), woody plants in the arboretum (139 spp. and 33 cvs), systematic plant collection (30 spp.), shrubs (425 spp.), herbaceous plants used for food, textiles, poisons and toxic plants, fruits, dyes. Ericaceae, Rutaceae, medicina
+Medicinal Plant Programme:	Yes

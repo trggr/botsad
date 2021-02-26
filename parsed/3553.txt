@@ -1,0 +1,11 @@
+ID:	3553
+Name:	Columbia Valley Botanical Gardens 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  Canada - British Columbia - Invermere  ;Garden Information;  Institution Code: COLVA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Columbia Valley Botanical Gardens; 3300 Johnston Road; Invermere; British Columbia V0A 1K4 Canada; ;  Telephone: (250) 342-0539; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Botanic Garden
+Latitude:	50.49813
+Longitude:	-116.0241

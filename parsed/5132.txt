@@ -1,0 +1,11 @@
+ID:	5132
+Name:	Jardí Botànic de la Universitat de València- Seed Bank 
+Curator's Name:	
+Director's Name:	Isabel Mateu Andres
+Info:	  Spain - Valencia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardí Botànic de la Universitat de València- Seed Bank; Quart, 80; Valencia; 46008 Spain; ;  Telephone: +(34) 963 15 68 00; Fax: +34 6 315 68 26; URL: <a target="_blank" href="http://www.jardibotanic.org">www.jardibotanic.org; Primary Email: botanic@uv.es ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	39.4726
+Longitude:	-0.3903
+Seed Bank:	Yes

@@ -1,0 +1,29 @@
+ID:	364
+Name:	Botanicka Zahrada Stredni zemedelske techn. skoly 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Unknown
+Educational Staff Number:	2
+Horticultural Staff Number:	2
+Info:	  Czech Republic - Benešov  ;Garden Information;  Institution Code: TABOR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanicka Zahrada Stredni zemedelske techn. skoly; P.O. Box 34, 390 33 TABOR, Czech Republic.; Benešov; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1969
+Institution Type:	Botanic Garden
+Latitude:	49.4141
+Local Address:	
+Locality:	Information
+Longitude:	14.6577
+Total area of glasshouses:	208 Metres
+Arboretum:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	320
+Seed Bank:	No
+Cultivation Taxa Num:	523
+Special Collections:	Cereals, grasses, root-crops, fodder crops, weeds, leguminous.
+Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Education:	Yes

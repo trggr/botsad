@@ -1,0 +1,27 @@
+ID:	1243
+Name:	Taman Paku Pakis UKM (Fernarium UKM) 
+Administration Staff Number:	
+Curator's Name:	En Daman Huri Mohamad
+Director's Name:	Prof. Dr. Noraini Talip
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  Malaysia - Selangor - UKM 43600 Bagi  ;Garden Information;  Institution Code: UKMB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Taman Paku Pakis UKM (Fernarium UKM); School of Environmental and Natural Resources Science; Faculty of Sciences and Technology; UKM 43600 Bagi; Selangor 43600 Malaysia; ;  Telephone: 603-8921 3459; Fax: 603-8925 3357; URL: <a target="_blank" href="http://www.ukm.my/fernukm">http://www.ukm.my/fernukm; Primary Email: ntalip@ukm.my ; 
+Plant Records Officer's Name:	En. Rajali Jaman
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	3.2281
+Longitude:	101.3863
+Natural Vegetation Area:	Yes
+Total Area:	8 Hectares
+Arboretum:	Yes
+Arboretum Size:	8
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No

@@ -1,0 +1,11 @@
+ID:	4223
+Name:	Zoo Zurich 
+Curator's Name:	
+Director's Name:	Dr. Alex Rubel
+Info:	  Switzerland - Zurich  ;Garden Information;  Institution Code: ZUZOO; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Zoo Zurich; Zurichbergstrasse 221; Zurich; CH - 8044 Switzerland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	47.3690
+Longitude:	8.5380
+Number of Visitors:	1700000
+Number of Volunteers:	1008

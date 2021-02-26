@@ -1,0 +1,34 @@
+ID:	5086
+Name:	Ogród Dendrologiczny Uniwersytetu Przyrodniczego w Poznaniu 
+Fax:	
+Info:	  Poland - wielkopolskie - Poznań  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	ogrdend@up.poznan.pl
+Telephone:	+48 61 8466239
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	dr inż. Tomasz Maliński
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1925
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	52.42
+Longitude:	16.96
+Total Area:	20 Hectares
+Arboretum:	Yes
+Arboretum Size:	20
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	10000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	1000
+Special Collections:	National collection of Rubus
+Conservation Programme:	Yes
+Education:	Yes

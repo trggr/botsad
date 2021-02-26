@@ -1,0 +1,11 @@
+ID:	4242
+Name:	Bundesgärten Wien und Innsbruck (Schönbrunn) 
+Curator's Name:	
+Director's Name:	
+Info:	  Austria - WIEN  ;Garden Information;  Institution Code: BGWIS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bundesgärten Wien und Innsbruck (Schönbrunn); Schloß Schönbrunn; WIEN; A-1130 Austria; ;  Telephone: +43 (1) 877 50 87-0; Fax: +43 (1) 877 50 67; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1918
+Institution Type:	Botanic Garden
+Latitude:	48.1757408
+Longitude:	16.2586298

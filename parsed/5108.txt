@@ -1,0 +1,11 @@
+ID:	5108
+Name:	Jardin Botanico de Cordoba- Seed Bank 
+Curator's Name:	
+Director's Name:	-
+Info:	  Spain - Cordoba  ;Garden Information;  Institution Code: COSPSB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Cordoba- Seed Bank; Avda de Linneo s/nApdo. 3048,; Cordoba; 14080 Spain; ;  Telephone: 34 (9)57 200 077; Fax: 34 (9)57 295 333; URL: <a target="_blank" href="http://www.jardinbotanicodecordoba.com">www.jardinbotanicodecordoba.com; Primary Email: info@jardinbotanicodecordoba.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	37.8700
+Longitude:	-4.7857
+Seed Bank:	Yes

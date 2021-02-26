@@ -1,0 +1,46 @@
+ID:	84
+Name:	Botanischer Garten Frankfurt am Main 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Dr. Katja Heubach
+Educational Staff Number:	
+Horticultural Staff Number:	20
+Info:	  Germany - Deutschland - Frankfurt  ;Garden Information;  Institution Code: FRT; International Agenda Registration: No; BGCI Member: No; About the Botanischer Garten Frankfurt am Main The Botanical Garden of is a green jewel in the heart of Frankfurt. It is situated in the green belt between the Palmengarten and Grüneburg park. The garden covers about 7 hectares and offers a lot of variety and tranquility.; ; Formerly, the Botanical Garden belonged to the University of Frankfurt. Since 2012 it was transferred to the City of Frankfurt and now pertains to the adjacent Palmengarten.; ; Main Focus is on plant geography and vegetation of Central Europe, with emphasis on rare and endangered species, and the flora of temperate Eastern Asia and North America, and the mediterranean region.;  Main Address:; Botanischer Garten Frankfurt am Main; Siesmayerstrasse 61; Frankfurt; D-60323 Germany - Deutschland; ;  Telephone: +49 (0) 69 212 39058; Fax: +49 (0) 69 212 37856; URL: <a target="_blank" href="http://www.botanischergarten-frankfurt.de">www.botanischergarten-frankfurt.de; Primary Email: info@botanischergarten-frankfurt.de ; 
+Plant Records Officer's Name:	Andreas König
+Research Staff Number:	
+Altitude:	110.00 Metres
+Annual Rainfall:	665 mm
+Date founded:	1763
+Institution Type:	Botanic Garden
+Latitude:	50.123
+Locality:	Information
+Longitude:	8.658
+Total Area:	7 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	35000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	5700
+Cultivation Taxa Num:	4100
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Taxonomic, ecologic, geographic collections. Rubus (55 spp.), wild plants of Germany (1500 spp. of which one third of it endangered Red List plants), medical plants (enhanced for blind visitors in 2018)
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

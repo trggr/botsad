@@ -1,0 +1,35 @@
+ID:	3316
+Name:	Royal Horticultural Society's Garden, Harlow Carr 
+Fax:	+44(0)1423 530663
+Info:	  United Kingdom - North Yorkshire - Harrogate  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	hortdb@rhs.org.uk
+Telephone:	+44(0)1423 565418
+Administration Staff Number:	
+Curator's Name:	Paul Cook
+Director's Name:	Dr Tim Upson (Director of Horticulture), Liz Thwaite (Head of Harlow Carr)
+Educational Staff Number:	
+Horticultural Staff Number:	26
+Plant Records Officer's Name:	Peter Fenton
+Research Staff Number:	
+Altitude:	150.00 Metres
+Annual Rainfall:	813 mm
+Date founded:	1950
+Institution Type:	Botanic Garden
+Latitude:	53.981796
+Longitude:	-1.572212
+Satellite Garden Names:	Wisley, Rosemoor, Hyde Hall
+Total Area:	28 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Special Collections:	Orchidaceae, Epimedium, Crocus, Colchicum, Galanthus, Hosta, Rheum, Cyclamen, Narcissus, Daboecia, Erica, Calluna. Rhododendron, rock-garden plants, conifers, heathers, Mediterranean and Near East bulbs, apples.
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

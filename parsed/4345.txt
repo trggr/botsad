@@ -1,0 +1,10 @@
+ID:	4345
+Name:	Jardim Botânico da Universidade Univille 
+Curator's Name:	
+Director's Name:	Karin E. de Quadros
+Info:	  Brazil - Santa Catarina - Joinville  ;Garden Information;  Institution Code: JBUUS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico da Universidade Univille; Dept de Ciências Biológicas, Universidade da Região de Joinville; Campus Universitário, Bairro Bom Retiro, Cx Postal 246; Joinville; Santa Catarina 89.201-972 Brazil; ;  Telephone: (47) 3321 0470; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-26.892089
+Longitude:	-48.167338

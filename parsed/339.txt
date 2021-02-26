@@ -1,0 +1,74 @@
+ID:	339
+Name:	Shanghai Botanical Garden 
+Fax:	86-21-54363460
+Info:	  China - Shanghai - Shanghai  ;Garden Information;  Institution Code: SHANG; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; 
+Primary Email:	846058770@qq.com
+Telephone:	86-21-54363369
+Administration Staff Number:	18
+Curator's Name:	Zhang Yali
+Director's Name:	Feng Shucheng
+Educational Staff Number:	20
+Horticultural Staff Number:	100
+Plant Records Officer's Name:	Ms Huang Zengyan
+Research Staff Number:	50
+Altitude:	4.00 Metres
+Annual Rainfall:	1143 mm
+Date founded:	1974
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	31.2000
+Local Address:	中国上海市龙吴路1111号，邮编 200231
+Locality:	Information
+Longitude:	121.4333
+Natural Vegetation Area:	No
+Total Area:	82 Hectares
+Total area of glasshouses:	10000 Metres
+Total area of shadehouses:	2000 Metres
+Arboretum:	Yes
+Arboretum Size:	50
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	6500
+Special Collections:	Pengjin plants (Bonsai plants), azaleas, camellia, Chinese orchids, plants for environmental protection, Rosa, Paeonia, Rhododendron, Acer, Osmanthus, bamboo, medicinal plants.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,9 @@
+ID:	5380
+Name:	Youngstown Botanical Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - OH - Youngstown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Youngstown Botanical Garden; 926 Canfield Rd.; Youngstown; OH 44511 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	41.069718
+Longitude:	-80.680499

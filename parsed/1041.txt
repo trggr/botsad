@@ -1,0 +1,29 @@
+ID:	1041
+Name:	Charles University Pharmacy Faculty Botanic Garden 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Ing.J.Baloun
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Info:	  Czech Republic - Hradec Kralove  ;Garden Information;  Institution Code: KRALO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Charles University Pharmacy Faculty Botanic Garden; Charles University,Heyrovskeho 1203, 50165 HRADEC KRALOVE, Czech Republic.; Hradec Kralove; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1972
+Institution Type:	Botanic Garden
+Latitude:	50.2094
+Longitude:	15.8326
+Total Area:	3 Hectares
+Total area of glasshouses:	640 Metres
+Arboretum:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	4500
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	450
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Education:	Yes

@@ -1,0 +1,75 @@
+ID:	4164
+Name:	Arboretum i Zaklad Fizjografii w Bolestraszycach 
+Fax:	(016) 671 64 54
+Info:	  Poland - podkarpackie - Przemysl  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	arboretum@poczta.onet.pl
+Telephone:	(016) 671 64 25
+Administration Staff Number:	4
+Curator's Name:	Elżbieta Żygała
+Director's Name:	Narcyz Piórecki
+Educational Staff Number:	6
+Horticultural Staff Number:	
+Plant Records Officer's Name:	Dagmara Lib
+Research Staff Number:	1
+Altitude:	217.00 Metres
+Annual Rainfall:	570 mm
+Date founded:	1975
+Institution Type:	Botanic Garden
+Latitude:	49.7985
+Local Address:	Arboretum Bolestraszyce Bolestraszyce 130 skr. poczt.471 37-700 Przemyśl
+Locality:	Information
+Longitude:	22.7447
+Satellite Garden Names:	Arboretum Cisowa
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	60000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Special collections
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

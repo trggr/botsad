@@ -1,0 +1,17 @@
+ID:	3295
+Name:	Foxhill Arboretum 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Director
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United Kingdom - Frodsham  ;Garden Information;  Institution Code: FROD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Foxhill Arboretum; FrodshamCheshire; Frodsham; WA6 6XB United Kingdom; ;  Telephone: 01928 733777; Fax: ; URL: <a target="_blank" href="http://www.foxhillconferences.co.uk/arboretum.html">http://www.foxhillconferences.co.uk/arboretum.html; Primary Email: foxhill@chester.anglican.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	53.269511
+Longitude:	-2.739558
+Total Area:	14 Hectares
+Number of Visitors:	1000
+Special Collections:	Podocarpus, Prumnopitys, Acer, Abies and Pinus.

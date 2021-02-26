@@ -1,0 +1,11 @@
+ID:	5119
+Name:	National Garden- Seed Bank 
+Curator's Name:	
+Director's Name:	
+Info:	  Greece - Athens  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Garden- Seed Bank; Kapodistrian University of Athens; 1, Amalia avenue; Athens; 105 57 Greece; ;  Telephone: +30 210 7211178, +30 210 7215019; Fax: +30 210 7215019; URL: <a target="_blank" href="http://en.biol.uoa.gr/museums-gardens/botanical-garden.html">http://en.biol.uoa.gr/museums-gardens/botanical-garden.html; Primary Email: ethkhpos@otenet.gr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	37.967756
+Longitude:	23.777153
+Seed Bank:	Yes

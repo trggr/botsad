@@ -1,0 +1,73 @@
+ID:	884
+Name:	Velebit Botanic Garden 
+Fax:	+38553665390
+Info:	  Croatia - Croatia - Krasno  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	biolog@np-sjeverni-velebit.hr
+Telephone:	+38553665388
+Administration Staff Number:	
+Curator's Name:	Tea Šilić
+Director's Name:	Milan Nekić (National park Director)
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	Tea Šilić
+Research Staff Number:	
+Altitude:	1480.00 Metres
+Date founded:	1967
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	44.8228
+Local Address:	Javna ustanova Nacionalni park "Sjeverni Velebit" Krasno 96
+Locality:	Information
+Longitude:	15.0588
+Natural Vegetation Area:	Yes
+Total Area:	50 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	10000
+Number of Volunteers:	8
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Sub-alpine plants of the Velebit massif
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

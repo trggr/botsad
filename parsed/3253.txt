@@ -1,0 +1,28 @@
+ID:	3253
+Name:	Jardín Botánico de Popayán 
+Curator's Name:	
+Director's Name:	Ivonne Narváez
+Info:	  Colombia - Cauca - Popayán  ;Garden Information;  Institution Code: POPA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico de Popayán; Km. 8 vía al Sur, vereda Los Robles; Popayán; Cauca 190001 Colombia; ;  Telephone: 57 (2) 8320225; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jardinbotanico@fup.edu.co ; 
+Plant Records Officer's Name:	
+Altitude:	1850.00 Metres
+Annual Rainfall:	3 mm
+Date founded:	1999
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	2.391306
+Local Address:	Km. 8 vía al Sur, vereda Los Robles
+Locality:	Information
+Longitude:	76.656917
+Natural Vegetation Area:	Yes
+Total Area:	9 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Trees, shrubs and herbaceous perennials, medicinal plants, ornamentals. Native plants. Zingiberaceae, Heliconia, Melastomataceae, Araceae, palms, bamboos, Passiflora, Orchidaceae.

@@ -1,0 +1,25 @@
+ID:	3206
+Name:	Humber Arboretum 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Alexandra Link, Director, Humber Arboretum
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  Canada - Ontario - Toronto  ;Garden Information;  Institution Code: HUMB; International Agenda Registration: No; BGCI Member: No; About the Humber Arboretum Located behind Humber College's North campus, the Humber Arboretum consists of botanical gardens and natural areas surrounding the Humber River. This unique site is home to the Carolinian bioregion, the most diverse ecosystem in Canada, and boasts over 1,700 species of plants and animals. The Humber Arboretum covers approximately 250 acres (101 ha) of the West Humber River Valley between Highway 27 and the 427 and is easily accessed from Humber College Blvd.; ; The Humber Arboretum was started through the initiative of Humber College horticulture students in 1977. Its purpose is to facilitate research and education, establish and maintain living plant collections, promote conservation and restoration practices, and provide a quality visitor experience. It is a joint venture of the City of Toronto, Humber College, and Toronto and Region Conservation Authority.; ; The Arboretum includes over six kilometers of walking trails with a walking time of approximately 2 hours. The trails and gardens are free and accessible to the general public. Come explore a world of beauty.;  Main Address:; Humber Arboretum; 205 Humber College Blvd; Toronto; Ontario M9W 5L7 Canada; ;  Telephone: (416) 675-6622 ext. 5009; Fax: (416) 674-7093; URL: <a target="_blank" href="http://www.humberarboretum.on.ca">www.humberarboretum.on.ca; Primary Email: arboretum@humber.ca ; 
+Plant Records Officer's Name:	Andrea Sudak
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1977
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	43.72528
+Longitude:	-79.6088
+Natural Vegetation Area:	Yes
+Total Area:	101 Hectares
+Arboretum:	Yes
+Arboretum Size:	101
+Disabled access:	Yes
+Herbarium:	No
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Special Collections:	No information available.

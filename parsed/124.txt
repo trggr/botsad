@@ -1,0 +1,12 @@
+ID:	124
+Name:	Agricultural and Biological Station and Botanical Garden Of Kherson State University 
+Curator's Name:	
+Director's Name:	O.V.Koroleva
+Info:	  Ukraine - Kherson  ;Garden Information;  Institution Code: KHER; International Agenda Registration: No; BGCI Member: No;  Main Address:; Agricultural and Biological Station and Botanical Garden Of Kherson State University; Nikolaevskoe shosse str, 29, m.Kherson; Kherson; Ukraine; ;  Telephone: 6 33 22, 4 23 34; Fax: ; URL: <a target="_blank" href="http://www.ksu.ks.ua/About/Faculty/Faculty_of_biolog_geograf_ecol/BotanicalGarden.aspx">http://www.ksu.ks.ua/About/Faculty/Faculty_of_biolog_geograf_ecol/BotanicalGarden.aspx; Primary Email: YuPetrova@ksu.ks.ua ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1934
+Institution Type:	Botanic Garden
+Latitude:	46.64715
+Longitude:	32.63097
+Special Collections:	Acer, Fraxinus, geographical collections.

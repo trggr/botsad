@@ -1,0 +1,17 @@
+ID:	4292
+Name:	Marywood University Arboretum 
+Curator's Name:	Mark Burns, Superintendent of Grounds
+Director's Name:	Unknown
+Info:	  United States of America - Pennsylvania - Scranton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Marywood University Arboretum; 2300 Adams Avenue; Scranton; Pennsylvania 18509-6218 United States of America; ;  Telephone: (570) 348-6218; Fax: (570) 961-4749; URL: <a target="_blank" href="http://www.marywood.edu/arboretum">www.marywood.edu/arboretum; Primary Email: arboretum@marywood.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1975
+Institution Type:	Botanic Garden
+Latitude:	41.4334380
+Longitude:	-75.6372080
+Total Area:	47 Hectares
+Arboretum:	Yes
+Arboretum Size:	47
+Computer Plant Record System:	Yes
+Open to public:	Yes
+Education Booklets/Leaflets:	Yes

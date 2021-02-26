@@ -1,0 +1,13 @@
+ID:	1108
+Name:	Jardín Botánico y Arboretum "Carlos Spegazzini" 
+Curator's Name:	Dr. Néstor Bayón
+Director's Name:	Dr. Néstor Bayón
+Info:	  Argentina - Buenos Aires - La Plata  ;Garden Information;  Institution Code: LPAG; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico y Arboretum "Carlos Spegazzini"; Facultad de Ciencias Agrarias y Forestales, Universidad Nacional de La Plata; Av. 60 y calles 116-118, C.C. 31; La Plata; Buenos Aires 1900 Argentina; ;  Telephone: +54 221 4236758, ext. 461; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: nbayon@agro.unlp.edu.ar ; 
+Plant Records Officer's Name:	Dr. Néstor Bayón
+Altitude:	0.00 Metres
+Date founded:	1924
+Institution Type:	Botanic Garden
+Latitude:	-34.91223
+Longitude:	-57.93111
+Open to public:	Yes
+Special Collections:	Native plants, medicinals, forage plants, indigenous trees, including Podocarpus parlatorei. Herbarium of seeds (2,000 accessions). Produces regular seed list.

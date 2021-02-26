@@ -1,0 +1,61 @@
+ID:	5147
+Name:	Helen Avalynne Tawes Garden 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Jay Myers
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - Maryland - Annapolis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Helen Avalynne Tawes Garden; 580 Taylor Avenue; Mailing: P. O. Box 5907, Annapolis, MD 21403; Annapolis; Maryland 21401 United States of America; ;  Telephone: (410) 260-8189; Fax: ; URL: <a target="_blank" href="http://dnr2.maryland.gov/publiclands/Pages/southern/tawesgarden.aspx">http://dnr2.maryland.gov/publiclands/Pages/southern/tawesgarden.aspx; Primary Email: ; 
+Plant Records Officer's Name:	Bonnie Pavlak
+Research Staff Number:	
+Altitude:	11.89 Metres
+Annual Rainfall:	1664 mm
+Date founded:	1976
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	38.983371
+Longitude:	-76.505212
+Natural Vegetation Area:	No
+Total Area:	2 Hectares
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	9000
+Number of Volunteers:	60
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	213
+Cultivation Taxa Num:	109
+Plant Collection Policy:	Yes
+Special Collections:	Trees and shrubs only in database
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes

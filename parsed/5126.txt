@@ -1,0 +1,11 @@
+ID:	5126
+Name:	Jardi Botanic de Soller- Seed Bank 
+Curator's Name:	
+Director's Name:	J.l. Gradaille Tortella
+Info:	  Spain - Mallorca - Soller  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardi Botanic de Soller- Seed Bank; Ctra. Palma - Port de Soller Km. 30,5; Apartat de correus 44,; Soller; Mallorca 07100 Spain; ;  Telephone: 971634014; Fax: 971634781; URL: <a target="_blank" href="http://www.jardibotanicdesoller.org/">www.jardibotanicdesoller.org/; Primary Email: jbs@jardibotanicdesoller.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	39.7791
+Longitude:	2.7102
+Seed Bank:	Yes

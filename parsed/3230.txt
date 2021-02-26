@@ -1,0 +1,55 @@
+ID:	3230
+Name:	Kingsbrae Garden 
+Fax:	(506) 529-4875
+Info:	  Canada - New Brunswick - St. Andrews  ;Garden Information;  Institution Code: KBRAE; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	kgoffice@kingsbraegarden.com
+Telephone:	(506) 529-3335 x 1
+Administration Staff Number:	6
+Curator's Name:	
+Director's Name:	Unknown
+Educational Staff Number:	3
+Horticultural Staff Number:	25
+Plant Records Officer's Name:	
+Research Staff Number:	4
+Altitude:	10.00 Metres
+Annual Rainfall:	10100 mm
+Date founded:	1998
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	45.08014
+Local Address:	220 King Street
+Locality:	Information
+Longitude:	-67.047335
+Natural Vegetation Area:	Yes
+Total Area:	11 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	25000
+Number of Volunteers:	2
+Open to public:	Yes
+Special Collections:	Rare and exotic plants such as wollemi nobilis, rhododendrons, heathers, boxwood, flowering quince, false cypress.
+Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Plant Breeding:	Yes
+Sustainability:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

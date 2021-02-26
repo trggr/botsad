@@ -1,0 +1,13 @@
+ID:	5529
+Name:	Santa Ana Zoo 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - California - Santa Ana  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Santa Ana Zoo; 1801 East Chestnut Avenue; Santa Ana; California 92701 United States of America; ;  Telephone: (714) 953-8555; Fax: ; URL: <a target="_blank" href="https://www.santaanazoo.org/">https://www.santaanazoo.org/; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	33.742770
+Longitude:	-117.843210
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No

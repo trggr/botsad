@@ -1,0 +1,23 @@
+ID:	1267
+Name:	Texas Discovery Gardens 
+Curator's Name:	Roger Sanderson, Director of Horticulture
+Director's Name:	Dick Davis, Executive Director
+Info:	  United States of America - Texas - Dallas  ;Garden Information;  Institution Code: DALCC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Texas Discovery Gardens; 3601 Martin Luther King Jr. Boulevard; P.O. Box 152537; Dallas; Texas 75315 United States of America; ;  Telephone: (214) 428-7476; Fax: (214) 428-5338; URL: <a target="_blank" href="http://www.texasdiscoverygardens.org">www.texasdiscoverygardens.org; Primary Email: TDG@TexasDiscoveryGardens.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1936
+Institution Type:	Botanic Garden
+Latitude:	32.7761240
+Longitude:	-96.7605080
+Total Area:	2 Hectares
+Arboretum:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	200
+Open to public:	Yes
+Seed Bank:	No
+Special Collections:	Ferns, orchids, bromeliads, cycads.
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Education Programme:	Yes

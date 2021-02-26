@@ -1,0 +1,47 @@
+ID:	2512
+Name:	Springs Preserve, The 
+Administration Staff Number:	4
+Curator's Name:	
+Director's Name:	Julie Wilcox, Director
+Educational Staff Number:	5
+Horticultural Staff Number:	11
+Info:	  United States of America - Nevada - Las Vegas  ;Garden Information;  Institution Code: LVSP; International Agenda Registration: No; BGCI Member: No; About the Springs Preserve, The With a focus on arid plants and sustainable methods to grow and live in a desert environment, the Springs Preserve showcases gardening, irrigation, LEED platinum buildings, a biofiltration wetland, and several display gardens. Our Mojave succulent collection is part of the Plant Collections Network through the American Public Gardens Association.;  Main Address:; Springs Preserve, The; P.O. Box 98947; Las Vegas; Nevada 89193 United States of America; ;  Telephone: (702) 822-7700; Fax: (702) 822-8453; URL: <a target="_blank" href="http://www.springspreserve.org">www.springspreserve.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	620.00 Metres
+Annual Rainfall:	100 mm
+Date founded:	2007
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	36.1692700
+Longitude:	-115.1906500
+Natural Vegetation Area:	Yes
+Total Area:	444 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	260000
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Local native plants, cacti and succulents - emphasis on water conservation landscaping and xerophytic plant gardens.
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Invasive Species Biology and Control:	Yes
+Sustainability:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

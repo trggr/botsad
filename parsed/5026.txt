@@ -1,0 +1,9 @@
+ID:	5026
+Name:	Purdue Arboretum, The 
+Curator's Name:	Mary Lou Hayden, Horticulture Collections Manager
+Director's Name:	Paul Siciliano, Arboretum Director/Professor of Horticulture
+Info:	  United States of America - Indiana - West Lafayette  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ;  Main Address:; Purdue Arboretum, The; 1576 W. State Street; West Lafayette; Indiana 47906 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.arboretum.purdue.edu">www.arboretum.purdue.edu; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	40.426825
+Longitude:	-86.934913

@@ -1,0 +1,11 @@
+ID:	5153
+Name:	National Botanic Garden of Vacratot-Seed Bank 
+Curator's Name:	
+Director's Name:	
+Info:	  Hungary - Vacratot  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; National Botanic Garden of Vacratot-Seed Bank; 2163 Vacratot; Alkotmany u. 2-4; Vacratot; 2163 Hungary; ;  Telephone: 00 36 (06) 28 360-122; Fax: ; URL: <a target="_blank" href="http://www.botanikuskert.hu">www.botanikuskert.hu; Primary Email: thalmeiner.tunde@okologia.mta.hu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	47.7093965
+Longitude:	19.2313569
+Seed Bank:	Yes

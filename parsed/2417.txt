@@ -1,0 +1,13 @@
+ID:	2417
+Name:	The Royal Zoological Society of Scotland 
+Curator's Name:	Colin Wren
+Director's Name:	The Director
+Info:	  United Kingdom - Edinburgh  ;Garden Information;  Institution Code: EZOO; International Agenda Registration: No; BGCI Member: No; About the The Royal Zoological Society of Scotland The RZSS is a Scottish charity devoted to the conservation of animals and their habitats. With no direct government funding we rely heavily on voluntary support to achieve our charitable aims.;  Main Address:; The Royal Zoological Society of Scotland; Edinburgh Zoo; Murrayfield; Edinburgh; EH12 6TS United Kingdom; ;  Telephone: +44 (0)131 334 9171; Fax: +44 (0)131 314 0384; URL: <a target="_blank" href="http://www.edinburghzoo.org.uk">www.edinburghzoo.org.uk; Primary Email: info@rzss.org.uk ; 
+Plant Records Officer's Name:	Simon Jones
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	55.942173
+Longitude:	-3.269334
+Number of Visitors:	600000
+Number of Volunteers:	177
+Special Collections:	No information available.

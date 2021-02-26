@@ -1,0 +1,83 @@
+ID:	3625
+Name:	Arboretum Wespelaar 
+Fax:	+32 (0)16 60 13 53
+Info:	  Belgium - Haacht-Wespelaar  ;Garden Information;  Institution Code: WESPE; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; 
+Primary Email:	info@arboretumwespelaar.be
+Telephone:	+32 (0)16 60 86 41
+The visitor centre and arboretum opened to the public on 17 April 2011. The private garden Herkenrode is only open to guided groups on request or to members of asbl Jardins ouverts – Open tuinen vzw (http:	//www.open-tuinen.be/).
+Administration Staff Number:	2
+Curator's Name:	Joke Ossaer
+Director's Name:	Koen Camelbeke
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Joke Ossaer
+Research Staff Number:	1
+Altitude:	15.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1985
+Institution Type:	Private Collection
+Landscaped Area:	Yes
+Latitude:	50.9596
+Local Address:	Grote Baan 63
+Locality:	Information
+Longitude:	4.6375
+Natural Vegetation Area:	No
+Satellite Garden Names:	Herkenrode, Park of Wespelaar, Potager of Wespelaar, Bosveld
+Total Area:	20 Hectares
+Arboretum:	Yes
+Arboretum Size:	20
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	7800
+Number of Volunteers:	20
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	10816
+Cultivation Taxa Num:	4968
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Most planted genera are Abies, Acer, Betula, Carpinus, Cornus, Euonymus, Fraxinus, Hydrangea, Ilex, Lindera, Liquidambar, Magnolia, Pinus,Quercus, Rhododendron, Sorbus, Stewartia, Styrax, Tilia, Viburnum and Wisteria.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

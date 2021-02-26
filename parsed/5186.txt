@@ -1,0 +1,9 @@
+ID:	5186
+Name:	Jardin Botanico Arco Luna 
+Curator's Name:	
+Director's Name:	
+Info:	  Panama - Boquete  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Arco Luna; Boquete; Panama; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	8.7689914
+Longitude:	-82.4850513

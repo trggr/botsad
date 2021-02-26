@@ -1,0 +1,65 @@
+ID:	2540
+Name:	Nezahat Gokyigit Botanic Garden 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Prof. Dr. Adil Güner
+Educational Staff Number:	4
+Horticultural Staff Number:	22
+Info:	  Turkey - Istanbul  ;Garden Information;  Institution Code: TEMA; International Agenda Registration: Yes; BGCI Member: Yes; About the Nezahat Gokyigit Botanic Garden <center><img src="http://www.ngbb.org.tr/BackUp_Murat/images/ngbb_alamet.png" height="120"/> <img src="http://www.ngbb.org.tr/BackUp_Murat/images/ang-alamet.png" height="120"/></center>; <center>; <iframe width="560" height="315" src="https://www.youtube.com/embed/ljNghedREBQ" frameborder="0" allowfullscreen></iframe>; </center>; ; Privately funded (ANG Foundation) Botanic Garden in a motorway intersection. Parcels of land connected by tunnels or foot bridges. Situated on the Asian side of Istanbul in a rapidly developing residential area.; ; NGBB is the central hub for Turkish floristic studies. Checklist of vascular plants <a href="http://ang.org.tr" target="_new">[i] published 2012. New Illustrated Flora of Turkey <a target="_new" href="https://www.facebook.com/ResimliTurkiyeFlorasi/">[i] Volume 1 published 2014. Bryophytes, lichens, algea and fungi in preparation. Botanical illustration courses, horticultural training (certificate in practical horticulture).; ; Large Turkish geophyte collection. Children's garden. Schools programmes. A lake representing Bosphorus. Amphitheatre. 18cent. mansion garden. The <i>Istanbul island</i> is opened in 2010. <i>Arboretum</i> in 2011, Oak collection in 2014. <i>Anatolian island</i> is opened in 2015. <i>Thrace island</i> is under development.; ; Plant Collections: medicinal, aromatic, edible and dye plants, dry and halophytic, crevice and rock gardens, Turkish native and endemic species.; ; Correspondence Address: Ali Nihat Gökyiğit Vakfı, Kültür Mahallesi, Budak Sokak, Tekfen Sitesi, A Blok No:7, 34340, Beşiktaş, Istanbul, Türkiye; ; <img src="http://www.ngbb.org.tr/BackUp_Murat/images/4_mevsim.png" width="760"/>;  Main Address:; Nezahat Gokyigit Botanic Garden; Ataturk Mah., Fatih Sultan Mehmet Cad.,; TEM Otoyolu Anadolu Kavsagi, Atasehir,; Istanbul; 34758 Turkey; ;  Telephone: +90 (216) 456 4437; Fax: +90 (216) 456 4438; URL: <a target="_blank" href="http://www.ngbb.org.tr">www.ngbb.org.tr; Primary Email: info@ngbb.org.tr ; 
+Plant Records Officer's Name:	Salih Sercan Kanoglu
+Research Staff Number:	7
+Altitude:	90.00 Metres
+Date founded:	1995
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.992976
+Local Address:	Ataşehir
+Locality:	Information
+Longitude:	29.115465
+Natural Vegetation Area:	Yes
+Total Area:	32 Hectares
+Arboretum:	Yes
+Arboretum Size:	10
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	155644
+Number of Volunteers:	176
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	12000
+Cultivation Taxa Num:	3478
+Special Collections:	Medicinal, aromatic, edible and dye plants, dry and halophytic, crevice and rock gardens, Turkish native and endemic species.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Genetics:	No
+Education:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

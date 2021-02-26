@@ -1,0 +1,26 @@
+ID:	4267
+Name:	Gardens of the Fox Cities 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Lynn Van Vreede, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Info:	  United States of America - Wisconsin - Appleton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gardens of the Fox Cities; 1313 E. Witzke Boulevard; P.O. Box 2603; Appleton; Wisconsin 54912-2603 United States of America; ;  Telephone: (920) 993-1900; Fax: (920) 993-9492; URL: <a target="_blank" href="http://www.gardensfoxcities.org">www.gardensfoxcities.org; Primary Email: info@gardensfoxcities.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	44.2944500
+Longitude:	-88.3841500
+Arboretum:	No
+Computer Plant Record System:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Courses for General Public:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

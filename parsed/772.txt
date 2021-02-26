@@ -1,0 +1,54 @@
+ID:	772
+Name:	Hoyt Arboretum 
+Administration Staff Number:	2
+Curator's Name:	Martin Nicholson, Curator
+Director's Name:	Anna Goldrich, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Info:	  United States of America - Oregon - Portland  ;Garden Information;  Institution Code: HOYT; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Hoyt Arboretum Hoyt Arboretum is Portland's global garden in the wild, where we grow and exhibit trees and plants from around the world while educating our community and conserving vitally important plant bio-diversity.;  Main Address:; Hoyt Arboretum; Portland Parks & Recreation; 4000 SW Fairview Boulevard; Portland; Oregon 97221 United States of America; ;  Telephone: (503) 823 1649; Fax: (503) 823-4213; URL: <a target="_blank" href="http://www.hoytarboretum.org">www.hoytarboretum.org; Primary Email: info@hoytarboretum.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	300.00 Metres
+Date founded:	1928
+Institution Type:	Botanic Garden
+Latitude:	45.5146037
+Longitude:	-122.7177981
+Natural Vegetation Area:	Yes
+Total Area:	76 Hectares
+Arboretum:	Yes
+Arboretum Size:	76
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	450000
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	5850
+Cultivation Taxa Num:	1780
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Aceraceae, Fagaceae, Pinaceae, Rosaceae, Taxodiaceae, Acer (33 spp., 43 taxa), Picea (15 spp., 20 taxa), Pinus (45 spp., 58 taxa), Quercus (28 spp., 31 taxa). One of the largest collections of species of gymnosperms in the United States.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Education:	Yes
+Horticulture:	Yes
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Seed/Spore Biology:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

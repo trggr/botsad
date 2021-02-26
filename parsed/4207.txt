@@ -1,0 +1,60 @@
+ID:	4207
+Name:	Fuchsia Species Conservation and Research 
+Curator's Name:	
+Director's Name:	Jack Lamb
+Info:	  United Kingdom - South Yorkshire - Rotherham  ;Garden Information;  Institution Code: FUCHS; International Agenda Registration: No; BGCI Member: No; About the Fuchsia Species Conservation and Research A garden for the conservation and research of Fuchsia Species and species hybrids;  Main Address:; Fuchsia Species Conservation and Research; 9 Austen Drive; Bramley; Rotherham; South Yorkshire S66 2UF United Kingdom; ;  Telephone: 01709 543564; Fax: ; URL: <a target="_blank" href="http://www.jacklamb.free-online.co.uk/">http://www.jacklamb.free-online.co.uk/; Primary Email: info@jacklamb.free-online.co.uk ; 
+Plant Records Officer's Name:	Joan Lamb
+Altitude:	0.00 Metres
+Date founded:	1966
+Institution Type:	Private Collection
+Latitude:	53.423412
+Longitude:	-1.261988
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	133
+Cultivation Taxa Num:	1
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

@@ -1,0 +1,28 @@
+ID:	1042
+Name:	Arboretum Novy Dvur 
+Administration Staff Number:	3
+Curator's Name:	Dipl.Ing. Milan Velicka
+Director's Name:	Dipl.Ing. Miroslav Frank
+Educational Staff Number:	5
+Horticultural Staff Number:	13
+Info:	  Czech Republic - Steborice  ;Garden Information;  Institution Code: AND; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Novy Dvur; Slezski muzeum Opava, 74751 Posta STEBORICE, Czech Republic; Steborice; Czech Republic; ;  Telephone: 0653 93131; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	5
+Altitude:	0.00 Metres
+Date founded:	1958
+Institution Type:	Botanic Garden
+Latitude:	49.9377
+Longitude:	17.8089
+Total Area:	23 Hectares
+Arboretum:	Yes
+Arboretum Size:	23
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	32000
+Open to public:	Yes
+Seed Bank:	No
+Cultivation Taxa Num:	10000
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Education:	Yes

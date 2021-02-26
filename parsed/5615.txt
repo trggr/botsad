@@ -1,0 +1,9 @@
+ID:	5615
+Name:	Jardín Etnobotánico UNORCAC 
+Curator's Name:	
+Director's Name:	Luis Alfonso Morales
+Info:	  Ecuador - Imbabura - Cotacachi  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Etnobotánico UNORCAC; Gonzalez Suárez 2083 y Quiroga; Cotacachi; Imbabura Ecuador; ;  Telephone: 593 (06) 2916012; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: unorcac2011@gmail.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	0.299913
+Longitude:	-78.2764

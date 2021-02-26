@@ -1,0 +1,72 @@
+ID:	665
+Name:	Honolulu Botanical Gardens 
+Administration Staff Number:	3
+Curator's Name:	Talia Portner, Horticulturist
+Director's Name:	Joshlyn D. Sand
+Educational Staff Number:	4
+Horticultural Staff Number:	28
+Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: HFG; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Honolulu Botanical Gardens Five individual gardens comprise the Honolulu Botanical Gardens System. All gardens are located on O`ahu:; -Foster Botanical Garden - Honolulu, HI; -Ho'omaluhia Botanical Garden - Kaneohe, HI; -Koko Crater Botanical Garden - Honolulu, HI (Ka Iwi Coast); -Liliʻuokalani Botanical Garden - Honolulu, HI; -Wahiawa Botanical Garden - Wahiawa, HI;  Main Address:; Honolulu Botanical Gardens; 50 N. Vineyard Boulevard; Honolulu; Hawaii 96817 United States of America; ;  Telephone: (808) 522 7060; Fax: (808) 522 7050; URL: <a target="_blank" href="http://www.co.honolulu.hi.us/parks/hbg">www.co.honolulu.hi.us/parks/hbg; Primary Email: hbg@honolulu.gov ; 
+Plant Records Officer's Name:	Naomi Hoffman, Botanist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1930
+Institution Type:	Botanic Garden
+Latitude:	21.3149989
+Longitude:	-157.8580477
+Satellite Garden Names:	HBG is comprised of 5 separate gardens located at different locations on the island of O`ahu. See Introduction Text.
+Total Area:	200 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	412000
+Number of Volunteers:	150
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	9198
+Cultivation Taxa Num:	5075
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Araceae, Arecaceae, Cycadaceae, Heliconiaceae, Marantaceae, Orchidaceae, Zamiaceae, Zingiberaceae, Anthurium (67 spp., 80 taxa), Erythrina (68 spp., 130 taxa), Pritchardia (34 spp., 39 taxa).
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,21 @@
+ID:	45
+Name:	Conservatoire Botanique National du Brest 
+Curator's Name:	
+Director's Name:	Monsieur Dominique Dhervé
+Info:	  France - Brest  ;Garden Information;  Institution Code: BRES; International Agenda Registration: Yes; BGCI Member: Yes; About the Conservatoire Botanique National du Brest Location: BREST; Founded: 1977; Garden Name: Conservatoire Botanique National du Brest; Address: Vallon du Stang-alar, 52 Allee du Bot, F-29200 BREST.; Status: Regional government and municipal; Herbarium: Yes Approx. no. of herbarium specimens: 5,000; Ex;  Main Address:; Conservatoire Botanique National du Brest; Vallon du Stang-alar; 52 Allee du Bot; Brest; F-29200 France; ;  Telephone: 33 2 98 41 88 95; Fax: 33 2 98 41 57 21; URL: <a target="_blank" href="http://www.cbnbrest.fr">www.cbnbrest.fr; Primary Email: cbn.brest@cbnbrest.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1977
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	48.4081
+Longitude:	-4.4995
+Natural Vegetation Area:	Yes
+Total Area:	49 Hectares
+Friends society:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	1700
+Special Collections:	Devoted to the conservation of endangered plants, especially from Atlantic Europe and Oceanic Islands but also including plants from China, and Japan, the Americas, Australia and New Zealand. Glasshouse collections include over 200 taxa from the tropics.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes

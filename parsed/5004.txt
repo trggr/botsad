@@ -1,0 +1,16 @@
+ID:	5004
+Name:	Milliken Arboretum 
+Curator's Name:	
+Director's Name:	April Morris
+Info:	  United States of America - South Carolina - Spartanburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Milliken Arboretum; 920 Milliken Rd.; Mailing: P.O. Box 1926; Spartanburg; South Carolina 29303 United States of America; ;  Telephone: (864) 503-2020; Fax: ; URL: <a target="_blank" href="http://www.milliken.com/en-us/ourcompany/visitors/Pages/milliken-arboretum.aspx">http://www.milliken.com/en-us/ourcompany/visitors/Pages/milliken-arboretum.aspx; Primary Email: brand@milliken.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1958
+Institution Type:	Botanic Garden
+Latitude:	34.988106
+Longitude:	-81.955379
+Total Area:	600 Hectares
+Arboretum:	Yes
+Open to public:	Yes
+Accession Number:	3000
+Cultivation Taxa Num:	500

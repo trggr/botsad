@@ -1,0 +1,14 @@
+ID:	1167
+Name:	Tucson Botanical Gardens 
+Curator's Name:	Michael Chamberland, Director of Horticulture
+Director's Name:	Michelle Conklin, Executive Director
+Info:	  United States of America - Arizona - Tucson  ;Garden Information;  Institution Code: TUSCO; International Agenda Registration: No; BGCI Member: No; About the Tucson Botanical Gardens The Tucson Botanical Gardens, a tranquil oasis in the heart of Tucson, strives to be recognized and respected as the best small public garden in America.;  Main Address:; Tucson Botanical Gardens; 2150 North Alvernon Way; Tucson; Arizona 85712 United States of America; ;  Telephone: (520) 326-9686; Fax: (520) 324-0166; URL: <a target="_blank" href="http://www.tucsonbotanical.org">www.tucsonbotanical.org; Primary Email: info@tucsonbotanical.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1964
+Institution Type:	Botanic Garden
+Latitude:	32.2485230
+Longitude:	-110.9087850
+Open to public:	Yes
+Special Collections:	Rosa, Iris, herbs, south-western U.S. traditional crop collection.
+Education Programme:	Yes

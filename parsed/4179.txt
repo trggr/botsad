@@ -1,0 +1,78 @@
+ID:	4179
+Name:	Al Quds University Botanic Garden (AQUB) 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Prof. Khaled Salem Sawalha
+Educational Staff Number:	3
+Horticultural Staff Number:	2
+Info:	  Palestinian Territory, Occupied - Palestine - East Jerusalem  ;Garden Information;  Institution Code: ALQUD; International Agenda Registration: No; BGCI Member: No; About the Al Quds University Botanic Garden (AQUB) Al-Quds Univeristy is the Arab University of holy city of Jerusalem.;  Main Address:; Al Quds University Botanic Garden (AQUB); Life Sciences Department; Faculity of Science & Tech; East Jerusalem; Palestine Palestinian Territory, Occupied; ;  Telephone: + 970 (02) 2799753 ext 5075; Fax: + 970 (02) 2796960; URL: <a target="_blank" href="http://www.alquds.edu">www.alquds.edu; Primary Email: kssawalha@sciences.alquds.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	700.00 Metres
+Annual Rainfall:	300 mm
+Date founded:	2007
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	32.0000
+Local Address:	Abu Dis - West Bank
+Locality:	Information
+Longitude:	35.0000
+Natural Vegetation Area:	No
+Total Area:	10 Hectares
+Total area of glasshouses:	100 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	5000
+Number of Volunteers:	50
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	100
+Cultivation Taxa Num:	20
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Local and national flora. Introduced plant species.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

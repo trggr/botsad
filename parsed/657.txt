@@ -1,0 +1,41 @@
+ID:	657
+Name:	Edison and Ford Winter Estates 
+Administration Staff Number:	
+Curator's Name:	Britta Soderqvist
+Director's Name:	Mike Flanders, President & CEO
+Educational Staff Number:	2
+Horticultural Staff Number:	4
+Info:	  United States of America - Florida - Fort Myers  ;Garden Information;  Institution Code: FMEG; International Agenda Registration: No; BGCI Member: No; About the Edison and Ford Winter Estates The Edison & Ford Winter Estates preserves and interprets the home, botanical gardens, and laboratory of Thomas Edison as well as the home of Henry Ford. Further, the institution collects, preserves, and exhibits artifacts relating to their lives and work with special emphasis on their experiences in the City of Fort Myers. This endeavor is undertaken for the education and benefit of the public.;  Main Address:; Edison and Ford Winter Estates; Physical: 2350 McGregor Boulevard; Fort Myers; Florida 33901 United States of America; ;  Telephone: (239) 334-7419; Fax: (239) 332-6787; URL: <a target="_blank" href="http://www.edisonfordwinterestates.org">www.edisonfordwinterestates.org; Primary Email: info@edisonfordwinterestates.org ; 
+Plant Records Officer's Name:	Britta Soderqvist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1947
+Institution Type:	Botanic Garden
+Latitude:	26.6351080
+Longitude:	-81.8792430
+Total Area:	8 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	225000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	1000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Ficus, Codiaeum, palms, cycads, orchids.
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

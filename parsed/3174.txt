@@ -1,0 +1,10 @@
+ID:	3174
+Name:	Calgary Zoo, Botanical Garden & Prehistoric Park 
+Curator's Name:	Corinne Hannah, Horticulturist
+Director's Name:	Unknown
+Info:	  Canada - Alberta - Calgary  ;Garden Information;  Institution Code: CALG; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Calgary Zoo, Botanical Garden & Prehistoric Park; 1300 Zoo Road NE; Mailing: P.O. Box 3036; Calgary; Alberta T2E 7V6 Canada; ;  Telephone: (403) 232-9300; Fax: (403) 237-7582; URL: <a target="_blank" href="http://www.calgaryzoo.org">www.calgaryzoo.org; Primary Email: comments@calgaryzoo.ab.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	51.045123
+Longitude:	-114.029675

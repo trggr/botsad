@@ -1,0 +1,9 @@
+ID:	5595
+Name:	Jardín Botánico EMAJEA 
+Curator's Name:	Téc. Laura Vezzato
+Director's Name:	Ing. Agr. María Florencia Silva
+Info:	  Argentina - Buenos Aires - Lomas de Zamora  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico EMAJEA; Escuela Municipal de Arboricultura, Jardinería y Ecología Aplicada; Avenida Frías 1475; Lomas de Zamora; Buenos Aires 1832 Argentina; ;  Telephone: +54 11 4283 2334; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: emajea@gmail.com ; 
+Plant Records Officer's Name:	Ing. Agr. Verónica Mautone
+Institution Type:	Botanic Garden
+Latitude:	-34.774233
+Longitude:	-58.424777

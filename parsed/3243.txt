@@ -1,0 +1,20 @@
+ID:	3243
+Name:	Jardin Botanico de Cali 
+Administration Staff Number:	3
+Curator's Name:	
+Director's Name:	Jorge Enrique Orejuela-Gartner
+Educational Staff Number:	2
+Horticultural Staff Number:	4
+Info:	  Colombia - Cali  ;Garden Information;  Institution Code: BCAL; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanico de Cali; Av8N #24-118Cali Colombia; Cali; Colombia; ;  Telephone: 57 2 8921687; Fax: ; URL: <a target="_blank" href="http://jardinbotanicodecali.org">jardinbotanicodecali.org; Primary Email: jbc.informacion@gmail.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Date founded:	2001
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	3.4233
+Longitude:	-76.5245
+Natural Vegetation Area:	Yes
+Total Area:	12 Hectares
+Number of Visitors:	10000
+Open to public:	Yes

@@ -1,0 +1,122 @@
+ID:	60
+Name:	Chicago Botanic Garden 
+-" src="https:	//www.bgci.org/files/ERABG/project_images/Louis%20EW%20-%20Credit%20Chicago%20BG%20-%20US.jpg" alt="" width="500" height="335" />
+-"><img src="https:	//www.bgci.org/files/ERABG/project_images/ChicagoBotanicGarden%20/The%20Suzanne%20S.%20Dixon%20prairie_website.jpg" alt="" width="500" height="332" />
+-">Soil monitoring in the field. (Photo credit:	Chicago Botanic Garden)
+-">The Suzanne S. Dixon prairie at the Chicago Botanic Garden, established in 1980. (Photo credit:	Robin Carlson)
+-<img style="display:	block
+-<p style="text-align:	center
+-margin-left:	auto
+-margin-right:	auto
+-" src="https:	//www.bgci.org/files/ERABG/project_images/ChicagoBotanicGarden%20/ColardoPlateau%20/knapweed%20restoration%20plot_website.jpg" alt="" width="500" height="375" />
+-"><img src="https:	//www.bgci.org/files/ERABG/project_images/ChicagoBotanicGarden%20/ColardoPlateau%20/Seed%20collecting_website.jpg" alt="" width="500" height="375" />
+-"><img style="display:	block
+-">CBG scientists are also working on retrospective studies of revegetation outcomes for different species and seed sources used in the Colorado Plateau over the last 10 years. Specifically, this project is:	1) identifying and make data available on seeded species and sources used in treatments via the Land Treatment Digital Library (LTDL), Utah Watershed Restoration Initiative (WRI) and other sources (including native and introduced species, as well as cultivars and source-identified seed)
+-<a href="mailto:	akramer@chicagobotanic.org">Andrea Kramer for more information about this project.
+-<img style="display:	block
+-<p style="text-align:	center
+-font-family:	"Calibri","sans-serif"
+-font-size:	11.0pt
+-margin-left:	auto
+-margin-right:	auto
+-mso-ascii-font-family:	Calibri
+-mso-ascii-theme-font:	minor-latin
+-mso-bidi-font-family:	"Times New Roman"
+-mso-bidi-theme-font:	minor-bidi
+-mso-fareast-font-family:	"Times New Roman"
+-mso-fareast-theme-font:	minor-fareast
+-mso-hansi-font-family:	Calibri
+-mso-hansi-theme-font:	minor-latin
+-mso-padding-alt:	0cm 5.4pt 0cm 5.4pt
+-mso-pagination:	widow-orphan
+-mso-para-margin:	0cm
+-mso-para-margin-bottom:	.0001pt
+-mso-style-noshow:	yes
+-mso-style-parent:	""
+-mso-style-priority:	99
+-mso-style-qformat:	yes
+-mso-tstyle-colband-size:	0
+-mso-tstyle-rowband-size:	0
+-" src="https:	//www.bgci.org/files/ERABG/McDonaldForest.jpg" alt="" width="462" height="342" />
+-<a href="https:	//www.youtube.com/watch?v=g8m0XOXiAM0" target="_blank">Click here&nbsp
+-<img style="display:	block
+-<p style="text-align:	center
+-margin-left:	auto
+-margin-right:	auto
+Fax:	(847) 835-4484
+Info:	  United States of America - Illinois - Glencoe  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: CHIC; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; 
+Primary Email:	plantinfo@chicagobotanic.org
+Telephone:	(847) 835-5440
+Administration Staff Number:	23
+Curator's Name:	Phillip Douglas, Director of Plant Collections
+Director's Name:	Jean M. Franczyk, President and CEO
+Educational Staff Number:	44
+Horticultural Staff Number:	57
+Plant Records Officer's Name:	Boyce Tankersley, Director of Living Plant Documentation
+Research Staff Number:	39
+Altitude:	176.00 Metres
+Annual Rainfall:	940 mm
+Date founded:	1965
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.1523170
+Local Address:	1000 Lake Cook Road
+Locality:	Information
+Longitude:	-87.7862760
+Natural Vegetation Area:	Yes
+Total Area:	156 Hectares
+Total area of glasshouses:	4 Metres
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	1000000
+Number of Volunteers:	2300
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	27
+Cultivation Taxa Num:	13
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,39 @@
+ID:	314
+Name:	St Vincent Botanical Garden 
+Administration Staff Number:	2
+Curator's Name:	Gordon P.J. Shallow
+Director's Name:	Gordon P.J. Shallow
+Educational Staff Number:	
+Horticultural Staff Number:	22
+Info:	  Saint Vincent and the Grenadines - Kingstown  ;Garden Information;  Institution Code: SVGRF; International Agenda Registration: No; BGCI Member: No; About the St Vincent Botanical Garden The St Vincent Botanic Gardens were established in 1765 by General Robert Melville, then Governor of the Windward Islands. At that time they were administered by the British War Office. Their foundation were as gardens for "the cultivation and improvement of many plants now growing wild and the import of others from similar climates" which "would be of great utility to the public and vastly improve the resources of the island". 20 acres were set aside which Melville had cleared. Their first curator was Dr George Young, a keen horticulturist and surgeon to the British forces in the region. He curated the gardens during the first years after its establishment. The French held St Vincent during the years of 1779 to 1783 but Dr Young remained as curator during this time. He also worked closely with General de Bouill‚, Commander in Chief of the French forces in Martinique who was also a keen botanist. They exchanged plants between them for the St Vincent and Martinique botanic gardens respectively.; ; In 1783 Dr Alexander Anderson succeeded Dr Young as curator. Anderson had a close relationship with notable British botanists, particularly Sir Joseph Banks, which helped greatly in the acquisition of new plants for the Gardens. In the Gardens at that time an excellent collection of native and exotic plants was grown. In 1791 nutmeg and black pepper were introduced from French Guiana. Anderson also brought about the introduction of such important plants as Syzygium malaccensis, plum rose; Averrhoa carambola, Carambola and others and shortly afterwards plants of breadfruit, Artocarpus altilis (incisa) arrived in St Vincent on the H.M.S. Providence, introduced by Captain Bligh in 1793 from Tahiti, Polynesia, an event for which the Gardens are famous worldwide, following the mutiny that took place on Bligh's first attempt some years before on the H.M.S. Bounty. This introduction was quite a feat of horticultural skill as the young plants had to maintained on board ship for a long voyage. Seeds of breadfruit die quickly when stored. According to Dr Freitas (pers. comm.) all of the breadfruit trees in St Vincent are derived from suckers of these original introductions. Although it is said that six varieties of breadfruit were introduced into St Vincent there are only two (or two main) varieties used today. Several trees arising from Captain Bligh's original introductions are prominently labelled as such in the Botanic Gardens. Captain Bligh returned to England on the Providence with 465 pots and two tubs of plants from the Botanic Gardens which were sent to the Royal Botanic Gardens, Kew.; ; The St Vincent Botanic Gardens at that time therefore played an extremely important part in making possible the colonization of not just St Vincent but also other islands in the West Indies, introducing, establishing and distributing plants upon which the future economies and food supplies of most islands became based. Of course once this important work had been completed the major task of the Botanic Gardens was over and it became one of a series of agriculture station gardens which occurred on most of the West Indian Islands at that time.; ; On his death in 1811, Anderson was succeeded as curator of the St Vincent Botanic Gardens by William Lockheed in 1812 who remained as curator for only a few years until his death in 1815. He was succeeded by George Caley and in this time the Gardens went into decline. The management of the Gardens was handed from the War Office to the Colonial Office in the early 19th century and in 1823 three acres were removed from the Gardens for the construction of a house for the Colonial Governor, which later became Government House. In 1849 the Gardens appear to have been regarded as abandoned and it was only in 1884 when it came under the control of the British Government again that it was revitalized. Mr H. Powell was installed as curator and he began the work of restoring the Gardens to their former glory. He faced a major setback in 1898 when many species were lost during a hurricane. However, much of the damage was quickly made good and plants that had been lost replaced from the collections of other botanic gardens. In 1904 a botanic station was added to the Gardens for the purpose of "raising and distributing economic plants and assisting local industries" a task which the Gardens continue to perform to the present day.; ; Mr Powell sent many botanical specimens from St Vincent and the Grenadines to the Royal Botanic Gardens, Kew where they remain today as an important record of the native flora. Many of the species contained and described within the paper, Flora of St Vincent and Adjacent Isles, Kew Bulletin, No. 81, September 1893, pages 231 to 296 are based on his collections, and those of his predecessors, some of them from plants grown at the Botanic Gardens. An account of the history of the early history of the Botanic Gardens is given in the Kew Bulletin for 1892, pages 92 to 100.; ; Following Powell tenure as curator, its management was handed over to the Superintendent of Agriculture, Mr William Sands in 1904. His major impact was in creating the present day roads layout and building the Doric Temple and the Allamanda Fountain within it. The management of the Gardens continued under the tenure of six more Superintendents of Agriculture, the last one being Mr Hugh McConnie. During McConnie's time the Gardens flourished thanks to the labours of his assistant, Mr Conrad De Freitas. Today the Gardens remain under the management of the Ministry of Agriculture.;  Main Address:; St Vincent Botanical Garden; Botanical Garden, Old Montrose, Kingstown, P.O. Box 195; Kingstown; Saint Vincent and the Grenadines; ;  Telephone: (1784) 533 1657; Fax: ; URL: <a target="_blank" href="http://www.botanicalgarden.gov.vc">www.botanicalgarden.gov.vc; Primary Email: botanicgardens@hotmail.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	100.00 Metres
+Annual Rainfall:	2000 mm
+Date founded:	1765
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	13.2034
+Longitude:	-61.2652
+Natural Vegetation Area:	Yes
+Total Area:	8 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	30000
+Open to public:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Cultivation Taxa Num:	500
+Plant Collection Policy:	Yes
+Special Collections:	Acanthaceae, Agacaceae, Anacardiaceae, Annonaceae, Apocynaceae, Bignoniaceae, Euphorbiaceae, Lecythidaceae, Fabaceae, Mimosaceae, Malpighaceae, Malvaceae, Meliaceae, Moraceae, Myrtaceae, Palmae (25 spp.), Rubiaceae, Verbenaceae, Zingiberaceae, Hibiscus sp
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes

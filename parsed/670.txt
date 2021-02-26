@@ -1,0 +1,38 @@
+ID:	670
+Name:	Descanso Gardens 
+Administration Staff Number:	5
+Curator's Name:	David Bare, Director of Horticulture & Garden Operations
+Director's Name:	Juliann Rooke, Executive Director
+Educational Staff Number:	4
+Horticultural Staff Number:	12
+Info:	  United States of America - California - La Cañada Flintridge  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Descanso Gardens Descanso Gardens is a 160-acre public botanic and display garden just a 20-minutes drive from downtown Los Angeles. Descanso includes 80 cultivated acres and 80 acres of natural hillside chaparral. This former private estate, now owned by the County of Los Angeles and operated by athe non-profit Descanso Gardens Guild,is known internationally as the home of the largest camellia collection in the United States (20 acres of camellias growing under the canopy of California oaks); the development of warm-winter lilacs; an International Rosarium and history-of-the rose garden and for a natural setting with "micro-climates" appealing to visitors and filmmakers. Descanso is a busy outdoor classroom for a variety of Gardens-developed schools programs and offers many classes, lectures, tours and flower-society shows throughout the year. The lower floor of the Boddy House, home of founder E. Manchester Boddy, is used as a gallery exhibiting nature-related artworks. Open daily except Christmas Day.;  Main Address:; Descanso Gardens; 1418 Descanso Drive; La Cañada Flintridge; California 91011 United States of America; ;  Telephone: (818) 949-4200; Fax: ; URL: <a target="_blank" href="http://www.descansogardens.org">www.descansogardens.org; Primary Email: horticulture@descansogardens.org ; 
+Plant Records Officer's Name:	Roy Jenkins
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1954
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.2016350
+Longitude:	-118.2121310
+Natural Vegetation Area:	Yes
+Total Area:	64 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	350000
+Number of Volunteers:	535
+Open to public:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Camellias, modern and heritage roses, California native plants, warm-winter lilacs, cycads
+Data Management Systems and Information Technology:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

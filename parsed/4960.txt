@@ -1,0 +1,69 @@
+ID:	4960
+Name:	Alexandra Gardens 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	David Pitches
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Info:	  Australia - Victoria - Ararat  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Alexandra Gardens; Vincent Street; Ararat; Victoria 3377 Australia; ;  Telephone: 03 5355 0906; Fax: 03 5352 4825; URL: <a target="_blank" href="http://www.ararat.vic.gov.au/">http://www.ararat.vic.gov.au/; Primary Email: dpitches@ararat.vic.gov.au ; 
+Plant Records Officer's Name:	David Pitches
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	630 mm
+Date founded:	1863
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-37.28025
+Longitude:	142.93111
+Total Area:	4 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

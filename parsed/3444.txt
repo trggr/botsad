@@ -1,0 +1,26 @@
+ID:	3444
+Name:	Museo y Jardin Botanico "Professor Atilio Lombardo" 
+Administration Staff Number:	7
+Curator's Name:	
+Director's Name:	Fabián Muñoz
+Educational Staff Number:	10
+Horticultural Staff Number:	4
+Info:	  Uruguay - Montevideo  ;Garden Information;  Institution Code: MVJB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Museo y Jardin Botanico "Professor Atilio Lombardo"; Av. 19 Abril 1181; Montevideo; 11700 Uruguay; ;  Telephone: +598 336 4005; Fax: +598 2336 6488; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Date founded:	1902
+Institution Type:	Botanic Garden
+Latitude:	-34.860
+Longitude:	-56.198
+Arboretum:	Yes
+Friends society:	Yes
+Number of Visitors:	200
+Number of Volunteers:	9
+Open to public:	Yes
+Cultivation Taxa Num:	1000
+Medicinal Plant Programme:	Yes
+Education:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Systematics and Taxonomy:	Yes
+Education Programme:	Yes

@@ -1,0 +1,60 @@
+ID:	4218
+Name:	Auchgourish Botanic Garden 
+Curator's Name:	
+Director's Name:	Iain Brodie of Falsyde
+Info:	  United Kingdom - Inverness-shire  ;Garden Information;  Institution Code: AUCHG; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Auchgourish Botanic Garden; Street of Kincardine by Boat of Garten; Strath Spey; Inverness-shire PH24 3BP United Kingdom; ;  Telephone: +44 (0)1479 831 464; Fax: +44 (0)1479 831 672; URL: <a target="_blank" href="http://www.auchgourishgardens.org">www.auchgourishgardens.org; Primary Email: info@auchgourishbotanicgarden.org ; 
+Plant Records Officer's Name:	
+Altitude:	250.00 Metres
+Annual Rainfall:	1850 mm
+Date founded:	2001
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	57.25456
+Local Address:	
+Locality:	Information
+Longitude:	-3.72687
+Natural Vegetation Area:	Yes
+Total Area:	15 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

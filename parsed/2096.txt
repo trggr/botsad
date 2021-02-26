@@ -1,0 +1,12 @@
+ID:	2096
+Name:	Botanical Garden of the Anhui Institute of Biology 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Anhui - Hefei  ;Garden Information;  Institution Code: AHBI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of the Anhui Institute of Biology; No. 60 West Section of Suixi Road, Hefei, Anhui, 230031, China; Hefei; Anhui China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	31.8666
+Local Address:	中国安徽省合肥市滩溪路西60号，邮编 230031
+Locality:	Information
+Longitude:	117.2916

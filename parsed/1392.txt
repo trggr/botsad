@@ -1,0 +1,11 @@
+ID:	1392
+Name:	Norfolk Island Botanic Garden 
+Curator's Name:	
+Director's Name:	John Hicks
+Info:	  Norfolk Island - Norfolk Island  ;Garden Information;  Institution Code: NIBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Norfolk Island Botanic Garden; PO Box 310, NORFOLK ISLAND 2899, South Pacific; Norfolk Island; Norfolk Island; ;  Telephone: 0011 6723 22695; Fax: 0015 6723 23397; URL: <a target="_blank" href="http://">; Primary Email: margaret.christian@ea.gov.au ; 
+Plant Records Officer's Name:	
+Date founded:	1986
+Institution Type:	Botanic Garden
+Latitude:	-29.0391
+Longitude:	167.9395
+Special Collections:	90 % of collection is Australian flora. Native plants including trees, lianes and ferns. The Garden aims to cultivate representatives of each one on the island's 178 native spp. (40 endemic species and subspecies).

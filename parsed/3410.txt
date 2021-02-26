@@ -1,0 +1,10 @@
+ID:	3410
+Name:	Dniepropetrovsk Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Ukraine - Dniepropetrovsk  ;Garden Information;  Institution Code: DNIEP; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Dniepropetrovsk Botanic Garden; Nauchniy 13; Dniepropetrovsk; 320625 Ukraine; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	48.46433
+Longitude:	35.0451

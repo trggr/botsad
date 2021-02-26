@@ -1,0 +1,29 @@
+ID:	4759
+Name:	University of Rhode Island Botanical Garden 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Brian Maynard, Professor
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  United States of America - Rhode Island - Kingston  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the University of Rhode Island Botanical Garden The University of Rhode Island has a long and distinguished history as Rhode Island’s agricultural and Land Grant institution. An important part of this history over the past 100 years has included teaching Horticultural Science and planting trees on the Kingston campus. Formal Gardens were created here over 50 years ago. They are now known as the URI Botanical Gardens, started in 1991 with a donation from the Rhode Island Nursery and Landscape Association. The 4.5 acre Botanical Gardens and Horridge Conservatory now rank among the most beautiful places on the URI campus, frequented and treasured by URI faculty, staff, and students. The Gardens are also a valuable teaching and research tool and a model of sustainable landscaping for URI students and faculty from many departments, as well as appreciative visitors from all over New England. Along with the contiguous 1,200 acres of the Everett P. Christopher Arboretum, the URI Botanical Gardens have become a horticultural gem in southern New England.;  Main Address:; University of Rhode Island Botanical Garden; Department of Plant Sciences and Entomology; 215 Woodward Hall; Kingston; Rhode Island 02881 United States of America; ;  Telephone: (401) 874-5372; Fax: (401) 874-2494; URL: <a target="_blank" href="http://cels.uri.edu/uribg">cels.uri.edu/uribg; Primary Email: bmaynard@uri.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	30.40 Metres
+Annual Rainfall:	1267 mm
+Date founded:	1940
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.4888700
+Local Address:	3 East Alumni Ave, Kingston, RI 02881
+Locality:	Information
+Longitude:	71.5254730
+Satellite Garden Names:	The Everett P Christopher Arboretum encompasses the entire University of Rhode Island Kingston Campus.
+Total Area:	2 Hectares
+Total area of glasshouses:	186 Metres
+Arboretum:	Yes
+Arboretum Size:	485
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Reintroduction Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes

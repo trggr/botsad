@@ -1,0 +1,11 @@
+ID:	2083
+Name:	Jardin Botanico "Reinaldo Espinosa" 
+Curator's Name:	
+Director's Name:	Zhofre Aguirre Mendoza
+Info:	  Ecuador - Loja - Loja  ;Garden Information;  Institution Code: LOJA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico "Reinaldo Espinosa"; Ciudadela Universitaria "Guillermo Falconí Espinosa", Universidad Nacional de Loja; Loja; Loja Ecuador; ;  Telephone: 593 (07) 3027930; Fax: 593 7 585275; URL: <a target="_blank" href="http://">; Primary Email: herbloja@cue.satnet.net ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-4.0345
+Longitude:	-79.7874
+Arboretum:	Yes

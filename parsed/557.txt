@@ -1,0 +1,17 @@
+ID:	557
+Name:	Garden of Medicinal Plants, Maj Institute of Pharmacology, Polish Academy of Sciences 
+Curator's Name:	MSc. Anna Sochacka - Obruśnik - Curator of collection and Horticulturist
+Director's Name:	Prof. dr hab. Władysław Lasoń - Head of the Institute of Pharmacology
+Info:	  Poland - małopolskie - Krakow  ;Garden Information;  Institution Code: KRAKM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Garden of Medicinal Plants, Maj Institute of Pharmacology, Polish Academy of Sciences; 176 Radzikowskiego Street; Krakow; małopolskie 31-342 Poland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: gardmed@if-pan.krakow.pl ; 
+Plant Records Officer's Name:	
+Altitude:	214.00 Metres
+Annual Rainfall:	650 mm
+Date founded:	1951
+Institution Type:	Other
+Latitude:	50.0646
+Local Address:	ul. Radzikowskiego 176, 31-342 Kraków, POLSKA
+Locality:	Information
+Longitude:	19.9449
+Total Area:	2 Hectares
+Herbarium:	No
+Special Collections:	Medicinal plants

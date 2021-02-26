@@ -1,0 +1,45 @@
+ID:	661
+Name:	Haverford College Arboretum 
+Fax:	(610) 896-1095
+Info:	  United States of America - Pennsylvania - Haverford  ;Garden Information;  Institution Code: CAA; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; 
+Primary Email:	arbor@haverford.edu
+Telephone:	(610) 896-1101
+Administration Staff Number:	
+Curator's Name:	Sally Anderson, Plant Curator
+Director's Name:	Claudia Kent, Arboretum Director
+Educational Staff Number:	1
+Horticultural Staff Number:	7
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1193 mm
+Date founded:	1834
+Institution Type:	Botanic Garden
+Latitude:	40.0121250
+Longitude:	-75.2995260
+Natural Vegetation Area:	Yes
+Total Area:	80 Hectares
+Arboretum:	Yes
+Arboretum Size:	80
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	2850
+Cultivation Taxa Num:	748
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Landscaped campus of mature oaks, maples and shrubs
+Reintroduction Programme:	No
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes

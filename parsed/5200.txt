@@ -1,0 +1,9 @@
+ID:	5200
+Name:	Institute of Sustainable Biotechnology 
+Curator's Name:	
+Director's Name:	
+Info:	  Puerto Rico - Barranquitas  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Institute of Sustainable Biotechnology; PO Box 517; Barranquitas; 00794 Puerto Rico; ;  Telephone: 787-857-3600; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: janegron@br.inter.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	18.1845559
+Longitude:	-66.3182323

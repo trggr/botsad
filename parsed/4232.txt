@@ -1,0 +1,59 @@
+ID:	4232
+Name:	Brenton Arboretum, The 
+Curator's Name:	Andy Schmitz
+Director's Name:	Melissa Burdick
+Info:	  United States of America - Iowa - Dallas Center  ;Garden Information;  Institution Code: TBREA; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Brenton Arboretum, The; 25141 260th Street; Dallas Center; Iowa 50063 United States of America; ;  Telephone: (515) 992-4211; Fax: (515) 992-3303; URL: <a target="_blank" href="http://www.thebrentonarboretum.org">www.thebrentonarboretum.org; Primary Email: andy@thebrentonarboretum.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1997
+Institution Type:	Botanic Garden
+Latitude:	41.6625470
+Local Address:	25141 260th St.
+Locality:	Information
+Longitude:	-93.9885630
+Total Area:	49 Hectares
+Arboretum:	Yes
+Arboretum Size:	49
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Accession Number:	2400
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

@@ -1,0 +1,70 @@
+ID:	2169
+Name:	Jardin Botanico Regional de Cadereyta - Ing. Manuel Gonzalez de Cosio 
+Administration Staff Number:	
+Curator's Name:	María Magdalena Hernández Martínez
+Director's Name:	Ingeniero Emiliano Sánchez Martínez (President of the Associacion Mexicana de Jardines Botanicos)
+Educational Staff Number:	3
+Horticultural Staff Number:	5
+Info:	  Mexico - Querétaro - Queretaro  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: MAGOC; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Jardin Botanico Regional de Cadereyta - Ing. Manuel Gonzalez de Cosio Despite the fact of Querétaro being only a small State in Central Mexico and unknown to many foreigners, its plants on the other hand, enjoy a worldwide recognition, primarily those of the semi-arid region.; ; Occupying 0.6% of the nation’s territory, with an extension of 11,769 squared kilometres, Querétaro is located between parallels 20° 01’ and 21°37’ and meridians 98° 54’ and 100° 35’. 7 hours from Greenwich Time Zone. The State possesses a rich biodiversity and it is for this reason, rather privileged. Its geography encompasses evergreen forests in the northeast, scrubs of various types (xerophilous) in the central and southern area, as well as temperate forest filled with oaks and pines and evergreen cloud forest in the peaks of the eastern side of the Sierra Madre. This territory is filled with a wide flora variation, nonetheless, it is not exempt from detrimental and destructive factors resulting from human impact; making the threat of extinction not only a real but also a permanent one. Among those species facing the greatest threat of extinction taxa of diverse of families are found, as well as specimens from all type of habitats; without a doubt, the family which has the largest number of species under threat of extinction is the cactacean family.; ; Although of recent foundation, Queretaro’s Botanical Gardens -founded only about 20 years ago, the first being founded in 1986-, have had ever since, a clear vision of their function as important propagation centers of endangered species and an awareness of their role in safeguarding vegetal germplasm of wild species. Because of the concern of local botanists, a large diversity of species with an important economic and ecological relevance have been reproduced in Querétaro even before a global strategy was declared and the first ecological laws provided the legal and institutional framework for this type of activities in Mexico.; ; Our Botanical Gardens have always strived for the implementation of endangered wild species propagation programs, as well as having a reproductive unit available on site. Although our efforts have focused in experimenting with and developing new techniques for the propagation of members of the cactacean family, throughout the years we have had the opportunity of experimenting with other botanical families as well.;  Main Address:; Jardin Botanico Regional de Cadereyta - Ing. Manuel Gonzalez de Cosio; Consejo de Ciencia y Tecnologia del Estado de Queretaro; Pasteur 36 sur; Queretaro; Querétaro 76000 Mexico; ;  Telephone: +52 (441) 2 76 06 47; (442) 2 12 72 66; Fax: +52 (442) 2 14 36 85; URL: <a target="_blank" href="http://www.concyteq.edu.mx/JB/inicio.html">http://www.concyteq.edu.mx/JB/inicio.html; Primary Email: jbotanicocadereyta@concyteq.edu.mx ; 
+Plant Records Officer's Name:	
+Research Staff Number:	4
+Altitude:	2060.00 Metres
+Annual Rainfall:	480 mm
+Date founded:	1990
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	20.6927
+Local Address:	Camino antiguo a Tovares S/N. Predio El Vivero Ejido de Fuentes y Pueblo Nuevo. Cadereyta de Montes, Qro. México
+Locality:	Information
+Longitude:	-99.8181
+Natural Vegetation Area:	Yes
+Total Area:	15 Hectares
+Total area of glasshouses:	1200 Metres
+Total area of shadehouses:	300 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	30000
+Number of Volunteers:	3
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	331
+Cultivation Taxa Num:	112
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Cactaceae, Agavaceae, Fabaceae, dry matorral reserve
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes
+" src="https:	//www.bgci.org/files/ERABG/project_images/Cadereyta/JBRCMEX_6.jpg" alt="" width="500" height="333" />
+"><img src="https:	//www.bgci.org/files/ERABG/project_images/Cadereyta/2016%20OCT%2014%20%288%29_website.jpg" alt="" width="500" height="333" />
+"><img style="display:	block
+">Please contact <a href="mailto:	bmaruri@concyteq.edu.mx">Beatriz Maruri Aguilar for more information about this project.
+">This project aims to restore relicts of natural habitat surrounded by urban areas. As there are no reference habitats to work from, because the degradation of the habitat has happened over many years, two approaches to restoration are considered:	ecological and agroforestry. The hope is to restore some of the ecological services provided by the habitat as well as evaluate the two methods of restoration. The main objective of this project is to develop a mixed strategy of landscape restoration, using ecological and agroforestry methods, to recover relicts of wild areas close to urban settlements whilst helping to preserve native flora and creating a sustainable model of use.
+<img style="display:	block
+<p style="text-align:	center
+margin-left:	auto
+margin-right:	auto

@@ -1,0 +1,42 @@
+ID:	1236
+Name:	Dow Gardens 
+Administration Staff Number:	
+Curator's Name:	Karin Johnson
+Director's Name:	Elizabeth Lumbert, Managing Director
+Educational Staff Number:	
+Horticultural Staff Number:	7
+Info:	  United States of America - Michigan - Midland  ;Garden Information;  Institution Code: DOWM; International Agenda Registration: No; BGCI Member: No; About the Dow Gardens Mission Statement: ; ; The Dow Gardens exist to preserve the history, enhance the horticultural beauty and share the educational and leisure time opportunities of the Herbert H. and Grace A. Dow estate. ​;  Main Address:; Dow Gardens; 1018 West Main Street; Midland; Michigan 48640 United States of America; ;  Telephone: (989) 631-2677; Fax: (989) 631-0675; URL: <a target="_blank" href="http://www.dowgardens.org">www.dowgardens.org; Primary Email: johnson@dowgardens.org ; 
+Plant Records Officer's Name:	Karin Johnson
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1899
+Institution Type:	Botanic Garden
+Latitude:	43.6208650
+Longitude:	-84.2543580
+Satellite Garden Names:	Whiting Forest of the Dow Gardens, 2303 Eastman Ave, Midland, MI 48640
+Total Area:	45 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	6400
+Cultivation Taxa Num:	2100
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

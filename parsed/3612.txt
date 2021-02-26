@@ -1,0 +1,10 @@
+ID:	3612
+Name:	Jardín Etnobotánico Nugkui 
+Curator's Name:	
+Director's Name:	
+Info:	  Peru - Cajamarca - Jaén  ;Garden Information;  Institution Code: NUG; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Etnobotánico Nugkui; Servicio Agropecuario para la Investigcion y Promocion Ecomica, Apdo 10 Jaen (via Chiclayo); Antenor Orrego, Fila Alta; Jaén; Cajamarca Peru; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jempe@terra.com.pe ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-5.7101
+Longitude:	-78.7955

@@ -1,0 +1,12 @@
+ID:	567
+Name:	Tropical Agricultural Research Station 
+Curator's Name:	
+Director's Name:	Director
+Info:	  Puerto Rico - Mayaguez  ;Garden Information;  Institution Code: MAYAG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tropical Agricultural Research Station; Mayaguez Institute of Tropical Agriculture, PO Box 70, MAYAGUEZ, PR 00708, Puerto Rico; Mayaguez; Puerto Rico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.ars.usda.gov">www.ars.usda.gov; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1901
+Institution Type:	Other
+Latitude:	18.2012
+Longitude:	-67.1395
+Special Collections:	Tropical plants of economic and ornamental importance.

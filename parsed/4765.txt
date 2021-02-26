@@ -1,0 +1,55 @@
+ID:	4765
+Name:	Auburn Botanical Gardens 
+Fax:	02 9643 1120
+Info:	  Australia - NSW - AUBURN  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	auburncouncil@auburn.nsw.gov.au
+Telephone:	02 9735 1222
+Administration Staff Number:	1
+Curator's Name:	Greg Hodges
+Director's Name:	Auburn City Council
+Educational Staff Number:	1
+Horticultural Staff Number:	8
+Plant Records Officer's Name:	Greg Hodges
+Research Staff Number:	
+Altitude:	30.00 Metres
+Annual Rainfall:	1100 mm
+Date founded:	1977
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-33.8583495
+Local Address:	Cnr Chiswick and Chisholm Rds, Auburn
+Locality:	Information
+Longitude:	151.0169354
+Natural Vegetation Area:	Yes
+Total Area:	9 Hectares
+Total area of glasshouses:	80 Metres
+Total area of shadehouses:	600 Metres
+Arboretum:	Yes
+Arboretum Size:	9
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	75000
+Number of Volunteers:	3
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes

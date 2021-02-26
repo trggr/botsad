@@ -1,0 +1,76 @@
+ID:	585
+Name:	Chollipo Arboretum Foundation 
+Fax:	+82-41-672-9984
+Info:	  South Korea - Chungchungnam-do  ;Garden Information;  Institution Code: CHOLL; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	chollipo@chollipo.org
+Telephone:	+82-41-672-9982 Ext. 201
+Administration Staff Number:	26
+Curator's Name:	Chang-Ho CHOI
+Director's Name:	Yong-Shik KIM
+Educational Staff Number:	3
+Horticultural Staff Number:	14
+Plant Records Officer's Name:	Wan-Sung KIM
+Research Staff Number:	2
+Altitude:	129.00 Metres
+Annual Rainfall:	583 mm
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	36.46
+Local Address:	32121 태안군 소원면 천리포1길 187
+Locality:	Information
+Longitude:	126.0800
+Natural Vegetation Area:	Yes
+Total Area:	62 Hectares
+Arboretum:	Yes
+Arboretum Size:	58
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	250
+Number of Volunteers:	2
+Open to public:	No
+ABS Policy:	No
+Accession Number:	16
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Mainly Ornamental woody plants including native species which are hardy to temperate region, especially Ilex (over 530 taxa), Actinidia, Magnolia (840 taxa), Camellia (945 taxa) and Hibiscus (324 taxa). The woody species including Berberis, Stewartia, Lauraceae, Hydangea, conifers, Mahonia, Tilia, Cotinus, Prunus, Berberis, Stewaria, Cryptomeria, Pinus and Abies and herbaceosu species includinga aquatics, Lycoris, Narcissus, Cotinus, Rhus, Acanthopanax, Hedera, Asarum, Aster and Senecio, etc. All are databased in the Plant Record Office.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

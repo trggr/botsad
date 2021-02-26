@@ -1,0 +1,18 @@
+ID:	110
+Name:	Gradina Botanica a `Anastasie Fatu`, Iasi 
+Fax:	+(40) 32 201 201
+Info:	  Romania - IASI  ;Garden Information;  Institution Code: IAGB; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	gbot.is@uaic.ro
+Telephone:	+(40) 32 145 620
+Curator's Name:	Cercetator stiintific I dr. Adrian Oprea
+Director's Name:	Assoc.Prof. dr. Cătălin TĂNASE
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1856
+Institution Type:	Botanic Garden
+Latitude:	47.2487
+Longitude:	27.3489
+Total Area:	99 Hectares
+Disabled access:	Yes
+Special Collections:	In the representative collections of the Botanical Garden there are about 6000 species of plants, grown in green houses and outside. The plants come from different bio- geographical areas.
+Special Exhibitions:	Yes

@@ -1,0 +1,22 @@
+ID:	4415
+Name:	Seeds of Success (SOS) 
+Curator's Name:	Megan Haidet, National Collection Curator
+Director's Name:	Peggy Olwell, Native Plant Materials Development Program, BLM Plant Conservation Prog. Lead
+Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Seeds of Success (SOS) Seeds of Success (SOS) was established in 2001 by the Bureau of Land Management (BLM) in partnership with the Royal Botanic Gardens, Kew Millennium Seed Bank (MSB) to collect, conserve, and develop native plant materials for stabilizing, rehabilitating and restoring lands in the United States. The initial partnership between BLM and MSB quickly grew to include many additional partners, such as botanic gardens, arboreta, zoos, and municipalities. These SOS teams share a common protocol and coordinate seed collecting and species targeting efforts. SOS is a vital part of the Native Plant Materials Development Program.;  Main Address:; Seeds of Success (SOS); Bureau of Land Management, Div. of Fish, Wildlife & Plant Conservation; 1620 L Street NW Room 204; Washington; District of Columbia 20240 United States of America; ;  Telephone: (202) 912-7273; Fax: (202) 912-7233; URL: <a target="_blank" href="http://www.nps.gov/plants/sos/">www.nps.gov/plants/sos/; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2001
+Institution Type:	Gene/Seed Bank
+Latitude:	38.9036300
+Longitude:	-77.0370700
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	To date, SOS has over 8,163 native seed collections in its National Collection. This material is being used for direct seeding in local restoration projects and research such as germination trials, common garden studies, and protocol establishment. Portions of each collection are also being held in long-term storage facilities for conservation.
+Ex Situ Conservation Programme:	Yes

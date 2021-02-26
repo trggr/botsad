@@ -1,0 +1,9 @@
+ID:	5598
+Name:	Jardín Botánico Provincial de La Pampa 
+Curator's Name:	
+Director's Name:	Vet. Fernanda González
+Info:	  Argentina - La Pampa - Toay  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Provincial de La Pampa; Av. J. D. Perón y Chimango, Égido de Toay; Toay; La Pampa 6303 Argentina; ;  Telephone: +54 2954 292441; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jardinbotanico@lapampa.gob.ar ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-36.669991
+Longitude:	-64.351620

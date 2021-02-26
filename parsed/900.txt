@@ -1,0 +1,112 @@
+ID:	900
+Name:	Government College University, Lahore Botanic Garden (BGGC) 
+-" src="https:	//www.bgci.org/files/ERABG/project_images/crop%20off%20lower%20part%20to%20show%20only%20the%20hill%20forest.JPG" alt="" width="530" height="398" />
+-"garden-project" style="margin-top:	1em"> Restoration of Dryland Ecosystems in Pakistan <!-- <img src="/files/ERABG/project_images/mdm-SoanValleyPakistan_small.jpg" alt="" /> --> BGCI&nbsp
+-<img style="display:	block
+-<p style="text-align:	center
+-Piloting restoration of a unique yet vanishing natural resource, which can be downloaded <a href="http:	//www.bgci.org/files/Worldwide/News/2015jan_feb/PakistanWoodlowres.pdf" target="_blank">here.
+-font-family:	"Calibri","sans-serif"
+-font-size:	11.0pt
+-line-height:	115%
+-margin-left:	auto
+-margin-right:	auto
+-mso-ascii-font-family:	Calibri
+-mso-ascii-theme-font:	minor-latin
+-mso-fareast-font-family:	"Times New Roman"
+-mso-fareast-theme-font:	minor-fareast
+-mso-hansi-font-family:	Calibri
+-mso-hansi-theme-font:	minor-latin
+-mso-padding-alt:	0cm 5.4pt 0cm 5.4pt
+-mso-pagination:	widow-orphan
+-mso-para-margin-bottom:	10.0pt
+-mso-para-margin-left:	0cm
+-mso-para-margin-right:	0cm
+-mso-para-margin-top:	0cm
+-mso-style-noshow:	yes
+-mso-style-parent:	""
+-mso-style-priority:	99
+-mso-style-qformat:	yes
+-mso-tstyle-colband-size:	0
+-mso-tstyle-rowband-size:	0
+Fax:	(92 42) 9213341
+Info:	  Pakistan - Punjab - Lahore  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: LAHOR; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
+Primary Email:	botanicgarden@gcu.edu.pk
+Telephone:	(92 42) 111000010/256,257, (92 42 6118849) (92 42 6118849)
+Administration Staff Number:	3
+Curator's Name:	Dr.Zafar Siddiq
+Director's Name:	Prof. Dr.Amin U Khan
+Educational Staff Number:	2
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	Dr.Zafar Siddiq
+Research Staff Number:	5
+Altitude:	234.00 Metres
+Annual Rainfall:	350 mm
+Date founded:	1912
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	31.3800
+Local Address:	NA
+Locality:	Information
+Longitude:	73.3800
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Satellite Garden of Indigenous Vegetation at Harappa Mound
+Total Area:	15 Hectares
+Total area of glasshouses:	10 Metres
+Total area of shadehouses:	20 Metres
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	5000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	950
+Cultivation Taxa Num:	700
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Plants are used for teaching and research.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

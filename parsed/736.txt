@@ -1,0 +1,18 @@
+ID:	736
+Name:	Taylor Memorial Arboretum 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  United States of America - Pennsylvania - Wallingford  ;Garden Information;  Institution Code: TAYMA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Taylor Memorial Arboretum; 10 Ridley Drive; Wallingford; Pennsylvania 19086 United States of America; ;  Telephone: (610) 876-2649; Fax: ; URL: <a target="_blank" href="http://taylorarboretum.org">taylorarboretum.org; Primary Email: taylorarboretum@verizon.net ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1931
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.8731010
+Longitude:	-75.3679060
+Total Area:	12 Hectares
+Arboretum:	Yes
+Arboretum Size:	12
+Open to public:	Yes
+Special Collections:	Heather, cotoneaster, boxwood, azaleas, magnolia.
+Reintroduction Programme:	Yes

@@ -1,0 +1,15 @@
+ID:	4486
+Name:	National Tree Seed Centre 
+Curator's Name:	Dale Simpson
+Director's Name:	Dale Simpson, Manager of the National Tree Seed Centre
+Info:	  Canada - New Brunswick - Fredericton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Tree Seed Centre; Canadian Forest Service-Atlantic Forestry Centre; 1350 Regent Street South, P.O. Box 4000; Fredericton; New Brunswick E3B 5P7 Canada; ;  Telephone: (506) 452-3530; Fax: (506) 452-3525; URL: <a target="_blank" href="http://www.nrcan.gc.ca/forests/research-centres/afc/13449">http://www.nrcan.gc.ca/forests/research-centres/afc/13449; Primary Email: dsimpson@NRCan.gc.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1967
+Institution Type:	Gene/Seed Bank
+Latitude:	45.93302
+Longitude:	-66.6567
+Seed Bank:	Yes
+Ex Situ Conservation Programme:	Yes
+Biotechnology:	Yes
+Seed/Spore Biology:	Yes

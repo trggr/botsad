@@ -1,0 +1,17 @@
+ID:	5027
+Name:	Newport Arboretum, The 
+Administration Staff Number:	2
+Curator's Name:	Kristyn Woodland
+Director's Name:	Lilly Dick, Board President
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - Rhode Island - Newport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Newport Arboretum, The The Newport Arboretum is New England's first citywide arboretum.;  Main Address:; Newport Arboretum, The; P.O. Box 863; Newport; Rhode Island 02840 United States of America; ;  Telephone: (401) 324-9204; Fax: ; URL: <a target="_blank" href="http://newportarboretum.org">http://newportarboretum.org; Primary Email: trees@newportarboretum.org ; 
+Plant Records Officer's Name:	Kristyn Woodland
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2011
+Institution Type:	Other
+Latitude:	41.493311
+Longitude:	-71.310520
+Open to public:	Yes
+Published Plant Catalogue:	Yes

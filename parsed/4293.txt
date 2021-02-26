@@ -1,0 +1,10 @@
+ID:	4293
+Name:	Mead Botanical Garden 
+Curator's Name:	
+Director's Name:	Cynthia Hasenau, Executive Director
+Info:	  United States of America - Florida - Winter Park  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Mead Botanical Garden; 1300 South Denning Drive; Winter Park; Florida 32789 United States of America; ;  Telephone: (407) 599-2800; Fax: ; URL: <a target="_blank" href="http://www.meadgarden.org">www.meadgarden.org; Primary Email: info@meadgarden.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	28.5845360
+Longitude:	-81.3585750

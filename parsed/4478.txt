@@ -1,0 +1,10 @@
+ID:	4478
+Name:	Bryn Mawr College 
+Curator's Name:	
+Director's Name:	Glenn Smith, Director of Facilities Services
+Info:	  United States of America - Pennsylvania - Byrn Mawr  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bryn Mawr College; 101 North Merion Avenue; Byrn Mawr; Pennsylvania 19010 United States of America; ;  Telephone: (610) 526-7938; Fax: (610) 526-5217; URL: <a target="_blank" href="http://www.brynmawr.edu">www.brynmawr.edu; Primary Email: gsmith@brynmawr.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	40.0263000
+Longitude:	-75.3128670

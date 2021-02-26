@@ -1,0 +1,10 @@
+ID:	4374
+Name:	Gyeonggi Provincial Mulhyanggi Arboretum 
+Curator's Name:	Jeong-Yu Kim
+Director's Name:	Beom-Kyu Yu
+Info:	  South Korea - Gyeonggi-do - Osan-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gyeonggi Provincial Mulhyanggi Arboretum; 332-4, Sucheong-dong; Osan-si; Gyeonggi-do 447-290 South Korea; ;  Telephone: 031-8008-6667; Fax: 031-8008-6675; URL: <a target="_blank" href="http://mulhyanggi.gg.go.kr">http://mulhyanggi.gg.go.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	37.16817
+Longitude:	127.05864

@@ -1,0 +1,10 @@
+ID:	3254
+Name:	Jardin Botanico del Vichada 
+Curator's Name:	
+Director's Name:	
+Info:	  Colombia - Puerto Carreno  ;Garden Information;  Institution Code: VICPC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico del Vichada; Gobernacion del Departamento, Puerto Carreno, Colombia.; Puerto Carreno; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	6.1442
+Longitude:	-67.4716

@@ -1,0 +1,57 @@
+ID:	4561
+Name:	Western Colorado Botanical Gardens 
+Curator's Name:	Michelle Kolb, Volunteer Coordinator & Business Manager
+Director's Name:	Laura Stafford, Executive Director
+Info:	  United States of America - Colorado - Grand Junction  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Western Colorado Botanical Gardens In 1994, the Western Colorado Botanical Society entered into a long-term lease with the City of Grand Junction for a 15 acre site along the Colorado River. Thousands of volunteer hours were donated to remove the acres of debris before construction could begin.The tropical greenhouse opened on November 8, 1997. Native butterflies were introduced in 1998 into the Butterfly House.; ; The WCBG is home to an Herb Garden, Cactus Garden, Rose Garden and Orchid Display that are maintained by local gardening organizations. The WCBG maintains several other gardens including the Childrens Secret Garden, ShÅzan-en, Celebration Plaza, Community Garden and the lovely public gardens that surround our buildings. As the WCBG grows, more gardens will be developed.;  Main Address:; Western Colorado Botanical Gardens; 641 Struthers Avenue; Grand Junction; Colorado 81501 United States of America; ;  Telephone: (970) 245-3288; Fax: (970) 245-9001; URL: <a target="_blank" href="http://www.wcbotanic.org">www.wcbotanic.org; Primary Email: cdingman@wcbotanic.org ; 
+Plant Records Officer's Name:	
+Altitude:	1397.00 Metres
+Annual Rainfall:	230 mm
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.0555790
+Longitude:	-108.5620740
+Natural Vegetation Area:	Yes
+Total Area:	6 Hectares
+Total area of glasshouses:	278 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	16000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

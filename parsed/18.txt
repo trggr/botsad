@@ -1,0 +1,21 @@
+ID:	18
+Name:	The Royal Zoological Society of Antwerp 
+Administration Staff Number:	1
+Curator's Name:	Tina Maes
+Director's Name:	Dries Herpoelaert
+Educational Staff Number:	
+Horticultural Staff Number:	18
+Info:	  Belgium - Belgium - Antwerp  ;Garden Information;  Institution Code: AWH; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Royal Zoological Society of Antwerp; Koningin Astridplein 26,; Antwerp; Belgium B-2018 Belgium; ;  Telephone: 32 (0)3 202 45 56; Fax: 32 (0)3 202 45 57; URL: <a target="_blank" href="http://www.zooantwerpen.be">www.zooantwerpen.be; Primary Email: tina.maes@kmda.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	51.2049
+Longitude:	4.4141
+Total area of glasshouses:	2000 Metres
+Disabled access:	Yes
+Open to public:	Yes
+Education:	Yes
+Courses for School Children:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

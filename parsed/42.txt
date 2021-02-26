@@ -1,0 +1,27 @@
+ID:	42
+Name:	Botanischer Garten der Ruhr-Universität Bochum 
+Administration Staff Number:	2
+Curator's Name:	Dr. Wolfgang Stuppy
+Director's Name:	Dr. Thomas Stützel, Professor and Director
+Educational Staff Number:	
+Horticultural Staff Number:	40
+Info:	  Germany - Deutschland - Bochum  ;Garden Information;  Institution Code: BOCH; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanischer Garten der Ruhr-Universität Bochum; Universitaetstrasse 150; Bochum; D-44801 Germany - Deutschland; ;  Telephone: 49 (0)234 322 3098; Fax: 49 (0)234 321 4423; URL: <a target="_blank" href="http://www.boga.ruhr-uni-bochum.de/">http://www.boga.ruhr-uni-bochum.de/; Primary Email: bota@rub.de ; 
+Plant Records Officer's Name:	Wolfgang Stuppy
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1968
+Institution Type:	Botanic Garden
+Latitude:	51.4451
+Longitude:	7.2580
+Total Area:	13 Hectares
+Total area of glasshouses:	4000 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Succulents, Alpines, Canary Island plants, Succulent Euphorbia (350 spp.). Cycadaceae, Eriocaulaceae (5 spp.).

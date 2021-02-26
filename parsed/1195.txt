@@ -1,0 +1,31 @@
+ID:	1195
+Name:	Duke Farms 
+Curator's Name:	Paul M. Smith, Group Leader, Landscape & Horticulture
+Director's Name:	Timothy Taylor, Executive Director
+Info:	  United States of America - New Jersey - Hillsborough  ;Garden Information;  Institution Code: DUKES; International Agenda Registration: No; BGCI Member: No; About the Duke Farms Duke Farms, located on 2,740 acres in Hillsborough, Somerset County, N.J., is one of the largest privately-owned parcels of undeveloped land in the state. The property provides critical habitat for endangered species and serves as an important resting place for migratory birds. The property also contains critical grassland habitat, a rarity in this heavily-developed state.; ; The mission of Duke Farms is to be a model of environmental stewardship in the 21st Century and inspire visitors to become informed stewards of the land.; ; Duke Farms seeks to become a healthy and sustainable habitat for native flora and fauna fully integrated with local, state and regional environmental strategies. It will be a place of education, enjoyment and research that enhances the environmental health of the region.;  Main Address:; Duke Farms; 80 Route 206 South; Hillsborough; New Jersey 08844 United States of America; ;  Telephone: (908) 722-3700; Fax: (908) 547-3046; URL: <a target="_blank" href="http://www.dukefarms.org">www.dukefarms.org; Primary Email: ; 
+Plant Records Officer's Name:	Thomas Almendinger, Team Leader for Ecological Stewardship
+Altitude:	0.00 Metres
+Date founded:	1964
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.5545280
+Longitude:	-74.6155320
+Natural Vegetation Area:	Yes
+Open to public:	Yes
+Special Collections:	Camellias, Azaleas, Magnolia, Myrtle, orchids.
+Conservation Programme:	Yes
+Agriculture:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes

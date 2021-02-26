@@ -1,0 +1,11 @@
+ID:	4978
+Name:	Australian PlantBank - Mount Annan Botanic Garden 
+Curator's Name:	Wayne Cherry
+Director's Name:	Cathy Offord, Senior Research Scientist
+Info:	  Australia - New South Wales - Mount Annan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Australian PlantBank - Mount Annan Botanic Garden; Mount Annan Drive; Mount Annan; New South Wales 2567 Australia; ;  Telephone: +61-2-4634 7913; Fax: +61-2-4648 2465; URL: <a target="_blank" href="https://www.australianbotanicgarden.com.au/Science-Conservation/Australian-PlantBank">https://www.australianbotanicgarden.com.au/Science-Conservation/Australian-PlantBank; Primary Email: cathy.offord@rbgsyd.nsw.gov.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	-34.06262
+Longitude:	150.76717
+Seed Bank:	Yes

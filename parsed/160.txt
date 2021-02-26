@@ -1,0 +1,25 @@
+ID:	160
+Name:	Fullerton Arboretum 
+Curator's Name:	Gregory Pongetti
+Director's Name:	Greg Dyment, Director
+Info:	  United States of America - California - Fullerton  ;Garden Information;  Institution Code: MACF; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Fullerton Arboretum The Fullerton Arboretum is your passport to the world of plants. Without going far from home, you can inhale the fragrances of the Mediterranean, feel the cool shade of the redwood forest, delight in the glorious fall color of the northeastern United States, hear the rustle of the palm trees, take a break in a desert oasis, laugh at the funny forms of succulents, and breathe in the perfume of old fashioned roses. This collection of more than 4,000 plants, on 26 acres, is important for other reasons as well. The Fullerton Arboretum helps us to understand the diversity of the world’s plant life and the importance of protecting the earth’s plant treasures.;  Main Address:; Fullerton Arboretum; California State University, Fullerton; 1900 Associated Road; Fullerton; California 92831-3599 United States of America; ;  Telephone: (714) 278-3579; Fax: (714) 278-7066; URL: <a target="_blank" href="http://www.fullertonarboretum.org">www.fullertonarboretum.org; Primary Email: farboretum@fullerton.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1971
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	33.8880900
+Longitude:	-117.8854240
+Natural Vegetation Area:	No
+Total Area:	11 Hectares
+Arboretum:	Yes
+Arboretum Size:	11
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Agavaceae, Aracaceae, Cactaceae, Fabaceae, Pinaceae, Poaceae, Taxodiaceae, Aloe (40 spp., 44 taxa), Diospyros (9 spp., 12 taxa), Erythrina (13 spp., 13 taxa), Ficus (30 spp., 38 taxa), Grewia (6 spp., 16 taxa), Quercus (16 spp., 16 taxa), Rhus (13 spp.)
+Education Signs in Garden:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

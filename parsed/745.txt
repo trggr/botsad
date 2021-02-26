@@ -1,0 +1,33 @@
+ID:	745
+Name:	Jardin Experimental Jean Massart 
+Administration Staff Number:	1
+Curator's Name:	Youri Rouge
+Director's Name:	Prof. P. Meerts
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  Belgium - Brussels  ;Garden Information;  Institution Code: BRLU; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin Experimental Jean Massart; Universite Libre de Bruxelles,; Chaussee de Wavre 1850; Brussels; B-1160 Belgium; ;  Telephone: 32 (0)2 650 91 65 or 32 (0)2 650 91 67; Fax: 31 (0)2 650 91 70; URL: <a target="_blank" href="http://www.ulb.be/jardinmassart">www.ulb.be/jardinmassart; Primary Email: jardinmassart@ulb.ac.be ; 
+Plant Records Officer's Name:	Youri Rouge
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1922
+Institution Type:	Other
+Latitude:	50.8084
+Longitude:	4.4383
+Natural Vegetation Area:	Yes
+Total Area:	4 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Open to public:	Yes
+Cultivation Taxa Num:	2000
+Reintroduction Programme:	No
+Ecology:	Yes
+Floristics:	Yes
+Invasive Species Biology and Control:	Yes
+Restoration Ecology:	Yes
+Systematics and Taxonomy:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

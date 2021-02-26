@@ -1,0 +1,9 @@
+ID:	4694
+Name:	North Carolina Zoological Park 
+Curator's Name:	Miriam Cattabriga, Curator of Horticulture
+Director's Name:	Patricia Simmons, Director & CEO
+Info:	  United States of America - North Carolina - Asheboro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; North Carolina Zoological Park; 4401 Zoo Parkway; Asheboro; North Carolina 27205 United States of America; ;  Telephone: (336) 879-7400; Fax: ; URL: <a target="_blank" href="http://www.nczoo.org">www.nczoo.org; Primary Email: horticulture@nczoo.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	35.6201360
+Longitude:	-79.7553590

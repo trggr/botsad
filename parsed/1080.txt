@@ -1,0 +1,11 @@
+ID:	1080
+Name:	Izu Experimental Station of Medicinal Plants 
+Curator's Name:	
+Director's Name:	
+Info:	  Japan - Minamiizu  ;Garden Information;  Institution Code: TSUK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Izu Experimental Station of Medicinal Plants; Nat. Inst. Hygienic Sciences, 155 Shimokamo, MINAMIIZU, Komo-gun, Shizuaka-Ken, Japan.; Minamiizu; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	36.2048
+Longitude:	138.2529
+Special Collections:	Medicinal plants.

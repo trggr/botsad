@@ -1,0 +1,12 @@
+ID:	1348
+Name:	Zhongguancun Botanical Garden (Beijing) 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Beijing - Haidian  ;Garden Information;  Institution Code: BEIJU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Zhongguancun Botanical Garden (Beijing); Beijing University, Zhongguancun, Haidian District, Beijing, 100081, China; Haidian; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	39.9833
+Local Address:	中国北京海淀区中关村北京大学，邮编 100081
+Locality:	Information
+Longitude:	116.3000

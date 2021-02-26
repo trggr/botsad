@@ -1,0 +1,15 @@
+ID:	2244
+Name:	University of Illinois Arboretum 
+Curator's Name:	William Kruidenier, Interim Associate Director
+Director's Name:	David J. Williams
+Info:	  United States of America - Illinois - Urbana  ;Garden Information;  Institution Code: URBAN; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Illinois Arboretum; 1032 Plant Science Lab MC 6341201; South Dorner Drive; Urbana; Illinois 61801-4778 United States of America; ;  Telephone: (217) 333-7579; Fax: (217) 244-7579; URL: <a target="_blank" href="http://www.arboretum.uiuc.edu">www.arboretum.uiuc.edu; Primary Email: kruideni@illinois.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1989
+Institution Type:	Botanic Garden
+Latitude:	40.1015290
+Longitude:	-88.2218090
+Total Area:	65 Hectares
+Arboretum:	Yes
+Open to public:	Yes
+Education Programme:	Yes

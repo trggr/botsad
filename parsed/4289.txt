@@ -1,0 +1,44 @@
+ID:	4289
+Name:	New Orleans Botanical Garden 
+Administration Staff Number:	1
+Curator's Name:	Kathy McNamara, Horticulture
+Director's Name:	Paul Soniat, Director
+Educational Staff Number:	2
+Horticultural Staff Number:	10
+Info:	  United States of America - Louisiana - New Orleans  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; New Orleans Botanical Garden; 1 Palm Drive; New Orleans; Louisiana 70124 United States of America; ;  Telephone: (504) 483-9386; Fax: (504) 483-9485; URL: <a target="_blank" href="http://www.neworleanscitypark.com/botanical-garden.html">www.neworleanscitypark.com/botanical-garden.html; Primary Email: garden@nocp.org ; 
+Plant Records Officer's Name:	Susan L. Capley, Education
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1936
+Institution Type:	Botanic Garden
+Latitude:	29.9933128
+Longitude:	-90.0984184
+Total Area:	5 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Cultivation Taxa Num:	2000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Reintroduction Programme:	No
+Education:	Yes
+Horticulture:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

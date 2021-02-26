@@ -1,0 +1,11 @@
+ID:	583
+Name:	Arboretum of the Municipality of Paarl 
+Curator's Name:	Unknown
+Director's Name:	Unknown
+Info:	  South Africa - Western Cape - Paarl  ;Garden Information;  Institution Code: PAARL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of the Municipality of Paarl; PO Box 12, PAARL, Cape Province, South Africa.; Paarl; Western Cape South Africa; ;  Telephone: 27 (0)21 8074704; Fax: 27 (0)21 8778054; URL: <a target="_blank" href="http://">; Primary Email: albert@paarlmun.co.za ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1957
+Institution Type:	Botanic Garden
+Latitude:	-33.760668
+Longitude:	18.975511

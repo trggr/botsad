@@ -1,0 +1,79 @@
+ID:	155
+Name:	Ukrainian National Forestry University Botanic Garden 
+Administration Staff Number:	5
+Curator's Name:	Anatoliy Ivchenko, Oleksandra Efremova
+Director's Name:	Ihor Patcura
+Educational Staff Number:	3
+Horticultural Staff Number:	30
+Info:	  Ukraine - L'viv  ;Garden Information;  Institution Code: LVOP; International Agenda Registration: Yes; BGCI Member: No; About the Ukrainian National Forestry University Botanic Garden Ukrainian National Forestry University Botanic Garden is a research, educational and nature protection institution of national significance. The Garden was created on February, 22, 1991 by the Council of Ministers of the Ukrainian SSR and by the Cabinet of Ministers of Ukraine on October 12, 1992. Geographically it consist of dendropark, dendrariy, arboretum and an ornamental nursery covering the area of 26,05 ha.; Nowadays, the flora of the Garden includes above 1300 taxons. They belong to 6 classes (Equisetopsida, Polypodiopsida, Ginkgopsida, Liliopsida, Magnoliopsida, Pinopsida), 130 families and 512 genera. ; The institution includes two departments in its structure: forest and botanical research department, and horticulture and plant reproduction department.;  Main Address:; Ukrainian National Forestry University Botanic Garden; Generala Chuprynky Str., 103; L'viv; 79057 Ukraine; ;  Telephone: (032) 237-88-20; Fax: (032) 237-89-05; URL: <a target="_blank" href="http://www.botsad.nltu.edu.ua/">http://www.botsad.nltu.edu.ua/; Primary Email: botsad@ukr.net ; 
+Plant Records Officer's Name:	Pavlo Tretyak
+Research Staff Number:	8
+Altitude:	340.00 Metres
+Annual Rainfall:	688 mm
+Date founded:	1992
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	49.81388
+Local Address:	вул. Генерала Чупринки, 103
+Locality:	Information
+Longitude:	24.02222
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Dendrarium on Kobylyanska Str., Stradchivskyy Arboretum
+Total Area:	26 Hectares
+Arboretum:	Yes
+Arboretum Size:	13
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	10000
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	6131
+Cultivation Taxa Num:	1308
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	The flora of the Garden belongs to 6 classes (Equisetopsida, Polypodiopsida, Ginkgopsida, Liliopsida, Magnoliopsida, Pinopsida), 130 families and 512 genera.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

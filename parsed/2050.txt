@@ -1,0 +1,25 @@
+ID:	2050
+Name:	Alpengarten auf dem Schachen 
+Administration Staff Number:	
+Curator's Name:	Dr. A. Gröger
+Director's Name:	Prof. Dr. S. Renner
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Germany - Deutschland - München  ;Garden Information;  Institution Code: M; International Agenda Registration: No; BGCI Member: No; About the Alpengarten auf dem Schachen For over 100 years the Botanic Garden München-Nymphenburg manages this satellite garden in the Wetterstein Mountains, which is a range of the Bavarian Alps next to Garmisch-Partenkirchen. At an altitude of 1,860 m conditions are conducive for the culture of approximately 1,000 different species of plants from a diverse range of mountains, stretching from the Bavarian Alps to the Himalayas and down to mountains of the southern hemisphere.;  Main Address:; Alpengarten auf dem Schachen; c/o Botanischer Garten München-Nymphenburg; Menzinger Str. 65; München; 80638 Germany - Deutschland; ;  Telephone: ++49/89/17861310; Fax: ++49/89/17861340; URL: <a target="_blank" href="http://www.botmuc.de/alpen/alps.html">www.botmuc.de/alpen/alps.html; Primary Email: info@botmuc.de ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	1860.00 Metres
+Date founded:	1901
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	48.1578
+Longitude:	11.5053
+Natural Vegetation Area:	Yes
+Total Area:	1 Hectares
+Number of Visitors:	5000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Cultivation Taxa Num:	1000
+Special Collections:	alpine plants from
+Guided Tours:	Yes
+Permanent Public Displays:	Yes

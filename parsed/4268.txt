@@ -1,0 +1,26 @@
+ID:	4268
+Name:	John C. Gifford Arboretum 
+Curator's Name:	Ms. Anuradha Gunathilake, Aldridge Curator
+Director's Name:	Stephen Pearson, Director
+Info:	  United States of America - Florida - Coral Gables  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the John C. Gifford Arboretum The University of Miami's Gifford Arboretum contains 450+ trees maintained for education and research. Free and open to the public, it is a place of tranquility and beauty that also inspires interest in and appreciation for tropical plants. Its signage permits visitors to learn through QR codes for every plant.;  Main Address:; John C. Gifford Arboretum; University of Miami, Department of Biology; 1301 Memorial Drive, Cox Sci Cntr, Rm 231; Coral Gables; Florida 33146 United States of America; ;  Telephone: (305) 284-1302; Fax: (305) 284-3039; URL: <a target="_blank" href="http://www.bio.miami.edu/arboretum">www.bio.miami.edu/arboretum; Primary Email: giffordarboretum@bio.miami.edu ; 
+Plant Records Officer's Name:	Ms. Anuradha Gunathilake
+Altitude:	0.00 Metres
+Date founded:	1947
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	25.7202260
+Longitude:	-80.2718910
+Natural Vegetation Area:	No
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+Courses for University/College Students:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes

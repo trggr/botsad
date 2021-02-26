@@ -1,0 +1,75 @@
+ID:	4291
+Name:	Smith-Gilbert Gardens 
+Administration Staff Number:	2
+Curator's Name:	Dave Simpson, Lead Horticulturist
+Director's Name:	Ann Parsons, Executive Director
+Educational Staff Number:	2
+Horticultural Staff Number:	2
+Info:	  United States of America - Georgia - Kennesaw  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Smith-Gilbert Gardens Smith-Gilbert Gardens is a premier metro Atlanta botanical garden and learning center located in Kennesaw, Georgia. Smith-Gilbert is a collector's garden with a wide variety of plant material including different outdoor contemporary sculptures and the historic Hiram Butler House. The Gardens offer educational programs for both children and adults and includes topics such as beekeeping, rock wall building, Bonsai gardening, caring for ferns, perennial flower beds, plein air painting classes, and a whole lot more.;  Main Address:; Smith-Gilbert Gardens; 2382 Pine Mountain Road; Kennesaw; Georgia 30152 United States of America; ;  Telephone: (770) 919-0248; Fax: ; URL: <a target="_blank" href="http://www.smithgilbertgardens.com">www.smithgilbertgardens.com; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1270 mm
+Date founded:	2004
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.0092660
+Longitude:	-84.6312080
+Natural Vegetation Area:	Yes
+Total Area:	5 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	8000
+Number of Volunteers:	150
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	3300
+Cultivation Taxa Num:	3300
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Of our 3300 taxa 70 are in our bonsai display, 93 are in our rose garden and 250 represent the number of conifers planted on the grounds. Of the remaining 2887, approximately 40% are indigenous to the SE US and the remaining are exotics from other regions or countries.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

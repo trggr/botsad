@@ -1,0 +1,26 @@
+ID:	100
+Name:	Biozentrum Klein Flottbek und Botanischer Garten 
+Curator's Name:	Stefan Rust
+Director's Name:	Dr. Carsten Schirarend
+Info:	  Germany - Deutschland - Hamburg  ;Garden Information;  Institution Code: HBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Biozentrum Klein Flottbek und Botanischer Garten; Botanischer Garten, Hesten 10, D-22609 HAMBURG, Germany.; Hamburg; Germany - Deutschland; ;  Telephone: 49 40 42816-476; Fax: 49 40 42816-489; URL: <a target="_blank" href="http://www.biologie.uni-hamburg.de/ialb/ialbinh.htm">www.biologie.uni-hamburg.de/ialb/ialbinh.htm; Primary Email: hortus@botanik.uni-hamburg.de ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	53.5581
+Longitude:	9.8433
+Total Area:	25 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Accession Number:	22
+Cultivation Taxa Num:	10
+Special Collections:	Aizoaceae (1,500 spp., 30,000 accessions),Masdevallia, Cycads, Bromeliaceae, Bambusoidea, Cycadaceae, Orchidaceae (c.2,500 accessions), Zingiberaceae, Piperaceae, Begoniaceae.
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

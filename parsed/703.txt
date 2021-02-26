@@ -1,0 +1,38 @@
+ID:	703
+Name:	Fernwood Botanical Garden and Nature Preserve 
+Administration Staff Number:	4
+Curator's Name:	Steve Bornell, Plant Collection Manager
+Director's Name:	Carol Line, Executive Director
+Educational Staff Number:	3
+Horticultural Staff Number:	4
+Info:	  United States of America - Michigan - Niles  ;Garden Information;  Institution Code: NILES; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Fernwood Botanical Garden and Nature Preserve Fernwood’s mission is to enrich the lives of all people by stimulating the appreciation of nature, exemplifying harmony between people, plants, gardens, and wildlife, and using the distinctive natural and cultivated habitats known as Fernwood.;  Main Address:; Fernwood Botanical Garden and Nature Preserve; 13988 Range Line Road; Niles; Michigan 49120 United States of America; ;  Telephone: (269) 695-6491; Fax: (616) 695-6688; URL: <a target="_blank" href="http://www.fernwoodbotanical.org">www.fernwoodbotanical.org; Primary Email: visitor@fernwoodbotanical.org ; 
+Plant Records Officer's Name:	Ann Desenberg, Collections Recorder
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	1964
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.8621290
+Local Address:	13988 Range Line Rd.
+Locality:	Information
+Longitude:	-86.3400570
+Natural Vegetation Area:	Yes
+Total Area:	43 Hectares
+Total area of glasshouses:	93 Metres
+Total area of shadehouses:	10 Metres
+Arboretum:	Yes
+Arboretum Size:	16
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	25000
+Number of Volunteers:	250
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	From the aconites of early spring through the asters and mums of fall, Fernwood is an ever-changing landscape of blooming plants. In April and May, visitors enjoy drifts of daffodils and primroses, a wonderful variety of flowering trees and shrubs, and Fernwood’s famous blue lawn. Summer brings a rich diversity of shade- and sun-loving perennials, annuals, and herbs, plus many butterflies. Even after the first frosts of autumn, the gardens continue to delight with colorful displays of perennials and ornamental grasses.
+Education Programme:	Yes
+Visitor/Education Centre:	Yes

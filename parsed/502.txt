@@ -1,0 +1,10 @@
+ID:	502
+Name:	Botanic Garden of the Faculty of Science 
+Curator's Name:	Isawo Kawai
+Director's Name:	Nobuo Satomi
+Info:	  Japan - Kanazawa  ;Garden Information;  Institution Code: KANA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden of the Faculty of Science; University of Kanazawa, Marunouchi, KANAZAWA-SHI, Ishikawaken, Japan.; Kanazawa; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1950
+Institution Type:	Botanic Garden
+Latitude:	36.5704
+Longitude:	136.6442

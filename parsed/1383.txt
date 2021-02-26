@@ -1,0 +1,51 @@
+ID:	1383
+Name:	National Botanic Gardens Foundation 
+Administration Staff Number:	11
+Curator's Name:	Mr. Peter Estico
+Director's Name:	Mr. Raymond Brioche
+Educational Staff Number:	2
+Horticultural Staff Number:	41
+Info:	  Seychelles - Mahe  ;Garden Information;  Institution Code: MAHE; International Agenda Registration: Yes; BGCI Member: No; About the National Botanic Gardens Foundation The Botanical Garden is over 100 years old and is located in the heart of Victoria. It was set up as an experimental garden for crop species during colonial times. However, the functions changed over time and today the garden is used as a park where visitors could enjoy a century of existence.; ; The Biodiversity Centre on the other hand has been set up with the aim to conserve and propagate our local flora. Visitors will have the opportunity to discover the myriad of plants present in the diferent ecosystem of the Seychelles.;  Main Address:; National Botanic Gardens Foundation; P.O Box 148, Victoria, Mahe, Seychelles; Mahe; Seychelles; ;  Telephone: 248 4295300; Fax: 248 4295305; URL: <a target="_blank" href="http://www.pps.gov.sc/enviro/">http://www.pps.gov.sc/enviro/; Primary Email: admin@nbgf.sc ; 
+Plant Records Officer's Name:	Mr. Collin Barreau
+Research Staff Number:	1
+Altitude:	30.00 Metres
+Annual Rainfall:	2000 mm
+Date founded:	1901
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-4.6844
+Longitude:	55.4503
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Biodiversity Centre
+Total Area:	6 Hectares
+Arboretum:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	26000
+Number of Volunteers:	7
+Open to public:	Yes
+Accession Number:	500
+Cultivation Taxa Num:	150
+Invasive Species Monitoring:	Yes
+Special Collections:	A good collection of native plants (Biodiversity Centre) and a good collection of plants collected by the founder of the garden which has historical significance.Over 60% of the Seychelles endemic flowering plants from the granitic island being grown. A further 20% are in trial in the propagation house.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Systematics and Taxonomy:	Yes
+Courses for School Children:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,9 @@
+ID:	5347
+Name:	Ogród Zoobotaniczny w Toruniu 
+Curator's Name:	
+Director's Name:	
+Info:	  Poland - Toruń  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ogród Zoobotaniczny w Toruniu; ul. Bydgoska 7; 87-100 Toruń; Toruń; Poland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.zoo.torun.pl/pl">http://www.zoo.torun.pl/pl; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	53.009523
+Longitude:	18.590428

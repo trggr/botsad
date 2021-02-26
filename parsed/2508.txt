@@ -1,0 +1,75 @@
+ID:	2508
+Name:	High Beeches Gardens Conservation Trust 
+Fax:	+44 (0) 1444 401543
+Info:	  United Kingdom - West Sussex  ;Garden Information;  Institution Code: HBGC; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	gardens@highbeeches.com
+Telephone:	+44 (0) 1444 400589
+Administration Staff Number:	1
+Curator's Name:	Sarah Bray
+Director's Name:	Sarah Bray
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Sarah Bray
+Research Staff Number:	
+Altitude:	150.00 Metres
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	51.063722
+Local Address:	High Beeches, High Beeches Lane, Handcross
+Locality:	Information
+Longitude:	-0.182318
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Arboretum Size:	10
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	7000
+Number of Volunteers:	1
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Large collection of temperate trees and shrubs.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

@@ -1,0 +1,24 @@
+ID:	4302
+Name:	Shangri La Botanical Gardens & Nature Center 
+Administration Staff Number:	3
+Curator's Name:	Mark Hines, Garden Supervisor
+Director's Name:	Rick Lewandowski, Director
+Educational Staff Number:	9
+Horticultural Staff Number:	8
+Info:	  United States of America - Texas - Orange  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Shangri La Botanical Gardens & Nature Center; 2111 West Park Avenue; P.O. Box 1044; Orange; Texas 77630 United States of America; ;  Telephone: (409) 670-9113; Fax: (409) 670-9341; URL: <a target="_blank" href="http://www.shangrilagardens.org">www.shangrilagardens.org; Primary Email: info@shangrilagardens.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2008
+Institution Type:	Botanic Garden
+Latitude:	30.1028720
+Longitude:	-93.7516310
+Natural Vegetation Area:	Yes
+Total Area:	102 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Reintroduction Programme:	No
+Land Restoration:	Yes
+Education Programme:	Yes
+Visitor/Education Centre:	Yes

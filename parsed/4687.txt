@@ -1,0 +1,9 @@
+ID:	4687
+Name:	Buffalo Zoological Gardens 
+Curator's Name:	Steven Mead, Horticulturist
+Director's Name:	Unknown
+Info:	  United States of America - New York - Buffalo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Buffalo Zoological Gardens; 300 Parkside Avenue; Buffalo; New York 14214 United States of America; ;  Telephone: (716) 837-3900; Fax: ; URL: <a target="_blank" href="http://www.buffalozoo.org">www.buffalozoo.org; Primary Email: zoomem@buffalozoo.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	42.9382314
+Longitude:	-78.8506629

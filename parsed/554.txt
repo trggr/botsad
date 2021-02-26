@@ -1,0 +1,14 @@
+ID:	554
+Name:	Ogród Roslin Leczniczych Gdanskiego Uniwersytetu Medycznego 
+Fax:	
+Info:	  Poland - pomorskie - Gdańsk  ;Garden Information;  Institution Code: GDANS; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	orl@gumed.edu.pl
+Telephone:	
+Curator's Name:	dr Loretta Pobłocka-Olech
+Director's Name:	dr hab. n. farm. Mirosława Krauze-Baranowska, prof. nadzw.
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1947
+Institution Type:	Botanic Garden
+Latitude:	54.3934
+Longitude:	18.6222

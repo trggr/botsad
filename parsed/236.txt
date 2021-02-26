@@ -1,0 +1,39 @@
+ID:	236
+Name:	Botanical Garden of the Urals Branch of Russian Academy of Sciences 
+Curator's Name:	Dr. Vladimir A. Lebedev
+Director's Name:	Dr. Irina V. Petrova
+Info:	  Russian Federation - Sverdlovsk Region - Yekaterinburg  ;Garden Information;  Institution Code: SVER; International Agenda Registration: Yes; BGCI Member: Yes; About the Botanical Garden of the Urals Branch of Russian Academy of Sciences The Botanical Garden of the Ural Department of the Russian Academy of Sciences is the biggest regional center in plant acclimatization and cultivation, applied botany, plant taxonomy, forest ecosystems research, plant conservation and nature protection.; The basic directions of activity of the Institute Botanical Garden.; -Developing scientific principles and methods of acclimatisation and cultivation ofornamental, economically useful and endangered plants from all over the world in the Ural Region ; -Developing effective methods of plant conservation and preservation of their genepool in the Ural Region, including establishment of a system of specially protected Natural territories (Natural Reserves) for conservation and of rare and endangered species of plants in the Ural Region.; -Developing scientific principles and technologies for use of the biological resources, such as renewable forest resources, providing their steady reproduction.; ; During recent years research has been carried out on: ; - population ecology and population genetics of Pinaceae and Orchidaceae families; ; - plant taxonomy; ; - biodiversity;; - forest formation;; - conservation of endangered plants on the specific territories, that are under heavy anthropogenic pressure.;  Main Address:; Botanical Garden of the Urals Branch of Russian Academy of Sciences; Russia, 620144, Yekaterinburg, 8 March street, 202a; Yekaterinburg; Sverdlovsk Region 620144 Russian Federation; ;  Telephone: +7 343 2103859; Fax: ; URL: <a target="_blank" href="http://botgard.uran.ru">botgard.uran.ru; Primary Email: common@botgard.uran.ru ; 
+Plant Records Officer's Name:	
+Altitude:	270.00 Metres
+Date founded:	1936
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	56.8378
+Longitude:	60.5968
+Natural Vegetation Area:	Yes
+Total Area:	50 Hectares
+Arboretum:	Yes
+Arboretum Size:	10
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Invasive Species Monitoring:	Yes
+Special Collections:	Pináceae (95 taxa), Cupressaceae (120 taxa), Rosaceae (350 taxa), Ericaceae (Rhododendron, 80 taxa), Salicaceae (Salix and Populus, 300 taxa), Ranunculaceae (Clematis, 140 taxa), Paeoniaceae (Paeónia, 60 taxa), Polemoniaceae (Phlox, 180 taxa), Orchidaceae (terrestrial orchids ca.120 spp., primarily Cypripedium spp.)
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Biotechnology:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for School Children:	Yes
+Guided Tours:	Yes

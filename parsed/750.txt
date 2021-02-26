@@ -1,0 +1,71 @@
+ID:	750
+Name:	UPT Balai Konservasi Tumbuhan Kebun Raya "Eka Karya" Bali - LIPI 
+Curator's Name:	
+Director's Name:	I Nyoman Lugrayasa
+Info:	  Indonesia - Bali - Tabanan  ;Garden Information;  Institution Code: BO(B); International Agenda Registration: Yes; BGCI Member: No; About the UPT Balai Konservasi Tumbuhan Kebun Raya "Eka Karya" Bali - LIPI Bali Botanic Garden was originally established as a collection of species of conifer (non-flowering seed plants, or Gymnosperms) from throughout the world, and as a place for recreation. It was also equipped for scientific, cultural and technical activities.; The four main functions of Bali Botanic Garden are: exploration, inventory and research; conservation; recreation; and education. The institution offers a number of scientific services and facilities in support of plant research and conservation, including herbarium, seed bank, library, glasshouses, nursery, and plant database;  Main Address:; UPT Balai Konservasi Tumbuhan Kebun Raya "Eka Karya" Bali - LIPI; Candikuning, Baturiti, Tabanan, Bali; -; Tabanan; Bali 82191 Indonesia; ;  Telephone: +62 368 2033211, +62 368 2033170; Fax: +62 368 2033171; URL: <a target="_blank" href="http://krbali.lipi.go.id/">http://krbali.lipi.go.id/; Primary Email: krbali@mail.lipi.go.id ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1959
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-8.4545
+Local Address:	Bedugul
+Locality:	Information
+Longitude:	115.0749
+Natural Vegetation Area:	No
+Total Area:	158 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	400000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	2300
+Cultivation Taxa Num:	78
+In addition to the general collections, specialized collections offer depth and breadth within 8 selected themes or families. These specialized collections include:	Ferns, Orchids, Cactus, Begonia, Medicinal plants, Ceremonial plants, Roses and Aquatic plants. Specialty collections are important nationally because of their scope.
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

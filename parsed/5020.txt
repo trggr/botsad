@@ -1,0 +1,9 @@
+ID:	5020
+Name:	Hippocrates Botanic Garden of Lemnos, Department of Food Science and Nutrition, University of the Ae 
+Curator's Name:	Katerina Vlachaki
+Director's Name:	Haralabos C. Karatonis
+Info:	  Greece - Lemnos - Myrina  ;Garden Information;  Institution Code: BGL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hippocrates Botanic Garden of Lemnos, Department of Food Science and Nutrition, University of the Ae; University of the Aegean - Research Unit; University Hill, Administration Building; Myrina; Lemnos GR-81400 Greece; ;  Telephone: 0030 2254083100; Fax: 0030 2254083109; URL: <a target="_blank" href="http://lemnos-bg.aegean.gr/">http://lemnos-bg.aegean.gr/; Primary Email: chkarantonis@aegean.gr ; 
+Plant Records Officer's Name:	Irini Vallianatou
+Institution Type:	Botanic Garden
+Latitude:	39.085037
+Longitude:	26.568975

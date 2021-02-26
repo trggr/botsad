@@ -1,0 +1,10 @@
+ID:	2003
+Name:	The Tree Register of the British Isles 
+Curator's Name:	
+Director's Name:	Victoria Schilling
+Info:	  United Kingdom - Bedfordshire  ;Garden Information;  Institution Code: TRREG; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Tree Register of the British Isles; c/o Mrs Stevenson, 77a Hall End, Wootton, Beds MK43 EHP, U.K.; Bedfordshire; United Kingdom; ;  Telephone: (44) (0) 1234 768884; Fax: (44) (0) 1234 768884; URL: <a target="_blank" href="http://www.tree-register.org">www.tree-register.org; Primary Email: info@tree-register.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	52.099478
+Longitude:	-0.539605

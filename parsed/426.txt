@@ -1,0 +1,13 @@
+ID:	426
+Name:	Zentralinstitut fur Genetik 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Gatersleben  ;Garden Information;  Institution Code: GAT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Zentralinstitut fur Genetik; Kreis Aschersleben, D-06466 GATERSLEBEN, Germany; Gatersleben; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1945
+Institution Type:	Gene/Seed Bank
+Latitude:	51.8152
+Longitude:	11.2940
+Seed Bank:	Yes
+Special Collections:	Cultivated plants of the temperate regions, especially cereals, legumes, vegetables (landraces and old and recent cultivars, related wild taxa)

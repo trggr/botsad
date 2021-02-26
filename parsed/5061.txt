@@ -1,0 +1,12 @@
+ID:	5061
+Name:	National Botanic Garden of Vacratot 
+Curator's Name:	
+Director's Name:	Vince Zsigmond
+Info:	  Hungary - Vacratot  ;Garden Information;  Institution Code: NBGV; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; National Botanic Garden of Vacratot; 2163 Vacratot; Alkotmany u. 2-4; Vacratot; 2163 Hungary; ;  Telephone: 00 36 (06) 28 360-122; Fax: ; URL: <a target="_blank" href="http://www.botanikuskert.hu">www.botanikuskert.hu; Primary Email: botanikuskert@ecolres.hu ; 
+Plant Records Officer's Name:	Beáta Tokár
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	47.7093965
+Longitude:	19.2313569
+Number of Visitors:	40000
+Number of Volunteers:	60

@@ -1,0 +1,10 @@
+ID:	3145
+Name:	Jardin Botanico de Hampolol 
+Curator's Name:	Rodolfo Noriega Trejo
+Director's Name:	Unknown
+Info:	  Mexico - Campeche - Campeche  ;Garden Information;  Institution Code: CAMP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Hampolol; Carretera Campeche Merida km 17.5; Universidad Autonoma de Campeche; Campeche; Campeche 24030 Mexico; ;  Telephone: 01 981 19800 ext. 62500; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jomartip@mail.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	19.8454
+Longitude:	-90.5236

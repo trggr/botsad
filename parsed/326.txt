@@ -1,0 +1,11 @@
+ID:	326
+Name:	Lakehead University Arboretum 
+Curator's Name:	
+Director's Name:	Dr. Ulf Runesson, R.P.F., Interim Dean and Chair, HBScF Program
+Info:	  Canada - Ontario - Thunder Bay  ;Garden Information;  Institution Code: LKHDF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lakehead University Arboretum; Faculty of Natural Resources Management, Lakehead University; 955 Oliver Road; Thunder Bay; Ontario P7B 5E1 Canada; ;  Telephone: (807) 343-8507; Fax: (807) 343-8116; URL: <a target="_blank" href="http://nrm.lakeheadu.ca">http://nrm.lakeheadu.ca; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1975
+Institution Type:	Botanic Garden
+Latitude:	48.42345
+Longitude:	-89.26171

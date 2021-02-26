@@ -1,0 +1,34 @@
+ID:	376
+Name:	Arboretum Mustila 
+Curator's Name:	Jaakko Saarinen, Plant Records
+Director's Name:	Jukka Reinikainen, Executive Director
+Info:	  Finland - Elimäki  ;Garden Information;  Institution Code: ELIMA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Mustila; Mustilantie 57; Elimäki; SF-47200 Finland; ;  Telephone: +358 5 377 6678; Fax: ; URL: <a target="_blank" href="http://www.mustila.fi">http://www.mustila.fi; Primary Email: arboretum@mustila.fi ; 
+Plant Records Officer's Name:	
+Altitude:	40.00 Metres
+Date founded:	1902
+Institution Type:	Botanic Garden
+Latitude:	60.7333
+Local Address:	Valtioneuvos A.F.Tigerstedt 1902 perustama ulkomaisten puulajien kokeilupuiston. Alue on lajissaan ainutlaatuinen puu- ja koristekasvilajien kokoelma koko Pohjois-Euroopassa.
+Locality:	Information
+Longitude:	26.4833
+Total Area:	120 Hectares
+Arboretum:	Yes
+Arboretum Size:	120
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	20000
+Open to public:	Yes
+Cultivation Taxa Num:	500
+Special Collections:	Nearly 100 conifer species, more than 200 broad-leaved tree species and numerous shrubs, vines, bulbs and perennials have been planted in Arboretum Mustila. More than 500 taxa are present.
+Reintroduction Programme:	No
+Education:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Courses for General Public:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

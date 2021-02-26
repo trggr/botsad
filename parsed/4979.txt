@@ -1,0 +1,17 @@
+ID:	4979
+Name:	Tasmanian Seed Conservation Centre (TSCC) 
+Curator's Name:	James Wood, Seed Bank Coordinator
+Director's Name:	-
+Info:	  Australia - Tasmania - Hobart  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Tasmanian Seed Conservation Centre (TSCC) The Tasmanian Seed Conservation Centre is a seed bank facility based at the Royal Tasmanian Botanical Gardens. It was opened in 2005 as part of international Millennium Seed Bank Project. The seed bank is focused on the native flora of Tasmania, with a particular emphasis on Tasmania's Rare and Threatened plants. A small number of introduced weeds and garden exotics are also held. The seed bank currently has one full time member of staff and a number of volunteers who assist in the processing and curation of the seed collections. Collecting priorities for the seed bank are informed and assisted by staff of the Biodiversity and Conservation Branch of Department of Primary Industries, Parks, Water and Environment. Collection verification is handled by the staff of the Tasmanian Herbarium.;  Main Address:; Tasmanian Seed Conservation Centre (TSCC); Royal Tasmanian Botanical Gardens; Queens Domain; Hobart; Tasmania 7000 Australia; ;  Telephone: 03 6236 3050; Fax: 03 6236 3051; URL: <a target="_blank" href="http://www.rtbg.tas.gov.au/index.aspx?base=157">http://www.rtbg.tas.gov.au/index.aspx?base=157; Primary Email: James.Wood@rtbg.tas.gov.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2005
+Institution Type:	Gene/Seed Bank
+Latitude:	-42.86422
+Longitude:	147.32896
+Seed Bank:	Yes
+Accession Number:	1291
+Cultivation Taxa Num:	971
+Kingdoms covered include:	Plantae.
+Special Collections:	Taxonomic range
+Conservation Programme:	Yes

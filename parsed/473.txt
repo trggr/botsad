@@ -1,0 +1,78 @@
+ID:	473
+Name:	Orto Botanico dell`Universita di Ferrara 
+Fax:	+39 0532 208561
+Info:	  Italy - Emilia Romagna - Ferrara  ;Garden Information;  Institution Code: FER; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	ortobotanico@unife.it
+Telephone:	+39 0532 293782
+Administration Staff Number:	1
+Curator's Name:	Dr. Fabrizio Negrini
+Director's Name:	Prof. Renato Gerdol
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Fabrizio Negrini
+Research Staff Number:	
+Altitude:	8.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1771
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	44.8060
+Local Address:	Corso Ercole I d'Este, 32
+Locality:	Information
+Longitude:	11.6700
+Natural Vegetation Area:	No
+Total area of glasshouses:	135 Metres
+Total area of shadehouses:	1000 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	8000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	2500
+Cultivation Taxa Num:	1962
+In this section the plants are grouped according to the usefulness to humans. The section includes the following sectors:	“Orchard garden”, “Plants for industry”, “Aromatic plants”, “Medicinal Plants”.
+Special Collections:	A brief description of collections and sectors is reported.
+This section collects protected plants of the Italian flora originating, in large part, the territory of Ferrara. The section is divided into two areas:	“Halophilous and terrestrial plants”, “Aquatic and hygrophilous plants”.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

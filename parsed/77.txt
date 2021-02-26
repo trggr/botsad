@@ -1,0 +1,11 @@
+ID:	77
+Name:	Experimental Field 
+Curator's Name:	
+Director's Name:	
+Info:	  Kazakhstan - Dzhezkazgan  ;Garden Information;  Institution Code: DZHE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Experimental Field; 472810 DZHEZKAZGAN, Kazakhstan; Dzhezkazgan; Kazakhstan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1966
+Institution Type:	Other
+Latitude:	47.7755
+Longitude:	67.6878

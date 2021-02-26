@@ -1,0 +1,47 @@
+ID:	1330
+Name:	Ventnor Botanic Garden 
+Fax:	44 (0)1983 856154
+Info:	  United Kingdom - Ventnor  ;Garden Information;  Institution Code: VENTN; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	info@botanic.co.uk
+Telephone:	44 (0)1983 855397
+Administration Staff Number:	2
+Curator's Name:	Chris Kidd
+Director's Name:	.John T Curtis
+Educational Staff Number:	1
+Horticultural Staff Number:	7
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	600.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1971
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	50.585459
+Longitude:	-1.246857
+Natural Vegetation Area:	Yes
+Total Area:	11 Hectares
+Total area of glasshouses:	300 Metres
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Number of Visitors:	300000
+Number of Volunteers:	60
+Open to public:	Yes
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Collections of plants displayed in synthetic landscapes showing ecologies from South Africa, Australis, New Zealand and Old World Mediterranean. Also non phytogeographic displays of plants from the temperate regions of the world. National Collection of Puya.
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Horticulture:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

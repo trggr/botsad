@@ -1,0 +1,9 @@
+ID:	4219
+Name:	Jardin Botanico Nacional 
+Curator's Name:	
+Director's Name:	
+Info:	  Guatemala - Ciudad de Guatemala  ;Garden Information;  Institution Code: GUFDN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Nacional; Fundacion Defensores de la Naturaleza; 7 Avenida 7-09 Zona 13; Ciudad de Guatemala; Guatemala; ;  Telephone: (502) 2440 8138; Fax: ; URL: <a target="_blank" href="http://www.defensores.org.gt">http://www.defensores.org.gt; Primary Email: cherold@defensores.org.gt ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	15.7834
+Longitude:	-90.2307

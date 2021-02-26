@@ -1,0 +1,76 @@
+ID:	1301
+Name:	Booderee Botanic Gardens 
+Administration Staff Number:	1
+Curator's Name:	Bernie McLeod, Curator
+Director's Name:	Brenda Duffy, acting Park Manager
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  Australia - JBT - Jervis Bay  ;Garden Information;  Institution Code: CBG; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Booderee Botanic Gardens The Booderee Botanic Gardens (formerly the Jervis Bay Botanic Gardens) were established in 1951 as an annex of the Australian National Botanic Gardens (ANBG). Its purpose was to provide frost-free growing conditions for plants unsuited to Canberra's climate. In 1995 the Gardens, along with the Jervis Bay National Park, were handed back to the local Wreck Bay Aboriginal Community Council. The Park was renamed Booderee National Park in 1998, and the Gardens subsequently proclaimed as part of the Park in 2000. Whilst the Botanic Gardens now are independent and no longer exist as an annex, there are still close links with the ANBG. Booderee is jointly managed by the Wreck Bay Aboriginal Community Council and the Director of National Parks under a 99 year lease agreement established in 1995.; ; The Botanic Gardens cover an area of 80 hectares including both natural vegetation and cultivated sections surrounding Lake McKenzie, a natural freshwater lake. A living collections policy guides the directions of the Gardens, determining the focus be on native flora from the south eastern NSW. A thematic collection of ethno-botanical plants supports the strong emphasis on Koori interpretation of traditional plant use. This service is utilised by schools in particular, but also by a wider audience in general. Other thematic plantings enable displays of ecological units such as rainforest, forest, heath and woodland, as well as horticultural displays. Taxonomic collections of Eucalyptus and Casuarinaceae are displayed on various lawns. Collaboration with national parks and other botanic gardens ensures the Gardens’ continued involvement in plant conservation in the local area.; ; The Gardens’ living collection is of high integrity and well documented due to continuous stock takes and other plant recordings, with data lodged on data bases shared with and supported by the ANBG. All new plant accessions are complimented by herbarium specimens which are lodged at the Australian National Herbarium, Canberra, and copies kept at the Booderee Public Reference Herbarium.; ; The Gardens are open to the public 365 days of the year.;  Main Address:; Booderee Botanic Gardens; Cave Beach Road; Village Rd; Jervis Bay; JBT 2540 Australia; ;  Telephone: (02) 4429 7444; Fax: 02 4442 1011; URL: <a target="_blank" href="http://www.environment.gov.au/parks/booderee/explore/botanic/index.html">www.environment.gov.au/parks/booderee/explore/botanic/index.html; Primary Email: Booderee.mail@environment.gov.au ; 
+Plant Records Officer's Name:	Stig Pedersen, Collections Officer
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1170 mm
+Date founded:	1951
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-35.12112
+Longitude:	150.68191
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	N/A
+Total Area:	80 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	30000
+Number of Volunteers:	30
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	11573
+Cultivation Taxa Num:	1016
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	100 % Australian flora, of which approx. 50% is of southeastern NSW origin. The collection includes a comprehensive Ethno-botanical collection utilised for Koori interpretation of plant use
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

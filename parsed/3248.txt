@@ -1,0 +1,10 @@
+ID:	3248
+Name:	Jardin Botanico de Plantas Medicinales 
+Curator's Name:	
+Director's Name:	
+Info:	  Colombia - Putumayo - Mocoa  ;Garden Information;  Institution Code: MMCO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Plantas Medicinales; Corpoamazonia, Edificio Marillac; Mocoa; Putumayo Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	1.1743
+Longitude:	-76.6415

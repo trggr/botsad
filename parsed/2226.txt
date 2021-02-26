@@ -1,0 +1,75 @@
+ID:	2226
+Name:	Tasmanian Arboretum Inc 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Mr. Phillip E. Parsons, President
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  Australia - Tasmania - Devonport  ;Garden Information;  Institution Code: TASARB; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Tasmanian Arboretum Inc The Arboretum is largely on a limestone geology, the Eugenana Beds, and is intersected by 2 waterways, the Don River and Melrose Creek. Its living collections are laid out geographically and also with several thematic collections. It is volunteer administered and mainly volunteer staffed with an active education team and program.; ; The Tasmanian collection of woody plants is at our core.;  Main Address:; Tasmanian Arboretum Inc; 46 Old Tramway Rd [off C146 Melrose Rd] Eugenana; Mailing: P.O. Box 370; Devonport; Tasmania TAS 7310 Australia; ;  Telephone: 61 (0)3 6427 2690; Fax: ; URL: <a target="_blank" href="http://www.tasmanianarboretum.org.au">www.tasmanianarboretum.org.au; Primary Email: tasarb@tasmanianarboretum.org.au ; 
+Plant Records Officer's Name:	Trina Moule
+Research Staff Number:	
+Altitude:	50.00 Metres
+Annual Rainfall:	1000 mm
+Date founded:	1984
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-41.230875
+Local Address:	46 Old Tramway Rd [off C146 Melrose Rd] Eugenana
+Locality:	Information
+Longitude:	146.298497
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Hogg Creek Botanical Annexe
+Total Area:	66 Hectares
+Arboretum:	Yes
+Arboretum Size:	40
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	18500
+Number of Volunteers:	38
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	4884
+Cultivation Taxa Num:	900
+Special Collections:	Geographic layout by floristic regions following R.Good.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

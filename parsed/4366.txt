@@ -1,0 +1,63 @@
+ID:	4366
+Name:	Smithsonian Gardens - Orchid Collection 
+Administration Staff Number:	10
+Curator's Name:	Sarah Hedean
+Director's Name:	Barbara Faust
+Educational Staff Number:	6
+Horticultural Staff Number:	25
+Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Smithsonian Gardens - Orchid Collection; 600 Maryland Avenue, SW; P.O. Box 37012 MRC 420; Washington; District of Columbia 20013 United States of America; ;  Telephone: (202) 633-5839; Fax: (202) 633-5697; URL: <a target="_blank" href="http://www.gardens.si.edu">www.gardens.si.edu; Primary Email: Connollyc2@si.edu ; 
+Plant Records Officer's Name:	Courtney Connolly
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	38.8951120
+Local Address:	National Mall
+Locality:	Information
+Longitude:	-77.0363660
+Satellite Garden Names:	Haupt Garden Ripley Garden Victory Garden Heirloom Garden Butterfly Garden Flight Garden Bird Garden Rose Garden Native Garden
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+ABS Policy:	Yes
+Accession Number:	4713
+Cultivation Taxa Num:	2511
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Smithsonian Gardens maintains only an Orchid Collection and a Tree collection
+Conservation Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

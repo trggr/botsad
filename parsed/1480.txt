@@ -1,0 +1,11 @@
+ID:	1480
+Name:	Laboratoire de Botanique & Biologie Vegetale 
+Curator's Name:	Mr. J-A. Ferranti
+Director's Name:	Prof. P. Ozenda
+Info:	  France - ST MARTIN D'HERES  ;Garden Information;  Institution Code: STMDH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Laboratoire de Botanique & Biologie Vegetale; BP 68, 38402 ST MARTIN D'HERES Cedex, France.; ST MARTIN D'HERES; France; ;  Telephone: 76 51 46 00; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1965
+Institution Type:	Other
+Latitude:	45.1667
+Longitude:	5.7678

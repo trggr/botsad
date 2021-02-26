@@ -1,0 +1,11 @@
+ID:	5103
+Name:	The Balkan Botanic Garden at Kroussia Mountains- Seed Bank 
+Curator's Name:	
+Director's Name:	Dr Maloupa Eleni
+Info:	  Greece - Thessaloniki  ;Garden Information;  Institution Code: BBGKSB; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Balkan Botanic Garden at Kroussia Mountains- Seed Bank; Agricultural Research Center of Macedonia and Thrace, Laboratory of Conservation and Evaluation of the Native and Floricultural Species,; PO Box 60 125; Thessaloniki; 570 01 Greece; ;  Telephone: + 30 2310 471613; Fax: + 30 2310 478907; URL: <a target="_blank" href="http://www.bbgk.gr">www.bbgk.gr; Primary Email: bbgk@bbgk.gr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	40.6398
+Longitude:	22.9322
+Seed Bank:	Yes

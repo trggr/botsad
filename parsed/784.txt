@@ -1,0 +1,73 @@
+ID:	784
+Name:	Jardin Botanique de Kisantu 
+Fax:	
+Info:	  Democratic Republic of the Congo (formerly Zaire) - Bas-Congo Province - Inkisi-Kisantu  ;Garden Information;  Institution Code: INKI; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	jardinbotaniquekisantu@yahoo.fr
+Telephone:	00 243 98541006 (director‘s mobile)
+Curator's Name:	
+Director's Name:	Eric Malueki
+Plant Records Officer's Name:	
+Altitude:	525.00 Metres
+Annual Rainfall:	1522 mm
+Date founded:	1900
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-5.1352
+Longitude:	15.0723
+Natural Vegetation Area:	Yes
+Total Area:	225 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	25000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Cultivation Taxa Num:	2200
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Over 160 palms including Arecastrum romanzoffianum, Chrysalidocarpus lutescens, trees such as Agathis loranthifolia, orchids such as Phaelaenopsis amabilis. Over 200 species of cacti, succulents and native grasses, particularly Asclepiadaceae
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

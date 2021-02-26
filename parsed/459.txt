@@ -1,0 +1,11 @@
+ID:	459
+Name:	University of Tehran Botanical Garden 
+Curator's Name:	Eng. A. Vezvaii
+Director's Name:	Prof. H. Lessani
+Info:	  Iran - Tehran  ;Garden Information;  Institution Code: TEHAG; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Tehran Botanical Garden; Faculty of Agriculture, University of Tehran, 31584 Karadj, TEHRAN, Iran.; Tehran; Iran; ;  Telephone: 02221-24024; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1931
+Institution Type:	Botanic Garden
+Latitude:	35.7061
+Longitude:	51.4358
+Special Collections:	Acer, Amygdalus, Euonymus, Pinus, Populus.

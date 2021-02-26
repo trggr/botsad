@@ -1,0 +1,10 @@
+ID:	460
+Name:	Botanical Garden Botanical Institute of Iran 
+Curator's Name:	
+Director's Name:	
+Info:	  Iran - Tehran  ;Garden Information;  Institution Code: TEHBI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden Botanical Institute of Iran; Karaj Road, P.O. Box 8-6096, TEHRAN, Iran.; Tehran; Iran; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	35.7061
+Longitude:	51.4358

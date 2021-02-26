@@ -1,0 +1,9 @@
+ID:	5482
+Name:	Singapore Botanic Gardens - seed bank 
+Curator's Name:	
+Director's Name:	Ang Wee Foong, National Parks Board Singapore
+Info:	  Singapore - Singapore - Singapore City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Singapore Botanic Gardens - seed bank; Naitonal Parks Board; 1 Cluny Road; Singapore City; Singapore 259569 Singapore; ;  Telephone: (65) 6471-7138; Fax: (65) 6473-7983; URL: <a target="_blank" href="http://www.sbg.org.sg">www.sbg.org.sg; Primary Email: ANG_Wee_Foong@nparks.gov.sg ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	1.3144
+Longitude:	103.8211

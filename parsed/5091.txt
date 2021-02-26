@@ -1,0 +1,12 @@
+ID:	5091
+Name:	Arboretum przy Nadleśnictwie Marcule 
+Fax:	
+Info:	  Poland - mazowieckie - Iłża  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	marcule@radom.lasy.gov.pl
+Telephone:	0048 486160077
+Curator's Name:	Hubert Ogar
+Director's Name:	Tadeusz Misiak
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	51.25
+Longitude:	21.27

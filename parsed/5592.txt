@@ -1,0 +1,9 @@
+ID:	5592
+Name:	Arboretum San Miguel “Casco” 
+Curator's Name:	
+Director's Name:	Ing. Agr. Peter Laharrague
+Info:	  Argentina - Buenos Aires - Coronel Pringles  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum San Miguel “Casco”; Estancia San Miguel, C.C. 64; Coronel Pringles; Buenos Aires 7530 Argentina; ;  Telephone: +54 2922 465485; Fax: +54 2922 465865; URL: <a target="_blank" href="http://">; Primary Email: gurena@laharrague.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	38.100420
+Longitude:	61.203340

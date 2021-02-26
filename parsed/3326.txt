@@ -1,0 +1,20 @@
+ID:	3326
+Name:	Botanical Garden of Klaipeda University 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Asta Klimienė
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  Lithuania - KLAIPEDA  ;Garden Information;  Institution Code: KLAI; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanical Garden of Klaipeda University; Kretingos str 92; KLAIPEDA; 92327 Lithuania; ;  Telephone: +370 46398833; Fax: +370 46398837; URL: <a target="_blank" href="https://www.ku.lt/botanikos-sodas/">https://www.ku.lt/botanikos-sodas/; Primary Email: botanikos.sodas@ku.lt ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1993
+Institution Type:	Botanic Garden
+Latitude:	55.6985
+Longitude:	21.1473
+Total Area:	9 Hectares
+Number of Visitors:	20500
+Number of Volunteers:	1
+Open to public:	Yes
+Special Collections:	Medical - aromatic plant department (500 taxa), deciduous plant collection (1142 taxa), coniferous plant collection (361 taxa), ornamental herbaceous plant department (1200).

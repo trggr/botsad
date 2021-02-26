@@ -1,0 +1,29 @@
+ID:	1379
+Name:	Jardin Botanico Summit 
+Administration Staff Number:	14
+Curator's Name:	
+Director's Name:	
+Educational Staff Number:	3
+Horticultural Staff Number:	15
+Info:	  Panama - Balboa  ;Garden Information;  Institution Code: SCZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Summit; Jardin Botanico Summit, P.O.Box 503, BALBOA, Panama; Balboa; Panama; ;  Telephone: 507 232-4854/ 4850; Fax: 507 232-4850; URL: <a target="_blank" href="http://">; Primary Email: summitbot@hotmail.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Annual Rainfall:	2600 mm
+Date founded:	1923
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	8.9542
+Longitude:	-79.5604
+Natural Vegetation Area:	Yes
+Total Area:	292 Hectares
+Herbarium:	Yes
+Number of Volunteers:	7
+Open to public:	Yes
+Special Collections:	Orchidaceae, Araceae, Arecaceae, Zamiaceae, native plants.
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,10 @@
+ID:	3072
+Name:	Jardin Botanico de San Fernando 
+Curator's Name:	
+Director's Name:	
+Info:	  Spain - San Fernando  ;Garden Information;  Institution Code: SFC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de San Fernando; p.N. Bahia de Cadiz, San Fernando, Cadiz, Spain; San Fernando; Spain; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	36.4488
+Longitude:	-6.2053

@@ -1,0 +1,13 @@
+ID:	1171
+Name:	Wrigley Memorial & Botanical Garden 
+Curator's Name:	
+Director's Name:	Peter Dixon, Native Plant Nursery Supervisor
+Info:	  United States of America - California - Avalon  ;Garden Information;  Institution Code: AVALO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wrigley Memorial & Botanical Garden; Catalina Island Conservancy; P.O. Box 2739; Avalon; California 90704 United States of America; ;  Telephone: (310) 510-2595; Fax: ; URL: <a target="_blank" href="http://www.catalina.com/memorial.html">www.catalina.com/memorial.html; Primary Email: PDixon@catalinaconservancy.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	33.3239010
+Longitude:	-118.3418440
+Total Area:	15 Hectares
+Open to public:	Yes
+Seed Bank:	Yes

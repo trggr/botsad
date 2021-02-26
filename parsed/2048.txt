@@ -1,0 +1,55 @@
+ID:	2048
+Name:	Jardin d‘Altitude du Haut-Chitelet. 
+Administration Staff Number:	
+Curator's Name:	Mr Laurent Péru
+Director's Name:	Mr Laurent Péru
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  France - Nancy - Xonrupt-Longemer  ;Garden Information;  Institution Code: NCY; International Agenda Registration: Yes; BGCI Member: Yes; About the Jardin d‘Altitude du Haut-Chitelet. 2500 species of alpine plants from all over the world. ; Alt. : 1228 m;  Main Address:; Jardin d‘Altitude du Haut-Chitelet.; c/o Conservatoire et Jardins botaniques de Nancy; Col de la Schlucht; Xonrupt-Longemer; Nancy F-88400 France; ;  Telephone: 33 3 29 63 31 46; Fax: 33 3 83 27 86 59; URL: <a target="_blank" href="http://www.jardinbotaniquedenancy.eu">http://www.jardinbotaniquedenancy.eu; Primary Email: accueilcjbn@grand-nancy.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1968
+Institution Type:	Botanic Garden
+Latitude:	48.6603
+Longitude:	6.1275
+Accession Number:	2
+Special Collections:	Alpine plants from various moutain ranges of the world
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

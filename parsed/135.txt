@@ -1,0 +1,28 @@
+ID:	135
+Name:	M.M. Gryshko National Botanical Garden 
+Administration Staff Number:	6
+Curator's Name:	Dr. Mykola I. Shumyk
+Director's Name:	Dr. Nataliia V. Zaimenko
+Educational Staff Number:	
+Horticultural Staff Number:	300
+Info:	  Ukraine - Kiev  ;Garden Information;  Institution Code: KWHA; International Agenda Registration: Yes; BGCI Member: Yes; About the M.M. Gryshko National Botanical Garden M. M. Gryshko National Botanical Garden (NBG) of the National Academy of Sciences of Ukraine was founded in 1935. ; ; Research in NBG is carried out along the following lines: ; ; plant introduction, acclimatization and selection; maintaining biological diversity and plant conservation ех situ and in situ; biological fundamentals of park design and landscape planning in cities and villages; increasing species diversity in cultivated phytocenoses; chemical interaction of plants (allelopathy); medicinal botany, integral use of medicinal plants; bioindication and ecological monitoring of environment pollution; biotechnology. ; ; NBG’s proncipal achievements and developments: ; ; NBG is the leading research institution in Ukraine for plant introduction and acclimatization. Collections of ornamental, medicinal, fruit, vegetable, spice, fodder and industrial plants from all botanical&geographical regions of the Earth were collected here, they include over 10 thousand species, forms and cultivars. Due to the unique botanical&geographical principle of live plants presentation, in the more than 60 years of plant sites existence, phytocenoses evolved that replicate natural vegetation of some Eurasian regions. These are ‘Forests of Ukrainian Plains’, ‘Ukrainian Steppes’, ‘The Ukrainian Carpathians, The Crimea’, ‘The Caucasus’, ‘Central Asia’, ‘The Far East’, ‘The Altai and Western Siberia’. NBG’s collection of tropical and subtropical plants is of great value, it represents over 3000 specimens, including one of the best-in-Europe orchid collections, consisting more than 600 taxa. Unique plants from different regions of the world, accumulated in the Garden, are a reliable base for developing new cultivars and hybrids and for furthering scientific plant breeding. NBG scientists secured 262 author's certificates for new cultivars. They are engaged in implementing ‘The program for advancement of plant protection in Ukraine’, in particular, they studied a number of rare and endangered plants, worked out proposals towards extending the network of nature reserves and sanctuaries. Biological, ecological and landscape principles of creating arboretums, botanical gardens and parks were developed within the program of landscape gardening for communities of Ukraine. NBG initiated a new study area – medicinal botany. It addresses the mechanism of plant action, plants medicinal effect and potential of their mass cultivation. It started fundamental research into chemical plant interaction (allelopathy) years ago, a whole new approach to studying chemical plant interaction as a cycle transformations of physiologically active substances in biological geocenoses was developed. Man-made soils (using fiber materials of organic and mineral origin) for cultivating tropical and subtropical plants on Earth and in space flight were developed. Studies in plant biology, orchids in particular, allow cultivation of these marvellous plants in outer space. NBG scientists were involved in NASA SHUTTLE program and joint Ukrainian-American experiment, where they studied the effect of space conditions on plant growth. NBG is a member of the International Association of Botanical Gardens of the World and the international organization on preservation of flora in Europe PLANTA EUROPA.;  Main Address:; M.M. Gryshko National Botanical Garden; National Academy of Sciences of Ukraine; 1 Timiryazevskaya Street; Kiev; 01014 Ukraine; ;  Telephone: (38044) 295 4105; Fax: (38044) 296 2649; URL: <a target="_blank" href="http://www.nbg.kiev.ua/">http://www.nbg.kiev.ua/; Primary Email: nbg@nbg.kiev.ua ; 
+Plant Records Officer's Name:	Dr. Mykola B. Gaponenko
+Research Staff Number:	130
+Altitude:	0.00 Metres
+Annual Rainfall:	650 mm
+Date founded:	1935
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	50.41393
+Longitude:	30.56292
+Natural Vegetation Area:	Yes
+Total Area:	130 Hectares
+Total area of glasshouses:	11527 Metres
+Arboretum:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	The woody plant collections include 1,416 species, with rich representation of conifers (+100 species), especially the genera Pinus, Juniperus, Abies and Larix. A collection of lilacs includes 1,500 accessions representing 21 species and 70 varieties. Oth

@@ -1,0 +1,78 @@
+ID:	2020
+Name:	National Botanic Garden of Namibia 
+Administration Staff Number:	1
+Curator's Name:	Silke Rügheimer
+Director's Name:	Silke Rügheimer
+Educational Staff Number:	
+Horticultural Staff Number:	6
+Info:	  Namibia - - - Windhoek  ;Garden Information;  Institution Code: WINDH; International Agenda Registration: Yes; BGCI Member: Yes; About the National Botanic Garden of Namibia The National Botanic Garden of Namibia (NBGN)is situated in the heart of the City of Windhoek, the capital of Namibia. The mission of the Garden is to protect and promote the Namibian flora and to function as an educational, research and recreational facility for Namibians and tourists alike. ; ; The estate is 11 hectars big. The larger part of the area is unlandscaped and serves as study area for local students and pupils. A number of walking trails lead through the Garden and the most common woody plants are clearly labelled. The desert house, rockery and nursery house a comprehensive collection of Namibian succulents, many of which rare and endangered.; ; The NBGN is the only botanic garden in the country. It is one of five subsections within the National Botanical Research Institute (NBRI) and is administered by the Ministry of Agriculture, Water, and Forestry.;  Main Address:; National Botanic Garden of Namibia; National Botanical Research Institute; Private Bag 13184; Windhoek; - - Namibia; ;  Telephone: + 264 - 61 - 202 2014; Fax: -; URL: <a target="_blank" href="http://www.nbri.org.na">http://www.nbri.org.na; Primary Email: Silke.Rugheimer@mawf.gov.na ; 
+Plant Records Officer's Name:	Silke Rügheimer
+Research Staff Number:	
+Altitude:	1700.00 Metres
+Annual Rainfall:	300 mm
+Date founded:	1969
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-22.5705
+Local Address:	8 Orban Street Windhoek Namibia
+Locality:	Information
+Longitude:	17.0945
+Natural Vegetation Area:	Yes
+Total Area:	11 Hectares
+Total area of glasshouses:	100 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1200
+Number of Volunteers:	1
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	1534
+Cultivation Taxa Num:	400
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	A comprehensive collection of Namibian indigenous succulents, including Aloes, Euphorbias, Crassulas, Stapelias and Lithops.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

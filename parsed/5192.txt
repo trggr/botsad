@@ -1,0 +1,13 @@
+ID:	5192
+Name:	Botanic Garden Botanika 
+Curator's Name:	
+Director's Name:	Anton Nikitin
+Info:	  Russian Federation - Vologda Region - Vologda  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanic Garden Botanika; Ershovsky pereulok 10-a; Vologda; Vologda Region 160000 Russian Federation; ;  Telephone: 79211296807; Fax: ; URL: <a target="_blank" href="http://botanika35.ru">botanika35.ru; Primary Email: botanika@flregion.ru ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2016
+Institution Type:	Botanic Garden
+Latitude:	59.2544765
+Longitude:	39.8632679
+Disabled access:	Yes
+Open to public:	Yes

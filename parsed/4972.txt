@@ -1,0 +1,32 @@
+ID:	4972
+Name:	Catalina Island Conservancy - seed bank 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Peter Dixon, Native Plant Nursery Supervisor
+Educational Staff Number:	3
+Horticultural Staff Number:	1
+Info:	  United States of America - California - Avalon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Catalina Island Conservancy - seed bank The Catalina Island Conservancy manages over 17,000 hectares of Mediterranean-type habitat off the coast of Southern California, USA including many rare and endemic plants and animals. The Conservancy established the native plant nursery and seed conservation facility in 1989 to provide plant and seed material for its conservation and restoration needs on Santa Catalina Island. The nursery grows over 85 species as container stock and houses over 2,300 seed accessions representing 247 species. Projects include rare plant conservation, habitat restoration, erosion control, and native landscaping.;  Main Address:; Catalina Island Conservancy - seed bank; Wrigley Memorial & Botanical Garden; P.O. Box 2739; Avalon; California 90704 United States of America; ;  Telephone: (310) 510-2595; Fax: (310) 510-1729; URL: <a target="_blank" href="http://catalinaconservancy.org">catalinaconservancy.org; Primary Email: PDixon@catalinaconservancy.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	213.00 Metres
+Annual Rainfall:	302 mm
+Date founded:	1989
+Institution Type:	Gene/Seed Bank
+Landscaped Area:	Yes
+Latitude:	33.3239010
+Local Address:	Catalina Island Conservancy PO Box 2739 Avalon, CA 90704-2739
+Locality:	Information
+Longitude:	-118.3418440
+Natural Vegetation Area:	Yes
+Total Area:	17019 Hectares
+Total area of shadehouses:	15000 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Reintroduction Programme:	Yes

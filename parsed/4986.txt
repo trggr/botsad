@@ -1,0 +1,17 @@
+ID:	4986
+Name:	Threatened Flora Seed Centre – Western Australia 
+Curator's Name:	Andrew Crawford, Principle Technical Officer
+Director's Name:	Anne Cochrane, TFSC Manager
+Info:	  Australia - Western Australia - Kensington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Threatened Flora Seed Centre – Western Australia The Threatened Flora Seed Centre is Western Australia's principal seed banking facility for rare, threatened and poorly known native plant species.; ; The primary functions of the Threatened Flora Seed Centre are:; ; To store seed of Western Australia's conservation significant flora for indefinite periods of time whilst maintaining the highest possible viability of the seed.; To maintain an integrated database on seed provenance and seed biology for each plant species collected.; ; The seed centre aims to store sufficient genetic resources from each threatened species to ensure its successful reintroduction and establishment in the wild if extinction occurs and underpins many of DEC's plant recovery activities. The centre currently houses over 3200 collections. All seed is sourced from the wild and fully documented.; ; The seed bank was established in 1992 and is located at the Western Australian Herbarium. It has a drying room, walk-in cool room (4°C), freezer room (-20°C) and a laboratory equipped to conduct seed research. During its 17 years of operation, the Threatened Flora Seed Centre has made significant progress towards the ex situ seed storage of the State's rare and threatened flora.; ; The Threatened Flora Seed Centre is involved in national (eg.AuSCaR- Australian Seed Conservation and Research ) and international (eg. Millennium Seed Bank Project) seed conservation projects that contribute towards meeting Australia's obligations to the Global Strategy for Plant Conservation.; TFSC lab; Threatened Flora Seed Centre Lab; ; As DEC collects and stores seed for conservation purposes, seed from the Threatened Flora Seed Centre is not available to the public.;  Main Address:; Threatened Flora Seed Centre – Western Australia; Western Australian Herbarium; 17 Dick Perry Avenue, Technology Park, Western Precinct; Kensington; Western Australia 6151 Australia; ;  Telephone: +61 (0)8 9334 0502; Fax: +61 (0)8 9334 0515; URL: <a target="_blank" href="http://www.dec.wa.gov.au">www.dec.wa.gov.au; Primary Email: tfsc@dpaw.wa.gov.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1992
+Institution Type:	Gene/Seed Bank
+Latitude:	-31.99553
+Longitude:	115.88309
+Open to public:	No
+Seed Bank:	Yes
+Accession Number:	3200
+Cultivation Taxa Num:	2000
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes

@@ -1,0 +1,72 @@
+ID:	4544
+Name:	Shanghai Chenshan Botanical Garden 
+Administration Staff Number:	42
+Curator's Name:	Ms Huang Shu
+Director's Name:	Hu Yong-Hong
+Educational Staff Number:	9
+Horticultural Staff Number:	39
+Info:	  China - Shanghai - Songjiang District, Shanghai  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Shanghai Chenshan Botanical Garden Chenshan Botanical Garden, Shanghai is a comprehensive botanical garden with strong scientific content and beautiful garden landscapes, integrating scientific research, popularization of science, landscape and leisure, co-constructed by Shanghai Municipal People's Government, the Chinese Academy of Sciences and the State Forestry Administration with the approval of Shanghai Municipal People's Government, and is also a major social welfare ecological construction project decided by Shanghai Municipal Party Committee and Municipal Government, listed in the Outline of the Eleventh Five-Year Plan of Shanghai for National Economic and Social Development. Located in Songjiang District, with an area of 207 hectares (2,070,000 m2), Chenshan Botanical Garden was officially started in March 2007; with the support and concern of all parties, after more than 3 years of construction, it was open to the public as a trial on April 26, 2010; and with the completion of the Conservatory, the Garden was fully open on January 23, 2011.;  Main Address:; Shanghai Chenshan Botanical Garden; 3888 Chen Hua Road; Songjiang District, Shanghai; Shanghai 201602 China; ;  Telephone: (021) 37792288-802; Fax: (021) 37792288-800; URL: <a target="_blank" href="http://www.csnbgsh.cn">www.csnbgsh.cn; Primary Email: maqixia@sibs.ac.cn ; 
+Plant Records Officer's Name:	
+Research Staff Number:	61
+Altitude:	3.00 Metres
+Annual Rainfall:	1213 mm
+Date founded:	2010
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	31.07474
+Local Address:	上海松江区辰花路3888号
+Locality:	Information
+Longitude:	121.1797
+Total Area:	207 Hectares
+Total area of glasshouses:	12000 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	19591
+Cultivation Taxa Num:	8744
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Chenshan Botanical Garden, with the theme of “Plants and health”, according to the basic settings of special gardens of global botanical gardens and in connection with the geographic and climatic characters, was laid out with 26 special gardens in four categories, including unique Conservatory, Quarry Garden, Blind's Garden, Aquatic Garden, and Rock Garden and Medicinal Plants Garden, etc.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

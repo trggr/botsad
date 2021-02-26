@@ -1,0 +1,16 @@
+ID:	5382
+Name:	EW Heier Teaching and Research Greenhouses 
+Administration Staff Number:	
+Curator's Name:	Laurie Williams, Greenhouse Manager
+Director's Name:	Laurie Williams, Greenhouse Manager
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - New York - Binghamton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the EW Heier Teaching and Research Greenhouses This 12,500 sq. ft. facility is designed to function as a living laboratory for the department's plant and ecology related courses. More than 6,000 exotic plants, representing over 1,000 distinct species, are maintained within its four simulated climates. This arrangement facilitates understanding of diverse plant species and their ecologies. All plants are labeled with information regarding their taxonomies, geographic origins, and common names.;  Main Address:; EW Heier Teaching and Research Greenhouses; Binghamton University; Binghamton; New York 13902 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://www.binghamton.edu/greenhouse/">https://www.binghamton.edu/greenhouse/; Primary Email: lkaspere@binghamton.edu ; 
+Plant Records Officer's Name:	Josh DeMarree, Greenhouse Assistant
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	42.090353
+Longitude:	-75.970073
+Accession Number:	6000
+Cultivation Taxa Num:	1000

@@ -1,0 +1,42 @@
+ID:	5160
+Name:	AUB Botanic Garden, American University of Beirut 
+Administration Staff Number:	1
+Curator's Name:	Anis Abdallah
+Director's Name:	Dr. Salma Talhouk
+Educational Staff Number:	4
+Horticultural Staff Number:	8
+Info:	  Lebanon - Beirut  ;Garden Information;  Institution Code: BEI; International Agenda Registration: No; BGCI Member: Yes; About the AUB Botanic Garden, American University of Beirut The Campus of American University of Beirut ,at the heart of urban Ras Beirut,Lebanon, incorporates within its walls a unique natural environment. By all accounts, the campus, with its diverse make up of flora and fauna, quiet walkways and attractive views, has been a much loved feature of the city of Beirut since the university’s founding in 1866. With the designation of the univerisity campus as a Botanical Garden in 2016, 150 years later, the university has reaffirmed its responsibility as a custodian of its natural environment;  Main Address:; AUB Botanic Garden, American University of Beirut; Department of Landscape Design and Ecosystem Management Riad El-Soh; P.O. Box 11-0236,; Beirut; 1107 2020 Lebanon; ;  Telephone: +961-1-340460/350000 ext 4508; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: aubotanic@aub.edu.lb ; 
+Plant Records Officer's Name:	Monika Fabian
+Research Staff Number:	2
+Altitude:	27.00 Metres
+Annual Rainfall:	825 mm
+Date founded:	2016
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	33.9011169
+Longitude:	35.4794273
+Natural Vegetation Area:	Yes
+Total Area:	21 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	10650
+Cultivation Taxa Num:	168
+Agriculture:	Yes
+Biotechnology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes

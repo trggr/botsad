@@ -1,0 +1,11 @@
+ID:	5116
+Name:	National Museum "de História Natural e da Ciência"- Seed Bank 
+Curator's Name:	
+Director's Name:	-
+Info:	  Portugal - Lisbon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Museum "de História Natural e da Ciência"- Seed Bank; Museums of Lisbon University; Rua da Escola Politécnica 56/58,; Lisbon 1250-102 Portugal; ;  Telephone: +351 213921800; Fax: ; URL: <a target="_blank" href="http://www.museus.ulisboa.pt/">http://www.museus.ulisboa.pt/; Primary Email: museus@campus.ul.pt ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	38.7177
+Longitude:	-9.1509
+Seed Bank:	Yes

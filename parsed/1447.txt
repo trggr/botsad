@@ -1,0 +1,74 @@
+ID:	1447
+Name:	Arboretum at Flagstaff, The 
+Fax:	(928) 774-1441
+Info:	  United States of America - Arizona - Flagstaff  ;Garden Information;  Institution Code: TZHI; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	Info@thearb.org
+Telephone:	(928) 774-1442
+Administration Staff Number:	1
+Curator's Name:	Sheila Murray, Research Botanist
+Director's Name:	Dr. Kristin Haskins, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	2179.00 Metres
+Date founded:	1981
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	35.1688869
+Longitude:	-111.7010361
+Natural Vegetation Area:	Yes
+Total Area:	81 Hectares
+Arboretum:	Yes
+Arboretum Size:	81
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	22172
+Number of Volunteers:	75
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	1763
+Cultivation Taxa Num:	2457
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	The mission of the Arboretum at Flagstaff is to increase the understanding, appreciation, and conservation of plants and plant communities native to the Colorado Plateau (USA), to identify, evaluate, display, and introduce plants adaptable to the climatic and soil conditions of the Flagstaff, Arizona environment, to seek through scientific research innovative solutions to conservation issues of this high altitude environment, and to develop educational programs that will increase the understanding of the need for wise stewardship of our natural environment.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

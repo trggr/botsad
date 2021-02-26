@@ -1,0 +1,16 @@
+ID:	4250
+Name:	Northland Arboretum, The 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  United States of America - Minnesota - Brainerd  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Northland Arboretum, The The Northland Arboretum, an outdoor nature conservatory is designed to promote intelligent conservation and high standards of ecology with a year-round display of our region's flora and fauna, through workshops and seminars, and by providing outdoor recreation that appreciates and respects our natural plants and wildlife.;  Main Address:; Northland Arboretum, The; 14250 Conservation Drive; Brainerd; Minnesota 56425 United States of America; ;  Telephone: (218) 829-8770; Fax: ; URL: <a target="_blank" href="http://en.wikipedia.org/wiki/Northland_Arboretum">http://en.wikipedia.org/wiki/Northland_Arboretum; Primary Email: arboretum@brainerd.net ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1972
+Institution Type:	Botanic Garden
+Latitude:	46.3603610
+Longitude:	-94.2259460
+Total Area:	202 Hectares
+Arboretum:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Reintroduction Programme:	No

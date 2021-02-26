@@ -1,0 +1,71 @@
+ID:	3085
+Name:	Orto Botanico di Brera - Università degli Studi di Milano 
+Administration Staff Number:	1
+Curator's Name:	Cristina Puricelli
+Director's Name:	Martin Kater
+Educational Staff Number:	2
+Horticultural Staff Number:	3
+Info:	  Italy - Lombardia - Milano  ;Garden Information;  Institution Code: BMIL; International Agenda Registration: Yes; BGCI Member: No; About the Orto Botanico di Brera - Università degli Studi di Milano Even if there has always been a space in Palazzo Brera devoted to gardening, horticulture,growing of medicinal plants, meditation and contemplation – according to the needs and seasons – the establishment of a full blown “Botanical Garden” happened in 1774 by will of Maria Theresa of Austria.The Garden’s manager had to teach botany to the Brera Gymnasium students. Furthermore, the Garden had to supply the Brera “Pharmacy” with medicinal plants. The project was committed to Father Fulgenzio Vitman, who had already planned a large university Botanical Garden in Pavia.; Today the Brera Botanical Garden is part of the Brera Botanical Garden, a museum managed by the Università degli Studi di Milano (Department of Biosciences)and recognized by the Lombardy Region. The Museum’s aim is the safeguard of Palazzo Brera’s historical-scientific and historical-naturalistic heritage. The promotion and realisation of projects and activities of recovering and conservation directed not only to the preservation of the historical heritage but also the dissemination of scientific culture had been put into action by the Università degli Studi di Milano since the early 80’s. That is why the Brera Botanical Garden welcomes school classes and groups of adults every day.;  Main Address:; Orto Botanico di Brera - Università degli Studi di Milano; Via Brera, 28; Secondary entrance Via F.lli Gabba, 10; Milano; Lombardia 20121 Italy; ;  Telephone: +39 0250314683; Fax: ; URL: <a target="_blank" href="http://www.museoortibotanicistatale.it">www.museoortibotanicistatale.it; Primary Email: ortobotanicodibrera@unimi.it ; 
+Plant Records Officer's Name:	Paola Caccia
+Research Staff Number:	
+Altitude:	120.00 Metres
+Annual Rainfall:	60 mm
+Date founded:	1774
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	45.4727
+Local Address:	Via Brera, 28 Via F.lli Gabba, 10 I-20121 Milano
+Locality:	Information
+Longitude:	9.1871
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	100000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	800
+Plant Collection Policy:	Yes
+Special Collections:	Gingko biloba, Juglans nigra, Pterocarya fraxinifolia, Italian natives,Salvia genus, Hydrangea genus, Paeonie genus, Pteridophytes, medicinal plants, textile plants, dyeing plants, Utricularia vulgaris.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

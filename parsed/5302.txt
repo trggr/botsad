@@ -1,0 +1,9 @@
+ID:	5302
+Name:	Greenwich Town Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - Connecticut - Greenwich  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Greenwich Town Arboretum; Mailing: P.O.Box 4215; Greenwich; Connecticut 06831 United States of America; ;  Telephone: 3477682451; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: treeconserv@optonline.net ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	41.023363
+Longitude:	-73.611551

@@ -1,0 +1,77 @@
+ID:	192
+Name:	Jardin botanique de Neuchâtel 
+Administration Staff Number:	2
+Director's Name:	Blaise Mulhauser
+Educational Staff Number:	2
+Horticultural Staff Number:	5
+Info:	  Switzerland - Neuchatel  ;Garden Information;  Institution Code: NEU; International Agenda Registration: No; BGCI Member: Yes; About the Jardin botanique de Neuchâtel This area of 8 ha is both botanical garden and conservatory of natural ecosystems. For example it exists a dry meadow of national importance with rare native plants. Visitors can walk in a rare forest of old oaks and lime-trees.; Since 2014, a new garden of evolution tells the story of the coevolution and symbiosis between flora and other organismus with the help of living plants and fossils.; With a wide range of conferences, events and visits, we carry out each year new temporary exhibitions (2012: Jean-Jacques Rousseau and the botany; 2013: flowers of bees; 2019: "tropical rainforests" and "Plants drawings of M. Francis Hallé"; 2020 : "Medicinal plants,knowledge infusion").;  Main Address:; Jardin botanique de Neuchâtel; Pertuis du Sault 58; Neuchatel; 2000 Switzerland; ;  Telephone: ++41 (0)32 7182350; Fax: ++41 (0)32 7182357; URL: <a target="_blank" href="http://www.jbneuchatel.ch">www.jbneuchatel.ch; Primary Email: jardin.botanique@unine.ch ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	545.00 Metres
+Annual Rainfall:	900 mm
+Date founded:	1954
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	47.0001
+Longitude:	6.9345
+Natural Vegetation Area:	Yes
+Total Area:	8 Hectares
+Total area of glasshouses:	100 Metres
+Total area of shadehouses:	1000 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	60000
+Number of Volunteers:	1
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	10000
+Cultivation Taxa Num:	3500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Sempervivum,Festuca, plants of the Alps and Pyrenees.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

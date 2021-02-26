@@ -1,0 +1,39 @@
+ID:	233
+Name:	St. Andrews Botanic Garden 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	James Hearsum
+Educational Staff Number:	1
+Horticultural Staff Number:	7
+Info:	  United Kingdom - Fife - St. Andrews  ;Garden Information;  Institution Code: STA; International Agenda Registration: No; BGCI Member: Yes; About the St. Andrews Botanic Garden The first Botanic Garden in St.Andrews dates from 1889 when Dr.John Wilson laid out beds of plants for teaching and research purposes,in a walled garden at St.Mary's College in South Street.; The present Garden situated on Canongate was developed in the early 1960's at a site called Bassaguard,a name derived from Gaelic meaning 'farm of the priests'.; This landscaped garden with its layout of individual sections provides microclimates for a wide range of plants. Diversity is a key theme.; Shelterd by mature conifers and tree and shrub plantings, there are rock and water gardens, woodland valley, plant family beds, herbaceous and bulb borders.; Under glass tropicals and orchids, cacti, alpines and some of the more tender Rhododendrons.;  Main Address:; St. Andrews Botanic Garden; Canongate; The Botanic Garden; St. Andrews; Fife KY16 8RT United Kingdom; ;  Telephone: 01334 476452; Fax: ; URL: <a target="_blank" href="http://www.standrewsbotanic.org">www.standrewsbotanic.org; Primary Email: info@standrewsbotanic.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	25.00 Metres
+Annual Rainfall:	725 mm
+Date founded:	1889
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	56.334944
+Longitude:	-2.804325
+Total Area:	7 Hectares
+Total area of glasshouses:	2000 Metres
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	35000
+Number of Volunteers:	120
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	8000
+Special Collections:	Berberidaceae, Caprifoliaceae, Ericaceae, Rosacea, Berberis, Lonicera, Rhododendron, Cotoneaster. China, Western South America, alpines and Sino-Himalayan plants.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

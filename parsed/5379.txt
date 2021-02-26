@@ -1,0 +1,9 @@
+ID:	5379
+Name:	Jardin Botanique de Vauville 
+Curator's Name:	
+Director's Name:	
+Info:	  France - La Hague  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin Botanique de Vauville; SCI de la Grande Maison Château de Vauville; 2 le Moitier; La Hague; 50440 France; ;  Telephone: +33 2 33 10 00 00; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	49.6343178
+Longitude:	-1.8475185

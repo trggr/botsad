@@ -1,0 +1,10 @@
+ID:	448
+Name:	Hungarian Academy of Sciences - Botanic Garden 
+Curator's Name:	
+Director's Name:	Dr. Geza Kosa
+Info:	  Hungary - Vacratot  ;Garden Information;  Institution Code: VACR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hungarian Academy of Sciences - Botanic Garden; MTA OKBA Botanikus Kert; Alkotmány u 2-6,; Vacratot; H-2163 Hungary; ;  Telephone: 28/360-122(125); Fax: ; URL: <a target="_blank" href="http://">; Primary Email: kosa@botanika.hu ; 
+Plant Records Officer's Name:	
+Date founded:	1952
+Institution Type:	Botanic Garden
+Latitude:	47.7108
+Longitude:	19.2351

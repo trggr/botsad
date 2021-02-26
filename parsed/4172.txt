@@ -1,0 +1,10 @@
+ID:	4172
+Name:	Botanical Garden of Volgograd State Pedagogical University 
+Curator's Name:	
+Director's Name:	
+Info:	  Russian Federation - Volgograd  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanical Garden of Volgograd State Pedagogical University; prospect Lenina 27; Volgograd; 400131 Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: botsad@vspu.ru ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	48.7180
+Longitude:	44.5046
+Reintroduction Programme:	Yes

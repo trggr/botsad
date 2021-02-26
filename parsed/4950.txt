@@ -1,0 +1,9 @@
+ID:	4950
+Name:	Botanic garden of Lviv National Medical University 
+Curator's Name:	
+Director's Name:	R.M.Gulko
+Info:	  Ukraine - Lviv  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic garden of Lviv National Medical University; Pekarskaya street, 73; Lviv; Ukraine; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	49.83366
+Longitude:	24.05277

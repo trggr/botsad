@@ -1,0 +1,11 @@
+ID:	5504
+Name:	Jardim Botânico da Universidade de Lisboa SEED BANK 
+Curator's Name:	
+Director's Name:	
+Info:	  Portugal - Lisboa - Lisbon  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Jardim Botânico da Universidade de Lisboa SEED BANK; Rua Escola Politecnica 58; Lisbon; Lisboa 1269-102 Portugal; ;  Telephone: +351-213 921 800; Fax: ; URL: <a target="_blank" href="https://www.museus.ulisboa.pt/pt-pt/jardim-botanico-lisboa">https://www.museus.ulisboa.pt/pt-pt/jardim-botanico-lisboa; Primary Email: geral@museus.ulisboa.pt ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	38.7649
+Longitude:	-9.0961
+Seed Bank:	Yes

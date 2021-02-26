@@ -1,0 +1,49 @@
+ID:	23
+Name:	Batumi Botanical Garden 
+Administration Staff Number:	8
+Curator's Name:	Davit Kharazishvili
+Director's Name:	Tamaz Darchidze
+Educational Staff Number:	
+Horticultural Staff Number:	51
+Info:	  Georgia - Georgia - Batumi  ;Garden Information;  Institution Code: BATU; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Batumi Botanical Garden Batumi Botanical Garden has been a member of BGCI since 1997.; The Garden territory at present covers the area of 108,7 ha comprising the following 9 phyto-geographical departments: East Asian, North American, New Zealand, South American, Himalayan, Mexican, Australian, Mediterranean (European) and Transcaucasia humid subtropics.; The Garden also contains three parks - the Upper Park, the Lower Park and the Giorgi Gabrichidze Sea Side Park.; In the whole the Reserves occupy 29,5 ha, parks - 23 ha, florist departments - 33 ha, nurseries - 6 ha, collection plots - 10 ha, citrus - 6,5 ha.;  Main Address:; Batumi Botanical Garden; Mtsvane Kontskhi; Batumi; Georgia 6411 Georgia; ;  Telephone: +995 0422294909; Fax: ; URL: <a target="_blank" href="http://www.bbg.ge">www.bbg.ge; Primary Email: bbg@bbg.ge ; 
+Plant Records Officer's Name:	Julieta Jakeli, Head of Exotic Plant Collection Department
+Research Staff Number:	15
+Altitude:	75.00 Metres
+Annual Rainfall:	2620 mm
+Date founded:	1912
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.6517
+Local Address:	მწვანე კონცხი, 6411, ბათუმი, საქართველო
+Locality:	Information
+Longitude:	41.6561
+Natural Vegetation Area:	Yes
+Total Area:	109 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	170000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Invasive Species Monitoring:	Yes
+cultivated forms:	citruses – 55, camellias – 17, roses – 50, maple – 18, other cultural form - 46.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

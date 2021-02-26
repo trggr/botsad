@@ -1,0 +1,40 @@
+ID:	489
+Name:	Civico Orto Botanico 
+Fax:	
+Info:	  Italy - Friuli Venezia Giulia - Trieste  ;Garden Information;  Institution Code: TSM; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	ortobotanico@comune.trieste.it
+Telephone:	+39 040 360 068 -348 639 3055
+Administration Staff Number:	
+Curator's Name:	Massimo Palma
+Director's Name:	Laura Carlini Fanfogna
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	80.00 Metres
+Date founded:	1842
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	45.653056
+Local Address:	via Carlo de' Marchesetti 2 34139 Trieste
+Locality:	Information
+Longitude:	13.791389
+Natural Vegetation Area:	Yes
+Total Area:	1 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Number of Visitors:	7000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	3000
+Special Collections:	Wild plants - This section is undergoing development. A complete renewal of the historical flowerbeds will be carried out, with special emphasis on the most interesting
+The poison garden (path of the poisonous plants) - This path with a guide is a close-up introduction to a number of poisonous plants. Scientific information is provided for each of them, along with peculiarities and uses. The path also aims to highlight the positive sides of the poisons:	the pharmacological notes accompanying the plants indicate the therapeutic uses of the various toxin.
+Ex Situ Conservation Programme:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

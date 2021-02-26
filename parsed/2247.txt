@@ -1,0 +1,10 @@
+ID:	2247
+Name:	Herbario "IRBR" 
+Curator's Name:	
+Director's Name:	
+Info:	  Venezuela - Cumana-sucre  ;Garden Information;  Institution Code: IRBR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Herbario "IRBR"; Universidad de Oriente, Qta lol Grunones, Ave Andres Bello, Cerro El medio, Casa #15, Cumana-Sucre; Cumana-sucre; Venezuela; ;  Telephone: ; Fax: 0058 93 514754; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	10.4542
+Longitude:	-64.1821

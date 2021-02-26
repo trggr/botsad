@@ -1,0 +1,11 @@
+ID:	5502
+Name:	Höhere Bundeslehr- und Versuchsanstalt für Gartenbau Wien - Schönbrunn - Seed Bank 
+Curator's Name:	
+Director's Name:	Dipl.Ing.Ernst Kaven
+Info:	  Austria - Vienna  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Höhere Bundeslehr- und Versuchsanstalt für Gartenbau Wien - Schönbrunn - Seed Bank; Schlob Schonbrunn,; Vienna; A-1130 Austria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	48.176993
+Longitude:	16.314056
+Seed Bank:	Yes

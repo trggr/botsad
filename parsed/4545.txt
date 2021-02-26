@@ -1,0 +1,15 @@
+ID:	4545
+Name:	Pine Lodge Pinetum 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Uknown
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  United Kingdom  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Pine Lodge Pinetum; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	50.341879
+Longitude:	-4.748671
+Total Area:	11 Hectares

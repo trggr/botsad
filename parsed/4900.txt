@@ -1,0 +1,20 @@
+ID:	4900
+Name:	Smithsonian Gardens - Tree Collection 
+Curator's Name:	Sarah Hedean
+Director's Name:	Barbara Faust
+Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Smithsonian Gardens - Tree Collection; 600 Maryland Avenue, SW; P.O. Box 37012 MRC 420; Washington; District of Columbia 20013 United States of America; ;  Telephone: (202) 633-5839; Fax: (202) 633-5697; URL: <a target="_blank" href="http://www.gardens.si.edu">www.gardens.si.edu; Primary Email: Connollyc2@si.edu ; 
+Plant Records Officer's Name:	Courtney Connolly
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	38.886557
+Local Address:	National Mall
+Locality:	Information
+Longitude:	-77.021245
+Open to public:	Yes
+Accession Number:	1804
+Cultivation Taxa Num:	236
+Invasive Species Monitoring:	Yes
+Special Collections:	Smithsonian Gardens Tree Collection
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes

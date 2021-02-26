@@ -1,0 +1,11 @@
+ID:	3529
+Name:	Arboretum Facultad de Agronomía y Zootecnia 
+Curator's Name:	
+Director's Name:	Dra. Nora De Marco de Roncaglia
+Info:	  Argentina - Tucumán - San Miguel de Tucumán  ;Garden Information;  Institution Code: TUC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Facultad de Agronomía y Zootecnia; Universidad Nacional de Tucuman; Av. Roca 1900; San Miguel de Tucumán; Tucumán 4000 Argentina; ;  Telephone: 54 (0) 381-4364093, ext. 758; Fax: 54 (0) 381-4243440 /4364156; URL: <a target="_blank" href="http://">; Primary Email: ronqui@arnet.com.ar ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-26.83895
+Longitude:	-65.2307
+Open to public:	Yes

@@ -1,0 +1,11 @@
+ID:	5033
+Name:	San Diego Zoo Safari Park - seed bank 
+Curator's Name:	Stacy Anderson, Applied Plant Ecology
+Director's Name:	Mr. Bob McClure
+Info:	  United States of America - California - Escondido  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; San Diego Zoo Safari Park - seed bank; 15500 San Pasqual Valley Road; Escondido; California 92027-9614 United States of America; ;  Telephone: 760-747-8702 x5728; Fax: ; URL: <a target="_blank" href="http://www.sandiegozoo.org/conservation">www.sandiegozoo.org/conservation; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	33.0950830
+Longitude:	-117.0023560
+Seed Bank:	Yes

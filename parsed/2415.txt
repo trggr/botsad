@@ -1,0 +1,77 @@
+ID:	2415
+Name:	Royal Botanical Garden, Serbithang 
+Administration Staff Number:	2
+Curator's Name:	Mrs. Sangay Dema
+Director's Name:	Dr. Tashi Yangzome Dorji
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  Bhutan - Thimphu - Serbithang  ;Garden Information;  Institution Code: THIMP; International Agenda Registration: No; BGCI Member: Yes; About the Royal Botanical Garden, Serbithang The Royal Botanical Garden, Serbithang was established in 1999 under National Biodiversity Centre, Ministry of Agriculture and Forests, Serbitang as an ex-situ plant conservation area and to commemorate the Silver Jubilee Celebration of the 4th King of Bhutan, His Majesty Jigme Singye Wangchuck.; ; The primary functions of the Royal Botanical Garden are to:; ; i. Serve as the living repository of plant genetic diversity for ex situ conservation and research.; ii. Serve as a rescue centre for rare and threatened native floral species (prioritized native floral species).; iii. Promote propagation of prioritized native plants species to reduce pressures on collection from the wild and to ensure their sustainable use. ; iv. Implement mass propagation of prioritized native flora for restorations programs and commercialization to encourage house hold cultivation and conservation.; v. Provide technical services and training in plant propagation techniques to community-based groups and other interested stakeholders.; vi. Provide technical service in community beautification and greening projects.; vii. Implement targeted biodiversity education programs.; viii. Promote and manage garden volunteer programs.; ix. Participate in floral diversity documentation programs.; x. Promote regional and international linkages for effective conservation and management of native plant species.;  Main Address:; Royal Botanical Garden, Serbithang; National Biodiversity Program, Ministry of Agriculture and Forests; P.O. Box 875; Serbithang; Thimphu 00975 Bhutan; ;  Telephone: +00 975-2-351417/351218; Fax: +00 975-2-351219; URL: <a target="_blank" href="http://www.nbc.gov.bt">www.nbc.gov.bt; Primary Email: sdema06@gmail.com ; 
+Plant Records Officer's Name:	Nima Gyeltshen
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1999
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	27.4405
+Local Address:	Serbithang
+Locality:	Information
+Longitude:	89.6730
+Natural Vegetation Area:	Yes
+Total Area:	14 Hectares
+Arboretum:	Yes
+Arboretum Size:	9
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	3000
+Number of Volunteers:	2
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	1500
+Cultivation Taxa Num:	400
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Native and exotic trees, shrubs and herbs.The highest diversity is in Orchid group with over 200 species
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

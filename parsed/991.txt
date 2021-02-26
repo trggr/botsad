@@ -1,0 +1,16 @@
+ID:	991
+Name:	Sevan Botanical Garden 
+Fax:	
+Info:	  Armenia - Sevan - Sevan  ;Garden Information;  Institution Code: SVAN; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	374 762 1441
+Curator's Name:	
+Director's Name:	Mnatzakanyan Simon
+Plant Records Officer's Name:	
+Date founded:	1944
+Institution Type:	Botanic Garden
+Latitude:	40.5475
+Longitude:	44.9553
+Total Area:	5 Hectares
+Cultivation Taxa Num:	650
+Special Collections:	Mexican plants, Eastern-Asian, North American, Mediterranean, Himalayan plants, Pinus spp., Picea spp., Acer spp., Quercus spp., Rhododendron spp.

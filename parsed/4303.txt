@@ -1,0 +1,15 @@
+ID:	4303
+Name:	Stonecrop Gardens 
+Curator's Name:	
+Director's Name:	Caroline Burgess, Director
+Info:	  United States of America - New York - Cold Spring  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Stonecrop Gardens Mission Statement; ; Our mission is to uphold and demonstrate the highest standards of horticultural practice and to promote the use of such standards among amateur and professional gardeners through aesthetic displays and educational programs.;  Main Address:; Stonecrop Gardens; 81 Stonecrop Lane; Cold Spring; New York 10516 United States of America; ;  Telephone: (845) 265-2000; Fax: (845) 265-2405; URL: <a target="_blank" href="http://www.stonecrop.org">www.stonecrop.org; Primary Email: garden@stonecrop.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	41.4412300
+Longitude:	-73.8689960
+Total Area:	5 Hectares
+Arboretum:	No
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes

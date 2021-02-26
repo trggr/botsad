@@ -1,0 +1,79 @@
+ID:	3457
+Name:	Mendocino Coast Botanical Gardens 
+Fax:	(707) 964-3114
+Info:	  United States of America - California - Fort Bragg  ;Garden Information;  Institution Code: MCBG; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	info@gardenbythesea.org
+Telephone:	(707) 964-4352
+Administration Staff Number:	5
+Curator's Name:	Jamie Jensen, Lead Gardener
+Director's Name:	Molly Barker, Executive Director
+Educational Staff Number:	
+Horticultural Staff Number:	7
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	9.15 Metres
+Annual Rainfall:	1040 mm
+Date founded:	1961
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.4094380
+Longitude:	-123.8101810
+Natural Vegetation Area:	Yes
+Total Area:	19 Hectares
+Total area of shadehouses:	420 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	70000
+Number of Volunteers:	120
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	6320
+Cultivation Taxa Num:	2830
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Mae E. Lauer Display House:	Begonias and Fuchsias
+Special Collections:	Begonias
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

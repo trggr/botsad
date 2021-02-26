@@ -1,0 +1,45 @@
+ID:	560
+Name:	Ogród Roslin Leczniczych Instytutu Włókien Naturalnych i Roślin Zielarskich w Plewiskach 
+Fax:	0048 61 65 17 192
+Info:	  Poland - wielkopolskie - Poznan  ;Garden Information;  Institution Code: POZNM; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	
+Telephone:	0048 61 65 17 190
+Administration Staff Number:	
+Curator's Name:	dr hab. Waldemar Buchwald
+Director's Name:	Prof.dr hab. Grzegorz Spychalski
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	mgr Sława Kitkowska, mgr Elżbieta Bilińska
+Research Staff Number:	4
+Altitude:	84.00 Metres
+Annual Rainfall:	530 mm
+Date founded:	1947
+Institution Type:	Gene/Seed Bank
+Latitude:	52.4063
+Local Address:	Kolejowa 2 62-064 Plewiska Poland
+Locality:	Information
+Longitude:	16.9251
+Total Area:	3 Hectares
+Total area of glasshouses:	200 Metres
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000
+Number of Volunteers:	1
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	100
+Cultivation Taxa Num:	1200
+Special Collections:	Collections include about 500 taxa of medicinal plants, about 300 taxa of trees and shrubs and about 300 taxa of ornamental plants in the garden and in the greenhouse.Monitoring in situ of medicinal plants under law preservation in Poland and their cultivation is carried out e.g. Adonis vernalis, Arctostaphylos uva ursi, Arnica montana, Asperula odorata, Asarum europaeum, Colchicum autumnale, Convallaria majalis and Helichrysum arenarium.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Conservation - Biology:	Yes
+Education:	Yes
+Seed/Spore Biology:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

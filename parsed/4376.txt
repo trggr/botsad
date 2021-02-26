@@ -1,0 +1,16 @@
+ID:	4376
+Name:	Seoul Grand Park 
+Curator's Name:	Hyojun Kim
+Director's Name:	Chun-hun Song
+Info:	  South Korea - Gyeonggi-do - Gwacheon-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Seoul Grand Park; Gwangmyeong-gil 42; Gwacheon-si; Gyeonggi-do South Korea; ;  Telephone: 02-500-7860; Fax: 02-500-7994; URL: <a target="_blank" href="http://grandpark.seoul.go.kr">http://grandpark.seoul.go.kr; Primary Email: aro88@seoul.go.kr ; 
+Plant Records Officer's Name:	JongHwa Seong
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Landscaped Area:	Yes
+Latitude:	37.4258
+Longitude:	127.02281
+Natural Vegetation Area:	Yes
+Total area of glasshouses:	2852 Metres
+Open to public:	Yes
+Cultivation Taxa Num:	1263
+Special Collections:	Exhibition hall, Greenhouse, and Botanical Gardens displaying

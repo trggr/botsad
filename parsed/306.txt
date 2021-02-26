@@ -1,0 +1,11 @@
+ID:	306
+Name:	Les Espaces Botaniques de l'Universite de Liège 
+Curator's Name:	
+Director's Name:	Prof. Patrick Motte
+Info:	  Belgium - Liège (Sart Tilman)  ;Garden Information;  Institution Code: LG; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Les Espaces Botaniques de l'Universite de Liège; Quartier Vallée 3; Chemin de la Ferme, 1; Liège (Sart Tilman); B-4000 Belgium; ;  Telephone: 32 (0)4 242 77 22; Fax: 32 (0)4 366 42 71; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	50.578292
+Longitude:	5.588264
+Special Collections:	Bromeliaceae, Cactaceae, succulents, Begoniaceae, Poaceae (Festuca), Asteraceae, other critical groups from European flora. Glasshouse collections include 1,000 taxa.

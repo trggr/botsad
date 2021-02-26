@@ -1,0 +1,11 @@
+ID:	4524
+Name:	Montmorency Forest 
+Curator's Name:	
+Director's Name:	
+Info:	  Canada - Québec - Québec  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Montmorency Forest The Faculty of Forestry and Geomatics is the largest in Canada, with research centres and networks covering many fields, from knowledge of the land and the social aspects of land use to the use of its resources (wood, non-wood, wildlife, etc.). Its many research groups include the Forest Biology Research Centre, the Wood Research Centre, the Hydrometeorology and Precision Agriculture Research Centre, the Network of Excellence in Geomatics (GEOIDE), the Carbon Flux Network (Fluxnet), and the Intensive Silviculture Network. ; ; The Faculty also boasts its own 6,600 hectare teaching and research forest: Montmorency Forest. A vast open-air lab for professors and students, it also serves as a meteorological station.;  Main Address:; Montmorency Forest; Faculty of Forestry and Geomatics - Universite Laval; Bureau 1151, 2405, rue de la Terrasse; Québec; Québec G1V 0A6 Canada; ;  Telephone: (418) 656-2131, ext. 6922; Fax: ; URL: <a target="_blank" href="http://www.ffg.ulaval.ca">www.ffg.ulaval.ca; Primary Email: ffg@ffg.ulaval.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	46.780479
+Longitude:	-71.279533
+Total Area:	6600 Hectares

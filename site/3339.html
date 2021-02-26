@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>Jardin d'Experimentation des Plantes Utiles (J.E.P.U.)</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=3339"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>Senegal - Région de Dakar - DAKAR - FANN</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+																				</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> PUCD</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: Yes</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: No</p>
+							
+														
+														<div class="garden-photo">
+								<img src="/photos/3339/fleur_jaune [320x200] [iPod Photo] [iPod Phot" alt="" />
+								<div></div>
+							</div>
+											
+														<h2>About the Jardin d'Experimentation des Plantes Utiles (J.E.P.U.)</h2>
+							<p>HISTORIQUE<br />
+Ce Jardin d’Expérimentation des Plantes Utiles (JEPU) du Laboratoire de Pharmacognosie et Botanique (UCAD/Faculté de Médecine et Pharmacie) est créé en 1986; surface d’environ 1,9 ha; objectifs: enseignement de la botanique appliquée (plantes utiles), multiplication et production de graines, recherche; personnel: 1 conservateur et 2 jardiniers autrefois rémunérés par ENDA-Tiers Monde; locaux (bureau, stockage de semences, outillage) incendiés en 2002 et non restaurés; équipements (pépinière, ombrière, case d'exposition) hors d'état; l'herbier est à reconstituer.  <br />
+<br />
+Les activités du JEPU sont concentrées autour de la culture et de la présentation d’espèces utiles d'Afrique de l'Ouest, sur la conservation de ces espèces, ainsi que sur la multiplication et la production de plants pour les opérations de reboisement (environ 400 espèces). Il apparaît clairement que les objectifs, auxquels aspire ce jardin membre des JBF, ne peuvent être réalisés avec les moyens actuels. Les projets sur la Biodiversité végétale: BGCI, FSP, PGIES, AFORNET, UICN etc... devront aider à résoudre ce problème, en complément des ressources de l’UCAD.<br />
+<br />
+Dans le cadre du projet IEC/PM, notre jardin dispose, dorénavant, de cinq (5) sites de démonstration (Carrés Botaniques Villageois) à Keur Goury, Mbadakhoune, Sambandé, Kaymor et Diakhao, (Sine Saloum); Sites dans lesquels les chercheurs du JEPU mènent des expériences de conservation de plantes médicinales, en partenariat avec ENDA et PROMETRA (ONG). Quelques moyens logistiques sont nécessaires au JEPU pour parfaire ces relations. <br />
+ <br />
+ACTIVITES DU JEPU<br />
+La conservation «ex-situ» est reconnue comme l’un des outils les plus importants, que les jardins botaniques peuvent mettre en place dans la conservation de la biodiversité.<br />
+<br />
+The Botanics Gardens Conservation Strategy établit que «Le but de la conservation ex situ est de fournir une "réserve" pour la protection. Ceci ne se justifie que comme un des éléments d’une stratégie globale de conservation qui, à terme, assure une survie des espèces dans la nature. Son rôle devrait être perçu comme un moyen d’atteindre un objectif et non comme un objectif en lui-même: comme une source de matériaux pour la réintroduction dans des habitats dégradés et pour renforcer des populations dans des programmes de gestion des écosystèmes, pour la recherche et l’éducation, pour sélectionner du matériel végétal à des fins commerciales dans des pépinières, l’agriculture locale, les plantations d’agréments, la sylviculture locale, etc... Un autre rôle est de soustraire les populations d'espèces sauvages aux pressions des scientifiques, des horticulteurs, des amateurs ou des collectionneurs locaux. Par dessus tout, la conservation ex-situ rend les plantes disponibles pour l’exploitation humaine (IUCN-BGCS et WWF 1989, p. 21)».<br />
+<br />
+La conservation ex-situ a plusieurs objectifs:<br />
+ 	Sauvegarder des ressources génétiques menacées.<br />
+ 	Fournir le matériel végétal pour la réintroduction, le renforcement, la restauration des habitats et leur gestion.<br />
+ 	Fournir du matériel pour la recherche biologique sur la conservation.<br />
+ 	Centraliser du matériel végétal sous formes variées pour constituer des banques de gènes.<br />
+ 	Fournir du matériel végétal afin de supprimer ou de réduire la pression provenant de la collecte sauvage.<br />
+ 	Cultiver des espèces à semences récalcitrantes qui ne peuvent être maintenues dans des banques de graines.<br />
+ 	Rendre disponible du matériel pour les expositions et l’éducation au sujet de la conservation.<br />
+<br />
+La conservation ex-situ des plantes sauvages est un rôle unique et central des jardins botaniques. Ils possèdent les installations appropriées et le personnel compétent en botanique et en horticulture pour être «la police d’assurance» contre l’extinction des végétaux. La conservation ex-situ peut inclure le maintien d’échantillons de populations, aussi bien que les graines, le pollen, les propagules, la culture cellulaire et tissulaire.<br />
+<br />
+Comme méthode de conservation, la conservation ex-situ est de façon inhérente déficiente dans le fait qu’il n’est pas toujours possible de maintenir plus d’un échantillon limité de la diversité génétique, en culture ou en banque. De plus, cela peut mener à un changement génétique imprévisible et devenir, en pratique, une forme de domestication. Ceci est souvent considéré comme de la préservation plus que de la conservation. Parallèlement, la conservation in situ, au moins en théorie, permet aux populations végétales de se développer et d’évoluer dans, ou en faisant partie de, l’écosystème de leur habitat naturel. En pratique, les deux méthodes devraient être considérées comme des approches complémentaires et se renforçant mutuellement.<br />
+<br />
+La conservation ex-situ dans les jardins botaniques a plusieurs avantages et peut être la seule option disponible lorsque l’habitat naturel a été détruit.<br />
+<br />
+Il existe trois jardins botaniques institutionnels à Dakar: deux à l'Université; le troisième dépend du MEA. Tous trois sont soucieux de conservation des espèces végétales. Un autre jardin a été installé dans un grand parc par l’ONG ENDA-Tiers Monde à Mbour. Ils ont des approches différentes et complémentaires.<br />
+<br />
+<br />
+Dr. Modou LO: Responsable scientifique des projets <br />
+Mr. Ibrahima FALL: Conservateur du JEPU</p>
+														<p>
+								<b>Main Address:</b><br />
+								Jardin d'Experimentation des Plantes Utiles (J.E.P.U.)<br />
+								Laboratoire de Pharmacognosie et de Botanique<br />								Faculté de Médecine, de Pharmacie et d'Odontologie - Université Cheikh Anta DIOP<br />								DAKAR - FANN<br />								Région de Dakar BP 5005  Fann Senegal<br />
+							</p>
+							<p>
+								<b>Telephone:</b> 221-8245038<br />
+								<b>Fax:</b> 221-8252952<br />
+								<b>URL:</b> <a target="_blank" href="http://"></a><br />
+								<b>Primary Email:</b> aynenut@ucad.sn							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: BASSENE Emmanuel<br />
+										Curator's Name: LO  Modou<br />
+										Plant Records Officer's Name: FALL  Ibrahima<br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: 3<br />
+										Educational Staff Number: 5<br />
+										Research Staff Number: 7<br />
+										Administration Staff Number: 4									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+										Status: Private: No<br />										Status: State: Yes<br />										Status: Educational: Yes<br />										Status: Municipal: Yes<br />										Status: Satellite: Yes<br />																			</li>
+															
+																		<li>Date founded: 1960</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+															
+															
+									<li>
+										Total Area: 1 Hectares<br />										Latitude: 14.6953<br />										Longitude: -17.4439<br />																				Altitude: 0.00 Metres<br />																													</li>
+									
+																		<li><b>Additional Locations</b></li>
+									<li>Satellite Garden Names: Carré Botanique de MBADAKHOUNE (Sine)
+Carré Botanique de KEUR GOURY (Sine)
+Carré Botanique de SAMBANDE (Saloum)</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+																														Arboretum: Yes<br />										Arboretum Size: 1<br />									</li>
+															
+																		<li>
+																				Seed Bank: Yes<br />																													</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: Yes<br />																																							</li>
+															
+																		<li>
+										Number of Visitors: 10000<br />																			</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 400<br />																			</li>
+															
+																		<li><b>Special Collections:</b>Aquatic plants such as the scared lotus and water lilies. Introductions of seven primary speciescultivar in 1974. Collections include Adansonia digitata, Albizzia lebbeck, Borreria verticillata, Bauhinia rufescens, Vitis vinifera, Acacia albida and Ficus carica.<br />
+<br />
+Since 1986 one second list of 320....species was introduced</li>
+																
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: Yes<br />										Medicinal Plant Programme: Yes<br />										Ex Situ Conservation Programme: Yes<br />										Reintroduction Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+										Biotechnology: No<br />										Plant Breeding: Yes<br />										Conservation - Biology: Yes<br />										Conservation - Genetics: Yes<br />										Data Management Systems and Information Technology: Yes<br />										Ecology: Yes<br />										Ecosystem Conservation: Yes<br />										Education: Yes<br />										Ethnobotany: Yes<br />										Exploration: Yes<br />										Floristics: Yes<br />										Horticulture: Yes<br />																																								Restoration Ecology: Yes<br />										Seed/Spore Biology: Yes<br />										Systematics and Taxonomy: Yes<br />										Sustainability: Yes<br />										Pharmacology: Yes<br />										Agriculture: Yes<br />										Land Restoration: Yes<br />										Urban Environments: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: Yes<br />										Education Booklets/Leaflets: Yes<br />																																								Courses for School Children: Yes<br />										Courses for University/College Students: Yes<br />										Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+<section class="related">
+	<h2>Related articles</h2>
+		<div class="com-content">
+		<h3><a href="/cultivate/article/0273/">Etnobotanica - Geneve - Bolivia - Paraguay</a></h3>
+		<p class="articlePubDate">December 2005</p>
+	</div>
+	</section>
+				﻿<!-- Related news section -->
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

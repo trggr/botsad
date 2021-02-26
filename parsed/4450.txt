@@ -1,0 +1,21 @@
+ID:	4450
+Name:	Green-Wood Cemetery 
+Administration Staff Number:	2
+Curator's Name:	Joseph Charap
+Director's Name:	Richard Moylan, President
+Educational Staff Number:	
+Horticultural Staff Number:	6
+Info:	  United States of America - New York - Brooklyn  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Green-Wood Cemetery; 500 25th Street; Brooklyn; New York 11232 United States of America; ;  Telephone: (718) 768-7300; Fax: ; URL: <a target="_blank" href="http://www.greenwoodcemetery.org">www.greenwoodcemetery.org; Primary Email: info@greenwoodcemetery.org ; 
+Plant Records Officer's Name:	Sara Evans
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	40.6583130
+Longitude:	-73.9947600
+Arboretum:	Yes
+Arboretum Size:	193
+Computer Plant Record System:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+Invasive Species Monitoring:	Yes

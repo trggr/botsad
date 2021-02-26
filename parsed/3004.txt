@@ -1,0 +1,11 @@
+ID:	3004
+Name:	Forstaboretum der Niedersaechsischen Landesforstverwaltung 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Bad Grund  ;Garden Information;  Institution Code: BAD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Forstaboretum der Niedersaechsischen Landesforstverwaltung; Kelchtal 18b, D-37539 BAD GRUND; Bad Grund; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1971
+Institution Type:	Other
+Latitude:	51.8061
+Longitude:	10.2302

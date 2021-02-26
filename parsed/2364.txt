@@ -1,0 +1,16 @@
+ID:	2364
+Name:	California State Northridge Botanic Garden 
+Curator's Name:	Brenda Kanno, Manager
+Director's Name:	Brenda Kanno, Manager
+Info:	  United States of America - California - Northridge  ;Garden Information;  Institution Code: NRIDG; International Agenda Registration: No; BGCI Member: No;  Main Address:; California State Northridge Botanic Garden; Biology Department - MC 8303; 18111 Nordhoff Street; Northridge; California 91330-8303 United States of America; ;  Telephone: (818) 677-3496; Fax: (818) 677-2034; URL: <a target="_blank" href="http://www.csun.edu/botanicgarden">www.csun.edu/botanicgarden; Primary Email: botanicgarden@csun.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1959
+Institution Type:	Botanic Garden
+Latitude:	34.2356380
+Longitude:	-118.5286380
+Total Area:	1 Hectares
+Friends society:	Yes
+Open to public:	Yes
+Courses for General Public:	Yes
+Courses for University/College Students:	Yes

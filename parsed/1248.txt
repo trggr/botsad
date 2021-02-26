@@ -1,0 +1,55 @@
+ID:	1248
+Name:	Wellington Botanic Garden 
+Fax:	64 4 499 1903
+Info:	  New Zealand - Wellington  ;Garden Information;  Institution Code: WELTN; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	treehouse@wcc.govt.nz
+Telephone:	64 4 499 1400
+Administration Staff Number:	6
+Curator's Name:	Karin van der Walt
+Director's Name:	David Sole
+Educational Staff Number:	
+Horticultural Staff Number:	19
+Plant Records Officer's Name:	Eleanor Burton
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1868
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-41.28316
+Local Address:	101 Glenmore Street
+Locality:	Information
+Longitude:	174.76745
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Truby King Park. This park, once the house and garden of Sir Truby and Lady Isabella King, Plunket Society co-founders, is a 1.9 hectare heritage-listed estate. Designed by prominent local architect Gray Young, the 1923 house has New Zealand Historic Places Trust and Wellington City Council heritage listings. The house and garden were originally known as ‘Mount Melrose’. The remainder of the estate, including the former Karitane Products Society factory and Karitane Hospital, is now owned privately. Truby King was an avid gardener in later life, planting many pines, rhododendrons, azaleas and roses, and building elaborate brickwork structures
+Total Area:	130 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1500000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Herbs, camellias, modern and heritage roses, conifers, begonias, cacti and succulents, ferns, perennials, grasses, native streamside, woodland gardens, red garden, floral bedding, native and exotic trees and NZ forest areas.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Ecology:	Yes
+Ecosystem Conservation:	No
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	Yes
+Seed/Spore Biology:	Yes
+Urban Environments:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

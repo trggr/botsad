@@ -1,0 +1,79 @@
+ID:	271
+Name:	Waimea Valley Arboretum and Botanical Garden 
+Administration Staff Number:	5
+Curator's Name:	Josephine Hoh, Botanical manager
+Director's Name:	David Orr, Botanical Collections Specialist
+Educational Staff Number:	3
+Horticultural Staff Number:	3
+Info:	  United States of America - Hawaii - Haleiwa  ;Garden Information;  Institution Code: WAI; International Agenda Registration: Yes; BGCI Member: Yes; About the Waimea Valley Arboretum and Botanical Garden Waimea Arboretum and Botanical Garden contains 36 major botanical collections situated in a narrow valley extending from sea level to 1,000 feet. The plant collections focus on native Hawaiian plants, Polynesian introductions, and plants of island ecosystems. The Arboretum also emphasizes the cultural and ecological resources of Waimea Valley. ; ; The Waimea Arboretum and Botanical Garden offers visitors an opportunity to walk along gentle paths, hike old stream trails, share a picnic or simply revel in the simple joys of nature. Plant enthusiasts, bird lovers, history buffs, and anyone who longs for a true Hawaiian island experience will find what they seek in the Waimea Valley. The Center also provides a living laboratory for local schools as well as a vital research site for citizen scientists.; ; Waimea Arboretum and Botanical Garden works to protect and enhance Waimea Valley's cultural, botanical, and ecological resources and interpret those resources through quality educational programs.; ; The Arboretum is open daily from 9:00 a.m. to 5:00 p.m. It is closed all day on Thanksgiving Day, Christmas Day and New Year's Day. Fees for admission are $15.00 for adults and $7.50 for children and seniors. Military and Kama'aina rates are $10.00 for adults and $5.00 for keiki, kapuna, and military. Free admission for members and children 3 yrs and younger.;  Main Address:; Waimea Valley Arboretum and Botanical Garden; 59-864 Kamehameha Highway; Haleiwa; Hawaii 96712 United States of America; ;  Telephone: (808) 638-5876; Fax: (808) 638-7776; URL: <a target="_blank" href="http://www.waimeavalley.net">www.waimeavalley.net; Primary Email: dorr@waimeavalley.net ; 
+Plant Records Officer's Name:	David Orr
+Research Staff Number:	1
+Altitude:	30.00 Metres
+Annual Rainfall:	1778 mm
+Date founded:	1973
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	21.6662250
+Local Address:	59-864 Kamehameha Hwy.
+Locality:	Information
+Longitude:	-158.0275340
+Natural Vegetation Area:	Yes
+Total Area:	750 Hectares
+Total area of shadehouses:	450 Metres
+Arboretum:	Yes
+Arboretum Size:	60
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	220000
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	5500
+Cultivation Taxa Num:	4500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Family/Genus Collections
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

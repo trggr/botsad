@@ -1,0 +1,74 @@
+ID:	4761
+Name:	New Plant Nursery 
+Administration Staff Number:	8
+Curator's Name:	
+Director's Name:	Mandy & Paul Fick
+Educational Staff Number:	
+Horticultural Staff Number:	49
+Info:	  South Africa - Western Cape - George  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the New Plant Nursery New Plant nursery are leaders in the trend towards growing and using indigenous and endemic South African Plants. Making South African Plants widely available has been our mission since New Plant nursery was founded more than ten years ago by Mandy and Paul Fick. ; ; Retailers and landscapers will know that the demand for indigenous planting and gardening is growing all the time, especially since we wish to safeguard our biodiversity in the face of rapid development. ; ; South African plants include such diversity that there will always be something 'New' available. Landscape rehabilitation is becoming more and more important, but the plant material, especially area-specific genotypes and endemics, are not always available. We hope to bridge that gap with our consulting and growing services. ; ; The Team: ; ; Our enthusiastic workforce is devoted to their work, and New Plant Nursery in turn, invests in the personal development, growth and training of employees. We foster a culture of mutual respect, recognition of personal performance, achievement and leadership development. Our employees are empowered in the decision-making process of the nursery and share in profits as if they were already shareholders. ; ; The final formalisation of our aimed 51% Black Empowerment share is underway. We believe in investing in our people and their future success through skills transfer and economic empowerment. We are comitted to actively promoting community involvement and skills transfer through our training and community greening programmes.;  Main Address:; New Plant Nursery; Victoria Bay Rd; George East; George; Western Cape 6539 South Africa; ;  Telephone: +27-44-8890055; Fax: +27-44-8890101; URL: <a target="_blank" href="http://www.newplant.co.za">http://www.newplant.co.za; Primary Email: info@newplant.co.za ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	50.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1989
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	-33.994821
+Longitude:	22.537153
+Total Area:	9 Hectares
+Total area of glasshouses:	4000 Metres
+Total area of shadehouses:	2000 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	1000
+Cultivation Taxa Num:	350
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Special Collections:	Seperate R&D section which continuously evaluates new species & varieties from the Cape Floral Kingdome for their potential as new floricultural crops. We also breed with some genera, so of these we will keep collections of interesting forms.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

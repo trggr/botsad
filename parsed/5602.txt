@@ -1,0 +1,9 @@
+ID:	5602
+Name:	Jardín Botánico de la Universidad San Pablo Tucumán 
+Curator's Name:	
+Director's Name:	Ing. Agr. Marcela Colombo
+Info:	  Argentina - Tucumán - San Pablo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico de la Universidad San Pablo Tucumán; Campus de la Universidad San Pablo Tucumán; Av. Solano Vera y Camino a Villa Nogués; San Pablo; Tucumán 4129 Argentina; ;  Telephone: +54 381 4977711 ext. 106; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-26.868900
+Longitude:	-65.318709

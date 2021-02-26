@@ -1,0 +1,10 @@
+ID:	1057
+Name:	Jardin Botanique de l'Universite de Rennes 
+Curator's Name:	
+Director's Name:	
+Info:	  France - Rennes  ;Garden Information;  Institution Code: REN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique de l'Universite de Rennes; Faculte des Sciences, Avenue du General Leclerc, F-35031 RENNES Cedex, France.; Rennes; France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	48.1117
+Longitude:	-1.6802

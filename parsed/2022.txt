@@ -1,0 +1,10 @@
+ID:	2022
+Name:	Gore Public Gardens 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  New Zealand - Gore  ;Garden Information;  Institution Code: GORE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gore Public Gardens; Gore District Council, P.O. Box 8 GORE, New Zealand.; Gore; New Zealand; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	-46.09862
+Longitude:	168.94139

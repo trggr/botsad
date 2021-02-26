@@ -1,0 +1,10 @@
+ID:	3561
+Name:	Jardín Botanico "Edgardo N. Orfila" 
+Curator's Name:	Ing. Agr. Eduardo L. Farina
+Director's Name:	Ing. Agr. Lilian Monterroso
+Info:	  Argentina - Azul  ;Garden Information;  Institution Code: AZ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botanico "Edgardo N. Orfila"; Universidad Nacional del Centro de la Provincia de Buenos Aires; Avda. Pedro Giraut y 9 de Julio, C.C. 178; Azul; 7300 Argentina; ;  Telephone: 54 (0) 2281 432291/ 92/ 93; Fax: 54 (0) 2281 432291/ 92/ 93; URL: <a target="_blank" href="http://www.faa.unicen.edu.ar/jardinbotanico">www.faa.unicen.edu.ar/jardinbotanico; Primary Email: decana@faa.unicen.edu.ar ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-36.768308
+Longitude:	-59.880736

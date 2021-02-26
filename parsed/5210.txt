@@ -1,0 +1,9 @@
+ID:	5210
+Name:	Jardin Botanico Regional Carmen 
+Curator's Name:	
+Director's Name:	*
+Info:	  Mexico - CA - CARMEN  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin Botanico Regional Carmen; 56 ESQ. AVENIDA CONCORDIA; BENITO JUAREZ; CARMEN; CA 24180 Mexico; ;  Telephone: 019383811018; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: elopez@pampano.unacar.mx ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	18.6437156
+Longitude:	-91.8098026

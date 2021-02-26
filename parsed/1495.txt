@@ -1,0 +1,10 @@
+ID:	1495
+Name:	Botanical Garden of Kawaguchi-City 
+Curator's Name:	
+Director's Name:	M. Koyama
+Info:	  Japan - Kawaguchi City  ;Garden Information;  Institution Code: KAWGC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of Kawaguchi-City; Araijuku 700, KAWAGUCHI CITY, Saitama Prefecture, Japan.; Kawaguchi City; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1967
+Institution Type:	Botanic Garden
+Latitude:	39.9203
+Longitude:	141.2097

@@ -1,0 +1,10 @@
+ID:	3559
+Name:	Parque Etnobotánico Omora 
+Curator's Name:	
+Director's Name:	
+Info:	  Chile - XII Regione Magallanes - Isla Navarino  ;Garden Information;  Institution Code: OMORA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Parque Etnobotánico Omora; Parque Omora, 449 Costanera,; Puerto Williams,; Isla Navarino; XII Regione Magallanes Chile; ;  Telephone: (0291) 459 5101; Fax: ; URL: <a target="_blank" href="http://www.omora.org/">www.omora.org/; Primary Email: fundacion@omora.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-34.1563
+Longitude:	-70.7541

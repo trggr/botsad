@@ -1,0 +1,9 @@
+ID:	5596
+Name:	Jardín del Museo de Ciencias Naturales “Augusto Gustavo Schulz” 
+Curator's Name:	
+Director's Name:	
+Info:	  Argentina - Chaco - Resistencia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín del Museo de Ciencias Naturales “Augusto Gustavo Schulz”; Pellegrini 802; Resistencia; Chaco 3500 Argentina; ;  Telephone: +54 362 4 423864; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: museoschulz@yahoo.com.ar ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	27.445968
+Longitude:	58.977313

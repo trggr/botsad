@@ -1,0 +1,40 @@
+ID:	4622
+Name:	Zoo Atlanta 
+Administration Staff Number:	
+Curator's Name:	Danielle Green, Curator of Horticulture
+Director's Name:	Unknown
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Info:	  United States of America - Georgia - Atlanta  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Zoo Atlanta; 800 Cherokee Avenue SE; Atlanta; Georgia 30315 United States of America; ;  Telephone: (404) 624-5620; Fax: ; URL: <a target="_blank" href="http://www.zooatlanta.org">www.zooatlanta.org; Primary Email: horticulture@zooatlanta.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1889
+Institution Type:	Zoological Institution
+Landscaped Area:	Yes
+Latitude:	33.7340680
+Longitude:	-84.3735200
+Natural Vegetation Area:	Yes
+Total Area:	14 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	675000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Horticulture:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Public Lectures/Talks:	Yes

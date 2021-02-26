@@ -1,0 +1,10 @@
+ID:	3293
+Name:	The Scottish Crop Research Institute 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Dundee  ;Garden Information;  Institution Code: INVE; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Scottish Crop Research Institute; InvergowrieDundeeDD2 5DAUK; Dundee; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.scri.sari.ac.uk">www.scri.sari.ac.uk; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	56.456397
+Longitude:	-3.069387

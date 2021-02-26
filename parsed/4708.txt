@@ -1,0 +1,9 @@
+ID:	4708
+Name:	Toledo Zoo 
+Curator's Name:	Nancy Bucher, Director of Facilites, Horticulture and Grounds
+Director's Name:	Unknown
+Info:	  United States of America - Ohio - Toledo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Toledo Zoo; 2700 Broadway; P.O. Box 140130; Toledo; Ohio 43614 United States of America; ;  Telephone: (419) 385-5721; Fax: ; URL: <a target="_blank" href="http://www.toledozoo.org/zooinfo/plants.html">www.toledozoo.org/zooinfo/plants.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	41.6192960
+Longitude:	-83.5806039

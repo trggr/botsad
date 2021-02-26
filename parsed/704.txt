@@ -1,0 +1,33 @@
+ID:	704
+Name:	Norfolk Botanical Garden 
+Fax:	(757) 853-8294
+Info:	  United States of America - Virginia - Norfolk  ;Garden Information;  Institution Code: ODU; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	(757) 441-5830
+Curator's Name:	
+Director's Name:	Michael P. Desplaines, President & CEO
+Plant Records Officer's Name:	David Pincus, Plant Recorder
+Altitude:	0.00 Metres
+Date founded:	1938
+Institution Type:	Botanic Garden
+Latitude:	36.901617
+Longitude:	-76.200217
+Total Area:	71 Hectares
+Arboretum:	Yes
+Arboretum Size:	7
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	12728
+Cultivation Taxa Num:	8050
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Camellia, Rhododendron (azalea), Hydrangea, Roses, Holly (Ilex), Crape Myrtle (Lagerstroemia),Conifers, Hemerocallis, Hosta, Iris, Magnolia, Mahonia(Berberis), Narcissus,Viburnum
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

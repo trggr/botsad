@@ -1,0 +1,11 @@
+ID:	2275
+Name:	Proyecto de Jardín Botánico de la Facultad de Agronomía y Veterinaria 
+Curator's Name:	Ing. Agr. Marcela Buyatti
+Director's Name:	Dra. Eliana Exner
+Info:	  Argentina - Santa Fe - Esperanza  ;Garden Information;  Institution Code: SF; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Proyecto de Jardín Botánico de la Facultad de Agronomía y Veterinaria; Universidad Nacional del Litoral, Catedra Botanica II J.T.P.; R.Padre Kreder 2805; Esperanza; Santa Fe 3080 Argentina; ;  Telephone: 54-(0) 3496-426400; Fax: 54-(0) 3496-426400; URL: <a target="_blank" href="http://">; Primary Email: eexner@fca.unl.edu.ar ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-31.58749
+Longitude:	-60.70608
+Special Collections:	No information available.

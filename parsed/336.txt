@@ -1,0 +1,12 @@
+ID:	336
+Name:	Guilin Botanical Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Guangxi - Guilin  ;Garden Information;  Institution Code: IBK; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Guilin Botanical Garden; Chinese Academy of Sciences, Yanshan, Guilin (Kweilein), Guangxi, 541006, China; Guilin; Guangxi China; ;  Telephone: (86-773) 3550103; Fax: (86-773) 3550067; URL: <a target="_blank" href="http://">; Primary Email: gib69@public.glptt.gx.cn ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	25.2805
+Local Address:	中国广西省桂林市雁山中科院，邮编 541006
+Locality:	Information
+Longitude:	110.2833

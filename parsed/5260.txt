@@ -1,0 +1,9 @@
+ID:	5260
+Name:	Plant and Food Research 
+Curator's Name:	
+Director's Name:	
+Info:	  New Zealand  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Plant and Food Research; Canterbury Agriculture & Science Centre; Gerald St, Lincoln, 7608,; New Zealand; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-36.891297
+Longitude:	174.725098

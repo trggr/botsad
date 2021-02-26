@@ -1,0 +1,9 @@
+ID:	5517
+Name:	National Herbarium of Suriname 
+Curator's Name:	
+Director's Name:	Eliza Zschuschen
+Info:	  Suriname - Paramatibo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; National Herbarium of Suriname; Anton de Kom University of Suriname; Leysweg 86; Paramatibo; Suriname; ;  Telephone: 597464151; Fax: 597464151; URL: <a target="_blank" href="http://">; Primary Email: bbs@uvs.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	5.815
+Longitude:	-55.2151

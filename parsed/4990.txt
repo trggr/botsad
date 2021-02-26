@@ -1,0 +1,24 @@
+ID:	4990
+Name:	Jardín Botánico Puerto Escondido 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	M.C. Manuel Alejandro Robles Chavira
+Educational Staff Number:	2
+Horticultural Staff Number:	3
+Info:	  Mexico - Oaxaca - San Pedro Mixtepec, Juquila  ;Garden Information;  Institution Code: BG5752; International Agenda Registration: No; BGCI Member: No; About the Jardín Botánico Puerto Escondido El Jardín Botánico de la Universidad del Mar Campus Puerto Escondido, es un espacio para la observación y el conocimiento de las plantas a manera de museo viviente. ; ; Se encuentra ubicado en el km. 244 de la carretera Puerto Escondido - Sola de Vega, con una extensión es de 16.7 ha de terreno conformado por lomeríos y pequeñas cañadas, por la cual se forma un arroyo en temporada de lluvias.; ; En base a especies vegetales y animales de la región costa de Oaxaca, se realizan actividades de investigación conservación y educación así como su difusión a la sociedad. ; ; En el Jardín Botánico podrás recorrer 1.5 km de senderos interpretativos en donde se puede conocer una gran variedad de las especies de selva baja caducifolia que ahí se encuentran. La mayor parte de las especies presentes pierden sus hojas en la época seca del año durante un lapso variable, pero en general oscila alrededor de 6 a 8 meses.; ____________________________________________________________; ; The Botanical Garden of the University Campus del Mar Puerto Escondido is a space for observation and knowledge of how plants living museum. ; ; It is located at km. 244 of the Puerto Escondido Road - Sola de Vega, with an area is 16.7 ha of land formed by small hills and glens, through which a stream forms in rainy season. ; ; Based on plant and animal species in the coastal region of Oaxaca, conservation research and education as well as their dissemination to society are made. ; ; In the Botanical Garden you will go 1.5 miles of interpretive trails where you can meet a variety of deciduous forest species found there. Most of the species lose their leaves in the dry season for a variable period, but generally hovers around 6-8 months.;  Main Address:; Jardín Botánico Puerto Escondido; Universidad del Mar Campus Puerto Escondido; Carretera Vía Sola de Vega, Puerto Escondido; San Pedro Mixtepec, Juquila; Oaxaca C.P. 71980 Mexico; ;  Telephone: 01 (954) 58 2 49 90; Fax: ; URL: <a target="_blank" href="http://www.umar.mx/jardin_botanico.html">http://www.umar.mx/jardin_botanico.html; Primary Email: jardinbotanico@angel.umar.mx ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	30.00 Metres
+Date founded:	2006
+Institution Type:	Botanic Garden
+Latitude:	15.764125
+Longitude:	-96.454088
+Natural Vegetation Area:	Yes
+Total Area:	17 Hectares
+Computer Plant Record System:	Yes
+Friends society:	No
+Open to public:	No
+Published Plant Catalogue:	Yes
+Invasive Species Policy:	No
+Guided Tours:	Yes
+Special Exhibitions:	Yes

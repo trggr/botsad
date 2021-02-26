@@ -1,0 +1,32 @@
+ID:	4507
+Name:	Dixon National Tallgrass Prairie Seed Bank at Chicago Botanic Garden 
+Fax:	(847) 835-4484
+Info:	  United States of America - Illinois - Glencoe  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	PVitt@chicagobotanic.org
+Telephone:	(847) 835-5440
+Curator's Name:	Pati Vitt, Curator, Dixon National Tallgrass Prairie Seed Bank
+Director's Name:	Dr. Kayri Havens, Director of Plant Science and Conservation
+Plant Records Officer's Name:	Emily Yates, Seed Bank Coordinator, Dixon National Tallgrass Prairie Seed Bank
+Altitude:	176.40 Metres
+Date founded:	1972
+Institution Type:	Gene/Seed Bank
+Latitude:	42.1523170
+Longitude:	-87.7862760
+Total Area:	156 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Number of Visitors:	1000000
+Number of Volunteers:	2000
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	19158
+Cultivation Taxa Num:	9414
+Number of plants in records:	2.3 million (Jan. 2008)
+Special Collections:	Plant Collections
+Conservation Programme:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,28 @@
+ID:	1033
+Name:	Leuven Botanic Garden 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Jan Vandyck
+Educational Staff Number:	
+Horticultural Staff Number:	8
+Info:	  Belgium - Leuven  ;Garden Information;  Institution Code: LEUVE; International Agenda Registration: No; BGCI Member: No; About the Leuven Botanic Garden Founded in 1738, the Hortus Botanicus Lovaniensis is the oldest botanical garden in Belgium.; If nothing else, the Botanic Garden with the neo-classical orangery, tropical greenhouse and abundance of plants and flowers is bound to attract many visitors.; Thanks to the latest restaurations and recent plannings the botanical garden shows a new appearance.;  Main Address:; Leuven Botanic Garden; Kruidtuin Stad Leuven, Kapucijnenvoer 30, B-3000 Leuven; Leuven; B-3000 Belgium; ;  Telephone: 32 (0)16 272380; Fax: ; URL: <a target="_blank" href="http://www.leuven.be">www.leuven.be; Primary Email: groendienst@leuven.be ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	24.00 Metres
+Annual Rainfall:	720 mm
+Institution Type:	Botanic Garden
+Latitude:	50.8833
+Longitude:	4.7000
+Total Area:	2 Hectares
+Total area of glasshouses:	700 Metres
+Computer Plant Record System:	Yes
+Number of Visitors:	95
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	2000
+Special Collections:	Camellia, Hosta, Malus & Pyrus, bulbsyes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

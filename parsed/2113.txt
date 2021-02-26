@@ -1,0 +1,17 @@
+ID:	2113
+Name:	Batsford Arboretum 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	NK
+Educational Staff Number:	
+Horticultural Staff Number:	14
+Info:	  United Kingdom - Gloucestershire - Moreton-in-marsh  ;Garden Information;  Institution Code: BATSF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Batsford Arboretum; The Estate Office; Batsford; Moreton-in-marsh; Gloucestershire GL56 9QF United Kingdom; ;  Telephone: +44 (0)1386 701441; Fax: +44 (0) 1608 650290; URL: <a target="_blank" href="http://www.batsarb.co.uk/">http://www.batsarb.co.uk/; Primary Email: arboretum@batsfordfoundation.co.uk ; 
+Plant Records Officer's Name:	Mr Malcolm MacLachlan
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	52.001361
+Longitude:	-1.730806
+Total Area:	25 Hectares
+Cultivation Taxa Num:	1663
+Special Collections:	Pinaceae, Fagaceae, Rosaceae, Aceraceae, Magnoliaceae, Gramineae, Acer, Abies, Quercus, Magnolia, Picea, Pinus, Prunus and Japanese cherries, Sorbus (3,249 plants, representing 1,133 species and 229 genera).

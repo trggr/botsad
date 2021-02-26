@@ -1,0 +1,20 @@
+ID:	3008
+Name:	Arboretum Freiburg-Günterstal 
+Curator's Name:	
+Director's Name:	Hubertus Nimsch, Dipl.-Ing. Forestry, Technical Manager
+Info:	  Germany - Deutschland - Freiburg  ;Garden Information;  Institution Code: FREA; International Agenda Registration: No; BGCI Member: No; About the Arboretum Freiburg-Günterstal The Freiburg-Günterstal Arboretum has been set up in the Municipal Forest District of Freiburg - Günterstal Forest Range - in cooperation with the Forest Faculty of the Albert-Ludwig-University of Freiburg and its Botanical Garden.; ; For the specialist: ; The Arboretum is a spot of supplementary education: proving and enhancing knowledge of family order, generic term or species of trees and shrubs; determining them and becoming acquainted with them; gathering illustrative material; verifying economical usability and suitability for landscape architecture. It is supposed to help maintain and develop tree species endangered at their natural stands. ; ; For the uninitiated: ; The Arboretum is - as for a globetrotter - an opportunity to learn about trees and shrubs of other continents and countries. People interested in dendrology, forestry or horticulture meet new and versatile forest aspects that contribute to the diversity of forests and to the enrichment of landscapes. For native but so far unnoticed or mostly ignored tree and shrub species, e.g. Yew or Service Tree the Arboretum should be conducive. ; Tree species diversity of comparable geographical latitudes is strikingly higher in America or Eastern Asia than in Europe. The reason for this was the evasive movement of tree species during the Ice Age and their later remigration. On the European Continent remigration was - because of the East-West-extension of the Alps - either infeasible or possible only on a small scale. Many tree species that are going to be reintroduced today had been native before the Ice Age Period, e.g. Big Tree (Sequoiadendron giganteum), Red Cedar (Thuja plicata), Yellow Poplar (Liriodendron tulipifera) and others. From this point of view, reintroducing does not mean cultivating "foreign tree species" but the return of former native species. This is what the Arboretum wants to contribute to.;  Main Address:; Arboretum Freiburg-Günterstal; Municipal Forest District of Freiburg; Haus Nr. 31, 79283 Ulrich/Bollschweil St.; Freiburg; D-79104 Germany - Deutschland; ;  Telephone: +49 (0) 7602-920309; Fax: +49 (0) 7602-920319; URL: <a target="_blank" href="http://www.biologie.uni-ulm.de/extern/guenterstal/">http://www.biologie.uni-ulm.de/extern/guenterstal/; Primary Email: hubertus.nimsch@t-online.de ; 
+Plant Records Officer's Name:	
+Altitude:	300.00 Metres
+Annual Rainfall:	1000 mm
+Date founded:	1896
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	48.0103
+Longitude:	7.8865
+Natural Vegetation Area:	Yes
+Total Area:	100 Hectares
+Arboretum:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Cultivation Taxa Num:	1420
+Special Collections:	Conifers, Abies (45 spp.)

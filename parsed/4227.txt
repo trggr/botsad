@@ -1,0 +1,10 @@
+ID:	4227
+Name:	Arboretum at Penn State, The 
+Curator's Name:	Shari Edelson, Director of Horticulture and Curator
+Director's Name:	Kim Steiner, Director
+Info:	  United States of America - Pennsylvania - University Park  ;Garden Information;  Institution Code: TAPS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum at Penn State, The; The Pennsylvania State University; 301 Forest Resources Building; University Park; Pennsylvania 16802 United States of America; ;  Telephone: (814) 865-9351; Fax: (814) 865-3725; URL: <a target="_blank" href="http://www.arboretum.psu.edu">www.arboretum.psu.edu; Primary Email: atg10@psu.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	40.8047320
+Longitude:	-77.8626120

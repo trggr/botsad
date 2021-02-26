@@ -1,0 +1,51 @@
+ID:	4175
+Name:	Reiman Gardens 
+Administration Staff Number:	
+Curator's Name:	Lindsey Smith, Plant Collections Curator
+Director's Name:	Edward Lyon, Director
+Educational Staff Number:	2
+Horticultural Staff Number:	5
+Info:	  United States of America - Iowa - Ames  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; About the Reiman Gardens Now one of the largest public gardens in Iowa, Reiman Gardens creates a striking entrance to Iowa State University and the city of Ames. Situated on a 14-acre site, the year-round facility features distinct gardens throughout the indoor and outdoor areas, an indoor conservatory, 2,500-square-foot indoor butterfly wing, butterfly emergence cases, a gift shop, and five supporting greenhouses.; ; Reiman Gardens has many award-winning features, and has recently planted one of the first rose gardens in a public garden that incorporates both sustainable designs, plants, and gardening practices. It's Reiman Gardens' goal to show gardeners how to have beautiful and practical gardens and cut the use of chemicals, incorporate more native and hardy plants, and use less labor.; ; The Gardens is owned by Iowa State University under the management of the Office of the Vice President for Business and Finance. Reiman Gardens provide opportunities for learning through a year-round education program and special events. The Gardens' budget is supported with forty percent of its funds from Iowa State University, forty percent from its own activities such as memberships, admissions, rentals, sales, tours, education programs, etc., and twenty percent from endowment earnings and private gifts. The Gardens is visited by approximately 100,000 visitors annually and has a membership of 2,300 households. The Gardens has 14 full-time staff, part-time staff that supplies 11.25 full-time equilivant positions, employes 40 students each year, and relies on almost 10,000 volunteer hours from its patrons and members.; ; Mission: To enchant, educate and inspire environmental stewardship with displays of living beauty.;  Main Address:; Reiman Gardens; Iowa State University; 1407 University Boulevard; Ames; Iowa 50011 United States of America; ;  Telephone: (515) 294-2710; Fax: (515) 294-4817; URL: <a target="_blank" href="http://www.reimangardens.iastate.edu/">www.reimangardens.iastate.edu/; Primary Email: reimangardens@iastate.edu ; 
+Plant Records Officer's Name:	Sarah Rummery, Manager of Horticulture
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1995
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.0104670
+Local Address:	1407 University Blvd.
+Locality:	Information
+Longitude:	-93.6373060
+Natural Vegetation Area:	No
+Total Area:	6 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	100000
+Number of Volunteers:	400
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	7000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

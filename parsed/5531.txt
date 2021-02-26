@@ -1,0 +1,71 @@
+ID:	5531
+Name:	Sireeruckhachati Nature Learning Park 
+Administration Staff Number:	5
+Curator's Name:	
+Director's Name:	Sompop Prathanturarug
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Thailand - Nakkon Pathom - Salaya, Phuttamonthon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sireeruckhachati Nature Learning Park; Mahidol University; 999 Phuttamonthon 4 Road; Salaya, Phuttamonthon; Nakkon Pathom 73170 Thailand; ;  Telephone: +66658798359; Fax: ; URL: <a target="_blank" href="https://sireepark.mahidol.ac.th/">https://sireepark.mahidol.ac.th/; Primary Email: sireepark@mahidol.ac.th ; 
+Plant Records Officer's Name:	
+Research Staff Number:	9
+Altitude:	0.00 Metres
+Date founded:	1988
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	13.7902868
+Longitude:	100.319973
+Natural Vegetation Area:	Yes
+Total Area:	22 Hectares
+Arboretum:	Yes
+Arboretum Size:	20
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	3000
+Number of Volunteers:	200
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Accession Number:	2000
+Cultivation Taxa Num:	800
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

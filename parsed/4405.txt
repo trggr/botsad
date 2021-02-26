@@ -1,0 +1,12 @@
+ID:	4405
+Name:	Korea Expressway Corporation Arboretum 
+Curator's Name:	Jae-Hyun So
+Director's Name:	Cheol-Ho Ryu
+Info:	  South Korea - Jeollabuk-do - Jeonju-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Korea Expressway Corporation Arboretum; 848 Banweol-dong, Dukjin-ku; Jeonju-si; Jeollabuk-do 561-370 South Korea; ;  Telephone: 063-212-0652; Fax: 063-540-6118; URL: <a target="_blank" href="http://arboretum.ex.co.kr">http://arboretum.ex.co.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	35.87096
+Local Address:	덕진구 반월동 848번지
+Locality:	Information
+Longitude:	127.05434

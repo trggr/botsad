@@ -1,0 +1,65 @@
+ID:	144
+Name:	Peter the Great Botanical Garden of the V.L. Komarov Botanical Institute 
+Fax:	8 (812) 372-54-43
+Info:	  Russian Federation - Leningrad oblast - St. Petersburg  ;Garden Information;  Institution Code: LE; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	ktkachenko@binran.ru
+Telephone:	8 (812) 372-54-09
+Tkachenko K. G., Pautova I. A., Korobova M. M. The Introduction Nursery of Food, Crop and Medicinal Plants at the Komarov Botanical Institute of the Russian Academy of Sciences:	its role in the conservation of biodiversity // Botanic Gardens Conservation News. 1997. Vol. 2, N 8. P. 38-40.
+Administration Staff Number:	1
+Curator's Name:	Dr. Kirill Tkachenko
+Director's Name:	Prof., Dr., Yarmishko V.T., Director
+Educational Staff Number:	3
+Horticultural Staff Number:	60
+Plant Records Officer's Name:	
+Research Staff Number:	9
+Altitude:	2.00 Metres
+Annual Rainfall:	662 mm
+Date founded:	1714
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	59.5816
+Longitude:	30.1922
+Total Area:	22 Hectares
+Total area of glasshouses:	11000 Metres
+Arboretum:	Yes
+Arboretum Size:	15
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	300000
+Number of Volunteers:	300
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	50000
+Cultivation Taxa Num:	17500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Open air collections:	dendrarium
+Plant Collection Policy:	No
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Seed/Spore Biology:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

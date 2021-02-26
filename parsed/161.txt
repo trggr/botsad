@@ -1,0 +1,45 @@
+ID:	161
+Name:	Jardim Botanico da Madeira 
+Administration Staff Number:	5
+Curator's Name:	
+Director's Name:	Roberto José Abreu Jardim
+Educational Staff Number:	1
+Horticultural Staff Number:	33
+Info:	  Portugal - Madeira - Funchal  ;Garden Information;  Institution Code: MADJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botanico da Madeira; Caminho do Meio - Bom Sucesso,; Funchal; Madeira 9064-512 Portugal; ;  Telephone: (+351) 291 211 200; Fax: (+351) 291 211 206; URL: <a target="_blank" href="http://www.sra.pt/jarbot/">www.sra.pt/jarbot/; Primary Email: jardimbotanico.sra@gov-madeira.pt ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	150.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	1960
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	32.646313
+Longitude:	-16.909706
+Natural Vegetation Area:	Yes
+Total Area:	8 Hectares
+Total area of glasshouses:	200 Metres
+Arboretum:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	340000
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	2000
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Molecular Genetics:	Yes
+Restoration Ecology:	Yes
+Systematics and Taxonomy:	Yes
+Education Booklets/Leaflets:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes

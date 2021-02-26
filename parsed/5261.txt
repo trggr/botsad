@@ -1,0 +1,9 @@
+ID:	5261
+Name:	Botanical Garden of the Belgorod State National Research University 
+Curator's Name:	
+Director's Name:	-
+Info:	  Russian Federation - Belgorod  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanical Garden of the Belgorod State National Research University; Scientific and Educational Center; 85 Peobedy St.; Belgorod; 308015 Russian Federation; ;  Telephone: +7 (4722) 301100; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: tokhtar@bsu.edu.ru ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	50.5930131
+Longitude:	36.5773703

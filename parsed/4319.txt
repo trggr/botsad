@@ -1,0 +1,10 @@
+ID:	4319
+Name:	Fernhill Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Ireland - Dublin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fernhill Garden; Stepaside; Sandyford; Dublin; 18 Ireland; ;  Telephone: +353 (0)87 264 6053; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	53.3411732
+Longitude:	-6.2600114

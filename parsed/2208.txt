@@ -1,0 +1,31 @@
+ID:	2208
+Name:	Karwarra Australian Native Botanic Garden (Yarra Ranges Council) 
+Administration Staff Number:	
+Curator's Name:	Lindy Harris, Horticulturalist
+Director's Name:	-
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Australia - Victoria - Kalorama  ;Garden Information;  Institution Code: KARWAR; International Agenda Registration: No; BGCI Member: No; About the Karwarra Australian Native Botanic Garden (Yarra Ranges Council) Karwarra Australian Native Botanic Garden is set on two hectares of Australian Native flora. The garden holds GPCAA Telopea and Boronia collections as well as plants considered Threatened.;  Main Address:; Karwarra Australian Native Botanic Garden (Yarra Ranges Council); Rear Kalorama Memorial Reserve,; 1190-1196 Mt Dandenong Tourist Road; Kalorama; Victoria 3766 Australia; ;  Telephone: 61 (0)3 9728 4256; Fax: 61 (0)3 9728 4256; URL: <a target="_blank" href="http://www.yarraranges.vic.gov.au/Things_To_Do/Karwarra_Australian_Plant_Garden">http://www.yarraranges.vic.gov.au/Things_To_Do/Karwarra_Australian_Plant_Garden; Primary Email: karwarragarden@yarraranges.vic.gov.au ; 
+Plant Records Officer's Name:	Lindy Harris, Horticulturalist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1968
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-37.81683
+Longitude:	145.38003
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	3000
+Cultivation Taxa Num:	1400
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Special Collections:	100 % of collection if Australian flora.

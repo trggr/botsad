@@ -1,0 +1,9 @@
+ID:	5151
+Name:	Bahir Dar University Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Ethiopia - Bahir Dar  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bahir Dar University Botanic Garden; Bahir Dar University; P.O. Box 79; Bahir Dar; Ethiopia; ;  Telephone: +251 583 20 9653; Fax: +251 583 20 60 94; URL: <a target="_blank" href="http://www.bdu.edu.et/">http://www.bdu.edu.et/; Primary Email: bduinfo@bdu.edu.et ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	11.574076
+Longitude:	37.397948

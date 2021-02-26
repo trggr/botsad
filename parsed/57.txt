@@ -1,0 +1,41 @@
+ID:	57
+Name:	Cambridge University Botanic Garden 
+Administration Staff Number:	
+Curator's Name:	Dr. S. Brockington
+Director's Name:	Professor Beverley Glover
+Educational Staff Number:	3
+Horticultural Staff Number:	19
+Info:	  United Kingdom - Cambridge  ;Garden Information;  Institution Code: CGG; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Cambridge University Botanic Garden; 1 Brookside; Cambridge; cb2 1je United Kingdom; ;  Telephone: 44 (0)1223 336265; Fax: 44 (0)1223 336278; URL: <a target="_blank" href="http://www.botanic.cam.ac.uk/">www.botanic.cam.ac.uk/; Primary Email: enquiries@botanic.cam.ac.uk ; 
+Plant Records Officer's Name:	Mr. Peter Atkinson
+Research Staff Number:	
+Altitude:	10.00 Metres
+Annual Rainfall:	557 mm
+Date founded:	1846
+Institution Type:	Botanic Garden
+Latitude:	52.194368
+Longitude:	0.126369
+Total Area:	16 Hectares
+Total area of glasshouses:	5000 Metres
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	150000
+Number of Volunteers:	122
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	16000
+Cultivation Taxa Num:	9378
+Special Collections:	Betula, Carex, Epheda, Quercus, Viburnum, Sorbus, Tilia, Alchemilla, Bergenia, Fritillaria, Geranium, Lonicera, Ribes, Ruscus, Saxifraga, Prunus, Rosmarinus, Lavandula, Tulipa. Winter flowering hardy plants, geographically arranged rock garden, chronological display of British garden plants, British ecological collection.
+Conservation Programme:	Yes
+Education:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

@@ -1,0 +1,10 @@
+ID:	3256
+Name:	Jardin Botanico de Villavicencio 
+Curator's Name:	
+Director's Name:	
+Info:	  Colombia - Villavicencio  ;Garden Information;  Institution Code: VILC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Villavicencio; Apartado 3216, VILLAVICENCIO, Colombia.; Villavicencio; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	4.1573
+Longitude:	-73.6374

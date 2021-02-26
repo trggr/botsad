@@ -1,0 +1,29 @@
+ID:	4541
+Name:	Mazhar Botanical Garden 
+Curator's Name:	
+Director's Name:	Therese Labib Youssef
+Info:	  Egypt - Cairo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Mazhar Botanical Garden; 26th of July corridor, Nahia, Imbaba, Giza Governorate; 40 Lebanon street, Mohandessen, Giza, Egypt; Cairo; 12411 Egypt; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.shehabmazhar.com/green/architecture/herbarium.html">http://www.shehabmazhar.com/green/architecture/herbarium.html; Primary Email: shehab.mazhar@shehabmazhar.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1983
+Institution Type:	Botanic Garden
+Latitude:	30.042689
+Local Address:	البراجيل - محور 26 يوليو
+Locality:	Information
+Longitude:	31.245618
+Satellite Garden Names:	Mazhar Botanical Garden, 26th of July corridor, Nahia, Imbaba, Giza Governorate
+Arboretum:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Cultivation Taxa Num:	2000
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Horticulture:	Yes
+Plant Breeding:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Special Exhibitions:	Yes

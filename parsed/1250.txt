@@ -1,0 +1,11 @@
+ID:	1250
+Name:	Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  India - Manali  ;Garden Information;  Institution Code: MANLF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum; Department of Forestry, MANALI, Himachal Pradesh, India.; Manali; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	32.2861
+Longitude:	77.1613
+Special Collections:	Salix, Rosa, Syringa, Philadelphus, Ribes, Spiraea, Betula, Lonicera

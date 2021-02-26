@@ -1,0 +1,14 @@
+ID:	123
+Name:	Kharkiv National University Botanic Garden 
+Curator's Name:	
+Director's Name:	A.P.Kravchenko
+Info:	  Ukraine - Kharkiv oblast - Kharkiv  ;Garden Information;  Institution Code: KHAR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kharkiv National University Botanic Garden; Kharkiv National University named after VN Karazin; Klozhkovskaya Street, 52; Kharkiv; Kharkiv oblast 61022 Ukraine; ;  Telephone: (057) 706-33-40, 343-26-66; Fax: (057) 706-33-34; URL: <a target="_blank" href="http://www.garden.kharkov.ua">www.garden.kharkov.ua; Primary Email: garden@univer.kharkov.ua ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1839
+Institution Type:	Botanic Garden
+Latitude:	50.0002
+Local Address:	
+Locality:	Information
+Longitude:	36.22487
+Special Collections:	Iris, Mammillaria, Paeonia, Dahlia, Narcissus, Tulipa, Lilium, Crassula, Euphorbia, Primula, Acer.

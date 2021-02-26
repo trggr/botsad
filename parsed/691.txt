@@ -1,0 +1,33 @@
+ID:	691
+Name:	University of Idaho Arboretum & Botanical Garden 
+Fax:	(208) 885-5748
+Info:	  United States of America - Idaho - Moscow  ;Garden Information;  Institution Code: IDF; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
+Primary Email:	arboretum@uidaho.edu
+Telephone:	(208) 885-5978
+Administration Staff Number:	
+Curator's Name:	Paul Warnick, Arboretum Horticulturist
+Director's Name:	Charles Zillinger, Assistant Director
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	792.00 Metres
+Annual Rainfall:	480 mm
+Date founded:	1909
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	46.7138385
+Longitude:	-117.0197523
+Natural Vegetation Area:	Yes
+Total Area:	24 Hectares
+Arboretum:	Yes
+Arboretum Size:	28
+Friends society:	Yes
+Open to public:	Yes
+Accession Number:	3601
+Cultivation Taxa Num:	2824
+Plant Collection Policy:	Yes
+Special Collections:	Native trees and shrubs of the Northern Rocky Mountains.
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

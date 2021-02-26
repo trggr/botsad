@@ -1,0 +1,77 @@
+ID:	4216
+Name:	North-West University Botanical Garden 
+Fax:	+27 18 299 2503
+Info:	  South Africa - North West - Potchefstroom  ;Garden Information;  Institution Code: PUC; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	nwubg@nwu.ac.za
+Telephone:	+27 18 299 2753
+Administration Staff Number:	
+Curator's Name:	Chris van Niekerk
+Director's Name:	Huib van Hamburg
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	1343.00 Metres
+Annual Rainfall:	767 mm
+Date founded:	1962
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-26.683082
+Local Address:	North-West University Botanical Garden, Calderbank Avenue Potchefstroom
+Locality:	Information
+Longitude:	27.09546
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Total area of glasshouses:	150 Metres
+Total area of shadehouses:	40 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

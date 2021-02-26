@@ -1,0 +1,86 @@
+ID:	3593
+Name:	Oklahoma City Zoo and Botanical Garden 
+Administration Staff Number:	1
+Curator's Name:	Chris Hoffman, Garden Director
+Director's Name:	Dwight Lawson, Executive Director/CEO
+Educational Staff Number:	
+Horticultural Staff Number:	7
+Info:	  United States of America - Oklahoma - Oklahoma City  ;Garden Information;  Institution Code: OHOMA; International Agenda Registration: Yes; BGCI Member: Yes; About the Oklahoma City Zoo and Botanical Garden The botanical garden at the Oklahoma City Zoo was established in 1998 through the American Association of Museums accreditation process creating the botanical garden and a living museum. The botanical collecting began in 1980 with over 6,000 permanent specimens from nearly 150 plant families, including over 2,000 species and 23 designated horticultural collections. The botanical garden at the Oklahoma City Zoo encompasses 160 acres of tree canopy, gardens, water bodies, and animal exhibits. This unique and distinctive environment is characterized by the ancient and historic Cross Timbers ecosystem. This ecotone is described as where the eastern Oklahoma deciduous forest meets the mixed grass prairie of western Oklahoma. Stands of Post Oak (Quercus stellata) and Blackjack Oak (Quercus marilandica) form a dense canopy across the gardens. Many fragments of the historic Cross Timber ecosystem can be seen in ancient pockets of Post Oak groves scattered throughout the gardens. Many champion Oak trees live in the gardens and several are well over 100 years old.;  Main Address:; Oklahoma City Zoo and Botanical Garden; 2101 NE 50TH ST.; Oklahoma City; Oklahoma 73111 United States of America; ;  Telephone: (405) 425-0247; Fax: (405) 425-0215; URL: <a target="_blank" href="http://www.okczoo.org">www.okczoo.org; Primary Email: lswearengin@okczoo.org ; 
+Plant Records Officer's Name:	Lance Swearengin, Horticultural Curator
+Research Staff Number:	
+Altitude:	366.00 Metres
+Annual Rainfall:	928 mm
+Date founded:	1904
+Institution Type:	Zoological Institution
+Landscaped Area:	Yes
+Latitude:	35.5230900
+Local Address:	2101 NE 50th St.
+Locality:	Information
+Longitude:	-97.4721700
+Natural Vegetation Area:	Yes
+Total Area:	49 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000000
+Number of Volunteers:	30
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	5000
+Agave Collection:	The agave collection consists of many tropical and hardy agave species. This collection is available for viewing in several areas around the Zoo with the main body of the collection displayed in the water conservation garden southeast of the pachyderm building. This collection is available for viewing from May-October.
+Bamboo Collection:	Our bamboo collection is one of the largest displayed collections of hardy bamboo in Oklahoma. It is located in the Cat Forest and Great EscAPE exhibit areas.
+Cactus Collection:	The cactus collection consists of many tropical and hardy cactus species. This collection is available for viewing in several areas around the Zoo with the main body of the collection displayed in Cat Forest near our Jaguar exhibit. This collection is available for viewing from May-October.
+Cultivation Taxa Num:	6000
+Dwarf Conifer Collection:	This collection is located at the east end of the main parking lot in front of the Rosser Education Building. It showcases unusual types of dwarf coniferous plants.
+Flowering Bulb Collection:	This garden collection contains over 30,000 specimens of flowering bulbs such as tulips, daffodils, crocus, narcissus, iris and ornamental alliums with peak bloom time occurring throughout spring. The flowering bulb collection can be seen throughout the zoo grounds and includes a large display of naturalized and fragrant spring and summer flowering bulbs as well as many antique varieties.
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Oak Collection:	This majestic collection of mature and thriving oak trees is located in many areas around the Zoo, but the bulk of this collection can be seen through the Oklahoma Trails Exhibit.
+Oklahoma Trails Collection:	The Oklahoma Trails exhibit contains more than 70 different plant species, totaling approximately 4,000 trees, shrubs, grasses and perennials. The exhibit showcases Oklahoma native plants alongside native animal species. Travel through the 11 ecological regions of Oklahoma starting in the Black Mesa of the northwest and winding down to the Cypress Swamps of the southeast. Educational signs point out Oklahoma native plants along the way. Our zoological horticulturists planted more than 100 trees in the Oklahoma Trails exhibit for the 2007 Tree Banks Foundations’ Centennial Tree Grove program, celebrating 100 years of Oklahoma statehood.
+Pine Collection:	This collection represents both common and unusual pines. It is located next to the Dan Moran Aviary near the front entrance of the Zoo. Four species of pines are native to Oklahoma. They are Ponderosa Pine, Loblolly Pine, Pinyon Pine, and Shortleaf Pine.
+Plant Collection Policy:	Yes
+Tropical Collection:	The tropical plant collection is located outside the Canopy Food Court and exhibits many unusual tropical plants from around the world. This collection is available for viewing from April-October.
+Water Conservation Garden Collection:	The water conservation garden is located on the southwest side of the pachyderm building. This garden displays drought tolerant plants and displays the principles of water conservation gardening. This garden exhibit is a coordinated effort between the Oklahoma City Water Utilities Trust, The Oklahoma City Zoo and Botanical Garden, and the Oklahoma State University Extension. The garden serves a strong conservation message regarding our most precious natural resource--water! Check out the water conservation garden, and soak up some information on how you can help save water in your residential landscape.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

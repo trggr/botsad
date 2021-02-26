@@ -1,0 +1,49 @@
+ID:	127
+Name:	Botanical Garden of the Carinthian Botanic Center (Landesmuseum Kärnten) 
+Fax:	
+Info:	  Austria - Carinthia - Klagenfurt  ;Garden Information;  Institution Code: KL; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	kbz@landesmuseum.ktn.gv.at
+Telephone:	+43 (0)50 536 30532
+Administration Staff Number:	2
+Curator's Name:	Mag. Felix Schlatti
+Director's Name:	Mag. Dr. Roland K. Eberwein
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	450.00 Metres
+Annual Rainfall:	900 mm
+Date founded:	1862
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	46.6166
+Longitude:	14.3000
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Arboretum:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Cultivation Taxa Num:	3000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Alpine flora. Succulents. Hardy Cactaceae. Bromeliads. Wulfenia carinthiaca.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Invasive Species Biology and Control:	Yes
+Systematics and Taxonomy:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	No

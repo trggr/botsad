@@ -1,0 +1,10 @@
+ID:	2537
+Name:	Campo Biologico Experimental-Laboratorio 125 
+Curator's Name:	
+Director's Name:	
+Info:	  Colombia - Bogota  ;Garden Information;  Institution Code: UNC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Campo Biologico Experimental-Laboratorio 125; Ciudad Universitaria Universidad Nacional de Colombia Carrera 30 calle 45 Facultad de Ciencias Depar; Bogota; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	4.6473
+Longitude:	-74.0962

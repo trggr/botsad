@@ -1,0 +1,58 @@
+ID:	4526
+Name:	Fundacion Sales Xardin Arboretum 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Oliver Weiss
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  Spain - Pontevedra - Vigo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Fundacion Sales Xardin Arboretum Francisco de Sales Covelo, Landscape Architect, Nursery owner bought this land in 1962 and created his house, his studio and his beloved botanical garden. ; After his death in 2002, the estate became a Foundation Trust in his name, Fundación Sales, whose main objective is to conserve the garden.; The climatic conditions of the garden, with an annual rainfall of 1600 mm, average temperature of 13,6º C, mild Summers and Winters, with high relative humidity during the whole year and the acid terrain make them suitable for many sub-tropical and tropical species.; The garden has over 850 different plant species.;  Main Address:; Fundacion Sales Xardin Arboretum; Avenida de Europa 52; Vigo; Pontevedra 36212 Spain; ;  Telephone: 0034-986-240882; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: info@fundacionsales.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	35.00 Metres
+Annual Rainfall:	1960 mm
+Date founded:	1962
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.215189
+Local Address:	Avenida de Europa, 52
+Locality:	Information
+Longitude:	-8.763106
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Total area of glasshouses:	500 Metres
+Total area of shadehouses:	300 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	4000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	850
+Cultivation Taxa Num:	150
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	The most important trees and shrubs are
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Biotechnology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

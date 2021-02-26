@@ -1,0 +1,54 @@
+ID:	1233
+Name:	Adkins Arboretum 
+Fax:	(410) 634-2878
+Info:	  United States of America - Maryland - Ridgely  ;Garden Information;  Institution Code: ADKA; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	info@adkinsarboretum.org
+Telephone:	(410) 634-2847
+Administration Staff Number:	3
+Curator's Name:	
+Director's Name:	Ginna Tiernan, Acting Director
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1980
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	38.9546364
+Longitude:	-75.9311554
+Natural Vegetation Area:	Yes
+Total Area:	161 Hectares
+Arboretum:	Yes
+Arboretum Size:	162
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Number of Visitors:	14000
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	220
+Cultivation Taxa Num:	60
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	All plant collections are native to the Delmarva peninsula. Cultivars of native plants are used in the gardens but not in natural areas.
+Conservation Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

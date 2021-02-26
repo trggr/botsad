@@ -1,0 +1,39 @@
+ID:	3129
+Name:	The Mediterranean Agronomic Institute of Chania 
+Fax:	+30 28210 35001
+Info:	  Greece - Crete - Chania  ;Garden Information;  Institution Code: CHAN; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	flora@maich.gr
+Telephone:	+30 28210 35000 (553)
+Administration Staff Number:	2
+Curator's Name:	Christini Fournaraki
+Director's Name:	Alkinoos Nikolaidis
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Polyxeni Galani
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	35.5090
+Local Address:	Makedonias str, Alsyllio Agrokypiou, P.O. Box 85
+Locality:	Information
+Longitude:	24.0253
+Natural Vegetation Area:	No
+Computer Plant Record System:	No
+Herbarium:	Yes
+Number of Visitors:	1000
+Seed Bank:	Yes
+Accession Number:	510
+Cultivation Taxa Num:	137
+Special Collections:	collection of 137 species of endemic, rare and endangered plants of Crete
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	No
+Conservation - Biology:	Yes
+Ecology:	Yes
+Seed/Spore Biology:	Yes
+Courses for School Children:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

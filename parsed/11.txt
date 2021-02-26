@@ -1,0 +1,81 @@
+ID:	11
+Name:	Dendropark of the Northern Research Institute of Forestry 
+Fax:	7 (8182)412-578
+Info:	  Russian Federation - Arkhangelsk  ;Garden Information;  Institution Code: ARKH; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	forestry@sevniilh-arh.ru
+Telephone:	7 (8182)412-679
+the first candidates for local cultures were proposed.  About the Dendropark of the Northern Research Institute of Forestry Taxa:	603 species (75 genera of 31 families, including 1,166 samples totaling 6 879 plants of different geographical origin (Europe, Siberia, the Far East, Central Asia, North America).
+Administration Staff Number:	
+Curator's Name:	Tatyana Durkina
+Director's Name:	Natalia Demidova
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Annual Rainfall:	606 mm
+Date founded:	1960
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	64.2945
+Local Address:	ул. Никитова, 13
+Locality:	Information
+Longitude:	40.4641
+Natural Vegetation Area:	Yes
+Total Area:	45 Hectares
+Arboretum:	Yes
+Arboretum Size:	12
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	100
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	6879
+Cultivation Taxa Num:	709
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	N. American flora, European flora, Manchurian flora,Central Asian flora. European representatives total 26,7%, Siberia – 7,4%, Far East – 30,5%, Middle Asia – 4,8%, North America – 24,7, and representatives of different origin (hybrids) – 5,9%.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

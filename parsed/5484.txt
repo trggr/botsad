@@ -1,0 +1,9 @@
+ID:	5484
+Name:	Botanic Garden of the National and Kapodistrian University of Athens 
+Curator's Name:	
+Director's Name:	
+Info:	  Greece - Athens  ;Garden Information;  Institution Code: ATHU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden of the National and Kapodistrian University of Athens; Department of Biology, Division of Ecology and Taxonomy,; National and Kapodistrian University of Athens, Panepistimiopolis; Athens; 157 84 Greece; ;  Telephone: +30 210 7274240, +30 210 7274258; Fax: +30 210 7274885; URL: <a target="_blank" href="http://en.uoa.gr/about-us/museums/botanical-garden.html">http://en.uoa.gr/about-us/museums/botanical-garden.html; Primary Email: ibazos@biol.uoa.gr ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	37.9894
+Longitude:	23.7444

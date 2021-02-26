@@ -1,0 +1,30 @@
+ID:	1070
+Name:	Pécsi Tudományegyetem, Botanikus Kert 
+Fax:	
+Info:	  Hungary - Pécs  ;Garden Information;  Institution Code: PECS; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	wirth.tamas@pte.hu
+Telephone:	
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Tamás Wirth
+Educational Staff Number:	
+Horticultural Staff Number:	8
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1951
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	46.0759
+Longitude:	18.2047
+Total Area:	6 Hectares
+Computer Plant Record System:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Special Collections:	Over 9,000 species in the garden including a collection of mountainous mediterranean spp. 2,400 species in the glasshouses including 15,000 specimens of cacti and succulents
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

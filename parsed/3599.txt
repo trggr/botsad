@@ -1,0 +1,10 @@
+ID:	3599
+Name:	Long Ashton Research Station 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Bristol  ;Garden Information;  Institution Code: LGASH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Long Ashton Research Station; Institute of Arable Crops Research; Long Ashton; Bristol; BS18 9AF United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	51.429971
+Longitude:	-2.658814

@@ -1,0 +1,11 @@
+ID:	2283
+Name:	Botanical Survey of India 
+Curator's Name:	
+Director's Name:	NK
+Info:	  India - New Itanagar  ;Garden Information;  Institution Code: ARUNA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Survey of India; Arunchal Field Station; New Itanagar; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	27.0922
+Longitude:	93.6162
+Special Collections:	A general collection of tropical species, including epiphytes, orchids, Melastomataceae, Zingiberaceae, rhododendrons and trees from the surrounding region.

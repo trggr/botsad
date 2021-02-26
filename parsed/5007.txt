@@ -1,0 +1,12 @@
+ID:	5007
+Name:	Suceava Genebank 
+Curator's Name:	Dan Sandru, Ecologist, Research & Collecting Laboratory
+Director's Name:	Dr. Silvia Strajeru, Manager
+Info:	  Romania - Suceava  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Suceava Genebank; Blvd 1 Mai, No. 17; Suceava; 720224 Romania; ;  Telephone: +40 230 521016; Fax: ; URL: <a target="_blank" href="http://www.svgenebank.ro">http://www.svgenebank.ro; Primary Email: genebank@suceava.astral.ro ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1987
+Institution Type:	Gene/Seed Bank
+Latitude:	47.636422
+Longitude:	26.240279
+Seed Bank:	Yes

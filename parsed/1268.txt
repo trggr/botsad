@@ -1,0 +1,76 @@
+ID:	1268
+Name:	Mt. Cuba Center 
+Administration Staff Number:	
+Curator's Name:	Amy Highland, Director of Collections
+Director's Name:	Jeffrey A. Downing, Executive Director
+Educational Staff Number:	6
+Horticultural Staff Number:	
+Info:	  United States of America - Delaware - Hockessin  ;Garden Information;  Institution Code: MCCSP; International Agenda Registration: No; BGCI Member: Yes; About the Mt. Cuba Center Our founders, Mr. and Mrs. Lammot du Pont Copeland, were visionary in their approach to conservation, and in their vision for Mt. Cuba Center. Mrs. Copeland summed up their ambition for Mt. Cuba Center in what has become our founding intention:; ; “I want this to be a place where people will learn to appreciate our native plants and to see how these plants can enrich their lives so that they, in turn, will become conservators of our natural habitats.”; ; Beyond the beauty of Mt. Cuba Center runs a deep river of purpose. We understand the importance of native plants and natural lands, and hope to impart that understanding to everyone who walks through our gates. It is not enough simply to observe beauty now. We must also protect it for future generations.; ; Our mission is to inspire an appreciation for the beauty and value of native plants and a commitment to support the habitats that sustain them.;  Main Address:; Mt. Cuba Center; 3120 Barley Mill Road; Hockessin; Delaware 19707 United States of America; ;  Telephone: (302) 239-4244; Fax: (302) 239-5366; URL: <a target="_blank" href="http://www.mtcubacenter.org">www.mtcubacenter.org; Primary Email: library@mtcubacenter.org ; 
+Plant Records Officer's Name:	Julie Rotramel, Plant Recorder
+Research Staff Number:	2
+Altitude:	75.00 Metres
+Date founded:	1935
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.7856150
+Local Address:	3120 Barley Mill Rd.
+Locality:	Information
+Longitude:	-75.6500200
+Natural Vegetation Area:	Yes
+Total Area:	618 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	9000
+Number of Volunteers:	15
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	7016
+Cultivation Taxa Num:	2310
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	As a botanical garden, Mt. Cuba Center holds living collections of plants, much like a museum houses collections of art or historical artifacts. Mt. Cuba Center’s collections are focused on plants native to the Eastern Temperate Forests of the United States with a particular emphasis on the Appalachian Piedmont, an area that spans nine states from New York to Alabama.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

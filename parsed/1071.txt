@@ -1,0 +1,13 @@
+ID:	1071
+Name:	Botanical Garden of Szeged University 
+Curator's Name:	Dr.I.Szollosi
+Director's Name:	Ms Anikó Németh
+Info:	  Hungary - Szeged  ;Garden Information;  Institution Code: SZTE; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanical Garden of Szeged University; Lövölde u. 42.; Szeged; H-6725 Hungary; ;  Telephone: 36 06 62/544-110; Fax: 36 62 454-236; URL: <a target="_blank" href="http://www.fate@u-szeged.hu/botany">www.fate@u-szeged.hu/botany; Primary Email: zalatnai@bio.u-szeged.hu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1922
+Institution Type:	Botanic Garden
+Latitude:	46.9615
+Longitude:	20.1961
+Number of Visitors:	25000
+Special Collections:	Cacti 440, other succulents 470 species

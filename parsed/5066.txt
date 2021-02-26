@@ -1,0 +1,34 @@
+ID:	5066
+Name:	Plant Paradise Country Gardens 
+Fax:	
+Info:	  Canada - Ontario - Caledon  ;Garden Information;  Institution Code: PPCG; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	
+Telephone:	905-880-9090
+• Annual Delphinium Days Festival http:	//plantparadisecountrygardens.ca/delphinium-days/
+• Educational Course Listings http:	//plantparadisecountrygardens.ca/garden-workshops/
+Curator's Name:	
+Director's Name:	L. Roberts
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2005
+Institution Type:	Botanic Garden
+Latitude:	43.912168
+Local Address:	16258 Humber Station Road
+Locality:	Information
+Longitude:	-79.830877
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Courses for General Public:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

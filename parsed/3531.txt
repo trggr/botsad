@@ -1,0 +1,40 @@
+ID:	3531
+Name:	Jardín Botánico de Córdoba 
+Administration Staff Number:	2
+Curator's Name:	Diego A. Serra - Sergio D. García
+Director's Name:	Guillermo Diaz Cornejo
+Educational Staff Number:	5
+Horticultural Staff Number:	2
+Info:	  Argentina - Córdoba - Córdoba  ;Garden Information;  Institution Code: CBA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico de Córdoba; Yunyent 5491,; Barrio Quebrada de las Rosas,; Córdoba; Córdoba 5000 Argentina; ;  Telephone: 54 (0) 351-433-7365/66; Fax: 54 (0) 351-4337330; URL: <a target="_blank" href="http://www.cordoba.gov.ar/cordobaciudad/principal2/default.asp?ir=51_2_1">http://www.cordoba.gov.ar/cordobaciudad/principal2/default.asp?ir=51_2_1; Primary Email: jardinbotanicocba@gmail.com ; 
+Plant Records Officer's Name:	Bárbara Bárcena
+Research Staff Number:	2
+Altitude:	360.00 Metres
+Annual Rainfall:	700 mm
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-31.3860
+Local Address:	YUNYENT 5491, BARRIO QUEBRADA DE LAS ROSAS
+Locality:	Information
+Longitude:	-64.2499
+Natural Vegetation Area:	Yes
+Total Area:	6 Hectares
+Computer Plant Record System:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Invasive Species Policy:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Ecosystem Conservation:	Yes
+Plant Breeding:	Yes
+Seed/Spore Biology:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

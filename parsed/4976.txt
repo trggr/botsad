@@ -1,0 +1,16 @@
+ID:	4976
+Name:	Mary Cairncross Scenic Reserve 
+Curator's Name:	
+Director's Name:	
+Info:	  Australia - Queensland - Maleny  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Mary Cairncross Scenic Reserve; 148 Mountain View Road; Maleny; Queensland 4552 Australia; ;  Telephone: 07 5429 6122; Fax: ; URL: <a target="_blank" href="http://www.mary-cairncross.com.au">http://www.mary-cairncross.com.au; Primary Email: education@live.com.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-26.77774
+Longitude:	152.88025
+Total Area:	55 Hectares
+Friends society:	Yes
+Open to public:	Yes
+Cultivation Taxa Num:	500
+Conservation Programme:	Yes
+Ecosystem Conservation:	Yes

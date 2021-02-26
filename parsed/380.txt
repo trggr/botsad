@@ -1,0 +1,11 @@
+ID:	380
+Name:	Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement 
+Curator's Name:	Catherine Ducatillion
+Director's Name:	Catherine Ducatillion
+Info:	  France - Antibes  ;Garden Information;  Institution Code: INRAE; International Agenda Registration: No; BGCI Member: Yes; About the Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement Location: ANTIBES; Founded: 1857; Garden Name: Jardin Botanique de la Villa Thuret; Address: Institut National de la Recherche Agronomique, Station de Botanique et de Pathologie Vegetale, Villa Thuret, 62 Boulevard du Cap, BP 2078, F-06606 ANTIBES Cedex.;  Main Address:; Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement; INRAE - Jardin botanique de la Villa Thuret; Antibes; 06160 France; ;  Telephone: 0492386470; Fax: ; URL: <a target="_blank" href="https://www6.sophia.inrae.fr/jardin_thuret/">https://www6.sophia.inrae.fr/jardin_thuret/; Primary Email: thuret-paca@inrae.fr ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	43.5654
+Longitude:	7.1234
+Special Collections:	Woody plants (2,500 taxa), tropical conifers, cycads, Bauhinia, Erythrina, Callistemon, Eucalyptus, Melaleuca, Protaceae, Fabaceae, Plants of Australia, Cape of Good Hope, S. America, California, Arizona, India.

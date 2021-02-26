@@ -1,0 +1,31 @@
+ID:	646
+Name:	Sherman Library and Gardens 
+Curator's Name:	
+Director's Name:	Scott LaFleur, Garden Director
+Info:	  United States of America - California - Corona Del Mar  ;Garden Information;  Institution Code: SHERL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sherman Library and Gardens; 2647 East Coast Highway; Corona Del Mar; California 92625 United States of America; ;  Telephone: (949) 673-2261; Fax: (949) 675-5458; URL: <a target="_blank" href="http://www.slgardens.org">www.slgardens.org; Primary Email: scott@slgardens.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1965
+Institution Type:	Botanic Garden
+Latitude:	33.6020190
+Longitude:	-117.8730690
+Total Area:	1 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	150
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Bromeliads, succulents, orchids, begonias, bulbs, herbs, ferns, seasonal floral display.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

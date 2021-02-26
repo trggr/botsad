@@ -1,0 +1,11 @@
+ID:	340
+Name:	Jardin Botanico Universidad de Caldas 
+Curator's Name:	Orfa Janette Jiminez G.
+Director's Name:	Jose Humberto Gallego A.
+Info:	  Colombia - Manizales  ;Garden Information;  Institution Code: MANIZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Universidad de Caldas; Universidad de Caldas, Apto Aereo 275, MANIZALES, Caldas, Colombia.; Manizales; Colombia; ;  Telephone: 57 68 861250; Fax: 57 68 862520; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1960
+Institution Type:	Botanic Garden
+Latitude:	5.0621
+Longitude:	-75.4956
+Special Collections:	Medicinal plants, Andino Native Forestry. An extensive general collection of trees, shrubs and herbaceous perennials used for teaching, research and conservation purposes. Ornamentals, medicinals, crop relatives, economic plants, herbs. Genera represented

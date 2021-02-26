@@ -1,0 +1,75 @@
+ID:	4472
+Name:	Boyce Thompson Arboretum Desert Legume Program 
+Administration Staff Number:	1
+Curator's Name:	Matthew B. Johnson
+Director's Name:	Dr. Seymour H. Sohmer
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  United States of America - Arizona - Tucson  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Boyce Thompson Arboretum Desert Legume Program The Desert Legume Program (DELEP) is a seed bank that was established as a joint project of the Boyce Thompson Arboretum and the University of Arizona College of Agriculture and Life Sciences.; ; Mission Statement; 1. To acquire and preserve in perpetuity seeds of legumes native to the arid and semiarid lands of the world.; ; 2. To learn more about the nature and utility of these unique species.; ; 3. To share this germplasm with professionals and laypeople having a legitimate interest.; ; 4. To aid in the preservation and conservation of desert legume biodiversity through both in situ and ex situ means.;  Main Address:; Boyce Thompson Arboretum Desert Legume Program; The University of Arizona; 2120 E. Allen Road; Tucson; Arizona 85719 United States of America; ;  Telephone: (520) 647-2460; Fax: (520) 647-2638; URL: <a target="_blank" href="http://cals.arizona.edu/desertlegumeprogram/">http://cals.arizona.edu/desertlegumeprogram/; Primary Email: mjohnson@ag.arizona.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1988
+Institution Type:	Gene/Seed Bank
+Landscaped Area:	No
+Latitude:	33.2861190
+Local Address:	37615 East Arboretum Way
+Locality:	Information
+Longitude:	-111.1181750
+Natural Vegetation Area:	No
+Satellite Garden Names:	The Desert Legume Program is administered by the Boyce Thompson Arboretum, located near Superior, Arizona.
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	25
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	175
+Cultivation Taxa Num:	150
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	The Desert Legume Program seed bank includes over 4000 accessions representing 1402 species (1490 taxa) in 224 genera of Fabaceae.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

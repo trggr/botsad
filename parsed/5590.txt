@@ -1,0 +1,80 @@
+ID:	5590
+Name:	Jardín Botánico Isla Victoria 
+Fax:	
+Info:	  Argentina - Rio Negro - Bariloche  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jardinbotanicoislavictoria@gmail.com
+Telephone:	+54 294- 4212233
+Administration Staff Number:	2
+Curator's Name:	Dra. Cecilia Nuñez (Ph.D. in Organismal Biology and Ecology)
+Director's Name:	Ing. Ftal. Adolfo Moretti
+Educational Staff Number:	3
+Horticultural Staff Number:	6
+Plant Records Officer's Name:	Dra. Cecilia Nuñez (Ph.D. in Organismal Biology and Ecology)
+Research Staff Number:	4
+Altitude:	800.00 Metres
+Annual Rainfall:	1300 mm
+Date founded:	1924
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-40.941641
+Local Address:	Isla Victoria
+Locality:	Information
+Longitude:	-71.539918
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	no
+Total Area:	220 Hectares
+Total area of glasshouses:	82 Metres
+Arboretum:	Yes
+Arboretum Size:	50
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	350000
+Number of Volunteers:	50
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	130
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

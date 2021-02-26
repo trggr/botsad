@@ -1,0 +1,29 @@
+ID:	269
+Name:	Warsaw University Botanic Garden 
+Fax:	4822 55 30 501
+Info:	  Poland - mazowieckie - Warsaw  ;Garden Information;  Institution Code: WA; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	ogrod@biol.uw.edu.pl
+Telephone:	4822 55 30 511
+Curator's Name:	
+Director's Name:	Dr H. Werblan-Jakubiec
+Plant Records Officer's Name:	Dr. H. Werblan-Jakubiec (Director)
+Altitude:	111.00 Metres
+Date founded:	1818
+Institution Type:	Botanic Garden
+Latitude:	52.2166
+Local Address:	
+Locality:	Information
+Longitude:	21.0166
+Total Area:	5 Hectares
+Herbarium:	Yes
+Number of Visitors:	66000
+Number of Volunteers:	20
+Open to public:	Yes
+Special Collections:	Polish lowland flora, alpines, taxonomy collection, plant biology collection, medicinal plants, Polish woody cultivars. Maintains a seed bank with long-term storage capacity, containing 2,000 accessions representing 15 species (1994 figures).
+Conservation - Biology:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

@@ -1,0 +1,24 @@
+ID:	1326
+Name:	Juliana Alpine Botanical Garden 
+Fax:	386 12 410 953
+Info:	  Slovenia - Trenta  ;Garden Information;  Institution Code: ALPJU; International Agenda Registration: No; BGCI Member: No; 
+Mailing:	Slovenian Museum of Natural History, Presernova 20, Ljubljana 1000
+Primary Email:	uprava@pms-lj.si
+Telephone:	386 12 410 940
+Curator's Name:	Klemen Završnik, Curator
+Director's Name:	Špela Pungaršek, Biologist
+Plant Records Officer's Name:	Marija Završnik, Gardener
+Altitude:	800.00 Metres
+Date founded:	1926
+Institution Type:	Botanic Garden
+Latitude:	46.3812
+Local Address:	Trenta
+Locality:	Information
+Longitude:	13.7517
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	600
+Education Programme:	Yes
+Guided Tours:	Yes

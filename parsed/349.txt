@@ -1,0 +1,36 @@
+ID:	349
+Name:	Botanical Gardens and Arboretum 
+Fax:	+420 5 45 22 36 93
+Info:	  Czech Republic - Brno  ;Garden Information;  Institution Code: BZA; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	arboretum@mendelu.cz
+Telephone:	+420 5 45 22 36 06
+Administration Staff Number:	5
+Director's Name:	ing. Tomas Kolousek
+Educational Staff Number:	
+Horticultural Staff Number:	12
+Research Staff Number:	3
+Altitude:	230.00 Metres
+Annual Rainfall:	547 mm
+Date founded:	1936
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	49.2121
+Longitude:	16.6208
+Total Area:	11 Hectares
+Total area of glasshouses:	650 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	13000
+Special Collections:	alpines 500 taxons
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Education:	Yes
+Guided Tours:	Yes

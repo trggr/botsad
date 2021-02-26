@@ -1,0 +1,13 @@
+ID:	266
+Name:	Cape Flats Nature Reserve 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  South Africa - Western Cape - Bellville  ;Garden Information;  Institution Code: UWC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cape Flats Nature Reserve; University of the Western Cape, Private Bag X 17, BELLVILLE 7530, South Africa.; Bellville; Western Cape 7530 South Africa; ;  Telephone: 9592498; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	50.00 Metres
+Annual Rainfall:	500 mm
+Date founded:	1977
+Institution Type:	Other
+Latitude:	-33.935563
+Longitude:	18.620007
+Natural Vegetation Area:	Yes

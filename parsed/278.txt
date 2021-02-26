@@ -1,0 +1,72 @@
+ID:	278
+Name:	Jardín Botánico Francisco Javier Clavijero 
+-" src="https:	//www.bgci.org/files/ERABG/project_images/ClavijeroBG-Active%20restoration%20%20Parcel%202%20-%20plot%202.jpg" alt="" width="500" height="281" />
+-"><img src="https:	//www.bgci.org/files/ERABG/project_images/ClavijeroBG-Passive%20restoration_Parcel%202%20plot%201%20front.jpg" alt="" width="500" />
+-<img style="display:	block
+-<p style="text-align:	center
+-margin-left:	auto
+-margin-right:	auto
+Fax:	52 (228) 818 78 09
+Info:	  Mexico - Veracruz - Xalapa  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: XAL; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
+Primary Email:	jardinbotanico@inecol.mx
+Telephone:	52 (228) 842 18 27
+Administration Staff Number:	2
+Curator's Name:	Dr. Milton Hugo Díaz Toribio
+Director's Name:	Biól. Orlik Gómez García
+Educational Staff Number:	5
+Horticultural Staff Number:	9
+Plant Records Officer's Name:	Víctor E. Luna Monterrojo
+Research Staff Number:	2
+Altitude:	1300.00 Metres
+Annual Rainfall:	1514 mm
+Date founded:	1977
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	19.514460
+Local Address:	Km. 2.5 carretera antigua a Coatepec # 351
+Locality:	Information
+Longitude:	-96.936439
+Natural Vegetation Area:	Yes
+Total Area:	38 Hectares
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	40000
+Open to public:	Yes
+Accession Number:	6222
+Cultivation Taxa Num:	1009
+Special Collections:	National collection of Cycads, National collection of native Mexican bamboo species, Temperate mountain cloud forest, Palmetum, Arboretum, Pinetum, Coffee plantation, ethnobotanic collection currently under construction.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Plant Breeding:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

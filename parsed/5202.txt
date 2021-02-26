@@ -1,0 +1,14 @@
+ID:	5202
+Name:	Seoul Botanic Park 
+Curator's Name:	Rhee, Jung Chul
+Director's Name:	Lee, Won Young
+Info:	  South Korea - Seoul  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Seoul Botanic Park; Gangseo-gu, Seoul, South Korea; 161, Magokdong-ro; Seoul; 07789 South Korea; ;  Telephone: +82-2-2133-4459; Fax: +82-2-2063-2955; URL: <a target="_blank" href="http://botanicpark.seoul.go.kr">http://botanicpark.seoul.go.kr; Primary Email: wkchoi45@seoul.go.kr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2018
+Institution Type:	Botanic Garden
+Latitude:	37.6892413
+Longitude:	127.0476102
+Arboretum:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No

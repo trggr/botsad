@@ -1,0 +1,61 @@
+ID:	390
+Name:	Arboretum National des Barres ( et Fruticetum Vilmorinianum ) 
+Administration Staff Number:	3
+Curator's Name:	Nicolas Perrette, Collections Manager
+Director's Name:	Girard Quentin
+Educational Staff Number:	2
+Horticultural Staff Number:	5
+Info:	  France - Loiret - Nogent-sur-Vernisson  ;Garden Information;  Institution Code: NOGSV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum National des Barres ( et Fruticetum Vilmorinianum ); Domaine des Barres; Nogent-sur-Vernisson; Loiret F-45290 France; ;  Telephone: 33 (0) 2 38.97.62.21; Fax: 33 (0) 2 38.97.65.15; URL: <a target="_blank" href="http://www.arboretumdesbarres.onf.fr">www.arboretumdesbarres.onf.fr; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1873
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	47.8458
+Longitude:	2.7416
+Natural Vegetation Area:	Yes
+Total Area:	281 Hectares
+Arboretum:	Yes
+Arboretum Size:	35
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	17200
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	8700
+Cultivation Taxa Num:	2596
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No

@@ -1,0 +1,29 @@
+ID:	3317
+Name:	Royal Horticultural Society's Garden, Rosemoor 
+Fax:	+44(0)1805 624717
+Info:	  United Kingdom - North Devon - Great Torrington  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	rosemooradmin@rhs.org.uk
+Telephone:	+44(0)1805 624067
+Curator's Name:	Jonathan Webster
+Director's Name:	Dr Tim Upson (Director of Horticulture), Steven Bowyer (Head of Rosemoor)
+Plant Records Officer's Name:	Sue Costa
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	50.943014
+Longitude:	-4.137399
+Satellite Garden Names:	Wisley, Harlow Carr, Hyde Hall
+Total Area:	26 Hectares
+Number of Visitors:	12000
+Accession Number:	11356
+Cultivation Taxa Num:	8487
+Special Collections:	Orchidaceae, Epimedium, Crocus, Colchicum, Galanthus, Hosta, Rheum, Cyclamen, Narcissus, Daboecia, Erica, Calluna. Rhododendron, rock-garden plants, conifers, heathers, Mediterranean and Near East bulbs, apples.
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

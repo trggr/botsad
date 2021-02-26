@@ -1,0 +1,26 @@
+ID:	250
+Name:	Tresco Abbey Garden 
+Administration Staff Number:	1
+Curator's Name:	Mike Nelhams
+Director's Name:	Mr M. Nelhams
+Educational Staff Number:	
+Horticultural Staff Number:	9
+Info:	  United Kingdom  ;Garden Information;  Institution Code: TRES; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Tresco Abbey Garden; Tresco Abbey Garden Tresco Isles of Scilly TR24 0QQ; United Kingdom; ;  Telephone: 01720 424108; Fax: 01720 424105; URL: <a target="_blank" href="http://www.tresco.co.uk">www.tresco.co.uk; Primary Email: mikenelhams@tresco.co.uk ; 
+Plant Records Officer's Name:	Mike Nelhams
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1834
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	49.947777
+Longitude:	-6.332497
+Disabled access:	Yes
+Number of Visitors:	38000
+Number of Volunteers:	3
+Open to public:	Yes
+Cultivation Taxa Num:	3500
+Special Collections:	Proteacea, Acacia, Metrosideros, Eucalyptus, Mesembryanthemum, cacti and succulents of S. Africa, Puya of S. America, trees and shrubs af New Zealand, Aeonium, Aloe.
+Reintroduction Programme:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Visitor/Education Centre:	Yes

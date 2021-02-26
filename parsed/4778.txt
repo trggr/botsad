@@ -1,0 +1,24 @@
+ID:	4778
+Name:	Natures et Paysages Le Jardin Carnivore 
+Curator's Name:	
+Director's Name:	NK
+Info:	  France - Peyrusse-Massas  ;Garden Information;  Institution Code: PEMA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Natures et Paysages Le Jardin Carnivore; Peyrusse-Massas; 32360 France; ;  Telephone: 33 (0) 5 62 65 52 48; Fax: 33 (0) 5 62 65 50 44; URL: <a target="_blank" href="http://www.natureetpaysages.fr/jardin.htm">http://www.natureetpaysages.fr/jardin.htm; Primary Email: nature-et-paysage@mipnet.fr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1986
+Institution Type:	Botanic Garden
+Latitude:	43.74048
+Longitude:	0.56372
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	5000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Cultivation Taxa Num:	450
+Special Collections:	Carnivorous plants
+Conservation - Biology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Visitor/Education Centre:	Yes

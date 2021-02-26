@@ -1,0 +1,75 @@
+ID:	4199
+Name:	Elisabeth C. Miller Botanical Garden 
+Fax:	(206) 362-4136
+Info:	  United States of America - Washington - Seattle  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	info@millergarden.org
+Telephone:	(206) 362-8612
+Administration Staff Number:	1
+Curator's Name:	Richie Steffen, Curator
+Director's Name:	Richard Brown, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	82.00 Metres
+Annual Rainfall:	920 mm
+Date founded:	1994
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	47.7437086
+Longitude:	-122.3695739
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Total area of glasshouses:	20 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	500
+Number of Volunteers:	6
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	4670
+Cultivation Taxa Num:	4000
+Special Collections:	This collection has been developed since 1949, with a strong interest in ornamentals suitable for the coastal Pacific Northwest of the United States. The framework for the collection is a canopy of native Pseudotsuga menziesii, Tsuga heterophylla and Thuja plicata. This is heavily underplanted with such natives as Blechnum spicant, Polystichum munitum, Vaccinium ovatum, V. ovalifolium and Mahonia nervosa. Among these is a rich collection on exotic species, with many representatives from Asia.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

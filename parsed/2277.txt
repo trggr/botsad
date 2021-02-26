@@ -1,0 +1,11 @@
+ID:	2277
+Name:	Jardín Botánico de Altura 
+Curator's Name:	
+Director's Name:	Clemente S. Sajama
+Info:	  Argentina - Jujuy - Tilcara  ;Garden Information;  Institution Code: TILCARA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico de Altura; Pasaje Pucará s/n, Pucará de Tilcara, Facultad de Filosofia y Letras, Universidad de Buenos Aires; Belgrano 445; Tilcara; Jujuy 4624 Argentina; ;  Telephone: +54 388 4955006; Fax: ; URL: <a target="_blank" href="http://tilcara.filo.uba.ar/?page_id=82">http://tilcara.filo.uba.ar/?page_id=82; Primary Email: tilcara.comunicacion@filo.uba.ar ; 
+Plant Records Officer's Name:	
+Altitude:	2485.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-23.57684
+Longitude:	-65.39528
+Open to public:	Yes

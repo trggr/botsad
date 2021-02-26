@@ -1,0 +1,12 @@
+ID:	5087
+Name:	Ogród Botaniczny Uniwersytetu Kazimierza Wielkiego w Bydgoszczy 
+Fax:	
+Info:	  Poland - kujawsko-pomorskie - Bydgoszcz  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	ogrodb@ukw.edu.pl
+Telephone:	0048 523419293
+Curator's Name:	
+Director's Name:	dr hab. Katarzyna Marcysiak
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	53.06
+Longitude:	18.00

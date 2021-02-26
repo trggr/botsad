@@ -1,0 +1,27 @@
+ID:	2059
+Name:	Arboretum w Przelewicach 
+Fax:	+48 (0)91 579 00 88
+Info:	  Poland - zachodniopomorskie - Przelewice  ;Garden Information;  Institution Code: PRZEL; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	info@ogrodprzelewice.pl
+Telephone:	+48 (0)91 564 30 80
+Curator's Name:	mgr inż. Katarzyna Misiak
+Director's Name:	mgr inż. Maria Syczewska
+Plant Records Officer's Name:	
+Altitude:	50.00 Metres
+Date founded:	1933
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	53.1099
+Local Address:	74-210 Przelewice
+Locality:	Information
+Longitude:	15.1036
+Natural Vegetation Area:	No
+Total Area:	30 Hectares
+Arboretum:	Yes
+Arboretum Size:	30
+Computer Plant Record System:	Yes
+Open to public:	Yes
+Cultivation Taxa Num:	1000
+Special Collections:	Picea, Chamaecyparis, Juniperus, Abies, Thuja, Taxus, Acer, Malus, Magnolia, Betula, Cotoneaster.
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

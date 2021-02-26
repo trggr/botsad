@@ -1,0 +1,67 @@
+ID:	3635
+Name:	Regina Plain Native Plant Nursery 
+Fax:	(306) 787-0780
+Info:	  Canada - Saskatchewan - Regina  ;Garden Information;  Institution Code: REGIN; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jennifer.lohmeyer@swa.ca
+Telephone:	(306) 787-8707
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Jennifer Lohmeyer, Program Coordinator
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	577.00 Metres
+Annual Rainfall:	304 mm
+Date founded:	1999
+Institution Type:	Botanic Garden
+Latitude:	50.42436
+Longitude:	-104.56515
+Natural Vegetation Area:	Yes
+Arboretum:	No
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	89
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

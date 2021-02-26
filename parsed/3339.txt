@@ -1,0 +1,67 @@
+ID:	3339
+Name:	Jardin d'Experimentation des Plantes Utiles (J.E.P.U.) 
+Dr. Modou LO:	Responsable scientifique des projets
+Fax:	221-8252952
+Il existe trois jardins botaniques institutionnels à Dakar:	deux à l'Université
+Info:	  Senegal - Région de Dakar - DAKAR - FANN  ;Garden Information;  Institution Code: PUCD; International Agenda Registration: Yes; BGCI Member: No; 
+Les activités du JEPU sont concentrées autour de la culture et de la présentation d’espèces utiles d'Afrique de l'Ouest, sur la conservation de ces espèces, ainsi que sur la multiplication et la production de plants pour les opérations de reboisement (environ 400 espèces). Il apparaît clairement que les objectifs, auxquels aspire ce jardin membre des JBF, ne peuvent être réalisés avec les moyens actuels. Les projets sur la Biodiversité végétale:	BGCI, FSP, PGIES, AFORNET, UICN etc... devront aider à résoudre ce problème, en complément des ressources de l’UCAD.
+Mr. Ibrahima FALL:	Conservateur du JEPU
+Primary Email:	aynenut@ucad.sn
+Telephone:	221-8245038
+The Botanics Gardens Conservation Strategy établit que «Le but de la conservation ex situ est de fournir une "réserve" pour la protection. Ceci ne se justifie que comme un des éléments d’une stratégie globale de conservation qui, à terme, assure une survie des espèces dans la nature. Son rôle devrait être perçu comme un moyen d’atteindre un objectif et non comme un objectif en lui-même:	comme une source de matériaux pour la réintroduction dans des habitats dégradés et pour renforcer des populations dans des programmes de gestion des écosystèmes, pour la recherche et l’éducation, pour sélectionner du matériel végétal à des fins commerciales dans des pépinières, l’agriculture locale, les plantations d’agréments, la sylviculture locale, etc... Un autre rôle est de soustraire les populations d'espèces sauvages aux pressions des scientifiques, des horticulteurs, des amateurs ou des collectionneurs locaux. Par dessus tout, la conservation ex-situ rend les plantes disponibles pour l’exploitation humaine (IUCN-BGCS et WWF 1989, p. 21)».
+objectifs:	enseignement de la botanique appliquée (plantes utiles), multiplication et production de graines, recherche
+personnel:	1 conservateur et 2 jardiniers autrefois rémunérés par ENDA-Tiers Monde
+Administration Staff Number:	4
+Curator's Name:	LO Modou
+Director's Name:	BASSENE Emmanuel
+Educational Staff Number:	5
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	FALL Ibrahima
+Research Staff Number:	7
+Altitude:	0.00 Metres
+Date founded:	1960
+Institution Type:	Botanic Garden
+Latitude:	14.6953
+Longitude:	-17.4439
+Satellite Garden Names:	Carré Botanique de MBADAKHOUNE (Sine) Carré Botanique de KEUR GOURY (Sine) Carré Botanique de SAMBANDE (Saloum)
+Total Area:	1 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Friends society:	Yes
+Number of Visitors:	10000
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	400
+Special Collections:	Aquatic plants such as the scared lotus and water lilies. Introductions of seven primary speciescultivar in 1974. Collections include Adansonia digitata, Albizzia lebbeck, Borreria verticillata, Bauhinia rufescens, Vitis vinifera, Acacia albida and Ficus carica.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Land Restoration:	Yes
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

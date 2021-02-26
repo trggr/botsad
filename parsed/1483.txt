@@ -1,0 +1,40 @@
+ID:	1483
+Name:	Dawyck Botanic Garden 
+Fax:	01721 760214
+Info:	  United Kingdom - Peeblesshire - Stobo  ;Garden Information;  Institution Code: E; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	dawyck@rbge.org.uk
+Telephone:	+44 (0) 1721 760 254
+Administration Staff Number:	
+Curator's Name:	Graham Stewart
+Director's Name:	Simon Milne
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	Robert Cubey
+Research Staff Number:	
+Altitude:	180.00 Metres
+Annual Rainfall:	780 mm
+Date founded:	1978
+Institution Type:	Botanic Garden
+Latitude:	55.603193
+Longitude:	-3.32286
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	This is a Regional(Satellite) Garden of the Royal Botanic Garden Edinburgh.
+Total Area:	25 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	20000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	2274
+Cultivation Taxa Num:	1261
+Special Collections:	Pinaceae, Rosaceae, Berberidaceae, Aceraceae, Betulaceae, Oleaceae, Fagaceae, Tiliaceae, Ericaceae. Abies, Picea, Pinus, Larix, Tsuga, Prunus, Sorbus, Cotoneaster, Spiraea, Berberis, Acer, Betula, Fraxinus, Fagus, Tilia, Rhododendron (especially from the sub-section Taliensia)
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Conservation - Biology:	Yes
+Horticulture:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

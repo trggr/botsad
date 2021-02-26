@@ -1,0 +1,55 @@
+ID:	2270
+Name:	Alice Springs Desert Park 
+Fax:	61 (08) 8951 8720
+Info:	  Australia - Northern Territory - Alice Springs  ;Garden Information;  Institution Code: ALICE; International Agenda Registration: Yes; BGCI Member: Yes; 
+Mailing:	Dept. of Natural Resources, Environment the Arts and Sport, P.O. Box 1120
+Primary Email:	asdp@nt.gov.au
+Telephone:	61 (08) 8951 8788
+Administration Staff Number:	3
+Curator's Name:	Scott Pullyblank
+Director's Name:	Paul Ah Chee
+Educational Staff Number:	1
+Horticultural Staff Number:	14
+Plant Records Officer's Name:	Rebecca Duncum
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	240 mm
+Date founded:	1997
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-23.706456
+Local Address:	Larapinta Drive Alice Springs NT 0871 Australia
+Locality:	Information
+Longitude:	133.83236
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	None
+Total Area:	1300 Hectares
+Total area of shadehouses:	478 Metres
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	80000
+Number of Volunteers:	15
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	950
+Cultivation Taxa Num:	430
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	100 % of collection is Australian flora. Arid flora representing desert rivers, sand dune and woodland habitats.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

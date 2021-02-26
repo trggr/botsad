@@ -1,0 +1,9 @@
+ID:	4683
+Name:	Lincoln Children's Zoo 
+Curator's Name:	Isaac Fuenning, Curator of Horticulture
+Director's Name:	Unknown
+Info:	  United States of America - Nebraska - Lincoln  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lincoln Children's Zoo; 1222 S. 27th Street; Lincoln; Nebraska 68502 United States of America; ;  Telephone: (402) 475-6741; Fax: ; URL: <a target="_blank" href="http://www.lincolnchildrenszoo.org">www.lincolnchildrenszoo.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	40.8002310
+Longitude:	-96.6822620

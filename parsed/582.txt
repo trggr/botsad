@@ -1,0 +1,61 @@
+ID:	582
+Name:	Johannesburg Botanic Garden, The 
+Administration Staff Number:	2
+Curator's Name:	Sandra Viljoen
+Director's Name:	Senzo Nyembe
+Educational Staff Number:	3
+Horticultural Staff Number:	3
+Info:	  South Africa - Gauteng - Johannesburg  ;Garden Information;  Institution Code: JOHBG; International Agenda Registration: Yes; BGCI Member: No; About the Johannesburg Botanic Garden, The The Johannesburg Botanic gardens (JBG) captures some of the living flora of the world. Its one of the youngest gardens in the country, being only 30 yrs old. The garden is situated about 6km of the City Centre.; In addition to scientific and conservation and education reputation the JBG provides the best passive recreation space in Johannesburg (voted by Johannesburg citizens in 2004);  Main Address:; Johannesburg Botanic Garden, The; Olifants Road, Emmarentia; P.O. Box 2824; Johannesburg; Gauteng 2000 South Africa; ;  Telephone: +27 11 782 7064; Fax: +27 11 782 7082; URL: <a target="_blank" href="http://www.jhbcityparks.com/index.php?option=com_content&task=view&id=123&Itemid=64">http://www.jhbcityparks.com/index.php?option=com_content&task=view&id=123&Itemid=64; Primary Email: snyembe@jhbcityparks.com ; 
+Plant Records Officer's Name:	Vuyolwethu Yani
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Annual Rainfall:	802 mm
+Date founded:	1970
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-26.155245
+Local Address:	cnr Thomas Bowler and John Adamson Road Emmarentia Johannesburg
+Locality:	Information
+Longitude:	27.999825
+Natural Vegetation Area:	Yes
+Total Area:	81 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	4
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	34113
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	rosaceae, Fabaceae, Liliaceae, Podocarpaceae, Pinaceae, Amaryllidaceae, Myrtaceae, hardy Arecaceae, Orchidaceae, The Garden operates the National Rose Trial Grounds of South Africa.Araliaceae, Amaryllidaceae, Asteraceae, Buxaceae, Caprifoliaceae, Crassulaceae, Cuctaceae, Lamiaceae, Liliaceae, Mesembryamenthaceae, Myrtaceae, Poaceae, Rosaceae, Rubiaceae and Taxaceae.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Conservation - Biology:	No
+Ecology:	No
+Education:	No
+Ethnobotany:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

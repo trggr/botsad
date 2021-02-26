@@ -1,0 +1,45 @@
+ID:	284
+Name:	Jardin Botanique du Hamma 
+Administration Staff Number:	17
+Curator's Name:	Mme BENMENNI Kenza Saadiya
+Director's Name:	Mr. BOULAHIA Abdelkrim
+Educational Staff Number:	8
+Horticultural Staff Number:	15
+Info:	  Algeria - Algeria - Algiers  ;Garden Information;  Institution Code: HAMMA; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique du Hamma The Hamma Botanical Garden, also known as The Hamma test Garden, was created in 1832 with the aim of introducing new plants species, to acclimate them. The Garden spreads over 35 hectares, including an arboretum of 3 hectares. Its geographical situation gives it an exceptional climate in North Africa which allowed the acclimation of many particular species.; ; The garden is organized into three zones:; ; The French formal garden, in the west, with 5 terraces one after the other, with a beautiful sea view.; The experimental part, in the center of the garden, containing the green houses and the special plant collections (e.g.: systematic and natives ones).; The English garden, on the east side, where we can admire a large pond full of Japanese carp and plants from all over the world.; These perimeters are delimited by sumptuous paths like the majestic alley of platane trees since 1845, the splendid alley of Dracaena draco (1847), the alley of giant bamboos (1847) and the alley of giant Ficus (1863).; ; A rich collection of mostly exotic and tropical plants is present. A new collection of native plants is enriching the garden since 2008, highlighting taxa with big heritage value from Algerian national parks.; ; The garden has many missions: plant conservation, seed collecting and seed banking, environmental public education, exposition of scientific garden plant collections and research. It is a very nice working space for students. They can find many greenhouses for multiplication and propagation of species, a herbarium, a seed bank, a rich library and a zoo that offers an opportunity to work amongst exotic and native wildlife.; ; In addition, educational and recreational workshops are organized around gardening, beekeeping, ornithology, aquariums, drawing and knowledge of nature and animals.; ; Since it reopened in 2009, the Hamma Botanical Garden receives more than 1,000,000 visitors every year and took the challenge to be one of the most important ex situ conservation centers for the biodiversity in Algeria.; ; In order to strengthen national and international relations, the Hamma Botanical Garden has concluded cooperation agreements with several national institutions (universities, research centers, national parks, conservation structures, ENSA, INRF, INPV, INRAA,..) and international institutions ( Zoobotánico de Jerez, Hortus Botanicus Karalitanus - University of Cagliari). Other cooperation programs are being developed with the Royal Gardens of Kew, the Botanical Conservatory of Porquerolles and the Mediterranean Garden of Rayol. Contacts are also made with the Conservatory and Botanical Garden of the city of Geneva and with the National Museum of Natural History of the city of Paris.;  Main Address:; Jardin Botanique du Hamma; Rue Hassiba Ben Bouali - B.P. 141; Hamma District; Algiers; Algeria Algeria; ;  Telephone: 213 21672292; Fax: 213 21671468; URL: <a target="_blank" href="http://www.jardinbotaniqueduhamma.dz/">http://www.jardinbotaniqueduhamma.dz/; Primary Email: conservation@jardinbotaniqueduhamma.dz ; 
+Plant Records Officer's Name:	
+Research Staff Number:	6
+Altitude:	117.00 Metres
+Annual Rainfall:	600 mm
+Date founded:	1832
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	36.7484
+Local Address:	شارع حسيبة بن بوعلي رقم 141 - العناصر 16000 الجزائر العاصمة ، الجزائر
+Locality:	Information
+Longitude:	3.07574
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Arboretum of the "bois des arcades"
+Total Area:	38 Hectares
+Arboretum:	Yes
+Arboretum Size:	6
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	Ornamental trees and shrubs, cycads, palms, cacti, grasses, Ficus, exotic fruit trees, native Algerian plants.
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

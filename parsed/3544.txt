@@ -1,0 +1,11 @@
+ID:	3544
+Name:	Arboretum Guaycolec 
+Curator's Name:	Ing. Ftal. Darvin A. Cáceres
+Director's Name:	Ing. Julio Ramón Soupet
+Info:	  Argentina - Formosa - Formosa  ;Garden Information;  Institution Code: FGUAY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Guaycolec; Parque Botánico Lucas Tortorelli, Ruta Provincial 11; Facultad de Recursos Naturales, UNF, Av. Dr. Luis Gutniski 3.200; Formosa; Formosa 3600 Argentina; ;  Telephone: 54 (0) 3717-452-241; Fax: 54 (0) 3717-452-241; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-26.192964
+Longitude:	-58.199433
+Open to public:	Yes

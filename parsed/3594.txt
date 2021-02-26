@@ -1,0 +1,31 @@
+ID:	3594
+Name:	Jardin Botanico y Arboreta de Alta Cima 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Johnson Bridgwater
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Info:	  Mexico - Tamaulipas - Alta Cima  ;Garden Information;  Institution Code: ALCIM; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanico y Arboreta de Alta Cima; El Cielo Biosphere Reserve; Alta Cima; Tamaulipas Mexico; ;  Telephone: 405-949-1069(U.S.); +(831) 183-72-28(Mexico); Fax: ; URL: <a target="_blank" href="http://www.elcielobiosphere.org/index.html">www.elcielobiosphere.org/index.html; Primary Email: johnsonbridgwater@sbcglobal.net ; 
+Plant Records Officer's Name:	Eduardo Padron Serrano
+Research Staff Number:	1
+Altitude:	800.00 Metres
+Date founded:	
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	22.9166
+Longitude:	-99.0333
+Natural Vegetation Area:	Yes
+Total Area:	7 Hectares
+Total area of shadehouses:	100 Metres
+Arboretum:	Yes
+Arboretum Size:	5
+Open to public:	Yes
+Accession Number:	362
+Cultivation Taxa Num:	42
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecosystem Conservation:	Yes
+Ethnobotany:	Yes
+Restoration Ecology:	Yes

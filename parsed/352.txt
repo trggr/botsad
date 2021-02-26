@@ -1,0 +1,10 @@
+ID:	352
+Name:	Arboretum Kostelec, Czech Agricultural University of Prague 
+Curator's Name:	
+Director's Name:	J. Pokorny
+Info:	  Czech Republic - Kostelec  ;Garden Information;  Institution Code: KOST; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Kostelec, Czech Agricultural University of Prague; Truba 839, 281 63, KOSTELEC NAD CERNYMI LESY, Czech Republic.; Kostelec; Czech Republic; ;  Telephone: 0203 97201; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1954
+Institution Type:	Botanic Garden
+Latitude:	49.0266
+Longitude:	17.1530

@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: 164px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>The Barnes Arboretum at SJU</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=684"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>United States of America - Pennsylvania - Philadelphia</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+																				</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> ABFM</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: No</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: Yes</p>
+							
+														
+														<div class="garden-photo">
+								<img src="/photos/684/IMG_1592.jpg" alt="Stewartia monadelpha at the Barnes Arboretum" />
+								<div>Stewartia monadelpha at the Barnes Arboretum</div>
+							</div>
+											
+														<h2>About the The Barnes Arboretum at SJU</h2>
+							<p>The arboretum features an exceptional collection of rare and unusual trees and other woody plants from all over the world. Surrounding the Foundation’s world-renowned art gallery*, the arboretum and the garden reflect and enhance the beauty of the art inside. Formal gardens, a fern collection, lilac and peony groves, hosta display garden, medicinal plants garden and groupings of mature trees, including specimens not normally grown in the mid-Atlantic region,and 40 state champion trees create an unparalleled environment for horticulture education. The Barnes Foundation Arboretum School has served as training ground for horticulturists in the Delaware Valley for more than sixty years.<br />
+<br />
+* Albert Coombs Barnes (1872-1951), a medical doctor, established the Barnes Foundation in 1922 as a school to promote the advancement of education and the appreciation of fine arts and horticulture. The Foundation carries out its mission through teaching, research, and other programs related to its Art and Arboretum Departments, as well as through public access to the Arboretum and the Gallery which houses its main collection of paintings, sculpture, and other works of art. The Foundation owns one of the finest collections of French Impressionist, Post-Impressionist, and Early Modern paintings in the world. An extraordinary number of masterpieces by Renoir (181), Cézanne (69), and Matisse (60) and many exemplary works by American artists give visitors a depth of experience unavailable anywhere in the world. Fine examples of African, Native American, Asian, and Classical art, as well as hand-wrought iron, early American furniture, ceramics, textiles and glass, together make it the nation’s first purposely-multicultural collection of approximately 9,000 objects.<br />
+<br />
+The Arboretum was established on a 13-acre plot of land previously owned by Captain Joseph Lapsley Wilson, a Philadelphia attorney, who planted a number of different trees as early as the 1880s. When Dr. Albert Barnes purchased the property in 1922, he agreed to preserve Wilson's trees, which became the nucleus of the Arboretum of the Barnes Foundation. Dr. Barnes made Wilson the first director of the Arboretum and later Laura Leggett Barnes, wife of Dr. Barnes succeeded Captain Wilson. Several of Wilson’s original trees still stand on the property.<br />
+<br />
+With the support of various people like E.H. Wilson from Arnold Arboretum, Dr. John M. Fogg Jr. from the University of Pennsylvania and Dr. Barnes himself, Laura Barnes enhanced the living collections. Beginning in 1922 Mrs. Barnes added new plants and brought together the fine collection of ferns and wild flowers and planted many species and varieties in the wooded area which forms the southwestern boundary of the Arboretum. In 1933 Dr. Barnes decided to extend and develop the arboretum and hired Frank A. Schrepfer as a consultant landscape architect from the University of Pennsylvania, who prepared the plan for the grounds including a series of formal terraces crowned with a rose garden. Special emphases were given on broadleaved evergreens for the region and for groups like lilacs and peonies. Representative species in each genus of the conifers were introduced including a monkey-puzzle tree, Lacebark pine, Blue Atlas cedar, Californian redwood and Dawn redwood. A distinctive feature of the Arboretum is the diversity of species and varieties cultivated in such a modest area that too for teaching. The woody plants supplement the educational programs offered by the Foundation as specimens illustrating varying plant characters. Moreover, the whole garden is a fine example of landscaping with living collections that demonstrates aesthetic values together with botanical and horticultural interests. In effect, the gardens have become an exquisite expanse of nature --a natural gallery of beautiful living specimens. <br />
+<br />
+In 1933, Laura Barnes testified her purpose in developing an area behind the gallery building as,”…to obtain a compositional effect that would be beautiful in it and also a unit that would harmonize with other units and form a composition of all parts of the Arboretum. In doing this, I followed the same instinct as the painter does in organizing his canvas. … It takes time to find rare trees and to find out by experiment the particular arrangement of masses, colors, graceful lines and spatial intervals that gives the most beautiful effect.”  She experimented boldly and successfully with plants usually grown south of Washington, DC, and in other countries that were not supposed to be hardy in the frigid Pennsylvania winter, including southern magnolias, camellias and mimosas and most continue to survive and flourish today. Thus the Arboretum presents a unique assemblage of mature specimens of rare and unusual trees and other woody plants of aesthetic interest. The plants are cultivated in a fine landscape and garden setting that reflects concepts from the unique arrangement of art works in the gallery rooms. Dr. Barnes once stated, “as our teachers lecture on paintings, they point out of the gallery windows to that compositional unit (of plants) in the back and show the similarity between the masses, spatial intervals, colors, shapes and linear effects in that unit and the same features in the paintings hanging in our gallery walls.” According to him “the arboretum is a work of art started by God in creating those century-old trees, continued by Captain Wilson respecting the form that made those woods the nucleus of a composition, and carried further by us to the point the experts will say is a great work of art and a unique contribution to education.” <br />
+<br />
+The living collections of the arboretum established during the middle of the last century hold a large number of rare plants and the beauty of their arrangement and cultivation overwhelms present-day visitors during different seasons and highlights the artistic talents and vision of people like Mrs. Barnes, Dr. Fogg and Mr. Schrepfer. Because of careful planning these 13 acres, containing an extraordinarily large variety of plants, is still a well designed garden that is kept maintained. Specimens of different teaching collections, like Japanese maples, Hollies, Stewartias, Magnolias, Phellodendrons, Crabapples etc., are placed in close proximity for the convenience of comparison. There is a tropical corner, where pomagranate and crape myrtle and other plants believed not hardy grow in the open. The old greenhouse was rebuilt during 2000-02 with climate controls and is being used for classes, and for propagation and display of tropical plants.<br />
+<br />
+French architect Paul Cret, who designed the gallery building, also created a stone teahouse in a small remnant of indigenous woodland covered by an enchanting forest of trees, bordered with native ferns/ wild plants and water. Laura Barnes used this woodland to house the collections of wild flowers and many species and varieties of hardy native ornamental ferns, including a number of English and Asian varieties that she assembled, and arranged in masses and drifts. As early as the 1930s this collection was described by fern authorities as unmatched in range and in display value in the United States. In April 1939, she gave a lecture on “The Cultivation of Hardy Ferns” at the Morris Arboretum and an abstract of this talk was published in the Arboretum Bulletin (Vol. 2, No. 16, 1939). Later in the 1970’s Dr. E. T. Wherry, a keen student of ferns and an instructor at the Arboretum School led a project to create a trail, checking all identifications, labeling and laying out the walks so as to serve as a useful teaching adjunct and a visitor attraction. The collection, still in good shape and naturalized throughout the woodlands, is believed to have more than 90 different species/varieties and efforts are currently on to restore and display them as an important feature of the gardens. <br />
+<br />
+The Arboretum School that Laura Barnes organized in 1940 was the first of its kind in the region, conceived to address the lack of opportunity in this part of the country for serious students to study horticulture under professional guidance. Her mission to guide students to better appreciate the aesthetic appeal of plants and gardens, while providing a sound scientific and practical base in botany, horticulture and landscape design, was soon realized. Over the years, Mrs. Barnes continued to demonstrate a concern for the environment and extended her hospitality to everyone with an interest in gardening, opening the gates of the Arboretum to the community. She developed an interesting program for training a well-informed horticultural practitioner, which is unique even today in this whole region. Students gain required practical knowledge and experience by working in the Arboretum and greenhouse. Started with a faculty of three ( Laura Barnes, Dr. John M. Fogg Jr., and Frederick W. G. Peck) and nine courses, this program now in its seventh decade has a college-level faculty of sixteen and offers 17 courses over a three-year period. This school has changed many lives during the course of its existence; many have gone on to careers/businesses in horticulture or became volunteer gardeners in their communities; many of the area public gardens have Barnes graduates as volunteers, as board members or as paid staff. The Arboretum and the attached school have served as a training ground for the horticultural movement among eastern Pennsylvania communities for more than sixty years.<br />
+<br />
+Plant names like Ilex aquifolium cv.‘Laura L. Barnes,’ Syringa vulgaris cv. ‘Laura L. Barnes,’ S. vulgaris cv. ‘The Barnes Foundation, reflect Mrs. Barnes’s in-depth involvement in breeding and naming new cultivars/varieties of decorative plants. She documented relevant information of each specimen on index cards as they were procured, which is still regarded as the authentic accession record. Detailed location maps were also prepared for all the woody collections, and lilacs and peonies separately along with corresponding plant lists. All these and the voucher specimens in the herbarium serve as reference resource for curatorial and research projects.</p>
+														<p>
+								<b>Main Address:</b><br />
+								The Barnes Arboretum at SJU<br />
+								5600 City Ave<br />																Philadelphia<br />								Pennsylvania 19131 United States of America<br />
+							</p>
+							<p>
+								<b>Telephone:</b> 610 660 2801<br />
+								<b>Fax:</b> <br />
+								<b>URL:</b> <a target="_blank" href="http://www.BarnesFoundation.org">www.BarnesFoundation.org</a><br />
+								<b>Primary Email:</b> jthomas1@sju.edu							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: Dr. Jacob Thomas, Director, Living Collections & Hort. Programs<br />
+										Curator's Name: <br />
+										Plant Records Officer's Name: William Rein<br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: 3<br />
+										Educational Staff Number: 18<br />
+										Research Staff Number: <br />
+										Administration Staff Number: 									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+										Status: Private: Yes<br />										Status: State: No<br />										Status: Educational: Yes<br />																				Status: Satellite: No<br />																			</li>
+															
+																		<li>Date founded: 1922</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+																		<li>
+										Natural Vegetation Area: Yes<br />										Natural vegetation area: Size: 1 Hectares<br />									</li>
+															
+																		<li>
+										Landscaped Area: Yes<br />										Landscaped Area: Size: 4 Hectares<br />									</li>
+															
+									<li>
+										Total Area: 5 Hectares<br />										Latitude: 39.9982849<br />										Longitude: -75.2415180<br />																				Altitude: 0.00 Metres<br />										Total area of glasshouses: 30 Metres<br />																			</li>
+									
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+										Herbarium: Yes<br />										Herbarium: Number of Specimens: 10000<br />										Arboretum: Yes<br />										Arboretum Size: 4<br />									</li>
+															
+																		<li>
+										Micropropagation/ Tissue Culture Facilities: No<br />										Seed Bank: No<br />										Published Plant Catalogue: No<br />										Computer Plant Record System: Yes<br />									</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: No<br />										Retail Outlet: Shop: No<br />										Retail Outlet: Plant Sales: Yes<br />																			</li>
+															
+																		<li>
+										Number of Visitors: 1000<br />										Number of  Volunteers: 12<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 3200<br />										Cultivation Taxa Num: 2521<br />									</li>
+															
+																		<li><b>Special Collections:</b>Conifers, Ferns, Magnolia, Stewartia, Syringa, Paeonia, Hosta, Phellodendron, Viburnum, Chionanthus, Rose, Medicinal plants,<br />
+34 Pennsylvania State champion trees.</li>
+																
+																		<li>
+										Invasive Species Monitoring: Yes<br />
+										Invasive Species Policy: Yes<br />
+										ABS Policy: No<br />
+										Plant Collection Policy: Yes<br />
+									</li>
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: No<br />										Medicinal Plant Programme: Yes<br />																				Reintroduction Programme: No<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+										Biotechnology: No<br />										Plant Breeding: No<br />										Conservation - Biology: No<br />										Conservation - Genetics: No<br />										Data Management Systems and Information Technology: No<br />																														Education: Yes<br />																																								Horticulture: Yes<br />																																																																																																																							</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: Yes<br />										Education Booklets/Leaflets: Yes<br />										Guided Tours: Yes<br />										Permanent Public Displays: Yes<br />																				Courses for School Children: No<br />										Courses for University/College Students: No<br />										Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+				﻿<!-- Related news section -->
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

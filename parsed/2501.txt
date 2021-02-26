@@ -1,0 +1,28 @@
+ID:	2501
+Name:	Bicton Park Botanical Gardens 
+Administration Staff Number:	
+Curator's Name:	Neville Evans
+Director's Name:	Simon Lister
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Info:	  United Kingdom - Devon  ;Garden Information;  Institution Code: BICT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Bicton Park Botanical Gardens; East Budleigh Budleigh Salterton Devon EX9 7BJ,UK; Devon; United Kingdom; ;  Telephone: +44 (0)1395 568465; Fax: +44 (0)1395 568 374; URL: <a target="_blank" href="http://www.bictongardens.co.uk">www.bictongardens.co.uk; Primary Email: info@bictongardens.co.uk ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1735
+Institution Type:	Botanic Garden
+Latitude:	50.67211
+Longitude:	-3.317751
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	A diverse and historical collection of plants from exotics to conifers. The gardens main area of conservation is with conifers and exotics.
+Ex Situ Conservation Programme:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes

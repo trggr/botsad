@@ -1,0 +1,71 @@
+ID:	183
+Name:	Kirstenbosch National Botanical Garden 
+Administration Staff Number:	10
+Curator's Name:	Mr Werner Voigt
+Director's Name:	Mr Christopher Willis
+Educational Staff Number:	5
+Horticultural Staff Number:	13
+Info:	  South Africa - Western Cape - Claremont, Cape Town  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: NBG; International Agenda Registration: Yes; BGCI Member: Yes; About the Kirstenbosch National Botanical Garden Parastatal organisation (SANBI) under the national Department of Environment, Forestry & Fisheries (DEFF). This garden has a focus on native ecosystems.;  Main Address:; Kirstenbosch National Botanical Garden; South African National Biodiversity Institute; Private Bag X7; Claremont, Cape Town; Western Cape 7735 South Africa; ;  Telephone: +27 (0)21 799 8899; Fax: +27 (0)21 797 6570; URL: <a target="_blank" href="http://www.sanbi.org/gardens/kirstenbosch">www.sanbi.org/gardens/kirstenbosch; Primary Email: Kirstenboschinfo@sanbi.org.za ; 
+Plant Records Officer's Name:	Mr Phakamani Xaba, cycad collections curator
+Research Staff Number:	40
+Altitude:	100.00 Metres
+Annual Rainfall:	1440 mm
+Date founded:	1913
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-33.9891
+Local Address:	Rhodes Drive, Newlands, Cape Town
+Locality:	Information
+Longitude:	18.4341
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Tinie Versfeld Wildflower Reserve, Darling Edith Stephens Wetland Park, Cape Town
+Total Area:	528 Hectares
+Total area of glasshouses:	7740 Metres
+Total area of shadehouses:	2500 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	1091438
+Number of Volunteers:	150
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	16570
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	ca 200 threatened plant taxa are in the collection.
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Molecular Genetics:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

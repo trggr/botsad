@@ -1,0 +1,54 @@
+ID:	4221
+Name:	Shingu Botanic Garden 
+Fax:	82-31-723-7314
+Info:	  South Korea - Gyeonggi-do - Seongnam-si  ;Garden Information;  Institution Code: SBGKR; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	azalea@shingu.ac.kr
+Telephone:	82-31-723-6677
+Administration Staff Number:	1
+Curator's Name:	Young-Woo Lee
+Director's Name:	Hwan Joo Hwang
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	100.00 Metres
+Annual Rainfall:	1200 mm
+Date founded:	2003
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	37.43389
+Local Address:	수정구 상적동 121번지
+Locality:	Information
+Longitude:	127.08146
+Natural Vegetation Area:	Yes
+Total Area:	57 Hectares
+Total area of glasshouses:	1000 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	30000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	1200
+Special Collections:	lily, hydrangea, hibiscus, peony, rose, rhododendron, maple, and collections of native or foreign resource plants.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Biotechnology:	No
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Plant Breeding:	No
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for University/College Students:	Yes
+Education Programme:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

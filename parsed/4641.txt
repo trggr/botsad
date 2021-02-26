@@ -1,0 +1,70 @@
+ID:	4641
+Name:	Cantigny Park 
+Administration Staff Number:	5
+Curator's Name:	Joy Kaminsky, Director of Horticulture
+Director's Name:	Matt LaFond, Executive Director, Cantigny Park
+Educational Staff Number:	5
+Horticultural Staff Number:	12
+Info:	  United States of America - Illinois - Wheaton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Cantigny Park The Legacy Continues; History; During the early 1930s, experimental farms served as practical laboratories to landscape the family farms that blanketed the countryside. These laboratories tried new species of plants, tested theories of planting and harvesting, and investigated new practices in raising productive farm animals. One of the most successful experimental farms was Colonel Robert R. McCormick’s at Cantigny.; ; To educate and share the accomplishments of experimental farms, McCormick's Chicago Tribune ran a weekly column entitled “Day by Day Stories of the Experimental Farms." These trusted reports helped shape the future of the Midwest as a leader in agriculture.; ; After McCormick’s death in 1955, the Board of Directors decided to change Cantigny's focus from agriculture to horticulture by hiring famed landscape architect Franz Lipp to design and build a world class garden. In 1967, Lipp began construction of this lush, horticultural masterpiece, which is one of the largest display gardens in the Midwest with more than 160,000 annuals, perennials, ground covers and flowering shrubs and trees. A majority of the plants seen throughout the gardens are estate-grown inside Cantigny’s renowned greenhouse. Guests are encouraged to visit the gardens throughout the year to witness the ever-changing beauty of its seasonal glory.; ; Mission; Cantigny gardens offers opportunities for both display and education, which include plant testing, growing and blooming assessments and color composition. It was designed so both amateur and professional landscapers could visit Cantigny’s Gardens and find plants that grow well in the Midwest.;  Main Address:; Cantigny Park; 1 S 151 Winfield Road; Wheaton; Illinois 60187 United States of America; ;  Telephone: (630) 668-5161; Fax: ; URL: <a target="_blank" href="http://www.cantignypark.com/gardens">www.cantignypark.com/gardens; Primary Email: info@cantigny.org ; 
+Plant Records Officer's Name:	Liz Omura, Idea Garden Curator, Horticulture Education and Volunteer Coordinator
+Research Staff Number:	5
+Altitude:	0.00 Metres
+Date founded:	1955
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	41.8455190
+Longitude:	-88.1674860
+Natural Vegetation Area:	Yes
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	200000
+Number of Volunteers:	275
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,11 @@
+ID:	3
+Name:	University of Aarhus Botanical Institute 
+Curator's Name:	
+Director's Name:	Dr Ivan Nielsen
+Info:	  Denmark - Aarhus  ;Garden Information;  Institution Code: AAU; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Aarhus Botanical Institute; 68 Nordlandsvej DK-8240 RISSKOV Denmark; Aarhus; Denmark; ;  Telephone: 45 8613 4311; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	56.1581
+Longitude:	10.2120
+Special Collections:	Thailand and Ecuadorean collection, Canary Island endemics.

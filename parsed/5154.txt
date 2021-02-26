@@ -1,0 +1,74 @@
+ID:	5154
+Name:	Jardín Botánico CECON-USAC 
+Administration Staff Number:	7
+Curator's Name:	PhD. Maura Quezada
+Director's Name:	MSc. Carolina Rosales de Zea
+Educational Staff Number:	1
+Horticultural Staff Number:	8
+Info:	  Guatemala - Guatemala - Guatemala  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardín Botánico CECON-USAC; Centro de Estudios Conservacionistas de la Universidad de San Carlos de Guatemala; Avenida Reforma 0-63, zona 10; Guatemala; Guatemala 01001 Guatemala; ;  Telephone: 23346064 y 23346065; Fax: ; URL: <a target="_blank" href="https://jardnbotnicousac.wordpress.com">https://jardnbotnicousac.wordpress.com; Primary Email: jardinbotanicousac@gmail.com ; 
+Plant Records Officer's Name:	Albina López
+Research Staff Number:	6
+Altitude:	1500.00 Metres
+Date founded:	1922
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	14.614392
+Local Address:	Avenida La Reforma 0-63, zona 10 ciudad de Guatemala
+Locality:	Information
+Longitude:	-90.5158542
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Total area of glasshouses:	306 Metres
+Total area of shadehouses:	16213 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	17000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	1500
+Cultivation Taxa Num:	411
+Special Collections:	In 2010 the botanical garden had a reorganization and because of that reason the new personal worked doing a new data base for the collection. It consist in a new review and identification for the species that we have. Fot this botanic professionals participated, and we have a new data base which we are actualizing every year.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

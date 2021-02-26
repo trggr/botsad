@@ -1,0 +1,9 @@
+ID:	5062
+Name:	ABQ BioPark Botanic Garden 
+Curator's Name:	Maria Thomas, Curator of Plants
+Director's Name:	Rick Janser, Director, ABQ BioPark
+Info:	  United States of America - New Mexico - Albuquerque  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; ABQ BioPark Botanic Garden; 2601 Central NW; Albuquerque; New Mexico 87104 United States of America; ;  Telephone: 505-768-2000; Fax: ; URL: <a target="_blank" href="http://www.cabq.gov/culturalservices/biopark">www.cabq.gov/culturalservices/biopark; Primary Email: biopark@cabq.gov ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	35.093028
+Longitude:	-106.679323

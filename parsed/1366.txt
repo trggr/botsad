@@ -1,0 +1,11 @@
+ID:	1366
+Name:	Arboretum Antumapu 
+Curator's Name:	
+Director's Name:	Prof. Rodolfo Gajardo
+Info:	  Chile - Santiago  ;Garden Information;  Institution Code: EIF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Antumapu; Departamento de Silviculture, Facultad de Ciencias Forestales, Casilla 9206, SANTIAGO, Chile.; Santiago; Chile; ;  Telephone: 56 2 5587042; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1969
+Institution Type:	Botanic Garden
+Latitude:	-33.4253
+Longitude:	-70.5664
+Special Collections:	Forest trees of Chile. Maintains a seed bank with medium-term storage capacity, containing 110 accessions, representing 60 species (1994 figures).

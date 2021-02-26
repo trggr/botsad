@@ -1,0 +1,9 @@
+ID:	4155
+Name:	Proyecto Jardín Botánico del Desierto Chihuahuense 
+Curator's Name:	
+Director's Name:	
+Info:	  Mexico - Chihuahua - C.P. 31149  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Proyecto Jardín Botánico del Desierto Chihuahuense; Juan O'Donoju #6515; Fracc. Roma IV Etapa; C.P. 31149; Chihuahua Mexico; ;  Telephone: (614) 4196880; Fax: (614) 4176850; URL: <a target="_blank" href="http://">; Primary Email: ngeco.ac@gmail.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	28.6324
+Longitude:	-106.0801

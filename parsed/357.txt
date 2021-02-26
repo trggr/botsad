@@ -1,0 +1,51 @@
+ID:	357
+Name:	Zoological and Botanical Garden of the Plzen Town (Zoologicka a Botanicka zahrada mesta Plzne) 
+Fax:	+420 37 803 8302
+Info:	  Czech Republic - Plzen  ;Garden Information;  Institution Code: PLZEN; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	zoo@plzen.eu
+Telephone:	+420 37 803 8301
+Administration Staff Number:	7
+Curator's Name:	Tomas Pes
+Director's Name:	Ing. Jiri Travnicek
+Educational Staff Number:	3
+Horticultural Staff Number:	14
+Plant Records Officer's Name:	Tomas Pes
+Research Staff Number:	3
+Altitude:	330.00 Metres
+Annual Rainfall:	512 mm
+Date founded:	1961
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	49.7333
+Longitude:	13.3833
+Total Area:	21 Hectares
+Total area of glasshouses:	750 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	430000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	10000
+Cultivation Taxa Num:	12000
+Educational exhibits:	plant biology, ecology, useful plants, evolution
+Special Collections:	Biogeographic exhibits
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Horticulture:	Yes
+Plant Breeding:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

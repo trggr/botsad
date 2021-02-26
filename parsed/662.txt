@@ -1,0 +1,19 @@
+ID:	662
+Name:	Slayton Arboretum of Hillsdale College 
+Curator's Name:	Richard Alvarez, Groundskeeper
+Director's Name:	Ranessa Cooper, Ph.D., Director
+Info:	  United States of America - Michigan - Hillsdale  ;Garden Information;  Institution Code: SARHC; International Agenda Registration: No; BGCI Member: No; About the Slayton Arboretum of Hillsdale College The purpose of the Slayton Arboretum is to display and preserve living plant collections and native plant communities, and to study and disseminate knowledge about plants through teaching, research, education, publications and public outreach programs.;  Main Address:; Slayton Arboretum of Hillsdale College; Department of Biology; 33 East College Street; Hillsdale; Michigan 49242 United States of America; ;  Telephone: (517) 607-2241; Fax: (517) 607-2252; URL: <a target="_blank" href="http://www.hillsdale.edu/arboretum">www.hillsdale.edu/arboretum; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1922
+Institution Type:	Botanic Garden
+Latitude:	41.9315710
+Longitude:	-84.6334350
+Total Area:	6 Hectares
+Arboretum:	Yes
+Arboretum Size:	6
+Friends society:	Yes
+Open to public:	Yes
+Education Programme:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

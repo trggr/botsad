@@ -1,0 +1,71 @@
+ID:	3610
+Name:	Fundación Jardín Etnobotánico Villa Ludovica 
+Administration Staff Number:	1
+Curator's Name:	Adriana Fermina Goenaga De Bedout
+Director's Name:	Guillermo E. Rodriguez-Navarro
+Educational Staff Number:	3
+Horticultural Staff Number:	4
+Info:	  Colombia - Magdalena - Santa Marta  ;Garden Information;  Institution Code: LUDO; International Agenda Registration: Yes; BGCI Member: No; About the Fundación Jardín Etnobotánico Villa Ludovica Villa Ludovica Ethnobotanical Garden immersed and surrounded by the Sierra Nevada of Santa Marta. A non-profit organization founded in 2000 for the purpose of recovering the traditional indigenous knowledge of plants. Much of this knowledge forms an important contribution to research and development, particularly in areas such as pharmaceuticals, and agricultural and cosmetic products. In the context of these uses, Indigenous peoples claim that their rights as traditional holders and custodians of this knowledge are not adequately recognized or protected. ; ; The aim of Villa Ludovica Ethnobotanical Garden is to demand not only recognition and protection of this ethnobotanical knowledge, but also the right to share equitably in benefits derived from the uses of it. Through this garden we are promoting the training with Indigenous people to value their own knowledge and therefore achieve added value to the enormous Biodiversity of the Sierra Nevada de Santa Marta and have a physical space to carry out research, in a very endangered ecosystem like is the Tropical Dry Forest to which Indigenous people have little access. ; ; Villa Ludovica Ethnobotanical Garden is member of the Latin American Ethnobotanical Sister Gardens Network., with the support of the Center for Latin American and Caribbean Studies of the University of Georgia, Athens, GA. The sister garden concept was established in 1998 with the goal of creating a network of gardens to encourage documentation, conservation, education and horticultural maintenance of native Latin American plant material. An educational outreach program with local school children is currently underway at the garden, providing an opportunity for children to share and experience the many cultural uses of plants of their own region and learn more about the field of ethnobotany.; ; Our organization is planning to inaugurate formally the garden in 2008. However prior to the formal inauguration, a big amount of work is needed. Such effort consists basically in ordering, consolidating and labeling the collection of about 100 species of medicinal plants already identified. The area of approximately of one hectare of Tropical Dry Forest, around Villa Ludovica that will be adapted as the visitors center of the Ethnobotanical Garden. Very little infrastructure is needed, but it is necessary to build an entrance, with the facilities required to open to the public to a target local population of about 100.000 persons and a floating population of about 200.000 a year.; ; The budget to bring the actual setting to the standards for the opening is of U.S.$150,000 dollars and we are fund raising this sum through multiple ways, and some grant writing. One of the ways we are using is to build a range of groups (members, research members, donors, sponsors, and patrons both individual and corporate ) that have known Villa Ludovica and are willing to help to preserve the house and it’s surroundings, becoming a member in its different categories of the Ethnobotanical Garden.; ; We are in our initial steps and we still need grant funds to pay for printing of brochures, invitations, conference handouts, packages and develop formal and informal education resources for learners of all ages.;  Main Address:; Fundación Jardín Etnobotánico Villa Ludovica; Avienda del Libertador No 15-03; El Cerro; Santa Marta; Magdalena A.A.058 Colombia; ;  Telephone: 57 5 4216644; 57 3 108139701; Fax: 57 1 5307853; URL: <a target="_blank" href="http://">; Primary Email: guirod@usa.net ; 
+Plant Records Officer's Name:	Santiago Madriñan
+Research Staff Number:	1
+Altitude:	35.00 Metres
+Annual Rainfall:	350 mm
+Date founded:	1988
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	11.2753
+Local Address:	Avenida del Libertador Carrera 15 EL Cerro
+Locality:	Information
+Longitude:	-74.1906
+Natural Vegetation Area:	Yes
+Total Area:	1 Hectares
+Total area of shadehouses:	220 Metres
+Arboretum:	Yes
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	60
+Number of Volunteers:	6
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

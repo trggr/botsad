@@ -1,0 +1,10 @@
+ID:	963
+Name:	Carpathian Forest Research Station 
+Curator's Name:	
+Director's Name:	Vasyl I. Parpan, Prof., Dr. Biol., Director
+Info:	  Ukraine - Mukachenko  ;Garden Information;  Institution Code: CARP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Carpathian Forest Research Station; Duchovicza 105; Mukachenko; 295400 Ukraine; ;  Telephone: 380 3131 2 15 20/2 32 18; Fax: 380 3131 2 15 20; URL: <a target="_blank" href="http://">; Primary Email: kolesnyk@hades.univ.uzhgorod.uq ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	48.441925
+Longitude:	22.730907

@@ -1,0 +1,29 @@
+ID:	1408
+Name:	Górski Ogród Botaniczny Instytutu Ochrony Przyrody PAN (Mountain Botanical Garden) 
+Fax:	
+Info:	  Poland - małopolskie - Zakopane  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	+48 18 2012651
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Paweł Olejniczak PhD
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1887
+Institution Type:	Botanic Garden
+Latitude:	49.2991
+Longitude:	19.9495
+Arboretum:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	400
+Seed Bank:	Yes
+Cultivation Taxa Num:	600
+Special Collections:	Saxifraga and Gentiana, fern collection, seed collection ca.1000species
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Education:	Yes

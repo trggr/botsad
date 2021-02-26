@@ -1,0 +1,41 @@
+ID:	3557
+Name:	Giardino Botanico Friuli "Cormor" 
+Fax:	
+Info:	  Italy - Friuli Venezia Giulia - Udine  ;Garden Information;  Institution Code: CORMO; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	parcobotanico@gmail.com
+Telephone:	3927156120
+The figurative research at work in the design is based on the topography:	a grove of slender poplars, and vistas receding into the countryside.
+The project also imitates manner:	that of Heinrich Tessenow in his first aketches for the National Gallery in Berlin, and of Lenné in his work on the 'Prussian Versailles'.
+from:	l'architecture d'aujourd'hui
+Curator's Name:	Dennis
+Director's Name:	Roberto
+Plant Records Officer's Name:	...
+Altitude:	115.00 Metres
+Annual Rainfall:	1673 mm
+Date founded:	1884
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	46.0836
+Local Address:	
+Locality:	Information
+Longitude:	13.1902
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Orto botanico
+Arboretum:	Yes
+Arboretum Size:	3
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Number of Volunteers:	5
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Special Collections:	Some Trees and schrubs - Botanical Garden - UDINE
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Exploration:	Yes
+Visitor/Education Centre:	Yes

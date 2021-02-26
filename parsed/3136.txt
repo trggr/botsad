@@ -1,0 +1,10 @@
+ID:	3136
+Name:	Earth University 
+Curator's Name:	
+Director's Name:	
+Info:	  Costa Rica - San Jose  ;Garden Information;  Institution Code: EARTH; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Earth University; 4442-1000 San JoseCosta Rica; San Jose; Costa Rica; ;  Telephone: + 506 713 0000; Fax: + 506 713 0001; URL: <a target="_blank" href="http://www.earth.ac.cr">www.earth.ac.cr; Primary Email: jrarce@earth.ac.cr ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	9.9402
+Longitude:	-84.1001

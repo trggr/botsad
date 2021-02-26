@@ -1,0 +1,10 @@
+ID:	3257
+Name:	Jardin Pedagogique - Universite Laval 
+Curator's Name:	
+Director's Name:	The Director
+Info:	  Canada - Quebec - Quebec  ;Garden Information;  Institution Code: QJP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Pedagogique - Universite Laval; Faculty of Agriculture and Food Sciences; Bureau 1104, 2425, rue de l'Agriculture; Quebec; Quebec G1V 0A6 Canada; ;  Telephone: (418) 656-3145; Fax: (418) 656-7806; URL: <a target="_blank" href="http://www.fsaa.ulaval.ca">www.fsaa.ulaval.ca; Primary Email: fsaa@fsaa.ulaval.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	46.777409
+Longitude:	-71.275904

@@ -1,0 +1,74 @@
+ID:	553
+Name:	Ogrod Botaniczny Instytut Hodowli i Aklimatyzacji Roslin w Radzikowie 
+Fax:	
+Info:	  Poland - kujawsko-pomorskie - Bydgoszcz  ;Garden Information;  Institution Code: BYDGZ; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	obihar@poczta.onet.pl
+Telephone:	48 523 813 193
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	dr inż. Włodzimierz Majtkowski
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	
+Research Staff Number:	5
+Altitude:	93.00 Metres
+Annual Rainfall:	551 mm
+Date founded:	1977
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	53.1683
+Local Address:	ul. Jeździecka 5 85-687 Bydgoszcz
+Locality:	Information
+Longitude:	18.0470
+Natural Vegetation Area:	No
+Total Area:	6 Hectares
+Total area of glasshouses:	540 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Cultivation Taxa Num:	4500
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

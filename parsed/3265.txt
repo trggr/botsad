@@ -1,0 +1,11 @@
+ID:	3265
+Name:	Minter Gardens 
+Curator's Name:	Brian Minter
+Director's Name:	Brian Minter, Owner
+Info:	  Canada - British Columbia - Rosedale  ;Garden Information;  Institution Code: MINT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Minter Gardens; 52892 Bunker Road; Rosedale; British Columbia V0X 1X0 Canada; ;  Telephone: (604) 792-3799; Fax: ; URL: <a target="_blank" href="http://www.mintergardens.com/MG_Home.htm">www.mintergardens.com/MG_Home.htm; Primary Email: mail@mintergardens.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1980
+Institution Type:	Botanic Garden
+Latitude:	49.183712
+Longitude:	-121.768724

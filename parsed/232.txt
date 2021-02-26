@@ -1,0 +1,11 @@
+ID:	232
+Name:	National Botanic Garden 
+Curator's Name:	
+Director's Name:	Miss Nobanda
+Info:	  Zimbabwe - Harare  ;Garden Information;  Institution Code: SRGH; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; National Botanic Garden; P.O. Box 8100, Causeway, HARARE, Zimbabwe.; Harare; Zimbabwe; ;  Telephone: 263 4 708938; Fax: 263 4 708938; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1962
+Institution Type:	Botanic Garden
+Latitude:	-17.8018
+Longitude:	31.0514
+Special Collections:	Woody flora of Zimbabwe and adjacent areas, African Combretaceae, Acacia, Ficus, Brachystegia and Commiphora. Genera with Gondwanaland origin. Approximately 95 % of the taxa grown are native to Zimbabwe. A Desert House includes about 240 species from arid

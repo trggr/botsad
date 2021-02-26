@@ -1,0 +1,10 @@
+ID:	4239
+Name:	Bodenham Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United Kingdom - Worcestershire - Kidderminster  ;Garden Information;  Institution Code: BODAR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bodenham Arboretum; Wolverley; Kidderminster; Worcestershire DY11 5SY United Kingdom; ;  Telephone: +44 (0)1562 852444; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	52.421501
+Longitude:	-2.276313

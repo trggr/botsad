@@ -1,0 +1,24 @@
+ID:	2049
+Name:	Jardin Botanique Exotique " Val Rahmeh " 
+Administration Staff Number:	1
+Curator's Name:	Frédéric Achille
+Director's Name:	Eric Joly
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Info:	  France - France - Menton-Garavan  ;Garden Information;  Institution Code: P; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique Exotique " Val Rahmeh "; Muséum National d'Histoire Naturelle; Avenue Saint-Jacques; Menton-Garavan; France 06500 France; ;  Telephone: 33 4 93 35 86 72; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	Roseline Grouard
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1905
+Institution Type:	Botanic Garden
+Latitude:	43.7848
+Longitude:	7.5209
+Total Area:	1 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes

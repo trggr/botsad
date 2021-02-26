@@ -1,0 +1,11 @@
+ID:	444
+Name:	Nyugat-Magyarországi Egyetem, Botanikus Kert 
+Curator's Name:	Beatrix Nemeth M.
+Director's Name:	Dr. Mihály Kocsó
+Info:	  Hungary - Sopron  ;Garden Information;  Institution Code: SOPRN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Nyugat-Magyarországi Egyetem, Botanikus Kert; University of West Hungary, Botanic Garden; Pf.: 132; Sopron; H-9401 Hungary; ;  Telephone: +36 99/518184; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: kocso@emk.nyme.hu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	47.6848
+Longitude:	16.5830
+Special Collections:	Arboretum and collections of native flora.

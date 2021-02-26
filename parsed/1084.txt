@@ -1,0 +1,11 @@
+ID:	1084
+Name:	Botanical Garden "Dr. Costerus" 
+Curator's Name:	A.deHaas-Bootsman
+Director's Name:	-
+Info:	  Netherlands - Hilversum  ;Garden Information;  Institution Code: HILVM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden "Dr. Costerus"; Zonnelaan 2A, 1217 NG HILVERSUM, The Netherlands.; Hilversum; Netherlands; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	52.2239
+Longitude:	5.1709
+Special Collections:	Caryophyllaceae, Cruciferae, Ranunculaceae, Papaveraceae, Umbelliferae, Leguminosae, Solanaceae, Labiatae, Scrophulariaceae, Campanulaceae, Compsitae

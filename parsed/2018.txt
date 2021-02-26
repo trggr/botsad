@@ -1,0 +1,78 @@
+ID:	2018
+Name:	Orto Botanico dell'Universita della Calabria 
+Fax:	39 (0)984 493089
+Info:	  Italy - Cosenza - Arcavacata di Rende  ;Garden Information;  Institution Code: CLU; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	ortobot@unical.it
+Telephone:	39 (0)984 493089
+Administration Staff Number:	2
+Curator's Name:	Nicodemo G. Passalacqua
+Director's Name:	Liliana Bernardo
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Nicodemo G. Passalacqua
+Research Staff Number:	2
+Altitude:	200.00 Metres
+Annual Rainfall:	1044 mm
+Date founded:	1981
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.2953
+Longitude:	16.2536
+Natural Vegetation Area:	Yes
+Total Area:	7 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	2000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	2000
+Cultivation Taxa Num:	600
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Over 400 species characteristic of the Calabria region. Cistus salvifolius, Cyclamen hederifolium, Pinus halepensis, P. pinea, Arbutus unedo, Phillyrea media, Quercus suber, Q. ilex, Quercus trojana, Quercus macrolepis, Quercus calliprinos, Quercus robur,
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

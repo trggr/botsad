@@ -1,0 +1,20 @@
+ID:	2391
+Name:	Currency Creek Arboretum Eucalypt Research Centre 
+Fax:	
+Info:	  Australia - South Australia - Old Reynella  ;Garden Information;  Institution Code: CREEK; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	Dean.Nicolle@dn.com.au
+Telephone:	61 (0)8 8387 3656
+Curator's Name:	
+Director's Name:	Dean Nicolle
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1992
+Institution Type:	Other
+Latitude:	-35.454194
+Longitude:	138.760867
+Arboretum:	Yes
+Special Collections:	100% of collection is Australian flora. Eucalypt and Corymbia spp.
+Conservation - Biology:	Yes
+Ecology:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes

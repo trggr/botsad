@@ -1,0 +1,11 @@
+ID:	5127
+Name:	Trinity College Botanic Garden- Seed Bank 
+Curator's Name:	
+Director's Name:	Dr J.A.N. Parnell
+Info:	  Ireland - Dublin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Trinity College Botanic Garden- Seed Bank; University of Dublin,; Palmerston Park, Dartry, DUBLIN 6,; Dublin; Ireland; ;  Telephone: 353 (0)1 497 2070; Fax: 353 (0)1 608 1147; URL: <a target="_blank" href="https://www.tcd.ie/Botany/botanic-garden/">https://www.tcd.ie/Botany/botanic-garden/; Primary Email: swaldren@tcd.ie ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	53.3181
+Longitude:	-6.2615
+Seed Bank:	Yes

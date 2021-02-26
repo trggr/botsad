@@ -1,0 +1,57 @@
+ID:	1024
+Name:	Myall Park Botanic Garden 
+Curator's Name:	
+Director's Name:	Dr. Nita C. Lester
+Info:	  Australia - Queensland - Glen Morgan  ;Garden Information;  Institution Code: MYAL; International Agenda Registration: Yes; BGCI Member: Yes; About the Myall Park Botanic Garden Non-profit organisation; Australian natives only; Arid, semi-arid and dry tropical; Ex situ and in situ collections; Rare and endangered collections ; Links flora, fauna and ecosystems;  Main Address:; Myall Park Botanic Garden; 1 Myall Park Road; Glen Morgan; Queensland 4423 Australia; ;  Telephone: 61 (0)7 5445 7182; Fax: 61 (0)7 5445 7182; URL: <a target="_blank" href="http://www.myallparkbotanicgarden.org.au">www.myallparkbotanicgarden.org.au; Primary Email: nita.c.lester@gmail.com ; 
+Plant Records Officer's Name:	Dr. Nita C. Lester
+Altitude:	400.00 Metres
+Annual Rainfall:	550 mm
+Date founded:	1941
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-27.21344
+Local Address:	1 Myall Park Road
+Locality:	Information
+Longitude:	149.63024
+Natural Vegetation Area:	Yes
+Total Area:	132 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	1000
+Number of Volunteers:	35
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	3000
+Cultivation Taxa Num:	572
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	100% of collection of Australian flora. Proteaceae, Myrtaceae, Myoporaceae, tropical Australian water lilies are just some of the examples
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Plant Breeding:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

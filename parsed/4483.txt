@@ -1,0 +1,11 @@
+ID:	4483
+Name:	Duke Biology Plant Teaching and Research Facility 
+Curator's Name:	
+Director's Name:	-
+Info:	  United States of America - North Carolina - Durham  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Duke Biology Plant Teaching and Research Facility; Duke University Phytotron, Room 137, Biological Sciences Building; 125 Science Drive, P.O. Box 90340; Durham; North Carolina 27708 United States of America; ;  Telephone: (919) 660-7334; Fax: (919) 660-7425; URL: <a target="_blank" href="http://www.biology.duke.edu/plantfacility/">www.biology.duke.edu/plantfacility/; Primary Email: greenhousestaff@duke.edu ; 
+Plant Records Officer's Name:	Jennifer Gordon, Assistant Horticulturist
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	35.9961800
+Longitude:	-78.8975490
+Reintroduction Programme:	No

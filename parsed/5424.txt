@@ -1,0 +1,10 @@
+ID:	5424
+Name:	Colorado State University Arboretum 
+Curator's Name:	Julia Innes, CSU Facilities Management
+Director's Name:	-
+Info:	  United States of America - Colorado - Fort Collins  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Colorado State University Arboretum; Facility Management, 6030 Campus Delivery; Fort Collins; Colorado 80523 United States of America; ;  Telephone: 970-491-8725; Fax: ; URL: <a target="_blank" href="https://www.fm.colostate.edu/outdoorservices">https://www.fm.colostate.edu/outdoorservices; Primary Email: R.Scott.Simonds@colostate.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	40.571779
+Longitude:	-105.080102

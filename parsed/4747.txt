@@ -1,0 +1,57 @@
+ID:	4747
+Name:	Botanical Garden of Moscow Palace of Pioneers 
+Fax:	
+Info:	  Russian Federation - Moscow - Moscow  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	lusor_peter@mail.ru
+Telephone:	+7-499-137-75-86
+Administration Staff Number:	2
+Curator's Name:	Peter Lodygin
+Director's Name:	Alexey Bobrov, Head of Center of Ecological Education and Botanical Garden
+Educational Staff Number:	10
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	Mikhail Romanov
+Research Staff Number:	2
+Altitude:	255.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1962
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	55.70284
+Local Address:	Москва, ул. Косыгина, 17
+Locality:	Information
+Longitude:	37.5547
+Natural Vegetation Area:	No
+Total Area:	40 Hectares
+Total area of glasshouses:	110 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	2000
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Cultivation Taxa Num:	4000
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Ecology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Pollination Biology:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

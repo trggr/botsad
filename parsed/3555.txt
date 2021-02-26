@@ -1,0 +1,9 @@
+ID:	3555
+Name:	Budapest Zoo & Botanical Garden 
+Curator's Name:	Vince Zsigmond
+Director's Name:	-
+Info:	  Hungary - Budapest  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Budapest Zoo & Botanical Garden; Allatkerti krt. 6-12.; Budapest; H-1146 Hungary; ;  Telephone: 36-1-273-4946; Fax: 36-1-363-3706; URL: <a target="_blank" href="http://www.zoobudapest.com/">www.zoobudapest.com/; Primary Email: info@zoobudapest.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	47.5101
+Longitude:	19.0936

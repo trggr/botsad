@@ -1,0 +1,18 @@
+ID:	4196
+Name:	Regenerations International Botanical Garden 
+Curator's Name:	
+Director's Name:	Paul Massey
+Info:	  United States of America - Hawaii - Kilauea  ;Garden Information;  Institution Code: RIBG; International Agenda Registration: No; BGCI Member: No; About the Regenerations International Botanical Garden The mission of Regenerations Botanical Garden is to support the conservation of threatened plant diversity for the benefit of all life by designing, building, and implementing inclusive and sustainable community-based stewardship activities.; ; Our garden has adopted the Global Strategy for Plant Conservation (plants2010.org) and the North American Botanic Garden Strategy for Plant Conservation (NABGSPC) as guiding inspiration and benchmarks for our program development.;  Main Address:; Regenerations International Botanical Garden; P.O. Box 1137; Kilauea; Hawaii 96754 United States of America; ;  Telephone: (808) 652-4118; Fax: (866) 216-5373; URL: <a target="_blank" href="http://www.ribg.org">www.ribg.org; Primary Email: info@ribg.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2006
+Institution Type:	Botanic Garden
+Latitude:	22.2119444
+Longitude:	-159.4122222
+Number of Volunteers:	30
+Open to public:	Yes
+Seed Bank:	Yes
+Conservation Programme:	Yes
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Sustainability:	Yes

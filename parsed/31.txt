@@ -1,0 +1,31 @@
+ID:	31
+Name:	Yerevan Botanic Garden of the Institute of Botany of the National Academy of Sciences of Armenia 
+Administration Staff Number:	
+Curator's Name:	Dr G Mousesian
+Director's Name:	Prof. Zh. Vardanyan
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  Armenia - Yerevan  ;Garden Information;  Institution Code: BGAAS; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Yerevan Botanic Garden of the Institute of Botany of the National Academy of Sciences of Armenia; Acharyan str. 1; Yerevan; 0040 Armenia; ;  Telephone: (374 10) 621 762/628 211; Fax: ; URL: <a target="_blank" href="http://botany.sci.am/test/en">http://botany.sci.am/test/en; Primary Email: botanyinst@sci.am ; 
+Plant Records Officer's Name:	
+Research Staff Number:	7
+Altitude:	1200.00 Metres
+Annual Rainfall:	250 mm
+Date founded:	1935
+Institution Type:	Botanic Garden
+Latitude:	40.1666
+Longitude:	44.5166
+Satellite Garden Names:	Sevan Botanical Garden. Vanadzor Botanical Garden.
+Total Area:	80 Hectares
+Total area of glasshouses:	3 Metres
+Arboretum:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Cultivation Taxa Num:	3
+Special Collections:	Syringa, Clematis, Sorbus, Philadelphus, conifers, local tree flora including Fagus sylvatica, Quercus macrantha, Q. ibirica, Carpinus caucasica, Juniperus polycarpos, J. procumbens, J. sabina, Celtis caucasica, Pyrus salicifolia, Juglans regia, Taxus bac
+Medicinal Plant Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Horticulture:	Yes
+Special Exhibitions:	Yes

@@ -1,0 +1,12 @@
+ID:	4402
+Name:	Ulsan Theme Botanic Gardens & Arboretum 
+Curator's Name:	Seong-Hyup Song
+Director's Name:	Si-Joon Song
+Info:	  South Korea - Ulsan-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ulsan Theme Botanic Gardens & Arboretum; 155-1 DongBu-dong, Dong-gu; Ulsan-si; 682-010 South Korea; ;  Telephone: 052-235-8585; Fax: 052-235-8545; URL: <a target="_blank" href="http://www.usarboretum.co.kr">http://www.usarboretum.co.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	35.53838
+Local Address:	동구 동부동 산 155-1
+Locality:	Information
+Longitude:	129.31136

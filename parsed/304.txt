@@ -1,0 +1,75 @@
+ID:	304
+Name:	Arboretum Groenendaal - Flemish Forest Department - Houtvesterij Groenendaal 
+"garden-photo"> <img src="/photos/304/0503_DUBOISWEIDE5_200pix.jpg" alt="" />   About the Arboretum Groenendaal - Flemish Forest Department - Houtvesterij Groenendaal The Arboretum Groenendaal is an old forest-arboretum, dating from 1897. Lots of trees are really impressive. For example:	Populus canadensis (585 cm), Sequoiadendron giganteum (480 cm), Sequoia sempervirens (320 cm), Carya cordiformis (246 cm), Sciadopitys verticilatta (95 cm)...
+Fax:	32 (0)2 657 65 13
+Info:	  Belgium - Groenendaal (Hoeilaart)  ;Garden Information;  Institution Code: GROEN; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	houtvesterij.groenendaal@lne.vlaanderen.be
+Telephone:	32 (0)2 657 22 03
+Administration Staff Number:	
+Curator's Name:	Patrick Huvenne
+Director's Name:	Patrick Huvenne
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	Patrick Huvenne
+Research Staff Number:	
+Altitude:	50.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	1899
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	50.7590
+Local Address:	Duboislaan 2 1560 Groenendaal (Hoeilaart)
+Locality:	Information
+Longitude:	4.4577
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Arboretum Heverleebos (Leuven), Arboretum Koekelare (Koekelare)
+Total Area:	14 Hectares
+Arboretum:	Yes
+Arboretum Size:	14
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	890
+Cultivation Taxa Num:	464
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Visitor/Education Centre:	Yes

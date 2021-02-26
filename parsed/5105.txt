@@ -1,0 +1,11 @@
+ID:	5105
+Name:	Center for Biological Diversity Conservation- Seed Bank 
+Curator's Name:	
+Director's Name:	-
+Info:	  Poland - Warsaw - Powsin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Center for Biological Diversity Conservation- Seed Bank; Polish Academy of Sciences; 2 Prawdziwka; Powsin; Warsaw Poland; ;  Telephone: (+48) (022) 648-38-56; Fax: (+48) (022) 757-66-45; URL: <a target="_blank" href="http://www.ogrod-powsin.pl/index.html">http://www.ogrod-powsin.pl/index.html; Primary Email: ob.sekr@obpan.pl ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	52.1052
+Longitude:	21.0980
+Seed Bank:	Yes

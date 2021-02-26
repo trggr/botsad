@@ -1,0 +1,37 @@
+ID:	5204
+Name:	Dr Cecilia Koo Botanic Conservation Center 
+Administration Staff Number:	
+Curator's Name:	Chun-Ming Chen
+Director's Name:	Dr. Chia-Wei Li
+Educational Staff Number:	
+Horticultural Staff Number:	19
+Info:	  Taiwan, China - Pingtung County  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Dr Cecilia Koo Botanic Conservation Center Dr. Cecilia Koo Botanic Conservation Center (KBCC), is a non-governmental organization for tropical plant conservation in Taiwan, founded in 2007. KBCC’s mission is to conserve tropical and sub-tropical plants and maintain rich biodiversity on earth. In order to fulfill this mission, our present goal is to collect 40,000 different taxa and become the largest shelter of tropical plants on earth by 2027. The ultimate aim is to reintroduce plants back to the wild environment. The abundant plants, currently housed in 17 greenhouses, are under professional management.; ; The center has facilities for both tissue culture and cryo-preservation and currently runs a 'Deep Frozen' cryopreservation project with a target of 240,000 specimens from the collections at KBCC.; ; KBCC also has partnerships with international organizations such as Fairy Lake Botanic Garden and the Chinese Academy of Sciences to conserve the plants of Southern China as well as The Solomon Islands to survey, collect vouchers and living specimens of native flora (http://siflora.nmns.edu.tw). ; ; In addition to practical plant conservation, KBCC also plays an important role in research and education. Scientists are invited to use the resources from KBCC for research and students join the center for internships as well as through the Future Earth Ecology Project to educate the young future scientists of Taiwan.;  Main Address:; Dr Cecilia Koo Botanic Conservation Center; No 31, Tongsing Rd; Gaoshu Township; Pingtung County 90646 Taiwan, China; ;  Telephone: 886.8.796.0913; Fax: 886.8.796.0913; URL: <a target="_blank" href="http://www.kbcc.org.tw/tw/">http://www.kbcc.org.tw/tw/; Primary Email: ; 
+Plant Records Officer's Name:	Sheng-Sian Dai
+Research Staff Number:	7
+Altitude:	84.00 Metres
+Annual Rainfall:	3000 mm
+Date founded:	2007
+Institution Type:	Botanic Garden
+Latitude:	22.803771
+Local Address:	90646 屏東縣高樹鄉源泉村同興路31號
+Locality:	Information
+Longitude:	120.604733
+Total Area:	20 Hectares
+Total area of glasshouses:	35000 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	No
+Seed Bank:	Yes
+Cultivation Taxa Num:	30555
+Invasive Species Monitoring:	Yes
+Special Collections:	KBCC has targeted 18 plant groups as major conservation targets including Aquatic Plants, Araceae, Asclepiadaceae, Bambusoideae, Begoniaceae, Bromeliaceae, Carnivorous plants, Gesneriaceae, Heliconiaceae, Marantaceae, Musaceae, Orchidaceae, Palmae, Pteridophyte, Rutaceae, Succulents, Theaceae and Zingiberaceae.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Exploration:	Yes
+Courses for University/College Students:	Yes
+Special Exhibitions:	Yes

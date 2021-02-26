@@ -1,0 +1,11 @@
+ID:	5121
+Name:	Botanischer Garten der Universitat Osnabruck- Seed Bank 
+Curator's Name:	
+Director's Name:	Prof. Dr. Sabine Zachgo
+Info:	  Germany - Deutschland - Osnabrueck  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Universitat Osnabruck- Seed Bank; Albrecht Strasse 29; Osnabrueck; D-43076 Germany - Deutschland; ;  Telephone: +49 541 969 2739; Fax: 49 (0)541 969 2724; URL: <a target="_blank" href="http://www.bogos.uni-osnabrueck.de">www.bogos.uni-osnabrueck.de; Primary Email: friesen@biologie.uni-osnabrueck.de ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	52.280932
+Longitude:	8.028457
+Seed Bank:	Yes

@@ -1,0 +1,78 @@
+ID:	3217
+Name:	Patterson Garden Arboretum 
+Fax:	(306) 966-5015
+Info:	  Canada - Saskatchewan - Saskatoon  ;Garden Information;  Institution Code: SASP; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jackie.bantle@usask.ca
+Telephone:	(306) 966-5855
+Administration Staff Number:	
+Curator's Name:	Jackie Bantle, Horticulture Facilities Manager
+Director's Name:	Dr. Yuguang Bai, Professor and Department Head
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	Alan Weninger
+Research Staff Number:	
+Altitude:	482.00 Metres
+Annual Rainfall:	347 mm
+Date founded:	1966
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	52.12856
+Local Address:	Department of Plant Sciences 51 Campus Drive University of Saskatchewan S7N 5A8
+Locality:	Information
+Longitude:	-106.62153
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	775
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	The Arboretum is an excellent reference collection with both commonly cultivated and rare species.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

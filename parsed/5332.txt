@@ -1,0 +1,9 @@
+ID:	5332
+Name:	University of Missouri St. Louis Biology Greenhouses 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - Missouri - St Louis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Missouri St. Louis Biology Greenhouses; 223 Research Building; One University Boulevard; St Louis; Missouri 63121 United States of America; ;  Telephone: 314-516-6200; Fax: 314-516-6233; URL: <a target="_blank" href="http://www.umsl.edu/~biology/About%20the%20Department/facilities.html">http://www.umsl.edu/~biology/About%20the%20Department/facilities.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	38.647833
+Longitude:	-90.307879

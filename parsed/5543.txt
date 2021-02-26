@@ -1,0 +1,9 @@
+ID:	5543
+Name:	Jardín Botánico Municipio Comarapa 
+Curator's Name:	
+Director's Name:	Sixto Aguilar
+Info:	  Bolivia - Santa Cruz - Comarapa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Municipio Comarapa; Comarapa; Santa Cruz Bolivia; ;  Telephone: 591 68824343; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-17.9045455
+Longitude:	-64.5466521

@@ -1,0 +1,9 @@
+ID:	4389
+Name:	Keum Kang Arboretum 
+Curator's Name:	Kil-Nam Kang
+Director's Name:	In-Hwan Jeon
+Info:	  South Korea - Chungcheongnam-do - Gongju-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Keum Kang Arboretum; 12-2, Donam-re, Banpo-myeon; Gongju-si; Chungcheongnam-do 314-922 South Korea; ;  Telephone: 041-850-2635; Fax: 041-850-2696; URL: <a target="_blank" href="http://www.keumkang.go.kr">http://www.keumkang.go.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	37.48837
+Longitude:	126.83229

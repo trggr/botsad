@@ -1,0 +1,9 @@
+ID:	5603
+Name:	Proyecto Jardín Botánico de la Fundación Forestar 
+Curator's Name:	Nahuel Bulacio Genini
+Director's Name:	Rubén Bulacio
+Info:	  Argentina - Tucumán - Concepción  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Proyecto Jardín Botánico de la Fundación Forestar; Ernesto Padilla y Sgto. Cabral; Concepción; Tucumán Argentina; ;  Telephone: +54.386 5586579; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: fundacionforestar@arnet.com.ar ; 
+Plant Records Officer's Name:	Nahuel Bulacio Genini
+Institution Type:	Botanic Garden
+Latitude:	-26.365266
+Longitude:	-65.590849

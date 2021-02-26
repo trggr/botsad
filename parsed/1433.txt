@@ -1,0 +1,22 @@
+ID:	1433
+Name:	The University of Auckland Botanic Garden 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Stanley Jones
+Educational Staff Number:	
+Horticultural Staff Number:	8
+Info:	  New Zealand - Auckland  ;Garden Information;  Institution Code: AKU; International Agenda Registration: No; BGCI Member: No;  Main Address:; The University of Auckland Botanic Garden; University of Auckland,; Private Bag 92019; Auckland; 1142 New Zealand; ;  Telephone: +64 9 373 7599; Fax: +64 9 373 7456; URL: <a target="_blank" href="https://www.auckland.ac.nz/en.html">https://www.auckland.ac.nz/en.html; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-36.851861
+Longitude:	174.77057
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Acer, Allium, Crataegus, Betula, Lonicera, Rosa, Thalictrum. Flora of Western Europe, European former USSR, Crimea and Caucasus. Middle Asia, Western and Eastern Siberia, Far East, tropics.

@@ -1,0 +1,79 @@
+ID:	68
+Name:	Botanic Garden, Delft University of Technology 
+Current Applied Research Programs:	
+Current Other Research:	
+Fax:	+31 15 2782355
+Gate:	Poortlandplein 6
+Info:	  Netherlands - Delft  ;Garden Information;  Institution Code: DELF; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	Botanischetuin@TUDelft.nl
+Telephone:	+31 15 2782356/2789396
+Administration Staff Number:	1
+Curator's Name:	Dr. James W. Byng
+Director's Name:	Drs.ing. W.N.J. Ursem (Bob)
+Educational Staff Number:	2
+Horticultural Staff Number:	7
+Plant Records Officer's Name:	Dr. James W. Byng
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Annual Rainfall:	780 mm
+Date founded:	1917
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	51.9984
+Local Address:	Poortlandplein 6, 2628 BM Delft
+Locality:	Information
+Longitude:	4.3759
+Natural Vegetation Area:	No
+Total Area:	3 Hectares
+Total area of glasshouses:	710 Metres
+Total area of shadehouses:	300 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	43000
+Number of Volunteers:	45
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+*Families and genera that are part of the Dutch National Plant Collection, a national list of complementary special collections in botanic gardens. Other families and applied plants are part of the decentralized Dutch Plant Collection.Myristicaceae:	all species of wild origin and a complete as possible genetic set of M. fragrans Houtt.
+Accession Number:	6000
+Cannaceae:	1 genus, 8 species, 38 cultivars
+Cercidiphyllaceae*:	1 genus, 2 species, 1 cultivar
+Costaceae:	10 living type specimens, at least two endangered species
+Cultivation Taxa Num:	3507
+Eucommiaceae*:	1 genus, 1 species
+Genus Lavandula:	1 genus, 14 species, 23 Cultivars
+Hamamelidaceae:	15 genera,44 species,28 cultivars
+Heliconiaceae:	1 genus, 5 species, 3 cultivars
+Marantaceae:	16 genera, 96 species, 38 cultivars
+Menispermaceae:	6 genera, 13 species
+Musaceae:	4 genera, 34 species, 4 cultivars
+Myristicaceae*:	4 genera, 39 species, 60 cultivars
+Platanaceae*:	1 genus, 4 species, 6 cultivars
+Special Collections:	The collection focus is on useful plants.
+Strelitziaceae:	1 genus, 6 species
+Theaceae*:	7 genera, 23 species, 1 cultivar
+Thymelaeaceae:	1 genus, 16 species, 4 cultivars
+Zingiberaceae:	20 genera,104 species, 15 cultivars
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

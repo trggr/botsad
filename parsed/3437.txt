@@ -1,0 +1,76 @@
+ID:	3437
+Name:	Volgograd Regional Botanical Garden 
+Administration Staff Number:	3
+Curator's Name:	Pavel Semenov
+Director's Name:	Vlasov Eugene
+Educational Staff Number:	1
+Horticultural Staff Number:	9
+Info:	  Russian Federation - Volgograd  ;Garden Information;  Institution Code: VOLGO; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Volgograd Regional Botanical Garden; Set. Metallurgov, 68, l/b 23; Volgograd; 400007 Russian Federation; ;  Telephone: (8442) 27-39-37; Fax: (8442) 27-39-37; URL: <a target="_blank" href="http://volgarbs.ru/">http://volgarbs.ru/; Primary Email: vrbs@list.ru ; 
+Plant Records Officer's Name:	Kruglova Lubov
+Research Staff Number:	3
+Altitude:	10.00 Metres
+Annual Rainfall:	250 mm
+Date founded:	2003
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	48.7180
+Longitude:	44.5046
+Natural Vegetation Area:	No
+Total Area:	11 Hectares
+Total area of glasshouses:	14000 Metres
+Total area of shadehouses:	150000 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	5000
+Number of Volunteers:	2
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	30000
+Cultivation Taxa Num:	3700
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

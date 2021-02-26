@@ -1,0 +1,11 @@
+ID:	4512
+Name:	California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) - Seed Bank 
+Curator's Name:	Cheryl Birker, Seed Conservation Program Manager
+Director's Name:	Lucinda McDade, Executive Director
+Info:	  United States of America - California - Claremont  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) - Seed Bank; 1500 North College Avenue; Claremont; California 91711 United States of America; ;  Telephone: (909) 625-8767; Fax: (909) 626-7670; URL: <a target="_blank" href="http://www.rsabg.org">www.rsabg.org; Primary Email: cbirker@rsabg.org ; 
+Plant Records Officer's Name:	James Reed, Plant Records Manager
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	34.1093060
+Longitude:	-117.7149180
+Seed Bank:	Yes

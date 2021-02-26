@@ -1,0 +1,71 @@
+ID:	4418
+Name:	Rogerson Clematis Collection 
+Administration Staff Number:	1
+Curator's Name:	Linda Beutler, Curator
+Director's Name:	Sally Geist, President
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  United States of America - Oregon - West Linn  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Rogerson Clematis Collection The clematis collection is administered by the Friends of the Rogerson Clematis Collection, a 501(c)3 organization. Their mission is to preserve and enhance the collection, in part by establishing it in permanent display gardens, and making the collection available for educational and research purposed. We hope that our display gardens, featuring clematis grown with many types of companion plants, will become a destination not just for clematis enthusiasts, but for gardeners of all tastes and skill levels.;  Main Address:; Rogerson Clematis Collection; Luscher Farm; 125 Rosemont Road; West Linn; Oregon 97068 United States of America; ;  Telephone: (503) 869-1427; Fax: ; URL: <a target="_blank" href="http://www.rogersonclematiscollection.org">www.rogersonclematiscollection.org; Primary Email: info@rogersonclematiscollection.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1975
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	45.3923500
+Local Address:	125 Rosemont Road West Linn, OR 97068 USA
+Locality:	Information
+Longitude:	-122.6871810
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1500
+Number of Volunteers:	24
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	1541
+Cultivation Taxa Num:	695
+Conservation Programme:	No
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

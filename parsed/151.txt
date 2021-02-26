@@ -1,0 +1,55 @@
+ID:	151
+Name:	Ness Botanic Gardens (University of Liverpool) 
+Administration Staff Number:	8
+Curator's Name:	Nick Lightfoot
+Director's Name:	Matthew Clough
+Educational Staff Number:	3
+Horticultural Staff Number:	7
+Info:	  United Kingdom - Cheshire - Neston  ;Garden Information;  Institution Code: LIVU; International Agenda Registration: No; BGCI Member: Yes; About the Ness Botanic Gardens (University of Liverpool) Ness Botanic Gardens was born of one man's passionate interest in plants and his desire to share that interest with others.; ; When the Liverpool cotton merchant Arthur Kilpin Bulley began to create a garden in 1898, he laid the foundations of one of the major botanic gardens in the United Kingdom.; ; Expeditions to the Far East; ; Bulley was interested in introducing new plant species from abroad. As he believed that Himalayan and Chinese mountain plants could be established in Britain, he sponsored expeditions to the Far East employing the renowned British plant collectors George Forrest and Frank Kingdon Ward to prove his theory.; ; In this way Bulley was responsible for introducing hundreds of new plants to Britain. Two species introduced by Forrest, Rhododendron griersonianum and Camelia saluenensis, have both been used in hybridisation programmes resulting in many hybrids common in Britain today.; ; The beautiful blue Gentiana sino-ornata, in flower at Ness in the autumn, is another of his introductions, and the Pieris formosa 'Forrestii', which can be seen in all its glory on the Specimen Lawn in spring, was actually grown from seed collected by Forrest in China. Part of the Bulley's garden was devoted to the propagation of these plants, and it was here that many of the seeds from the Far East were first cultivated and where his plant and seed company, Bees Ltd, had its beginnings.; ; Presented to The University of Liverpool; ; After his death, Bulley's daughter Lois presented the Gardens to the University of Liverpool in 1948 with an endowment of £75,000. There is a stipulation that they be kept as a botanic gardens as a practical and fitting tribute to the memory of her father. Bulley's policy of opening a specified area of ornamental ground to the public was also to be continued.; ; These were not, however, the pre-war gardens which had, at times, maintained a staff of 48. In the war years only the elderly Josiah Hope and his assistant, Bill Cottrell were left to care for the Gardens and, when the University inherited them, the Gardens were in sore need of attention.; ; When Ken Hulme was appointed as Director in 1957, it presented him with both a challenge and an opportunity. Bulley who was interested in rare plants and massed flower displays but not, garden design had compartmentalised the Gardens, separating one area from another with Hawthorn hedges netted against rabbits. Ken Hulme envisaged a more naturalistic setting for the plants and spent the next three decades achieving his dream.; ; During this period the size of the ornamental gardens increased from 2.4 to 25 hectares (six to 64 acres) and superb collections of Rhododendrons, Azaleas, Camellias, Cherries and Heathers were established.; ; To the present; ; Today, the commitment to maintain and develop the beauty of the Gardens remains, but there is an increasing emphasis on research, conservation and education of the public - areas reflecting Bulley's original interests.; ; In addition, there has been an increased emphasis on educating schoolchildren.; ; On a larger scale, the Horsfall Rushby Visitor Centre opened in 2006, featuring a central courtyard area with reception, indoor cafe with outside seating area, shop, lecture theatre, conservatory and exhibition space.;  Main Address:; Ness Botanic Gardens (University of Liverpool); Ness; Neston; Cheshire CH64 4AY United Kingdom; ;  Telephone: 0151 795 6300; Fax: ; URL: <a target="_blank" href="http://www.nessgardens.org.uk">www.nessgardens.org.uk; Primary Email: nessgdns@liverpool.ac.uk ; 
+Plant Records Officer's Name:	Tim Baxter
+Research Staff Number:	1
+Altitude:	42.00 Metres
+Annual Rainfall:	726 mm
+Date founded:	1898
+Institution Type:	Botanic Garden
+Latitude:	53.2734
+Longitude:	-3.04252
+Total Area:	26 Hectares
+Total area of glasshouses:	270 Metres
+Arboretum:	Yes
+Arboretum Size:	10
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	70000
+Number of Volunteers:	160
+Open to public:	Yes
+Seed Bank:	No
+Accession Number:	8000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Special Collections:	Extensive collections of Sorbus, Betula, Alnus, Rhododendron, Camellia, Conifers and Spiraea.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Conservation - Genetics:	Yes
+Ecology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

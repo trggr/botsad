@@ -1,0 +1,10 @@
+ID:	3006
+Name:	Botanischer Garten der Stadt Chemnitz 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Chemnitz  ;Garden Information;  Institution Code: CHEM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Stadt Chemnitz; Garten-, Friedhofs- und Forstamt 67, Botanischer Garten, D-09114 CHEMNITZ; Chemnitz; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1955
+Institution Type:	Botanic Garden
+Latitude:	50.8694
+Longitude:	12.9140

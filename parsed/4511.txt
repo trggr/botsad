@@ -1,0 +1,15 @@
+ID:	4511
+Name:	Denver Botanic Gardens - Seed Bank 
+Curator's Name:	Jennifer Ramp Neale, Director of Research & Conservation
+Director's Name:	Brian Vogt, CEO
+Info:	  United States of America - Colorado - Denver  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Denver Botanic Gardens - Seed Bank; 909 York Street; Denver; Colorado 80206 United States of America; ;  Telephone: (720) 865-3562; Fax: ; URL: <a target="_blank" href="http://www.botanicgardens.org">www.botanicgardens.org; Primary Email: research@botanicgardens.org ; 
+Plant Records Officer's Name:	Cindy Newlander
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	39.7308150
+Longitude:	-104.9604080
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Special Collections:	Taxa native to Colorado, including threatened and endangered species that are a part of the Center for Plant Conservation's National Collection.

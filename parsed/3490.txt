@@ -1,0 +1,73 @@
+ID:	3490
+Name:	Foellinger-Freimann Botanical Conservatory 
+Administration Staff Number:	2
+Curator's Name:	Andy Force, Supervisor of Horticulture
+Director's Name:	Mitch Sheppard, Manager
+Educational Staff Number:	2
+Horticultural Staff Number:	4
+Info:	  United States of America - Indiana - Fort Wayne  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Foellinger-Freimann Botanical Conservatory Always in Season: Surround yourself with nature at the Foellinger-Freimann Botanical Conservatory ~ an oasis in the heart of downtown Fort Wayne Indiana. Visit the Showcase Garden with its lush seasonal displays, wander through the Tropical Garden where orchids and palms thrive in the shadows of a cascading waterfall, or retreat to the quiet beauty of the Desert Garden.;  Main Address:; Foellinger-Freimann Botanical Conservatory; 1100 S. Calhoun Street; Fort Wayne; Indiana 46802 United States of America; ;  Telephone: (260) 427-6440; Fax: (219) 427-6450; URL: <a target="_blank" href="http://www.botanicalconservatory.org">www.botanicalconservatory.org; Primary Email: ; 
+Plant Records Officer's Name:	Andy Force
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1983
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.0761830
+Longitude:	-85.1387960
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Total area of glasshouses:	2323 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	1200
+Cultivation Taxa Num:	2238
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Cacti, tropical plants, sub-tropical plants, temperate zone plants.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

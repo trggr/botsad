@@ -1,0 +1,44 @@
+ID:	377
+Name:	Botanic Garden "Botania" 
+Fax:	
+Info:	  Finland - Joensuu  ;Garden Information;  Institution Code: JOENS; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	toimisto@botania.fi
+Telephone:	+358505629482
+Administration Staff Number:	1
+Curator's Name:	Vilma Lehtovaara
+Director's Name:	Yrjö Vähäkallio
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Sari Meriläinen
+Research Staff Number:	
+Altitude:	80.00 Metres
+Annual Rainfall:	600 mm
+Date founded:	1985
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	62.6000
+Local Address:	Heinäpurontie 70, 80110
+Locality:	Information
+Longitude:	29.7166
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	- Joensuu Arboretum
+Total Area:	4 Hectares
+Total area of glasshouses:	570 Metres
+Arboretum:	Yes
+Arboretum Size:	73
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	20000
+Open to public:	Yes
+Accession Number:	1500
+Cultivation Taxa Num:	1000
+Special Collections:	native plants, plants used for university teaching and research
+Restoration Ecology:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

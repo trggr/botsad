@@ -1,0 +1,27 @@
+ID:	4862
+Name:	Giardino Botanico Alpino Saussurea 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Dr. Isabella Vanacore Falco
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Info:	  Italy - Courmayuer  ;Garden Information;  Institution Code: Aosta; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Botanico Alpino Saussurea; Loc. Pavillon du Mont Fréty; Courmayuer; 11013 Italy; ;  Telephone: +39 333 446 2959; Fax: ; URL: <a target="_blank" href="http://www.saussurea.net">www.saussurea.net; Primary Email: info@saussurea.net ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	2175.00 Metres
+Date founded:	1984
+Institution Type:	Botanic Garden
+Latitude:	45.81602
+Local Address:	Loc. Pavillon du Mont Fréty
+Locality:	Information
+Longitude:	6.96158
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Plant Breeding:	No

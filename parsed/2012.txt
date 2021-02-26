@@ -1,0 +1,34 @@
+ID:	2012
+Name:	Conservatoire Botanique National de Mascarin 
+Administration Staff Number:	3
+Curator's Name:	
+Director's Name:	D. Lucas
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  Reunion - Saint Leu  ;Garden Information;  Institution Code: MASC; International Agenda Registration: No; BGCI Member: No; About the Conservatoire Botanique National de Mascarin Location: SAINT LEU; Founded: 1987 ; Garden Name: Conservatoire et Jardin Botanique de Mascarin; Address: Domaine des Colimacons, F-97436 SAINT LEU, Ile de la Reunion, Indian Ocean.; Status: State (Island government); Herbarium: Yes.; Ex situ Collections:;  Main Address:; Conservatoire Botanique National de Mascarin; 2 Rue du Pere Georges; Colimacons; Saint Leu; 97436 Reunion; ;  Telephone: +262 262 24 92 27; Fax: +262 262 24 85 63; URL: <a target="_blank" href="http://flore.cbnm.org/">flore.cbnm.org/; Primary Email: cbnm@cbnm.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	500.00 Metres
+Date founded:	1987
+Institution Type:	Botanic Garden
+Latitude:	-21.2240
+Longitude:	55.3361
+Total Area:	12 Hectares
+Herbarium:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Special Collections:	An extensive collections of nativ plants from the island. Native plants from the Mascarene islands, including Mauritius and Rodrigues and from other islands in the Indian Ocean.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Exploration:	Yes
+Plant Breeding:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Courses for General Public:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

@@ -1,0 +1,13 @@
+ID:	4981
+Name:	Northern Territory Seed Bank - Alice Springs 
+Curator's Name:	Alice Quarmby, Seed Bank Curator
+Director's Name:	-
+Info:	  Australia - Northern Territory - Alice Springs  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Northern Territory Seed Bank - Alice Springs; Dept. of Natural Resources, Environment the Arts and Sport; Larapinta Drive; Alice Springs; Northern Territory 0871 Australia; ;  Telephone: 61 (08) 8951 8788; Fax: 61 (08) 8951 8720; URL: <a target="_blank" href="http://www.alicespringsdesertpark.com.au">http://www.alicespringsdesertpark.com.au; Primary Email: asdp@nt.gov.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	-23.706456
+Longitude:	133.83236
+Seed Bank:	Yes
+Cultivation Taxa Num:	700
+Conservation Programme:	Yes

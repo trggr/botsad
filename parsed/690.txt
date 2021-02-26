@@ -1,0 +1,16 @@
+ID:	690
+Name:	Core Arboretum 
+Curator's Name:	Jonathan Weems
+Director's Name:	Jonathan R. Weems, Arboretum Specialist
+Info:	  United States of America - West Virginia - Morgantown  ;Garden Information;  Institution Code: WVA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Core Arboretum; Department of Biology, West Virginia University; P.O. Box 6057; Morgantown; West Virginia 26506-6057 United States of America; ;  Telephone: (304) 293-5201 x 31547; Fax: (304) 293-6363; URL: <a target="_blank" href="http://www.as.wvu.edu/biology/facility/arboretum.html">www.as.wvu.edu/biology/facility/arboretum.html; Primary Email: jweems@wvu.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	39.6425700
+Longitude:	-79.9699100
+Natural Vegetation Area:	Yes
+Total Area:	37 Hectares
+Arboretum:	Yes
+Arboretum Size:	37
+Open to public:	Yes
+Special Collections:	Wild flowers, shrubs and trees native to West Virginia.

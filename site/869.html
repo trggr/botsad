@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: 200px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>Wuhan Botanic Garden</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=869"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>China - Hubei - Wuchang</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+																				</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> WUCHB</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: Yes</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: Yes</p>
+							
+														
+														<div class="garden-photo">
+								<img src="/photos/869/wuhan.gif" alt="" />
+								<div></div>
+							</div>
+											
+														<h2>About the Wuhan Botanic Garden</h2>
+							<p><b>一、概况</b><p><br />
+<a href="http://www.whiob.ac.cn/">中国科学院武汉植物园</a>位于武昌东湖磨山，她是中国科学院根据我国气候区划和植物区系特点，在华中地区设立的国家战略性植物资源保存基地与综合性植物学研究机构。其研究重点是我国内陆水体的水生植物和华中地区的资源植物。现设有华中地区资源植物研究所、植物保育遗传学重点实验室、水生生物学重点实验室、植物分类与生态学研究室、 植物保护与园艺中心、科普教育中心等机构。全园现有职工245人，其中科技人员180余人，研究员20人、副研究员30余人、以及一批入选国家百千万人才工程和中国科学院“百人计划”的优秀中青年科技骨干。该园还设有植物学、生态学两个学科博士学位授予点和植物学、生态学两个学科的硕士学位授予点，在读博士和硕士研究生120余人。<p><br />
+武汉植物园占地面积约1000亩，建有20多个各具特色的植物专类园区和园林景区，共迁地保育植物7500余种，其中包括国家重点保护的特有珍稀植物300多种；收藏蜡叶标25余万号。该园已经成为独具特色的、在国内外具有重要学术影响的国家核心植物园，并稳步朝着国际一流植物园迈进，在我国、亚洲乃至全球植物园事务中日益发挥着重要的骨干和引领作用。<p><br />
+<b>二、科学研究</b><p><br />
+中国科学院武汉植物园始建于1956年，其前身是中国科学院武汉植物研究所，2003年，中国科学院按照国际惯例，将其再次更名为中国科学院武汉植物园。50多年来，该园针对我国内陆水体的生态环境和水生植物分布特点、针对华中地区植物区系特点，开展水生植物生物学、植物保育遗传学、植物分类学、植物生态学、植物资源学等研究， 重点围绕解决植物华中地区资源保护和开发利用，水生植物植被恢复与水环境改善，两湖平原农林复合高效生态模式，长江三峡工程生态恢复等重大科学问题。先后承担一批国家“973”子课题、国家“863”项目、国家重大科技攻关项目、中国科学院重大项目及省部级项目500余项；取得了151项科技成果。其中“中国亚热带东部丘陵山区自然资源合理利用与治理途径”、“三峡工程对库区珍稀植物的影响及对策研究”、“黄淮海平原中低产地区综合治理和综合发展”、 “猕猴桃属植植物遗传评价、种质基因库建立”等75项获奖，包括获国家级奖励14项，中国科学院奖励21项，省部级奖32项；在《Science》（科学）、《美国植物学报》、《系统植物学》等国际著名期刊上发表近100篇有重要学术价值论文，先后编著出版了《中国植物志》第34卷、《中国水生维管束植物图谱》、《中国莲》、《水生植被研究理论与方法》、《湖北植物志》和《神农架植物》等73部具有重要学术价值的专著或译著。为我国区域植物资源保护与开发利用、生态环境建设、国民经济建设与社会可持续发展做出了重大贡献。该园已经我国基础植物科学研究的重要创新基地和国家战略性植物资源储备基地。<p><br />
+<b>三、物种保护和专类园建设</b><p><br />
+该园作为国家战略性植物资源的重要储备库之一，为加强物种的有效保护、提高国家生物安全和植物资源的可持续利用，开展了以华中地区植物区系保育为主，兼顾东亚地区的植物资源收集保存和资源储备等工作，迁地保护植物种类达到7500种，包括一批特有植物、珍稀植物、重要经济植物和具有产业化开发前景的资源植物；形成了以体现现代高科技保育功能的从DNA片段、植物化学资源、组织器官到物种等不同层次的植物多样性种质综合保育体保存15000份战略性植物资源。<p><br />
+武汉植物园建成了具有亚热带区域特色和华中地区资源特色的专类植物园10多个，其中古老孑遗和珍稀特有植物专类园、水生植物群落与种质资源保育区、药用植物专类园、野生林特果专类园占有重要位置。<p><br />
+古老孑遗和珍稀特有植物专类园 由三峡特有珍稀植物保存区、华中珍稀植物展示区、中国特有植物生态保育区、古老孑遗珍稀特有植物保存区等组成，收集并保育列入《国家重点保护的野生植物名录》的特有珍稀植物、古老孑遗植物331种。突出保存和集中展示了对华中地区的古老孑遗和珍稀特有植物、国家及省级重点保护野生植物的重要居群。<p><br />
+水生植物群落与种质资源保育区为东亚最大的水生植物种质资源库，保存物种350余种、荷花品种408个，睡莲品种100余个，其中保存的荷花、睡莲品种居全国第一，并涵盖了如中华水韭、水蕨、水禾、莼菜、野菱、海菜花、野生稻、毛茛泽泻等各种珍稀濒危水生植物种类。<p><br />
+野生林特果专类园建有猕猴桃园、野生藤本果树区、核果类区、仁果类区、亚热带常绿果树区、干果类区、悬钩子类区、小杂果类区、品种改良区等9个区，保存有蔷薇科、猕猴桃科、芸香科、葡萄科、壳斗科、鼠李科、胡桃科、榛科、桑科、木通科、杨梅科等20余科30余属400余种野生果树资源。其中包括：栓叶猕猴桃，特有植物有红坪杏、短萼樱、毛萼红果树、红河大翼叶橙、酒瓶勒、园果猕猴桃濒危物种和栽培果树的野生近缘种等。其中猕猴桃园成为世界上物种涵盖量最大、遗传资源最丰富的种质资源库。<p><br />
+药用植物专类园建有岩石药用植物保育区、荫生药用植物保育区、热带和亚热带药用植物保育区、物种综合保育区、繁殖驯化区等6个区。通过引种，使本专类园的药用植物从原来的800余种，增加到现在的1500余种。其中收集淫羊霍54个物种，500余株，较为完整的保存了世界上所有淫羊霍遗传资源。很好地体现了该园的资源特色与科研学科优势.<p><br />
+<b>四、资源研发</b><p><br />
+武汉植物园在加强物种保护的同时，积极开展植物科技创新和植物资源的可持续利用。共培育经济植物、园林植物、和观赏植物新品种50个、开发授权专利40余项，猕猴桃及莲藕品种选育、植物无土栽培、无公害植物农药、药用植物GAP研究、新药开发等一大批科研成果在华中地区各省乃至全国得到推广应用，产生数以亿计的巨大经济效益和社会效益，有力的促进了国民经济建设和社会的可持续发展。<p><br />
+在猕猴桃遗传资源研究和新品种研发方面，该园处于国际领先地位，他们选育了 “金桃”、“金霞”系列新品种成为国际猕猴桃产业升级换代的主导品种， “金桃”和“磨山四号”品种成功实现繁殖权的国际专利转让，合同转让金额逾1000欧元。为中国农作物品种自主知识产权的国际转让开辟了新的途径。<p><br />
+<b>四、科学普及与知识传播</b><p><br />
+在知识传播和科学普及方面，该园利用丰富的植物科学知识内涵、独具特色的园林景观和占地面积2000 M ² 、集声光电一体的科普活动中心等科普设施，形成了具有明显特色的知识传播和科普教育体系。常年开展融趣味性、知识性、娱乐性和参与性于一体的特色科普活动，社会效益十分显著，每年接待中小学生和社会公众约50万人次，为提高公众的科技意识、环境素质和可持续发展观念发挥了重要作用。因此，该园先后被授予“国家科普教育基地”、“全国青少年科技教育基地”、“国家AAAA级旅游景点”，以及湖北省和武汉市科普教育基地、爱国主义教育基地、环境教育基地、旅游定点单位等称号；并评为“全国科普先进集体”、“中国科学院科普先进集体”、“全国青年文明号”、“湖北省最佳生态博览景区”。<p><br />
+<b>五、国际合作</b><p><br />
+在国际合作方面，该园已与美国、英国、加拿大、新西兰、丹麦等10多个国家和地区建立了学术交流、人员往来和科技协作机制；同植物园保护国际（BGCI）、美国Missouri植物园、英国Kew植物园等国际机构和国际一流植物园建立了长期稳定的合作关系。通过主办举办了“第五届国际猕猴桃研讨会”、“中国生物多样性保护国际论坛”、“植物濒危机制和保育原理国际研讨会”、“淡水生境水生植物生物学国际会议”等国际学术会议，与20多个国家与地区的专家学者进行了学科前沿的探讨和交流。<p><br />
+2007年4月，武汉植物园作为东道主，成功主办了<a href="http://www.3gbgc.com/">第三届世界植物园大会</a>，来自世界上80多个国家300个植物园近1000名植物学家、园艺学家参加了会议，这是中国乃至亚洲国家第一次举行植物园界高规格的国际盛会。武汉植物园以其优美的园林景观、丰富的植物物种和在植物保护生物学研究方面所取得的学术成就，引得了国际同行的赞誉，极大地提高了武汉植物园在国际植物园界的影响。</p>
+														<p>
+								<b>Main Address:</b><br />
+								Wuhan Botanic Garden<br />
+								Wuhan Institute of Botany, Chinese Academy of Sciences<br />								Moshan, Donghu Lake, Hongshan, Wuchang<br />								Wuchang<br />								Hubei 430074 China<br />
+							</p>
+							<p>
+								<b>Telephone:</b> (86-27) 87510232; 87510815<br />
+								<b>Fax:</b> (86-27) 87510271<br />
+								<b>URL:</b> <a target="_blank" href="http://english.scib.cas.cn/">http://english.scib.cas.cn/</a><br />
+								<b>Primary Email:</b> 							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: Huang Hongwen<br />
+										Curator's Name: <br />
+										Plant Records Officer's Name: <br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: <br />
+										Educational Staff Number: <br />
+										Research Staff Number: 180<br />
+										Administration Staff Number: 									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+										Status: Private: No<br />										Status: State: Yes<br />										Status: Educational: Yes<br />										Status: Municipal: Yes<br />																													</li>
+															
+																		<li>Date founded: 1956</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+															
+																		<li>
+										Landscaped Area: Yes<br />										Landscaped Area: Size: 67 Hectares<br />									</li>
+															
+									<li>
+										Total Area: 67 Hectares<br />										Latitude: 44.9158<br />										Longitude: 127.1535<br />																				Altitude: 0.00 Metres<br />																													</li>
+									
+															
+																		<li><b>Locality: Information</b></li>
+									<li>Locality: Garden Name: 武汉植物园</li>
+									<li>Local Address: 中国湖北省武昌洪山东湖磨山东侧中科院武汉植物研究所，邮编 430074</li>
+									<li>Locality: City: 武昌</li>
+									<li>Locality: State: 湖北</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+										Herbarium: Yes<br />										Herbarium: Number of Specimens: 250000<br />										Arboretum: Yes<br />																			</li>
+															
+																		<li>
+										Micropropagation/ Tissue Culture Facilities: Yes<br />										Seed Bank: Yes<br />										Published Plant Catalogue: Yes<br />										Computer Plant Record System: Yes<br />									</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: Yes<br />																																							</li>
+															
+																		<li>
+										Number of Visitors: 400000<br />										Number of  Volunteers: 93<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 15000<br />										Cultivation Taxa Num: 7500<br />									</li>
+															
+																
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: Yes<br />										Medicinal Plant Programme: Yes<br />										Ex Situ Conservation Programme: Yes<br />										Reintroduction Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+										Biotechnology: Yes<br />										Plant Breeding: Yes<br />										Conservation - Biology: Yes<br />										Conservation - Genetics: Yes<br />										Data Management Systems and Information Technology: Yes<br />										Ecology: Yes<br />										Ecosystem Conservation: Yes<br />										Education: Yes<br />										Ethnobotany: Yes<br />										Exploration: Yes<br />										Floristics: Yes<br />										Horticulture: Yes<br />										Invasive Species Biology and Control: Yes<br />																				Pollination Biology: Yes<br />										Restoration Ecology: Yes<br />										Seed/Spore Biology: Yes<br />										Systematics and Taxonomy: Yes<br />										Sustainability: Yes<br />																				Agriculture: Yes<br />																													</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: Yes<br />										Education Booklets/Leaflets: Yes<br />										Guided Tours: Yes<br />										Permanent Public Displays: Yes<br />										Special Exhibitions: Yes<br />										Courses for School Children: Yes<br />																				Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+				﻿<!-- Related news section -->
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+ID:	2410
+Name:	Arboretum at the University of California, Santa Cruz 
+Curator's Name:	Brett Hall, California Native Plant Program Director
+Director's Name:	Martin Quigley, Executive Director
+Info:	  United States of America - California - Santa Cruz  ;Garden Information;  Institution Code: SACRZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum at the University of California, Santa Cruz; University of California; 1156 High Street; Santa Cruz; California 95064 United States of America; ;  Telephone: (831) 427-2998; Fax: (831) 427-1524; URL: <a target="_blank" href="http://arboretum.ucsc.edu/">http://arboretum.ucsc.edu/; Primary Email: arboretum@cats.ucsc.edu ; 
+Plant Records Officer's Name:	Samantha Spurlin, Plant Inventory Specialist
+Altitude:	0.00 Metres
+Date founded:	1964
+Institution Type:	Botanic Garden
+Latitude:	36.9775000
+Longitude:	-122.0534422
+Arboretum:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Seed Bank:	Yes

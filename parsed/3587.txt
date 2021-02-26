@@ -1,0 +1,12 @@
+ID:	3587
+Name:	Zhejiang Ecological Botanical Garden 
+Curator's Name:	
+Director's Name:	-
+Info:	  China - Zhejiang - Linan  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Zhejiang Ecological Botanical Garden; Zhejiang Forestry College; Linan; Zhejiang 311300 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	30.235334
+Local Address:	中国浙江省临安浙江林学院，邮编 311300
+Locality:	Information
+Longitude:	119.728727

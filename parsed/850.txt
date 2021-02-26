@@ -1,0 +1,77 @@
+ID:	850
+Name:	Andromeda Botanic Gardens 
+Fax:	
+Info:	  Barbados - St Joseph  ;Garden Information;  Institution Code: ANDRM; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	info@andromedabarbados.com
+Telephone:	1 246 433 9384
+Administration Staff Number:	2
+Curator's Name:	Ms Sharon Cooke
+Director's Name:	Ms Sharon Cooke
+Educational Staff Number:	3
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Sharon Cooke
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1954
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	13.2023
+Longitude:	-59.5267
+Natural Vegetation Area:	No
+Total Area:	3 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	10000
+Number of Volunteers:	1
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	550
+Cultivation Taxa Num:	550
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	We are currently in the process identifying and counting our plant collections.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

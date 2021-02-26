@@ -1,0 +1,23 @@
+ID:	4264
+Name:	Hilltop Arboretum 
+Curator's Name:	Paul Orr, Site Manager
+Director's Name:	Peggy Davis Coates, Executive Director
+Info:	  United States of America - Louisiana - Baton Rouge  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Hilltop Arboretum The mission of LSU Hilltop Arboretum is to provide a sanctuary where students and visitors can learn about natural systems, plants, and landscape design.;  Main Address:; Hilltop Arboretum; Louisiana State University; 11855 Highland Road; Baton Rouge; Louisiana 70810 United States of America; ;  Telephone: (225) 767-6916; Fax: (225) 768-7740; URL: <a target="_blank" href="http://www.lsu.edu/hilltop">www.lsu.edu/hilltop; Primary Email: hilltop@tigers.lsu.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1981
+Institution Type:	Botanic Garden
+Latitude:	30.3553010
+Longitude:	-91.0949400
+Total Area:	6 Hectares
+Arboretum:	Yes
+Arboretum Size:	6
+Herbarium:	Yes
+Open to public:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

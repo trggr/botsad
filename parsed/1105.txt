@@ -1,0 +1,41 @@
+ID:	1105
+Name:	Von Gimborn Arboretum 
+Fax:	
+Info:	  Netherlands - Doorn  ;Garden Information;  Institution Code: VGA; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	info@gimbornarboretum.nl
+Telephone:	31 343412144 (office)
+Administration Staff Number:	1
+Curator's Name:	Wilbert Hetterscheid
+Director's Name:	Wilbert Hetterscheid, Garden Director
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	Theo Damen
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1924
+Institution Type:	Botanic Garden
+Latitude:	52.0333
+Longitude:	5.3457
+Arboretum:	Yes
+Arboretum Size:	27
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Accession Number:	10000
+Cultivation Taxa Num:	3000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

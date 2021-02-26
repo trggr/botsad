@@ -1,0 +1,11 @@
+ID:	5123
+Name:	Orto Botanico di Perugia- Seed Bank 
+Curator's Name:	
+Director's Name:	Bruno Romano
+Info:	  Italy - Perugia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico di Perugia- Seed Bank; Universita degli Studi di Perugia, Borgo XX Giugno, 74,; Perugia; I-06121 Italy; ;  Telephone: +39 (0)75 58 56073; Fax: +39 (0)75 58 56432; URL: <a target="_blank" href="http://www.ortobotanicoitalia.it/umbria/perugia/">http://www.ortobotanicoitalia.it/umbria/perugia/; Primary Email: ortbot@unipg.it ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	43.1107
+Longitude:	12.3891
+Seed Bank:	Yes

@@ -1,0 +1,75 @@
+ID:	4276
+Name:	Jensen-Olson Arboretum 
+Fax:	(907) 364-2888
+Info:	  United States of America - Alaska - Juneau  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; 
+Primary Email:	merrill.jensen@juneau.org
+Telephone:	(907) 789-0139
+Administration Staff Number:	1
+Curator's Name:	Merrill Jensen
+Director's Name:	Merrill Jensen, Arboretum Manager
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	7.62 Metres
+Annual Rainfall:	1524 mm
+Date founded:	2007
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	58.4791580
+Longitude:	-134.7792430
+Natural Vegetation Area:	Yes
+Total Area:	6 Hectares
+Total area of glasshouses:	9 Metres
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	5500
+Number of Volunteers:	15
+Open to public:	Yes
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	800
+Cultivation Taxa Num:	75
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Currently in the process of up-dating 2011 acquisitions, hence the 800+ number of accessions. Date Base will be edited in January '12. In the application process for NAPCC collection of the genus Primula.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

@@ -1,0 +1,41 @@
+ID:	629
+Name:	Donald E. Davis Arboretum 
+Administration Staff Number:	1
+Curator's Name:	Patrick Thompson
+Director's Name:	Morgan Beadles
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - Alabama - Auburn  ;Garden Information;  Institution Code: AUA; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Donald E. Davis Arboretum The Davis Arboretum is an Auburn University facility dedicated to the display of native woody plants of the Southeastern United States. It is a teaching resource for the University as well as the region. In addition to displaying native plants, it is our goal to promote ecological education through the study and observation of plants and their natural habitats.; ; Our mission is to promote the understanding of, and appreciation for, the natural world, emphasizing native southeastern plants and other associated organisms.;  Main Address:; Donald E. Davis Arboretum; Auburn University; 101 Rouse Life Science Building; Auburn; Alabama 36849 United States of America; ;  Telephone: (334) 844-5700; Fax: (334) 844-1656; URL: <a target="_blank" href="http://www.auburn.edu/cosam/arboretum/">http://www.auburn.edu/cosam/arboretum/; Primary Email: arbinfo@auburn.edu ; 
+Plant Records Officer's Name:	Patrick Thompson
+Research Staff Number:	
+Altitude:	270.00 Metres
+Annual Rainfall:	1428 mm
+Date founded:	1963
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	32.5963208
+Longitude:	-85.4817256
+Natural Vegetation Area:	No
+Total Area:	6 Hectares
+Arboretum:	Yes
+Arboretum Size:	6
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Number of Visitors:	5000
+Number of Volunteers:	50
+Open to public:	Yes
+Accession Number:	2510
+Cultivation Taxa Num:	860
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Native Alabama species, with good representations of Quercus, Rhododendron, Vaccinium, Ilex, Trillium, and Sarracenia
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Courses for University/College Students:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes

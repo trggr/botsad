@@ -1,0 +1,28 @@
+ID:	518
+Name:	Setsunan University Medicinal Plants Garden Faculty of Pharmaceutical Sciences 
+Administration Staff Number:	
+Curator's Name:	Yu Ito
+Director's Name:	Professor Dr. Takeyuki Kono
+Educational Staff Number:	2
+Horticultural Staff Number:	2
+Info:	  Japan - Osaka - Hirakata  ;Garden Information;  Institution Code: OSUM; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Setsunan University Medicinal Plants Garden Faculty of Pharmaceutical Sciences; Faculty of Pharmaceutical Sciences, Setsunan University; 45-1, Nagaotoge-cho; Hirakata; Osaka 573-0101 Japan; ;  Telephone: +81-72-866-3114; Fax: +81-72-866-3114; URL: <a target="_blank" href="http://www.setsunan.ac.jp/~p-yakuso/index.html">http://www.setsunan.ac.jp/~p-yakuso/index.html; Primary Email: p-yakuso@pharm.setsunan.ac.jp ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1974
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	34.7133
+Longitude:	135.3092
+Natural Vegetation Area:	No
+Herbarium:	No
+Special Collections:	Medicinal plants.
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Conservation - Genetics:	Yes
+Education:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	Yes
+Courses for University/College Students:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

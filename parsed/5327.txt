@@ -1,0 +1,9 @@
+ID:	5327
+Name:	The Ohio State University Biological Sciences Greenhouse 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - Ohio - Colombus  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Ohio State University Biological Sciences Greenhouse; Biological Sciences Greenhouse; 332 W. 12th Avenue; Colombus; Ohio 43210 United States of America; ;  Telephone: 614-688-5593; Fax: ; URL: <a target="_blank" href="https://bioscigreenhouse.osu.edu/">https://bioscigreenhouse.osu.edu/; Primary Email: bioscigreenhouse@osu.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	39.996625
+Longitude:	-83.017435

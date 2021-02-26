@@ -1,0 +1,27 @@
+ID:	788
+Name:	Jardín Agrobotánico de Santa Catalina 
+Curator's Name:	Dra. Marta Astiz Gasso
+Director's Name:	Dra. Mónica Aulicino
+Info:	  Argentina - Buenos Aires - Llavallol  ;Garden Information;  Institution Code: SACAT; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Agrobotánico de Santa Catalina; Instituto Fitotecnico de Santa Catalina; Universidad Nacional de La Plata, Garibaldi 3400; Llavallol; Buenos Aires 1836 Argentina; ;  Telephone: 54-(0) 11-4282-0233; Fax: 54-(0) 11-4282-0233; URL: <a target="_blank" href="http://www.agro.unlp.edu.ar">www.agro.unlp.edu.ar; Primary Email: institutofitotecnico@yahoo.com.ar ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-34.80004
+Local Address:	
+Locality:	Information
+Longitude:	-58.41918
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Special Collections:	No information available.
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Conservation - Genetics:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Pollination Biology:	Yes
+Seed/Spore Biology:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Permanent Public Displays:	Yes
+Visitor/Education Centre:	Yes

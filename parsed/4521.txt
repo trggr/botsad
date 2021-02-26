@@ -1,0 +1,25 @@
+ID:	4521
+Name:	Native Plant Trust - seed bank 
+Curator's Name:	NEPCoP/Seed Bank Coordinator
+Director's Name:	Michael R. Piantedosi, Director of Conservation
+Info:	  United States of America - Massachusetts - Framingham  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Native Plant Trust - seed bank; 180 Hemenway Road; Framingham; Massachusetts 01701-2699 United States of America; ;  Telephone: (508) 877-7630; Fax: (508) 877-3658; URL: <a target="_blank" href="http://www.nativeplanttrust.org">http://www.nativeplanttrust.org; Primary Email: conservation@NativePlantTrust.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1984
+Institution Type:	Gene/Seed Bank
+Latitude:	42.3409960
+Longitude:	-71.4275150
+Arboretum:	No
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	Yes
+Invasive Species Policy:	Yes
+Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Courses for General Public:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

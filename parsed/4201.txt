@@ -1,0 +1,9 @@
+ID:	4201
+Name:	Medicinal Plant Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Japan - Hyogo - Kobe-City  ;Garden Information;  Institution Code: KOBE; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Medicinal Plant Garden; Kobe Pharmaceutical University; Motoyamakita-Machi, higashinagda-ku; Kobe-City; Hyogo 658-8558 Japan; ;  Telephone: 078-441-7514; Fax: 078-441-7514; URL: <a target="_blank" href="http://www.kobepharma-u.ac.jp/~yakusyok/">www.kobepharma-u.ac.jp/~yakusyok/; Primary Email: yakusyok@kobepharma-u.ac.jp ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	33.4812
+Longitude:	131.3866

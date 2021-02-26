@@ -1,0 +1,10 @@
+ID:	844
+Name:	University of Jyväskylä Botanic Garden 
+Curator's Name:	
+Director's Name:	Veli Saari
+Info:	  Finland - Jyväskylä  ;Garden Information;  Institution Code: JYV; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Jyväskylä Botanic Garden; P.O. Box 35, FI-40351 Jyväskylä, Finland.; Jyväskylä; FI-40351 Finland; ;  Telephone: 358-41-601211; Fax: 358-41-601201; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	62.2403
+Longitude:	25.7426

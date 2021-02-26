@@ -1,0 +1,10 @@
+ID:	3011
+Name:	Botanischer Sondergarten 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Hamburg  ;Garden Information;  Institution Code: SHAM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Sondergarten; Walddoerferstrasse 273, D-22047 HAMBURG; Hamburg; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	53.5895
+Longitude:	10.0991

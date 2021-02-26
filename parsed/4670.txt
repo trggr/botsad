@@ -1,0 +1,9 @@
+ID:	4670
+Name:	Detroit Zoological Park 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  United States of America - Michigan - Royal Oak  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Detroit Zoological Park; 8450 West 10 Mile Road; Royal Oak; Michigan 48067 United States of America; ;  Telephone: (248) 398-0900; Fax: ; URL: <a target="_blank" href="http://www.detroitzoo.org">www.detroitzoo.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	42.4757543
+Longitude:	-83.1494620

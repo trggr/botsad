@@ -1,0 +1,10 @@
+ID:	1040
+Name:	Stredni Zemedelska Technicka Skola 
+Curator's Name:	
+Director's Name:	
+Info:	  Czech Republic - Decin-libverda  ;Garden Information;  Institution Code: ZEMED; International Agenda Registration: No; BGCI Member: No;  Main Address:; Stredni Zemedelska Technicka Skola; Botanicka Zahrada, 40501 DECIN-LIBVERDA, Czech Republic.; Decin-libverda; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	50.7817
+Longitude:	14.2145

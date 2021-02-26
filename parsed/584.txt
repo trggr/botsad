@@ -1,0 +1,75 @@
+ID:	584
+Name:	Stellenbosch University Botanical Garden 
+Fax:	+27 21 808 9504
+Info:	  South Africa - Western Cape - Stellenbosch  ;Garden Information;  Institution Code: STE-U; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	subg@sun.ac.za
+Telephone:	+27 21 808 3054
+Administration Staff Number:	1
+Curator's Name:	Dr Donovan Kirkwood
+Director's Name:	Mr Hein Swanepoel
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	120.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1922
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-33.936164
+Local Address:	
+Locality:	Information
+Longitude:	18.864453
+Natural Vegetation Area:	No
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	11
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

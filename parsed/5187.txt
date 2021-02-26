@@ -1,0 +1,15 @@
+ID:	5187
+Name:	Jardín Botánico Nacional Simón Bolívar 
+Administration Staff Number:	2
+Curator's Name:	Fernando Cabezas
+Director's Name:	Yolanda Matamoros
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  Costa Rica - San José  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Jardín Botánico Nacional Simón Bolívar; Calle 13; San José; 1000 Costa Rica; ;  Telephone: (506) 22336701; Fax: ; URL: <a target="_blank" href="http://fundazoo.org">fundazoo.org; Primary Email: info@fundazoo.org ; 
+Plant Records Officer's Name:	Jorge Rodríguez
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	9.9386739
+Longitude:	-84.074436
+Seed Bank:	Yes

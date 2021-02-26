@@ -1,0 +1,21 @@
+ID:	4609
+Name:	Florida Tech Botanical Garden 
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Holly Chichester, University Horticulturist/Manager of Grounds
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United States of America - Florida - Melbourne  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Florida Tech Botanical Garden A stream bordered by a shady hammock, abounding in palm trees and other tropical growth, winds through the heart of the campus and is the setting for a 15-acre Botanical Garden. The main trail has been named the Dent Smith Trail in honor of the founder of the Palm Society, a worldwide organization primarily engaged in the study of the palm family, in all its aspects. Florida Tech's Garden, through the intense interest of Founding President Emeritus Jerome P. Keuper and the inspiration and help of Mr. Dent Smith in the 1960's, has become one of the most unique campus botanical gardens of its kind in the continental United States.;  Main Address:; Florida Tech Botanical Garden; 150 W. University Blvd; Melbourne; Florida 32901 United States of America; ;  Telephone: (321) 674-8038; Fax: ; URL: <a target="_blank" href="https://www.fit.edu/garden/">https://www.fit.edu/garden/; Primary Email: garden@fit.edu ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1968
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	28.0600848
+Longitude:	-80.6244242
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Open to public:	Yes
+Education Booklets/Leaflets:	Yes
+Guided Tours:	Yes

@@ -1,0 +1,27 @@
+ID:	530
+Name:	Argotti Botanic Gardens & Resource Centre 
+Administration Staff Number:	3
+Curator's Name:	Tony Meli
+Director's Name:	Tony Meli
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Malta - Floriana  ;Garden Information;  Institution Code: ARG; International Agenda Registration: Yes; BGCI Member: Yes; About the Argotti Botanic Gardens & Resource Centre The inner section of the Argotti Botanic Gardens is administered by the University of Malta. The gardens are set in the historical fortifications of Floriana and their origin dates back to the 18th century Knights period but became formally associated with the University of Malta in 1805.; ; The roles of the Argotti Botanic Gardens include that of maintaining indigenous and exotic collections of plants mainly adapted to Mediterranean-type biseasonal climate as well as cacti and succulents. It is also involved in collecting, preserving and cataloguing specimens for the herbarium and seeds for the seed bank. The gardens are also involved in conservation projects, focusing on the propagation of rare and endangered species including a number of endemics. One long term conservation project concentrates on the Maltese National tree, Tetraclinis articulata. Several undergraduate and postgraduate research projects are undertaken on a yearly basis, which focus on different aspects of plant biology including: the study of phytochemical components and their bioactivity against cancer cells and microbes; microbial dynamics in compost; phytochemical profiles and karyotypes of related plant species and in vitro propagation of rare Maltese plant species.; ; Additionally the gardens often serve as an open classroom for school children of all ages who attend guided tours customised to the students’ age level and often include hands-on activities. For the older secondary classes the tours are ecology, biology or geography oriented. The gardens are also periodically open to the general public for guided tours and surplus plant sales.;  Main Address:; Argotti Botanic Gardens & Resource Centre; Argotti Botanic Gardens; Triq Vincenzo Bugeja; Floriana; FRN 1553 Malta; ;  Telephone: 0035621248984; Fax: ; URL: <a target="_blank" href="http://www.um.edu.mt/argotti">www.um.edu.mt/argotti; Primary Email: argottigardens@um.edu.mt ; 
+Plant Records Officer's Name:	Christian Borg
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1805
+Institution Type:	Botanic Garden
+Latitude:	35.8962
+Local Address:	
+Locality:	Information
+Longitude:	14.4820
+Number of Visitors:	2500
+Number of Volunteers:	11
+Open to public:	Yes
+Special Collections:	Exotic flora, Maltese flora, cacti, succulents. Seed list produced regularly.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Pharmacology:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes

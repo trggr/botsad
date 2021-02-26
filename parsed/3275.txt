@@ -1,0 +1,10 @@
+ID:	3275
+Name:	University of Manitoba Arboretum 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  Canada - Manitoba - Winnipeg  ;Garden Information;  Institution Code: WPTA; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Manitoba Arboretum; Department of Plant Science - Woody Plant Test Site; 222 Agriculture Building, 66 Dafoe Road; Winnipeg; Manitoba R3T 2N2 Canada; ;  Telephone: (204) 474-8221; Fax: (204) 474-7528; URL: <a target="_blank" href="http://www.umanitoba.ca/afs/plant_science">www.umanitoba.ca/afs/plant_science; Primary Email: plantscience@umanitoba.ca ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	49.80752
+Longitude:	-97.134188

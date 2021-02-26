@@ -1,0 +1,20 @@
+ID:	3551
+Name:	Taman Botani Putrajaya 
+Curator's Name:	
+Director's Name:	Mohd Tajuddin bin Idris
+Info:	  Malaysia - Federal Territory - Putrajaya  ;Garden Information;  Institution Code: PUTRA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Taman Botani Putrajaya; Botany Division, Landscape and Park Department, Putrajaya Corporation; Precinct 1; Putrajaya; Federal Territory 62000 Malaysia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2001
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	2.9438
+Longitude:	101.6984
+Natural Vegetation Area:	No
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No

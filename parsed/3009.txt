@@ -1,0 +1,10 @@
+ID:	3009
+Name:	Museum fuer Naturkunde Botanischer Garten 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Gera  ;Garden Information;  Institution Code: GERA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Museum fuer Naturkunde Botanischer Garten; Nicolaiberg 3, D-07502 GERA; Gera; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	50.8803
+Longitude:	12.0812

@@ -1,0 +1,31 @@
+ID:	5524
+Name:	Mt. Airy Arboretum 
+Administration Staff Number:	
+Curator's Name:	Josh Hill
+Director's Name:	Larry Parker
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  United States of America - Ohio - Cincinnati  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Mt. Airy Arboretum; 5097 Colerain Avenue; Cincinnati; Ohio 45223 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://www.cincinnatiparks.com/west/mt-airy-arboretum/">https://www.cincinnatiparks.com/west/mt-airy-arboretum/; Primary Email: joshua.hill@cincinnati-oh.gov ; 
+Plant Records Officer's Name:	Josh Hill
+Research Staff Number:	
+Altitude:	273.00 Metres
+Annual Rainfall:	1066 mm
+Date founded:	1932
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.185246
+Longitude:	-84.571974
+Natural Vegetation Area:	Yes
+Total Area:	48 Hectares
+Arboretum:	Yes
+Arboretum Size:	48
+Computer Plant Record System:	Yes
+Number of Volunteers:	1
+Open to public:	Yes
+Accession Number:	2059
+Cultivation Taxa Num:	919
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

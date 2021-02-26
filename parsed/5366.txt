@@ -1,0 +1,9 @@
+ID:	5366
+Name:	Pennsylvania State University, University Park 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - PA - University Park  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Pennsylvania State University, University Park; 155G Office of Physical Plant; University Park; PA 16802 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://lorax.opp.psu.edu/">http://lorax.opp.psu.edu/; Primary Email: RDM25@psu.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	40.813325
+Longitude:	-77.85938

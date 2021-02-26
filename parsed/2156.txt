@@ -1,0 +1,10 @@
+ID:	2156
+Name:	Kenya Agricultural Research Institute (KARI) 
+Curator's Name:	Mr E.N. Seme, Officer in Charge
+Director's Name:	Dr. Ephraim A. Mukisira
+Info:	  Kenya - Kikuyu  ;Garden Information;  Institution Code: KARI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kenya Agricultural Research Institute (KARI); Crop Plant Genetic Resources Centre, Genebank of Kenya (GBK), P.O. Box 781, Kikuyu, Kenya; Kikuyu; 00902 Kenya; ;  Telephone: 0154 32880-6; Fax: 254 440771; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	-1.1754
+Longitude:	36.3977

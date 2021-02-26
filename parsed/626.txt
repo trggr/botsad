@@ -1,0 +1,15 @@
+ID:	626
+Name:	Swansea Botanic Garden 
+Curator's Name:	
+Director's Name:	R. Isherwood
+Info:	  United Kingdom - Swansea  ;Garden Information;  Institution Code: SWA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Swansea Botanic Garden; University College Singleton Park; Swansea; SA2 8PP United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1960
+Institution Type:	Botanic Garden
+Latitude:	51.612819
+Longitude:	-3.981577
+Total Area:	1 Hectares
+Total area of glasshouses:	8000 Metres
+Cultivation Taxa Num:	1800
+Special Collections:	Temperate trees and shrubs, including many Australasian and South American genera. Glasshouse collections of orchids, bromeliads, carnivorous plants, economic plants and begonias.

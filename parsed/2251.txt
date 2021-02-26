@@ -1,0 +1,62 @@
+ID:	2251
+Name:	Foundation for Revitalisation of Local Health Traditions (FRLHT) 
+Administration Staff Number:	1
+Curator's Name:	Ganesh Babu
+Director's Name:	Darshan Shankar
+Educational Staff Number:	3
+Horticultural Staff Number:	4
+Info:	  India - Karnataka - Bangalore  ;Garden Information;  Institution Code: FRLHT; International Agenda Registration: Yes; BGCI Member: No; About the Foundation for Revitalisation of Local Health Traditions (FRLHT) FRLHT’s Ethnomedicinal Garden is a unique garden that has been aesthetically landscaped, exclusively with native medicinal plants. It is a live repository of 1500 species of medicinal plants, collected from all over India that can be grown in the climatic conditions of Bangalore. The plants represented here have cultural roots in the health traditions of India. You can find over 30 theme based demonstration plots in the garden. These plants belong to all habits, ranging from herbs, climbers and trees. Many rare species can also be observed and studied here. Attractive signages accompany each plant to inform the visitors about the ethno-botany of each plant. There are special signages for some plant species that are host to specific butterflies. Our visitors include students, doctors, folk healers, traders, housewives and researchers. You can enjoy the beautifully landscaped garden and also learn how to grow plants, their uses as well as simple procedures for preparation of herbal remedies. The current holdings of the garden cover 375 genera and 120 families and as we keep adding new species, these numbers will keep going up. Attached to the Garden is the I-AIM nursery, which has over 400 species of medicinal plants for sale, at nominal rates. The seedlings that are raised in both the conventional way and using root trainer technology are 100% organic. The nursery has mist chambers for propagation and shade houses with misting facility for special indoor plants.; Training programmes in designing of herbal gardens, taxonomic identification of plants, propagation techniques, utilization of medicinal plants for primary health care, herbarium techniques, etc., practical workshops, garden trails are conducted regularly in our Garden as we believe in sharing our knowledge.; Other outreach activities include promotion and implementation programmes for creation of Home Gardens and Institutional Gardens in India; participation in exhibitions, flower shows, melas etc. to popularize medicinal plants and spread the message “Grow plants for better health”.;  Main Address:; Foundation for Revitalisation of Local Health Traditions (FRLHT); C/o Institute of Trans Disciplinary Health Science & Technology (TDU); No 74/2, Jarakbande Kaval, Post: Attur, Via Yelahanka,; Bangalore; Karnataka 560064 India; ;  Telephone: 91 (0)80 2856 8000 /8001/8002/8003; Fax: 91 (0)80 2856 7926; URL: <a target="_blank" href="http://www.frlht.org">www.frlht.org; Primary Email: ganesh.babu@frlht.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	960.00 Metres
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	12.9716
+Longitude:	77.5943
+Total Area:	8 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Number of Visitors:	50
+Open to public:	Yes
+Seed Bank:	Yes
+Special Collections:	FRLHT coordinates a national network of medicinal plants, nature reserves and local botanic gardens in India.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

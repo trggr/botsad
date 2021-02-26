@@ -1,0 +1,21 @@
+ID:	2389
+Name:	Marks Hall Arboretum 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Jonathan Jukes
+Educational Staff Number:	
+Horticultural Staff Number:	4
+Info:	  United Kingdom - Essex - Colchester  ;Garden Information;  Institution Code: TPPT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Marks Hall Arboretum; Thomas Phillips-Price Trust, Marks Hall; Coggeshall; Colchester; Essex CO6 1TG United Kingdom; ;  Telephone: 01376 563796; Fax: 01376 563132; URL: <a target="_blank" href="http://www.markshall.org.uk/">http://www.markshall.org.uk/; Primary Email: enquiries@markshall.org.uk ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	
+Institution Type:	Other
+Latitude:	51.897405
+Longitude:	0.673714
+Arboretum:	Yes
+Disabled access:	Yes
+Open to public:	Yes
+Special Collections:	No information available.
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

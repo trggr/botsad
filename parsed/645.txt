@@ -1,0 +1,18 @@
+ID:	645
+Name:	Bernheim Arboretum and Research Forest 
+Curator's Name:	Andrew Berry, Forest Manager
+Director's Name:	Mark Wourms, Ph.D., CEO
+Info:	  United States of America - Kentucky - Clermont  ;Garden Information;  Institution Code: BERNH; International Agenda Registration: Yes; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Bernheim Arboretum and Research Forest Bernheim's Mission; ; Bernheim Arboretum and Research Forest connects people and nature by: ; ; Providing ample opportunities for quiet, personal experiences with the outdoors, ; ; Fostering curiosity and the love of learning with imaginative, inter-disciplinary, outdoor-oriented horticultural and natural history programs and exhibits, as well as nature-inspired art and cultural activities, and by ; ; Increasing understanding of the natural world through progressive, inter-disciplinary research in horticulture, natural areas management, and habitat restoration. ; ; The goal in all of Bernheim’s activities is to help realize its mission of strengthening the bond between people and nature by finding new ways to connect nature with people’s everyday lives. We believe that if people recognize and benefit from the many values found in nature, quality of life will be improved, and thus they will be motivated to protect the natural world for both its practical and its intrinsic value.;  Main Address:; Bernheim Arboretum and Research Forest; P.O. Box 130; Clermont; Kentucky 40110-0130 United States of America; ;  Telephone: (502) 955-8512; Fax: (502) 955-4039; URL: <a target="_blank" href="http://www.bernheim.org">www.bernheim.org; Primary Email: nature@bernheim.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1929
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	37.9239900
+Longitude:	-85.6702900
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

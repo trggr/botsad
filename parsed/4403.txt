@@ -1,0 +1,12 @@
+ID:	4403
+Name:	Jeonbuk Daea Arboretum 
+Curator's Name:	Joon-Mo Park
+Director's Name:	Choon-Do Sim
+Info:	  South Korea - Jeollabuk-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jeonbuk Daea Arboretum; 1-2 Daea-ri, Dongsang-myeon, Wanju-gun; Jeollabuk-do 565-890 South Korea; ;  Telephone: 063-243-1951; Fax: ; URL: <a target="_blank" href="http://www.daeagarden.kr">http://www.daeagarden.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	35.84683
+Local Address:	완주군 동상면 대아리 1-2
+Locality:	Information
+Longitude:	127.12936

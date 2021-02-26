@@ -1,0 +1,9 @@
+ID:	4558
+Name:	Conservatory of Miami University Hamilton, The 
+Curator's Name:	Dr. Richard Munson, Conservatory Manager
+Director's Name:	Dr. Daniel K. Gladish, Director
+Info:	  United States of America - Ohio - Hamilton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Conservatory of Miami University Hamilton, The; Miami University Hamilton; 1601 University Boulevard; Hamilton; Ohio 45011 United States of America; ;  Telephone: (513) 785-3244; Fax: ; URL: <a target="_blank" href="http://www.ham.muohio.edu/conservatory/">www.ham.muohio.edu/conservatory/; Primary Email: gladisdk@muohio.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	39.3787195
+Longitude:	-84.5624664

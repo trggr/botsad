@@ -1,0 +1,16 @@
+ID:	4551
+Name:	Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????. 
+Curator's Name:	Yulia Lvova
+Director's Name:	Dr. Vera V. Merker, Director
+Info:	  Russian Federation - Chelyabinsk oblast - Chelyabinsk  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????. Development of the Botanic Garden of Chelyabinsk State University:; 1999 - a decision Academic Council on the establishment of the Botanical Garden; 2000-2002 - The beginning of a collection of greenhouses and the herbarium; 2005 - the creation of collections of open ground;  Main Address:; Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????.; Bratiev Kashirinykh, 129; Chelyabinsk; Chelyabinsk oblast 454001 Russian Federation; ;  Telephone: +7 (495) 662 4914; Fax: ; URL: <a target="_blank" href="http://www.ruspitomniki.ru">www.ruspitomniki.ru; Primary Email: ecol@csu.ru ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	55.177051
+Longitude:	61.31893
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Invasive Species Monitoring:	No

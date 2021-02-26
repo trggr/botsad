@@ -1,0 +1,9 @@
+ID:	5085
+Name:	Hong Kong Herbarium 
+Curator's Name:	
+Director's Name:	Mr Pang Kuen-shum
+Info:	  China - Hong Kong - Kowloon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Hong Kong Herbarium; Room 737, 7/F, Cheung Sha Wan Government Offices; 303 Cheung Sha Wan Road; Kowloon; Hong Kong China; ;  Telephone: 852-2150 6900; Fax: ; URL: <a target="_blank" href="http://herbarium.gov.hk/">http://herbarium.gov.hk/; Primary Email: herbarium@afcd.gov.hk ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	22.331773
+Longitude:	114.160333

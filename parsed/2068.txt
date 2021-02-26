@@ -1,0 +1,14 @@
+ID:	2068
+Name:	Chilworth Botanic Garden 
+Curator's Name:	Kelim Yapp
+Director's Name:	
+Info:	  United Kingdom - Southampton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Chilworth Botanic Garden; Jubilee Cottage, Chilworth Research Centre, University Parkway, Chilworth, SOUTHAMPTON, U.K.; Southampton; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1961
+Institution Type:	Botanic Garden
+Latitude:	50.9637375
+Longitude:	-1.421919
+Total Area:	9 Hectares
+Total area of glasshouses:	100 Metres
+Special Collections:	Leguminoseae, Genista

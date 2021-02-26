@@ -1,0 +1,12 @@
+ID:	2527
+Name:	Beijing Medicinal Garden 
+Curator's Name:	
+Director's Name:	NK
+Info:	  China - Beijing  ;Garden Information;  Institution Code: XBEI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Beijing Medicinal Garden; Institute of Medicinal Plant Development (IMPLAD), Chinese Academy of Medicinal Sciences, WHO Collaborating Centre for Traditional Medicine; Haidian District, Xibei Wang,; Beijing; 100094 China; ;  Telephone: +00 86 (0)10 6289 9725; Fax: +00 86 (0)10 6289 8496; URL: <a target="_blank" href="http://">; Primary Email: zhangbengang@163.net ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	39.9055
+Local Address:	中国北京市西北旺海淀区，邮编 100094
+Locality:	Information
+Longitude:	116.3958

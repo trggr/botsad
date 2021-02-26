@@ -1,0 +1,9 @@
+ID:	5277
+Name:	Elmwood/9th Street Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - North Carolina - Charlotte  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Elmwood/9th Street Arboretum; 700 West Sixth Street; Charlotte; North Carolina 28202 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.charlottenc.gov/Engineering/LandscapeManagement/Cemeteries/Pages/default.aspx">http://www.charlottenc.gov/Engineering/LandscapeManagement/Cemeteries/Pages/default.aspx; Primary Email: kpearce@ci.charlotte.nc.us ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	35.234012
+Longitude:	-80.847293

@@ -1,0 +1,69 @@
+ID:	4420
+Name:	Starhill Forest Arboretum 
+Administration Staff Number:	
+Curator's Name:	Alana McKean
+Director's Name:	Guy and Edie Sternberg
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  United States of America - Illinois - Petersburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Starhill Forest Arboretum Located on 50 acres in southern Menard County, IL, Starhill Forest is a private arboretum owned andoperated by the Sternberg family since 1976. The land has been farmed and grazed since the mid-19th century, when Abraham Lincoln traveled on the same road during his New Salem days.; ; Old trees in the forested areas date to about 1850, and the oldest planted trees were started from seed in 1964 and transplanted from another location. Permanent records kept by Starhill Forest include provenance information, propagation method and year, mapped location within the arboretum via a surveyed grid system, and other data. In addition, permanent records of other taxa that have been tested and have not survived include cause of death, when known. ; ; The primary scientific collection is a quercetum (oak) comprising the living reference collection recognizedby the North American Plant Preservation Council. Additionally, approximately 150 other genera of woody plants are available for study, as well as herb and perennial landscapes, a native prairie garden, several provenance tests, and a conifer plantation.;  Main Address:; Starhill Forest Arboretum; 12000 Boy Scout Trail; Petersburg; Illinois 62675 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.starhillforest.com">www.starhillforest.com; Primary Email: Guy@Starhillforest.com ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	180.00 Metres
+Date founded:	1976
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.9460750
+Longitude:	-89.8075870
+Natural Vegetation Area:	Yes
+Total Area:	20 Hectares
+Arboretum:	Yes
+Arboretum Size:	19
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	300
+Number of Volunteers:	20
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	2000
+Cultivation Taxa Num:	1000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Starhill Forest's signature collection is the Quercus collection, including species accessions, provenance tests, cultivars, hybrids, and non-hardy oaks and related species wintered in greenhouses, as well as associated library documents. This collection already is known worldwide and continues to be the primary focus of the Arboretum.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

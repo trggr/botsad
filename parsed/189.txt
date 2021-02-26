@@ -1,0 +1,45 @@
+ID:	189
+Name:	KwaZulu-Natal National Botanical Garden 
+Fax:	+27 (0) 33 344 1284
+Info:	  South Africa - KwaZulu-Natal - Pietermaritzburg  ;Garden Information;  Institution Code: NBGN; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	s.zondi@sanbi.org.za
+Telephone:	+27 (0) 33 344 3585
+Administration Staff Number:	2
+Curator's Name:	Ms Sthembile Zondi
+Director's Name:	Mr Christopher Willis
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	700.00 Metres
+Annual Rainfall:	900 mm
+Date founded:	1874
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-29.6075
+Longitude:	30.3480
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	None
+Total Area:	52 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	107000
+Open to public:	Yes
+Special Collections:	About 80% of the Garden area is natural vegetation of Ngongoni Veld, with dominant Trimeria grandiflora, Combretum kraussii, Halleria lucida, Themeda triandra and Aristida junciformis. About 75% of the plants in the collection are indigenous.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Horticulture:	Yes
+Courses for General Public:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Visitor/Education Centre:	Yes

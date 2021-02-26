@@ -1,0 +1,10 @@
+ID:	3432
+Name:	Station of Northern Horticulture 
+Curator's Name:	
+Director's Name:	
+Info:	  Russian Federation - Tomsk  ;Garden Information;  Institution Code: TOMSK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Station of Northern Horticulture; 2 Sadovyi Per., 634000 P.O. BAKCHAR TOMSK Region Russian Federation; Tomsk; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	56.4639
+Longitude:	84.9625

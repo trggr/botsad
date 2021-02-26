@@ -1,0 +1,12 @@
+ID:	4876
+Name:	Sanghyo Botanical Garden 
+Curator's Name:	Kyoung-Chan Ko
+Director's Name:	Jae-Young Lee
+Info:	  South Korea - Jeju-do - Seogwipo-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sanghyo Botanical Garden; San 25, Sanghyo-dong; Seogwipo-si; Jeju-do 697-821 South Korea; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	33.30722
+Local Address:	상효동 산25번지
+Locality:	Information
+Longitude:	126.58609

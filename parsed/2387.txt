@@ -1,0 +1,10 @@
+ID:	2387
+Name:	Jardin Botanico de Guayaquil 
+Curator's Name:	
+Director's Name:	Vicente Gaibor L.
+Info:	  Ecuador - Guayas - Guayaquil  ;Garden Information;  Institution Code: GUAYA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Guayaquil; Ciudadela "las Orquídeas", Av. Francisco De Orellana; Cerro Colorado, entrando por Calle 24 B NE.; Guayaquil; Guayas Ecuador; ;  Telephone: 593 098076029; Fax: 593 4 416975; URL: <a target="_blank" href="http://">; Primary Email: jbotanicguayaquil@gmail.com ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-2.07993
+Longitude:	-79.8974

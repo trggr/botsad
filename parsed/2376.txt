@@ -1,0 +1,74 @@
+ID:	2376
+Name:	King Saud University Botanic Garden 
+Fax:	+966-1-4675833
+Info:	  Saudi Arabia - Riyadh - Riyadh  ;Garden Information;  Institution Code: KSU; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jathomas@ksu.edu.sa
+Telephone:	+966-1-4675807
+Administration Staff Number:	1
+Curator's Name:	Dr. Jacob Thomas
+Director's Name:	Prof. Dr Ahmed H. Alfarhan
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	800.00 Metres
+Annual Rainfall:	120 mm
+Date founded:	1994
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	24.6748
+Longitude:	46.6977
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Total area of glasshouses:	400 Metres
+Total area of shadehouses:	500 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	300
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	150
+Special Collections:	Live plants are mainly from the Central Region of Saudi Arabia. However, several species from the southwestern region and other parts of the Kingdom are also planted in this garden.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

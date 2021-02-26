@@ -1,0 +1,30 @@
+ID:	730
+Name:	Boyce Thompson Arboretum 
+Administration Staff Number:	3
+Curator's Name:	Cathy Babcock
+Director's Name:	Lynne Nemeth, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Info:	  United States of America - Arizona - Superior  ;Garden Information;  Institution Code: ARIZ; International Agenda Registration: No; BGCI Member: Yes; About the Boyce Thompson Arboretum The Mission of Boyce Thompson Arboretum is to instill in people an appreciation of plants through the fostering of educational, recreational, research, and conservation opportunities associated with arid-land plants.;  Main Address:; Boyce Thompson Arboretum; 37615 US Highway 60; Superior; Arizona 85273 United States of America; ;  Telephone: (520) 689-2723; Fax: (520) 689-5858; URL: <a target="_blank" href="http://arboretum.ag.arizona.edu">http://arboretum.ag.arizona.edu; Primary Email: btainfo@ag.arizona.edu ; 
+Plant Records Officer's Name:	Becky Stephenson, Plant Recorder/Horticulture Specialist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1927
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	33.2808100
+Longitude:	-111.1597000
+Total Area:	131 Hectares
+Arboretum:	Yes
+Arboretum Size:	131
+Open to public:	Yes
+Accession Number:	3200
+Special Collections:	Cactaceae (725 spp, 806 taxa) and other succulents (total cacti and succulents - 1,600 taxa), Leguminosae (88 spp.), Myrtaceae (76 spp., 82 taxa), Acacia (27 spp.), Agave (88 spp., 107 taxa), Aloe (94 spp., 102 taxa), Eucalyptus (56 spp., 58 taxa), Mammil
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

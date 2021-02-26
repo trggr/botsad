@@ -1,0 +1,24 @@
+ID:	764
+Name:	Ege Universitesi (Aegean University Botanical Garden & Herbarium Research and Application Center) 
+Fax:	232 3739049
+Info:	  Turkey - Bornova-Izmir  ;Garden Information;  Institution Code: EGE; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	serdar.gokhan.senol@ege.edu.tr
+Telephone:	232 3884000/2825
+Curator's Name:	Dr
+Director's Name:	Prof. Hüseyin GÜNER
+Plant Records Officer's Name:	Dr
+Altitude:	10.00 Metres
+Annual Rainfall:	640 mm
+Date founded:	1964
+Institution Type:	Botanic Garden
+Latitude:	38.4662
+Local Address:	
+Locality:	Information
+Longitude:	27.2196
+Total area of glasshouses:	1300 Metres
+Arboretum:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	3000
+Special Collections:	Tropical, xerophitic and exotic plants are presented to students and public. In the garden there are 3,000 species of plant, both native and exotic.

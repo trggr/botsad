@@ -1,0 +1,40 @@
+ID:	621
+Name:	Logan Botanic Garden 
+Fax:	01776 860333
+Info:	  United Kingdom - Wigtownshire - Stranraer  ;Garden Information;  Institution Code: E; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	logan@rbge.org.uk
+Telephone:	01776 860600
+Administration Staff Number:	
+Curator's Name:	Richard A. Baines
+Director's Name:	Simon Milne
+Educational Staff Number:	
+Horticultural Staff Number:	8
+Plant Records Officer's Name:	Robert Cubey
+Research Staff Number:	
+Altitude:	25.00 Metres
+Annual Rainfall:	830 mm
+Date founded:	1968
+Institution Type:	Botanic Garden
+Latitude:	54.905398
+Longitude:	-5.02547
+Satellite Garden Names:	This is a Specialist (Satellite) Garden of the Royal Botanic Garden Edinburgh
+Total Area:	11 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	34000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Accession Number:	3571
+Cultivation Taxa Num:	2613
+Plant Collection Policy:	Yes
+Special Collections:	Plants of southern South America,, Australasia, Southern Africa, North and Central Mexico, Canary Islands, Labiatae, Ericaceae, Myrtaceae, Azara, Eucryphia, Weinmannia, Gunnera, Rhododendron. Eucalyptus, Dicksonia, Cyathea, Diascia.
+Conservation Programme:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

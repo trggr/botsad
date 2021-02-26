@@ -1,0 +1,41 @@
+ID:	324
+Name:	Niagara Parks Botanical Gardens and School of Horticulture, The 
+Administration Staff Number:	6
+Curator's Name:	Lorne Fast, Curator of Collections
+Director's Name:	Tom Laviolette
+Educational Staff Number:	3
+Horticultural Staff Number:	7
+Info:	  Canada - Ontario - Niagara Falls  ;Garden Information;  Institution Code: NFO; International Agenda Registration: Yes; BGCI Member: No; About the Niagara Parks Botanical Gardens and School of Horticulture, The Founded: School of Horticulture - 1936; Botanical Garden - 1990;  Main Address:; Niagara Parks Botanical Gardens and School of Horticulture, The; 7400 Portage Road South; Mailing: The Niagara Parks Commission, P.O. Box 150; Niagara Falls; Ontario L2E 6T2 Canada; ;  Telephone: (905) 356-8554; Fax: (905) 356-5488; URL: <a target="_blank" href="http://www.niagaraparks.com/garden-trail/botanical-gardens.html">www.niagaraparks.com/garden-trail/botanical-gardens.html; Primary Email: schloff@niagaraparks.com ; 
+Plant Records Officer's Name:	Lorne Fast
+Research Staff Number:	
+Altitude:	175.00 Metres
+Annual Rainfall:	795 mm
+Date founded:	1936
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	43.13693
+Local Address:	2565 Niagara Parkway, Niagara Falls, ON Canada L2E 6V5
+Locality:	Information
+Longitude:	-79.05391
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	The Niagara Parks Botanical Gardens and School of Horticulture is a part of the larger Niagara Parks Commission
+Total Area:	34 Hectares
+Total area of glasshouses:	2600 Metres
+Total area of shadehouses:	84 Metres
+Arboretum:	Yes
+Arboretum Size:	14
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	500000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	3700
+Cultivation Taxa Num:	2711
+Special Collections:	roses, alpines, herb garden (medicinal, industrial, culinary, aromatic, etc.), butterfly plants, herbaceous perennials (woodland/native, shade etc.)
+mainly ornamental herbaceous and woody plants, herbs, arboretum. Plant collections include 150 families, 614 genera, 1532 species, 2,665 taxa, 3,716 accessions. Herbaceous perennial collections include 687 species and 1,139 taxa. Natural areas in the vicinity (Niagara Parks Commission holdings):	include the Niagara Glen Nature Preserve, Paradise Grove Oak Savanna, Chinquapin Oak Savanna, Whirlpool, Queenston Heights and Dufferin Islands.
+Courses for General Public:	Yes
+Courses for University/College Students:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes

@@ -1,0 +1,40 @@
+ID:	2211
+Name:	Maranoa Botanic Gardens 
+Administration Staff Number:	
+Curator's Name:	Paul Birch and Andrea Dennis
+Director's Name:	Manager Environmental Sustainability & Open Spaces
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Australia - Victoria - Camberwell  ;Garden Information;  Institution Code: MARAN; International Agenda Registration: No; BGCI Member: No; About the Maranoa Botanic Gardens Began in 1901 Maranoa Gardens is a diverse collection of Australian Native plants.; We are located at 40 Yarrbat ave, Balwyn. Access is via Kireep or Parring roads only.; Opening hours - Weekdays 730 to 4pm; Weekends and public holidays 10 to 5 pm. ; Closed Christmas Day and Good Friday;  Main Address:; Maranoa Botanic Gardens; Manager Environmental Sustainability & Open Spaces , City of Boroondara,; Private Bag No 1,; Camberwell; Victoria 3124 Australia; ;  Telephone: 61 (0)3 9278 4444 /61(0)3 98301859; Fax: ; URL: <a target="_blank" href="http://www.boroondara.vic.gov.au">www.boroondara.vic.gov.au; Primary Email: maranoa.gardens@boroondara.vic.gov.au ; 
+Plant Records Officer's Name:	Paul Birch and Andrea Dennis
+Research Staff Number:	
+Altitude:	113.90 Metres
+Annual Rainfall:	589 mm
+Date founded:	1901
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-37.8101008
+Local Address:	40 Yarrbat ave Balwyn. Access via Parring or Kireep roads only
+Locality:	Information
+Longitude:	145.0898296
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	20000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	5000
+Cultivation Taxa Num:	2600
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Special Collections:	100 % of collection is Australian flora.
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

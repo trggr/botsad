@@ -1,0 +1,10 @@
+ID:	5050
+Name:	Rodrigues Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Mauritius  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Rodrigues Botanic Garden; Mauritius; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-19.730053
+Longitude:	63.415995

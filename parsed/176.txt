@@ -1,0 +1,37 @@
+ID:	176
+Name:	Central Botanical Garden 
+Curator's Name:	
+Director's Name:	V.V. Titok
+Info:	  Belarus - MINSK  ;Garden Information;  Institution Code: MSK; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Central Botanical Garden; National Academy of Sciences Surganova Street 2v,; MINSK; 220012 Belarus; ;  Telephone: (017) 284-14-84; Fax: (017) 284-14-84; URL: <a target="_blank" href="http://cbg.org.by">http://cbg.org.by; Primary Email: office@cbg.org.by ; 
+Plant Records Officer's Name:	Svetlana M. Kuzmenkova
+Date founded:	1932
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	53.9677
+Longitude:	27.5765
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	Extensive collection of conifers, ornamental flowering plants (tulips, lilac, iris, paeonies, roses, gladioli), collections of annuals and perennials, conservation of rare native species.
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Education Signs in Garden:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

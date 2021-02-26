@@ -1,0 +1,53 @@
+ID:	301
+Name:	Department of Pharmacognosy, Univ. Vienna 
+Fax:	00 43 1 4277 9552
+Info:	  Austria - Vienna  ;Garden Information;  Institution Code: WPHARM; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	reinhard.laenger@univie.ac.at
+Telephone:	00 43 1 4277 55201
+Administration Staff Number:	
+Curator's Name:	Prof. Dr. Reinhard Länger
+Director's Name:	Prof. Dr. Verena Dirsch
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Werner Lahner
+Research Staff Number:	
+Altitude:	180.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1950
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	48.1833
+Longitude:	16.3833
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Total area of glasshouses:	600 Metres
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	300
+Cultivation Taxa Num:	300
+Special Collections:	Medicinal plants
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Biotechnology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Pharmacology:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

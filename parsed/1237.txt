@@ -1,0 +1,20 @@
+ID:	1237
+Name:	San Antonio Botanical Gardens 
+Administration Staff Number:	5
+Curator's Name:	Michael Eason, Conservation Officer
+Director's Name:	Sabina Carr, Chief Executive Officer
+Educational Staff Number:	3
+Horticultural Staff Number:	12
+Info:	  United States of America - Texas - San Antonio  ;Garden Information;  Institution Code: SABG; International Agenda Registration: No; BGCI Member: No; About the San Antonio Botanical Gardens MISSION: ; To inspire people to connect with the plant world and understand the importance of plants in our lives.;  Main Address:; San Antonio Botanical Gardens; 555 Funston Place; San Antonio; Texas 78209 United States of America; ;  Telephone: (210) 207-3250; Fax: (210) 207-3274; URL: <a target="_blank" href="http://www.sabot.org">www.sabot.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1980
+Institution Type:	Botanic Garden
+Latitude:	29.4590080
+Longitude:	-98.4576190
+Total Area:	13 Hectares
+Disabled access:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Special Collections:	Cactaceae, Palmae, Polypodiaceae, herb garden, Rosa, garden for the blind, native areas.

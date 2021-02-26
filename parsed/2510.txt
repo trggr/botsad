@@ -1,0 +1,13 @@
+ID:	2510
+Name:	Henry Foundation for Botanical Research, The 
+Curator's Name:	
+Director's Name:	Susan Treadway, Director
+Info:	  United States of America - Pennsylvania - Gladwyne  ;Garden Information;  Institution Code: HEN; International Agenda Registration: No; BGCI Member: No; About the Henry Foundation for Botanical Research, The The Henry Foundation for Botanical Research offers 50 acres of beautiful gardens, plants, and wonderful views. Founded in 1948 by botanist and plant explorer Mary Gibson Henry (1884-1967) to showcase the plants she collected on her expeditions through remote areas of the West, Midwest and Southeast, the Henry Foundation encompasses 50 acres of a surprisingly remote site in the steep hills of Gladwyne near the Schuylkill River.;  Main Address:; Henry Foundation for Botanical Research, The; 801 Stony Lane; P.O. Box 7; Gladwyne; Pennsylvania 19035-007 United States of America; ;  Telephone: (610) 525-2037; Fax: (610) 525-4024; URL: <a target="_blank" href="http://www.greaterphiladelphiagardens.org/gardens/henry/henry-found.htm">www.greaterphiladelphiagardens.org/gardens/henry/henry-found.htm; Primary Email: susan@henrybotanicgarden.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1948
+Institution Type:	Botanic Garden
+Latitude:	40.0546397
+Longitude:	-75.2898043
+Total Area:	20 Hectares
+Open to public:	Yes

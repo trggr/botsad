@@ -1,0 +1,10 @@
+ID:	2197
+Name:	Coolgardie Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  Australia - Coolgardie  ;Garden Information;  Institution Code: COOL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Coolgardie Arboretum; Dept of CALM, PO Box 366, KALGOORLIE, WA 6430, Australia; Coolgardie; Australia; ;  Telephone: 61 (0)8 9021 2677; Fax: 61 (0)8 9021 7831; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-30.95403
+Longitude:	121.16234

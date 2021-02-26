@@ -1,0 +1,13 @@
+ID:	4384
+Name:	Pyunggang Botanical Garden 
+Curator's Name:	Chang-Ho Won
+Director's Name:	Hwan-Yong Lee
+Info:	  South Korea - Gyeonggi-do - Pocheon-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Pyunggang Botanical Garden Located at the entrance of Sanjeong Lake, the Pyunggang Botanical Garden (평강식물원) exhibits both native plants and around 5,000 species of plants from across the globe. The scope of the garden is comprehensive, but it is divided into 12 themed areas, including a Rock Garden, where the largest alpine plants in Asia are concentrated; a Wetland Center, which mimics the natural ecology of a wetland region; a Pond Garden consisting of roughly 50 ponds lined with gorgeous flowers; a Moss Center where moss that grows in deep valleys and forests can be seen; and a Grass Square, which serves as a green common year round. The Pyunggang Botanical Garden, serves an important role in preserving rare plants, but is also creating a new botanical garden culture, and serving as a center for public ecological education.; ; Facilities Available: Native Plant Center, High Moor, Alpine Bog Garden, Wild Flower Hill, Rock Garden, Moss Center, Pond Garden, Rhododendron Center, Fernbrake Center, White Garden, Wet Land Center, Grass Square;  Main Address:; Pyunggang Botanical Garden; 668 Sanjung-ri, Yeongbuk-myeon; Pocheon-si; Gyeonggi-do 487-892 South Korea; ;  Telephone: 031-531-7751; Fax: 031-534-7791; URL: <a target="_blank" href="http://peacelandkorea.com">http://peacelandkorea.com; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	38.0499
+Local Address:	영북면 산정리 668
+Locality:	Information
+Longitude:	127.30601
+Cultivation Taxa Num:	5000

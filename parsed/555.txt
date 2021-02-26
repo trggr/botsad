@@ -1,0 +1,14 @@
+ID:	555
+Name:	Arboretum Osrodka Kultury Lesnej w Goluchowie 
+Fax:	
+Info:	  Poland - wielkopolskie - Goluchow  ;Garden Information;  Institution Code: GOLUC; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	
+Curator's Name:	
+Director's Name:	Benedykt Roźmiarek
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	51.8504
+Longitude:	17.9315
+Special Collections:	Forest trees and ornamentals

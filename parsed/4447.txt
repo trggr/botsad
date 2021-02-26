@@ -1,0 +1,63 @@
+ID:	4447
+Name:	Bartlett Tree Research Laboratories Arboretum 
+Curator's Name:	Greg Paige, Arboretum Curator
+Director's Name:	Robert Bartlett
+Info:	  United States of America - North Carolina - Charlotte  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ;  Main Address:; Bartlett Tree Research Laboratories Arboretum; 13768 Hamilton Road; Charlotte; North Carolina 28278 United States of America; ;  Telephone: (704) 588-1150 ext 141; Fax: (704) 588-5152; URL: <a target="_blank" href="http://www.bartlett.com/bartlett-arboretum.cfm?a">www.bartlett.com/bartlett-arboretum.cfm?a; Primary Email: gpaige@bartlett.com ; 
+Plant Records Officer's Name:	Laura Johnson, Horticulturalist
+Altitude:	0.00 Metres
+Date founded:	1968
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	35.0799350
+Longitude:	-81.0002490
+Natural Vegetation Area:	Yes
+Total Area:	141 Hectares
+Arboretum:	Yes
+Arboretum Size:	141
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Open to public:	No
+Published Plant Catalogue:	Yes
+ABS Policy:	Yes
+Accession Number:	9947
+Cultivation Taxa Num:	3642
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	NAPCC oak and magnolia collections
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

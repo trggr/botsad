@@ -1,0 +1,20 @@
+ID:	287
+Name:	Jardín Botánico "Lucien Hauman" 
+Curator's Name:	Ing. Agr. Silvana Gambino
+Director's Name:	Dra. Adriana Bartoli
+Info:	  Argentina - Buenos Aires - Ciudad Autónoma de Buenos Aires  ;Garden Information;  Institution Code: BAA; International Agenda Registration: No; BGCI Member: No; About the Jardín Botánico "Lucien Hauman" This Botanic Garden was created in 1929 for educational purposes, at the Facultad de Agronomía of the Universidad de Buenos Aires.;  Main Address:; Jardín Botánico "Lucien Hauman"; Facultad de Agronomia Universidad de Buenos Aires,; Av. San Martin 4453; Ciudad Autónoma de Buenos Aires; Buenos Aires 1417 Argentina; ;  Telephone: +54-11-5287-0171; Fax: ; URL: <a target="_blank" href="http://www.agro.uba.ar/catedras/botanica_sistematica/botanico">www.agro.uba.ar/catedras/botanica_sistematica/botanico; Primary Email: lucienhaumanbg@agro.uba.ar ; 
+Plant Records Officer's Name:	Dra. Adriana Bartoli-Ing. Agr. Silvana Gambino
+Altitude:	0.00 Metres
+Date founded:	1929
+Institution Type:	Botanic Garden
+Latitude:	-34.596056
+Local Address:	Av. San Martín 4453
+Locality:	Information
+Longitude:	-58.483096
+Natural Vegetation Area:	No
+Total Area:	2 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No

@@ -1,0 +1,10 @@
+ID:	3433
+Name:	Botanic Garden of the Gorskiy Agricultural University 
+Curator's Name:	
+Director's Name:	
+Info:	  Russian Federation - Vladikavkaz  ;Garden Information;  Institution Code: VLADG; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanic Garden of the Gorskiy Agricultural University; 37 Kirova Street 362040 VLADIKAVKAZ Russian Federation; Vladikavkaz; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	43.0312
+Longitude:	44.6757

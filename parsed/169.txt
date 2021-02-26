@@ -1,0 +1,30 @@
+ID:	169
+Name:	Matthaei Botanical Gardens & Nichols Arboretum 
+Curator's Name:	Dr. David Michener, Associate Curator
+Director's Name:	Robert Grese, Director and Professor
+Info:	  United States of America - Michigan - Ann Arbor  ;Garden Information;  Institution Code: MICH; International Agenda Registration: No; BGCI Member: No; About the Matthaei Botanical Gardens & Nichols Arboretum Matthaei Botanical Gardens and Nichols Arboretum Mission: ; Promoting environmental enjoyment, stewardship and sustainability through education, research, and interaction with the natural world. ; ; The purpose: provide a hands-on University and community laboratory for conserving, restoring, and celebrating the environment ; ; The business: develop citizens and leaders dedicated to appreciating, understanding and restoring our environment; promote environmental education, research and public outreach ; ; The values: inspire and enrich people's lives through contact with plants and nature; recognize the restorative value of nature and beautiful gardens; engage scientists and artists in research, teaching, and outreach activities; apply ecological principles in our horticulture and land stewardship; advance sustainable practices and the conservation of biodiversity, particularly that of the Great Lakes Region.;  Main Address:; Matthaei Botanical Gardens & Nichols Arboretum; University of Michigan; 1800 Dixboro Road; Ann Arbor; Michigan 48105 United States of America; ;  Telephone: (734) 647-7600; Fax: (734) 998-6205; URL: <a target="_blank" href="http://www.lsa.umich.edu/mbg">www.lsa.umich.edu/mbg; Primary Email: michener@umich.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1907
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	42.2999010
+Longitude:	-83.6658780
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Horner-McLaughlin Woods Mud Lake Bog
+Total Area:	283 Hectares
+Arboretum:	Yes
+Arboretum Size:	50
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	400000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Native plants in diverse contexts, tropical plants, succulents, cultivated orchids, bromeliads, medicinal plants, prairie plants, native woodland species.
+Courses for General Public:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

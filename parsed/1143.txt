@@ -1,0 +1,10 @@
+ID:	1143
+Name:	Children's Botanical Garden 
+Curator's Name:	
+Director's Name:	Director
+Info:	  Ukraine - Zaporozhye  ;Garden Information;  Institution Code: CHILD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Children's Botanical Garden; Czarivnaja 11, 330068 ZAPOROZHYE, Ukraine.; Zaporozhye; Ukraine; ;  Telephone: (0612) 65-32-52; Fax: (0612) 65-32-52; URL: <a target="_blank" href="http://botsad.zp.ua/">http://botsad.zp.ua/; Primary Email: zmdbs@mail.ru ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	47.83709
+Longitude:	35.19591

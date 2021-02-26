@@ -1,0 +1,32 @@
+ID:	707
+Name:	Oak Park Conservatory 
+Administration Staff Number:	3
+Curator's Name:	Patti Staley, Director of Horticulture & Conservatory Operations
+Director's Name:	Jan R. Arnold, CPRP, Executive Director
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  United States of America - Illinois - Oak Park  ;Garden Information;  Institution Code: OAKPK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oak Park Conservatory; Park District of Oak Park; 615 Garfield Street; Oak Park; Illinois 60304 United States of America; ;  Telephone: (708) 725-2450; Fax: (708) 386-3221; URL: <a target="_blank" href="http://www.oakparkconservatory.com">www.oakparkconservatory.com; Primary Email: patti.staley@pdop.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1929
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.8714960
+Longitude:	-87.7896990
+Natural Vegetation Area:	No
+Total area of glasshouses:	743 Metres
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	20000
+Number of Volunteers:	150
+Open to public:	Yes
+Accession Number:	3000
+Special Collections:	Tropical, desert, ferns.
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,9 @@
+ID:	4693
+Name:	Webster Arboretum 
+Curator's Name:	
+Director's Name:	George Riehle, Chairperson
+Info:	  United States of America - New York - Webster  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Webster Arboretum; 1700 Schlegel Road; Mailing: P.O. Box 782; Webster; New York 14580 United States of America; ;  Telephone: (585) 234-4622; Fax: ; URL: <a target="_blank" href="http://www.websterarboretum.org">www.websterarboretum.org; Primary Email: parksandrec@ci.webster.ny.us ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	43.2415610
+Longitude:	-77.3903350

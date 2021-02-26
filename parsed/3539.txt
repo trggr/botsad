@@ -1,0 +1,11 @@
+ID:	3539
+Name:	Complejo Ecológico de América 
+Curator's Name:	Guillermo Angulo
+Director's Name:	Prof. Adelmar Funk
+Info:	  Argentina - Buenos Aires - América  ;Garden Information;  Institution Code: AMER; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Complejo Ecológico de América; Vivero Forestal Municipal Francisco P. Moreno, Municipalidad de Rivadavia; Estación Forestal- Sección Quintas, Calle Rivadavia esq. Comandante Hillcoat; América; Buenos Aires 6237 Argentina; ;  Telephone: 54 (0) 2337-42057; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ecodeamerica@gmail.com ; 
+Plant Records Officer's Name:	Carlos Alberto Tucat
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-34.65315
+Longitude:	-58.7682
+Open to public:	Yes

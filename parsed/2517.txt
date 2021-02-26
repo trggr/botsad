@@ -1,0 +1,81 @@
+ID:	2517
+Name:	Malabar Botanical Garden and Institute for Plant Sciences 
+Administration Staff Number:	4
+Curator's Name:	Sreekumar. M.K
+Director's Name:	R Prakashkumar
+Educational Staff Number:	5
+Horticultural Staff Number:	10
+Info:	  India - Kerala State - Kozhikode  ;Garden Information;  Institution Code: MALAB; International Agenda Registration: No; BGCI Member: Yes; About the Malabar Botanical Garden and Institute for Plant Sciences Malabar Botanical Garden, Kozhikode, Kerala State, India, located in the panoramic, serene suburban area of Calicut (Kozhikode) city (8 Km from Railway Station and 25 Km from Airport) is renowned for its excellent fresh water plant collections of India. The garden sprawls over 16 ha area with 6 ha wetland which transforms into a placid lake during monsoon, ideal for wetland flora conservation. The climate is tropical with 3000 mm annual rainfall, high humidity and short summer (Feb-May) with maximum temperature up to 320C. The wetland gradually elevates to a 45 m high lateritic hillock facilitating niche for a wide range of plants. The Malabar Botanical Garden has 8 green houses for primitive plants (mosses and ferns), shade loving plants, orchids, medicinal plants, aquatic plants, etc.) Malabar Botanical Garden is a centre of Research in Biodiversity conservation and related topics.;  Main Address:; Malabar Botanical Garden and Institute for Plant Sciences; P.B. No. 1, G.A. College Post; Kozhikode; Kerala State 673014 India; ;  Telephone: 91 495 243 0939; Fax: 91 495 243 0939; URL: <a target="_blank" href="http://www.mbgs.in">www.mbgs.in; Primary Email: malabarbot.garden@gmail.com ; 
+Plant Records Officer's Name:	R Prakashkumar
+Research Staff Number:	8
+Altitude:	0.45 Metres
+Annual Rainfall:	3000 mm
+Date founded:	1991
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	11.25
+Local Address:	Guruvayurappan College P.O. Kozhikode Kerala - 673 014 INDIA
+Locality:	Information
+Longitude:	75.78
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Not applicable
+Total Area:	16 Hectares
+Total area of glasshouses:	1000 Metres
+Total area of shadehouses:	2000 Metres
+Arboretum:	Yes
+Arboretum Size:	5
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	7000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	3252
+Cultivation Taxa Num:	2500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Periodic collection from all over India round the year (minimum one collection trip in each month). Firstly, introduction of plants in the 'Intensive Care Unit' Part of plants are made into herbarium specimens. Then plants are transferred to areas similar to original habitat.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

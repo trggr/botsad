@@ -1,0 +1,11 @@
+ID:	5125
+Name:	Plant Production Research Institute 
+Curator's Name:	
+Director's Name:	Hauptvogel Pavol Ing., PhD.
+Info:	  Slovakia - Pieštany  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Plant Production Research Institute; Bratislavská cesta 122; Pieštany; 921 68 Slovakia; ;  Telephone: +421-33-7722330; Fax: +421-33-7726306; URL: <a target="_blank" href="http://www.vurv.sk/en/workplaces/">http://www.vurv.sk/en/workplaces/; Primary Email: vurv@vurv.sk ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	48.5858
+Longitude:	17.8156
+Seed Bank:	Yes

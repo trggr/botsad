@@ -1,0 +1,54 @@
+ID:	188
+Name:	Lowveld National Botanical Garden 
+Administration Staff Number:	3
+Curator's Name:	Mr Avhatakali Mamatsharaga
+Director's Name:	Mr Christopher Willis
+Educational Staff Number:	4
+Horticultural Staff Number:	3
+Info:	  South Africa - Mpumalanga - Nelspruit  ;Garden Information;  Institution Code: NBGL; International Agenda Registration: Yes; BGCI Member: Yes; About the Lowveld National Botanical Garden Parastatal organisation (SANBI) under the national Department of Environment, Forestry & Fisheries (DEFF), South Africa; ; Rugged, rocky river scenery is the perfect, spectacular setting for Nelspruit's main tourist attraction, the Lowveld National Botanical Garden, situated in the heart and at the hub of Mpumalanga. The 159 ha garden straddles the Crocodile and Nels Rivers. Viewed from the air, it is clear that the two Rivers dominate the scene and determine the character of this Garden. The Crocodile surges through a narrow, solid rock gorge that has been scoured out and pot-holed over millennia, while the Nels River tumbles down a waterfall from the west, to converge with the Crocodile in a serene pool on a bend in the river.;  Main Address:; Lowveld National Botanical Garden; South African National Biodiversity Institute,; P.O.Box 1024, NELSPRUIT 1200, South Africa.; Nelspruit; Mpumalanga South Africa; ;  Telephone: +27 (0)13 752 5531; Fax: +27 (0)13 752 6216; URL: <a target="_blank" href="http://www.sanbi.org">www.sanbi.org; Primary Email: a.mamatsharaga@sanbi.org.za ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	640.00 Metres
+Annual Rainfall:	750 mm
+Date founded:	1969
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-25.4500
+Local Address:	Off R40 - White River Road, Nelspruit
+Locality:	Information
+Longitude:	30.4833
+Natural Vegetation Area:	Yes
+Total Area:	159 Hectares
+Total area of shadehouses:	200 Metres
+Arboretum:	Yes
+Arboretum Size:	15
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	75000
+Number of Volunteers:	8
+Open to public:	Yes
+Accession Number:	3000
+Cultivation Taxa Num:	1500
+Special Collections:	Cycads mainly South African as well as trees of southern Africa 720 species. Cycads - genus Encephalartos
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

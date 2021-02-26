@@ -1,0 +1,11 @@
+ID:	5104
+Name:	Botanischer Garten und Botanisches Museum Berlin - Seed Bank 
+Curator's Name:	Gabriele Dröge, Coordinator, DNA-Bank
+Director's Name:	Prof. Dr. Thomas Borsch, Director
+Info:	  Germany - Deutschland - Berlin - Berlin  ;Garden Information;  Institution Code: BSB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten und Botanisches Museum Berlin - Seed Bank; Freie Universität Berlin; Königin-Luise-Straße 6-8; Berlin; Berlin D-14195 Germany - Deutschland; ;  Telephone: 49 (0)30 838 50 100; Fax: 49 (0)30 838 50 186; URL: <a target="_blank" href="http://www.bgbm.org">www.bgbm.org; Primary Email: zebgbm@bgbm.org ; 
+Plant Records Officer's Name:	Dr. Elke Zippel, Seed Bank Curator
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	52.4500
+Longitude:	13.3000
+Seed Bank:	Yes

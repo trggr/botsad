@@ -1,0 +1,10 @@
+ID:	954
+Name:	Jardin Botanique Laboratoire de Biologie Vegetale 
+Curator's Name:	
+Director's Name:	Jean-Pierre Profizi
+Info:	  Benin - Cotonou  ;Garden Information;  Institution Code: BENIN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique Laboratoire de Biologie Vegetale; Universite Nationale du Benin B.P. 526 COTONOU Benin; Cotonou; Benin; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	6.3505
+Longitude:	2.4331

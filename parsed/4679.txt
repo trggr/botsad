@@ -1,0 +1,9 @@
+ID:	4679
+Name:	Springfield-Greene County Botanical Center 
+Curator's Name:	Katie Steinhoff, Center Coordinator
+Director's Name:	Benjamin Kellner, Parks Supervisor
+Info:	  United States of America - Missouri - Springfield  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Springfield-Greene County Botanical Center; 1923 North Weller; Springfield; Missouri 65803 United States of America; ;  Telephone: (417) 864-1178; Fax: ; URL: <a target="_blank" href="http://www.parkboard.org">www.parkboard.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	37.2326795
+Longitude:	-93.2679854

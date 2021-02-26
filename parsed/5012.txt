@@ -1,0 +1,10 @@
+ID:	5012
+Name:	Jimma Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Ethiopia - Jimma  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Jimma Botanic Garden This new botanic garden is managed by the Ethiopian Institute of Biodiversity Conservation.;  Main Address:; Jimma Botanic Garden; Jimma; Ethiopia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	7.683645
+Longitude:	36.823382

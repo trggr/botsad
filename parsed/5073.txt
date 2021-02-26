@@ -1,0 +1,11 @@
+ID:	5073
+Name:	Oman Botanic Garden - Seed Bank 
+Curator's Name:	
+Director's Name:	
+Info:	  Oman - Muscat  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oman Botanic Garden - Seed Bank; P.O. Box 808; Muscat; 122 Oman; ;  Telephone: 00968-24531916; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	23.5609
+Longitude:	58.1287
+Seed Bank:	Yes

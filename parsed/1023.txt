@@ -1,0 +1,11 @@
+ID:	1023
+Name:	Wail Arboretum 
+Curator's Name:	Lynn Wolfe
+Director's Name:	
+Info:	  Australia - Dimboola  ;Garden Information;  Institution Code: WAIL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wail Arboretum; National Resources & Conservation League, PO Box 117 DIMBOOLA, VIC 3414, Australia; Dimboola; Australia; ;  Telephone: 61 (0)3 5389 1733; Fax: 61 (0)3 5389 8965; URL: <a target="_blank" href="http://">; Primary Email: native@netconnect.com.au ; 
+Plant Records Officer's Name:	Lynn Wolfe
+Date founded:	1946
+Institution Type:	Botanic Garden
+Latitude:	-36.50804
+Longitude:	142.09093
+Special Collections:	90 % of collection if Australian flora.

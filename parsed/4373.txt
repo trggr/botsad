@@ -1,0 +1,12 @@
+ID:	4373
+Name:	Hong-reung Arboretum 
+Curator's Name:	Myoung-Seop Choe
+Director's Name:	Myoung-Seop Choe
+Info:	  South Korea - Seoul  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hong-reung Arboretum; 57, Huegi-dong, Dongdaemun-gu; Seoul; 130-712 South Korea; ;  Telephone: 02-961-2551; Fax: 02-961-2629; URL: <a target="_blank" href="http://www.kfri.go.kr">http://www.kfri.go.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	37.5931
+Local Address:	동대문구 청량리동 207번지 국립산림과학원
+Locality:	Information
+Longitude:	127.04366

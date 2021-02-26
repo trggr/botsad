@@ -1,0 +1,75 @@
+ID:	4212
+Name:	Guldborgsund Zoo & Botanical Garden 
+Administration Staff Number:	2
+Curator's Name:	John Steno
+Director's Name:	Steen Frederiksen
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Info:	  Denmark - Nykoebing  ;Garden Information;  Institution Code: NYKOE; International Agenda Registration: No; BGCI Member: Yes; About the Guldborgsund Zoo & Botanical Garden Guldborgsund Zoo is an zoological garden in wich we're planning a botanical garden. We're still in the primary stage of this development. We're in the process of making a masterplan, but we also have made the first steps into making visible changes in the garden, that a botanical garden is about to emerge in the near future.;  Main Address:; Guldborgsund Zoo & Botanical Garden; Ostre Alle 97; Nykoebing; 4800 Denmark; ;  Telephone: +45 5485 2076; Fax: +45 5485 2026; URL: <a target="_blank" href="http://www.guldborgsundzoo.dk">www.guldborgsundzoo.dk; Primary Email: info@guldborgsundzoo.dk ; 
+Plant Records Officer's Name:	John Steno
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Annual Rainfall:	584 mm
+Date founded:	1933
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	56.7916
+Local Address:	
+Locality:	Information
+Longitude:	8.8679
+Natural Vegetation Area:	No
+Total Area:	7 Hectares
+Total area of glasshouses:	450 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	70000
+Number of Volunteers:	1
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	1100
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

@@ -1,0 +1,39 @@
+ID:	4889
+Name:	Moore Farms Botanical Garden 
+Fax:	
+Info:	  United States of America - South Carolina - Lake City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
+Primary Email:	info@moorefarmsbg.org
+Telephone:	(843) 210-7582
+Administration Staff Number:	3
+Curator's Name:	
+Director's Name:	Robby Davidson, Director of Horticulture
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	Tierney Rosenstock, Plant Recorder
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2002
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	33.861628
+Longitude:	-79.822542
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Lake City Landscapes
+Total Area:	214 Hectares
+Computer Plant Record System:	Yes
+Number of Visitors:	13545
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	8639
+Cultivation Taxa Num:	5844
+Plant Collection Policy:	Yes
+Special Collections:	Our collection focuses on plants that perform well in the southeastern United States, and more specifically, those that thrive in eastern South Carolina. Of this broad group, our collections of southern heritage plants and South Carolina native plants achieve the greatest quality and depth. Those that are the top performers in our garden are promoted and distributed. We are continually acquiring new plants through nurseries, field collecting trips and plant sharing with other gardens.
+Special collections:	Magnolia grandiflora, Taxodium, SC Native Plants, and Southern Heritage Plants
+Horticulture:	Yes
+Courses for General Public:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

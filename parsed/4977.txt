@@ -1,0 +1,9 @@
+ID:	4977
+Name:	Galway Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  Ireland - County Clare - Feakle  ;Garden Information;  Institution Code: BG5749; International Agenda Registration: No; BGCI Member: No;  Main Address:; Galway Botanic Garden; Lower Lecarrow; Feakle; County Clare Ireland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://galwaybotanicgarden.ie/">http://galwaybotanicgarden.ie/; Primary Email: info@galwaybotanicgarden.ie ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	52.9156
+Longitude:	-8.6336

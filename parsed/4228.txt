@@ -1,0 +1,11 @@
+ID:	4228
+Name:	Bartram's Garden 
+Curator's Name:	Todd Greenberg, Head Gardener
+Director's Name:	Maitreyi Roy, Executive Director
+Info:	  United States of America - Pennsylvania - Philadelphia  ;Garden Information;  Institution Code: BARTR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bartram's Garden; 54th Street and Lindbergh Boulevard; Philadelphia; Pennsylvania 19143 United States of America; ;  Telephone: (215) 729-5281; Fax: (215) 729-1047; URL: <a target="_blank" href="http://www.bartramsgarden.org">www.bartramsgarden.org; Primary Email: info@bartramsgarden.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1728
+Institution Type:	Botanic Garden
+Latitude:	39.9334850
+Longitude:	-75.2155720

@@ -1,0 +1,31 @@
+ID:	5095
+Name:	Śląski Ogród Botaniczny w Radzionkowie (Silesian Botanical Garden in Radzionkow) 
+Fax:	
+Info:	  Poland - śląskie - Radzionków  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	ogrodradzionkow@sibg.org.pl
+Telephone:	48 536330776
+Administration Staff Number:	1
+Curator's Name:	Magdalena Maślak PhD
+Director's Name:	Paweł Kojs PhD
+Educational Staff Number:	5
+Horticultural Staff Number:	2
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	2010
+Institution Type:	Botanic Garden
+Latitude:	50.41
+Local Address:	41-922 Radzionków, ul. Księżogórska 90a
+Locality:	Information
+Longitude:	18.89
+Total Area:	16 Hectares
+Arboretum:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Ecosystem Conservation:	Yes
+Education:	Yes

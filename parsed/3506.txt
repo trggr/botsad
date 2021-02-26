@@ -1,0 +1,50 @@
+ID:	3506
+Name:	University of Delaware Botanic Gardens 
+Administration Staff Number:	2
+Curator's Name:	Andrew Adams
+Director's Name:	Valann Budischak, Interim Director
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  United States of America - Delaware - Newark  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the University of Delaware Botanic Gardens The University of Delaware Botanic Gardens traces its roots back to the late 1950’s with the planting of specimen trees and shrubs around Townsend Hall at the College of Agriculture and Natural Resources (CANR). These early plantings initially supported undergraduate coursework and evolved over time into gardens.; ; Today, the UD Botanic Garden is a series of twelve gardens on fifteen acres. UDBG continues to be used by faculty, students, Green Industry professionals, and the public, and serves a primary role in supporting the CANR programs in horticulture, plant science, entomology, and landscape design.; ; UD Botanic Gardens contributes to an understanding of the changing relationships between plants and people through education, extension, research, and community support.;  Main Address:; University of Delaware Botanic Gardens; 531 South College Avenue; Mailing: 152 Townsend Hall, Plant & Soil Sciences; Newark; Delaware 19717 United States of America; ;  Telephone: (302) 831-0153; Fax: (302) 831-0605; URL: <a target="_blank" href="http://ag.udel.edu/udbg/">http://ag.udel.edu/udbg/; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1950
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.6676410
+Longitude:	-75.7527060
+Total Area:	6 Hectares
+Arboretum:	Yes
+Arboretum Size:	6
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	1938
+Cultivation Taxa Num:	1401
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Biotechnology:	No
+Education:	Yes
+Plant Breeding:	No
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

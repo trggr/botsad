@@ -1,0 +1,12 @@
+ID:	3045
+Name:	Hefei Botanical Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Anhui - Hefei  ;Garden Information;  Institution Code: HEFEI; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Hefei Botanical Garden; Please change this to Parks and Landscape Bureau of Hefei, West Suburb, Hehuai Road, Hefei, Anhui, 230031, China; Hefei; Anhui China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	31.8666
+Local Address:	中国安徽省合肥市西郊环湖路(原董铺水库东岸)，邮编 230031
+Locality:	Information
+Longitude:	117.2916

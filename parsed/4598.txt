@@ -1,0 +1,9 @@
+ID:	4598
+Name:	American University Arboretum and Gardens 
+Curator's Name:	
+Director's Name:	Mark Feist, Assistant Director of Grounds
+Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; American University Arboretum and Gardens; 4400 Massachusetts Avenue, NW; Washington; District of Columbia 20016-8057 United States of America; ;  Telephone: (561) 404-2010; Fax: ; URL: <a target="_blank" href="http://www.american.edu/arboretum">www.american.edu/arboretum; Primary Email: mfeist@american.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	38.9347082
+Longitude:	-77.0901418

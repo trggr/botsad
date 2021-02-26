@@ -1,0 +1,72 @@
+ID:	3252
+Name:	Jardin Botanico Universidad Tecnologica de Pereira 
+Fax:	57 - 6 - 3212523
+Info:	  Colombia - Risaralda - Pereira  ;Garden Information;  Institution Code: PRD; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jardinbotanico@utp.edu.co
+Telephone:	57 - 6 - 3212523
+Administration Staff Number:	8
+Curator's Name:	Dorían Ruiz Penagos
+Director's Name:	Jorge Hugo García Sierra
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	JABUTP
+Research Staff Number:	5
+Altitude:	1475.00 Metres
+Annual Rainfall:	4000 mm
+Date founded:	1983
+Institution Type:	Botanic Garden
+Latitude:	4.790444
+Local Address:	Cra 27 No 10-02
+Locality:	Information
+Longitude:	-75.689083
+Natural Vegetation Area:	Yes
+Total Area:	13 Hectares
+Arboretum:	Yes
+Arboretum Size:	13
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	16000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	1932
+Cultivation Taxa Num:	522
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	The collection of plants of our Botanical Garden, obeys to the National Policy of plants conservation, with the geographical representation of our own location in Andean mountains. As an objective group we have those families and species in some threat category, endemic, rare in the ecosystem, ethnobotanical use or high relevance for the processes of generating food sources for the local fauna.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Plant Breeding:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

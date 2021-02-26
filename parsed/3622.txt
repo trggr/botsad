@@ -1,0 +1,31 @@
+ID:	3622
+Name:	Hortus Overzee 
+Fax:	0031 223 684830
+Info:	  Netherlands - Den Helder  ;Garden Information;  Institution Code: HELDE; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	info@hortusoverzee.nl
+Telephone:	0031 223 614206
+Administration Staff Number:	2
+Curator's Name:	Mrs. J.A.C. van Dam
+Director's Name:	Mr. P. Blank
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Plant Records Officer's Name:	Mrs. J.A.C. van Dam
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1993
+Institution Type:	Botanic Garden
+Latitude:	52.9531
+Longitude:	4.7461
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+Horticulture:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

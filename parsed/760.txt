@@ -1,0 +1,31 @@
+ID:	760
+Name:	Jardin alpin "La Thomasia" 
+Fax:	
+Info:	  Switzerland - LAUSANNE  ;Garden Information;  Institution Code: LAU; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jardinpontdenant@hotmail.com
+Telephone:	+4124 498 13 32
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Dr. François Felber
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	François Bonnet
+Research Staff Number:	
+Altitude:	1260.00 Metres
+Annual Rainfall:	1800 mm
+Institution Type:	Botanic Garden
+Latitude:	46.2500
+Local Address:	Jardin alpin de Pont de Nant
+Locality:	Information
+Longitude:	7.1000
+Total Area:	1 Hectares
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Cultivation Taxa Num:	2000
+Special Collections:	Mountain flora from the Alps, Pyrenees, Balkans and other alpine regions of the world. A collection of sub-alpine trees.
+Ex Situ Conservation Programme:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Guided Tours:	Yes

@@ -1,0 +1,10 @@
+ID:	1377
+Name:	Botanical Gardens 
+Curator's Name:	
+Director's Name:	
+Info:	  Pakistan - Faisalabad  ;Garden Information;  Institution Code: FAISB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Gardens; University of Agriculture,; Faisalabad; Pakistan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	31.4165
+Longitude:	73.0772

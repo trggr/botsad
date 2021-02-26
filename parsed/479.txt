@@ -1,0 +1,49 @@
+ID:	479
+Name:	Orto Botanico di Napoli - University of Study Federico II 
+Administration Staff Number:	3
+Curator's Name:	Dr Menale
+Director's Name:	Prof. Paolo Caputo
+Educational Staff Number:	3
+Horticultural Staff Number:	40
+Info:	  Italy - Campania - Napoli  ;Garden Information;  Institution Code: NAP; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Orto Botanico di Napoli - University of Study Federico II; FAO: Dr Rosa Muoio; Via Foria 223; Napoli; Campania 80139 Italy; ;  Telephone: +39- 081449759; Fax: +39 - 081295351; URL: <a target="_blank" href="http://www.ortobotanico.unina.it">www.ortobotanico.unina.it; Primary Email: muoio@unina.it ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1807
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.8555
+Local Address:	Via Foria 223, 80139 Napoli - Italy
+Locality:	Information
+Longitude:	14.2627
+Total area of glasshouses:	6000 Metres
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Number of Visitors:	40000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	25000
+Cultivation Taxa Num:	3000
+Special Collections:	The actual work done by the Botanical Garden is mainly research, teaching and the conservation of rare species or those at risk of extinction besides the cultivation and presentation of museum collections and the organization of artistic and cultural exhibitions.
+The research done by the Botanical Garden is principally the study of the macro and micromorphological characteristics of some groups of plants for example:	cycadales and orchidaceae, ethnobotanical researches in rural areas of central and southern Italy and the analysing of vegetable fossils from geographical sites in the Campania region. Furthermore it is clear that the collections of the Botanical Garden represent a reservoir of vegetal substances used for studies purposes by researchers in the Plant Biology Section of the Department of Biological Science.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Molecular Genetics:	Yes
+Pollination Biology:	Yes
+Systematics and Taxonomy:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

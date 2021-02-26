@@ -1,0 +1,28 @@
+ID:	439
+Name:	Georgetown Botanical Gardens 
+Administration Staff Number:	2
+Curator's Name:	Ms Yolanda Vasconcellos
+Director's Name:	Ms Inge Nathoo
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  Guyana - Georgetown  ;Garden Information;  Institution Code: BRG; International Agenda Registration: No; BGCI Member: No; About the Georgetown Botanical Gardens associated nature reserves Kaieteur National Park (627 sq km);  Main Address:; Georgetown Botanical Gardens; National Parks Commission; National Park, Thomas Road, Thomas Lands; Georgetown; Guyana; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.landofsixpeoples.com/h2pict.htm and search Botanic Gardens">www.landofsixpeoples.com/h2pict.htm and search Botanic Gardens; Primary Email: ; 
+Plant Records Officer's Name:	Ms Yolanda Vasconcellos
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	6.7921
+Longitude:	-58.1684
+Natural Vegetation Area:	Yes
+Computer Plant Record System:	Yes
+Number of Visitors:	130000
+Number of Volunteers:	62
+Open to public:	Yes
+Cultivation Taxa Num:	100
+Special Collections:	Contains a diverse collection of tropical ornamental and woody plants, including representatives of about 20 plant families, Palms, commercial hardwoods, mangrove
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Restoration Ecology:	Yes

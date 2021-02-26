@@ -1,0 +1,49 @@
+ID:	1010
+Name:	Albury Botanic Garden 
+Fax:	+612 6043 5888
+Info:	  Australia - New South Wales - Albury  ;Garden Information;  Institution Code: ALBUR; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	pscannell@alburycity.nsw.gov.au
+Telephone:	+612 6043 5699
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Paul Scannell
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	Paul Scannell
+Research Staff Number:	
+Altitude:	230.00 Metres
+Annual Rainfall:	650 mm
+Date founded:	1877
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-36.0814158
+Local Address:	Cnr of Dean St and Wodonga Place Albury
+Locality:	Information
+Longitude:	146.9101429
+Natural Vegetation Area:	No
+Total Area:	4 Hectares
+Total area of glasshouses:	70 Metres
+Total area of shadehouses:	40 Metres
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Number of Visitors:	130
+Number of Volunteers:	5
+Open to public:	Yes
+Cultivation Taxa Num:	890
+Special Collections:	10% of collection is Australian flora.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Education:	Yes
+Exploration:	Yes
+Invasive Species Biology and Control:	Yes
+Pollination Biology:	Yes
+Urban Environments:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

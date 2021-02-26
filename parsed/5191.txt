@@ -1,0 +1,80 @@
+ID:	5191
+Name:	Ocean Flower Island Botanical Garden 
+Fax:	
+Info:	  China - Guangdong - Guangzhou  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	tianqi@evergrande.com
+Telephone:	8620-3865 8850
+Administration Staff Number:	17
+Curator's Name:	Tian Qi
+Director's Name:	Tian Qi
+Educational Staff Number:	6
+Horticultural Staff Number:	35
+Plant Records Officer's Name:	Qiu Yanlian
+Research Staff Number:	5
+Altitude:	8.00 Metres
+Annual Rainfall:	1823 mm
+Date founded:	2017
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	23.1284947
+Local Address:	Baimajing
+Locality:	Information
+Longitude:	113.3405598
+Natural Vegetation Area:	No
+Total Area:	7 Hectares
+Arboretum:	Yes
+Arboretum Size:	7
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	960000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	10000
+Cultivation Taxa Num:	300
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Plant Collections will from the whole world
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

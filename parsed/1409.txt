@@ -1,0 +1,76 @@
+ID:	1409
+Name:	Arboretum Wojslawice w Niemczy - filia Ogrodu Botanicznego Uniwersytetu Wroclawskiego 
+Fax:	
+Info:	  Poland - dolnośląskie - Wroclaw  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	
+Curator's Name:	
+Director's Name:	dr hab. prof. Zygmunt Kącki
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1890
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	51.1078
+Local Address:	Wojsławice 2 58-230 Niemcza
+Locality:	Information
+Longitude:	17.0385
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	100000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Buxus:	60 species and varietes
+Hemerocallis:	2500 species and varietes
+Hosta:	100 species and varietes
+Hydrangea:	200 species and varietes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Malus:	200 (old traditional varietes)
+Number of taxa in permanent collections:	6000
+Orchard:	
+Perennials:	3500 species and varietes
+Plant Collection Policy:	Yes
+Pyrus:	200 varietes
+Rhododendrons:	900 species and varietes (including Seidel's varietes)
+Special Collections:	Plants in the Collections
+Trees and shrubs:	2500 species and varietes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

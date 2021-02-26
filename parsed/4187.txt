@@ -1,0 +1,9 @@
+ID:	4187
+Name:	Jardín Botánico Naguanagua y Herbario de Carabobo 
+Curator's Name:	
+Director's Name:	
+Info:	  Venezuela - Carabobo - Carabobo  ;Garden Information;  Institution Code: CARAB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Naguanagua y Herbario de Carabobo; Universidad de Carabobo; Apartado Postal es 5143 Valencia; Carabobo; Carabobo Venezuela; ;  Telephone: 58 241 8687378; Fax: 58 241 8687378; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	10.2124
+Longitude:	-67.9304

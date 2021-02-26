@@ -1,0 +1,69 @@
+ID:	3140
+Name:	Jardin Botanico - Rey Nezahualcoyotl 
+Curator's Name:	
+Director's Name:	Dr. Hugo Noe Araiza Arvilla
+Info:	  Mexico - Aguascalientes - Aguascalientes  ;Garden Information;  Institution Code: HUAA; International Agenda Registration: Yes; BGCI Member: No; About the Jardin Botanico - Rey Nezahualcoyotl El jardín botánico Rey Netzahualcoyotl cuebta con plantas del estado de aguascalientes y otros estados de México. Contiene la sección de plantas regionales y de otros estados. la sección de plantas medicinales y la sección de plantas ornamentales tóxicas ademas de un arboretum;  Main Address:; Jardin Botanico - Rey Nezahualcoyotl; Universidad Autonoma de Aguascalientes; Av. Universidad # 940, Ciudad Universitaria; Aguascalientes; Aguascalientes 20131 Mexico; ;  Telephone: 910 74 00 Ext. 334; Fax: ; URL: <a target="_blank" href="http://www.uaa.mx/centros/ccbas/deptos/biologia/pagina/jardinbot.htm">http://www.uaa.mx/centros/ccbas/deptos/biologia/pagina/jardinbot.htm; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	1950.00 Metres
+Annual Rainfall:	550 mm
+Date founded:	1989
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	21.8817
+Local Address:	Av Universidad 940. Ciudad universitaria
+Locality:	Information
+Longitude:	-102.2912
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+2. Plantas de Aguascalientes:	la colección representa la vegetación de todos los municipios de Aguascalientes con alrededor de 70 especies.
+4. Plantas ornamentales tóxicas:	cuenta con 20 especies de plantas tóxicas que se cultivan en jardines y casas.
+5. Plantas de otros estados de México:	esta colección esta representada por 20 especies de otros estados de México.
+Accession Number:	2000
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

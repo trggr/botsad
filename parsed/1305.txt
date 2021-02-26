@@ -1,0 +1,17 @@
+ID:	1305
+Name:	Royal Botanic Gardens Victoria - Cranbourne Gardens 
+Fax:	61 (0)3 5990 2250
+Info:	  Australia - Victoria - Cranbourne  ;Garden Information;  Institution Code: MEL; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	rbg@rbg.vic.gov.au
+Telephone:	61 (0)3 5990 2200
+Curator's Name:	
+Director's Name:	Mr Chris Russell
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	-38.1329334
+Longitude:	145.2734743
+Total Area:	363 Hectares
+Special Collections:	100 % of collection if Australian flora. Leptospermum myrsinoides heathland, Banksia, Callistemon, Dryandra, Proteaceae, wet heathland, grassy woodland, sedge swampland.
+Reintroduction Programme:	Yes

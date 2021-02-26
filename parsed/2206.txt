@@ -1,0 +1,11 @@
+ID:	2206
+Name:	Hamilton Botanic Gardens 
+Curator's Name:	
+Director's Name:	-
+Info:	  Australia - VIC - Hamilton  ;Garden Information;  Institution Code: HMAUS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hamilton Botanic Gardens; Cnr Thompson and French Street; Mailing: PO Box 107; Hamilton; VIC 3300 Australia; ;  Telephone: 61 (0)3 5573 0430; Fax: 61 (0)3 5572 2910; URL: <a target="_blank" href="http://www.hamiltonvictoria.com.au/Main.asp?_=Botanic%20Gardens">http://www.hamiltonvictoria.com.au/Main.asp?_=Botanic%20Gardens; Primary Email: hvic@sthgrampians.vic.gov.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-37.7468076
+Longitude:	142.0238587
+Special Collections:	10 % of collection if Australian flora.

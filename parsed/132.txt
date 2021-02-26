@@ -1,0 +1,34 @@
+ID:	132
+Name:	Botanic Garden of the Jagiellonian University 
+Fax:	(48 12) 663 36 33
+Info:	  Poland - małopolskie - Kraków  ;Garden Information;  Institution Code: KRA; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	hortus@uj.edu.pl
+Telephone:	(48 12) 421 26 20
+Administration Staff Number:	3
+Curator's Name:	
+Director's Name:	dr hab. Józef Mitka, prof. UJ
+Educational Staff Number:	6
+Horticultural Staff Number:	37
+Plant Records Officer's Name:	
+Research Staff Number:	4
+Altitude:	201.00 Metres
+Annual Rainfall:	715 mm
+Date founded:	1783
+Institution Type:	Botanic Garden
+Latitude:	50.0666
+Longitude:	19.9666
+Total Area:	10 Hectares
+Total area of glasshouses:	2500 Metres
+Arboretum:	Yes
+Herbarium:	No
+Number of Visitors:	75000
+Seed Bank:	No
+Cultivation Taxa Num:	6900
+Special Collections:	Cycadeae, Orchidaceae, Cacatceae, Platycerium,Acer, Betula
+Conservation Programme:	Yes
+Education:	Yes
+Courses for University/College Students:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

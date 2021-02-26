@@ -1,0 +1,21 @@
+ID:	1159
+Name:	Mount Pisgah Arboretum 
+Curator's Name:	Tom LoCascio, Site Manager
+Director's Name:	Brad van Appel, Executive Director
+Info:	  United States of America - Oregon - Eugene  ;Garden Information;  Institution Code: MTPA; International Agenda Registration: No; BGCI Member: No; About the Mount Pisgah Arboretum Mount Pisgah Arboretum is a 209-acre living tree museum. Its riverside trails, quiet paths through evergreen forests, water garden teeming with life, bright wildflower meadows, and open views across oak savannas delight all ages. Located within Lane County's Howard Buford Recreation Area, the Arboretum lies between the Coast Fork of the Willamette River and the slopes of Mount Pisgah.;  Main Address:; Mount Pisgah Arboretum; 34901 Frank Parrish Rd.; Eugene; Oregon 97405-9673 United States of America; ;  Telephone: (503) 747-3817; Fax: (541) 741-4904; URL: <a target="_blank" href="http://mountpisgaharboretum.org/">http://mountpisgaharboretum.org/; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1973
+Institution Type:	Botanic Garden
+Latitude:	44.0069740
+Longitude:	-122.9807430
+Natural Vegetation Area:	Yes
+Total Area:	85 Hectares
+Arboretum:	Yes
+Arboretum Size:	85
+Friends society:	Yes
+Open to public:	Yes
+Special Collections:	Native plant species.
+Courses for General Public:	Yes
+Education Programme:	Yes
+Public Lectures/Talks:	Yes

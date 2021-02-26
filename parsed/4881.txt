@@ -1,0 +1,39 @@
+ID:	4881
+Name:	Spring Grove Cemetery and Arboretum 
+Administration Staff Number:	2
+Curator's Name:	David Gressley, Director of Horticulture
+Director's Name:	Jerry Wantz, Executive VP of Operations
+Educational Staff Number:	1
+Horticultural Staff Number:	8
+Info:	  United States of America - Ohio - Cincinnati  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Spring Grove Cemetery and Arboretum In 1845, members of the Cincinnati Horticultural Society created The Cemetery of Spring Grove with the hopes “that the natural setting would be a contemplative atmosphere conducive to consolation, commemoration, and education.” More than 160 years later, the marvelous grounds of Spring Grove Cemetery and Arboretum would undoubtedly exceed what the founding fathers intended.;  Main Address:; Spring Grove Cemetery and Arboretum; 4521 Spring Grove Avenue; Cincinnati; Ohio 45232 United States of America; ;  Telephone: (513) 681-7526; Fax: (513) 853-6802; URL: <a target="_blank" href="http://www.springgrove.org/spring-grove-cemetery.aspx">www.springgrove.org/spring-grove-cemetery.aspx; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1845
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	39.16402
+Local Address:	4521 Spring Grove Ave.
+Locality:	Information
+Longitude:	-84.52351
+Natural Vegetation Area:	Yes
+Total Area:	297 Hectares
+Arboretum:	Yes
+Arboretum Size:	141
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Number of Visitors:	100000
+Number of Volunteers:	30
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	1300
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Serving as a living horticultural laboratory, Spring Grove’s Arboretum boasts a remarkable 1,300 species with over 1,000 labeled for study and research purposes for universities, nurseries, and growers. The Arboretum is dedicated to the protection and stewardship of the cemetery’s heritage and to the promotion of environmental sustainability while increasing the beauty of the garden.
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

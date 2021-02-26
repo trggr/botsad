@@ -1,0 +1,9 @@
+ID:	5337
+Name:	Western Illinois School of Agriculture Greenhouse 
+Curator's Name:	
+Director's Name:	Dr. Andrew Baker, Director
+Info:	  United States of America - Illinois - Macomb  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Western Illinois School of Agriculture Greenhouse; Knoblauch Hall 145; 1 University Circle; Macomb; Illinois 61455 United States of America; ;  Telephone: (309) 298-1080; Fax: (309) 298-2280; URL: <a target="_blank" href="http://www.wiu.edu/cbt/agriculture/greenhouse.php">http://www.wiu.edu/cbt/agriculture/greenhouse.php; Primary Email: AJ-Baker@wiu.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	40.476245
+Longitude:	-90.686641

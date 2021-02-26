@@ -1,0 +1,72 @@
+ID:	2347
+Name:	Maribor University Botanic Garden 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Dr. Andrej Susek
+Educational Staff Number:	3
+Horticultural Staff Number:	4
+Info:	  Slovenia - Hoče  ;Garden Information;  Institution Code: MARIB; International Agenda Registration: No; BGCI Member: Yes; About the Maribor University Botanic Garden Maribor as a university town needs a botanic garden for meeting the requirements of the students of botany at different levels of education. The Maribor University Botanic Garden comprises introduced and native flora, especially the most typical species of Pohorje and north-eastern Slovenia. At the same time it will serve as a research and educational institution open to the wider public. The Garden is located at the foot of Pohorje, partly on the location of the Maribor University Agricultural Centre and partly extending also out of its area. This location has been selected for the following reasons:; ; 1) Botany is a fundamental science providing a basis for all specialist subjects of plant production study programmes. ; 2) Botany is a subject in the curricula of primary, secondary and tertiary educational institutions. ; 3) Habitats at the foot of Pohorje offer ideal natural phytophysiological and ecological conditions, required for the Garden and University Agricultural Centre, of which the Garden is a vital part. ; 4) Besides the representative species of the native flora, the Garden includes also the species introduced from other continents (Asia, Africa, America, Australia), i.e. trees, bushes, perennials, medicinal and water plants, which enables our people to get an insight into these plants in the cheapest possible way; the Garden offers also opportunities for recreation during all the four seasons. ; 5) The Garden facilitates carrying out curricular and extra-curricular activities of schools (excursions, clubs, natural science workshops, etc.). ; 6) It is intended also for raising public awareness of the importance of natural sciences, preservation of biotic diversity and protection of the environment. ; 7) The Garden will serve as another tourist attraction of the town of Maribor, the Hoče municipality and other municipalities in a wider area at the foot of Pohorje and will offer the opportunity for inviting extinguished guests and domestic and foreign tourists.;  Main Address:; Maribor University Botanic Garden; Faculty for Agriculture and Life Sciences, Pivola 10; Hoče; 2311 Slovenia; ;  Telephone: +00 386 2 320 9000; Fax: +386 (02)6130855; URL: <a target="_blank" href="http://www.botanicnivrt.um.si">www.botanicnivrt.um.si; Primary Email: botanicni.vrt@um.si ; 
+Plant Records Officer's Name:	Janez Pivec
+Research Staff Number:	
+Altitude:	200.00 Metres
+Annual Rainfall:	986 mm
+Date founded:	2002
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	46.5573
+Local Address:	Pivola 10, 2311 Hoče
+Locality:	Information
+Longitude:	15.6460
+Natural Vegetation Area:	Yes
+Total Area:	13 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	7000
+Number of Volunteers:	1
+Open to public:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	4485
+Cultivation Taxa Num:	2000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

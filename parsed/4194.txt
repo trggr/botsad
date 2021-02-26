@@ -1,0 +1,75 @@
+ID:	4194
+Name:	University of Peshawar Botanical Garden 
+Fax:	00-92-91-9222267
+Info:	  Pakistan - Khyber Pakhtunkhwa - Peshawar  ;Garden Information;  Institution Code: UPESH; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	asadbotanist@yahoo.com
+Telephone:	00-92-91-9222267
+Administration Staff Number:	22
+Curator's Name:	
+Director's Name:	Dr. Asad Ullah
+Educational Staff Number:	7
+Horticultural Staff Number:	60
+Plant Records Officer's Name:	
+Research Staff Number:	7
+Altitude:	290.00 Metres
+Annual Rainfall:	400 mm
+Date founded:	2005
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	34.15
+Local Address:	Director Centre of Plant Biodiversity/Botanical Garden University of Peshawar, 25120, Peshawar Khyber Pakhtunkhwa Pakistan
+Locality:	Information
+Longitude:	71.43
+Natural Vegetation Area:	Yes
+Total Area:	40 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	1000000
+Number of Volunteers:	100
+Open to public:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

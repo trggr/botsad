@@ -1,0 +1,75 @@
+ID:	4422
+Name:	Botanic Gardens at Kona Kai, The 
+Fax:	
+Info:	  United States of America - Florida - Key Largo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Our Garden mission:	Education - Transformation - Restoration . As an ethnobotanic garden,The Botanic Gardens at Kona Kai endeavors to enhance one's understanding of the significant role plants play in our everyday lives.
+Primary Email:	joe@kkbg.org
+Telephone:	(305) 393-2504
+Administration Staff Number:	1
+Curator's Name:	Emily Magnaghi, Associate Director / Botanist
+Director's Name:	Joe C. Harris, Jr., Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	Emily Magnaghi, Associate Director / Botanist
+Research Staff Number:	1
+Altitude:	1.00 Metres
+Annual Rainfall:	1130 mm
+Date founded:	2009
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	25.0770719
+Local Address:	Overseas Highway
+Locality:	Information
+Longitude:	-80.4604537
+Total Area:	1 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	454
+Cultivation Taxa Num:	430
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

@@ -1,0 +1,25 @@
+ID:	102
+Name:	Shing Mun Arboretum, AFCD 
+Fax:	
+For correspondence:	Flora Conservation Section, AFCD
+Info:	  China - Hong Kong SAR - Hong Kong  ;Garden Information;  Institution Code: HK; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	
+Telephone:	
+Curator's Name:	
+Director's Name:	Director of Agriculture, Fisheries and Conservation
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	22.3813
+Local Address:	Inside Shing Mun Country Park / 位於城門郊野公園內
+Locality:	Information
+Longitude:	114.1686
+Total Area:	4 Hectares
+Arboretum:	Yes
+Arboretum Size:	4
+Disabled access:	No
+Herbarium:	Yes
+Open to public:	Yes
+Cultivation Taxa Num:	300
+Special Collections:	To date, the Arboretum has a total collection of some 300 species, most of which are indigenous to Hong Kong or South China. The Arboretum preserves various plant species including the rare and endangered plants of Hong Kong.
+Education Signs in Garden:	Yes

@@ -1,0 +1,22 @@
+ID:	632
+Name:	Birmingham Botanical Gardens 
+Administration Staff Number:	2
+Curator's Name:	John Manion, Curator
+Director's Name:	Tom Underwood, Executive Director
+Educational Staff Number:	4
+Horticultural Staff Number:	
+Info:	  United States of America - Alabama - Birmingham  ;Garden Information;  Institution Code: BBG; International Agenda Registration: No; BGCI Member: Yes; About the Birmingham Botanical Gardens Birmingham Botanical Gardens is Alabama's largest living museum with more than 10,000 different plants in its living collections. The Gardens' 67.5 acres contains 25+ unique gardens, 30+ works of original outdoor sculpture and miles of serene paths. ; ; The Gardens features the largest public horticulture library in the U.S., conservatories, a wildflower garden, two rose gardens, the Southern Living garden, and a Japanese garden with a traditionally crafted tea house. Education programs run year round and over 11,000 school children enjoy free science-curriculum based field trips annually.;  Main Address:; Birmingham Botanical Gardens; 2612 Lane Park Road; Birmingham; Alabama 35223 United States of America; ;  Telephone: (205) 414-3903; Fax: (205) 414-3906; URL: <a target="_blank" href="http://www.bbgardens.org">www.bbgardens.org; Primary Email: jehorto@ci.birmingham.al.us ; 
+Plant Records Officer's Name:	James Horton, Director of Horticulture
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1964
+Institution Type:	Botanic Garden
+Latitude:	33.4890720
+Longitude:	-86.7743630
+Total Area:	28 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	350000
+Open to public:	Yes
+Special Collections:	Polypodiaceae (56 spp., 74 taxa), Orchidaceae (78 spp., 391 taxa), Hemerocallis (640 taxa), Rosa (16 taxa), Rhododendron (36 spp., 234 taxa), Iris (20 spp., 245 taxa), Camellia (13 spp., 220 taxa), Hosta (15 spp., 119 taxa), Cornus, cacti & succulents, Ma

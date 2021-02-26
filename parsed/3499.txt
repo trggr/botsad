@@ -1,0 +1,17 @@
+ID:	3499
+Name:	San Francisco Conservatory of Flowers 
+Administration Staff Number:	1
+Curator's Name:	Lau Hodges, Director of Operations and Exhibitions
+Director's Name:	Matthew Stephens, Director of SFBG and SFCF
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  United States of America - California - San Francisco  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; San Francisco Conservatory of Flowers; 100 John F. Kennedy Drive; Golden Gate Park; San Francisco; California 94118 United States of America; ;  Telephone: (415) 831-2090; Fax: (415) 661-3539; URL: <a target="_blank" href="http://www.conservatoryofflowers.org">www.conservatoryofflowers.org; Primary Email: info@sfcof.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1879
+Institution Type:	Botanic Garden
+Latitude:	37.7724390
+Longitude:	-122.4602020
+Open to public:	Yes
+Reintroduction Programme:	No

@@ -1,0 +1,10 @@
+ID:	3527
+Name:	Arboretum de Especies Nativas y Exóticas de la Facultad de Recursos Naturales 
+Curator's Name:	Eduardo Isaac Varela
+Director's Name:	Ing. Ftal. Darvin A. Cáceres
+Info:	  Argentina - 3600 - Formosa  ;Garden Information;  Institution Code: FORM; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Arboretum de Especies Nativas y Exóticas de la Facultad de Recursos Naturales; Universidad Nacional de Formosa, Av. Gutniski 3.200, (3600) Formosa; Formosa; 3600 Argentina; ;  Telephone: 54 (0) 370 4840063; Fax: 54 (0) 3717-452-241; URL: <a target="_blank" href="http://">; Primary Email: darvincaceres@yahoo.com.ar ; 
+Plant Records Officer's Name:	Ricardo Orquera
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	-26.1833
+Longitude:	-58.1833

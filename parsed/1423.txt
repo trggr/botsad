@@ -1,0 +1,53 @@
+ID:	1423
+Name:	Mercer Botanic Gardens 
+Administration Staff Number:	6
+Curator's Name:	Anita Tiller, Botanist and Conservation Manager
+Director's Name:	Chris Ludwig, Garden Director
+Educational Staff Number:	2
+Horticultural Staff Number:	23
+Info:	  United States of America - Texas - Humble  ;Garden Information;  Institution Code: MERCA; International Agenda Registration: No; BGCI Member: Yes; About the Mercer Botanic Gardens An oasis of serenity and natural beauty along Cypress Creek, Mercer Botanic Gardens is a horticultural masterpiece. These 400+ acres of East Texas Piney Woods showcase the region’s largest documented collection of native and exotic cultivated plants. A living museum, it is also home to a wealth of animal life.;  Main Address:; Mercer Botanic Gardens; The Mercer Society; 22306 Aldine Westfield Road; Humble; Texas 77338 United States of America; ;  Telephone: 713-274-4160; Fax: 713-437-8639; URL: <a target="_blank" href="http://www.hcp4.net/mercer/">www.hcp4.net/mercer/; Primary Email: mercerbotanicgardens@hcp4.net ; 
+Plant Records Officer's Name:	Anita Tiller
+Research Staff Number:	3
+Altitude:	26.00 Metres
+Annual Rainfall:	1346 mm
+Date founded:	1974
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	30.0390200
+Local Address:	29.955787 -95.526537
+Locality:	Information
+Longitude:	-95.3808110
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Harris County Precinct 4 Prairie Dawn Preserve
+Total Area:	162 Hectares
+Total area of shadehouses:	138 Metres
+Arboretum:	Yes
+Arboretum Size:	70
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	200000
+Number of Volunteers:	300
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Acanthaceae, Apocynaceae, Malvaceae, Solanaceae, Zingiberaceae, Crinum (20 spp., 45 taxa), Impatiens (18 spp., 33 taxa), Plumerica (3 spp., 30 taxa), Bambusoideae -bamboos (40 taxa), ferns, daylilies, Azaleas, Louisiana Iris (175 taxa), Hibiscus, water li
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

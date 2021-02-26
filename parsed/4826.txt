@@ -1,0 +1,72 @@
+ID:	4826
+Name:	Knightshayes 
+Administration Staff Number:	1
+Curator's Name:	Head Gardener - Jess Evans
+Director's Name:	Hilary McGrady
+Educational Staff Number:	
+Horticultural Staff Number:	6
+Info:	  United Kingdom - Devon - Tiverton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Knightshayes The original Victorian garden was designed by the celebrated landscaper Edward Kemp, but the present more extensive gardens owe much to the late Sir John and Lady Heathcoat Amory who gave Knightshayes to the National Trust in 1972. The Amorys together designed, planted and maintained growing collections of magnolia, rhododendron, unusual trees and shrubs, bulbs and herbaceous plants within their "Garden in the Wood". This is laid out beyond the formal lawns surrounded by battlemented yews, a topiary chase scene and a circular lily pool. Knightshayes is a collection of gardens linked together by design using plant texture and colour to provide interest from early springtime to the autumn.; ; The walled garden is part of the original Victorian layout and was restored in 2011. It is soil association approved and is managed using stock free and low tillage methods. The varieties grown are generally classic or modern but we do care for a collection of about 150 varieties of tomatoes in seed and grow about 30-50 different varieties a year.;  Main Address:; Knightshayes; Bolham; Tiverton; Devon EX16 7RQ United Kingdom; ;  Telephone: 01884 254665; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/knightshayes-court/">http://www.nationaltrust.org.uk/knightshayes-court/; Primary Email: knightshayes@nationaltrust.org.uk ; 
+Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1869
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	50.926427
+Longitude:	-3.481047
+Natural Vegetation Area:	Yes
+Total Area:	102 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	180
+Number of Volunteers:	60
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	A large woody collection with good collections of Rhododendrons, Hydrangeas, conifers, Camellias and Acers. A fair number of plants from the International Conifer Conservation Programme including Torreyas and Fitzroyas
+Conservation Programme:	No
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

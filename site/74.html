@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: 215px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>Dunedin Botanic Garden</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=74"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>New Zealand - Dunedin</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+														<li><a href="#tabs-2">Community Projects</a></li>
+																				</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> DUN</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: No</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: Yes</p>
+							
+														<p><a href="http://www.arbnet.org" target="_blank">ArbNet Accredited</a>: 
+								Level III							</p>
+														
+														<div class="garden-photo">
+								<img src="/photos/74/DunedinNZ.jpg" alt="View of Winter Garden from Arboretum" />
+								<div>View of Winter Garden from Arboretum</div>
+							</div>
+											
+														<p>
+								<b>Main Address:</b><br />
+								Dunedin Botanic Garden<br />
+								Dunedin City Council<br />								P O Box 5045<br />								Dunedin<br />								9058 New Zealand<br />
+							</p>
+							<p>
+								<b>Telephone:</b> 64 (0)3 477 4000<br />
+								<b>Fax:</b> 64-(0)3 473 9240<br />
+								<b>URL:</b> <a target="_blank" href="http://www.cityofdunedin.com/city/?page=bg_about">www.cityofdunedin.com/city/?page=bg_about</a><br />
+								<b>Primary Email:</b> botanic@cityofdunedin.com							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: Alan Matchett<br />
+										Curator's Name: Alan Matchett<br />
+										Plant Records Officer's Name: Tom Myers<br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: 21<br />
+										Educational Staff Number: 1<br />
+										Research Staff Number: <br />
+										Administration Staff Number: 6									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+										Status: Private: No<br />										Status: State: No<br />										Status: Educational: Yes<br />										Status: Municipal: Yes<br />										Status: Satellite: No<br />										Status: Trust: No<br />									</li>
+															
+																		<li>Date founded: 1863</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+																		<li>
+										Natural Vegetation Area: Yes<br />										Natural vegetation area: Size: 10 Hectares<br />									</li>
+															
+																		<li>
+										Landscaped Area: Yes<br />										Landscaped Area: Size: 18 Hectares<br />									</li>
+															
+									<li>
+										Total Area: 28 Hectares<br />										Latitude: -45.857458<br />										Longitude: 170.521135<br />										Annual Rainfall: 926 mm<br />										Altitude: 200.00 Metres<br />										Total area of glasshouses: 1285 Metres<br />										Total area of shadehouses: 342 Metres<br />									</li>
+									
+															
+																		<li><b>Locality: Information</b></li>
+									<li>Locality: Garden Name: </li>
+									<li>Local Address: Corner of Great King Street and Opoho Road</li>
+									<li>Locality: City: Dunedin</li>
+									<li>Locality: State: </li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+										Herbarium: Yes<br />										Herbarium: Number of Specimens: 1000<br />										Arboretum: Yes<br />										Arboretum Size: 8<br />									</li>
+															
+																		<li>
+										Micropropagation/ Tissue Culture Facilities: No<br />										Seed Bank: No<br />										Published Plant Catalogue: No<br />										Computer Plant Record System: Yes<br />									</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: Yes<br />										Retail Outlet: Shop: No<br />										Retail Outlet: Plant Sales: Yes<br />										Disabled access: Yes<br />									</li>
+															
+																		<li>
+										Number of Visitors: 250000<br />										Number of  Volunteers: 46<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 18000<br />																			</li>
+															
+																		<li><b>Special Collections:</b>Native flora and cultivars (>1350), Rhododendron (>500 spp.), trees and shrub collection, Brachyglottis spp. and cvs, alpines, hebes, pittosporums, conifers, herbaceous geographical collections: Australia (530 spp. of which 110 native to Tasmania and 35 cvs GreviStudbook for kea, the native bird</li>
+																
+																		<li>
+										Invasive Species Monitoring: Yes<br />
+										Invasive Species Policy: No<br />
+										ABS Policy: Yes<br />
+										Plant Collection Policy: Yes<br />
+									</li>
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: No<br />										Medicinal Plant Programme: No<br />										Ex Situ Conservation Programme: No<br />										Reintroduction Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+										Biotechnology: No<br />										Plant Breeding: No<br />										Conservation - Biology: Yes<br />										Conservation - Genetics: No<br />										Data Management Systems and Information Technology: Yes<br />										Ecology: Yes<br />										Ecosystem Conservation: Yes<br />										Education: Yes<br />										Ethnobotany: Yes<br />										Exploration: Yes<br />										Floristics: No<br />										Horticulture: Yes<br />										Invasive Species Biology and Control: Yes<br />										Molecular Genetics: No<br />										Pollination Biology: No<br />										Restoration Ecology: No<br />										Seed/Spore Biology: Yes<br />										Systematics and Taxonomy: No<br />										Sustainability: Yes<br />										Pharmacology: No<br />										Agriculture: No<br />										Land Restoration: No<br />										Urban Environments: No<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: Yes<br />										Education Booklets/Leaflets: Yes<br />										Guided Tours: Yes<br />										Permanent Public Displays: Yes<br />										Special Exhibitions: Yes<br />										Courses for School Children: Yes<br />										Courses for University/College Students: No<br />										Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												<div id="tabs-2">
+																					<div class="garden-project" style="margin-top:1em">
+								<h3>Malcam Trust Project Green Job</h3>
+																<!-- <img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Malcam_trust.jpg" alt="" /> -->
+																<p style="text-align: justify;"><a href="http://www.dunedinbotanicgarden.co.nz/" target="_blank">Dunedin Botanic Garden</a> works with the <a href="http://malcam.org.nz/" target="_blank">Malcam Trust</a> and employs young people, who have been affected by social problems, to undertake maintenance of the garden grounds through a 6 month training and employment program to provide them with skills and work experience and allow them to contribute to the local community in the future.<br /><br /> Project Green Job provides the opportunity for young people at risk to work in a well established botanic garden and gain practical skills, a sense of achievement and pride in the work they carry out. By participating, these young people gain core skills in grounds maintenance and machinery.</p>
+<p style="text-align: justify;"><strong>Started in 2009, the project is ongoing.</strong>&nbsp;&nbsp;</p>
+<table style="height: 276px;" border="0" width="308" align="center">
+<tbody>
+<tr>
+<td><a href="http://www.youtube.com/watch?v=qryI6LN7xos" target="_blank"><img style="margin-right: auto; margin-left: auto; display: block;" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/dunedin_video_icon.jpg" alt="" width="341" height="194" border="0" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5>This video contains more information about the gardens education programme.</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3 style="text-align: justify;"><strong>ABOUT</strong></h3>
+<p style="text-align: justify;">The project offers paid opportunities and training in grounds maintenance to graduates from the Malcam Trust&rsquo;s Youth at Risk foundation course- which caters for a range of disadvantaged young people, from those who have tough childhoods to those who may have been unemployed for an extended period. These apprentices are considered to be staff and their wages paid via the core funding of the garden, therefore the project can continue unhindered, long&ndash;term as there is no need to seek out additional funding. <br /> <br /> The Malcam Trust employs and administers a full-time Grounds Supervisor and three trainees. Garden staff oversee the workers and regularly meet with Trust Management and Grounds Supervisor to ensure the project is going according to plan.</p>
+<table style="height: 349px;" border="0" width="309" align="center">
+<tbody>
+<tr>
+<td><img style="margin-right: auto; margin-left: auto; display: block;" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_lucy.jpg" alt="" width="326" height="243" border="0" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5><em>&nbsp;Malcam Trust trainee, Lucy Grigg, learning rose pruning </em><em>from Collection Curator, Linda Hellyer. <br /></em>&copy; Dunedin Botanic Garden</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;"><br /><br />Young people accepted into each course must have displayed a strong interest in working outside and must have completed the Malcam Trust Foundation Course. Those who excel on the 6 month placement at the garden are then able to apply for one of the trainee positions, to further extend their skills. This prepares interested participants for future employment in grounds maintenance with other organisations and can also provide a step up to applying for the 3 year Apprenticeship in Amenity Horticulture (link) at Dunedin Botanic Garden. <br /> <br /> While not all graduate trainees stay in the industry, Project Green Job provides experience and skills which are transferable, such as, turning up to a job on time every day, a positive work ethic, effective communication, motivation and a sense of personal value and self-worth. <br /> <br /> Since, these are youth who may not otherwise be exposed to the work of a botanic garden, the fact that the course teaches a wide range of people the value of a botanic garden and plant conservation is another valuable benefit. This knowledge will often be transferred to their friends and family providing wider learning experience to the community.</p>
+<table border="0" align="center">
+<tbody>
+<tr>
+<td>&nbsp;<img style="margin-right: auto; margin-left: auto; display: block;" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_eroni.jpg" alt="" width="326" border="0" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5>&nbsp;<em>Malcam Trust trainee Eroni Fitiao mowing lawns.<br /></em>&copy; Dunedin Botanic Garden.</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<address><em>&nbsp;</em></address>
+<h3><strong><br />IMPACTS </strong></h3>
+<p style="text-align: justify;">All staff currently working under collection curators are apprentices. <br /> <br /> The impacts are greatest in the personal development of the trainees. Over the 6 month period this is often huge. The course produces well rounded graduates who can contribute to the local community.<br /> <br /> Two Project Green Job graduates have been accepted onto the 3 year horticulture apprenticeship at Dunedin Botanic Garden. Other graduates have gone on to work in grounds maintenance of city parks and reserves for local contractors.<br /><br /> The Dunedin Botanic Garden and Dunedin City Council are also looked on as a good example of how an employer can work with a youth training organisation to achieve social as well as organisational aims and objectives. This has resulted in Malcam Trust entering into partnerships with other host companies in other industry sectors to provide similar opportunities for young people.&nbsp;</p>
+<table style="height: 297px;" border="0" width="127" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_tom_and_logan.jpg" alt="" width="326" border="0" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5 style="text-align: center;">&nbsp;<em>Malcam Trust trainees Thomas Davies and Logan Heydon resurfacing paths.</em> <br />&copy; Dunedin Botanic Garden.</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>&nbsp;</h3>
+<h3><strong><br />WHAT&rsquo;S NEXT?</strong></h3>
+<p style="text-align: justify;">The Garden is committed to continue running the Project Green Job in collaboration with the Malcam Trust for the foreseeable future.</p>
+<h3><br /><strong>PRACTITIONERS &amp; SPONSORS</strong></h3>
+<p><strong>Barbara Wheeler</strong>, Collections Supervisor<br /><br /> <strong><a href="http://malcam.org.nz/" target="_blank">Malcam Trust </a></strong><br /><br /><strong> <a href="http://www.dunedin.govt.nz/" target="_blank">Dunedin City Council</a>&nbsp;</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Dune.jpg" alt="" width="140" border="0" /></td>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/dunedin_logo.jpg" alt="" width="120" border="0" /></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp; <img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Malcam_trust_logo.jpg" alt="" width="130" height="36" border="0" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</tbody>
+</table>																<hr />
+							</div>
+																					<div class="garden-project" style="margin-top:1em">
+								<h3>4Trades/Dunedin Botanic Garden Apprenticeship in Amenity Horticulture</h3>
+																<!-- <img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades.jpg" alt="" /> -->
+																<p style="text-align: justify;"><a href="http://www.dunedinbotanicgarden.co.nz/" target="_blank">Dunedin Botanic Garden&rsquo;s</a> Apprenticeship in Amenity Horticulture, with support from <a href="http://www.jobsletter.org.nz/cat/cat04.htm" target="_blank">4Trades</a>, a project set up by the <a href="http://malcam.org.nz/" target="_blank">Malcam Trust</a> and <a href="http://www.dunedin.govt.nz/" target="_blank">Dunedin City Council</a> aims to provide a high standard of horticultural training to young people from disadvantaged backgrounds.<br /><br />The botanic garden provides foundation training in horticulture skills while 4Trades employ, administer and mentor the nine apprentices per year. Apprentices work alongside collection curator staff to maintain plant collections and the propagation nursery. In addition they are provided with personal development and insight into the importance of botanic gardens and conservation, which helps to raise public awareness of global issues. This training is available to those who have graduated from the Malcam Trust's Project Green Job, which provides training to disadvantaged young people. This offers a way to continue their career development and also offers a away for these youngsters to mix with those from different backgrounds and thus integrate in society. <br /><br /><strong>Started in 2003, the project is ongoing.</strong></p>
+<table style="height: 238px;" border="0" width="182" align="center">
+<tbody>
+<tr>
+<td><a href="http://www.youtube.com/watch?v=qryI6LN7xos" target="_blank"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/dunedin_video_icon.jpg" alt="" width="341" height="190" border="0" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5>&nbsp;This video contains more information about the garden's education programme.&nbsp;</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: justify;">&nbsp;</h3>
+<h3 style="text-align: justify;"><strong><br />ABOUT</strong></h3>
+<p style="text-align: justify;">The project offers the opportunity for young people to complete a 3 year apprenticeship in horticulture and contribute to a public garden.&nbsp; Since the apprentices are responsible for essential maintenance in the garden their wages are paid through the garden&rsquo;s core funding, therefore there are no limitations on the project caused by funding issues. As well as practical skills, the training teaches apprentices the value of a botanic garden, how to maintain a garden in today&rsquo;s changing climate and about plant conservation. This information is often passed on to their friends and family so has a wider reaching impact.</p>
+<table style="height: 304px;" border="0" width="171" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_andrew.jpg" alt="" width="400" border="0" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5>&nbsp;<em>4Trades apprentice, Andrew Dodds, (front) and Malcam Trust trainee, Lucy Grigg, weeding carpet bedding display</em>. <br />&copy; Dunedin Botanic Garden</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p style="text-align: justify;">With 4Trades mentoring support, apprentices also undergo personal development and graduate with a better understanding of their strengths and weaknesses and an excellent grounding in all aspects of maintaining and managing plant collections. <br /><br />The garden and 4Trades are closely involved as partners in the recruitment and selection process and are closely aligned with reporting and problem solving. 4Trades liaise with the training provider that delivers the theoretical unit and provides updates at regular intervals on each apprentice&rsquo;s progress.</p>
+<table style="height: 173px;" border="0" width="435" align="center">
+<tbody>
+<tr>
+<td>&nbsp;<img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_hayden.jpg" alt="" width="200" border="0" /></td>
+<td>&nbsp;</td>
+<td>&nbsp;<img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_joanna.jpg" alt="" width="200" border="0" /></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5><em>4Trades apprentice, Hayden Wright, weeding amongst cacti.</em> <br />&copy; Dunedin Botanic Garden</h5>
+</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<h5><em>4Trades apprentice, Joanna Flamank, weeding beds.</em><br /> &copy; Dunedin Botanic Garden</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p style="text-align: justify;">4Trades now employs over 100 apprentices across 10 different sectors, including horticulture.&nbsp; This partnership is critical in allowing the garden to deliver high quality trade training for the wider industry (not just botanic gardens) and in doing so, raise standards of horticulture across all horticultural industry sectors. The strength of the partner organization and relationship between them and the garden gives the program added benefits and provides apprentices with more support than could otherwise be provided.</p>
+<h3 style="text-align: justify;"><br /><strong>IMPACT</strong></h3>
+<p style="text-align: justify;">All staff currently working under collection curators are apprentices. <br /><br />The impacts are greatest on the individuals in the training program as they develop both personal and practical skills. &nbsp;<br /><br />Garden staff are also intimately involved in training which leads to a stimulating and more positive environment to work in.<br /><br />In 2009 Dunedin Botanic Garden appointed a collection curator who had graduated from the apprenticeship.<br /><br />Other graduates have had successes in the wider industry, with roles in maintaining and managing key reserve areas in the city and working for private contractors.</p>
+<table style="height: 369px;" border="0" width="156" align="center">
+<tbody>
+<tr>
+<td><em><img style="margin-right: auto; margin-left: auto; display: block;" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_stacy.jpg" alt="" height="300" border="0" /></em></td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<h5><em>&nbsp;4Trades apprentice, Stacy Ferguson, sowing seed. </em><br /><em>&copy; Dunedin Botanic Garden.</em></h5>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3><strong><br />WHAT&rsquo;S NEXT?</strong></h3>
+<p style="text-align: justify;">The garden is committed to working with 4Trades to allow the project to continue for the foreseeable future.</p>
+<h3><br /><strong>PRACTITIONERS &amp; SPONSORS</strong></h3>
+<p><strong>Barbara Wheeler</strong>, Collections Supervisor</p>
+<p><strong><a href="http://www.jobsletter.org.nz/cat/cat04.htm">4Trades</a></strong></p>
+<p><strong><a href="http://www.dunedin.govt.nz/" target="_blank">Dunedin City Council</a></strong></p>
+<p><strong><a href="http://malcam.org.nz/" target="_blank">Malcam Trust </a></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/dunedin_logo.jpg" alt="" width="110" border="0" /></td>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Dune.jpg" alt="" width="140" border="0" /></td>
+<td>&nbsp;<img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Malcam_trust_logo.jpg" alt="" width="140" border="0" /></td>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_logo.jpg" alt="" width="100" border="0" />&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>																<hr />
+							</div>
+													</div>
+												
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+				﻿<!-- Related news section -->
+<section class="related">
+	<h2>Related news</h2>
+		<div class="com-content">
+		<h3><a href="/news-and-events/news/1073/">5GBGC - latest news</a></h3>
+		<p class="published">8 October 2013</p>
+		<div class="com-content">
+		<h3><a href="/news-and-events/news/1062/">Botanic garden world will unite at 5GBGC / 6BGANZ Congress</a></h3>
+		<p class="published">2 September 2013</p>
+	</section>
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

@@ -1,0 +1,78 @@
+ID:	216
+Name:	Manie van der Schijff Botanical Garden 
+Fax:	
+Info:	  South Africa - Gauteng - Pretoria  ;Garden Information;  Institution Code: PRU; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	jason.sampson@up.ac.za
+Telephone:	+27 (0) 12 420 4274
+Administration Staff Number:	2
+Curator's Name:	Jason Sampson
+Director's Name:	Prof. Nigel Barker
+Educational Staff Number:	
+Horticultural Staff Number:	8
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1934
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-25.751662
+Local Address:	University of Pretoria Cnr. of Lynwood ave. and Roper str. Hatfield Pretoria
+Locality:	Information
+Longitude:	28.22923
+Natural Vegetation Area:	No
+Satellite Garden Names:	Sports Campus arboretum and Onderstepoort arboretum Succulent garden Cremnophyte and balcony gardens of the Plant Science building Cycad collection propogation facility
+Total Area:	4 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	5000
+Cultivation Taxa Num:	3000
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	An extensive collection of both African and exotic cycads and a range of plants for teaching and research. Food plants collections are also growing apace.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	No
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

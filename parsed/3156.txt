@@ -1,0 +1,38 @@
+ID:	3156
+Name:	Jardin Botanico Facultad de Estudios Superiores Cuautitlan UNAM 
+Curator's Name:	Madel Jimenez Romano
+Director's Name:	Abel Bonfil Campos
+Info:	  Mexico - Mexico - Cuautitlan Izcalli  ;Garden Information;  Institution Code: FES; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanico Facultad de Estudios Superiores Cuautitlan UNAM; Cuautitlan-UNAM; Km 2.5 Carr. Cuautitlan-Teoloyucan; Cuautitlan Izcalli; Mexico 54700 Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	2240.00 Metres
+Annual Rainfall:	650 mm
+Date founded:	1990
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	19.3253
+Local Address:	Km. 2.5 carr. Cuautitlán-Teoloyucan
+Locality:	Information
+Longitude:	-99.6045
+Natural Vegetation Area:	No
+Total Area:	1 Hectares
+Total area of shadehouses:	100 Metres
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000
+Number of Volunteers:	5
+Open to public:	No
+Published Plant Catalogue:	No
+Seed Bank:	No
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Pinaceae, Fagaceae, Cactaceae, Orchidaceae, medicinal plants.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Horticulture:	Yes

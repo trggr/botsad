@@ -1,0 +1,10 @@
+ID:	2304
+Name:	Dept. of Life Sciences & Botanic Garden 
+Curator's Name:	
+Director's Name:	
+Info:	  India - Imphal  ;Garden Information;  Institution Code: IMPH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dept. of Life Sciences & Botanic Garden; Manipur University, IMPHAL 795 003, Manipur, India.; Imphal; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	24.7877
+Longitude:	93.9410

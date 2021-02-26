@@ -1,0 +1,11 @@
+ID:	56
+Name:	Jardin Botanique "Les Cedres" 
+Curator's Name:	
+Director's Name:	
+Info:	  France - Alpes Maritimes - St Jean Cap Ferrat  ;Garden Information;  Institution Code: CED; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique "Les Cedres" Location: ST JEAN CAP FERRAT; Founded: 1924 ; Garden Name: Jardin Botanique "Les Cedres"; Address: F-06290 SAINT JEAN CAP FERRAT, Alpes Maritimes.; Status: Unknown; Herbarium: No; Ex situ Collections:; Bromeliaceae, Araceae, Amaryllidaceae, Liliaceae, Pal;  Main Address:; Jardin Botanique "Les Cedres"; F-06290 SAINT JEAN CAP FERRAT,; St Jean Cap Ferrat; Alpes Maritimes France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1924
+Institution Type:	Botanic Garden
+Latitude:	43.6962
+Longitude:	7.3287
+Special Collections:	Bromeliaceae, Araceae, Amaryllidaceae, Liliaceae, Palmae, Euphorbiaceae, Crassulaceae, Cactaceae, Aizoaceae.

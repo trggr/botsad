@@ -1,0 +1,11 @@
+ID:	5107
+Name:	Center of "Conservazione Biodiversita"- Seed Bank 
+Curator's Name:	
+Director's Name:	Gianluigi Bacchetta
+Info:	  Italy - Sardinia - Cagliari  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Center of "Conservazione Biodiversita"- Seed Bank; Department of Life Sciences and the Environment, University Cagliari; v.le Sant'Ignazio da Laconi, 11/13; Cagliari; Sardinia 09123 Italy; ;  Telephone: +39-0706753508; Fax: +39-0706753509; URL: <a target="_blank" href="http://www.ccb-sardegna.it/">http://www.ccb-sardegna.it/; Primary Email: bacchet@unica.it ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	39.2210
+Longitude:	9.1101
+Seed Bank:	Yes

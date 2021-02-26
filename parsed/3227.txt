@@ -1,0 +1,33 @@
+ID:	3227
+Name:	Toronto Botanical Garden 
+Administration Staff Number:	
+Curator's Name:	Paul Zammit, Director of Horticulture
+Director's Name:	Harry Jongerden, Garden Director
+Educational Staff Number:	4
+Horticultural Staff Number:	2
+Info:	  Canada - Ontario - Toronto  ;Garden Information;  Institution Code: GCL; International Agenda Registration: No; BGCI Member: Yes; About the Toronto Botanical Garden Designed to educate and inspire, the Toronto Botanical Garden offers an array of 12 award-winning themed gardens spanning nearly four acres. You'll also find a complete range of innovative indoor and outdoor learning experiences for all ages including programs, garden tours, nature day camps, field trips and an extensive horticultural library. The LEED Silver Certified Building with its energy-efficient sloping green roof showcases environmental sustainability and architectural beauty. Two large event halls flow into open-air courtyards and are ideally suited for weddings and corporate events. Don't forget to visit the garden shop or seasonal café before you leave! Admission is free.;  Main Address:; Toronto Botanical Garden; 777 Lawrence Avenue East; Toronto; Ontario M3C 1P2 Canada; ;  Telephone: (416) 397-1340; Fax: (416) 397-1354; URL: <a target="_blank" href="http://www.torontobotanicalgarden.ca">www.torontobotanicalgarden.ca; Primary Email: info@torontobotanicalgarden.ca ; 
+Plant Records Officer's Name:	Toni Vella, Taxonomist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1958
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	43.734385
+Longitude:	-79.358154
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Volunteers:	350
+Open to public:	Yes
+Sustainability:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

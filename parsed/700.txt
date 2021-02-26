@@ -1,0 +1,16 @@
+ID:	700
+Name:	Marsh Botanic Gardens at Yale University 
+Curator's Name:	Eric Larson, Manager
+Director's Name:	Tim Nelson, Director
+Info:	  United States of America - Connecticut - New Haven  ;Garden Information;  Institution Code: YU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Marsh Botanic Gardens at Yale University; 227 Mansfield Street; P.O. Box 208103; New Haven; Connecticut 06520-8104 United States of America; ;  Telephone: (203) 432-6320; Fax: (203) 432-6161; URL: <a target="_blank" href="http://www.yale.edu/marshgardens">www.yale.edu/marshgardens; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1923
+Institution Type:	Botanic Garden
+Latitude:	41.3213850
+Longitude:	-72.9259060
+Total Area:	3 Hectares
+Computer Plant Record System:	Yes
+Open to public:	Yes
+Special Collections:	Azaleas, oaks, hemlock, cacti, iris.
+Courses for University/College Students:	Yes

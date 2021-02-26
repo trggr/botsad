@@ -1,0 +1,15 @@
+ID:	3487
+Name:	Mizzou Botanic Garden 
+Curator's Name:	
+Director's Name:	Pete Millier, Director of Landscape Services & Mizzou Botanic Garden
+Info:	  United States of America - Missouri - Columbia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Mizzou Botanic Garden The Mizzou Botanic Garden is a living museum of thousands of plants displayed amongst famous icons, such as Jefferson's original grave marker and the Columns of Academic Hall. The garden is designed to delight campus visitors with its beauty and to provide a fertile academic environment for educators, researchers and students.;  Main Address:; Mizzou Botanic Garden; University of Missouri; General Services Building; Columbia; Missouri 65211 United States of America; ;  Telephone: (573) 882-4240; Fax: (573) 884-3032; URL: <a target="_blank" href="http://gardens.missouri.edu/">http://gardens.missouri.edu/; Primary Email: gardens@missouri.edu ; 
+Plant Records Officer's Name:	David Massey, Research Specialist
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	38.9437700
+Longitude:	-92.3291000
+Arboretum:	Yes
+Arboretum Size:	1
+Friends society:	Yes
+Open to public:	Yes
+Special Collections:	Asiatic & Oriental Lily garden, Hydrangea, Native Missouri Tree Collection, 11 varieties of perennial phlox and English roses, native aquatics

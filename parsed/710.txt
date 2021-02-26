@@ -1,0 +1,14 @@
+ID:	710
+Name:	University of Maine Campus Arboretum 
+Curator's Name:	
+Director's Name:	Dr. Christopher Campbell, Professor of Plant Systematics
+Info:	  United States of America - Maine - Orono  ;Garden Information;  Institution Code: FHA; International Agenda Registration: No; BGCI Member: No; About the University of Maine Campus Arboretum The Fay Hyland Arboretum here on the University of Maine campus was established in 1934 and serves the University with living examples of woody plants from Maine and throughout the world that are studied in courses that focus on plant identification (dendrology, horticulture, and plant taxonomy). The Arboretum also plays a role in research by UMaine staff and students and provides the University and local community an aesthetically attractive quasi-natural setting along the Stillwater River. Its 10 acres stretch along the river, with many trails that pass by important Maine trees and shrubs, which are identified on labels.;  Main Address:; University of Maine Campus Arboretum; Office of the Vice President for Administration and Finance; 5703 Alumni Hall, Room 118; Orono; Maine 04469 United States of America; ;  Telephone: (207) 581-2976; Fax: ; URL: <a target="_blank" href="http://www.umaine.edu/arboretum">www.umaine.edu/arboretum; Primary Email: erich@maine.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1934
+Institution Type:	Botanic Garden
+Latitude:	44.8675730
+Longitude:	-68.6890180
+Arboretum:	Yes
+Arboretum Size:	4
+Special Collections:	Native plants.

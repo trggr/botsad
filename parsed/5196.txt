@@ -1,0 +1,13 @@
+ID:	5196
+Name:	Leśny Ogród Botaniczny w Marszewie 
+Fax:	
+Info:	  Poland - pomorskie - Marszewo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	gdansk@gdansk.lasy.gov.pl
+Telephone:	0048 586674250
+Curator's Name:	Joanna Bloch-Orłowska PhD
+Director's Name:	Janusz Mikoś PhD
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	54.5199
+Longitude:	18.4165

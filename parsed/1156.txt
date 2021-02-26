@@ -1,0 +1,16 @@
+ID:	1156
+Name:	Kansas Landscape Arboretum 
+Curator's Name:	
+Director's Name:	Unknown
+Info:	  United States of America - Kansas - Wakefield  ;Garden Information;  Institution Code: ABIL; International Agenda Registration: No; BGCI Member: No; About the Kansas Landscape Arboretum The Kansas Landscape Arboretum is a 193-acre (78 ha) nonprofit arboretum located in Wakefield, Kansas. It is open during daylight hours without admission charge.; ; The arboretum was established in 1972 mainly through the efforts of Ernest Bauer, Professor L. R. Quinlan (landscape architect at Kansas State University), and Bill Flynn (nurseryman from Abilene).; ; The arboretum includes about 1,000 species of native and exotic woody plants including green ash, crabapple, honey locust, juniper, maple, oak, osage-orange, pine, American sycamore, and black walnut. Much of the area is left in native vegetation. There are four short trails, a pond, and prairie meadows.;  Main Address:; Kansas Landscape Arboretum; 488 Utah Road; P.O. Box 346; Wakefield; Kansas 67487 United States of America; ;  Telephone: (785) 461-5760; Fax: ; URL: <a target="_blank" href="http://www.naturalkansas.org/kansas.htm ; www.nwk.usace.army.mil/mi/LandscapeArboretum.cfm">www.naturalkansas.org/kansas.htm ; www.nwk.usace.army.mil/mi/LandscapeArboretum.cfm; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1972
+Institution Type:	Botanic Garden
+Latitude:	39.1945280
+Longitude:	-97.0078190
+Natural Vegetation Area:	Yes
+Total Area:	78 Hectares
+Arboretum:	Yes
+Arboretum Size:	78
+Open to public:	Yes

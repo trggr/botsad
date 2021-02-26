@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: 177px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>Australian Botanic Garden, Mount Annan, The</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=1284"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>Australia - New South Wales - Mount Annan</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+														<li><a href="#tabs-2">Community Projects</a></li>
+																					<li><a href="#tabs-3">Restoration Projects</a></li>
+													</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> NSW</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: Yes</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: Yes</p>
+							
+														<p><a href="http://www.arbnet.org" target="_blank">ArbNet Accredited</a>: 
+								Level IV							</p>
+														
+														<div class="garden-photo">
+								<img src="/photos/1284/Brachychiton bidwillii 177.JPG" alt="Brachychiton bidwillii flowering in the Kurrajong Arboretum." />
+								<div>Brachychiton bidwillii flowering in the Kurrajong Arboretum.</div>
+							</div>
+											
+														<h2>About the Australian Botanic Garden, Mount Annan, The</h2>
+							<p>The Australian Botanic Garden displays over 2000 Australian native plant species, set in 416 hectares of hills and lakes. The Garden features outdoor sculptures, barbecues, a restaurant and a gift shop which sells plants. The Australian Botanic Garden is a major event venue and the most popular visitor attraction in south-western Sydney.</p>
+														<p>
+								<b>Main Address:</b><br />
+								Australian Botanic Garden, Mount Annan, The<br />
+								Narellan Road<br />																Mount Annan<br />								New South Wales 2567 Australia<br />
+							</p>
+							<p>
+								<b>Telephone:</b> 61 (0) 2 4634 7939<br />
+								<b>Fax:</b> 61 (0 )2 4634 7950<br />
+								<b>URL:</b> <a target="_blank" href="http://www.rbgsyd.nsw.gov.au/welcome/annan">www.rbgsyd.nsw.gov.au/welcome/annan</a><br />
+								<b>Primary Email:</b> Mount.Annan@rbgsyd.nsw.gov.au							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: Jimmy Turner<br />
+										Curator's Name: John Siemon<br />
+										Plant Records Officer's Name: Aleisha Balzer<br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: 26<br />
+										Educational Staff Number: <br />
+										Research Staff Number: 10<br />
+										Administration Staff Number: 6									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+																				Status: State: Yes<br />										Status: Educational: Yes<br />																				Status: Satellite: Yes<br />										Status: Trust: Yes<br />									</li>
+															
+																		<li>Date founded: 1984</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+																		<li>
+										Natural Vegetation Area: Yes<br />																			</li>
+															
+																		<li>
+										Landscaped Area: Yes<br />																			</li>
+															
+									<li>
+										Total Area: 416 Hectares<br />										Latitude: -34.055266<br />										Longitude: 150.77572<br />										Annual Rainfall: 800 mm<br />										Altitude: 120.00 Metres<br />																													</li>
+									
+																		<li><b>Additional Locations</b></li>
+									<li>Satellite Garden Names: The Australian Botanic Garden, Mount Annan is managed by the Royal Botanic Gardens & Domain Trust, which also manages the Royal Botanic Garden, Sydney and the Blue Mountains Botanic Garden, Mount Tomah.</li>
+															
+																		<li><b>Locality: Information</b></li>
+									<li>Locality: Garden Name: The Australian Botanic Garden, Mount Annan</li>
+									<li>Local Address: Narellan Road</li>
+									<li>Locality: City: Mount Annan</li>
+									<li>Locality: State: NSW</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+																														Arboretum: Yes<br />										Arboretum Size: 5<br />									</li>
+															
+																		<li>
+										Micropropagation/ Tissue Culture Facilities: Yes<br />										Seed Bank: Yes<br />										Published Plant Catalogue: Yes<br />										Computer Plant Record System: Yes<br />									</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: Yes<br />										Retail Outlet: Shop: Yes<br />										Retail Outlet: Plant Sales: Yes<br />										Disabled access: Yes<br />									</li>
+															
+																		<li>
+										Number of Visitors: 325250<br />										Number of  Volunteers: 30<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 3372<br />										Cultivation Taxa Num: 2870<br />									</li>
+															
+																		<li><b>Special Collections:</b>100 % of collection is Australian flora. Acacia, Callistemon, Eucalyptus, Grevillea, Proteaceae, Gondwanan flora. Maintains a seed bank with medium to long term storage capacity, containing over 10,000 accessions, representing over 5000 species (2015 figures).We have conservation collections of Allocasuarina portuensis, Wollemia nobilis and Pherosphaera fitzgeraldii.</li>
+																
+																		<li>
+										Invasive Species Monitoring: Yes<br />
+										Invasive Species Policy: Yes<br />
+										ABS Policy: Yes<br />
+										Plant Collection Policy: Yes<br />
+									</li>
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: Yes<br />										Medicinal Plant Programme: No<br />										Ex Situ Conservation Programme: Yes<br />																			</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+																														Conservation - Biology: Yes<br />																														Ecology: Yes<br />										Ecosystem Conservation: Yes<br />																																																		Horticulture: Yes<br />										Invasive Species Biology and Control: Yes<br />																														Restoration Ecology: Yes<br />										Seed/Spore Biology: Yes<br />																																																																					</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: Yes<br />										Education Booklets/Leaflets: Yes<br />										Guided Tours: Yes<br />										Permanent Public Displays: Yes<br />										Special Exhibitions: Yes<br />										Courses for School Children: Yes<br />										Courses for University/College Students: Yes<br />										Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												<div id="tabs-2">
+																					<div class="garden-project" style="margin-top:1em">
+								<h3>Community Greening</h3>
+																<!-- <img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/project.jpg" alt="" /> -->
+																<p style="text-align: justify;"><a href="http://www.rbgsyd.nsw.gov.au/" target="_blank">The Royal Botanic Gardens and Domain Trust</a> is celebrated as one of the world&rsquo;s significant botanic garden organisations, internationally respected for its work in science, conservation, horticulture and education across three sites &ndash; the Royal Botanic Garden Sydney, the Australian Botanic Garden Mount Annan, and the Blue Mountains Botanic Garden Mount Tomah.<br /><br />The Royal Botanic Gardens &amp; Domain Trust (RBGDT) has a commitment to take its expertise &lsquo;beyond the garden walls&rsquo; and serve the broader community through innovative outreach programs. <br />Community Greening aims to encourage participants to be mindful of the Earth&rsquo;s resources and reduce their food miles and carbon foot print by supplementing their food shopping with locally grown produce in an environmentally sustainable manner.<br /><br />To meet this objective the Community and Education Programs unit has forged strong links with communities who have established or are interested in establishing their own communal gardens.</p>
+<p style="text-align: justify;"><br /><strong>Project start date</strong>: August 2000&nbsp;&nbsp;&nbsp;&nbsp;<strong> <br />Project </strong><strong>end date: </strong>2016</p>
+<table border="0" align="center">
+<tbody>
+<tr>
+<td>&nbsp;<img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/xmas.jpg" alt="" width="400" height="251" align="bottom" border="0" /></td>
+</tr>
+<tr>
+<td style="width: 300px;" align="center" valign="top">
+<h5><em>Bidwill Christmas Event and bushfire appeal and Masterclass winners Lisa and Angie.</em><br />&copy;RBGDT</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong><br />ABOUT</strong></h3>
+<p style="text-align: justify;">Community Greening promotes communal gardening in social housing communities, and on nearby land, to improve social cohesion, public health, education and employment opportunities and reduce crime in both urban and rural areas of New South Wales.&nbsp; Working in partnership with <a href="http://www.housing.nsw.gov.au/" target="_blank">Housing New South Wales </a>(HNSW), local authorities and businesses, the project enables the RBGDT to reach new audiences and provide practical environmental education at no cost to participants. RBGDT provides advice, technical expertise, education, training, guidance and surplus plant and landscaping material.<br /><br />Community Greening works with individuals from marginalised or vulnerable community groups, including those in long-term unemployment, people in deprived areas, people with mental or physical disability and young people with low levels of education. This has included over 230 social housing resident groups and over 130 schools and youth programs.<br /><br />The aim of the program is for residents to be in control of the entire process. HNSW and RBGS perform advisory roles and support each community group according to their individual wants and needs as well as promoting ideas and practices relating to food security and sustainability, for example, through waste recycling (primarily composting and worm farming activities). To ensure this the staff work flexibly with community groups. However, a general prodedure is outlined below:<br /><br /><strong>Step 1 &ndash; The decision to establish a Community Garden</strong><br />Residents make contact with their Client Services Officer (CSO) to register their interest in establishing a community garden or, if CSOs identify an interest within the community they can begin the process.<br /><br /><strong>Step 2 &ndash; Nominate an interested group</strong><br />As many volunteers interested in different aspects of the garden (i.e planning and design, setting up, organising materials, maintenance etc) as possible are identified. &nbsp;<br /><br /><strong>Step 3 - Identify Site</strong><br />Areas of unused land, derelict land that might benefit from an improvement, etc. are considered.<br /><br /><strong>Step 4 &ndash; Liaising with HNSW and RBGDT</strong><br />A morning/afternoon tea or BBQ with HNSW staff and education officers from the gardens is arranged to discuss ideas. Sometimes visits to other successful community gardens are arranged.<br /><br /><strong>Step 5 &ndash; Designing the site</strong><br />Primarily the responsibility of residents, RBGDT and HNSW staff are there to give advice. At this stage the participants must consider:<br />- the purpose of the garden - i.e. vegetable garden, native garden for education, flower garden , etc<br />- physical qualities of the garden - i.e. soil type, gradient of the land, direction of the sun, etc<br />- the tyres of people using the site and its accessibility<br />- environmental issues -i.e. composting, worm farm for recycling garden refuse etc.<br /><br /><strong>Step 6 &ndash; How are you going to do it?</strong><br />Participants and staff consider how to obtain materials. This can include sponsorship from local businesses or council. The local media are involved, to raise awareness and support and recognise the work of those involved.<br /><br /><strong>Step 7 &ndash; Ongoing maintenance and management</strong><br />To prevent a loss of interest in participants, individuals who will be responsible for the ongoing management of the site nominated or a management plan is devised. In addition, community activities can be organised.</p>
+<table border="0" align="center">
+<tbody>
+<tr align="center" valign="bottom">
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/before.jpg" alt="" width="200" border="0" />&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/during2.jpg" alt="" width="200" height="150" border="0" />&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/Airds_tharawal2.jpg" alt="" width="200" border="0" />&nbsp;</td>
+</tr>
+<tr align="center" valign="top">
+<td style="width: 200px;">
+<h5><em>&nbsp;Airds Tharawal before.</em> <br />&copy;RBGDT</h5>
+</td>
+<td style="width: 200px;">
+<h5><em>&nbsp;</em></h5>
+</td>
+<td style="width: 200px;">
+<h5><em>Airds Tharawal in progress.</em><br />&copy;RBGDT</h5>
+</td>
+<td style="width: 200px;">
+<h5><em>&nbsp;</em></h5>
+</td>
+<td style="width: 200px;">
+<h5><em>Airds Therawal.</em><br />&copy;RBGDT</h5>
+</td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: justify;">&nbsp;</h3>
+<h3 style="text-align: justify;"><strong><br />IMPACT</strong></h3>
+<p style="text-align: justify;">The gardens have become self-sufficient requiring less and less support from the Community Greening Program. The project has provided an opportunity for participants to gain on the job training and skills in horticulture and landscaping. Several participants have gone on to obtain work in related horticulture fields or other work due to improved communications skills, confidence and agency support.<br /><br />The gardens have helped to improve the health of project participants. Communal gardens provide opportunities for a greater number of people to participate encouraging a sense of shared goals and increased social interaction while providing gardeners with allotments can increase their sense of ownership and encourages them to maintain their commitment to the garden. In cases where young people were made to feel included in the gardens, vandalism was reported to be less of a problem and opportunities arose for younger and older people to work together which has helped to reduce negative stereotypes.<br /><br />The program has demonstrated an impressive ability to generate a cross-sector and cross agency commitment at a local level and there has been considerable partnership development between the business sector and the public sector, both at a local and a higher, program level.<br /><br />The project has included tours of the three botanic gardens, where those involved ordinarily would not have had the confidence, ability, finances etc to visit. This has engaged the community with the gardens both offsite and onsite and broadened audiences.<br /><br />Due to the success, positive examples and promotion of the Community Greening Program other groups have developed projects and gardens of their own.<br /><br /></p>
+<p style="text-align: justify;"><strong>For more information, read the evaluation report:</strong></p>
+<p style="text-align: justify;"><a href="http://www.rbgsyd.nsw.gov.au/education/community_greening/community_greening_evaluation_report" target="_blank"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/report.jpg" alt="" width="150" align="middle" border="0" /></a></p>
+<h3 style="text-align: justify;">&nbsp;</h3>
+<h3 style="text-align: justify;"><strong><br />WHAT&rsquo;S NEXT?</strong></h3>
+<p style="text-align: justify;">It is hoped that the project will continue.&nbsp;&nbsp;</p>
+<h3 style="text-align: justify;"><br /><strong><br />PRACTITIONERS AND SPONSORS</strong></h3>
+<p style="text-align: justify;"><strong>Phil Pettitt</strong>, Community Greening Coordinator, <a href="mailto:philip.pettitt@rbgsyd.nsw.gov.au" target="_blank">philip.pettitt@rbgsyd.nsw.gov.au</a><br /><strong>Relle Mott</strong>, Manager Community &amp; Education Programs<br /><br />The Community Greening Project is externally funded by <a href="http://www.housing.nsw.gov.au"><strong>HNSW, the Department of Family and community Services</strong></a>.<br /><br />An off shoot of the program, Youth Community Greening, is funded the <a href="http://www.edengardens.com.au/" target="_blank"><strong>Eden Foundation</strong></a>.<br /><br />The following organisations have recently provided valuable ongoing support (many others have contributed throughout the project):<br /><strong><a href="https://edengardens.com.au/" target="_blank">Eden Gardens and Garden Centre</a></strong><br /><strong><a href="http://www.oasishorticulture.com.au/" target="_blank">Oasis Horticulture<br /></a><a href="http://www.alpinenurseries.com.au/location.htm" target="_blank">Alpine Nursery</a></strong><br /><strong><a href="https://www.facebook.com/pages/Edible-Plantscapes/170329383027473" target="_blank">Edible Plantscapes</a></strong><br /><strong><a href="http://www.colourwise.com/" target="_blank">Colourwise Nursery (NSW) </a></strong><br /><strong><a href="http://www.yates.com.au/" target="_blank">Yates</a></strong><br /><strong><a href="http://www.northcotepottery.com.au/" target="_blank">Northcote Pottery</a></strong><br /><strong><a href="http://www.twigz.com.au/retailers" target="_blank">Twigz</a><br /><br /></strong></p>
+<table style="float: left;" border="0" align="center">
+<tbody>
+<tr>
+<td style="text-align: justify;"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/RBGDTlogo.jpg" alt="" width="100" border="0" />&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/HNSW.jpg" alt="" width="150" border="0" />&nbsp;</td>
+<td>&nbsp;</td>
+<td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/RBGDT/eden.jpg" alt="" width="100" border="0" />&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;<img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/oasis_hort.jpg" alt="" width="100" border="0" /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>																<hr />
+							</div>
+													</div>
+												
+												<div id="tabs-3">
+																					<div class="garden-project" style="margin-top:1em">
+								<h3>Seed production areas driving a ‘bottom up’ approach to ecological restoration</h3>
+																<!-- <img src="/files/ERABG/project_images/Australian%20BG%2C%20Mount%20Annan/thumbnail.jpg" alt="" /> -->
+																<p style="text-align: justify;">Grassy woodland ecosystems are amongst the most degraded and fragmented landscapes in SE Australia. In western Sydney, the critically endangered Cumberland Plain Woodland (CPW) grassy understorey diversity is quickly lost due to invasion by woody weeds such as African olive. At the Australian Botanic Garden, a native grass seed production area has proven to be a highly effective source of seed for landscape scale restoration via direct seeding, following the mechanical control of dense African olive forests.</p>
+<p style="text-align: justify;">Long lived woody weeds such as African olive (<em>Olea europaea</em> ssp. <em>cuspidata</em>) have invaded bushland at a landscape scale in south west Sydney, forming dense monocultures and shading out the native grassy understorey. Following broad scale mechanical control of dense African olive, the re-establishment of locally occurring native grasses is a vital first step in ecological restoration. At the Australian Botanic Garden Mount Annan (ABGMA) a 1500 sq metre native grass seed production area has been established to provide seed, specifically for the restoration of cleared African olive sites. Grass seed output from the first 2014/15 summer season resulted in 118kg of seed material harvested, and a total output of over 13 million viable seeds.</p>
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bgci.org/files/ERABG/project_images/Australian%20BG%2C%20Mount%20Annan/Hillside%20African%20Olive%20Invasion_website.jpg" alt="" width="500" height="375" /></p>
+<p style="text-align: center;">Hillside African Olive invasion</p>
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bgci.org/files/ERABG/project_images/Australian%20BG%2C%20Mount%20Annan/Low%20biodiversity%20beneath%20dense%20African%20Olive%20canopy_website.jpg" alt="" width="500" height="375" /></p>
+<p style="text-align: center;">Low biodiversity beneath dense African Olive canopy</p>
+<p style="text-align: center;"><img src="https://www.bgci.org/files/ERABG/project_images/Australian%20BG%2C%20Mount%20Annan/Mechincal%20olive%20removal%20using%20%27forest%20mowing%27%20technique_website.jpg" alt="" width="500" height="375" /></p>
+<p style="text-align: center;">Mechanical olive removal using &lsquo;forest mowing&rsquo; technique</p>
+<p style="text-align: center;"><img src="https://www.bgci.org/files/ERABG/project_images/Australian%20BG%2C%20Mount%20Annan/Plumegrass%20in%20seed%20production%20area%2C%20almost%20ready%20for%20harvest_website.jpg" alt="" width="500" height="375" /></p>
+<p style="text-align: center;">Plumegrass in seed production area, almost ready for harvest</p>
+<p style="text-align: left;"><strong>Taking seed into the landscape</strong></p>
+<p style="text-align: justify;">Restoration challenges at ABGMA include large areas, profuse annual weeds and competitive olive seedlings on the transitional post-olive removal sites. Direct sowing of harvested grass seed was focussed on prepared strips in an effort to create an &lsquo;<em>in situ</em>&rsquo; seed production area and robust native grass populations. High sowing densities (up to 3300 seeds/m&sup2;) were used to establish a total of 5km x 2m wide strips throughout 5 hectares of cleared African olive sites at ABGMA in March 2015. Favourable conditions during autumn 2015 resulted in excellent field germination, with established seedling densities of up to 608 seedlings/m&sup2; observed after 10 months. The combination of surface tilling and dense sowing rates has resulted in a dense and competitive grass layer, however some further broadleaf weed control along the strips will improve long term grass density and establishment.</p>
+<p style="text-align: justify;"><br />Recent research (<a href="http://onlinelibrary.wiley.com/doi/10.1111/emr.12139/full">Cuneo &amp; Leishman 2015</a>) has indicated that a &lsquo;bottom up&rsquo; approach restoration using native grasses as an early successional stage has potential to restore these transitional landscapes and achieve a trajectory towards CPW. With a &lsquo;nucleus&rsquo; of native grass seed now established on these highly degraded sites, the next phase will aim to introduce tree and shrub diversity (using seed sowing and fire) to further accelerate the regeneration of the original woodland structure.</p>
+<p style="text-align: justify;">For more information about this project please&nbsp;<a href="https://site.emrprojectsummaries.org/2016/03/05/seed-production-and-direct-seeding-to-restore-grassy-understorey-diversity-at-mount-annan-nsw/">click here</a> or contact <a href="mailto:peter.cuneo@rbgsyd.nsw.gov.au  ">Dr Peter Cuneo</a>.</p>
+<p style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.bgci.org/files/ERABG/project_images/Australian%20BG%2C%20Mount%20Annan/Direct%20seeding%20strips%20prepared%20for%20sowing_website.jpg" alt="" width="500" height="375" /></p>
+<p style="text-align: center;">Direct seeding strips prepared for sowing. Remnant woodland trees are retained.</p>
+<p style="text-align: center;"><img src="https://www.bgci.org/files/ERABG/project_images/Australian%20BG%2C%20Mount%20Annan/Native%20grass%20seed%20strip%20established%20after%20one%20year_website.jpg" alt="" width="500" height="375" /></p>
+<p style="text-align: center;">Native grass seed strip established after one year</p>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>																<hr />
+							</div>
+													</div>
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+				﻿<!-- Related news section -->
+<section class="related">
+	<h2>Related news</h2>
+		<div class="com-content">
+		<h3><a href="/news-and-events/news/0920/">New bank where deposits are guaranteed to grow</a></h3>
+		<p class="published">11 January 2012</p>
+	</section>
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

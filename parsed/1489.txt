@@ -1,0 +1,35 @@
+ID:	1489
+Name:	Leach Botanical Garden 
+Administration Staff Number:	2
+Curator's Name:	Scott Hoelscher, Head Gardener
+Director's Name:	David Porter, Executive Director
+Educational Staff Number:	1
+Horticultural Staff Number:	2
+Info:	  United States of America - Oregon - Portland  ;Garden Information;  Institution Code: LEACH; International Agenda Registration: No; BGCI Member: No; About the Leach Botanical Garden Leach Botanical Garden is a public garden dedicated to the study of botany and horticulture with an emphasis on plants of the Pacific Northwest and an ecologically sensitive approach to gardening. The Garden is committed to providing educational opportunities to members of the public and to maintaining and enhancing the legacy of the Garden's founders, Lilla and John Leach.;  Main Address:; Leach Botanical Garden; 6704 SE 122nd Avenue; Mailing: P.O. Box 90667; Portland; Oregon 97290 United States of America; ;  Telephone: (503) 823-9503; Fax: (503) 823-9504; URL: <a target="_blank" href="http://www.leachgarden.org">www.leachgarden.org; Primary Email: info@leachgarden.org ; 
+Plant Records Officer's Name:	Courtney Vengarick, Gardener & Curator
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1981
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	45.4748690
+Longitude:	-122.5356850
+Natural Vegetation Area:	Yes
+Total Area:	130 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Number of Visitors:	18000
+Number of Volunteers:	120
+Open to public:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Pacific northwest natives, SE USA Azaleas, native woodlands - dry and wetlands, ferns and groundcover.
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

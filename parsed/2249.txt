@@ -1,0 +1,14 @@
+ID:	2249
+Name:	Glenveagh Castle Garden 
+Curator's Name:	Sean O`Gaoibhin (Head Gardener)
+Director's Name:	Unknown
+Info:	  Ireland - Donegal  ;Garden Information;  Institution Code: DBN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Glenveagh Castle Garden; Churchill, Co. Donegal,Ireland; Donegal; Ireland; ;  Telephone: 353 (0)74 37090; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	Sean O Gaoithin
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	54.6544
+Longitude:	-8.1107
+Total area of glasshouses:	254 Metres
+Number of Visitors:	90000
+Cultivation Taxa Num:	1100
+Special Collections:	Several species from China, Australasia and temperate South America.

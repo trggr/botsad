@@ -1,0 +1,9 @@
+ID:	5388
+Name:	Swedish University of Agricultural Sciences 
+Curator's Name:	
+Director's Name:	
+Info:	  Sweden - Uppsala  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Swedish University of Agricultural Sciences; Knowledge Park; Infrastrukturavdelningen, SLU Lokaler / Division of Facility Management, Box 7020; Uppsala; S-75007 Sweden; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://www.slu.se/en/about-slu/locations/slu-uppsala/knowledge-garden/">https://www.slu.se/en/about-slu/locations/slu-uppsala/knowledge-garden/; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	59.8147042
+Longitude:	17.6613238

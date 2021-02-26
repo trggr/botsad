@@ -1,0 +1,27 @@
+ID:	3220
+Name:	Great Lakes Forestry Centre Arboretum 
+Curator's Name:	Barry Hubley, Groundskeeper
+Director's Name:	David Nanang, Director General
+Info:	  Canada - Ontario - Sault Ste. Marie  ;Garden Information;  Institution Code: SAULT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Great Lakes Forestry Centre Arboretum; 1219 Queen Street East; Box 490; Sault Ste. Marie; Ontario P6A 2E5 Canada; ;  Telephone: (705) 949-9461; Fax: (705) 541-5700; URL: <a target="_blank" href="http://cfs.nrcan.gc.ca/subsite/glfc-arboretum/home">http://cfs.nrcan.gc.ca/subsite/glfc-arboretum/home; Primary Email: ; 
+Plant Records Officer's Name:	Tim Ladd, Laboratory Technician
+Altitude:	0.00 Metres
+Date founded:	1978
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	46.50447
+Longitude:	-84.30333
+Total Area:	3 Hectares
+Arboretum:	Yes
+Arboretum Size:	3
+Number of Visitors:	300
+Open to public:	Yes
+Invasive Species Monitoring:	Yes
+Reintroduction Programme:	No
+Biotechnology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Invasive Species Biology and Control:	Yes
+Molecular Genetics:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes

@@ -1,0 +1,19 @@
+ID:	4284
+Name:	Markham Regional Arboretum 
+Curator's Name:	
+Director's Name:	Ekkehardt Keller, Trustee
+Info:	  United States of America - California - Concord  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Markham Regional Arboretum Mission: To partner with the City of Concord in developing; the Markham Nature Park and Arboretum into a unique educational sanctuary for the demonstration, collection, and preservation of trees and other plants which are adaptable to the inland, maritime influrenced, Northern California region.;  Main Address:; Markham Regional Arboretum; 1202 La Vista Avene; P.O. Box 21338; Concord; California 94521 United States of America; ;  Telephone: (925) 681-2968; Fax: ; URL: <a target="_blank" href="http://www.markhamarboretum.org">www.markhamarboretum.org; Primary Email: info@markhamarboretum.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1981
+Institution Type:	Botanic Garden
+Latitude:	37.9625640
+Longitude:	-122.0035730
+Total Area:	6 Hectares
+Arboretum:	Yes
+Arboretum Size:	6
+Friends society:	Yes
+Open to public:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

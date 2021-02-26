@@ -1,0 +1,30 @@
+ID:	804
+Name:	Jardin Botanique Alpin de la Jaÿsinia 
+Administration Staff Number:	1
+Curator's Name:	Frédéric Achille
+Director's Name:	Eric Joly
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  France - Samoëns  ;Garden Information;  Institution Code: JAY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique Alpin de la Jaÿsinia; Samoëns; 74340 France; ;  Telephone: 0450344986; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	Roseline Grouard
+Research Staff Number:	1
+Altitude:	780.00 Metres
+Annual Rainfall:	1600 mm
+Date founded:	1906
+Institution Type:	Botanic Garden
+Latitude:	46.0759
+Longitude:	6.7553
+Natural Vegetation Area:	Yes
+Total Area:	4 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	70000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	4996
+Cultivation Taxa Num:	2595
+Special Collections:	Plants of northern hemisphere

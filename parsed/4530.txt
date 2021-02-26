@@ -1,0 +1,18 @@
+ID:	4530
+Name:	Jardin Botánico Ambiental 
+Administration Staff Number:	11
+Curator's Name:	Lic. Roberto Quintana-Perdomo
+Director's Name:	Ricardo Rueda-Pereira, Ph.D.
+Educational Staff Number:	3
+Horticultural Staff Number:	4
+Info:	  Nicaragua - Leon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botánico Ambiental; Universidad Nacional Autonoma de Nicaragua-Leon; Facultad de Ciencias y Tecnologias; Leon; Nicaragua; ;  Telephone: 505-2310-0126; Fax: ; URL: <a target="_blank" href="http://jba.unanleon.edu.ni/">http://jba.unanleon.edu.ni/; Primary Email: jardinbotanicoambiental@unanleon.edu.ni ; 
+Plant Records Officer's Name:	Lic. Ivania Munguia-Ocon
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Date founded:	2010
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	12.43681
+Longitude:	-86.87904
+Natural Vegetation Area:	Yes
+Total Area:	12 Hectares

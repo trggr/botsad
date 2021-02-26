@@ -1,0 +1,23 @@
+ID:	4893
+Name:	NACGRAB Field Genebank 
+Curator's Name:	Israel Borokini
+Director's Name:	Dr. Sunday E. Aladele
+Info:	  Nigeria - Oyo State - Ibadan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; NACGRAB Field Genebank; National Centre for Genetic Resources and Biotechnology; Moor Plantation; Ibadan; Oyo State Nigeria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.nacgrab.gov.ng">www.nacgrab.gov.ng; Primary Email: nacgrab@skannet.com ; 
+Plant Records Officer's Name:	Israel Borokini
+Altitude:	0.00 Metres
+Date founded:	1987
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	7.38261
+Longitude:	3.84015
+Total Area:	12 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes

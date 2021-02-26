@@ -1,0 +1,10 @@
+ID:	3606
+Name:	Orto Botanico dell'Università di Genova 
+Curator's Name:	
+Director's Name:	
+Info:	  Italy - Genova  ;Garden Information;  Institution Code: ORTO; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Orto Botanico dell'Università di Genova; Corso Dogali; 1M I - 16136 -; Genova; Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: botgarden@unige.it ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	44.4070
+Longitude:	8.9339

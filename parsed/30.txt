@@ -1,0 +1,66 @@
+ID:	30
+Name:	Bergen Botanical Garden 
+Administration Staff Number:	1
+Curator's Name:	Heidi Lie Andersen
+Director's Name:	Berit Gehrke
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Info:	  Norway - Bergen  ;Garden Information;  Institution Code: BG; International Agenda Registration: Yes; BGCI Member: Yes; About the Bergen Botanical Garden Bergen Botanical Garden (BBG) is a new botanic garden at the countryside in Western Norway.;  Main Address:; Bergen Botanical Garden; Skipanesveien 45; Bergen; N-5259 Norway; ;  Telephone: + 47 55 58 72 50; Fax: ; URL: <a target="_blank" href="http://www.uib.no/hagene">www.uib.no/hagene; Primary Email: universitetshagene@uib.no ; 
+Plant Records Officer's Name:	Reidun Samuelsen
+Research Staff Number:	1
+Altitude:	5.00 Metres
+Annual Rainfall:	2250 mm
+Date founded:	1996
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	60.24
+Local Address:	Skipanesveien 45 5259 Hjellestad
+Locality:	Information
+Longitude:	5.26
+Natural Vegetation Area:	Yes
+Total Area:	7 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	Yes
+Pharmacology:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

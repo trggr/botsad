@@ -1,0 +1,14 @@
+ID:	4503
+Name:	Cincinnati Zoo and Botanical Gardens - CREW tissue culture 
+Curator's Name:	Valerie Pence, Director of Plant Research
+Director's Name:	Thane Maynard, Director
+Info:	  United States of America - Ohio - Cincinnati  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cincinnati Zoo and Botanical Gardens - CREW tissue culture; 3400 Vine Street; Cincinnati; Ohio 45220 United States of America; ;  Telephone: (513) 475-6106; Fax: (513) 475-6108; URL: <a target="_blank" href="http://www.cincinnatizoo.org">www.cincinnatizoo.org; Primary Email: horticulture@cincinnatizoo.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	39.1413130
+Longitude:	-84.5103460
+Arboretum:	No
+Seed Bank:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes

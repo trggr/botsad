@@ -1,0 +1,11 @@
+ID:	2228
+Name:	Wagga Wagga Botanic Gardens 
+Curator's Name:	
+Director's Name:	
+Info:	  Australia - Wagga Wagga  ;Garden Information;  Institution Code: WAGGA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wagga Wagga Botanic Gardens; Wagga Wagga City Council, PO Box 20, WAGGA WAGGA, NSW 2650, Australia; Wagga Wagga; Australia; ;  Telephone: 61 (0)2 6923 5401; Fax: 61 (0)2 6923 5385; URL: <a target="_blank" href="http://">; Primary Email: Wenzke.G@wagga.nsw.gov.au ; 
+Plant Records Officer's Name:	
+Date founded:	1969
+Institution Type:	Botanic Garden
+Latitude:	-35.13109
+Longitude:	147.36567
+Special Collections:	30 % of collection is Australian flora.

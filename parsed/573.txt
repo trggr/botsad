@@ -1,0 +1,28 @@
+ID:	573
+Name:	Gradina Agro-Botanica din Cluj-Napoca 
+Administration Staff Number:	
+Curator's Name:	Ing. Silvia Ianc
+Director's Name:	c/o Dr. Andrei Stoie, Garden Coordinator
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  Romania - Cluj-Napoca  ;Garden Information;  Institution Code: CLA; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Gradina Agro-Botanica din Cluj-Napoca; Universitatea de Stiinte Agricole si Medicina Veterinara; str. Manastur, nr. 3; Cluj-Napoca; RO-400372 Romania; ;  Telephone: + 40-264 595 825, int. 116; Fax: + 40-264 593 792; URL: <a target="_blank" href="http://www.usamvcluj.ro/index.php/gradina-botanica">http://www.usamvcluj.ro/index.php/gradina-botanica; Primary Email: agrobot.cluj@gmail.com ; 
+Plant Records Officer's Name:	Dr. Andrei Stoie
+Research Staff Number:	
+Altitude:	400.00 Metres
+Annual Rainfall:	635 mm
+Date founded:	1903
+Institution Type:	Botanic Garden
+Latitude:	46.7600
+Local Address:	Universitatea de Ştiinţe Agricole şi Medicină Veterinară Str. Mănăştur nr. 3 RO-400372 Cluj-Napoca ROMÂNIA
+Locality:	Information
+Longitude:	023.5733
+Total Area:	3 Hectares
+Total area of glasshouses:	50 Metres
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	2522
+Cultivation Taxa Num:	2300
+Special Collections:	rock plants, succulent plants, water plants, horticultural plants, medicinal plants, trees and shrubs, bulbs and herbaceous perennials.
+Courses for University/College Students:	Yes

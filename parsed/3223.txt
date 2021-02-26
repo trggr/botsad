@@ -1,0 +1,11 @@
+ID:	3223
+Name:	Butchart Gardens, The 
+Curator's Name:	Rick Los, Director of Horticulture
+Director's Name:	Dave Cowen, General Manager
+Info:	  Canada - British Columbia - Victoria  ;Garden Information;  Institution Code: BUTCH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Butchart Gardens, The; 800 Benvenuto Avenue; P.O. Box 4010; Victoria; British Columbia V8X 3X4 Canada; ;  Telephone: 250-652-4422; Fax: ; URL: <a target="_blank" href="http://www.butchartgardens.com">www.butchartgardens.com; Primary Email: email@butchartgardens.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1904
+Institution Type:	Botanic Garden
+Latitude:	48.56509
+Longitude:	-123.46908

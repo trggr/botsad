@@ -1,0 +1,11 @@
+ID:	2195
+Name:	Cataract Gorge 
+Curator's Name:	
+Director's Name:	None
+Info:	  Australia - Launceston  ;Garden Information;  Institution Code: LAUNC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cataract Gorge; c/o Launceston City Council, PO Box 396; Launceston; TAS 7250 Australia; ;  Telephone: 61 (0)3 6337 1288; Fax: 61 (0)3 6326 4988; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	-41.44606
+Longitude:	147.118912
+Special Collections:	10 % of collection if Australian flora.

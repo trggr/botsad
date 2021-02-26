@@ -1,0 +1,9 @@
+ID:	4958
+Name:	Belarus Experimental Botanical Institute 
+Curator's Name:	
+Director's Name:	
+Info:	  Belarus - Minsk  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Belarus Experimental Botanical Institute; Academicheskaya str, 27; Minsk; 220072 Belarus; ;  Telephone: +375 17 284-18-51; Fax: +375 17 284-18-53; URL: <a target="_blank" href="http://">; Primary Email: exp-bot@biobel.bas-net.by ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	53.9162
+Longitude:	27.61269

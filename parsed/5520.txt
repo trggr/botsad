@@ -1,0 +1,9 @@
+ID:	5520
+Name:	Jardín Botanico del Choco-jotaudo 
+Curator's Name:	
+Director's Name:	
+Info:	  Colombia - Chocó - Quibdó  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botanico del Choco-jotaudo; Calle 23 # 18-67; Quibdó; Chocó Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	5.6956543
+Longitude:	-76.6540477

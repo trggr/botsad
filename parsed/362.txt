@@ -1,0 +1,50 @@
+ID:	362
+Name:	Dendrological garden of the Silva Tarouca Research Institute for Landscape and Ornamental Gardening 
+Fax:	+420 267 750 023
+Info:	  Czech Republic - Pruhonice  ;Garden Information;  Institution Code: VSUOZ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
+Primary Email:	dz@vukoz.cz
+Telephone:	+420 296 528 256
+Administration Staff Number:	3
+Curator's Name:	Jiří Velebil
+Director's Name:	Ivan Suchara
+Educational Staff Number:	2
+Horticultural Staff Number:	12
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	285.00 Metres
+Annual Rainfall:	564 mm
+Date founded:	1974
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	50.028
+Local Address:	Za dálnicí 146 252 43 Průhonice
+Locality:	Information
+Longitude:	14.5509
+Natural Vegetation Area:	No
+Total Area:	72 Hectares
+Total area of glasshouses:	480 Metres
+Arboretum:	Yes
+Arboretum Size:	72
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	38000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	7000
+Special Collections:	Special collection for training in landscape and garden architecture.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Biotechnology:	Yes
+Education:	Yes
+Floristics:	Yes
+Plant Breeding:	Yes
+Urban Environments:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes

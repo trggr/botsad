@@ -1,0 +1,19 @@
+ID:	1116
+Name:	Dubrava Arboretum 
+Curator's Name:	
+Director's Name:	Dr. Valerija Baroniene
+Info:	  Lithuania - KAUNAS district - Vaisvydava, LT 53106  ;Garden Information;  Institution Code: GADES; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dubrava Arboretum; Dubrava Experimental and Training Forest Enterprise; Miskininku str. 7; Vaisvydava, LT 53106; KAUNAS district LT 53106 Lithuania; ;  Telephone: (+370) 37 383557; Fax: (+370) 37 383566; URL: <a target="_blank" href="http://www.dumu.lt/?m1=arboretumas">http://www.dumu.lt/?m1=arboretumas; Primary Email: arboretumas@dumu.lt ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1958
+Institution Type:	Botanic Garden
+Latitude:	54.8423
+Longitude:	24.0452
+Total Area:	51 Hectares
+Arboretum:	Yes
+Arboretum Size:	51
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes

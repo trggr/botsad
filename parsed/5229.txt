@@ -1,0 +1,9 @@
+ID:	5229
+Name:	Jardin Botanique National d'Haiti 
+Curator's Name:	
+Director's Name:	
+Info:	  Haiti - Port au Prince  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin Botanique National d'Haiti; 60 rue de la Reunion; Port au Prince; Haiti; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jdeslorges@yahoo.fr ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	18.54239
+Longitude:	-72.3433593

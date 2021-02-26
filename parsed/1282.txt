@@ -1,0 +1,26 @@
+ID:	1282
+Name:	Jardin Botanico Universitario de Sierra Nevada 
+Administration Staff Number:	1
+Curator's Name:	Dr M.R. Gonzalez-Tejero Garcis
+Director's Name:	Joaquim Molero-Mesa
+Educational Staff Number:	1
+Horticultural Staff Number:	3
+Info:	  Spain - Sierra Nevada  ;Garden Information;  Institution Code: SNEV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Universitario de Sierra Nevada; Departamento de Biolog?a, Facultad de Farmacia, Universidad de Granada, Campus de Cartuja, 18071 GR; Sierra Nevada; Spain; ;  Telephone: 34 (9)58 243916; Fax: 34 (9)58 243912; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	4
+Altitude:	0.00 Metres
+Date founded:	1850
+Institution Type:	Botanic Garden
+Latitude:	37.2047
+Longitude:	-3.5693
+Arboretum:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	15000
+Seed Bank:	Yes
+Cultivation Taxa Num:	900
+Special Collections:	Plants of the Sierra Nevada, Maintains seed bank with medium-storage capacity, containing 620 accessions, representing 192 species (1994 figures)
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Education:	Yes

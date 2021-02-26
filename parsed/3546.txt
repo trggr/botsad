@@ -1,0 +1,18 @@
+ID:	3546
+Name:	Forest Arboretum of Forest District Kudypy 
+Fax:	(0-87) 527-89-58
+Info:	  Poland - warmińsko-mazurskie - Olsztyn  ;Garden Information;  Institution Code: KUDYP; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	kudypy@olsztyn.rdlp.gov.pl
+Telephone:	(0-87) 527-90-90
+Curator's Name:	mgr inż. Paulina Rutkowska
+Director's Name:	Małgorzata Błyskun
+Plant Records Officer's Name:	
+Date founded:	1989
+Institution Type:	Botanic Garden
+Latitude:	50.7508
+Longitude:	19.2692
+Natural Vegetation Area:	Yes
+Total Area:	15 Hectares
+Cultivation Taxa Num:	850
+Special Collections:	Dendrological collections - 600 species
+Education:	Yes

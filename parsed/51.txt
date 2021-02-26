@@ -1,0 +1,52 @@
+ID:	51
+Name:	Botanical Garden, Natural History Museum of Denmark 
+Fax:	
+Info:	  Denmark - Copenhagen K  ;Garden Information;  Institution Code: C; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	oles@snm.ku.dk
+Telephone:	45 3532 2195
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Prof. Ole Seberg
+Educational Staff Number:	
+Horticultural Staff Number:	14
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1600
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	55.6833
+Longitude:	12.5666
+Natural Vegetation Area:	No
+Total Area:	10 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	1000000
+Open to public:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Accession Number:	20000
+Cultivation Taxa Num:	10000
+Invasive Species Monitoring:	No
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Thai orchids, succulents, historic collection of cycads, Danish plants, annuals, conservation plants (e.g. oceanic islands).
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	Yes
+Courses for School Children:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

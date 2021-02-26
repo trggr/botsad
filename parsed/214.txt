@@ -1,0 +1,28 @@
+ID:	214
+Name:	Charles University Botanic Garden (Botanicka zahrada University Karlovy) 
+Administration Staff Number:	5
+Curator's Name:	
+Director's Name:	Unknown
+Educational Staff Number:	3
+Horticultural Staff Number:	12
+Info:	  Czech Republic - Prague  ;Garden Information;  Institution Code: PRC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Charles University Botanic Garden (Botanicka zahrada University Karlovy); Benatska 2, 128 01 PRAHA 2, Czech Republic.; Prague; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	2
+Altitude:	0.00 Metres
+Date founded:	1775
+Institution Type:	Botanic Garden
+Latitude:	50.0878
+Longitude:	14.4204
+Total Area:	4 Hectares
+Total area of glasshouses:	2000 Metres
+Arboretum:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	120000
+Seed Bank:	No
+Cultivation Taxa Num:	7000
+Special Collections:	Flora of Czechoslovakia, cacti and succulents, orchids
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Education:	Yes

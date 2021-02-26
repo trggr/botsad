@@ -1,0 +1,21 @@
+ID:	321
+Name:	Sherwood Fox Arboretum 
+Administration Staff Number:	2
+Curator's Name:	Technical Assistant
+Director's Name:	-
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  Canada - Ontario - London  ;Garden Information;  Institution Code: UWO; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Sherwood Fox Arboretum; Western University, Department of Biology; BGS Room 0121, 1151 Richmond Street North; London; Ontario N6A 5B7 Canada; ;  Telephone: (519) 679-2111 x 86506; Fax: (519) 661-3935; URL: <a target="_blank" href="http://www.uwo.ca/biology/arboretum/">www.uwo.ca/biology/arboretum/; Primary Email: arboretum@uwo.ca ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1980
+Institution Type:	Botanic Garden
+Latitude:	43.00827
+Longitude:	-81.27203
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Special Collections:	Hardy temperate trees and shrubs, Rosaceae, Crataegus.
+Courses for University/College Students:	Yes

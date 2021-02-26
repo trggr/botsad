@@ -1,0 +1,10 @@
+ID:	2255
+Name:	Andean Botanic Garden Project 
+Curator's Name:	
+Director's Name:	The Director
+Info:	  Chile - Santiago  ;Garden Information;  Institution Code: ANDEA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Andean Botanic Garden Project; Casilla Correo 1575; Arica; Santiago; Chile; ;  Telephone: 56 (0)2 233 2149; Fax: 56 58 29 11 62; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-33.4253
+Longitude:	-70.5664

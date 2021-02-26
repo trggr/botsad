@@ -1,0 +1,9 @@
+ID:	5414
+Name:	Jardín Botánico Universidad Autónoma de Baja California 
+Curator's Name:	
+Director's Name:	
+Info:	  Mexico - Baja California - Tijuana  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Universidad Autónoma de Baja California; Tijuana; Baja California Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	32.53399
+Longitude:	-116.964554

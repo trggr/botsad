@@ -1,0 +1,10 @@
+ID:	4913
+Name:	Biltmore Estate 
+Curator's Name:	Parker Andes, Director of Horticulture
+Director's Name:	-
+Info:	  United States of America - North Carolina - Asheville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Biltmore Estate; 1 Lodge Street; Asheville; North Carolina 28803 United States of America; ;  Telephone: 800-411-3812; Fax: ; URL: <a target="_blank" href="http://www.biltmore.com">www.biltmore.com; Primary Email: pandes@biltmore.com ; 
+Plant Records Officer's Name:	Curtis Horn, grounds manager
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	35.540049
+Longitude:	-82.552131

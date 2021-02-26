@@ -1,0 +1,47 @@
+ID:	221
+Name:	California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) 
+Curator's Name:	Peter Evans, Director of Horticulture
+Director's Name:	Lucinda McDade, Executive Director
+Info:	  United States of America - California - Claremont  ;Garden Information;  Institution Code: RSA; International Agenda Registration: Yes; BGCI Member: Yes; About the California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) Rancho Santa Ana Botanic Garden was founded to promote botanical knowledge, conservation, and landscape use of California's native plants. ; ; As a private, non-profit, research and educational institution, with extensive library, herbarium, and laboratory facilities, the Garden is responsible for the Botany Program of the Claremont Graduate University. Active research in systematic and evolutionary botany, as well as the Garden's horticulture and community education programs, focus on native California plants and their conservation. ; ; The garden is located on the same property as the Grow Native Nursery, which sells California native plants. ; ; The mission of the Garden is to make significant contributions to the appreciation, enjoyment, conservation, understanding, thoughtful utilization and stewardship of our natural heritage.;  Main Address:; California Botanic Garden (formerly Rancho Santa Ana Botanic Garden); 1500 North College Avenue; Claremont; California 91711 United States of America; ;  Telephone: (909) 625-8767; Fax: (909) 626-7670; URL: <a target="_blank" href="http://www.rsabg.org">www.rsabg.org; Primary Email: info@rsabg.org ; 
+Plant Records Officer's Name:	James Reed, Plant Records Manager
+Altitude:	396.00 Metres
+Annual Rainfall:	485 mm
+Date founded:	1927
+Institution Type:	Botanic Garden
+Latitude:	34.1093056
+Locality:	Information
+Longitude:	-117.7149178
+Natural Vegetation Area:	Yes
+Total Area:	34 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	92000
+Number of Volunteers:	200
+Open to public:	Yes
+Seed Bank:	Yes
+Accession Number:	2058
+Cultivation Taxa Num:	1123
+Special Collections:	Arctostaphylos (86 taxa), Ceanothus (78 taxa). Plantings devoted exclusively to California native plants, including northern Baja California.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Floristics:	Yes
+Molecular Genetics:	Yes
+Pollination Biology:	Yes
+Seed/Spore Biology:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

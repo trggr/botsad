@@ -1,0 +1,75 @@
+ID:	5220
+Name:	Grigadale Arboretum 
+Fax:	
+Info:	  Argentina - Buenos Aires - Loberia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
+Primary Email:	roderick@grigadale.org
+Telephone:	+59 899 239 338
+Curator's Name:	Roderick Cameron, Curator
+Director's Name:	Roderick Cameron, Curator
+Plant Records Officer's Name:	
+Altitude:	45.00 Metres
+Annual Rainfall:	900 mm
+Date founded:	1992
+Institution Type:	Private Collection
+Landscaped Area:	Yes
+Latitude:	-38.355720
+Local Address:	
+Locality:	Information
+Longitude:	-58.681341
+Natural Vegetation Area:	No
+Total Area:	5 Hectares
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	169
+Cultivation Taxa Num:	139
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Plant collections consists of species, hybrids and cultivars of the genus Quercus.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

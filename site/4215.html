@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master.css">
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/jquery.ui.tabs.css" />
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/master_ie.css">
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/templates/org_bgci/styles/" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/news.rss" />
+	<script src="/templates/org_bgci/scripts/modernizr.js" type="text/javascript" charset="utf-8"></script>
+	<style type="text/css" media="screen">
+		h2 {
+			margin-top: 1em;
+		}
+		div.garden-photo {
+			margin-top: 1em;
+		}
+		div.garden-photo img {
+			border: 1px solid #333;
+			width: 200px; 
+			max-width: 400px;
+		}
+		div.garden-photo div {
+			margin-top: 5px;
+			font-size: 11px;
+			color: #999;
+		}
+		div.meta-heading {
+			cursor:pointer;
+			padding:1em;
+			border:1px solid #e6e1d8;
+			border-bottom:none;
+		}
+		div.meta-heading:hover {
+			background-color: #fffaf0;
+		}
+		div.meta-heading.first {
+			border-top-left-radius: 5px;
+			border-top-right-radius: 3px;
+		}
+		div.meta-heading.last {
+			border-bottom:1px solid #e6e1d8;
+			border-bottom-left-radius: 3px;
+			border-bottom-right-radius: 3px;
+		}
+		div.meta-heading h3 {
+			margin:0;
+			padding:0;
+			font-weight: bold;
+		}
+		div.meta-heading h3.open {
+			background:url(/templates/org_bgci/images/chevron-up.png) no-repeat 99%;
+		}
+		div.meta-heading h3.closed {
+			background:url(/templates/org_bgci/images/chevron-down.png) no-repeat 99%;
+		}
+		div.meta-heading ul {
+			display:none;
+			list-style:none;
+			padding:0;
+			margin: 0;
+		}
+		div.meta-heading li {
+			padding:3px 0;
+			list-style: none;
+			margin: 0;
+		}
+		div.garden-project img {
+			max-width: 400px;
+			display: block;
+			margin: 1em 0;
+		}
+		div#tabs-1 {
+			padding-top:1em;
+		}
+		.edit-actions a {
+			display: block;
+			float: right;
+		}
+		.edit-actions img {
+			margin: 0;
+			margin-left: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div class="container">
+		
+				<!-- <nav id="mobile">
+			<a class="mn-bgci-short" href="/">BGCI</a>
+			<a class="mn-bgci-long" href="/">Botanic Gardens Conservation International</a>
+			<a class="mn-menu" href="#">&nbsp;</a>
+		</nav> -->				<!-- <nav id="top">
+			<ul>
+                                <li><a href="https://members.bgci.org/">Member's Area</a></li>
+				<li><a href="/joinin/donate/">Donate</a></li>
+				<li><a href="/news-and-events/latest/">News</a></li>
+				<li class="share"><a href="#">Social</a>
+					<ul>
+						<li><a href="http://www.bgci.org/news.rss">RSS</a></li>
+						<li><a href="http://twitter.com/bgci">Twitter</a></li>
+						<li><a href="http://www.facebook.com/pages/BGCI-Education/276568025703917">Facebook</a></li>
+						<li><a href="http://www.youtube.com/user/plants2020">YouTube</a></li>
+					</ul>
+				</li>
+				<li><form action="/search.php" method="post"><input type="text" name="ftrKeyword" value="" placeholder="Search"></form></li>
+			</ul>
+		</nav> -->
+				
+<header>
+	<img class="logo" src="/templates/org_bgci/images/logo.png" alt="BGCI Logo" width="108" height="133" />
+	<!-- <div class="logo"><a href="/"><img src="/templates/org_bgci/images/bgci_logo.jpg" alt="BGCI" width="108" height="133"></a></div>
+	<div class="masthead">
+		
+		<div class="title">Botanic Gardens Conservation International</div>
+		<div class="subtitle">BGCI provides a global voice for all botanic gardens, championing and celebrating their inspiring work. We are the world's largest plant conservation network, open to all.  Join us in helping to save the world's threatened plants.</div>
+	</div> -->
+</header>			<!-- <nav id="main">
+		<ul>
+			<li class="active" style="width:106.5px">
+				<a href="/">Home</a>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/about-us/index">About us</a>
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Our members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice & GDPR Form</a></li>
+<li><a href="/about-us/iac/">International Advisory Council</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/joinin/index">Join in</a>
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Conservation donors</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/news-and-events/latest">News and events</a>
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/where-we-work/index">Where we work</a>
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/policy/index">Policy</a>
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/plant-conservation/index">Plant conservation</a>
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/public-engagement/index">Public engagement</a>
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li class="has-sub-nav" style="width:106.5px">
+				<a href="/resources/index">Resources</a>
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</nav> -->
+		
+		<main>
+			
+			<div class="sidebar">
+												<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/members-area.jpg">
+					<a href="https://members.bgci.org">
+						<h2>Member's Area</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/plant-search.jpg">
+					<a href="/plant_search.php">
+						<h2>PlantSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/threat-search.jpg">
+					<a href="/threat_search.php">
+						<h2>ThreatSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/globaltree-search.jpg">
+					<a href="/global_tree_search.php">
+						<h2>GlobalTreeSearch</h2>
+					</a>
+				</div>
+				<div class="feature dbsearch">
+					<img src="/templates/org_bgci/images/garden-search.jpg">
+					<a href="/garden_search.php">
+						<h2>GardenSearch</h2>
+					</a>
+				</div>
+								<div class="feature cultivate">
+					<img src="/templates/org_bgci/images/cultivate.jpg">
+					<a href="/news-and-events/ournewsletter/">
+						<h2>Sign up to Cultivate</h2>
+						<p>Receive news and updates</p>
+					</a>
+				</div>
+			</div>
+			
+			<div class="content">
+				
+				<article>
+				
+					<div class="breadcrumb">BGCI > Garden</div>
+				
+					<h1>Jardin Botánico de Mérida</h1>
+					
+					<div class="edit-actions">
+						<a href="garden_search.php?action=Find&amp;ftrCountry=&amp;ftrKeyword=&amp;ftrBGCImem=&amp;ftrIAReg="><img src="/templates/org_bgci/images/gardensearchagain.gif" width="100" height="21" border="0" alt="Search again" /></a>
+						<a href="garden_editor.php?comID=4215"><img src="/templates/org_bgci/images/editgarden.gif" width="100" height="21" border="0" alt="Edit this page" /></a>
+					</div>
+
+					<div>Venezuela - Mérida - Mërida</div>
+					
+					<div id="tabs">
+						<ul>
+							<li><a href="#tabs-1">Garden Information</a></li>
+														<li><a href="#tabs-2">Community Projects</a></li>
+																				</ul>
+					
+						<div id="tabs-1">
+				
+							<p><b>Institution Code:</b> MERC</p>
+				
+							<p><a href="/ourwork/international_agenda/">International Agenda Registration</a>: No</p>
+							<p><a href="/joinin/members/">BGCI Member</a>: No</p>
+							
+														
+														<div class="garden-photo">
+								<img src="/photos/4215/bgci.jpg" alt="Entrance of the Botanical Garden" />
+								<div>Entrance of the Botanical Garden</div>
+							</div>
+											
+														<h2>About the Jardin Botánico de Mérida</h2>
+							<p>The Jardin Botanico de Mérida belongs to the Universidad de Los Andes, Mérida Venezuela. Its mission is to be a space open to the public to learn the importance of nature and cultural inheritanc of the Venezuelan Andes, for conservation and enjoyment.</p>
+														<p>
+								<b>Main Address:</b><br />
+								Jardin Botánico de Mérida<br />
+								Facultad de Ciencias, Apdo. postal 52<br />								La Hechicera<br />								Mërida<br />								Mérida 5101 Venezuela<br />
+							</p>
+							<p>
+								<b>Telephone:</b> +58 (0)274 240 1294<br />
+								<b>Fax:</b> +58 (0)274 240 1297<br />
+								<b>URL:</b> <a target="_blank" href="http://www.botanica.ciens.ula">http://www.botanica.ciens.ula</a><br />
+								<b>Primary Email:</b> yeltleon@ula.ve							</p>
+					
+							<div class="meta-heading first">
+								<h3 class="closed">Staff Details</h3>
+								<ul>
+									<li>
+										Director's Name: Juan Carlos Gaviria R.<br />
+										Curator's Name: Yelitza León Vargas<br />
+										Plant Records Officer's Name: Carlos Tirado<br />
+									</li>
+																		<li>
+										Total Staff:<br />
+										Horticultural Staff Number: 7<br />
+										Educational Staff Number: 3<br />
+										Research Staff Number: 7<br />
+										Administration Staff Number: 3									</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">About the Garden</h3>
+								<ul>
+									<li>Institution Type: Botanic Garden</li>
+						
+																		<li><b>Status</b></li>
+						
+									<li>
+										Status: Private: No<br />										Status: State: No<br />										Status: Educational: Yes<br />										Status: Municipal: No<br />										Status: Satellite: No<br />										Status: Trust: No<br />									</li>
+															
+																		<li>Date founded: 1991</li>
+															
+															
+									<li><b>Physical Data</b></li>
+						
+																		<li>
+										Natural Vegetation Area: Yes<br />										Natural vegetation area: Size: 12 Hectares<br />									</li>
+															
+																		<li>
+										Landscaped Area: Yes<br />										Landscaped Area: Size: 7 Hectares<br />									</li>
+															
+									<li>
+										Total Area: 44 Hectares<br />										Latitude: 8.6014<br />										Longitude: -71.1486<br />										Annual Rainfall: 1400 mm<br />										Altitude: 1800.00 Metres<br />																													</li>
+									
+															
+																		<li><b>Locality: Information</b></li>
+									<li>Locality: Garden Name: Jardín Botánico de Mérida</li>
+									<li>Local Address: Av. Alberto Carnevali, La Hechicera</li>
+									<li>Locality: City: Mérida</li>
+									<li>Locality: State: Mérida</li>
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Features and Facilities</h3>
+								<ul>
+																		<li>
+										Herbarium: Yes<br />										Herbarium: Number of Specimens: 25000<br />																													</li>
+															
+																		<li>
+																																								Computer Plant Record System: Yes<br />									</li>
+															
+																		<li>
+										Open to public: Yes<br />										Friends society: Yes<br />										Retail Outlet: Shop: No<br />										Retail Outlet: Plant Sales: Yes<br />										Disabled access: No<br />									</li>
+															
+																		<li>
+										Number of Visitors: 30000<br />																			</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Plant Collections</h3>
+								<ul>
+																		<li>
+										Accession Number: 8000<br />																			</li>
+															
+																		<li><b>Special Collections:</b>The garden has:<br />
+Ponds<br />
+Cloud Forest<br />
+Bromeliary<br />
+Medicinal plants<br />
+Zingiberetum<br />
+Decidous lowland forest</li>
+																
+																		
+						
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Conservation Programmes</h3>
+								<ul>
+																		<li>
+										Conservation Programme: Yes<br />										Medicinal Plant Programme: No<br />										Ex Situ Conservation Programme: Yes<br />										Reintroduction Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading">
+								<h3 class="closed">Research Programmes</h3>
+								<ul>
+																		<li>
+										Biotechnology: Yes<br />										Plant Breeding: No<br />										Conservation - Biology: Yes<br />										Conservation - Genetics: Yes<br />										Data Management Systems and Information Technology: No<br />										Ecology: Yes<br />										Ecosystem Conservation: Yes<br />										Education: Yes<br />										Ethnobotany: No<br />										Exploration: Yes<br />										Floristics: Yes<br />										Horticulture: Yes<br />										Invasive Species Biology and Control: No<br />										Molecular Genetics: Yes<br />										Pollination Biology: Yes<br />										Restoration Ecology: Yes<br />										Seed/Spore Biology: No<br />										Systematics and Taxonomy: Yes<br />										Sustainability: No<br />										Pharmacology: No<br />										Agriculture: No<br />										Land Restoration: Yes<br />										Urban Environments: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+					
+							<div class="meta-heading last">
+								<h3 class="closed">Education Programmes</h3>
+								<ul>
+																		<li>
+										Visitor/Education Centre: Yes<br />										Education Signs in Garden: Yes<br />										Public Lectures/Talks: No<br />										Education Booklets/Leaflets: Yes<br />										Guided Tours: Yes<br />										Permanent Public Displays: Yes<br />										Special Exhibitions: Yes<br />										Courses for School Children: Yes<br />										Courses for University/College Students: Yes<br />										Courses for General Public: Yes<br />										Education Programme: Yes<br />									</li>
+															
+																	</ul>
+							</div>
+						</div>
+						
+												<div id="tabs-2">
+																					<div class="garden-project" style="margin-top:1em">
+								<h3>Environmental Education without Boundaries</h3>
+																<!-- <img src="/files/Worldwide/Education/communitiesIN/cq5dam.web.540.390.jpg" alt="" /> -->
+																<p><strong>Introduction</strong></p>
+<p>For over a decade, the <strong><a href="http://vereda.ula.ve/jardin_botanico/" target="_blank">M&eacute;rida Botanic Garden</a></strong>&nbsp;has been disseminating knowledge about plants, promoting conservation and developing conservation campaigns. Its flagship SELVA (Sowing Environmental Values) environmental education programme is attended by 9000 children every year from &lsquo;low-resource&rsquo; schools. The garden also supports special-needs children through gardening and outdoor recreational events. Participation and inclusion of all communities in order to preserve the environment and improve quality of life is at the heart M&eacute;rida Botanic Garden&rsquo;s public engagement activities.</p>
+<p style="text-align: left;">In 2014, the garden began its Environmental Education without Boundaries (EEWB) project. Its aim was to empower blind and visually-impaired audiences to participate in reliving issues related to biodiversity and the environment.</p>
+<table style="margin-right: auto; margin-left: auto;">
+<tbody>
+<tr>
+<td><img style="margin-right: auto; margin-left: auto; display: block;" src="https://www.bgci.org/files/Worldwide/Education/communitiesIN/cq5dam.web.540.390.jpeg" alt="" width="380" height="285" />&nbsp;</td>
+</tr>
+<tr>
+<td><em><strong>&nbsp;Visitors at an EEWB event, exploring the gardens. &copy;&nbsp;</strong></em><strong>MBC</strong></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><strong>Project start date:</strong> January 2014</p>
+<p><strong>Project end date:</strong> July 2015</p>
+<p><strong>About</strong></p>
+<p>The EEWB&rsquo;s main objectives were:</p>
+<ul>
+<li>To develop an education programme suitable for blind and visually-impaired audiences</li>
+<li>To develop high quality teaching materials to enhance learning and outreach of local biodiversity&nbsp;</li>
+<li>To encourage and support blind and visually-impaired audiences to generate and disseminate information about environmental issues in the Venezuelan state of M&eacute;rida</li>
+</ul>
+<p>&nbsp;</p>
+<p>The project involved a multidisciplinary team of biologists, gardeners, teachers, graphic designers, special needs educators as well as consultation of M&eacute;rida&rsquo;s Integral Aid for the Visually Impaired Centre.</p>
+<p>Since 2014, EEWB has worked with the blind and visually-impaired community to develop sensory-guided tours. The project has developed an audio guide that describes the plant and bird species found in M&eacute;rida Botanic Garden. This is accompanied by tactile educative material, texturized graphic descriptions and Braille. Two members of the blind and visually-impaired community have also been recruited as garden guides.&nbsp;</p>
+<p><strong>Impact</strong></p>
+<p>An estimated 500 to 2000 people have benefited from the EEWB project at M&eacute;rida Botanic Garden. Not only has there been an increase in blind and visually-impaired visitors to the garden, but also people from other groups. The sensory activities have become so popular that visitors have requested that they are included in schools and other public places.</p>
+<p>More formal assessment of the project is expected. The impact of print material and panels has been assessed on both visually-impaired and non-visually-impaired visitors. This was done during garden tours, and used Analysis of Interconnected Decision Areas (AIDA) assessment techniques. A four-month evaluation, with blind and visually-impaired visitors, on the other formats of education material (audio, tactile, visual-adapted) is to follow.</p>
+<p><strong>What&rsquo;s Next</strong></p>
+<p>EEWB has provided M&eacute;rida Botanic Garden with new perspectives on environmental education. The garden believes the project has helped integrate blind and visually-impaired individuals into the wider community of M&eacute;rida.</p>
+<p>The garden wants to develop similar programmes for other groups of the population, such as senior citizens. It also hopes its work will be replicated in other institutions, so that environmental education can reach people at a national scale.&nbsp;</p>
+<p><strong>Practitioners and Sponsors</strong></p>
+<ul>
+<li>Claudia Garbiso, scientific co-ordinator at Jard&iacute;n Bot&aacute;nico de M&eacute;rida,&nbsp;<strong><a href="mailto:cgarbis@ula.ve">cgarbis@ula.ve</a></strong></li>
+<li><strong><a href="http://www.ciens.ula.ve/jardinbotanico/jardin/index.php" target="_blank">Jard&iacute;n Bot&aacute;nico de M&eacute;rida</a></strong></li>
+<li><strong><a href="https://sgp.undp.org/" target="_blank">Small Grants Program for Global Environment Facility</a></strong></li>
+<li><strong><a href="http://www.undp.org/" target="_blank">United Nations Development Program</a></strong></li>
+<li style="text-align: left;">Integral Aid for the Visually Impaired Center</li>
+</ul>
+<p style="text-align: center;">&nbsp;</p>
+<table style="height: 117px; margin-left: auto; margin-right: auto;" width="549">
+<tbody>
+<tr>
+<td><img style="margin-right: auto; margin-left: auto; display: block;" src="https://www.bgci.org/files/Worldwide/Education/communitiesIN/jbotanico_cabecera_logo.gif" alt="" width="150" height="47" />&nbsp;</td>
+<td><img style="margin-right: auto; margin-left: auto; display: block;" src="https://www.bgci.org/files/Worldwide/Education/communitiesIN/gef.png" alt="" width="51" height="59" />&nbsp;</td>
+<td><img style="margin-right: auto; margin-left: auto; display: block;" src="https://www.bgci.org/files/Worldwide/Education/communitiesIN/logo.png" alt="" width="100" height="61" />&nbsp;</td>
+<td>&nbsp;<img style="margin-right: auto; margin-left: auto; display: block;" src="https://www.bgci.org/files/Worldwide/Education/communitiesIN/undp.png" alt="" width="70" height="107" /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>																<hr />
+							</div>
+													</div>
+												
+												
+					</div>
+					
+				</article>
+				
+				﻿<!-- Related content section -->
+				﻿<!-- Related article section -->
+				﻿<!-- Related news section -->
+				﻿<!-- Related events section -->
+				<!-- Job Block -->
+<!-- Job Block -->
+
+				
+			</div>
+			
+		</main>
+		
+		
+	<!-- <footer>
+		<ul>
+			<li>About us
+				<ul>
+<li><a href="/about-us/mission/">Mission and strategy</a></li>
+<li><a href="/about-us/achievements/">BGCI achievements</a></li>
+<li><a href="/about-us/annualreports/">Annual reports</a></li>
+<li><a href="/about-us/members/">Members</a></li>
+<li><a href="/about-us/supporters/">Current BGCI Supporters</a></li>
+<li><a href="/about-us/corporate/">Corporate partnerships</a></li>
+<li><a href="/about-us/conservationpartners/">Conservation partners</a></li>
+<li><a href="/about-us/networks/">BGCI and botanic garden networks</a></li>
+<li><a href="/about-us/contact/">Contact BGCI</a></li>
+<li><a href="/about-us/data-protection/">Data Protection Notice and GDPR Form</a></li>
+</ul>
+			</li>
+			<li>Join in
+				<ul>
+<li><a href="/joinin/members/">Institutions</a></li>
+<li><a href="/joinin/donors/">Join as conservation donor</a></li>
+<li><a href="/joinin/individuals/">Individuals</a></li>
+<li><a href="/joinin/sponsor-a-garden/">Sponsor a garden</a></li>
+<li><a href="/joinin/partnerships/">BGCI/ArbNet Botanic Garden Partnership Programme</a></li>
+<li><a href="/joinin/renew/">Renew membership</a></li>
+<li><a href="/joinin/donate/">Donate</a></li>
+<li><a href="/joinin/jobs/">Jobs</a></li>
+<li><a href="/joinin/bgcishop/">Shop</a></li>
+</ul>
+			</li>
+			<li>News and events
+				<ul>
+<li><a href="/news-and-events/latest/">Latest News</a></li>
+<li><a href="/news-and-events/news/">BGCI News Archives</a></li>
+<li><a href="/news-and-events/events-and-meetings/">Events & Meetings</a></li>
+<li><a href="/news-and-events/cultivatearchive/">Cultivate Archive</a></li>
+</ul>
+			</li>
+			<li>Where we work
+				<ul>
+<li><a href="/where-we-work/africa/">Africa</a></li>
+<li><a href="/where-we-work/asia/">Asia</a></li>
+<li><a href="/where-we-work/southamerica/">Central and South America</a></li>
+<li><a href="/where-we-work/eurasia/">Eurasia</a></li>
+<li><a href="/where-we-work/europe/">Europe</a></li>
+<li><a href="/where-we-work/islands/">Islands</a></li>
+<li><a href="/where-we-work/northamerica/">North America</a></li>
+</ul>
+			</li>
+			<li>Policy
+				<ul>
+<li><a href="/policy/index/">International policies and botanic gardens</a></li>
+<li><a href="/policy/cbd/">Convention on Biological Diversity</a></li>
+<li><a href="/policy/gspc/">The Global Strategy for Plant Conservation</a></li>
+<li><a href="/policy/abs/">Access & Benefit Sharing</a></li>
+<li><a href="/policy/sdgs/">The Sustainable Development Goals (SDGs)</a></li>
+<li><a href="/policy/cites2/">Convention on International Trade in Endangered Species (CITES)</a></li>
+<li><a href="/policy/climate-change-and-plants/">Climate change and plants</a></li>
+</ul>
+			</li>
+			<li>Plant conservation
+				<ul>
+<li><a href="/plant-conservation/why_conserve/">Why conserve plants?</a></li>
+<li><a href="/plant-conservation/redlisting/">Red Listing</a></li>
+<li><a href="/plant-conservation/seedconservation/">Seed conservation</a></li>
+<li><a href="/plant-conservation/globaltrees/">Tree conservation</a></li>
+<li><a href="/plant-conservation/exsitu/">Ex situ surveys</a></li>
+<li><a href="/plant-conservation/restoration/">Ecological restoration</a></li>
+<li><a href="/plant-conservation/ipsn/">Plant health and biosecurity</a></li>
+<li><a href="/plant-conservation/finding_natural_solutions/">Human well-being and livelihoods</a></li>
+</ul>
+			</li>
+			<li>Public engagement
+				<ul>
+<li><a href="/public-engagement/bigpicnic/">BigPicnic</a></li>
+<li><a href="/public-engagement/learntoengage/">LearnToEngage</a></li>
+<li><a href="/public-engagement/communities_in_nature/">Communities in Nature</a></li>
+<li><a href="/public-engagement/resources/">Education resources</a></li>
+<li><a href="/public-engagement/edu_congress/">Education congresses</a></li>
+<li><a href="/public-engagement/projects/">Past education projects</a></li>
+</ul>
+			</li>
+			<li>Resource centre
+				<ul>
+<li><a href="/resources/2016-bgci-botanic-garden-manual/">From Idea to Realisation - BGCI's Manual</a></li>
+<li><a href="/resources/training_materials/">Training materials</a></li>
+<li><a href="/resources/publications/">Publications</a></li>
+<li><a href="/resources/databases/">Databases</a></li>
+<li><a href="/resources/tools/">Tools and information</a></li>
+<li><a href="/resources/french_resources/">French resources</a></li>
+<li><a href="/resources/spanish_resources/">Spanish resources</a></li>
+<li><a href="/resources/external_links/">External links</a></li>
+</ul>
+			</li>
+		</ul>
+	</footer> -->
+
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="https://code.jquery.com/ui/1.11.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci_ipsn/js/jpanelmenu.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/templates/org_bgci/scripts/master.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51d0a4cc4581fc86" type="text/javascript"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-201487-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

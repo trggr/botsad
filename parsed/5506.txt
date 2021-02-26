@@ -1,0 +1,11 @@
+ID:	5506
+Name:	Palacký University Botanic Garden SEED BANK 
+Curator's Name:	
+Director's Name:	
+Info:	  Czech Republic - Czech Republic - Olomouc  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Palacký University Botanic Garden SEED BANK; Faculty of Science; 17. Listopadu 1192/12; Olomouc; Czech Republic 771 46 Czech Republic; ;  Telephone: +420 585 634 832; Fax: ; URL: <a target="_blank" href="http://garden.upol.cz">http://garden.upol.cz; Primary Email: garden@upol.cz ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	49.586191
+Longitude:	17.249127
+Seed Bank:	Yes

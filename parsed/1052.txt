@@ -1,0 +1,11 @@
+ID:	1052
+Name:	Arboretum de Pezanin 
+Curator's Name:	
+Director's Name:	
+Info:	  France - Macon  ;Garden Information;  Institution Code: PEZAN; International Agenda Registration: No; BGCI Member: No; About the Arboretum de Pezanin Location: MACON; Founded: 1903; Garden Name: Arboretum de Pezanin; Address: Dompierre les Ormes, Centre O.N.F. de Macon, Maison de l'Agriculture, Boulevard Henri Dunant, B.P. 314, F-71017 MACON.; Status: state; Herbarium: No; Ex situ Collections:; Trees a;  Main Address:; Arboretum de Pezanin; Dompierre les Ormes, Centre O.N.F. de Macon, Maison de l'Agriculture, Boulevard Henri Dunant, B.P.; Macon; France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1903
+Institution Type:	Botanic Garden
+Latitude:	46.3146
+Longitude:	4.8696
+Special Collections:	Trees and shrubs

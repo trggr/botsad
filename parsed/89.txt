@@ -1,0 +1,75 @@
+ID:	89
+Name:	Gothenburg Botanical Garden 
+-" width="90"> <tbody> <tr style="text-align:	center
+-"><strong>ABOUT</strong> <p style="text-align:	justify
+-"><strong>Eva-Lena Larsson</strong>, Director of Public Activities, Gothenburg Botanical Garden, <a title="eva-lena.larsson@vgregion.se" href="mailto:	eva-lena.larsson@vgregion.se" target="_blank">eva-lena.larsson@vgregion.se
+-"><strong>IMPACT</strong> <p style="text-align:	justify
+-"><strong>New beginnings for workers</strong></li> <li style="text-align:	justify
+-"><strong>Rehabilitation for those suffering from depression or stress</strong></li> <li style="text-align:	justify
+-">Its main aims are:	&nbsp
+-</td> <td><img style="width:	291px
+-<h3 style="text-align:	justify
+-<img src="/files/working_in_rehab_garden_small.jpg" alt="" width="396" height="400" align="middle" border="0" /></td> </tr> <tr style="text-align:	center
+-<img src="/files/working_with_seedlings.JPG" alt="" height="400" align="middle" border="0" /></td> </tr> <tr style="text-align:	center
+-<p style="text-align:	justify
+-<table style="height:	117px
+-<ul> <li style="text-align:	justify
+-SPONSORS</strong> <p style="text-align:	justify
+-float:	left
+-height:	100px
+-margin-left:	auto
+-margin-right:	auto
+-taland works in partnership with <a href="http:	//www.goteborg.com/en/botaniska-tradgarden/" target="_blank">Gothenburg Botanical Garden&nbsp
+Fax:	+46 (0)31 741 11 19
+Info:	  Sweden - Göteborg  ;Garden Information;<a href="#tabs-2">Community Projects;  Institution Code: GB; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	botaniska.tradgarden@vgregion.se
+Telephone:	+46 (0)31 741 11 11
+Administration Staff Number:	8
+Curator's Name:	Mats Havstrom, Director of Collections and Research
+Director's Name:	Mari Källersjö, Director
+Educational Staff Number:	3
+Horticultural Staff Number:	25
+Plant Records Officer's Name:	Plant Records Officer
+Research Staff Number:	8
+Altitude:	0.00 Metres
+Date founded:	1923
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	57.6969
+Local Address:	Carl Skottsbergs Gata 22A 413 19 Göteborg
+Locality:	Information
+Longitude:	11.9863
+Natural Vegetation Area:	Yes
+Total Area:	125 Hectares
+Total area of glasshouses:	2000 Metres
+Total area of shadehouses:	200 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	650000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Special Collections:	Rhododendron Rock Garden, Eurasiatic bulbs, trees from northern hemisphere, greenhouse collection of orchids, succulents, Amorphophallus.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Molecular Genetics:	Yes
+Plant Breeding:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

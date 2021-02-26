@@ -1,0 +1,11 @@
+ID:	989
+Name:	The Botanical Garden 
+Curator's Name:	
+Director's Name:	-
+Info:	  Ukraine - Ternopol'skot Region - Khorostkov  ;Garden Information;  Institution Code: KHOR; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanical Garden; State Agricultural Research Station; Khorostkov; Ternopol'skot Region Ukraine; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	49.20602
+Longitude:	25.8999
+Special Collections:	Mexican plants, Eastern-Asian, North American, Mediterranean, Himalayan plants, Pinus spp., Picea spp., Acer spp., Quercus spp., Rhododendron spp.

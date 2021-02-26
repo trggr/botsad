@@ -1,0 +1,12 @@
+ID:	4161
+Name:	Gołubieński Ogród Botaniczny 
+Fax:	
+Info:	  Poland - pomorskie - Gołubie  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	zbutowski@poczta.wp.pl
+Telephone:	(0-58) 684-36-08
+Curator's Name:	
+Director's Name:	mgr Zbigniew Butowski
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	54.2257
+Longitude:	18.0153

@@ -1,0 +1,11 @@
+ID:	50
+Name:	Dept. of Bot. & Soroksar Botanic Garden 
+Curator's Name:	Dr.K.Balint
+Director's Name:	Prof. A. Terpo
+Info:	  Hungary - Budapest  ;Garden Information;  Institution Code: BUSCR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dept. of Bot. & Soroksar Botanic Garden; University of Horticulture, H-1118 BUDAPEST, XI, Menesi UT44, Hungary.; Budapest; Hungary; ;  Telephone: 665 494; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1963
+Institution Type:	Botanic Garden
+Latitude:	47.4763
+Longitude:	19.0224
+Special Collections:	Orchidaceae, Bromeliaceae, Cactaceae, rock garden plants, Hungarian flora.

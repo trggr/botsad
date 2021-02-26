@@ -1,0 +1,14 @@
+ID:	4455
+Name:	Pine Hollow Arboretum 
+Curator's Name:	
+Director's Name:	John Abbuhl, Chairman
+Info:	  United States of America - New York - Slingerlands  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Pine Hollow Arboretum The Pine Hollow Arboretum is a 25-acre property that was founded in 1966 by John W. Abbuhl, M.D., who began the collection to maintain “trees in a natural environment” and “to allow the land to tell me what to do”. His collection has grown over the last 50 years and now consists of over 3,400 unique trees, shrubs, and other woody plants from around the world, some of which are rare and/or endangered.;  Main Address:; Pine Hollow Arboretum; 16 Maple Avenue; Mailing: 34 Pine Hollow Road; Slingerlands; New York 12159 United States of America; ;  Telephone: (518) 439-6472; Fax: ; URL: <a target="_blank" href="http://www.pinehollowarboretum.org">www.pinehollowarboretum.org; Primary Email: pinehollowarb@aol.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1966
+Institution Type:	Botanic Garden
+Latitude:	42.6322830
+Longitude:	-73.8559980
+Total Area:	10 Hectares
+Cultivation Taxa Num:	3400
+Special Collections:	Over 3,400 unique trees, shrubs, and other woody plants from around the world, some of which are rare and/or endangered.

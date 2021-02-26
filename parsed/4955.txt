@@ -1,0 +1,47 @@
+ID:	4955
+Name:	Stavanger Botanic Garden 
+Fax:	
+Info:	  Norway - Stavanger  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	sbh@stavanger.kommune.no
+Telephone:	+47 51507861
+Administration Staff Number:	
+Curator's Name:	Anne-Cathrine Scheen, Curator
+Director's Name:	-
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	60.00 Metres
+Date founded:	1978
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	58.93923
+Local Address:	
+Locality:	Information
+Longitude:	5.70255
+Natural Vegetation Area:	Yes
+Total Area:	12 Hectares
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	2500
+Cultivation Taxa Num:	2000
+Special Collections:	The Geographic Garden contains species from other parts of the world where the climate is similar to that of the Stavanger area.
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

@@ -1,0 +1,50 @@
+ID:	242
+Name:	Tallinn Botanic Garden 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Dr. Urve Sinijärv
+Educational Staff Number:	6
+Horticultural Staff Number:	20
+Info:	  Estonia - Tallinn  ;Garden Information;  Institution Code: TALL; International Agenda Registration: No; BGCI Member: Yes; About the Tallinn Botanic Garden The Garden covers the area of 26ha. The relief here has mostly been formed during the Litorina stage on the Baltic Sea about 5000 years ago, together with the evolution of the original Pirita river valley. So ancient coastal dunes, bordering the valley from the North, actually make up the most outstanding part of the relief. The altitude reaches 24 metres in the heath garden. Damming up of old armlets and ditches has enriched the landscape of the Botanic Garden with nine ponds. Natural vegetation in Kloostrimetsa has survived in fragments and is subject to strong human impact. 484 species of vascular plants have been listed in the spontaneous flora of the Garden; most abundant in species are heath and nemoral forests here. The TBG territory remains in the Pirita Valley landscape conservation area, established in 1957. The garden has a focus on native plantlife, and ecosystems from the Americas.;  Main Address:; Tallinn Botanic Garden; 52 Kloostrimetsa Road; Tallinn; 11 913 Estonia; ;  Telephone: +(372) 60 62 679; Fax: +(372) 60 05 529; URL: <a target="_blank" href="http://www.botaanikaaed.ee">www.botaanikaaed.ee; Primary Email: aed@botaanikaaed.ee ; 
+Plant Records Officer's Name:	Olev Abner
+Research Staff Number:	4
+Altitude:	24.00 Metres
+Annual Rainfall:	704 mm
+Date founded:	1961
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	59.4388
+Local Address:	Kloostrimetsa tee 52
+Locality:	Information
+Longitude:	24.7544
+Satellite Garden Names:	Audaku
+Total Area:	26 Hectares
+Total area of glasshouses:	2200 Metres
+Arboretum:	Yes
+Arboretum Size:	17
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	67000
+Open to public:	Yes
+Cultivation Taxa Num:	8600
+Greenhouse collestions:	ca 2100 taxa and cultivars, including orchids (410) and succulents (780).
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Horticulture:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

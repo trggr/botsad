@@ -1,0 +1,10 @@
+ID:	1115
+Name:	Arboretum "Veseli Bokovenki" 
+Curator's Name:	
+Director's Name:	Director
+Info:	  Ukraine  ;Garden Information;  Institution Code: DOLIN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum "Veseli Bokovenki"; Kirovgraskaja Region, Dolinskij area; 28513 Ukraine; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: park_vbokovenki@ukr.net ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	48.2173
+Longitude:	32.8592

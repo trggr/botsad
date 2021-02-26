@@ -1,0 +1,71 @@
+ID:	2407
+Name:	Fundacion Jardin Botanico del Orinoco 
+Administration Staff Number:	8
+Curator's Name:	Alexander Guevara
+Director's Name:	Ricardo Aquino
+Educational Staff Number:	8
+Horticultural Staff Number:	22
+Info:	  Venezuela - Bolivar - Ciudad Bolivar  ;Garden Information;  Institution Code: ORINO; International Agenda Registration: No; BGCI Member: No; About the Fundacion Jardin Botanico del Orinoco La Fundación Jardín Botánico del Orinoco, es una Institución sin fines de lucro, con personalidad jurídica y patrimonio propio, creada por la Gobernación del Estado Bolívar, el 13 de Octubre de 1993, bajo los auspicios de un Consejo Superior integrado por la Gobernación del Estado Bolívar, la Corporación Venezolana de Guayana, la Alcaldía del Municipio Heres y la Universidad Nacional Experimental de Guayana;  Main Address:; Fundacion Jardin Botanico del Orinoco; Calle Bolivar; Modulos Laguna El Porvenir; Ciudad Bolivar; Bolivar 8001 Venezuela; ;  Telephone: +58 2856320823; Fax: +58 2856325535; URL: <a target="_blank" href="http://www.jborinoco.org">www.jborinoco.org; Primary Email: jarboto@cantv.net ; 
+Plant Records Officer's Name:	Sofia Ruano
+Research Staff Number:	2
+Altitude:	18.00 Metres
+Annual Rainfall:	1051 mm
+Date founded:	1993
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	8.0821
+Local Address:	Calle Bolivar, Modulos Laguna El Porvenir
+Locality:	Information
+Longitude:	-63.5299
+Natural Vegetation Area:	Yes
+Total Area:	64 Hectares
+Total area of shadehouses:	200 Metres
+Arboretum:	Yes
+Arboretum Size:	4
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Se esta elaborando el catalogo de las plantas vasculares del Jardin Botanico del Orinoco, el cual incluye, hasta ahora, 540 especies de plantas cultivadas y naturales del area del Jardin.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

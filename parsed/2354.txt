@@ -1,0 +1,27 @@
+ID:	2354
+Name:	Bokrijk Arboretum 
+Curator's Name:	Jef Van Meulder
+Director's Name:	Liesbeth Kees
+Info:	  Belgium - Genk (Bokrijk)  ;Garden Information;  Institution Code: GENK; International Agenda Registration: No; BGCI Member: No; About the Bokrijk Arboretum The domain of Bokrijk is 550 ha large and is managed by the Province of Limburg. The arboretum comprises 18 ha and was established at the beginning of 1965. It was initially designed as a Systematic collection, but in 1985 it was transformed into a landscaped garden with a mixture of trees, shrubs and herbaceous plants.; ; The arboretum specializes in Holly (Ilex spp.), having the largest reference collection of this genus in Europe. This resulted in it becoming an official Holly trial garden affiliated with the American Holly society.; ; The arboretum is also home to the national Bamboo collection.; Other landscaped theme gardens of interest include a wetlands garden, a woodland garden (under construction), a fern garden, and a Mediterranean garden.; Separate from the arboretum, in another part of the domain, is an herb and vegetable garden, and an historical fruit orchard.;  Main Address:; Bokrijk Arboretum; Provinciaal Domein Bokrijk; Genk (Bokrijk); B-3600 Belgium; ;  Telephone: +32 (0)11 26 53 61; Fax: +32 (0)11 26 53 60; URL: <a target="_blank" href="http://www.bokrijk.be">www.bokrijk.be; Primary Email: Jef.vanmeulder@limburg.be ; 
+Plant Records Officer's Name:	Frank Libens
+Altitude:	150.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	1960
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	50.9669
+Longitude:	5.4898
+Natural Vegetation Area:	No
+Total Area:	18 Hectares
+Arboretum:	Yes
+Arboretum Size:	18
+Computer Plant Record System:	Yes
+Herbarium:	No
+Open to public:	Yes
+Accession Number:	6200
+Special Collections:	Magnolia, Ilex, bamboos, Hardy ferns and herbaceous Berberidaceae.
+Ex Situ Conservation Programme:	Yes
+Education:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Guided Tours:	Yes

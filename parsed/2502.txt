@@ -1,0 +1,29 @@
+ID:	2502
+Name:	Arboretum d‘Antsokay 
+Fax:	
+Info:	  Madagascar - Toliara  ;Garden Information;  Institution Code: ANTS; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	00261 (0) 34 07 600 15
+Curator's Name:	
+Director's Name:	Andry Petignat
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Annual Rainfall:	400 mm
+Date founded:	1980
+Institution Type:	Botanic Garden
+Latitude:	-23.4147
+Longitude:	43.8055
+Natural Vegetation Area:	Yes
+Total Area:	40 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	3000
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	900
+Reintroduction Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes

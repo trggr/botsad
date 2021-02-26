@@ -1,0 +1,11 @@
+ID:	5106
+Name:	Jardín Botánico "Viera y Clavijo"- Seed Bank 
+Curator's Name:	Alicia Roca Salinas
+Director's Name:	Dr. David Bramwell
+Info:	  Spain - Islas Canarias - Las Palmas de Gran Canaria  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico "Viera y Clavijo"- Seed Bank; Apartado de Correos 14 de Tafira Alta; Las Palmas de Gran Canaria; Islas Canarias 35017 Spain; ;  Telephone: +34 928 219 580; Fax: +34 928 219 581; URL: <a target="_blank" href="http://www.jardincanario.org/">http://www.jardincanario.org/; Primary Email: jardincanario@grancanaria.com ; 
+Plant Records Officer's Name:	David Bramwell
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	28.0450
+Longitude:	-15.4765
+Seed Bank:	Yes

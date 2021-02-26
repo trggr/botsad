@@ -1,0 +1,16 @@
+ID:	3484
+Name:	Chester M. Alter Arboretum 
+Curator's Name:	Marc Hathaway
+Director's Name:	Patrick Martin, Arboretum Director
+Info:	  United States of America - Colorado - Denver  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Chester M. Alter Arboretum; University of Denver; 2190 East Iliff Avenue, Room 102; Denver; Colorado 80208 United States of America; ;  Telephone: (303) 871-7736; Fax: ; URL: <a target="_blank" href="http://www.du.edu/arboretum/index.html">www.du.edu/arboretum/index.html; Primary Email: Arboretum-L@du.edu ; 
+Plant Records Officer's Name:	Marc Hathaway
+Altitude:	1609.00 Metres
+Annual Rainfall:	391 mm
+Date founded:	1999
+Institution Type:	Botanic Garden
+Latitude:	39.6748190
+Longitude:	-104.9617900
+Arboretum:	Yes
+Open to public:	Yes
+Accession Number:	2238
+Cultivation Taxa Num:	427

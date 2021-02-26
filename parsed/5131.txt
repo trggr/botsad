@@ -1,0 +1,11 @@
+ID:	5131
+Name:	Centre of the Region Haná for Biotechnological and Agricultural Research 
+Curator's Name:	
+Director's Name:	-
+Info:	  Czech Republic - Olomouc  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Centre of the Region Haná for Biotechnological and Agricultural Research; Faculty of Science, Palacký University; Šlechtitelů 27; Olomouc; 78371 Czech Republic; ;  Telephone: +420 585 634 971, +420 585 634 979; Fax: ; URL: <a target="_blank" href="http://www.cr-hana.eu/en">http://www.cr-hana.eu/en; Primary Email: projekty_eu@upol.cz ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	49.594840
+Longitude:	17.259649
+Seed Bank:	Yes

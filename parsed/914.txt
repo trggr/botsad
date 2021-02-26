@@ -1,0 +1,10 @@
+ID:	914
+Name:	Museo de Historia Natural "Javier Prado" 
+Curator's Name:	
+Director's Name:	Dr. Niels Valencia Chacón
+Info:	  Peru - Lima  ;Garden Information;  Institution Code: USM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Museo de Historia Natural "Javier Prado"; Avenida Arenales; Lima; 1256 Peru; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	-12.0930
+Longitude:	-77.0464

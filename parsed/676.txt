@@ -1,0 +1,46 @@
+ID:	676
+Name:	University of Wisconsin-Madison Arboretum 
+Administration Staff Number:	
+Curator's Name:	David Stevens, Longenecker Horticultural Gardens Curator
+Director's Name:	Karen Oberhauser, Director
+Educational Staff Number:	3
+Horticultural Staff Number:	1
+Info:	  United States of America - Wisconsin - Madison  ;Garden Information;  Institution Code: WIS; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Wisconsin-Madison Arboretum; 1207 Seminole Highway; Madison; Wisconsin 53711-3726 United States of America; ;  Telephone: (608) 262-2746; Fax: (608) 262-5209; URL: <a target="_blank" href="http://uwarboretum.org/index.php">http://uwarboretum.org/index.php; Primary Email: info@uwarboretum.org ; 
+Plant Records Officer's Name:	David Stevens, Longenecker Horticultural Gardens Curator
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Date founded:	1934
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	43.0391920
+Longitude:	-89.4435850
+Natural Vegetation Area:	Yes
+Total Area:	500 Hectares
+Arboretum:	Yes
+Arboretum Size:	500
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Acer (91 taxa), Juniperus (112 taxa), Malus (144 taxa), Picea (55 taxa), Pinus (55 taxa), Syringa (282 taxa), Thuja (69 taxa), Viburnum (55 taxa), Amelanchier cvs, Juniperus cvs, Malus cvs, Potentilla cvs, Buxus cvs, Forsythia cvs, Rosa cvs, Spiraea cvs,
+Conservation - Biology:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	Yes

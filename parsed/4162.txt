@@ -1,0 +1,29 @@
+ID:	4162
+Name:	Ogród Botaniczny "Arboretum Wirty" 
+Fax:	(0-69) 188-92-23
+Info:	  Poland - pomorskie - Kaliska  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	kaliska@gdansk.lasy.gov.pl
+Telephone:	(0-58) 84-810
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	mgr inż. Andrzej Przewłocki
+Educational Staff Number:	1
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1875
+Institution Type:	Botanic Garden
+Latitude:	53.9281
+Longitude:	18.1838
+Total Area:	42 Hectares
+Arboretum:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	18000
+Seed Bank:	No
+Cultivation Taxa Num:	700
+Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Education:	Yes

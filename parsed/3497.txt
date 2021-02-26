@@ -1,0 +1,17 @@
+ID:	3497
+Name:	Mynelle Gardens 
+Curator's Name:	
+Director's Name:	Georgia Knight
+Info:	  United States of America - Mississippi - Jackson  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Mynelle Gardens Mynelle Gardens began as a private garden created by Mynelle Westbrook Hayward and was acquired by the City of Jackson in 1973. It is a seven acre collage of several distinct gardens, with winding pathways, cascading pools, and distinctive bridges which lead you across the pond to an island oasis. It typifies the southern garden with features worth emulating in our own backyards.;  Main Address:; Mynelle Gardens; City of Jackson; 4736 Clinton Boulevard; Jackson; Mississippi 39209 United States of America; ;  Telephone: (601) 960-1894; Fax: ; URL: <a target="_blank" href="http://www.jacksonms.gov/visitors/mynellgardens">www.jacksonms.gov/visitors/mynellgardens; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1926
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	32.3287670
+Longitude:	-90.2524200
+Total Area:	3 Hectares
+Arboretum:	No
+Disabled access:	Yes
+Herbarium:	No
+Open to public:	Yes

@@ -1,0 +1,67 @@
+ID:	3396
+Name:	Sultan Qaboos University Botanic Garden 
+Administration Staff Number:	
+Curator's Name:	no curator
+Director's Name:	no director
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  Oman - Al-Khod  ;Garden Information;  Institution Code: SQAK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sultan Qaboos University Botanic Garden; Department of Biology, Sultan Qaboos University; P.O. Box 36, Al-Khod 123, Sultanate of Oman; Al-Khod; Oman; ;  Telephone: 968-24 413333-2406; Fax: 968-24 413415; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	75.00 Metres
+Annual Rainfall:	120 mm
+Date founded:	1989
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	23.5500
+Longitude:	58.0900
+Total Area:	4 Hectares
+Arboretum:	Yes
+Arboretum Size:	2
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	Collection is not documented and has been neglected over since 2006, due to staff anf funding shortage.
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

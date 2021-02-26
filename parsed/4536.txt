@@ -1,0 +1,30 @@
+ID:	4536
+Name:	Lincoln Park Zoo 
+Fax:	
+Info:	  United States of America - Illinois - Chicago  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	guestservices@lpzoo.org
+Telephone:	(312) 742-2000
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Katrina Chipman
+Educational Staff Number:	
+Horticultural Staff Number:	10
+Plant Records Officer's Name:	Abby Lorenz
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1868
+Institution Type:	Zoological Institution
+Latitude:	41.9185410
+Longitude:	-87.6361800
+Computer Plant Record System:	Yes
+Open to public:	Yes
+Accession Number:	3880
+Cultivation Taxa Num:	1463
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

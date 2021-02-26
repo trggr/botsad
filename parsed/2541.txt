@@ -1,0 +1,53 @@
+ID:	2541
+Name:	MSSBG - M.S. Swaminathan Research Foundation 
+Administration Staff Number:	4
+Curator's Name:	V.V. Sivan
+Director's Name:	Dr. N. Anil Kumar
+Educational Staff Number:	5
+Horticultural Staff Number:	5
+Info:	  India - Kerala - Wayanad  ;Garden Information;  Institution Code: SWAM; International Agenda Registration: Yes; BGCI Member: Yes; About the MSSBG - M.S. Swaminathan Research Foundation This Garden in 8 ha has been established to conserve and make available seed/planting materials of the local community use-specific and culture oriented plant species, as well as the “lost crops and species” of the plant genetic resources like jack and mango, roots and tubers, legumes, medicinal plants, and the diminishing NWFPs of the Western Ghats-a global biodiversity hotspot. It is also to serve as an educational and training facility for the children, youth, teachers and parents to know more about the native flora and learn the value of biodiversity and ecosystem services, and address the issues of man-animal conflicts.;  Main Address:; MSSBG - M.S. Swaminathan Research Foundation; Community Agro-biodiversity Centre; Puthoorvayal P.O., Kalpeltta; Wayanad; Kerala 673 577 India; ;  Telephone: 04936-204477; 207019; Fax: ; URL: <a target="_blank" href="http://www.mssrfcabc.res.in/">http://www.mssrfcabc.res.in/; Primary Email: office@mssrfcabc.res.in ; 
+Plant Records Officer's Name:	Jayesh Joseph
+Research Staff Number:	10
+Altitude:	800.00 Metres
+Annual Rainfall:	3000 mm
+Date founded:	2001
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	11.3530
+Local Address:	Puthoorvayal
+Locality:	Information
+Longitude:	76.0555
+Natural Vegetation Area:	Yes
+Total Area:	8 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Computer Plant Record System:	No
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	800
+Invasive Species Monitoring:	No
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Agriculture:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Systematics and Taxonomy:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

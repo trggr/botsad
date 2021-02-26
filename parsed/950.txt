@@ -1,0 +1,12 @@
+ID:	950
+Name:	Guangxi Botanical Garden of Medicinal Plants 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Guangxi - Nanning  ;Garden Information;  Institution Code: GBGMP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Guangxi Botanical Garden of Medicinal Plants; Maoqiao, Nanning, Guangxi, 530023, China; Nanning; Guangxi China; ;  Telephone: 28083; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	22.8055
+Local Address:	中国广西省南宁市茅桥，邮编 530023
+Locality:	Information
+Longitude:	108.3166

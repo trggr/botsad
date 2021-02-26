@@ -1,0 +1,9 @@
+ID:	4722
+Name:	Knoxville Zoological Gardens 
+Curator's Name:	
+Director's Name:	Keith Montgomery, Director of Operations
+Info:	  United States of America - Tennessee - Knoxville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Knoxville Zoological Gardens; P.O. Box 6040; Knoxville; Tennessee 37914-0040 United States of America; ;  Telephone: (865) 637-5332 x326; Fax: ; URL: <a target="_blank" href="http://www.knoxville-zoo.org">www.knoxville-zoo.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Institution Type:	Zoological Institution
+Latitude:	35.9997600
+Longitude:	-83.8889200

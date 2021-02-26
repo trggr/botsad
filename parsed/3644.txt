@@ -1,0 +1,10 @@
+ID:	3644
+Name:	National Botanic Garden 
+Curator's Name:	
+Director's Name:	The Director
+Info:	  Montserrat - Olveston  ;Garden Information;  Institution Code: OLVE; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Botanic Garden; Montserrat National Trust; P.O. Box 393; Olveston; Montserrat; ;  Telephone: 664-491-3086; Fax: 664-491-304; URL: <a target="_blank" href="http://www.montserratnationaltrust.com">http://www.montserratnationaltrust.com; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	16.7475
+Longitude:	-62.2303

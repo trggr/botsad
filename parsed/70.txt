@@ -1,0 +1,45 @@
+ID:	70
+Name:	Durham University Botanic Garden 
+Fax:	
+Info:	  United Kingdom - Durham City  ;Garden Information;  Institution Code: DHM; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	botanic.garden@durham.ac.uk
+Administration Staff Number:	1
+Curator's Name:	Steve Ansdell
+Director's Name:	Professor Tony Slabas
+Educational Staff Number:	1
+Horticultural Staff Number:	6
+Plant Records Officer's Name:	Mike Hughes (Head gardener)
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1971
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	54.762471
+Longitude:	-1.575036
+Natural Vegetation Area:	Yes
+Total Area:	16 Hectares
+Total area of glasshouses:	465 Metres
+Arboretum:	Yes
+Arboretum Size:	3
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	40000
+Number of Volunteers:	10
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Cultivation Taxa Num:	5000
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,13 @@
+ID:	5011
+Name:	Shashemene Botanic Garden 
+Fax:	
+Info:	  Ethiopia - Shashemene  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; 
+Primary Email:	
+Telephone:	
+Curator's Name:	
+Director's Name:	
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	7.193592
+Longitude:	38.592610

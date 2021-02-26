@@ -1,0 +1,32 @@
+ID:	1018
+Name:	Cooktown Botanic Gardens 
+Administration Staff Number:	1
+Curator's Name:	Tony Roberts
+Director's Name:	Tony Roberts
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Info:	  Australia - QLD - Cooktown  ;Garden Information;  Institution Code: COOK; International Agenda Registration: No; BGCI Member: No; About the Cooktown Botanic Gardens Heritage listed, the gardens were established in 1868 in the Gallop Botanic Reserve on the edge of Cooktown and contains walking trails to Finch Bay and Cherry Tree Bay. The major collection is the Banks & Solander collection, living specimens of those collected in 1770 by Joseph Banks and Daniel Solander on board the Endeavour with Captain Cook. Other sections include Fruit Trees, a Palmetum, Bushfoods, Timber Trees, Australian Natives,Wetlands, Open Forest, Syzygiums and Society for Growing Australian Plants section.;  Main Address:; Cooktown Botanic Gardens; Walker St; P.O. Box 3; Cooktown; QLD 4895 Australia; ;  Telephone: 0417857996; Fax: ; URL: <a target="_blank" href="http://www.cooktownandcapeyork.com/do/nature/plants/botanic_gardens">www.cooktownandcapeyork.com/do/nature/plants/botanic_gardens; Primary Email: troberts@cook.qld.gov.au ; 
+Plant Records Officer's Name:	Tony Roberts
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1878
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-15.4706637
+Longitude:	145.261143
+Natural Vegetation Area:	Yes
+Total Area:	62 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Special Collections:	50 % of collection is Australian flora. Palmetum. Display of species collected by Banks and Solander in Cooktown in 1770. Economic plants such as teak, tamarind, breadfruit, cashew and mango. Ornamental trees and shrubs. Bush Foods collection. Timber Trees. Developing Aroid garden, Syzygium section, Spice garden, Wetlands.
+Courses for School Children:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

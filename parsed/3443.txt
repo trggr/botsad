@@ -1,0 +1,43 @@
+ID:	3443
+Name:	Sharjah Botanic Garden 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Dr Dave Aplin
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  United Arab Emirates - Sharjah  ;Garden Information;  Institution Code: SHARJ; International Agenda Registration: No; BGCI Member: Yes; About the Sharjah Botanic Garden His Highness Sheikh Dr Sultan bin Mohamed al Qasimi, Member of the Supreme Council of the United Arab Emirates and Ruler of Sharjah has authorised the Sharjah Research Academy to launch an exciting project to design and develop the Sharjah Botanic Garden (SBG).; ; The project began in 2018, but is associated with the Sharjah Seed Bank & Herbarium that established in 2018.;  Main Address:; Sharjah Botanic Garden; Sharjah Research Academy; Sharjah; 60999 United Arab Emirates; ;  Telephone: +971 5 506 2260; Fax: +971 6 506 2201; URL: <a target="_blank" href="http://www.botanicgarden.ae">www.botanicgarden.ae; Primary Email: daveaplin@sra.ae ; 
+Plant Records Officer's Name:	
+Research Staff Number:	6
+Altitude:	0.00 Metres
+Annual Rainfall:	116 mm
+Date founded:	2018
+Institution Type:	Botanic Garden
+Latitude:	22.142267
+Local Address:	
+Locality:	Information
+Longitude:	55.343360
+Natural Vegetation Area:	Yes
+Total Area:	60 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Open to public:	No
+Seed Bank:	Yes
+Special Collections:	Plant collections to be developed
+Ex Situ Conservation Programme:	Yes
+Biotechnology:	Yes
+Conservation - Genetics:	Yes
+Seed/Spore Biology:	Yes
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

@@ -1,0 +1,48 @@
+ID:	556
+Name:	Kornik Arboretum 
+Fax:	+48 61 8170 166
+Info:	  Poland - wielkopolskie - Kórnik  ;Garden Information;  Institution Code: KOR; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	+48 61 8170 033
+Curator's Name:	Kinga Nowak-Dyjeta
+Director's Name:	Prof. dr hab. Jacek Oleksyn
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1826
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	52.244722
+Local Address:	ul. Parkowa 5
+Locality:	Information
+Longitude:	17.099167
+Natural Vegetation Area:	Yes
+Total Area:	48 Hectares
+Arboretum:	Yes
+Arboretum Size:	48
+Computer Plant Record System:	No
+Disabled access:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	20000
+Cultivation Taxa Num:	3000
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Syringa, Malus, Forsythia, Acer, Tilia, Populus, Betula, Magnolia, Deutzia, Carpinus, Lonicera, Coniferae
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Courses for General Public:	No
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

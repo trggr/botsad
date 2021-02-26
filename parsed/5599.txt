@@ -1,0 +1,9 @@
+ID:	5599
+Name:	Proyecto Jardín Botánico Municipal Yvy Porá 
+Curator's Name:	Gabriel Karpe
+Director's Name:	Eliana Sosula
+Info:	  Argentina - Misiones - San Vicente  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Proyecto Jardín Botánico Municipal Yvy Porá; Ruta Nacional 14 Kilómetro 975.5; Dirección de Turismo, Municipalidad de San Vicente, Calles El Ceibo y Picaflor; San Vicente; Misiones 3364 Argentina; ;  Telephone: +54 3755 467200; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: turismomunisv@hotmail.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	-26.990995
+Longitude:	-54.490830

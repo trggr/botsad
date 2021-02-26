@@ -1,0 +1,10 @@
+ID:	3538
+Name:	Jardín Botánico "Pillahuincó" 
+Curator's Name:	
+Director's Name:	Dr. Sergio. Sergio M. Zalba
+Info:	  Argentina - Buenos Aires - Bahía Blanca  ;Garden Information;  Institution Code: PILLA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico "Pillahuincó"; Parque Provincial Ernesto Tornquist, Ruta Provincial 76, km 225, Sierra de la Ventana; GEKKO, Grupo de Estudios en Conservacion Manejo, Departamento de Biología Bioquímica y Farmacia, Universidad Nacional del Sur, San Juan 670; Bahía Blanca; Buenos Aires 8000 Argentina; ;  Telephone: 54 (0) 291-459- 5101 ext. 2420; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: szalba@criba.edu.ar ; 
+Plant Records Officer's Name:	Dra. Cristina Sanhueza
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-38.06472
+Longitude:	-61.97222

@@ -1,0 +1,10 @@
+ID:	3638
+Name:	Sunderland Museum and Winter Garden 
+Curator's Name:	
+Director's Name:	Director
+Info:	  United Kingdom - Tyne & Wear - Sunderland  ;Garden Information;  Institution Code: SUN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sunderland Museum and Winter Garden; Sunderland Museum; Burdon Road; Sunderland; Tyne & Wear SR1 1PP United Kingdom; ;  Telephone: (0191) 553 2323; Fax: ; URL: <a target="_blank" href="http://www.twmuseums.org.uk/sunderland.html">http://www.twmuseums.org.uk/sunderland.html; Primary Email: info@sunderlandmuseums.org.uk ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	54.904253
+Longitude:	-1.380649

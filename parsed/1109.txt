@@ -1,0 +1,10 @@
+ID:	1109
+Name:	Hortus Botanicus of the Institute Silvotechnici Superioris 
+Curator's Name:	
+Director's Name:	Venko Kalinkov
+Info:	  Bulgaria - Sofia  ;Garden Information;  Institution Code: SOFHB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hortus Botanicus of the Institute Silvotechnici Superioris; Superioris, Higher Forestry Institute, 10, Kl. Okhridski str. 1156, SOFIA, Bulgaria.; Sofia; Bulgaria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1964
+Institution Type:	Botanic Garden
+Latitude:	42.7105
+Longitude:	23.3238

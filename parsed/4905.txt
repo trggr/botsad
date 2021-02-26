@@ -1,0 +1,18 @@
+ID:	4905
+Name:	Baili Azalea Nature Reserve of Guizhou Province 
+Fax:	+86-857-5681162
+Info:	  China - Guizhou - Bijie  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	gzbldj@163.com
+Telephone:	+86-857-5681162
+Curator's Name:	
+Director's Name:	Baili Azalea Reserve Manager
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	27.179240
+Local Address:	贵州省百里杜鹃普底乡永丰村
+Locality:	Information
+Longitude:	105.937400
+Natural Vegetation Area:	Yes
+Total Area:	126 Hectares
+Cultivation Taxa Num:	42

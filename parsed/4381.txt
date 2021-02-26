@@ -1,0 +1,12 @@
+ID:	4381
+Name:	Yoogarden 
+Curator's Name:	Sang-Min Lee
+Director's Name:	Sang-Hyuk Yu
+Info:	  South Korea - Gyeonggi-do - Pocheon-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Yoogarden; San 38 Samjeong-ri, Sinbuk-myeon; Pocheon-si; Gyeonggi-do 487-912 South Korea; ;  Telephone: 031-536-9922; Fax: 031-536-8296; URL: <a target="_blank" href="http://www.yoogarden.com">http://www.yoogarden.com; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	37.93384
+Local Address:	신북면 삼정2리 산38번지
+Locality:	Information
+Longitude:	127.22648

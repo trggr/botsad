@@ -1,0 +1,10 @@
+ID:	2332
+Name:	Parcul "Dendrariu" 
+Curator's Name:	
+Director's Name:	.
+Info:	  Moldova - Enuscu  ;Garden Information;  Institution Code: ENUSC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parcul "Dendrariu"; mun.Chisinau str. George Enescu 5 MD-2064 Moldova, Republic Of; Enuscu; Moldova; ;  Telephone: +373 22 71 90 29; Fax: ; URL: <a target="_blank" href="http://dendrariu.md/">http://dendrariu.md/; Primary Email: dendrariu@gmail.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	47.0046
+Longitude:	28.8281

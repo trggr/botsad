@@ -1,0 +1,12 @@
+ID:	79
+Name:	Botanische Tuin Elsloo 
+Curator's Name:	P.J.Habets
+Director's Name:	
+Info:	  Netherlands - Elsloo  ;Garden Information;  Institution Code: ELSL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanische Tuin Elsloo; PO Box 575, NL-6180 NB ELSLOO, The Netherlands.; Elsloo; Netherlands; ;  Telephone: 04490 74870; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1972
+Institution Type:	Botanic Garden
+Latitude:	50.9474
+Longitude:	5.7743
+Special Collections:	Medicinal plants, ferns, Aconitum

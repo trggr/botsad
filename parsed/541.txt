@@ -1,0 +1,28 @@
+ID:	541
+Name:	Rotterdam Zoological and Botanical Gardens 
+Curator's Name:	Harald Schmidt
+Director's Name:	E.J. Zevenbergen.
+Info:	  Netherlands - Rotterdam  ;Garden Information;  Institution Code: ROTT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Rotterdam Zoological and Botanical Gardens; Blijdorplaan 8; Rotterdam; 3000 AM Netherlands; ;  Telephone: 00-31-614625604; Fax: 010-4431454; URL: <a target="_blank" href="http://www.diergaardeblijdorp.nl">www.diergaardeblijdorp.nl; Primary Email: h.schmidt@rotterdamzoo.nl ; 
+Plant Records Officer's Name:	H. Schmidt
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	51.927354
+Longitude:	4.449141
+Total Area:	28 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Accession Number:	5357
+Cultivation Taxa Num:	4976
+Special Collections:	Member of SNP scheme specialising in Bromeliaceae and Primulaceae.
+Data Management Systems and Information Technology:	Yes
+Education:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes

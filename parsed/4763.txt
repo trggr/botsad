@@ -1,0 +1,68 @@
+ID:	4763
+Name:	Les Jardins Suspendus 
+Administration Staff Number:	
+Curator's Name:	Jean-Marie HEBERT
+Director's Name:	Alberic LEVAIN
+Educational Staff Number:	1
+Horticultural Staff Number:	20
+Info:	  France - Le Havre  ;Garden Information;  Institution Code: JSUS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Les Jardins Suspendus; rue du fort; Le Havre; 76600 France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://lehavre.fr">lehavre.fr; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	100.00 Metres
+Annual Rainfall:	746 mm
+Date founded:	2008
+Institution Type:	Botanic Garden
+Latitude:	49.50
+Local Address:	rue du fort rue Albert Copieux
+Locality:	Information
+Longitude:	0.09
+Total area of glasshouses:	3000 Metres
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	100000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	4100
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	Yes
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

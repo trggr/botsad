@@ -1,0 +1,43 @@
+ID:	471
+Name:	Orto Botanico - Università degli Studi di Catania 
+Fax:	39 (0)95 441209
+Info:	  Italy - Sicilia - Catania  ;Garden Information;  Institution Code: CAT; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	orto.scuola@yahoo.it
+Telephone:	39 (0)95 430901
+Curator's Name:	
+Director's Name:	Pietro Pavone
+Plant Records Officer's Name:	
+Altitude:	75.00 Metres
+Annual Rainfall:	731 mm
+Date founded:	1858
+Institution Type:	Botanic Garden
+Latitude:	37.5279
+Longitude:	15.0798
+Natural Vegetation Area:	Yes
+Total Area:	2 Hectares
+Arboretum:	No
+Disabled access:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Seed Bank:	Yes
+Special Collections:	Succulents, palms and wild plants of Sicily.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Conservation - Biology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Molecular Genetics:	Yes
+Restoration Ecology:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

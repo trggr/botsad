@@ -1,0 +1,39 @@
+ID:	4329
+Name:	Hantam National Botanical Garden 
+Fax:	+27 86 555 9082
+Info:	  South Africa - Northern Cape - Nieuwoudtville  ;Garden Information;  Institution Code: SAHNG; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	Hantam@sanbi.org.za
+Telephone:	+27 (0)27 218 1200
+Administration Staff Number:	1
+Curator's Name:	Eugene Marinus
+Director's Name:	Christopher Willis
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2008
+Institution Type:	Botanic Garden
+Landscaped Area:	No
+Latitude:	-31.374609
+Longitude:	19.1107114
+Natural Vegetation Area:	Yes
+Total Area:	6229 Hectares
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	No
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	3500
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	The Hantam National Botanical Garden is a'wild' or natural garden.
+Medicinal Plant Programme:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Visitor/Education Centre:	No

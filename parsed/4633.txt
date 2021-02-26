@@ -1,0 +1,9 @@
+ID:	4633
+Name:	University of Chicago Botanic Garden 
+Curator's Name:	
+Director's Name:	Richard C. Bumstead, ASLA, University Planner
+Info:	  United States of America - Illinois - Chicago  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Chicago Botanic Garden; Botanic Garden Fund; 5801 South Ellis Avenue, Room 7; Chicago; Illinois 60637 United States of America; ;  Telephone: (773) 834-1657; Fax: ; URL: <a target="_blank" href="http://www.uchicago.edu/docs/gardbroNS">www.uchicago.edu/docs/gardbroNS; Primary Email: rcbumste@uchicago.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	41.7896009
+Longitude:	-87.5996912

@@ -1,0 +1,44 @@
+ID:	5
+Name:	Auckland Botanic Gardens 
+Fax:	64 (09) 266-3698
+Info:	  New Zealand - Auckland  ;Garden Information;  Institution Code: AUCK; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	botanic.gardens@aucklandcouncil.govt.nz
+Telephone:	64 (09) 267-1457
+Curator's Name:	Rebecca Stanley, Curator
+Director's Name:	Jack Hobbs, Manager
+Plant Records Officer's Name:	Emma Bodley, Botanical Records Officer
+Altitude:	60.00 Metres
+Date founded:	1982
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-37.007387
+Longitude:	174.904988
+Natural Vegetation Area:	Yes
+Total Area:	64 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	NZ native flora, flaxes (46 vars.), Hebe (90 vars.), flowering tea tree (Leptospermum, 35 vars.), Camellia, Magnolia, conifers, Dahlia, Salvia, herbs, perennial plants suitable for Auckland, African plants suitable for Auckland.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Education:	Yes
+Horticulture:	Yes
+Plant Breeding:	Yes
+Sustainability:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,9 @@
+ID:	5358
+Name:	Colonial Williamsburg Arboretum 
+Curator's Name:	
+Director's Name:	
+Info:	  United States of America - VA - Williamsburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Colonial Williamsburg Arboretum; 314 North Botetourt Street; Williamsburg; VA 23185 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.history.org/history/CWLand/">http://www.history.org/history/CWLand/; Primary Email: Cgardner@cwf.org ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	37.276615
+Longitude:	-76.694618

@@ -1,0 +1,79 @@
+ID:	260
+Name:	South-Ural Botanical Garden-Institute – Subdivision of the Ufa Federal Research Centre of the Russia 
+Fax:	8 (347) 286-12-33
+Info:	  Russian Federation - Republic of Bashkortostan - Ufa  ;Garden Information;  Institution Code: UFA; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	botsad@anrb.ru
+Telephone:	8 (347) 286-12-55
+Administration Staff Number:	13
+Curator's Name:	O.Yu. Zhigunov
+Director's Name:	Dr. Z.Kh. Shigapov
+Educational Staff Number:	9
+Horticultural Staff Number:	18
+Plant Records Officer's Name:	
+Research Staff Number:	32
+Altitude:	183.00 Metres
+Annual Rainfall:	589 mm
+Date founded:	1932
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	54.4341
+Local Address:	Россия,450080, Республика Башкортостан, г. Уфа, ул. Менделеева, д. 195, корп. 3
+Locality:	Information
+Longitude:	56.0034
+Natural Vegetation Area:	Yes
+Total Area:	18 Hectares
+Total area of glasshouses:	1400 Metres
+Arboretum:	Yes
+Computer Plant Record System:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	40000
+Number of Volunteers:	20
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+ABS Policy:	Yes
+Cultivation Taxa Num:	4736
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Herbaceous plants (flower-decorative
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Sustainability:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

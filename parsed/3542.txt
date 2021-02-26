@@ -1,0 +1,10 @@
+ID:	3542
+Name:	Jardín del Árido Patagónico 
+Curator's Name:	Dra. Sandra Feijoo
+Director's Name:	Prof. Sara E. Fernández
+Info:	  Argentina - Chubut - Comodoro Rivadavia  ;Garden Information;  Institution Code: HRP; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín del Árido Patagónico; Universidad Nacional de la Patagonia San Juan Bosco; Facultad de Ciencias Naturales, Dep de Biologia, Km 4; Comodoro Rivadavia; Chubut 9000 Argentina; ;  Telephone: 54 (0) 297-4550339; Fax: ; URL: <a target="_blank" href="http://www.unp.edu.ar">www.unp.edu.ar; Primary Email: sfernan@unpata.edu.ar ; 
+Plant Records Officer's Name:	Roxana Peneff
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-54.80752
+Longitude:	-68.32566

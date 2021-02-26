@@ -1,0 +1,13 @@
+ID:	5341
+Name:	Cal Poly Plant Conservatory 
+Curator's Name:	
+Director's Name:	Matt Ritter
+Info:	  United States of America - California - San Luis Obispo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Cal Poly Plant Conservatory The Cal Poly Plant Conservatory is a large glasshouse facility located in the center of the Cal Poly campus. The primary mission of the Cal Poly Plant Conservatory is to maintain a diverse, well-documented, and accurately labeled living plant collection supporting and enhancing teaching and research for the faculty and students of Cal Poly. A secondary goal of the Conservatory is to help foster education about plant biology and conservation of rare species through support of community outreach programs!;  Main Address:; Cal Poly Plant Conservatory; California Polytechnic State University; Mailing: Room 373 Fisher Science; San Luis Obispo; California 93407 United States of America; ;  Telephone: (805) 756-2775; Fax: ; URL: <a target="_blank" href="https://plantconservatory.calpoly.edu">https://plantconservatory.calpoly.edu; Primary Email: mritter@calpoly.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2002
+Institution Type:	Botanic Garden
+Latitude:	35.302179
+Longitude:	-120.660379
+Open to public:	Yes
+Special Collections:	Indoor teaching collection.

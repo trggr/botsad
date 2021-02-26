@@ -1,0 +1,54 @@
+ID:	1465
+Name:	Jardim Botânico do Faial 
+Administration Staff Number:	2
+Curator's Name:	Violeta Olivan
+Director's Name:	Pedro Casimiro
+Educational Staff Number:	2
+Horticultural Staff Number:	3
+Info:	  Portugal - Açores - Horta - Faial  ;Garden Information;  Institution Code: HORTA; International Agenda Registration: No; BGCI Member: Yes; About the Jardim Botânico do Faial Located in an old farming area of Quinta de S. Lourenço’s pastures and orange orchards, in the Flamengos valley, this Botanical Garden has been enchanting its visitors since 1986.; ; The Garden, with an area of 8000m2, provides a scientific, pedagogical, ecological and also a leisure contribution to the island. Its purpose besides being a pleasant place of unique beauty, and highly recommended to be visited, is fundamentally related with the management of the collection of living flora associated with botanical conservation, especially the collection of seeds of endemic species, the recovery of habitats and the sensitization to the importance of natural floristic wealth of the Azores.; ; The Garden keeps an extensive collection of the Azorean endemic and native plants, an area for medicinal plants used traditionally in cooking and also in ancient cures, and yet another garden area for display of exotic ornamental species from all around the world. Here you may visit a beautiful orchidarium with 30 different species. There are also some arable crops, used traditionally in agriculture that had regional economic importance in the past.; ; The Botanical Garden has a second zone, located in the parish of Pedro Miguel, at an altitude of 400 m. This new area, with 60 000m2 is currently undergoing the recovery of its natural habitats and characteristic species of the humid and the very humid Laurissilva. Besides the important scientific role, this zone has high landscape value.;  Main Address:; Jardim Botânico do Faial; Rua de São Lourenço, 23; Horta - Faial; Açores 9900-401 Portugal; ;  Telephone: +351 292 948 140; Fax: ; URL: <a target="_blank" href="http://parquesnaturais.azores.gov.pt/pt/faial/oquevisitar/centrosinterpretacao/jardim-botanico-do-faial">http://parquesnaturais.azores.gov.pt/pt/faial/oquevisitar/centrosinterpretacao/jardim-botanico-do-faial; Primary Email: pnfaial.jardimbotanico@azores.gov.pt ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	105.00 Metres
+Annual Rainfall:	800 mm
+Date founded:	1986
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	38.33353
+Local Address:	Jardim Botânico do Faial, Rua São Lourenço nº 23, 9900-401 Horta- Açores, Portugal
+Locality:	Information
+Longitude:	28.38255
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Jardim Botânico de Pedro Miguel
+Total Area:	7 Hectares
+Total area of glasshouses:	300 Metres
+Arboretum:	Yes
+Arboretum Size:	6
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	6000
+Number of Volunteers:	2
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Cultivation Taxa Num:	197
+Special Collections:	50 Azorean endemic species
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Education:	Yes
+Invasive Species Biology and Control:	Yes
+Plant Breeding:	Yes
+Seed/Spore Biology:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

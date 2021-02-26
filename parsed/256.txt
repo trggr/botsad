@@ -1,0 +1,56 @@
+ID:	256
+Name:	University of British Columbia Botanical Garden 
+Fax:	+1 (604) 822-2016
+Info:	  Canada - British Columbia - Vancouver  ;Garden Information;  Institution Code: UBCBG; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	garden.info@ubc.ca
+Telephone:	+1 (604) 822-3928
+Administration Staff Number:	2
+Curator's Name:	Douglas Justice, Associate Director, Curator of Collections
+Director's Name:	Patrick Lewis, Director
+Educational Staff Number:	3
+Horticultural Staff Number:	13
+Plant Records Officer's Name:	Eric La Fountaine, Data Entry Technician
+Research Staff Number:	3
+Altitude:	104.00 Metres
+Annual Rainfall:	1117 mm
+Date founded:	1916
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	49.25794
+Local Address:	6804 SW Marine Drive
+Locality:	Information
+Longitude:	-123.2553
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Nitobe Memorial Garden
+Total Area:	44 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	25000
+Number of Volunteers:	180
+Open to public:	Yes
+Accession Number:	7497
+Cultivation Taxa Num:	4960
+Plant Collection Policy:	Yes
+Reintroduction Programme:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Invasive Species Biology and Control:	Yes
+Molecular Genetics:	Yes
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

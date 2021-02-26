@@ -1,0 +1,37 @@
+ID:	1073
+Name:	Research Institute of Forests & Rangelands. National Botanical Garden of Iran 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Ziba Jamzad
+Educational Staff Number:	
+Horticultural Staff Number:	14
+Info:	  Iran - Tehran  ;Garden Information;  Institution Code: TEHFR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Research Institute of Forests & Rangelands. National Botanical Garden of Iran; P.O. Box 13185-116, TEHRAN, Iran.; Tehran; Iran; ;  Telephone: +9821 44195901-5; Fax: 9821 44196575; URL: <a target="_blank" href="http://">; Primary Email: rifr@rifr-ac.ir ; 
+Plant Records Officer's Name:	
+Research Staff Number:	12
+Altitude:	0.00 Metres
+Annual Rainfall:	250 mm
+Date founded:	1968
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	35.7061
+Longitude:	51.4358
+Natural Vegetation Area:	No
+Satellite Garden Names:	Nowshahr Botanic Garden
+Total Area:	150 Hectares
+Total area of glasshouses:	5000 Metres
+Arboretum:	Yes
+Arboretum Size:	15
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Seed Bank:	Yes
+Special Collections:	Bulbous plants of Iran, native desert plants, Caspian forest vegetation, fruit garden ( cultivar collections of grape, walnut, pomegranite) medicinal plants
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Systematics and Taxonomy:	Yes
+Guided Tours:	Yes

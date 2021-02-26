@@ -1,0 +1,28 @@
+ID:	606
+Name:	Orman Botanic Garden 
+Fax:	
+Info:	  Egypt - Cairo  ;Garden Information;  Institution Code: CAI; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	HalaHassan60@yahoo.com
+Telephone:	01006400515
+Curator's Name:	
+Director's Name:	Dr.Sayed Hussein Ahmed
+Plant Records Officer's Name:	Mrs.Hala Hassan
+Altitude:	0.00 Metres
+Date founded:	1875
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	30.0571
+Local Address:	الاورمان _الجيزه _مصر Egypt Giza Orman
+Locality:	Information
+Longitude:	31.2272
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Special Collections:	Conifers, palms, cacti, succulents, roses, bamboo, Ficus, aquatic plants, Strelitzia
+Education:	Yes
+Guided Tours:	Yes
+Visitor/Education Centre:	Yes

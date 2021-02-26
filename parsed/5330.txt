@@ -1,0 +1,9 @@
+ID:	5330
+Name:	University of Connecticut Biodiversity Education & Research Greenhouses 
+Curator's Name:	
+Director's Name:	Clinton Morse
+Info:	  United States of America - Connecticut - Storrs  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Connecticut Biodiversity Education & Research Greenhouses; 75 NorthEagleville Road, Unit 3043; Storrs; Connecticut 06269 United States of America; ;  Telephone: 860-486-8941; Fax: ; URL: <a target="_blank" href="http://florawww.eeb.uconn.edu/">http://florawww.eeb.uconn.edu/; Primary Email: clinton.morse@uconn.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	41.810348
+Longitude:	-72.255979

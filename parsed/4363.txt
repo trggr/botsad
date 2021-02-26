@@ -1,0 +1,49 @@
+ID:	4363
+Name:	Xia-Ping Tropical Botanic Garden of the Experimental Forest 
+Administration Staff Number:	4
+Curator's Name:	Dr. Ya-Nan Wang
+Director's Name:	Dr. Ya-Nan Wang
+Educational Staff Number:	2
+Horticultural Staff Number:	1
+Info:	  Taiwan, China - Nantou - JuShan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Xia-Ping Tropical Botanic Garden of the Experimental Forest; National Taiwan University; No.21-6, Fangping Ln.; JuShan; Nantou 557-05 Taiwan, China; ;  Telephone: 886-49-2645762; Fax: 886-49-2661350; URL: <a target="_blank" href="http://www.exfo.ntu.edu.tw/cht/">www.exfo.ntu.edu.tw/cht/; Primary Email: operate@exfo.ntu.edu.tw ; 
+Plant Records Officer's Name:	Chih-Kai Yang
+Research Staff Number:	5
+Altitude:	0.00 Metres
+Date founded:	1966
+Institution Type:	Botanic Garden
+Latitude:	23.45
+Local Address:	557-05南投縣竹山鎮枋坪巷21之8號
+Locality:	Information
+Longitude:	120.45
+Total Area:	9 Hectares
+Computer Plant Record System:	No
+Disabled access:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	88636
+Number of Volunteers:	167
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+Accession Number:	4000
+Cultivation Taxa Num:	500
+Special Collections:	triopcal and subtropical native plants
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Conservation - Biology:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Seed/Spore Biology:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

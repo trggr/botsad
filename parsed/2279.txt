@@ -1,0 +1,56 @@
+ID:	2279
+Name:	Jardín Botánico 'Dr. Miguel J. Culaciati' 
+Fax:	mobil 03548 15430406
+Info:	  Argentina - Córdoba - Huerta Grande  ;Garden Information;  Institution Code: CULACI; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	paulaculaciati@gmail.com
+Telephone:	54-(0)3548-425496
+Administration Staff Number:	1
+Curator's Name:	Biologa Marta Lagrotteria
+Director's Name:	Sra. Maria Paula Culaciati
+Educational Staff Number:	4
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	Mario Bejarano
+Research Staff Number:	1
+Altitude:	978.00 Metres
+Annual Rainfall:	700 mm
+Date founded:	1989
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-31.0768
+Local Address:	Ave. San Martin 668
+Locality:	Information
+Longitude:	-64.4919
+Natural Vegetation Area:	Yes
+Total Area:	3 Hectares
+Arboretum:	Yes
+Arboretum Size:	2
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	3000
+Number of Volunteers:	25
+Open to public:	Yes
+Special Collections:	The living collection of ¨Dr. Miguel J. Culaciati¨ Botanic Gardens, comprising some 300 specimens. Native and exotic plants. Worthwhile medicinal plants from Sierras de Cordoba, trees and shrubs. the collections continue growing, recording different cultural uses of plants within the communities
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Invasive Species Biology and Control:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

@@ -1,0 +1,10 @@
+ID:	987
+Name:	The Botanical Garden of the Biological Institute 
+Curator's Name:	
+Director's Name:	Dr. V. P. Mishurov
+Info:	  Russian Federation - Syktyvkar  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanical Garden of the Biological Institute; Komi Branch, Academy of Sciences, Kommunisticheskya Street 28, 167610 SYKTVKAR, Komi, Russian Fe; Syktyvkar; Russian Federation; ;  Telephone: 2 56 59; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	Dr. V. P. Mishurov
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	61.6818
+Longitude:	50.8127

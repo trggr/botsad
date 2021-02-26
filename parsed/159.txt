@@ -1,0 +1,55 @@
+ID:	159
+Name:	Real Jardin Botanico, CSIC 
+Administration Staff Number:	12
+Curator's Name:	Silvia Villegas Navarro
+Director's Name:	Prof. Dr. Esteban Manrique Reol
+Educational Staff Number:	8
+Horticultural Staff Number:	22
+Info:	  Spain - MADRID  ;Garden Information;  Institution Code: MA; International Agenda Registration: No; BGCI Member: Yes; About the Real Jardin Botanico, CSIC The foundation of the Royal Botanic Garden of Madrid was ordered by King Ferdinand VI in 1755 and, in the reign of Charles III, the Garden was installed in its present location, the Paseo del Prado in Madrid. The architects Francesco Sabatini and Juan de Villanueva took part in the design of the Garden’s new frame.; ; From the very beginning, the aim of the Garden was not only to exhibit plants, but to teach botanic, promote expeditions for the discovery of new plant species and classify them. Therefore, the Garden became accountable to the Scientific Research Superior Council (Consejo Superior de Investigaciones Científicas, CSIC) in 1939 and was declared Artistic Garden in 1942.; ; Nowadays, the 20 acres of the Royal Botanic Garden of Madrid are divided into three areas. Some of the most important buildings in the Garden are the Villanueva Pavilion, the Graells Greenhouse and the Exhibition Greenhouse, which was inaugurated in 1993. The Exhibition Greenhouse reflects faithfully the essence and spirit of this institution. In this greenhouse, more than a thousand of species are cultivated in three different modules: tropical, desert and warm-weather species. The Exhibition Greenhouse was built with modern materials and uses the latest clean energy technologies.; ; The Garden also houses an important botanical research centre equipped with the latest technology and a herbarium with more than a million of sheets. All theses resources are used to develop different botanical researches, mainly on Spanish and American flora.;  Main Address:; Real Jardin Botanico, CSIC; Plaza de Murillo 2,; MADRID; 28014 Spain; ;  Telephone: 34 (9)1 420 3017; Fax: 34 (9)1 420 0157; URL: <a target="_blank" href="http://www.rjb.csic.es">www.rjb.csic.es; Primary Email: inforjb@rjb.csic.es ; 
+Plant Records Officer's Name:	
+Research Staff Number:	32
+Altitude:	667.00 Metres
+Annual Rainfall:	436 mm
+Date founded:	1755
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.4131
+Local Address:	Plaza de Murillo, 2 28014 Madrid
+Locality:	Information
+Longitude:	-3.6908
+Natural Vegetation Area:	No
+Total Area:	8 Hectares
+Total area of glasshouses:	858 Metres
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	430000
+Number of Volunteers:	20
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	5600
+Special Collections:	Mediterranean flora. The RJB maintains a seed bank with medium-term storage capacity, containing 3,259 accessions, representing 2,383 species (1994 figures)
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Floristics:	Yes
+Molecular Genetics:	Yes
+Systematics and Taxonomy:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

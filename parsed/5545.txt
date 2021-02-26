@@ -1,0 +1,9 @@
+ID:	5545
+Name:	Jardim Botanico Floras 
+Curator's Name:	Jorge Antonio Silva Costa
+Director's Name:	Jorge Antonio Silva Costa
+Info:	  Brazil - Bahia - Porto Seguro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botanico Floras; Universidade Federal do Sul da Bahia (UFSB); BR 367, KM 31, Campus da UFSB, sn, Zona Rural, Rodovia Eunápolis-Porto Seguro; Porto Seguro; Bahia 45.810-000 Brazil; ;  Telephone: 55 73 3288-8400; Fax: ; URL: <a target="_blank" href="http://www.ufsb.edu.br/jardimbotanicofloras/">http://www.ufsb.edu.br/jardimbotanicofloras/; Primary Email: jbfloras@gmail.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	16.2531
+Longitude:	-7.212181

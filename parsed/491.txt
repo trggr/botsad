@@ -1,0 +1,11 @@
+ID:	491
+Name:	Istituto di Botanica e Orto Botanico 
+Curator's Name:	Filippo Bedini
+Director's Name:	Giovanna Giomaro
+Info:	  Italy - Marche - Urbino  ;Garden Information;  Institution Code: URBIN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Istituto di Botanica e Orto Botanico; Via Bramante, 28; Urbino; Marche 61029 Italy; ;  Telephone: + 39 0722 303774; Fax: +39 0722 303777; URL: <a target="_blank" href="http://">; Primary Email: dir.ort@uniurb.it ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	43.7535
+Longitude:	12.6043
+Special Collections:	Medicinal and ornamental plants, Ailanthus glandulosus, Sophora japonica, pharmaceutical plants, Cycadaceae, palms and Gymnospermae

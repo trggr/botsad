@@ -1,0 +1,11 @@
+ID:	4983
+Name:	South Australian Seed Conservation Centre - Adelaide Botanic Gardens 
+Curator's Name:	Trevor Christensen, Deputy Director
+Director's Name:	Dr. Lucy Sutherland, Director
+Info:	  Australia - South Australia - Adelaide  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; South Australian Seed Conservation Centre - Adelaide Botanic Gardens; North Terrace; Mailing: GPO Box 1047, Adelaide, SA 5001; Adelaide; South Australia 5000 Australia; ;  Telephone: (+61 8) 8222 9311; Fax: (+61 8) 8222 9399; URL: <a target="_blank" href="http://www.environment.sa.gov.au/botanicgardens/Gardens_and_Collections/Seed_Conservation_Centre_share">http://www.environment.sa.gov.au/botanicgardens/Gardens_and_Collections/Seed_Conservation_Centre_share; Primary Email: botanicgardens@sa.gov.au ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	-34.918446
+Longitude:	138.611954
+Seed Bank:	Yes

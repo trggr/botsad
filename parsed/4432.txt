@@ -1,0 +1,9 @@
+ID:	4432
+Name:	Kansas State University Gardens 
+Curator's Name:	Scott McElwain
+Director's Name:	Scot McElwain, Director
+Info:	  United States of America - Kansas - Manhattan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kansas State University Gardens; 2021 Throckmorton Hall; Manhattan; Kansas 66506 United States of America; ;  Telephone: (785) 532-1397; Fax: ; URL: <a target="_blank" href="http://www.ksu.edu/gardens">www.ksu.edu/gardens; Primary Email: ksugardens@ksu.edu ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	39.1936210
+Longitude:	-96.5845120

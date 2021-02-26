@@ -1,0 +1,11 @@
+ID:	5109
+Name:	Agricultural Research Institute- Seed Bank 
+Curator's Name:	
+Director's Name:	Dr Dora Chimonidou
+Info:	  Cyprus - Aglantzia - Platy  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Agricultural Research Institute- Seed Bank; P.O.Box 22016; 1516 Nicosia; Platy; Aglantzia Cyprus; ;  Telephone: +357 22 403100; Fax: +357 22 316770; URL: <a target="_blank" href="http://www.moa.gov.cy/moa/ari/ari.nsf/index_en/index_en?OpenDocument">http://www.moa.gov.cy/moa/ari/ari.nsf/index_en/index_en?OpenDocument; Primary Email: info@ari.gov.cy ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	35.140424
+Longitude:	33.383217
+Seed Bank:	Yes

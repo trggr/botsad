@@ -1,0 +1,87 @@
+ID:	1147
+Name:	Atlanta Botanical Garden 
+Administration Staff Number:	20
+Curator's Name:	Emily Coffey, Vice President of Conservation and Research
+Director's Name:	Mary Pat Matheson, President/CEO
+Educational Staff Number:	4
+Horticultural Staff Number:	21
+Info:	  United States of America - Georgia - Atlanta  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: ATLAN; International Agenda Registration: No; BGCI Member: Yes; About the Atlanta Botanical Garden The Atlanta Botanical Garden is an urban, non-profit Garden located just three miles from the city center in midtown Atlanta. Because of its proximity to downtown, the Garden is well situated and hosts a wide variety of public and private events and exhibitions. It occupies 30-acres adjacent to Piedmont Park, the most heavily-used public park in the city. The Garden encompasses 13 acres of woodland and 15 acres of cultivated gardens. Included among these gardens are two acres for the Children’s Healthcare of Atlanta Children’s Garden (1999), along with the Dorothy Chapman Fuqua Conservatory (1989), the Fuqua Orchid Center and Center for Education and Conservation(2002), Gardenhouse, the administrative center (1985), and Mershon Hall for youth education and meeting room(2003). The Garden was organized by a grassroots group of citizens in the mid-1970s without benefit of financial bequest nor estate grounds, and is privately funded under the leadership of the Board of Trustees and the Executive Director, Mary Pat Matheson. Responsiveness to the surrounding community has always been its touchstone. In Nov, 2007 the Green Expansion Plan broke ground, to build a LEED-certified Visitor Center with green roof, a green parking facility tucked into a steep hillside, a Canopy Walk soaring 40 feet into the tree canopy, a 95,000 gallon cistern to harvest stormwater runoff including a cascade and edible plant gardens. ; Smithgall Woodland Garden is a 185-acre satellite garden 60 miles northeast in Gainesville, Georgia, which opened to the public in 2014.;  Main Address:; Atlanta Botanical Garden; 1345 Piedmont Avenue NE; Atlanta; Georgia 30309-3366 United States of America; ;  Telephone: (404) 876-5859; Fax: (404) 876-7472; URL: <a target="_blank" href="http://www.atlantabg.org">www.atlantabg.org; Primary Email: ecoffey@atlantabg.org ; 
+Plant Records Officer's Name:	Michael Wenzel, Plant Recorder
+Research Staff Number:	14
+Altitude:	280.00 Metres
+Annual Rainfall:	1275 mm
+Date founded:	1976
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	33.7916847
+Local Address:	351 Lakehill Drive Gainesville, Georgia, 30501 USA 770-287-0479
+Locality:	Information
+Longitude:	-84.3722534
+Natural Vegetation Area:	Yes
+Satellite Garden Names:	Atlanta Botanical Garden- Gainesville, Gainesville, Georgia, USA 185- acres (75 hectares).
+Total Area:	11 Hectares
+Total area of glasshouses:	3902 Metres
+Total area of shadehouses:	72843 Metres
+Arboretum:	Yes
+Arboretum Size:	6
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	Yes
+Number of Visitors:	500000
+Number of Volunteers:	500
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	No
+Accession Number:	20000
+Cultivation Taxa Num:	11000
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes
+"><img style="display:	block
+<a href="mailto:	cradcliffe@atlantabg.org">Carrie Radcliffe (Restoration Coordinator &amp
+<h6 style="text-align:	center
+<p style="text-align:	justify
+UGA) - This female tree was grown from lateral cuttings and, along with 20 others, was planted in 2000. Nearly 5,000 fruit were harvested in 2016</h6> <p style="text-align:	justify
+margin-left:	auto
+margin-right:	auto

@@ -1,0 +1,20 @@
+ID:	4601
+Name:	Smithsonian National Zoological Park 
+Administration Staff Number:	
+Curator's Name:	Teresa Vetick, Horticulture Supervisor
+Director's Name:	Dennis W. Kelly, Director
+Educational Staff Number:	
+Horticultural Staff Number:	13
+Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Smithsonian National Zoological Park; P.O. Box 37012 MRC 5516; Washington; District of Columbia 20013-7012 United States of America; ;  Telephone: (202) 633-3298; Fax: ; URL: <a target="_blank" href="http://www.nationalzoo.si.edu">www.nationalzoo.si.edu; Primary Email: ; 
+Plant Records Officer's Name:	Gene Stano, Horticulturist/Arborist
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	38.9299650
+Longitude:	-77.0550950
+Number of Visitors:	2000000
+ABS Policy:	No
+Accession Number:	6343
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No

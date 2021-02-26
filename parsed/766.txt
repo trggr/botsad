@@ -1,0 +1,46 @@
+ID:	766
+Name:	Royal Botanic Gardens Kew (Wakehurst) 
+Fax:	01444 894069
+Info:	  United Kingdom - West Sussex - Haywards Heath  ;Garden Information;  Institution Code: K; International Agenda Registration: Yes; BGCI Member: Yes; 
+Primary Email:	wakehurst@kew.org
+Telephone:	01444 894066 
+Administration Staff Number:	
+Curator's Name:	Jo Wenham, Propagation and Collections Manager
+Director's Name:	Prof. Stephen Hopper
+Educational Staff Number:	
+Horticultural Staff Number:	35
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1965
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	51.067847
+Longitude:	-0.084165
+Natural Vegetation Area:	Yes
+Total Area:	202 Hectares
+Total area of glasshouses:	1000 Metres
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Number of Visitors:	400000
+Open to public:	Yes
+Seed Bank:	Yes
+Cultivation Taxa Num:	5339
+Special Collections:	Pinaceae, Cupressaceae, Betulaceae, Fagaceae, Ericaceae, Taxodiaceae, Hypericaceae, Rutaceae, Zingiberaceae, Aceraceae, Taxaceae. Betula, Nothofagus, Skimmia, Hypericum, Rhododendron, Erica, Calluna, Sequoiadendron, Pinus, Quercus, Abies, Picea, Chamaecyp
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Education:	Yes
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

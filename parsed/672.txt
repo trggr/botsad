@@ -1,0 +1,47 @@
+ID:	672
+Name:	Tyler Arboretum 
+Administration Staff Number:	8
+Curator's Name:	
+Director's Name:	Mandy Santiago
+Educational Staff Number:	7
+Horticultural Staff Number:	6
+Info:	  United States of America - Pennsylvania - Media  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Tyler Arboretum Tyler Arboretum is a 650-acre property located just outside Media, Pennsylvania. Between 1681 and 1944, the property was home to eight generations of the Minshall/Painter/Tyler family. In 1944, the last descendent bequeathed the property to the public as an arboretum. The present-day arboretum originated as the private collection of two brothers who in 1825 started planting more than 1,000 varieties of trees and shrubs. Over 20 of the original trees planted by the Painter brothers still survive. Open year round, with 20 miles of hiking trails, Tyler provides a natural sanctuary for families, bird enthusiasts, hikers and visitors interested in history and horticulture. The Arboretum’s collections include rare plant specimens, ancient trees and historic buildings.;  Main Address:; Tyler Arboretum; 515 Painter Road; Media; Pennsylvania 19063 United States of America; ;  Telephone: (610) 566-9134; Fax: (610) 891-1490; URL: <a target="_blank" href="http://www.tylerarboretum.org">www.tylerarboretum.org; Primary Email: info@tylerarboretum.org ; 
+Plant Records Officer's Name:	Alison Dame
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	1041 mm
+Date founded:	1946
+Institution Type:	Botanic Garden
+Latitude:	39.9332090
+Longitude:	-75.4397640
+Total Area:	263 Hectares
+Arboretum:	Yes
+Arboretum Size:	263
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	74279
+Number of Volunteers:	424
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Accession Number:	7567
+Cultivation Taxa Num:	1698
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Rhododendron (552 taxa), Ilex (142 taxa), Magnolia (44 taxa), Malus (31 taxa), Prunus (19 taxa), Syringa (60 taxa), Hamamelis (69 taxa).
+Conservation - Genetics:	Yes
+Ecosystem Conservation:	Yes
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Courses for General Public:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

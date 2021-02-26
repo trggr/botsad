@@ -1,0 +1,10 @@
+ID:	3611
+Name:	Reserva Etnobotánica Cumandá 
+Curator's Name:	
+Director's Name:	*
+Info:	  Ecuador - Napo - Baeza  ;Garden Information;  Institution Code: REC; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Reserva Etnobotánica Cumandá; Km 103 Vía Quito – Lago Agrio; Baeza; Napo Ecuador; ;  Telephone: (593-2) 247 0861; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: hosteriacumanda@yahoo.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Other
+Latitude:	-0.2294
+Longitude:	-78.5242

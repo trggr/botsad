@@ -1,0 +1,13 @@
+ID:	3547
+Name:	Korea Central Botanical Garden 
+Curator's Name:	
+Director's Name:	?
+Info:	  North Korea - Pyongyang  ;Garden Information;  Institution Code: KCBG; International Agenda Registration: No; BGCI Member: No; About the Korea Central Botanical Garden 2,500 species from DPR Korea,; 4,000 species from other countries.;  Main Address:; Korea Central Botanical Garden; Daesong-Dong; Daesong District; Pyongyang; North Korea; ;  Telephone: +850 2 18111; Fax: +850 2 381 4060; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1959
+Institution Type:	Botanic Garden
+Latitude:	39.0187
+Longitude:	125.7468
+Total Area:	250 Hectares
+Herbarium:	Yes
+Cultivation Taxa Num:	6500

@@ -1,0 +1,15 @@
+ID:	993
+Name:	Vanadzor Botanical Garden 
+Curator's Name:	
+Director's Name:	Athalekhian Gagik
+Info:	  Armenia - Vanadzor  ;Garden Information;  Institution Code: KVAK; International Agenda Registration: No; BGCI Member: Yes; About the Vanadzor Botanical Garden Branch of Yerevan Botanical Garden;  Main Address:; Vanadzor Botanical Garden; National Academy of Sciences of RA,, Lori Marz; Vanadzor; 377200 Armenia; ;  Telephone: 374 572 0059; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	1400.00 Metres
+Date founded:	1935
+Institution Type:	Botanic Garden
+Latitude:	40.4900
+Longitude:	44.3000
+Total Area:	12 Hectares
+Arboretum:	Yes
+Cultivation Taxa Num:	590
+Special Collections:	Mexican plants, Eastern-Asian, North American, Mediterranean, Himalayan plants, Pinus spp., Picea spp., Acer spp., Quercus spp., Rhododendron spp.

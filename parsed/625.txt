@@ -1,0 +1,11 @@
+ID:	625
+Name:	University Botanic Garden 
+Curator's Name:	John Cutter
+Director's Name:	Dr.Frank A. Bisby
+Info:	  United Kingdom - Southampton  ;Garden Information;  Institution Code: SPN; International Agenda Registration: No; BGCI Member: No;  Main Address:; University Botanic Garden; Biology Department, Building 44, The University, SOUTHAMPTON SO9 5NH, Biology Department, Buildi; Southampton; United Kingdom; ;  Telephone: 0703 559122; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1950
+Institution Type:	Botanic Garden
+Latitude:	50.933557
+Longitude:	-1.397713
+Special Collections:	Ferns, palms, shade-loving plants on banks of a small stream

@@ -1,0 +1,36 @@
+ID:	1181
+Name:	Arizona-Sonora Desert Museum 
+Administration Staff Number:	3
+Curator's Name:	Mark Fleming, Curator of Botany
+Director's Name:	Craig Ivanyi, Executive Director
+Educational Staff Number:	12
+Horticultural Staff Number:	9
+Info:	  United States of America - Arizona - Tucson  ;Garden Information;  Institution Code: ASDM; International Agenda Registration: No; BGCI Member: No; About the Arizona-Sonora Desert Museum The mission of the Arizona-Sonora Desert Museum is to inspire people to live in harmony with the natural world by fostering love, appreciation, and understanding of the Sonoran Desert.;  Main Address:; Arizona-Sonora Desert Museum; 2021 N. Kinney Road; Tucson; Arizona 85743-8918 United States of America; ;  Telephone: (520) 883-2702; Fax: (520) 883-2500; URL: <a target="_blank" href="http://www.desertmuseum.org">www.desertmuseum.org; Primary Email: info@desertmuseum.org ; 
+Plant Records Officer's Name:	Julie Hannan Wiens, Botany Department
+Research Staff Number:	4
+Altitude:	870.00 Metres
+Annual Rainfall:	300 mm
+Date founded:	1952
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	32.2440730
+Local Address:	2021 N. Kinney Road
+Locality:	Information
+Longitude:	-111.1679700
+Natural Vegetation Area:	Yes
+Total Area:	60 Hectares
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+Accession Number:	40000
+Invasive Species Monitoring:	Yes
+Special Collections:	Agavaceae (46 spp., 59 taxa), Cactaceae (160 spp., 180 taxa), Bursera (8 taxa/spp.), Fouquieria (5 taxa/spp.), Jatropha (5 taxa/spp.), Tillandsia (7 taxa/spp.). Native plants of the Sonoran region, including Jatropha, Bursera, Tillandsia and Fouquieria.
+Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Invasive Species Biology and Control:	Yes
+Visitor/Education Centre:	Yes

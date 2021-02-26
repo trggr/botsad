@@ -1,0 +1,11 @@
+ID:	4504
+Name:	FES Iztacala Banco de Semillas 
+Curator's Name:	
+Director's Name:	Dra. Patricia Davilaa
+Info:	  Mexico - Estado de Mexico - Tlalnepantla  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; FES Iztacala Banco de Semillas; Facultad de Estudios Superiores (FES) - Iztacala; Avenida de los Barrios No.1; Tlalnepantla; Estado de Mexico 54090 Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://ciencia.unam.mx/leer/65/Banco_de_semillas_una_apuesta_contra_la_extincion">http://ciencia.unam.mx/leer/65/Banco_de_semillas_una_apuesta_contra_la_extincion; Primary Email: pdavilaa@servidor.unam.mx ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	19.5360
+Longitude:	-99.2009
+Seed Bank:	Yes

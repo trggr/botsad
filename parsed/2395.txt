@@ -1,0 +1,11 @@
+ID:	2395
+Name:	Gisborne Botanic Gardens 
+Curator's Name:	
+Director's Name:	
+Info:	  Australia - Kyneton  ;Garden Information;  Institution Code: GISB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gisborne Botanic Gardens; Macedon Ranges Shire Council, PO Box 151, KYNETON, VIC 3444, Australia; Kyneton; Australia; ;  Telephone: 61 (0)3 5422 1433; Fax: 61 (0)3 5422 3623; URL: <a target="_blank" href="http://">; Primary Email: mrsc@macedon-ranges.vic.gov.au ; 
+Plant Records Officer's Name:	
+Date founded:	1991
+Institution Type:	Botanic Garden
+Latitude:	-37.48414
+Longitude:	144.58824
+Special Collections:	5 % of collection if Australian flora.

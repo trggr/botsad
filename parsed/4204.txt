@@ -1,0 +1,15 @@
+ID:	4204
+Name:	Florida Botanical Gardens 
+Curator's Name:	
+Director's Name:	Vernon Bryant, Executive Director
+Info:	  United States of America - Florida - Largo  ;Garden Information;  Institution Code: LARG; International Agenda Registration: No; BGCI Member: No; About the Florida Botanical Gardens The Florida Botanical Gardens inspires and educates visitors by showcasing flora, fauna and natural resources in motivational surroundings that promote environmentally friendly techniques.; ; Bring the family and spend a day. The Gardens are open every day of the year and admission is free!;  Main Address:; Florida Botanical Gardens; 12520 Ulmerton Road; Largo; Florida 33774 United States of America; ;  Telephone: (727) 582-2100; Fax: ; URL: <a target="_blank" href="http://www.flbg.org">www.flbg.org; Primary Email: flbgfoundation@gmail.com ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	27.8830540
+Longitude:	-82.8105440
+Natural Vegetation Area:	Yes
+Total Area:	48 Hectares
+Open to public:	Yes

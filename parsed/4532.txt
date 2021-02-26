@@ -1,0 +1,27 @@
+ID:	4532
+Name:	Harmas de Fabre 
+Administration Staff Number:	2
+Curator's Name:	Frédéric Achille
+Director's Name:	Eric Joly
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  France - Sérignan du Comtat  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Harmas de Fabre; Museum National d'Histoire Naturelle; Sérignan du Comtat; 84830 France; ;  Telephone: +33 04 90 70 15 61; Fax: ; URL: <a target="_blank" href="http://www.museum-paca.org/harmas-collections.htm">http://www.museum-paca.org/harmas-collections.htm; Primary Email: syflamand@mnhn.fr ; 
+Plant Records Officer's Name:	Roseline Grouard
+Research Staff Number:	1
+Altitude:	0.00 Metres
+Date founded:	1922
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	44.18807
+Longitude:	4.84032
+Natural Vegetation Area:	Yes
+Total Area:	1 Hectares
+Arboretum:	Yes
+Computer Plant Record System:	No
+Friends society:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	36000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No

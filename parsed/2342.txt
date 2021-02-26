@@ -1,0 +1,10 @@
+ID:	2342
+Name:	Royal Botanic Gardens, Hope 
+Curator's Name:	
+Director's Name:	Norman Richards
+Info:	  Jamaica - Kingston  ;Garden Information;  Institution Code: HOPE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Royal Botanic Gardens, Hope; Old Hope Road,; Kingston; Jamaica; ;  Telephone: 876 927 1257; Fax: 876 927 1904; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	17.9927
+Longitude:	-76.7920

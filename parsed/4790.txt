@@ -1,0 +1,40 @@
+ID:	4790
+Name:	Thohoyandou Botanical Garden 
+Administration Staff Number:	1
+Curator's Name:	Mufhati Bulannga
+Director's Name:	Christopher Willis (Chief Director)
+Educational Staff Number:	
+Horticultural Staff Number:	
+Info:	  South Africa - Limpopo - Thohoyandou  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Thohoyandou Botanical Garden; Thohoyandou; Limpopo South Africa; ;  Telephone: +27 (0)15 962 4258; Fax: ; URL: <a target="_blank" href="http://www.sanbi.org">www.sanbi.org; Primary Email: m.bulannga@sanbi.org.za ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	-22.97268
+Local Address:	
+Locality:	Information
+Longitude:	30.46351
+Natural Vegetation Area:	Yes
+Total Area:	82 Hectares
+Arboretum:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Seed Bank:	No
+Invasive Species Monitoring:	Yes
+Conservation Programme:	Yes
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Molecular Genetics:	No
+Plant Breeding:	No
+Urban Environments:	Yes
+Visitor/Education Centre:	No

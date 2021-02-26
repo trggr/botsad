@@ -1,0 +1,11 @@
+ID:	5059
+Name:	Botanisches Institut der Universität zu Köln 
+Curator's Name:	
+Director's Name:	?
+Info:	  Germany - Deutschland - 50674 Köln  ;Garden Information;  Institution Code: KOELN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanisches Institut der Universität zu Köln; Freiland/Gewächshäuser Zülpicher Str. 47b; 50674 Köln; D-95440 Germany - Deutschland; ;  Telephone: ++49-221-470 8210; Fax: ++49-221-470 8211; URL: <a target="_blank" href="http://www.botanik.uni-koeln.de/lehrgaertnerei.html">http://www.botanik.uni-koeln.de/lehrgaertnerei.html; Primary Email: j.hintzsche@uni-koeln.de ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2009
+Institution Type:	Botanic Garden
+Latitude:	50.9252
+Longitude:	6.9470

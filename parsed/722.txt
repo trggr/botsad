@@ -1,0 +1,15 @@
+ID:	722
+Name:	University Arboretum 
+Curator's Name:	Dr. G. O. Graening
+Director's Name:	Dr. Michael Baad
+Info:	  United States of America - California - Sacramento  ;Garden Information;  Institution Code: SACT; International Agenda Registration: No; BGCI Member: No;  Main Address:; University Arboretum; California State University; 6000 J Street; Sacramento; California 95819 United States of America; ;  Telephone: (916) 454-6494; Fax: ; URL: <a target="_blank" href="https://www.csus.edu/faculty/c/rcoleman/natural%20history%20museums/university_arboretum/university%20arboretum.html">https://www.csus.edu/faculty/c/rcoleman/natural%20history%20museums/university_arboretum/university%20arboretum.html; Primary Email: mbaad@csus.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1959
+Institution Type:	Botanic Garden
+Latitude:	38.5671780
+Longitude:	-121.4272050
+Total Area:	1 Hectares
+Arboretum:	Yes
+Arboretum Size:	1
+Special Collections:	Native trees and shrubs.

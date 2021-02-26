@@ -1,0 +1,12 @@
+ID:	1395
+Name:	Botanic Garden of Beijing University 
+Curator's Name:	
+Director's Name:	
+Info:	  China - Beijing - Haidian  ;Garden Information;  Institution Code: BEIJU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden of Beijing University; Department of Biology, Beijing University, Beijing, 100871, China; Haidian; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	39.9833
+Local Address:	中国北京大学生命科学学院，邮编 100871
+Locality:	Information
+Longitude:	116.3000

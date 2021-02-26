@@ -1,0 +1,10 @@
+ID:	4702
+Name:	Akron Zoological Park 
+Curator's Name:	Matt Earlenbaugh
+Director's Name:	Kimberly Cook, Senior Director of Life Sciences
+Info:	  United States of America - Ohio - Akron  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Akron Zoological Park; 500 Edgewood Avenue; Akron; Ohio 44307 United States of America; ;  Telephone: (330) 375-2550; Fax: ; URL: <a target="_blank" href="http://www.akronzoo.org">www.akronzoo.org; Primary Email: info@akronzoo.org ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Zoological Institution
+Latitude:	41.0782018
+Longitude:	-81.5414633

@@ -1,0 +1,13 @@
+ID:	1
+Name:	Botanical Garden, Institute of Botany and Phytointroduction 
+Fax:	7 3272 479042
+Info:	  Kazakhstan - Almaty  ;Garden Information;  Institution Code: AA; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	ibph@nursat.kz
+Telephone:	7 3272 476692
+Curator's Name:	
+Director's Name:	The Director
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	43.2757
+Longitude:	76.9292

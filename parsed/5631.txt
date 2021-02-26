@@ -1,0 +1,58 @@
+ID:	5631
+Name:	The Jones Center at Ichuaway - seed bank 
+Curator's Name:	Lisa Giencke
+Director's Name:	Kier D. Klepzig, Director
+Info:	  United States of America - Georgia - Newton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Jones Center at Ichuaway - seed bank; 3988 Jones Center Drive; Newton; Georgia 39870 United States of America; ;  Telephone: (229) 734-4706; Fax: ; URL: <a target="_blank" href="http://www.jonesctr.org">www.jonesctr.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	2019
+Institution Type:	Gene/Seed Bank
+Latitude:	31.220731
+Longitude:	-84.479219
+Natural Vegetation Area:	Yes
+Arboretum:	No
+Computer Plant Record System:	Yes
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	No
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	No
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	No
+Guided Tours:	No
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

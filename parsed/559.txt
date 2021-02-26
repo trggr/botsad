@@ -1,0 +1,30 @@
+ID:	559
+Name:	Ogród Botaniczny Uniwersytetu im. Marii Curie-Skłodowskiej w Lublinie 
+Fax:	
+Info:	  Poland - lubelskie - Lublin  ;Garden Information;  Institution Code: LBLC; International Agenda Registration: Yes; BGCI Member: No; 
+Primary Email:	botanik@hektor.umcs.lublin.pl
+Telephone:	322 53
+Administration Staff Number:	6
+Curator's Name:	
+Director's Name:	Grażyna Szymczak PhD
+Educational Staff Number:	1
+Horticultural Staff Number:	22
+Plant Records Officer's Name:	
+Research Staff Number:	5
+Altitude:	0.00 Metres
+Date founded:	1965
+Institution Type:	Botanic Garden
+Latitude:	51.2779
+Longitude:	22.5062
+Total Area:	21 Hectares
+Total area of glasshouses:	1000 Metres
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	600000
+Seed Bank:	Yes
+Cultivation Taxa Num:	6800
+Special Collections:	Tulipa, Rosa, native Flora
+Conservation Programme:	Yes
+Medicinal Plant Programme:	Yes
+Reintroduction Programme:	Yes
+Education:	Yes

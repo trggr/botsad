@@ -1,0 +1,12 @@
+ID:	4409
+Name:	Halla Arboretum 
+Curator's Name:	Jung-Hoon Park
+Director's Name:	Cheol-Su Kim
+Info:	  South Korea - Jeju-do - Jeju-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Halla Arboretum; 40, Sumokwonggil (1,000 Yeon-dong),; Jeju-si; Jeju-do 690-170 South Korea; ;  Telephone: 064-746-4423; Fax: 064-747-2706; URL: <a target="_blank" href="http://sumokwon.jeju.go.kr">http://sumokwon.jeju.go.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	33.46993
+Local Address:	연동 1000
+Locality:	Information
+Longitude:	126.49324

@@ -1,0 +1,80 @@
+ID:	3380
+Name:	Ambler Arboretum of Temple University, The 
+Fax:	(267) 468-8188
+Info:	  United States of America - Pennsylvania - Ambler  ;Garden Information;  Institution Code: TUAP; International Agenda Registration: No; BGCI Member: Yes; 
+Primary Email:	arboretum@temple.edu
+Telephone:	(267) 468-8181
+Administration Staff Number:	
+Curator's Name:	Cat Meholic, Curatorial Horticulturist
+Director's Name:	Kathleen Salisbury, Director
+Educational Staff Number:	
+Horticultural Staff Number:	3
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	2000
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	40.1658530
+Local Address:	580 Meetinghouse Road
+Locality:	Information
+Longitude:	-75.1951480
+Natural Vegetation Area:	Yes
+Total Area:	72 Hectares
+Arboretum:	Yes
+Arboretum Size:	75
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	3000
+Number of Volunteers:	50
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	933
+Cultivation Taxa Num:	549
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	No
+Plant Collection Policy:	No
+Special Collections:	Acer (10 spp., 10 taxa), Chamaecyparis (7 spp., 7 taxa), Cornus (8 spp., 8 taxa), Cononeaster (9 spp., 9 taxa), Ilex (19 spp., 19 taxa), Juniperus (11 taxa), Lonicera (4 spp., 5 taxa), Malus (7 taxa), Picea (6 spp., 7 taxa), Pinus (13 spp., 15 taxa), Prun
+Conservation Programme:	No
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	Yes
+Systematics and Taxonomy:	No
+Urban Environments:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	No
+Visitor/Education Centre:	No

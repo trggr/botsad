@@ -1,0 +1,41 @@
+ID:	3541
+Name:	Jardín Botánico de la Patagonia Extra-andina 
+Administration Staff Number:	
+Curator's Name:	Ana María Beeskow
+Director's Name:	Tec. Duro Verónica
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  Argentina - Chubut - Puerto Madryn  ;Garden Information;  Institution Code: CENPAT; International Agenda Registration: Yes; BGCI Member: No; About the Jardín Botánico de la Patagonia Extra-andina El Jardín Botánico de la Patagonia Extraandina (JBPE), a través de la investigación, la educación, la información y la divulgación, contribuye a la conservación de especies de la región y su puesta en valor por parte de la comunidad, como así también incentivar el conocimiento sobre aspectos de la diversidad florística regional.; El JBPE abre sus puertas durante septiembre, octubre y noviembre de cada año, dado el ciclo biológico de las plantas de la meseta y de la costa patagónica. En esos meses el JBPE se ofrece como recurso didáctico, para los establecimientos escolares de todos los niveles, a los efectos de abordar diversos temas vinculados a la flora regional. Se realizan actividades de tansferencia por medio de las cuales extendemos la vinculación del JBPE con la comunidad.; Algunos de los objetivos específicos del Jardín son: la revalorización y preservación de la flora regional, la documentación, conservación y exhibición de ejemplares de especies de la región, el mantenimiento de colecciones vivas de especies claves para el control de la estabilidad o recuperación del ecosistema, y la colección preservada del JBPE.; La Sala de Documentación y Consulta, cuenta con un herbario y la fototeca regional y la biblioteca temática.;  Main Address:; Jardín Botánico de la Patagonia Extra-andina; Bvrd. Brown 2915; Puerto Madryn; Chubut 9120 Argentina; ;  Telephone: 54 (0) 280-4883184 ext.1417; Fax: 54 (0) 280-4451543; URL: <a target="_blank" href="http://">; Primary Email: duro@cenpat-conicet.gob.ar ; 
+Plant Records Officer's Name:	Tec. Duro Verónica
+Research Staff Number:	
+Altitude:	0.00 Metres
+Annual Rainfall:	173 mm
+Date founded:	1997
+Institution Type:	Botanic Garden
+Latitude:	-42.78478
+Longitude:	-65.00895
+Natural Vegetation Area:	Yes
+Total Area:	1 Hectares
+Computer Plant Record System:	Yes
+Herbarium:	Yes
+Number of Visitors:	800
+Open to public:	No
+Published Plant Catalogue:	Yes
+Seed Bank:	Yes
+Accession Number:	1000
+Cultivation Taxa Num:	150
+Ex Situ Conservation Programme:	Yes
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Systematics and Taxonomy:	No
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Guided Tours:	Yes

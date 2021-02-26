@@ -1,0 +1,16 @@
+ID:	4211
+Name:	Nassau Botanical Gardens 
+Administration Staff Number:	6
+Curator's Name:	
+Director's Name:	Simeon Pinder
+Educational Staff Number:	
+Horticultural Staff Number:	14
+Info:	  Bahamas - Nassau  ;Garden Information;  Institution Code: NASS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Nassau Botanical Gardens; Department of Agriculture; P.O. Box N 3028; Nassau; Bahamas; ;  Telephone: +242 323 5975; Fax: +242 328 5874; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1910
+Institution Type:	Botanic Garden
+Latitude:	25.0661
+Longitude:	-77.3390
+Open to public:	Yes

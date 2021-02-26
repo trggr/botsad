@@ -1,0 +1,12 @@
+ID:	4380
+Name:	Wild Flower Botanical Garden 
+Curator's Name:	Sang-Nam Kim
+Director's Name:	Il-Mo Jeong
+Info:	  South Korea - Gyeonggi-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wild Flower Botanical Garden; 365-5, Ohbin-ri, Yangpyeong-eup, Yangpyeong-gun; Gyeonggi-do 476-803 South Korea; ;  Telephone: 031-772-1800; Fax: 031-771-1732; URL: <a target="_blank" href="http://www.nemunimo.co.kr">http://www.nemunimo.co.kr; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	37.50222
+Local Address:	양평군 양평읍 오빈리 365-5
+Locality:	Information
+Longitude:	127.4697

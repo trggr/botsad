@@ -1,0 +1,18 @@
+ID:	3064
+Name:	Hong Kong Zoological and Botanical Gardens 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	The Director
+Educational Staff Number:	7
+Horticultural Staff Number:	30
+Info:	  China - Hong Kong - Hong Kong Island  ;Garden Information;  Institution Code: HKZB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hong Kong Zoological and Botanical Gardens; Albany Road, Central, Hong Kong SAR, China; Hong Kong Island; Hong Kong China; ;  Telephone: 00852 25300154; Fax: 00852 25371207; URL: <a target="_blank" href="http://www.lcsd.gov.hk/parks/hkzbg/en/index.php">http://www.lcsd.gov.hk/parks/hkzbg/en/index.php; Primary Email: hkzbg@lcsd.gov.hk ; 
+Plant Records Officer's Name:	
+Research Staff Number:	3
+Altitude:	0.00 Metres
+Date founded:	1871
+Institution Type:	Botanic Garden
+Latitude:	22.2802
+Local Address:	中国香港香港岛中环雅宾利道
+Locality:	Information
+Longitude:	114.1601
+Open to public:	Yes

@@ -1,0 +1,18 @@
+ID:	734
+Name:	University of Alabama Arboretum 
+Curator's Name:	Jennifer H. Dorgan, Arboretum Assistant
+Director's Name:	Monica H. Moss Watkins, Arboretum Director
+Info:	  United States of America - Alabama - Tuscaloosa  ;Garden Information;  Institution Code: UALAR; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; University of Alabama Arboretum; P.O. Box 870344; Tuscaloosa; Alabama 35487- 344 United States of America; ;  Telephone: (205) 553-3278; Fax: (205) 553-3728; URL: <a target="_blank" href="https://arboretum.ua.edu/">https://arboretum.ua.edu/; Primary Email: mhmwatkins@ua.edu ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1958
+Institution Type:	Botanic Garden
+Latitude:	33.1915500
+Longitude:	-87.4787000
+Total Area:	24 Hectares
+Arboretum:	Yes
+Arboretum Size:	24
+Friends society:	Yes
+Open to public:	Yes
+Special Collections:	Cupressaceae, Cyrillaceae, Ericaceae, Pinaceae, Taxodiaceae, Theaceae, Acer (9 spp., 11 taxa), Corus (5 spp., 5 taxa), Ilex (14 spp., 14 taxa), woody plants native to south eastern United States.
+Education Programme:	Yes

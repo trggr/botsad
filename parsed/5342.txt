@@ -1,0 +1,9 @@
+ID:	5342
+Name:	Jardín Botánico del Palmetum 
+Curator's Name:	
+Director's Name:	
+Info:	  Spain - Islas Canarias - Santa Cruz de Tenerife  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardín Botánico del Palmetum; Avda. de la Constitución, 5; Santa Cruz de Tenerife; Islas Canarias 38005 Spain; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://palmetumtenerife.es/">https://palmetumtenerife.es/; Primary Email: info@palmetumsantacruz.com ; 
+Plant Records Officer's Name:	
+Institution Type:	Botanic Garden
+Latitude:	28.45222
+Longitude:	-16.256269

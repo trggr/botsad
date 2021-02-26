@@ -1,0 +1,11 @@
+ID:	5115
+Name:	National Botanic Garden of Belgium- Seed Bank 
+Curator's Name:	
+Director's Name:	Steven Dessein
+Info:	  Belgium - Meise  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Botanic Garden of Belgium- Seed Bank; Domein van Bouchout; Meise; B-1860 Belgium; ;  Telephone: 32 (0)2 260 09 20; Fax: 32 (0)2 260 09 45; URL: <a target="_blank" href="http://www.botanicgarden.be">www.botanicgarden.be; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Gene/Seed Bank
+Latitude:	50.927926
+Longitude:	4.326917
+Seed Bank:	Yes

@@ -1,0 +1,74 @@
+ID:	4647
+Name:	Gainesway Farm 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Ryan Martin, Field Director
+Educational Staff Number:	
+Horticultural Staff Number:	5
+Info:	  United States of America - Kentucky - Lexington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Gainesway Farm Gainesway Farm is a 1600 acre throughbred horse farm and arboretum located in central Kentucky, USA.;  Main Address:; Gainesway Farm; 3750 Paris Pike; Lexington; Kentucky 40511 United States of America; ;  Telephone: 859-653-9208; Fax: ; URL: <a target="_blank" href="http://www.gainesway.com">www.gainesway.com; Primary Email: ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	300.00 Metres
+Annual Rainfall:	1232 mm
+Date founded:	1988
+Institution Type:	Other
+Landscaped Area:	Yes
+Latitude:	38.1139230
+Local Address:	3750 Paris Pike Lexington, KY 40511
+Locality:	Information
+Longitude:	-84.3973720
+Natural Vegetation Area:	Yes
+Total Area:	647 Hectares
+Arboretum:	Yes
+Arboretum Size:	647
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	300
+Open to public:	Yes
+Published Plant Catalogue:	Yes
+Seed Bank:	No
+ABS Policy:	Yes
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	Yes
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Agriculture:	No
+Biotechnology:	Yes
+Conservation - Biology:	No
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	No
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	Yes
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	No
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

@@ -1,0 +1,29 @@
+ID:	3592
+Name:	Royal Horticultural Society's Garden, Hyde Hall 
+Curator's Name:	Robert Brett
+Director's Name:	Dr Tim Upson (Director of Horticulture), Ian Le Gros (Head of Hyde Hall)
+Info:	  United Kingdom - Essex - Chelmsford  ;Garden Information;  Institution Code: WSYHH; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Royal Horticultural Society's Garden, Hyde Hall; Hyde Hall, Creephedge Lane, Rettendon; Chelmsford; Essex CM3 8ET United Kingdom; ;  Telephone: +44(0)1245 400256; Fax: ; URL: <a target="_blank" href="https://www.rhs.org.uk/gardens/hyde-hall">https://www.rhs.org.uk/gardens/hyde-hall; Primary Email: hydehall@rhs.org.uk ; 
+Plant Records Officer's Name:	Jeanette Jones
+Altitude:	0.00 Metres
+Date founded:	1955
+Institution Type:	Other
+Latitude:	51.666508
+Longitude:	0.57441
+Total Area:	360 Hectares
+Disabled access:	Yes
+Friends society:	Yes
+Herbarium:	Yes
+Number of Visitors:	400000
+Open to public:	Yes
+Accession Number:	5643
+Cultivation Taxa Num:	3324
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	Yes

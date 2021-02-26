@@ -1,0 +1,10 @@
+ID:	1082
+Name:	Botanical Gardens 
+Curator's Name:	G. Erdenjav
+Director's Name:	C. Ceren
+Info:	  Mongolia - Ulaanbaatar 51  ;Garden Information;  Institution Code: UBA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanical Gardens; Institute of Botany - Academy of Sciences of the MPR; Junkov avenue - 77; Ulaanbaatar 51; Mongolia; ;  Telephone: 976 (11) 451837/451996/451014; Fax: 976 1 321638; URL: <a target="_blank" href="http://www.mas.ac.mn/en">www.mas.ac.mn/en; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	1974
+Institution Type:	Botanic Garden
+Latitude:	47.9138
+Longitude:	106.9220

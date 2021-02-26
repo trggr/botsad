@@ -1,0 +1,11 @@
+ID:	4311
+Name:	Wellfield Botanic Gardens 
+Curator's Name:	Josh Steffen, Horticulture and Facilities Manager
+Director's Name:	Eric Garten, Executive Director
+Info:	  United States of America - Indiana - Elkhart  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wellfield Botanic Gardens; 1000 North Main Street; P.O. Box 476; Elkhart; Indiana 46516-0476 United States of America; ;  Telephone: (574) 266-2006; Fax: (574) 266-2006; URL: <a target="_blank" href="http://www.wellfieldgardens.org">www.wellfieldgardens.org; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	41.6953940
+Longitude:	-85.9763640
+Total Area:	15 Hectares

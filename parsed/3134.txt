@@ -1,0 +1,76 @@
+ID:	3134
+Name:	Percy's Scenic Reserve 
+Fax:	
+Info:	  New Zealand - Wellington  ;Garden Information;  Institution Code: HUTT; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	
+Administration Staff Number:	1
+Curator's Name:	
+Director's Name:	Jonthan Frericks
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1939
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-41.21292
+Local Address:	5 Dowse Drive
+Locality:	Information
+Longitude:	174.87569
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	No
+Accession Number:	500
+Invasive Species Monitoring:	Yes
+Invasive Species Policy:	Yes
+Plant Collection Policy:	No
+Special Collections:	A nationally significant collection of at-risk and endangered plants. The majority of the collection are from alpine habitats and offshore islandand Native plants.
+Threatened plant collection:	Muehlenbeckia astonii, Aciphylla dieffenbachii planted on traffic island.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	Yes
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	No
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	No
+Visitor/Education Centre:	No

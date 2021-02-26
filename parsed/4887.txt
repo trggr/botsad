@@ -1,0 +1,20 @@
+ID:	4887
+Name:	Huay Kaew Arboretum 
+Fax:	
+Info:	  Thailand - Chiang Mai - Chiang Mai  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
+Primary Email:	
+Telephone:	+66 823849778
+Curator's Name:	
+Director's Name:	Mr. Aphantree Chuechom, Head of Garden
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1953
+Institution Type:	Botanic Garden
+Latitude:	18.810006
+Longitude:	98.950122
+Total Area:	10 Hectares
+Arboretum:	Yes
+Arboretum Size:	10
+Herbarium:	Yes
+Open to public:	Yes
+Special Collections:	Species in Huai Kaew Arboretum-grown plants, mainly grown by a Forestry Class 1946-47.

@@ -1,0 +1,37 @@
+ID:	1096
+Name:	Bickelhaupt Arboretum 
+Administration Staff Number:	1
+Curator's Name:	David Horst, Director of Horticulture
+Director's Name:	Margo Hansen, Director of Programs
+Educational Staff Number:	1
+Horticultural Staff Number:	1
+Info:	  United States of America - Iowa - Clinton  ;Garden Information;  Institution Code: BICKA; International Agenda Registration: No; BGCI Member: No; About the Bickelhaupt Arboretum The Bickelhaupt Arboretum serves as a connection between people and plants through a better understanding of horticulture by developing and maintaining a well documented collection of plants for education and enjoyment.;  Main Address:; Bickelhaupt Arboretum; 340 South 14th Street; Clinton; Iowa 52732-5432 United States of America; ;  Telephone: (563) 242-4771; Fax: (563) 242-7373; URL: <a target="_blank" href="https://www.eicc.edu/bickelhaupt">https://www.eicc.edu/bickelhaupt; Primary Email: ; 
+Plant Records Officer's Name:	David Horst
+Research Staff Number:	1
+Altitude:	216.00 Metres
+Annual Rainfall:	5700 mm
+Date founded:	1970
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	41.8412720
+Local Address:	340 South 14th Street
+Locality:	Information
+Longitude:	-90.2192550
+Natural Vegetation Area:	Yes
+Total Area:	6 Hectares
+Arboretum:	Yes
+Arboretum Size:	6
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	30000
+Number of Volunteers:	90
+Open to public:	Yes
+Seed Bank:	No
+Accession Number:	1846
+Special Collections:	Aceraceae, Caprifoliaceae, Cupressaceae, Oleaceae, Pinaceae, Rosaceae, Aronia (3 ssp., 4 taxa), Carya (5 spp., 5 taxa), Cotoneaster (5 spp., 6 taxa), Hosta (6 spp., 9 taxa), Quercus (7 spp., 8 taxa), Viburnum (13 spp., 21 taxa), Acer (23 taxa), Euonymus (
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

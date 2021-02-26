@@ -1,0 +1,47 @@
+ID:	5021
+Name:	FossilPlants 
+Administration Staff Number:	
+Curator's Name:	
+Director's Name:	Robert Blackhall-Miles
+Educational Staff Number:	
+Horticultural Staff Number:	2
+Info:	  United Kingdom - Gwynedd  ;Garden Information;  Institution Code: FPL; International Agenda Registration: No; BGCI Member: Yes; About the FossilPlants At FossilPlants our mission is to:; ▪ tell the story of how early plants evolved by establishing a living collection of their; modern-day representatives, in a temperate garden environment and actively engage; others in their story.; ▪ Actively assist efforts to protect threatened plant species through ex-situ conservation; and the creation of horticultural protocols that will aid subsequent translocation and; restoration of wild populations.; ▪ Make our horticultural collections available to other botanical and scientific institutions; for the purposes of conservation, education and research.; ▪ Provide access to the collection and information gained from it to interested parties.; ▪ Promote the study of palaeobotany, taxonomy and plant sciences for all.;  Main Address:; FossilPlants; 10 Goodman Street; Llanberis; Gwynedd; LL55 4HL United Kingdom; ;  Telephone: 07545 939666; Fax: ; URL: <a target="_blank" href="http://www.fossilplants.co.uk">www.fossilplants.co.uk; Primary Email: fossilplants@gmail.com ; 
+Plant Records Officer's Name:	Ben Ram
+Research Staff Number:	
+Altitude:	80.00 Metres
+Annual Rainfall:	3000 mm
+Date founded:	2011
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	53.1212116
+Longitude:	-4.1294088
+Natural Vegetation Area:	No
+Arboretum:	No
+Computer Plant Record System:	Yes
+Disabled access:	Yes
+Friends society:	No
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	Yes
+ABS Policy:	Yes
+Cultivation Taxa Num:	1007
+Invasive Species Monitoring:	Yes
+Plant Collection Policy:	Yes
+Special Collections:	Proteaceae, Ericaceae (Styphelioideae), Diapensiaceae, Iris (Oncocyclus)
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Conservation - Biology:	Yes
+Conservation - Genetics:	Yes
+Ecosystem Conservation:	Yes
+Exploration:	Yes
+Horticulture:	Yes
+Restoration Ecology:	Yes
+Seed/Spore Biology:	Yes
+Systematics and Taxonomy:	Yes
+Urban Environments:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes

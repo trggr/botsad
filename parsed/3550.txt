@@ -1,0 +1,10 @@
+ID:	3550
+Name:	Jardín Botánico de Ciceana 
+Curator's Name:	Cristian Rene Sanchez
+Director's Name:	Ingrid Nava
+Info:	  Mexico - Distrito Federal - Mexico City, Coyoacan  ;Garden Information;  Institution Code: MEXCA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico de Ciceana; Av. Progreso #3; Mexico City, Coyoacan; Distrito Federal 04100 Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.ciceana.org.mx">www.ciceana.org.mx; Primary Email: jardin.botanico@ciceana.mx ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Institution Type:	Botanic Garden
+Latitude:	19.3253
+Longitude:	-99.6045

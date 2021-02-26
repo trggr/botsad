@@ -1,0 +1,78 @@
+ID:	918
+Name:	Instituto Experimental Jardin Botánico "Dr. Tobías Lasser" 
+Administration Staff Number:	60
+Curator's Name:	Thalia Morales
+Director's Name:	Ana Herrera
+Educational Staff Number:	4
+Horticultural Staff Number:	20
+Info:	  Venezuela - Distrito Capital - Caracas  ;Garden Information;  Institution Code: VEN; International Agenda Registration: No; BGCI Member: No; About the Instituto Experimental Jardin Botánico "Dr. Tobías Lasser" The Caracas Botanical Garden, comprising 70 ha, is the largest biological reserve in Caracas. The main building was built between 1948 and 1957, when the Botanical Garden opened to the public, incorporating the National Herbarium of Venezuela and the Henri Pittier Library, both previously belonging to the Ministry of Agriculture. The Botanical Garden was declared a National Park in 1969. In 1980 both the Botanical Garden and the National Herbarium were assigned to the National Park Institute. In 2000, UNESCO declared the Universidad Central de Venezuela, together with the Caracas Botanical Garden, "Cultural Heritage of Humanity". In 2012 the Experimental Botanical Garden Institute "Dr. Tobías Lasser "(IEJB) was founded as part of the Universidad Central de Venezuela. The Garden is funded mainly by the University and to a lesser proportion by its own incomes and by donations. In this Garden, research, education, conservation and recreational activities are carried out.;  Main Address:; Instituto Experimental Jardin Botánico "Dr. Tobías Lasser"; Avenida Salvador Allende; Ciudad Universitaria; Caracas; Distrito Capital 1040 Venezuela; ;  Telephone: 58-212-6053970 or 6053995; Fax: ; URL: <a target="_blank" href="http://www.ucv.ve/fibv.htm">www.ucv.ve/fibv.htm; Primary Email: instituto.jardin@gmail.com ; 
+Plant Records Officer's Name:	María Alejandra Guillén
+Research Staff Number:	12
+Altitude:	869.00 Metres
+Annual Rainfall:	925 mm
+Date founded:	1957
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	10.485
+Local Address:	Ciudad Universitaria, Avenida Salvador Allende
+Locality:	Information
+Longitude:	66.898
+Natural Vegetation Area:	No
+Total Area:	70 Hectares
+Total area of shadehouses:	50 Metres
+Arboretum:	Yes
+Arboretum Size:	8
+Computer Plant Record System:	Yes
+Disabled access:	No
+Friends society:	No
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	5200
+Number of Volunteers:	100
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+ABS Policy:	Yes
+Accession Number:	1700
+Invasive Species Monitoring:	No
+Invasive Species Policy:	No
+Plant Collection Policy:	Yes
+Special Collections:	Xerophytes, palmetum, gingers, aroids, orchids, bromeliads, economic plants, arboretum and tropical forest.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	Yes
+Medicinal Plant Programme:	No
+Reintroduction Programme:	No
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	Yes
+Ecology:	Yes
+Ecosystem Conservation:	No
+Education:	Yes
+Ethnobotany:	No
+Exploration:	Yes
+Floristics:	Yes
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	No
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	No
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	Yes
+Urban Environments:	No
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	Yes
+Education Programme:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	No
+Public Lectures/Talks:	Yes
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

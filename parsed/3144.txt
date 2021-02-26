@@ -1,0 +1,10 @@
+ID:	3144
+Name:	Arboretum de la Universidad Autónoma de Campeche 
+Curator's Name:	
+Director's Name:	x
+Info:	  Mexico - Campeche  ;Garden Information;  Institution Code: CARME; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum de la Universidad Autónoma de Campeche; Universidad Autonoma del Carmen,; Campeche; Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Date founded:	
+Institution Type:	Botanic Garden
+Latitude:	19.8454
+Longitude:	-90.5236

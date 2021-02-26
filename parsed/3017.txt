@@ -1,0 +1,11 @@
+ID:	3017
+Name:	Gesamthochschule Kassel Lehr- und Versuchsanlagen Botanik 
+Curator's Name:	
+Director's Name:	
+Info:	  Germany - Deutschland - Kassel  ;Garden Information;  Institution Code: KAS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gesamthochschule Kassel Lehr- und Versuchsanlagen Botanik; Heinrich-Platt-Str. 40, D-34132 KASSEL; Kassel; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1970
+Institution Type:	Other
+Latitude:	51.2848
+Longitude:	9.4073

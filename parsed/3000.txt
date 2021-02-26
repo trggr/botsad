@@ -1,0 +1,36 @@
+ID:	3000
+Name:	Lajeado Botanic Garden 
+Administration Staff Number:	2
+Curator's Name:	Edith Ester Zago de Mello
+Director's Name:	Lucia Duarte
+Educational Staff Number:	3
+Horticultural Staff Number:	3
+Info:	  Brazil - Rio Grande do Sul - Lajeado  ;Garden Information;  Institution Code: LAJ; International Agenda Registration: Yes; BGCI Member: No; About the Lajeado Botanic Garden Lageado´s Botanic Garden, is located in Lajeado City, in the brazilian state of Rio Grande do Sul, south of the country. It was created in June 24 of 1996, by the means of the municipal law n° 5.721, with 26 hectares the local was considered by the director plan of the city as an area of enviromental priority for conservation. Today the Botanic garden is linked to de Enviromental Education Center by the means of the Minicipal Decret n°6.330, of 17 June of 2005. The transformation of the area from an old farm, brought the prospect of an adicional instrument for recovery and preservation of local flora and faunae, preventing hunting and removal of specimens. ; The natural processes of natural recovery of the vegetation, is taking place, making the landscape with areas with diferent levels of plant sucession. In ten years we are able to see the consolidation of the understory, and recovery of the before, degradated areas, as the result of the politcs for manteining the area as a conservational priority. ; Scientific studies took place in the area and were the base for creating the zoning of diferent use areas, each one with different management strategies. Areas determined as "special use" are dedicated for the implemantation of the main operational infrastructure, wich were and still are in continuous progress.; Today the JBL is intended to preservation, reasearch, enviromental education and recreation, all of these activities are regulated by the Lajeado´s Botanic Garden Regulation Code and by it's director plan.;  Main Address:; Lajeado Botanic Garden; Street Carlos Spohr Filho - ERS 413 n°3655; Lajeado; Rio Grande do Sul 95900000 Brazil; ;  Telephone: +55 51 39821099; Fax: ; URL: <a target="_blank" href="http://www.lajeado.rs.gov.br/?titulo=Jardim%20Bot%E2nico&template=hotSite&categoria=967&codigoCategoria=967&tipoConteudo=INCLUDE_MOSTRA_CONTEUDO&idConteudo=3343">http://www.lajeado.rs.gov.br/?titulo=Jardim%20Bot%E2nico&template=hotSite&categoria=967&codigoCategoria=967&tipoConteudo=INCLUDE_MOSTRA_CONTEUDO&idConteudo=3343; Primary Email: sema.jardimbotanico@lajeado.rs.gov.br ; 
+Plant Records Officer's Name:	
+Research Staff Number:	1
+Altitude:	49.00 Metres
+Annual Rainfall:	1500 mm
+Date founded:	1996
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	-29.4685
+Local Address:	Street Carlos Spohr Filho - ERS 413 n°3655
+Locality:	Information
+Longitude:	-51.9652
+Natural Vegetation Area:	Yes
+Total Area:	26 Hectares
+Arboretum:	Yes
+Herbarium:	Yes
+Micropropagation/ Tissue Culture Facilities:	No
+Open to public:	Yes
+ABS Policy:	Yes
+Special Collections:	We have the Orchid, Bromelia and Cactus Colletion, and other that are being implementaded as the Native Semidesciduous Seasonal Forest and the Threatened Species of the Atlantic Forest.
+Medicinal Plant Programme:	Yes
+Education:	Yes
+Courses for General Public:	Yes
+Courses for School Children:	Yes
+Education Booklets/Leaflets:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

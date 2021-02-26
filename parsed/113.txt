@@ -1,0 +1,51 @@
+ID:	113
+Name:	University of California, Irvine Arboretum and Herbarium 
+Curator's Name:	Rebecca Crowe, Collections Manager
+Director's Name:	Dr. Peter A. Bowler, Director
+Info:	  United States of America - California - Irvine  ;Garden Information;  Institution Code: IRVC; International Agenda Registration: No; BGCI Member: No; About the University of California, Irvine Arboretum and Herbarium The UCI Arboretum provides the most comprehensive introduction to the unique flora of coastal California from Irvine south into Mexico. There is also a strong emphasis at the UCI Arboretum on the plant communities that occur in the Irvine area. The other main emphasis of the UCI Arboretum is the plants of southern Africa.;  Main Address:; University of California, Irvine Arboretum and Herbarium; University of California, Irvine; UCI Arboretum and Herbarium; Irvine; California 92697-1459 United States of America; ;  Telephone: (949) 824-5833; Fax: ; URL: <a target="_blank" href="http://arboretum.bio.uci.edu">http://arboretum.bio.uci.edu; Primary Email: ; 
+Plant Records Officer's Name:	
+Altitude:	0.00 Metres
+Date founded:	1970
+Institution Type:	Botanic Garden
+Latitude:	33.6642200
+Longitude:	-117.8533870
+Natural Vegetation Area:	No
+Total Area:	5 Hectares
+Arboretum:	Yes
+Arboretum Size:	5
+Open to public:	Yes
+Special Collections:	Amaryllidaceae, Asphodelaceae, Geraniaceae, Hyacinthaceae, Iridaceae, Aloe (130 spp., 145 taxa), Cyrtanthus (23 spp., 40 taxa), Gladiolus (71 spp., 120 taxa), Haworthia (80 spp., 130 taxa), Moraea (45 spp., 50 taxa), Pelargonium (40 spp., 65 taxa), Cymbid
+Agriculture:	No
+Biotechnology:	No
+Conservation - Biology:	Yes
+Conservation - Genetics:	No
+Data Management Systems and Information Technology:	No
+Ecology:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Ethnobotany:	No
+Exploration:	No
+Floristics:	No
+Horticulture:	Yes
+Invasive Species Biology and Control:	No
+Land Restoration:	Yes
+Molecular Genetics:	No
+Pharmacology:	No
+Plant Breeding:	No
+Pollination Biology:	No
+Restoration Ecology:	Yes
+Seed/Spore Biology:	No
+Sustainability:	No
+Systematics and Taxonomy:	No
+Urban Environments:	No
+Courses for General Public:	No
+Courses for School Children:	No
+Courses for University/College Students:	Yes
+Education Booklets/Leaflets:	No
+Education Programme:	No
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	No
+Special Exhibitions:	Yes
+Visitor/Education Centre:	No

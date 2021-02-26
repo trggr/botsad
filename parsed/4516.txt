@@ -1,0 +1,42 @@
+ID:	4516
+Name:	Northwest Trek Wildlife Park 
+Administration Staff Number:	
+Curator's Name:	Jake Pool, Horticulture/Maintenance Department
+Director's Name:	Gary Geddes, Director, Zoological and Environmental Education Division
+Educational Staff Number:	
+Horticultural Staff Number:	1
+Info:	  United States of America - Washington - Eatonville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Northwest Trek Wildlife Park This 725-acre park has a little bit of everything: lakes, trails, meadows and plenty of animals. Northwest Trek is home to more than 200 North American animals.; ; A different kind of wildlife park; See bighorn sheep, deer, Roosevelt elk, woodland caribou, mountain goats, bison and more up close from comfortable trams while touring the free-roaming area (435 acres). Walk forested pathways to view grizzlies, black bears, wolves, bobcats, lynx, cougars, owls, eagles and wetland animals in beautiful natural exhibits. Explore five miles of nature trails and enjoy exciting hands-on experiences in the Cheney Family Discovery Center.;  Main Address:; Northwest Trek Wildlife Park; 11610 Trek Drive East; Eatonville; Washington 98328 United States of America; ;  Telephone: (360)832-7193; Fax: (360) 832-6118; URL: <a target="_blank" href="http://www.nwtrek.org">www.nwtrek.org; Primary Email: info@nwtrek.org ; 
+Plant Records Officer's Name:	
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1975
+Institution Type:	Zoological Institution
+Landscaped Area:	Yes
+Latitude:	46.9165800
+Longitude:	-122.2765140
+Natural Vegetation Area:	Yes
+Arboretum:	No
+Computer Plant Record System:	No
+Disabled access:	Yes
+Herbarium:	No
+Micropropagation/ Tissue Culture Facilities:	No
+Number of Visitors:	200000
+Open to public:	Yes
+Published Plant Catalogue:	No
+Seed Bank:	No
+Special Collections:	We solely display Pacific Northwest Native Plants.
+Conservation Programme:	Yes
+Ex Situ Conservation Programme:	No
+Medicinal Plant Programme:	No
+Reintroduction Programme:	Yes
+Ecosystem Conservation:	Yes
+Education:	Yes
+Invasive Species Biology and Control:	Yes
+Land Restoration:	Yes
+Restoration Ecology:	Yes
+Sustainability:	Yes
+Education Signs in Garden:	Yes
+Guided Tours:	Yes
+Permanent Public Displays:	Yes
+Public Lectures/Talks:	Yes
+Visitor/Education Centre:	Yes

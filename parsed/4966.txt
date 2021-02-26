@@ -1,0 +1,20 @@
+ID:	4966
+Name:	The Yorkshire Arboretum 
+Administration Staff Number:	2
+Curator's Name:	
+Director's Name:	Dr John Grimshaw
+Educational Staff Number:	1
+Horticultural Staff Number:	4
+Info:	  United Kingdom - Yorkshire - York  ;Garden Information;  Institution Code: BG5736; International Agenda Registration: No; BGCI Member: Yes; About the The Yorkshire Arboretum The Yorkshire Arboretum is a glorious, 120 acre garden of trees from around the world set in a stunning landscape of parkland, lakes and ponds on the Castle Howard Estate near York. ; ; ; The trees in the Yorkshire Arboretum come from temperate regions around the world, including Chile and Australasia as well as the more expected North America, Europe and Asia. Originally planted in open fields, the collection has been winnowed by thirty or more winters; while there have been losses, the survivors demonstrate the vast range of hardy trees that can be expected to survive in North Yorkshire.; ; The plantings started with a diverse collection of interesting trees purchased in 1979 from Hillier Nurseries, Hampshire, which then offered an extraordinary range of material but was in the process of stream-lining its assortment. This gave the arboretum a core of good plants, many of them now rare in cultivation.;  Main Address:; The Yorkshire Arboretum; Castle Howard; York; Yorkshire YO60 7BY United Kingdom; ;  Telephone: +44 (0) 1653-648598; Fax: +44 (0) 1653 648650; URL: <a target="_blank" href="http://www.yorkshirearboretum.org/">http://www.yorkshirearboretum.org/; Primary Email: enquiries@yorkshirearboretum.org ; 
+Plant Records Officer's Name:	Nicola Hall - Tree Team & Plant Records Manager
+Research Staff Number:	
+Altitude:	0.00 Metres
+Date founded:	1959
+Institution Type:	Botanic Garden
+Landscaped Area:	Yes
+Latitude:	54.12069720149472
+Longitude:	-0.9116938710212
+Natural Vegetation Area:	Yes
+Arboretum:	Yes
+Open to public:	Yes
+Reintroduction Programme:	No
