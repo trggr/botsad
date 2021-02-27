@@ -5,16 +5,16 @@ On Advanced Search page, at the bottom, there's a link to CSV file, which you ca
 
 The file contains a list of pairs - ID and the Name of every garden in the database. There are total of 3693 pairs in the file.
 
-You are request a full information about a garden by providing its ID via a request:
+You can request a full information about a garden by providing its ID via a request:
 
         https://tools.bgci.org/garden.php?id=1024
 
-I made a simple crawler, which runs in a background, loops through a list of IDs that I obtained earlier, obtains an original page,
+I have made a simple crawler, which runs in a background, loops through a list of IDs, fetches an original page,
 and stores it in a file
 
     site/1024.html
 
-The crawler then sleeps 2 seconds, and repeats a process for the next ID.
+The crawler sleeps 2 seconds, and repeats a process for the next ID.
 
 The crawlers's source code is below:
 
@@ -29,7 +29,7 @@ The crawlers's source code is below:
 Once the crawler finishes, I have a 3693 HTML pages stored locally.
 
 The next step is to understand how each page is organized. The page has a lot in it, but the
-most interesting part is between two tags <article> and </article>.
+most interesting part is between tags "article" and "/article".
 
 I loop through HTML files one by one, and perform a series of steps on each file.
 (Refer to the source file src/botsad/core.clj)
@@ -66,7 +66,7 @@ so I get rid of the first block:
      p4  (rest p3)
 
 Step 5. The most difficult block is Info. Some gardens provide very little info about themselves, and they
-are easy to process. Some big gardens have a very elaborate information about themselves, including pictures.
+are easy to process. The others have a very elaborate information, including pictures.
 This is how I process this block:
 
     (let [p1 (subs art (index-of art "<div id=\"tabs-1\">") (index-of art "<div class=\"meta-heading first\">"))
