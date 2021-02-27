@@ -1,45 +1,45 @@
-ID:	107
-Name:	Royal Tasmanian Botanical Gardens 
-Administration Staff Number:	2
-Curator's Name:	David Reid
-Director's Name:	Gary Davies
-Educational Staff Number:	
-Horticultural Staff Number:	16
-Info:	  Australia - TAS - Hobart  ;Garden Information;  Institution Code: HO; International Agenda Registration: Yes; BGCI Member: Yes; About the Royal Tasmanian Botanical Gardens The Royal Tasmanian Botanical Gardens (RTBG), established in 1818, is Tasmania’s only botanical garden and is custodian of the state’s botanical collections. The RTBG strives to provide a range of experiences that will enhance the community’s awareness and appreciation of plants and the Gardens’ cultural heritage. The RTBG is distinguished by a number of unique collections and is home to the world’s only Subantarctic Plant House showcasing the flora of Macquarie Island. The Tasmanian native collection is significant due to the unique nature of Tasmania’s flora with around a 30% of species being endemic to the State. Complementing this is the Tasmanian Seed Conservation Centre which was established in 2005 and has become the cornerstone of the RTBG conservation strategy. Major ornamental collections include the Conservatory, Mixed Border, Japanese Garden and Lily Pond and those with a geographic theme include the Australian, New Zealand, Chinese and Gondwana collections.;  Main Address:; Royal Tasmanian Botanical Gardens; Queens Domain, Hobart, Tasmania 7000; Hobart; TAS 7000 Australia; ;  Telephone: 61 3 6166 0451; Fax: 61 3 6236 3051; URL: <a target="_blank" href="http://www.rtbg.tas.gov.au">www.rtbg.tas.gov.au; Primary Email: rtbg@rtbg.tas.gov.au ; 
-Plant Records Officer's Name:	Natalie Tapson
-Research Staff Number:	2
-Altitude:	30.00 Metres
-Annual Rainfall:	570 mm
-Date founded:	1818
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-42.866177
-Longitude:	147.332425
-Total Area:	14 Hectares
-Total area of glasshouses:	1500 Metres
-Total area of shadehouses:	580 Metres
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	500000
-Number of Volunteers:	95
-Open to public:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	8000
-Cultivation Taxa Num:	3300
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Special Collections:	The Royal Tasmanian Botanical Gardens was established in 1818 and today is a fusion of early heritage and ornamental plantings together with a more recent focus on Tasmanian plant species and conservation collections. The heritage collection of mature trees acts as a backbone to more recent plantings. Ornamental collections include the Conservatory, Lily Pond, Friends Mixed Border and Japanese Garden. A strong focus on Tasmanian native species since the late 20th century has seen the development of the Tasmanian Collection, Greater Hobart Flora and Tasmanian Fern House. The Subantarctic Plant House displays plants from Macquarie and Heard Islands.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Seed/Spore Biology:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 107
+1-Name: Royal Tasmanian Botanical Gardens 
+2-Altitude: 30.00 Metres
+2-Annual Rainfall: 570 mm
+2-Date founded: 1818
+2-Info:              Institution Code: HO;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Royal Tasmanian Botanical Gardens        The Royal Tasmanian Botanical Gardens (RTBG), established in 1818, is Tasmania’s only botanical garden and is custodian of the state’s botanical collections. The RTBG strives to provide a range of experiences that will enhance the community’s awareness and appreciation of plants and the Gardens’ cultural heritage. The RTBG is distinguished by a number of unique collections and is home to the world’s only Subantarctic Plant House showcasing the flora of Macquarie Island. The Tasmanian native collection is significant due to the unique nature of Tasmania’s flora with around a 30% of species being endemic to the State. Complementing this is the Tasmanian Seed Conservation Centre which was established in 2005 and has become the cornerstone of the RTBG conservation strategy.  Major ornamental collections include the Conservatory, Mixed Border, Japanese Garden and Lily Pond and those with a geographic theme include the Australian, New Zealand, Chinese and Gondwana collections.;                        Main Address:;         Royal Tasmanian Botanical Gardens;         Queens Domain, Hobart, Tasmania 7000;                Hobart;        TAS 7000 Australia;        ;                 Telephone: 61 3 6166 0451;         Fax: 61 3 6236 3051;         URL: www.rtbg.tas.gov.au;         Primary Email: rtbg@rtbg.tas.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: -42.866177
+2-Longitude: 147.332425
+2-Total Area: 14 Hectares
+2-Total area of glasshouses: 1500 Metres
+2-Total area of shadehouses: 580 Metres
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 500000
+3-Number of Volunteers: 95
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 8000
+4-Cultivation Taxa Num: 3300
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Special Collections: The Royal Tasmanian Botanical Gardens was established in 1818 and today is a fusion of early heritage and ornamental plantings together with a more recent focus on Tasmanian plant species and conservation collections. The heritage collection of mature trees acts as a backbone to more recent plantings. Ornamental collections include the Conservatory, Lily Pond, Friends Mixed Border and Japanese Garden. A strong focus on Tasmanian native species since the late 20th century has seen the development of the Tasmanian Collection, Greater Hobart Flora and Tasmanian Fern House. The Subantarctic Plant House displays plants from Macquarie and Heard Islands.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Seed/Spore Biology: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 61 3 6236 3051
+9-Institution Code: HO
+9-International Agenda Registration: Yes
+9-Primary Email: rtbg@rtbg.tas.gov.au
+9-Telephone: 61 3 6166 0451
+9-URL: www.rtbg.tas.gov.au

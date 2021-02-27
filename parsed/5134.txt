@@ -1,9 +1,19 @@
-ID:	5134
-Name:	Bellefontaine Cemetery and Arboretum 
-Curator's Name:	Michael Garrett, Director of Horticulture, Curator of Living Collections
-Director's Name:	-
-Info:	  United States of America - Missouri - St. Louis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Bellefontaine Cemetery and Arboretum; 4947 West Florissant Avenue; St. Louis; Missouri 63115 United States of America; ;  Telephone: (314) 381-0750; Fax: (314) 381-0751; URL: <a target="_blank" href="http//bellefontainecemetery.org/destination/horticulture/">http//bellefontainecemetery.org/destination/horticulture/; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.691858
-Longitude:	-90.233264
+0-ID: 5134
+1-Name: Bellefontaine Cemetery and Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Bellefontaine Cemetery and Arboretum;         4947 West Florissant Avenue;                St. Louis;        Missouri 63115 United States of America;        ;                 Telephone: (314) 381-0750;         Fax: (314) 381-0751;         URL: http//bellefontainecemetery.org/destination/horticulture/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.691858
+2-Longitude: -90.233264
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5134">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5134">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5134">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5134">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5134">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: (314) 381-0751
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (314) 381-0750
+9-URL: http//bellefontainecemetery.org/destination/horticulture/

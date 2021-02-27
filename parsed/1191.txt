@@ -1,27 +1,30 @@
-ID:	1191
-Name:	Manito Park & Gardens 
-Administration Staff Number:	
-Curator's Name:	Steven Nittolo, Horticulture Supervisor
-Director's Name:	Leroy Eadie, Director of Parks and Recreation
-Educational Staff Number:	
-Horticultural Staff Number:	7
-Info:	  United States of America - Washington - Spokane  ;Garden Information;  Institution Code: MANPG; International Agenda Registration: No; BGCI Member: No; About the Manito Park & Gardens Manito Park was officially established in April 1904 and has evolved from an undeveloped recreational area with a few flower beds, picnic spots and a zoo to one of Spokane’s primary showplaces. Comprised of five major garden areas (the Nishinomiya Tsutakawa Japanese Garden, Duncan Garden, Rose Hill, Lilac Garden and Ferris Perennial Garden), Manito Park is nationally recognized for its diverse horticultural displays.; ; ; The Parks and Recreation Department maintains Manito Park’s 78 acres of native and cultivated landscape and 20 acres of world class botanical gardens. Other Manito Park features include: Mirror Pond, a favorite of those who enjoy watching ducks and other water fowl; the Park Bench Café, open in season for light meals; Loop Drive and Bridge, offering majestic views of the Rose Garden; Upper and Lower Playgrounds – a favorite gathering spot of children; and the large basalt rock office building constructed in 1912. Central to the Park is the Gaiser Conservatory, where beautiful flowing displays change seasonally.; ; Manito Park is located on Spokane’s south hill and its five main gardens, several smaller gardens, and conservatory are toured by over 150,000 visitors annually. ; ; Manito Park was originally named, “Montrose Park” and to this day is the primary garden showplace in Spokane. ; ; Montrose Park was changed to Manito Park in 1903 and originally played host to a zoo among other family friendly activities. Manito means, “spirit of nature”. ; ; There are 90 acres worth of immaculate flower beds, manicured lawns, topiary shrubs, playgrounds, natural areas, living creatures such as waterfowl on Mirror Pond and so much more. ; ; Manito Park is located in the Spokane South Hill neighborhood and its five gardens, conservatory and Mirror Pond are toured by over 150,000 visitors each year. ; ; Manito Park also has a picturesque stone bridge, the Park Bench Café located near Manito Place historic drive and an upper and lower playground.;  Main Address:; Manito Park & Gardens; 1702 S. Grand Boulevard; Mailing: 4 W. 21st Avenue; Spokane; Washington 99203 United States of America; ;  Telephone: (509) 625-6692; Fax: (509) 625-6690; URL: <a target="_blank" href="http://spokaneparks.org/Parks/page/88/">http://spokaneparks.org/Parks/page/88/; Primary Email: snittolo@spokanecity.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1903
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	47.6355080
-Longitude:	-117.4128650
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Moore-Turner Heritage Garden
-Total Area:	36 Hectares
-Arboretum:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Number of Visitors:	150000
-Open to public:	Yes
-Special Collections:	No information available.
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
+0-ID: 1191
+1-Name: Manito Park & Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1903
+2-Info:              Institution Code: MANPG;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Manito Park & Gardens        Manito Park was officially established in April 1904 and has evolved from an undeveloped recreational area with a few flower beds, picnic spots and a zoo to one of Spokane’s primary showplaces. Comprised of five major garden areas (the Nishinomiya Tsutakawa Japanese Garden, Duncan Garden, Rose Hill, Lilac Garden and Ferris Perennial Garden), Manito Park is nationally recognized for its diverse horticultural displays.;   ;   ;  The  Parks and Recreation Department maintains Manito Park’s 78 acres of native and cultivated landscape and 20 acres of world class botanical gardens. Other Manito Park features include: Mirror Pond, a favorite of those who enjoy watching ducks and other water fowl; the Park Bench Café, open in season for light meals; Loop Drive and Bridge, offering majestic views of the Rose Garden; Upper and Lower Playgrounds – a favorite gathering spot of children; and the large basalt rock office building constructed in 1912. Central to the Park is the Gaiser Conservatory, where beautiful flowing displays change seasonally.;  ;  Manito Park is located on Spokane’s south hill and its five main gardens, several smaller gardens, and conservatory are toured by over 150,000 visitors annually.  ;  ;  Manito Park was originally named, “Montrose Park” and to this day is the primary garden showplace in Spokane. ;  ;  Montrose Park was changed to Manito Park in 1903 and originally played host to a zoo among other family friendly activities. Manito means, “spirit of nature”. ;  ;  There are 90 acres worth of immaculate flower beds, manicured lawns, topiary shrubs, playgrounds, natural areas, living creatures such as waterfowl on Mirror Pond and so much more. ;  ;  Manito Park is located in the Spokane South Hill neighborhood and its five gardens, conservatory and Mirror Pond are toured by over 150,000 visitors each year. ;  ;  Manito Park also has a picturesque stone bridge, the Park Bench Café located near Manito Place historic drive and an upper and lower playground.;                        Main Address:;         Manito Park & Gardens;         1702 S. Grand Boulevard;        Mailing:  4 W. 21st Avenue;        Spokane;        Washington 99203 United States of America;        ;                 Telephone: (509) 625-6692;         Fax: (509) 625-6690;         URL: http://spokaneparks.org/Parks/page/88/;         Primary Email: snittolo@spokanecity.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 47.6355080
+2-Longitude: -117.4128650
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Moore-Turner Heritage Garden
+2-Total Area: 36 Hectares
+3-Arboretum: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Number of Visitors: 150000
+3-Open to public: Yes
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1191">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1191">Please click here if you can update us</a>
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: (509) 625-6690
+9-Institution Code: MANPG
+9-International Agenda Registration: No
+9-Mailing: 4 W. 21st Avenue
+9-Primary Email: snittolo@spokanecity.org
+9-Telephone: (509) 625-6692
+9-The  Parks and Recreation Department maintains Manito Park’s 78 acres of native and cultivated landscape and 20 acres of world class botanical gardens. Other Manito Park features include: Mirror Pond, a favorite of those who enjoy watching ducks and other water fowl

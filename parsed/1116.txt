@@ -1,19 +1,25 @@
-ID:	1116
-Name:	Dubrava Arboretum 
-Curator's Name:	
-Director's Name:	Dr. Valerija Baroniene
-Info:	  Lithuania - KAUNAS district - Vaisvydava, LT 53106  ;Garden Information;  Institution Code: GADES; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dubrava Arboretum; Dubrava Experimental and Training Forest Enterprise; Miskininku str. 7; Vaisvydava, LT 53106; KAUNAS district LT 53106 Lithuania; ;  Telephone: (+370) 37 383557; Fax: (+370) 37 383566; URL: <a target="_blank" href="http://www.dumu.lt/?m1=arboretumas">http://www.dumu.lt/?m1=arboretumas; Primary Email: arboretumas@dumu.lt ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1958
-Institution Type:	Botanic Garden
-Latitude:	54.8423
-Longitude:	24.0452
-Total Area:	51 Hectares
-Arboretum:	Yes
-Arboretum Size:	51
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
+0-ID: 1116
+1-Name: Dubrava Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1958
+2-Info:              Institution Code: GADES;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dubrava Arboretum;         Dubrava Experimental and Training Forest Enterprise;        Miskininku str. 7;        Vaisvydava, LT 53106;        KAUNAS district LT 53106 Lithuania;        ;                 Telephone: (+370) 37 383557;         Fax: (+370) 37 383566;         URL: http://www.dumu.lt/?m1=arboretumas;         Primary Email: arboretumas@dumu.lt       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 54.8423
+2-Longitude: 24.0452
+2-Total Area: 51 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 51
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1116">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1116">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1116">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (+370) 37 383566
+9-Institution Code: GADES
+9-International Agenda Registration: No
+9-Primary Email: arboretumas@dumu.lt
+9-Telephone: (+370) 37 383557

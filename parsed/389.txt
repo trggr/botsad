@@ -1,14 +1,27 @@
-ID:	389
-Name:	Jardin des Plantes 
-Curator's Name:	Mr Romaric Perrocheau
-Director's Name:	Mr Jacques Soignon
-Info:	  France - Cedex - Nantes  ;Garden Information;  Institution Code: NTM; International Agenda Registration: No; BGCI Member: Yes; About the Jardin des Plantes Location: NANTES; Founded: 1807 ; Garden Name: Jardin des Plantes; Address: Service des Espaces Verts et Jardin Botanique, BP 1013, 44036 NANTES Cedex; Situated: 15, rue Gambetta, 44000 NANTES; Status: Municipal; Herbarium: Yes Approx. no. of herbarium sp;  Main Address:; Jardin des Plantes; Service des Espaces verts et de l'Environnement; 2 rue de l'Hôtel de Ville; Nantes; Cedex 44000 France; ;  Telephone: 02 40 41 90 09; Fax: 02 40 41 59 51; URL: <a target="_blank" href="http://www.jardins.nantes.fr/">http://www.jardins.nantes.fr/; Primary Email: jardins@mairie-nantes.fr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1687
-Institution Type:	Botanic Garden
-Latitude:	47.3825
-Longitude:	1.6275
-Number of Visitors:	1500000
-Open to public:	Yes
-Special Collections:	Orchids, succulents, aroids, bromeliads.
+0-ID: 389
+1-Name: Jardin des Plantes 
+2-Altitude: 0.00 Metres
+2-Date founded: 1687
+2-Info:              Institution Code: NTM;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Jardin des Plantes        Location: NANTES;  Founded: 1807 ;  Garden Name: Jardin des Plantes;  Address: Service des Espaces Verts et Jardin Botanique, BP 1013, 44036 NANTES Cedex;  Situated: 15, rue Gambetta, 44000 NANTES;  Status: Municipal;  Herbarium: Yes Approx. no. of herbarium sp;                        Main Address:;         Jardin des Plantes;         Service des Espaces verts et de l'Environnement;        2 rue de l'Hôtel de Ville;        Nantes;        Cedex 44000 France;        ;                 Telephone: 02 40 41 90 09;         Fax: 02 40 41 59 51;         URL: http://www.jardins.nantes.fr/;         Primary Email: jardins@mairie-nantes.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.3825
+2-Longitude: 1.6275
+3-Number of Visitors: 1500000
+3-Open to public: Yes
+4-Special Collections: Orchids, succulents, aroids, bromeliads.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=389">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=389">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=389">Please click here if you can update us</a>
+9-About the Jardin des Plantes        Location: NANTES
+9-Address: Service des Espaces Verts et Jardin Botanique, BP 1013, 44036 NANTES Cedex
+9-BGCI Member: Yes
+9-Fax: 02 40 41 59 51
+9-Founded: 1807
+9-Garden Name: Jardin des Plantes
+9-Herbarium: Yes Approx. no. of herbarium sp
+9-Institution Code: NTM
+9-International Agenda Registration: No
+9-Primary Email: jardins@mairie-nantes.fr
+9-Situated: 15, rue Gambetta, 44000 NANTES
+9-Status: Municipal
+9-Telephone: 02 40 41 90 09

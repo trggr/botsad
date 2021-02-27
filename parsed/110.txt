@@ -1,18 +1,23 @@
-ID:	110
-Name:	Gradina Botanica a `Anastasie Fatu`, Iasi 
-Fax:	+(40) 32 201 201
-Info:	  Romania - IASI  ;Garden Information;  Institution Code: IAGB; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	gbot.is@uaic.ro
-Telephone:	+(40) 32 145 620
-Curator's Name:	Cercetator stiintific I dr. Adrian Oprea
-Director's Name:	Assoc.Prof. dr. Cătălin TĂNASE
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1856
-Institution Type:	Botanic Garden
-Latitude:	47.2487
-Longitude:	27.3489
-Total Area:	99 Hectares
-Disabled access:	Yes
-Special Collections:	In the representative collections of the Botanical Garden there are about 6000 species of plants, grown in green houses and outside. The plants come from different bio- geographical areas.
-Special Exhibitions:	Yes
+0-ID: 110
+1-Name: Gradina Botanica a `Anastasie Fatu`, Iasi 
+2-Curator's Name: Cercetator stiintific I dr. Adrian Oprea
+2-Director's Name: Assoc.Prof. dr. Cătălin TĂNASE
+2-Info:              Institution Code: IAGB;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/110/iasi.jpg" alt="A pleasure in all seasons, the Anastasie Fatu garden in Iasi" />         A pleasure in all seasons, the Anastasie Fatu garden in Iasi</div>        </div>                           About the Gradina Botanica a `Anastasie Fatu`, Iasi        "Anastasie Fătu" Botanical Garden of Iaşi was founded in 1856 and it bears the name of its founder, the famous doctor and naturalist Anastasie Fătu. It is the first Romanian botanical garden belonging to a university and the oldest in the country, unique for the number of species and for their special preservation. Its current location on Copou Hill was set in 1965 and it now has a surface of 99.8 hectares.;  ;  Since 1991 a special place is held by the section for blind persons. There are flowers with powerful scents or with peculiar leafs that also have labels in Braille alphabet.;  ;  The Botanical Garden co-operates with partners from Romania and from abroad. Membership in the Association of Romanian Botanical Gardens (since 2000) as a founding member has offered the institution a great perspective, especially towards similar institutions from Europe.;                        Main Address:;         Gradina Botanica a `Anastasie Fatu`, Iasi;         Universitatii "Al. I. Cuza" din Iasi,;        Str Dumbrava Rosie nr 7 - 9,;        IASI;        6600 Romania;        ;                 Telephone: +(40) 32 145 620;         Fax: +(40) 32 201 201;         URL: http://botanica.uaic.ro/;         Primary Email: gbot.is@uaic.ro       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1856
+3-Institution Type: Botanic Garden
+3-Latitude: 47.2487
+3-Longitude: 27.3489
+3-Total Area: 99 Hectares
+4-Disabled access: Yes
+5-Special Collections: In the representative collections of the Botanical Garden there are about 6000 species of plants, grown in green houses and outside. The plants come from different bio- geographical areas.
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=110">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=110">Please click here if you can update us</a>
+8-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: +(40) 32 201 201
+9-Institution Code: IAGB
+9-International Agenda Registration: No
+9-Primary Email: gbot.is@uaic.ro
+9-Telephone: +(40) 32 145 620

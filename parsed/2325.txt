@@ -1,37 +1,40 @@
-ID:	2325
-Name:	Parque Pedagogico Etnobotanico OMAERE 
-Fax:	+593 (0) 3 883001
-Info:	  Ecuador - Pastaza - Puyo  ;Garden Information;  Institution Code: OMAER; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	fundacionomaere@gmail.com
-Telephone:	+593 (0)3 288 7656
-Administration Staff Number:	2
-Curator's Name:	Christopher Canaday
-Director's Name:	Teresa Shiki
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1994
-Institution Type:	Other
-Landscaped Area:	Yes
-Latitude:	-1.4864
-Longitude:	-78.0082
-Natural Vegetation Area:	Yes
-Total Area:	15 Hectares
-Arboretum:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	No
-Seed Bank:	No
-Special Collections:	Plants of ethnobotanical importance. Native plants. Orchidaceae, Bromeliaceae, Araceae, ornamental plants.
-Conservation Programme:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Land Restoration:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2325
+1-Name: Parque Pedagogico Etnobotanico OMAERE 
+2-Administration Staff Number: 2
+2-Curator's Name: Christopher Canaday
+2-Director's Name: Teresa Shiki
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: OMAER;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/2325/omaere2.gif" alt="Welcome to Omaere Ethnobotanical Park in the Amazon" />         Welcome to Omaere Ethnobotanical Park in the Amazon</div>        </div>                           About the Parque Pedagogico Etnobotanico OMAERE        The Omaere Park is an enchanting corner of the Amazon, five minutes away from Puyo that invites you to enjoy the Ecuadorian Amazon. Its unique biodiversity and its cultural richness.;  ;  The study of flora is the priority in OMAERE park. It covers 15.6 hectares, of which 5 are primary forest (natural forest that has received no human intervention) where we can also find a strong diversity of plant species and animals. Then 10 hectares are secondary forest (primary forest that was destroyed and that is slowly regenerating) and that are today being reforested.;  ;  The Pedagogical Ethnobotanical Omaere Park does not only concentrate their efforts in Botany. One of its objectives is also to help fortify the cultures of Indigenous nationalities of the region.;                        Main Address:;         Parque Pedagogico Etnobotanico OMAERE;         Paseo Turistico del Río Puyo;        Del Malecón cruzando El Puente Peatonal, Casilla 802;        Puyo;        Pastaza Ecuador;        ;                 Telephone: +593 (0)3 288 7656;         Fax: +593 (0) 3 883001;         URL: http://www.omaere.net/;         Primary Email: fundacionomaere@gmail.com       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1994
+3-Institution Type: Other
+3-Landscaped Area: Yes
+3-Latitude: -1.4864
+3-Longitude: -78.0082
+3-Natural Vegetation Area: Yes
+3-Total Area: 15 Hectares
+4-Arboretum: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: No
+4-Seed Bank: No
+5-Special Collections: Plants of ethnobotanical importance. Native plants. Orchidaceae, Bromeliaceae, Araceae, ornamental plants.
+6-Conservation Programme: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Land Restoration: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: +593 (0) 3 883001
+9-Institution Code: OMAER
+9-International Agenda Registration: No
+9-Primary Email: fundacionomaere@gmail.com
+9-Telephone: +593 (0)3 288 7656

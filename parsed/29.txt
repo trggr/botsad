@@ -1,11 +1,24 @@
-ID:	29
-Name:	Jardin Botanique de la Ville et de l'Universite de BESANCON 
-Curator's Name:	Mlle Isabelle Diana
-Director's Name:	Prof. Bidault
-Info:	  France - Besancon  ;Garden Information;  Institution Code: BESN; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de la Ville et de l'Universite de BESANCON Location: BESANCON; Founded: end of 16th C and 1957on the site; Garden Name: Jardin Botanique de la Ville et de l'Universite de Besancon‚; Address: Universite de Franche-Comte, 1, rue Goudimel, 25030, BESANCON Cedex.; Situated: Place Marechal Leclerc, F-2;  Main Address:; Jardin Botanique de la Ville et de l'Universite de BESANCON; Universite de Franche-Comte 1, rue Goudinet 25030 BESANCON Cedex FRANCE; Besancon; France; ;  Telephone: 33 3 81 66 56 69; Fax: 33 3 81 66 57 62; URL: <a target="_blank" href="http://">; Primary Email: jardbotan.besancon@univ-fcomte.fr ; 
-Plant Records Officer's Name:	
-Date founded:	1957
-Institution Type:	Botanic Garden
-Latitude:	47.2412
-Longitude:	6.0255
-Special Collections:	Bog plants, medicinal plants (200 spp.), aquatics (70 spp.), plants from the Guianas (750 taxa), tropical plants (1,320 spp.), woody plants in the arboretum (230 spp.). Systematic collection (900 spp.) Produces a regular seed list.
+0-ID: 29
+1-Name: Jardin Botanique de la Ville et de l'Universite de BESANCON 
+2-Date founded: 1957
+2-Info:              Institution Code: BESN;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique de la Ville et de l'Universite de BESANCON        Location: BESANCON; Founded: end of 16th C and 1957on the site; Garden Name: Jardin Botanique de la Ville et de l'Universite de Besancon‚; Address: Universite de Franche-Comte, 1, rue Goudimel, 25030, BESANCON Cedex.; Situated: Place Marechal Leclerc, F-2;                        Main Address:;         Jardin Botanique de la Ville et de l'Universite de BESANCON;         Universite de Franche-Comte 1, rue Goudinet 25030 BESANCON Cedex FRANCE;                Besancon;        France;        ;                 Telephone: 33 3 81 66 56 69;         Fax: 33 3 81 66 57 62;         URL: ;         Primary Email: jardbotan.besancon@univ-fcomte.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.2412
+2-Longitude: 6.0255
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=29">Please click here if you can update us</a>
+4-Special Collections: Bog plants, medicinal plants (200 spp.), aquatics (70 spp.), plants from the Guianas (750 taxa), tropical plants (1,320 spp.), woody plants in the arboretum (230 spp.). Systematic collection (900 spp.) Produces a regular seed list.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=29">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=29">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=29">Please click here if you can update us</a>
+9-About the Jardin Botanique de la Ville et de l'Universite de BESANCON        Location: BESANCON
+9-Address: Universite de Franche-Comte, 1, rue Goudimel, 25030, BESANCON Cedex.
+9-BGCI Member: No
+9-Fax: 33 3 81 66 57 62
+9-Founded: end of 16th C and 1957on the site
+9-Garden Name: Jardin Botanique de la Ville et de l'Universite de Besancon‚
+9-Institution Code: BESN
+9-International Agenda Registration: No
+9-Primary Email: jardbotan.besancon@univ-fcomte.fr
+9-Situated: Place Marechal Leclerc, F-2
+9-Telephone: 33 3 81 66 56 69
+9-URL: 

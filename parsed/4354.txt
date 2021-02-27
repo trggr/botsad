@@ -1,37 +1,42 @@
-ID:	4354
-Name:	Alcsúti Arboretum 
-Fax:	+3622353061
-Info:	  Hungary - Alcsútdoboz  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	arboretuma@externet.hu
-Telephone:	+36204248995
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	Ferenc HALÁSZ
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	134.00 Metres
-Annual Rainfall:	600 mm
-Date founded:	1820
-Institution Type:	Botanic Garden
-Latitude:	47.423333
-Local Address:	
-Locality:	Information
-Longitude:	18.598333
-Total Area:	40 Hectares
-Arboretum:	Yes
-Arboretum Size:	40
-Disabled access:	Yes
-Friends society:	Yes
-Number of Visitors:	30000
-Number of Volunteers:	200
-Open to public:	Yes
-Ex Situ Conservation Programme:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	Yes
+0-ID: 4354
+1-Name: Alcsúti Arboretum 
+2-Administration Staff Number: 2
+2-Curator's Name: 
+2-Director's Name: Ferenc HALÁSZ
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4354/sycamore.jpg" alt="" />         </div>        </div>                           About the Alcsúti Arboretum        The Alcsúti Arboretum is probably the most original landscape garden in Hungary. It is situated next to the village of Alcsútdoboz in Fejér county, 40 kms SW from Budapest, between the M1 and the M7 motorways in the magnificent Valley of Vál along the 811 main road.;  ;  This tranquil 100 acre (ca. 40 hectares) garden was founded by the Habsburgs in the 1820s, when Joseph Palatin had one of Hungary's most attractive classicist-style palaces erected. The park was designed by Carl Tost – a gardener master at Schönbrunn, in Austria – and several hundred exotic and indigenous species of plants were planted. ;  ;  In 1872 a wonderful Palm House – designed by Miklós Ybl – was attached to the palace and a watering system was created, and the fountain of an arthesian well supplied the lake with crystal clear water from a depth of 123 metres.;  ;  The rare collection of trees and shrubs is a nature protected arboretum, and is part of the National Heritage. The park is open to the public and provides different programmes all year round. There are more than 600 taxa that can be studied.;  ;  The chapel is home for wedding ceremonies, concerts and different exhibitions.;  ;  The Alcsút Botanic Garden is open every day (except stormy weather) from 10 am until sunset.;  ;  Groups can ask for guided tours in any languages. (registration one week in advance if other than English or German);  ;  Registration per mail arboretuma@externet.hu or call+36 20 424 8995;                        Main Address:;         Alcsúti Arboretum;         Kastélykert;                Alcsútdoboz;        8087 Hungary;        ;                 Telephone: +36204248995;         Fax: +3622353061;         URL: http://www.alcsutiarboretum.hu;         Primary Email: arboretuma@externet.hu       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 134.00 Metres
+3-Annual Rainfall: 600 mm
+3-Date founded: 1820
+3-Institution Type: Botanic Garden
+3-Latitude: 47.423333
+3-Local Address: 
+3-Locality: Information
+3-Longitude: 18.598333
+3-Total Area: 40 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 40
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Number of Visitors: 30000
+4-Number of Volunteers: 200
+4-Open to public: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4354">Please click here if you can update us</a>
+6-Ex Situ Conservation Programme: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4354">Please click here if you can update us</a>
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: +3622353061
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: arboretuma@externet.hu
+9-Telephone: +36204248995

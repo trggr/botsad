@@ -1,52 +1,55 @@
-ID:	403
-Name:	Botanischer Garten und Rhododendron-Park 
-Fax:	+49 (0) 421 3427 066 20
-Info:	  Germany - Deutschland - Bremen  ;Garden Information;  Institution Code: BREMR; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	info@rhododendronpark-bremen.de
-Telephone:	+49 (0) 421 427 066 15
-Administration Staff Number:	4
-Curator's Name:	Dr Hartwig Schepker
-Director's Name:	Dr Hartwig Schepker
-Educational Staff Number:	
-Horticultural Staff Number:	22
-Plant Records Officer's Name:	Dr Hartwig Schepker
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	750 mm
-Date founded:	1937
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	53.1091
-Longitude:	8.8553
-Natural Vegetation Area:	Yes
-Total Area:	46 Hectares
-Total area of glasshouses:	6000 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Number of Visitors:	300000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Hydrangeas:	more than 100 species and cultivars
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Horticulture:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 403
+1-Name: Botanischer Garten und Rhododendron-Park 
+2-Administration Staff Number: 4
+2-Curator's Name: Dr Hartwig Schepker
+2-Director's Name: Dr Hartwig Schepker
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 22
+2-Info:              Institution Code: BREMR;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/403/Rhododendron-Park Bremen_Bildautor Hartwig Schepker_klein.jpg" alt="Woodland Garden in the Bremen Rhododendron-Park" />         Woodland Garden in the Bremen Rhododendron-Park</div>        </div>                           About the Botanischer Garten und Rhododendron-Park        The Botanic Garden and Rhododendronpark Bremen holds the world's second largest collection of rhododendrons and azaleas with about 600 species and subspecies (including vireyas) and more than 3300 verified and labelled cultivars. Depending on their growing conditions the rhodendrons are displayed either in woodlands, in rock-garden situations or in greenhouses.;                        Main Address:;         Botanischer Garten und Rhododendron-Park;         Deliusweg 40;                Bremen;        D-28359 Germany - Deutschland;        ;                 Telephone: +49 (0) 421 427 066 15;         Fax: +49 (0) 421 3427 066 20;         URL: http://www.rhododendronpark-bremen.de/;         Primary Email: info@rhododendronpark-bremen.de       ;              
+2-Plant Records Officer's Name: Dr Hartwig Schepker
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 750 mm
+3-Date founded: 1937
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 53.1091
+3-Longitude: 8.8553
+3-Natural Vegetation Area: Yes
+3-Total Area: 46 Hectares
+3-Total area of glasshouses: 6000 Metres
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Number of Visitors: 300000
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Hydrangeas: more than 100 species and cultivars
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Horticulture: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: +49 (0) 421 3427 066 20
+9-Institution Code: BREMR
+9-International Agenda Registration: No
+9-Primary Email: info@rhododendronpark-bremen.de
+9-Telephone: +49 (0) 421 427 066 15

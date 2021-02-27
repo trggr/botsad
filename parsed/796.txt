@@ -1,11 +1,20 @@
-ID:	796
-Name:	Prague Zoo 
-Curator's Name:	Ing. M. Kucera
-Director's Name:	Dr. M. Kalas
-Info:	  Czech Republic - Prague  ;Garden Information;  Institution Code: PRAHZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Prague Zoo; U Trojskeho Zamku 120, 171 00 PRAHA 7 - TROJA, Czech Republic.; Prague; Czech Republic; ;  Telephone: 84 27 47; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1931
-Institution Type:	Zoological Institution
-Latitude:	50.1209
-Longitude:	14.4208
+0-ID: 796
+1-Name: Prague Zoo 
+2-Altitude: 0.00 Metres
+2-Date founded: 1931
+2-Info:              Institution Code: PRAHZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Prague Zoo;         U Trojskeho Zamku 120,  171 00 PRAHA 7 - TROJA,  Czech Republic.;                Prague;        Czech Republic;        ;                 Telephone: 84 27 47;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 50.1209
+2-Longitude: 14.4208
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=796">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=796">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=796">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=796">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=796">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PRAHZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 84 27 47
+9-URL: 

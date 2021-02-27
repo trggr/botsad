@@ -1,47 +1,48 @@
-ID:	2512
-Name:	Springs Preserve, The 
-Administration Staff Number:	4
-Curator's Name:	
-Director's Name:	Julie Wilcox, Director
-Educational Staff Number:	5
-Horticultural Staff Number:	11
-Info:	  United States of America - Nevada - Las Vegas  ;Garden Information;  Institution Code: LVSP; International Agenda Registration: No; BGCI Member: No; About the Springs Preserve, The With a focus on arid plants and sustainable methods to grow and live in a desert environment, the Springs Preserve showcases gardening, irrigation, LEED platinum buildings, a biofiltration wetland, and several display gardens. Our Mojave succulent collection is part of the Plant Collections Network through the American Public Gardens Association.;  Main Address:; Springs Preserve, The; P.O. Box 98947; Las Vegas; Nevada 89193 United States of America; ;  Telephone: (702) 822-7700; Fax: (702) 822-8453; URL: <a target="_blank" href="http://www.springspreserve.org">www.springspreserve.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	620.00 Metres
-Annual Rainfall:	100 mm
-Date founded:	2007
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	36.1692700
-Longitude:	-115.1906500
-Natural Vegetation Area:	Yes
-Total Area:	444 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	260000
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Local native plants, cacti and succulents - emphasis on water conservation landscaping and xerophytic plant gardens.
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Invasive Species Biology and Control:	Yes
-Sustainability:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 2512
+1-Name: Springs Preserve, The 
+2-Altitude: 620.00 Metres
+2-Annual Rainfall: 100 mm
+2-Date founded: 2007
+2-Info:              Institution Code: LVSP;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Springs Preserve, The        With a focus on arid plants and sustainable methods to grow and live in a desert environment, the Springs Preserve showcases gardening, irrigation, LEED platinum buildings, a biofiltration wetland, and several display gardens. Our Mojave succulent collection is part of the Plant Collections Network through the American Public Gardens Association.;                        Main Address:;         Springs Preserve, The;         P.O. Box 98947;                Las Vegas;        Nevada 89193 United States of America;        ;                 Telephone: (702) 822-7700;         Fax: (702) 822-8453;         URL: www.springspreserve.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 36.1692700
+2-Longitude: -115.1906500
+2-Natural Vegetation Area: Yes
+2-Total Area: 444 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 260000
+3-Number of Volunteers: 100
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Local native plants, cacti and succulents - emphasis on water conservation landscaping and xerophytic plant gardens.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2512">Please click here if you can update us</a>
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Invasive Species Biology and Control: Yes
+6-Sustainability: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: (702) 822-8453
+9-Institution Code: LVSP
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (702) 822-7700
+9-URL: www.springspreserve.org

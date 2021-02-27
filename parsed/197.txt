@@ -1,18 +1,24 @@
-ID:	197
-Name:	Botanical and Experimental Garden, Radboud University 
-Curator's Name:	Gerard M. van der Weeren
-Director's Name:	Prof. Dr. Hans de Kroon
-Info:	  Netherlands - The Netherlands - Nijmegen  ;Garden Information;  Institution Code: NIJ; International Agenda Registration: No; BGCI Member: No; About the Botanical and Experimental Garden, Radboud University University Botanical and Experimental Garden;  Main Address:; Botanical and Experimental Garden, Radboud University; Toernooiveld 11; Nijmegen; The Netherlands 6525 ED Netherlands; ;  Telephone: +31 (0)24 3652883; Fax: +31 (0)24 3653290; URL: <a target="_blank" href="http://www.bgard.science.ru.nl">www.bgard.science.ru.nl; Primary Email: g.vanderweerden@science.ru.nl ; 
-Plant Records Officer's Name:	
-Date founded:	1959
-Institution Type:	Botanic Garden
-Latitude:	51.8416
-Longitude:	5.8586
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Seed Bank:	Yes
-Special Collections:	Member of NPC specialising in non-tuberbearing Solanaceae.
-Data Management Systems and Information Technology:	Yes
-Ethnobotany:	Yes
-Molecular Genetics:	Yes
-Systematics and Taxonomy:	Yes
+0-ID: 197
+1-Name: Botanical and Experimental Garden, Radboud University 
+2-Date founded: 1959
+2-Info:              Institution Code: NIJ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Botanical and Experimental Garden, Radboud University        University Botanical and Experimental Garden;                        Main Address:;         Botanical and Experimental Garden, Radboud University;         Toernooiveld 11;                Nijmegen;        The Netherlands 6525 ED Netherlands;        ;                 Telephone: +31 (0)24 3652883;         Fax: +31 (0)24 3653290;         URL: www.bgard.science.ru.nl;         Primary Email: g.vanderweerden@science.ru.nl       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.8416
+2-Longitude: 5.8586
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Seed Bank: Yes
+4-Special Collections: Member of NPC specialising in non-tuberbearing Solanaceae.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=197">Please click here if you can update us</a>
+6-Data Management Systems and Information Technology: Yes
+6-Ethnobotany: Yes
+6-Molecular Genetics: Yes
+6-Systematics and Taxonomy: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=197">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +31 (0)24 3653290
+9-Institution Code: NIJ
+9-International Agenda Registration: No
+9-Primary Email: g.vanderweerden@science.ru.nl
+9-Telephone: +31 (0)24 3652883
+9-URL: www.bgard.science.ru.nl

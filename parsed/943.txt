@@ -1,11 +1,19 @@
-ID:	943
-Name:	Andhra University Experimental Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Waltair  ;Garden Information;  Institution Code: WALTU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Andhra University Experimental Garden; Department of Botany, Andhra University, WALTAIR, Visakhapatnam 530 003, Andhra Pradesh, India.; Waltair; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.bolsasecologicasmexico.com">www.bolsasecologicasmexico.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	17.7149
-Longitude:	83.3111
-Special Collections:	Medicinal and poisonous plants.
+0-ID: 943
+1-Name: Andhra University Experimental Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: WALTU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Andhra University Experimental Garden;         Department of Botany, Andhra University, WALTAIR, Visakhapatnam 530 003, Andhra Pradesh, India.;                Waltair;        India;        ;                 Telephone: ;         Fax: ;         URL: www.bolsasecologicasmexico.com;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 17.7149
+2-Longitude: 83.3111
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=943">Please click here if you can update us</a>
+4-Special Collections: Medicinal and poisonous plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=943">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=943">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=943">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WALTU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.bolsasecologicasmexico.com

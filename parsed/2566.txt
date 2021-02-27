@@ -1,12 +1,26 @@
-ID:	2566
-Name:	Conservatoire National des Plantes medicinales, aromatiques et industrielles 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Milly-la-foret  ;Garden Information;  Institution Code: MILLY; International Agenda Registration: No; BGCI Member: No; About the Conservatoire National des Plantes medicinales, aromatiques et industrielles Location: MILLY-LA-FORET; Founded: 1987; Garden Name: Conservatoire National des Plantes medicinales, aromatiques et industrielles; Address: Route de Nemours, 91490 MILLY-LA-FORET; Status: Unknown.; Herbarium: Unknown; Ex situ Collections:; Perfume plants;  Main Address:; Conservatoire National des Plantes medicinales, aromatiques et industrielles; Route de Nemours 91490 MILLY-LA-FORET France; Milly-la-foret; France; ;  Telephone: 33 1 64 98 83 77; Fax: 33 1 64 98 88 63; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1987
-Institution Type:	Botanic Garden
-Latitude:	48.4188
-Longitude:	2.4770
-Special Collections:	Perfume plants, medicinal plants, aromatic plants, toxic plants, insecticide plants, Lavandula, Mentha, Salvia. Native medicinal plants of France.
+0-ID: 2566
+1-Name: Conservatoire National des Plantes medicinales, aromatiques et industrielles 
+2-Altitude: 0.00 Metres
+2-Date founded: 1987
+2-Info:              Institution Code: MILLY;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Conservatoire National des Plantes medicinales, aromatiques et industrielles        Location: MILLY-LA-FORET;  Founded: 1987;  Garden Name: Conservatoire National des Plantes medicinales, aromatiques et industrielles;  Address: Route de Nemours, 91490 MILLY-LA-FORET;  Status: Unknown.;  Herbarium: Unknown;  Ex situ Collections:;  Perfume plants;                        Main Address:;         Conservatoire National des Plantes medicinales, aromatiques et industrielles;         Route de Nemours 91490 MILLY-LA-FORET France;                Milly-la-foret;        France;        ;                 Telephone: 33 1 64 98 83 77;         Fax: 33 1 64 98 88 63;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.4188
+2-Longitude: 2.4770
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2566">Please click here if you can update us</a>
+4-Special Collections: Perfume plants, medicinal plants, aromatic plants, toxic plants, insecticide plants, Lavandula, Mentha, Salvia. Native medicinal plants of France.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2566">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2566">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2566">Please click here if you can update us</a>
+9-About the Conservatoire National des Plantes medicinales, aromatiques et industrielles        Location: MILLY-LA-FORET
+9-Address: Route de Nemours, 91490 MILLY-LA-FORET
+9-BGCI Member: No
+9-Fax: 33 1 64 98 88 63
+9-Founded: 1987
+9-Garden Name: Conservatoire National des Plantes medicinales, aromatiques et industrielles
+9-Herbarium: Unknown
+9-Institution Code: MILLY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: Unknown.
+9-Telephone: 33 1 64 98 83 77
+9-URL: 

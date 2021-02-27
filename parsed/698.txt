@@ -1,19 +1,24 @@
-ID:	698
-Name:	Rutgers Gardens 
-Curator's Name:	Monica McLaughin, Horticulturist
-Director's Name:	Bruce Crawford, Director
-Info:	  United States of America - New Jersey - New Brunswick  ;Garden Information;  Institution Code: RUTG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Rutgers Gardens; Cook College/Rutgers University; 112 Ryders Lane; New Brunswick; New Jersey 08901-8519 United States of America; ;  Telephone: (732) 932-8451; Fax: (732) 932-7060; URL: <a target="_blank" href="http://rutgersgardens.rutgers.edu">http://rutgersgardens.rutgers.edu; Primary Email: rugardens@aesop.rutgers.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1934
-Institution Type:	Botanic Garden
-Latitude:	40.4683520
-Longitude:	-74.4266460
-Total Area:	20 Hectares
-Number of Volunteers:	70
-Open to public:	Yes
-Special Collections:	Rhododendron, Azalea, Ilex crenata, flowering dogwoods, bamboos.
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 698
+1-Name: Rutgers Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1934
+2-Info:              Institution Code: RUTG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Rutgers Gardens;         Cook College/Rutgers University;        112 Ryders Lane;        New Brunswick;        New Jersey 08901-8519 United States of America;        ;                 Telephone: (732) 932-8451;         Fax: (732) 932-7060;         URL: http://rutgersgardens.rutgers.edu;         Primary Email: rugardens@aesop.rutgers.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.4683520
+2-Longitude: -74.4266460
+2-Total Area: 20 Hectares
+3-Number of Volunteers: 70
+3-Open to public: Yes
+4-Special Collections: Rhododendron, Azalea, Ilex crenata, flowering dogwoods, bamboos.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=698">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=698">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (732) 932-7060
+9-Institution Code: RUTG
+9-International Agenda Registration: No
+9-Primary Email: rugardens@aesop.rutgers.edu
+9-Telephone: (732) 932-8451

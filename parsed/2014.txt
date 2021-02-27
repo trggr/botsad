@@ -1,10 +1,19 @@
-ID:	2014
-Name:	Institute fur Biologie der Technischen Universitat Berlin 
-Curator's Name:	
-Director's Name:	
-Info:	  Germany - Deutschland - Berlin  ;Garden Information;  Institution Code: BTU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Institute fur Biologie der Technischen Universitat Berlin; Franklinstrasse 28-29, D-10587 BERLIN, Germany.; Berlin; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	52.5182
-Longitude:	13.3167
+0-ID: 2014
+1-Name: Institute fur Biologie der Technischen Universitat Berlin 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BTU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Institute fur Biologie der Technischen Universitat Berlin;         Franklinstrasse 28-29, D-10587 BERLIN,  Germany.;                Berlin;        Germany - Deutschland;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 52.5182
+2-Longitude: 13.3167
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2014">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2014">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2014">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2014">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2014">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BTU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

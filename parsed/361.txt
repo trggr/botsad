@@ -1,34 +1,36 @@
-ID:	361
-Name:	Průhonice Park 
-Administration Staff Number:	5
-Curator's Name:	
-Director's Name:	Jiří Šmída (head of park)
-Educational Staff Number:	
-Horticultural Staff Number:	20
-Info:	  Czech Republic - Průhonice  ;Garden Information;  Institution Code: PRUZA; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Průhonice Park The natural park (area of 250 hectares) was founded in the year 1885 by Count Arnošt Emanuel Silva-Tarouca. He took advantage of the miscellaneous valley of the stream Botic and its tributaries, the Dobřejovický and Zdiměřický streams. He introduced both native and woody species in to the park. The bases of the park composition were open spaces, that he set up in a brilliant way. He combined woody plants, groups of trees and brushes with meadows, ponds, streams and their dead meanders. He used the changeability of woody plants in different seasons of the year with great skill. The result of his lifelong hard work is an original masterpiece of garden landscape architecture of worldwide importance.; ; Apart from its artistic and historic significance, the park is also valuable from the dendrological point of view with its collection of about 1,600 species of local and exotic plants. The collection of rhododendrons is particularly unique. There are about 8,000 rhododendrons within 100 taxa and cultivars.;  Main Address:; Průhonice Park; Institute of Botany, Czech Academy of Science; Zamek 1; Průhonice; 252 43 Czech Republic; ;  Telephone: +420 271015282; Fax: ; URL: <a target="_blank" href="http://www.pruhonickypark.cz/cs/">http://www.pruhonickypark.cz/cs/; Primary Email: park@ibot.cas.cz ; 
-Plant Records Officer's Name:	Jiří Burda
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1885
-Institution Type:	Other
-Landscaped Area:	Yes
-Latitude:	50.0009
-Longitude:	14.5509
-Natural Vegetation Area:	Yes
-Total Area:	250 Hectares
-Arboretum:	Yes
-Arboretum Size:	250
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	2000
-Invasive Species Monitoring:	No
-Special Collections:	Dendroflora, rockplants
-Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
+0-ID: 361
+1-Name: Průhonice Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 1885
+2-Info:              Institution Code: PRUZA;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level III       ;                                          About the Průhonice Park        The natural park (area of 250 hectares) was founded in the year 1885 by Count Arnošt Emanuel Silva-Tarouca. He took advantage of the miscellaneous valley of the stream Botic and its tributaries, the Dobřejovický and Zdiměřický streams. He introduced both native and woody species in to the park. The bases of the park composition were open spaces, that he set up in a brilliant way. He combined woody plants, groups of trees and brushes with meadows, ponds, streams and their dead meanders. He used the changeability of woody plants in different seasons of the year with great skill. The result of his lifelong hard work is an original masterpiece of garden landscape architecture of worldwide importance.;  ;  Apart from its artistic and historic significance, the park is also valuable from the dendrological point of view with its collection of about 1,600 species of local and exotic plants. The collection of rhododendrons is particularly unique. There are about 8,000 rhododendrons within 100 taxa and cultivars.;                        Main Address:;         Průhonice Park;         Institute of Botany, Czech Academy of Science;        Zamek 1;        Průhonice;        252 43 Czech Republic;        ;                 Telephone: +420 271015282;         Fax: ;         URL: http://www.pruhonickypark.cz/cs/;         Primary Email: park@ibot.cas.cz       ;              
+2-Institution Type: Other
+2-Landscaped Area: Yes
+2-Latitude: 50.0009
+2-Longitude: 14.5509
+2-Natural Vegetation Area: Yes
+2-Total Area: 250 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 250
+3-Computer Plant Record System: Yes
+3-Disabled access: No
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Cultivation Taxa Num: 2000
+4-Invasive Species Monitoring: No
+4-Special Collections: Dendroflora, rockplants
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=361">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=361">Please click here if you can update us</a>
+9-ArbNet Accredited: Level III
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PRUZA
+9-International Agenda Registration: No
+9-Primary Email: park@ibot.cas.cz
+9-Telephone: +420 271015282

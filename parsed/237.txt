@@ -1,11 +1,19 @@
-ID:	237
-Name:	Ural State University Botanical Garden 
-Curator's Name:	
-Director's Name:	Dr. G. P. Fedoseeva
-Info:	  Russian Federation - Ekaterinburg  ;Garden Information;  Institution Code: SVUR; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Ural State University Botanical Garden; Prospekt Lenina 51, 620083 Ekaterinburg, K-83, Russian Federation; Ekaterinburg; Russian Federation; ;  Telephone: 7 3432 616692; Fax: 7 3432 557401; URL: <a target="_blank" href="http://www.usu.ru">www.usu.ru; Primary Email: olga.doschennikova@usu.ru ; 
-Plant Records Officer's Name:	
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	56.8378
-Longitude:	60.5968
-Special Collections:	Rare and endangered plants of the Urals, Trifolium, Festuca, Allium. alpines, ferns, potato and other crop plants.
+0-ID: 237
+1-Name: Ural State University Botanical Garden 
+2-Date founded: 1969
+2-Info:              Institution Code: SVUR;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Ural State University Botanical Garden;         Prospekt Lenina 51, 620083 Ekaterinburg, K-83, Russian Federation;                Ekaterinburg;        Russian Federation;        ;                 Telephone: 7 3432 616692;         Fax: 7 3432 557401;         URL: www.usu.ru;         Primary Email: olga.doschennikova@usu.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 56.8378
+2-Longitude: 60.5968
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=237">Please click here if you can update us</a>
+4-Special Collections: Rare and endangered plants of the Urals, Trifolium, Festuca, Allium. alpines, ferns, potato and other crop plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=237">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=237">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=237">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 7 3432 557401
+9-Institution Code: SVUR
+9-International Agenda Registration: Yes
+9-Primary Email: olga.doschennikova@usu.ru
+9-Telephone: 7 3432 616692
+9-URL: www.usu.ru

@@ -1,9 +1,17 @@
-ID:	5483
-Name:	Queen Kapiʻolani Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Hawaii - Honululu  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Queen Kapiʻolani Garden; Paki Avenue; Honululu; Hawaii 96815 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://www.to-hawaii.com/oahu/gardens/queenkapiolanigarden.php">https://www.to-hawaii.com/oahu/gardens/queenkapiolanigarden.php; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	21.270799
-Longitude:	-157.815547
+0-ID: 5483
+1-Name: Queen Kapiʻolani Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Queen Kapiʻolani Garden;         Paki Avenue;                Honululu;        Hawaii 96815 United States of America;        ;                 Telephone: ;         Fax: ;         URL: https://www.to-hawaii.com/oahu/gardens/queenkapiolanigarden.php;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.270799
+2-Longitude: -157.815547
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5483">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5483">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5483">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5483">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5483">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

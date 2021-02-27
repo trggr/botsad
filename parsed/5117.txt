@@ -1,11 +1,18 @@
-ID:	5117
-Name:	National Museum "d'Histoire Naturelle"- Seed Bank 
-Curator's Name:	
-Director's Name:	-
-Info:	  France - Paris  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Museum "d'Histoire Naturelle"- Seed Bank; 57 Rue Cuvier; Paris; 75005 France; ;  Telephone: +33 1 40 79 56 01; Fax: ; URL: <a target="_blank" href="https://www.mnhn.fr/fr">https://www.mnhn.fr/fr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	48.844335
-Longitude:	2.356232
-Seed Bank:	Yes
+0-ID: 5117
+1-Name: National Museum "d'Histoire Naturelle"- Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Museum "d'Histoire Naturelle"- Seed Bank;         57 Rue Cuvier;                Paris;        75005 France;        ;                 Telephone: +33 1 40 79 56 01;         Fax: ;         URL: https://www.mnhn.fr/fr;         Primary Email:        ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 48.844335
+2-Longitude: 2.356232
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5117">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5117">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5117">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5117">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +33 1 40 79 56 01

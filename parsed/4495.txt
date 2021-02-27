@@ -1,9 +1,18 @@
-ID:	4495
-Name:	Spartanburg Community College Arboretum 
-Curator's Name:	Kevin Parris, Arboretum Coordinator
-Director's Name:	Jason Bagwell, Department Chair
-Info:	  United States of America - South Carolina - Spartanburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Spartanburg Community College Arboretum; Spartanburg Community College - Horticulture Department; P.O. Box 4386; Spartanburg; South Carolina 29305 United States of America; ;  Telephone: (864) 592-4646; Fax: (864) 592-4708; URL: <a target="_blank" href="http://www.sccsc.edu/academics/programs/hort/arboretum.asp">www.sccsc.edu/academics/programs/hort/arboretum.asp; Primary Email: parrisk@sccsc.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	34.9740790
-Longitude:	-81.9930200
+0-ID: 4495
+1-Name: Spartanburg Community College Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Spartanburg Community College Arboretum;         Spartanburg Community College - Horticulture Department;        P.O. Box 4386;        Spartanburg;        South Carolina 29305 United States of America;        ;                 Telephone: (864) 592-4646;         Fax: (864) 592-4708;         URL: www.sccsc.edu/academics/programs/hort/arboretum.asp;         Primary Email: parrisk@sccsc.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.9740790
+2-Longitude: -81.9930200
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4495">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4495">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4495">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4495">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4495">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (864) 592-4708
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: parrisk@sccsc.edu
+9-Telephone: (864) 592-4646
+9-URL: www.sccsc.edu/academics/programs/hort/arboretum.asp

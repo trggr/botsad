@@ -1,11 +1,19 @@
-ID:	1370
-Name:	Curepipe Botanic Gardens 
-Curator's Name:	
-Director's Name:	Municipal Authorities
-Info:	  Mauritius - Curepipe  ;Garden Information;  Institution Code: CURE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Curepipe Botanic Gardens; c/o The Conservator of Forests; Forestry Service; Curepipe; Mauritius; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-20.3291
-Longitude:	57.5244
-Special Collections:	Trees and shrubs, ornamentals. A small collection of native spp.
+0-ID: 1370
+1-Name: Curepipe Botanic Gardens 
+2-Date founded: 
+2-Info:              Institution Code: CURE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Curepipe Botanic Gardens;         c/o The Conservator of Forests;        Forestry Service;        Curepipe;        Mauritius;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -20.3291
+2-Longitude: 57.5244
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1370">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs, ornamentals. A small collection of native spp.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1370">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1370">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1370">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CURE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

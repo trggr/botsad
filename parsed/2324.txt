@@ -1,11 +1,20 @@
-ID:	2324
-Name:	Desert Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Jodhpur  ;Garden Information;  Institution Code: ICAR; International Agenda Registration: No; BGCI Member: No; About the Desert Botanic Garden 1.Ganga Niwas Garden, Jodhpur has a collection of 110 trees and 300 shrubs of botanical and horticultural interest. (Inspector of Garden, Garden Department, Bikaner, Dist.: Bikaner, Rajasthan.; 2. Mandore Garden, Jodhpur contains a collection of 1,200 tre;  Main Address:; Desert Botanic Garden; Division of Natural Resources and Environment, Central Arid Zone Research Institute(I.C.A.R.), JODH; Jodhpur; India; ;  Telephone: 91 291 740534; Fax: 91 291 740706; URL: <a target="_blank" href="http://">; Primary Email: skumar@cazri.raj.nic.in ; 
-Plant Records Officer's Name:	
-Date founded:	1963
-Institution Type:	Botanic Garden
-Latitude:	26.2816
-Longitude:	73.0231
-Special Collections:	Arid and semi-arid plants.
+0-ID: 2324
+1-Name: Desert Botanic Garden 
+2-Date founded: 1963
+2-Info:              Institution Code: ICAR;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Desert Botanic Garden        1.Ganga Niwas Garden, Jodhpur has a collection of 110 trees and 300 shrubs of botanical and horticultural interest. (Inspector of Garden, Garden Department, Bikaner, Dist.: Bikaner, Rajasthan.; 2. Mandore Garden, Jodhpur contains a collection of 1,200 tre;                        Main Address:;         Desert Botanic Garden;         Division of Natural Resources and Environment, Central Arid Zone Research Institute(I.C.A.R.),  JODH;                Jodhpur;        India;        ;                 Telephone: 91 291 740534;         Fax: 91 291 740706;         URL: ;         Primary Email: skumar@cazri.raj.nic.in       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 26.2816
+2-Longitude: 73.0231
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2324">Please click here if you can update us</a>
+4-Special Collections: Arid and semi-arid plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2324">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2324">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2324">Please click here if you can update us</a>
+9-About the Desert Botanic Garden        1.Ganga Niwas Garden, Jodhpur has a collection of 110 trees and 300 shrubs of botanical and horticultural interest. (Inspector of Garden, Garden Department, Bikaner, Dist.: Bikaner, Rajasthan.
+9-BGCI Member: No
+9-Fax: 91 291 740706
+9-Institution Code: ICAR
+9-International Agenda Registration: No
+9-Primary Email: skumar@cazri.raj.nic.in
+9-Telephone: 91 291 740534
+9-URL: 

@@ -1,11 +1,19 @@
-ID:	3422
-Name:	Botanical Garden of Adiygeja State University / ???????????? ??? ??????????? ??????????????? 
-Curator's Name:	
-Director's Name:	Tatyana Tolstikova, Head of Herbarium
-Info:	  Russian Federation - Republic of Adygeya - Maykop  ;Garden Information;  Institution Code: MAIK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of Adiygeja State University / ???????????? ??? ??????????? ???????????????; 208 Pervomajskaja Street; Maykop; Republic of Adygeya 352700 Russian Federation; ;  Telephone: (87722) 984-35/56, (87722) 423-50; Fax: (87722) 213-74; URL: <a target="_blank" href="http://www.adygnet.ru">www.adygnet.ru; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	44.6091
-Longitude:	40.1132
-Herbarium:	Yes
+0-ID: 3422
+1-Name: Botanical Garden of Adiygeja State University / ???????????? ??? ??????????? ??????????????? 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MAIK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden of Adiygeja State University / ???????????? ??? ??????????? ???????????????;         208 Pervomajskaja Street;                Maykop;        Republic of Adygeya 352700 Russian Federation;        ;                 Telephone: (87722) 984-35/56, (87722) 423-50;         Fax: (87722) 213-74;         URL: www.adygnet.ru;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.6091
+2-Longitude: 40.1132
+3-Herbarium: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3422">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3422">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3422">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3422">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (87722) 213-74
+9-Institution Code: MAIK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (87722) 984-35/56, (87722) 423-50
+9-URL: www.adygnet.ru

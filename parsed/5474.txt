@@ -1,7 +1,16 @@
-ID:	5474
-Name:	The Blount-Bridgers Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - North Carolina - Tarboro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; The Blount-Bridgers Gardens; 130 Bridgers Street; Tarboro; North Carolina 27866 United States of America; ;  Telephone: Owensc227@gmail.com; Fax: ; URL: <a target="_blank" href="https://www.visitnc.com/listing/fRur/blount-bridgers-house-hobson-pittman-memorial-gallery">https://www.visitnc.com/listing/fRur/blount-bridgers-house-hobson-pittman-memorial-gallery; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5474
+1-Name: The Blount-Bridgers Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         The Blount-Bridgers Gardens;         130 Bridgers Street;                Tarboro;        North Carolina 27866 United States of America;        ;                 Telephone: Owensc227@gmail.com;         Fax: ;         URL: https://www.visitnc.com/listing/fRur/blount-bridgers-house-hobson-pittman-memorial-gallery;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5474">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5474">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5474">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5474">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5474">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: Owensc227@gmail.com

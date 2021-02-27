@@ -1,12 +1,20 @@
-ID:	5340
-Name:	Jardín Botánico Nacional Simón Bolívar - seed bank 
-Curator's Name:	Fernando Cabezas
-Director's Name:	Yolanda Matamoros
-Info:	  Costa Rica - San José  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Jardín Botánico Nacional Simón Bolívar - seed bank; Calle 13; San José; 1000 Costa Rica; ;  Telephone: (506) 22336701; Fax: ; URL: <a target="_blank" href="http://fundazoo.org">fundazoo.org; Primary Email: info@fundazoo.org ; 
-Plant Records Officer's Name:	Jorge Rodríguez
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	9.9386739
-Longitude:	-84.074436
-Arboretum:	Yes
-Open to public:	Yes
+0-ID: 5340
+1-Name: Jardín Botánico Nacional Simón Bolívar - seed bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Jardín Botánico Nacional Simón Bolívar - seed bank;         Calle 13;                San José;        1000 Costa Rica;        ;                 Telephone: (506) 22336701;         Fax: ;         URL: fundazoo.org;         Primary Email: info@fundazoo.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.9386739
+2-Longitude: -84.074436
+3-Arboretum: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5340">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5340">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5340">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5340">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: info@fundazoo.org
+9-Telephone: (506) 22336701
+9-URL: fundazoo.org

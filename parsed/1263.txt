@@ -1,12 +1,20 @@
-ID:	1263
-Name:	Ankara Universitesi 
-Curator's Name:	
-Director's Name:	Prof.Dr.Yildirim Akman
-Info:	  Turkey - Ankara  ;Garden Information;  Institution Code: ANK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ankara Universitesi; Fen Fakultesi, Botanik Bahcesi, Biyoloji Bolumu, Tandogan, ANKARA, Turkey.; Ankara; Turkey; ;  Telephone: 2236550; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1950
-Institution Type:	Other
-Latitude:	39.9438
-Longitude:	32.8560
-Special Collections:	No information available.
+0-ID: 1263
+1-Name: Ankara Universitesi 
+2-Altitude: 0.00 Metres
+2-Date founded: 1950
+2-Info:              Institution Code: ANK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ankara Universitesi;         Fen Fakultesi, Botanik Bahcesi,  Biyoloji Bolumu,  Tandogan, ANKARA,  Turkey.;                Ankara;        Turkey;        ;                 Telephone: 2236550;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 39.9438
+2-Longitude: 32.8560
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1263">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1263">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1263">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1263">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ANK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 2236550
+9-URL: 

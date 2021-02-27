@@ -1,11 +1,19 @@
-ID:	4257
-Name:	Gardens on Spring Creek, The 
-Curator's Name:	Laura Atwood, Horticulture Program Coordinator
-Director's Name:	Michelle Provaznik, Director
-Info:	  United States of America - Colorado - Fort Collins  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Gardens on Spring Creek, The The mission of The Gardens on Spring Creek is to enrich the lives of people and foster environmental stewardship through horticulture.;  Main Address:; Gardens on Spring Creek, The; 2145 S. Centre Avenue; Fort Collins; Colorado 80526 United States of America; ;  Telephone: (970) 416-2486; Fax: ; URL: <a target="_blank" href="http://www.fcgov.com/horticulture">www.fcgov.com/horticulture; Primary Email: gardens@fcgov.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.5623140
-Longitude:	-105.0849550
-Open to public:	Yes
+0-ID: 4257
+1-Name: Gardens on Spring Creek, The 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Gardens on Spring Creek, The        The mission of The Gardens on Spring Creek is to enrich the lives of people and foster environmental stewardship through horticulture.;                        Main Address:;         Gardens on Spring Creek, The;         2145 S. Centre Avenue;                Fort Collins;        Colorado 80526 United States of America;        ;                 Telephone: (970) 416-2486;         Fax: ;         URL: www.fcgov.com/horticulture;         Primary Email: gardens@fcgov.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.5623140
+2-Longitude: -105.0849550
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4257">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4257">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4257">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4257">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: gardens@fcgov.com
+9-Telephone: (970) 416-2486
+9-URL: www.fcgov.com/horticulture

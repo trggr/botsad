@@ -1,12 +1,21 @@
-ID:	3573
-Name:	Laizhou Rare and Endangered Species Arboretum (Xiamen) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Fujian - Fuzhou  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Laizhou Rare and Endangered Species Arboretum (Xiamen); Laizhou Town, Nanping City, Fujian, 353004, China; Fuzhou; Fujian China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	26.0750
-Local Address:	中国福建省南平市来舟镇，邮编 353004
-Locality:	Information
-Longitude:	119.3041
+0-ID: 3573
+1-Name: Laizhou Rare and Endangered Species Arboretum (Xiamen) 
+2-Date founded: 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Laizhou Rare and Endangered Species Arboretum (Xiamen);         Laizhou Town, Nanping City, Fujian, 353004, China;                Fuzhou;        Fujian China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 26.0750
+2-Local Address: 中国福建省南平市来舟镇，邮编 353004
+2-Locality: Information
+2-Longitude: 119.3041
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3573">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3573">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3573">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3573">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3573">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

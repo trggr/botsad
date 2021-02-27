@@ -1,11 +1,19 @@
-ID:	2334
-Name:	Botanic Garden of Scientific-Production Unity 
-Curator's Name:	
-Director's Name:	Dr Andrei N. Tzitzilin
-Info:	  Russian Federation - Moscow  ;Garden Information;  Institution Code: NPOVI; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanic Garden of Scientific-Production Unity; Russian Scientific Research Institute of Medicinal and Spice Plants, (NPO VILAR), St Grina, 7, NPO; Moscow; Russian Federation; ;  Telephone: (095) 7120654, 7120694; Fax: (095) 7120954, 3885509, 3888109.; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	55.7557
-Longitude:	37.6176
-Special Collections:	No information available.
+0-ID: 2334
+1-Name: Botanic Garden of Scientific-Production Unity 
+2-Date founded: 
+2-Info:              Institution Code: NPOVI;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Botanic Garden of Scientific-Production Unity;         Russian Scientific Research Institute of Medicinal and Spice Plants, (NPO VILAR), St Grina, 7, NPO;                Moscow;        Russian Federation;        ;                 Telephone: (095) 7120654, 7120694;         Fax: (095) 7120954, 3885509, 3888109.;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.7557
+2-Longitude: 37.6176
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2334">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2334">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2334">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2334">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (095) 7120954, 3885509, 3888109.
+9-Institution Code: NPOVI
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: (095) 7120654, 7120694
+9-URL: 

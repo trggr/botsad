@@ -1,12 +1,21 @@
-ID:	3367
-Name:	Salisbury University Arboretum 
-Curator's Name:	
-Director's Name:	Dr. Chris Briand, SU Professor of Biological Sciences
-Info:	  United States of America - Maryland - Salisbury  ;Garden Information;  Institution Code: SSUM; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ;  Main Address:; Salisbury University Arboretum; 1101 Camden Avenue; Salisbury; Maryland 21801 United States of America; ;  Telephone: (410) 543-6200; Fax: (410) 543-6188; URL: <a target="_blank" href="http://www.salisbury.edu/arboretum/">www.salisbury.edu/arboretum/; Primary Email: chbriand@salisbury.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1988
-Institution Type:	Botanic Garden
-Latitude:	38.3448840
-Longitude:	-75.6058860
-Computer Plant Record System:	Yes
+0-ID: 3367
+1-Name: Salisbury University Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1988
+2-Info:              Institution Code: SSUM;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level III       ;                                                   Main Address:;         Salisbury University Arboretum;         1101 Camden Avenue;                Salisbury;        Maryland 21801 United States of America;        ;                 Telephone: (410) 543-6200;         Fax: (410) 543-6188;         URL: www.salisbury.edu/arboretum/;         Primary Email: chbriand@salisbury.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.3448840
+2-Longitude: -75.6058860
+3-Computer Plant Record System: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3367">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3367">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3367">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3367">Please click here if you can update us</a>
+9-ArbNet Accredited: Level III
+9-BGCI Member: No
+9-Fax: (410) 543-6188
+9-Institution Code: SSUM
+9-International Agenda Registration: No
+9-Primary Email: chbriand@salisbury.edu
+9-Telephone: (410) 543-6200
+9-URL: www.salisbury.edu/arboretum/

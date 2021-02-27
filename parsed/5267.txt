@@ -1,9 +1,18 @@
-ID:	5267
-Name:	Southern California Montane Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - California - Oak Glen  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Southern California Montane Botanic Garden; Oak Glen Preserve; 39611 Oak Glen Road; Oak Glen; California 92399 United States of America; ;  Telephone: (909) 797-8507; Fax: ; URL: <a target="_blank" href="http://www.wildlandsconservancy.org/botanicgarden.html">www.wildlandsconservancy.org/botanicgarden.html; Primary Email: info@twc-ca.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	34.040489
-Longitude:	-116.941398
+0-ID: 5267
+1-Name: Southern California Montane Botanic Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Southern California Montane Botanic Garden;         Oak Glen Preserve;        39611 Oak Glen Road;        Oak Glen;        California 92399 United States of America;        ;                 Telephone: (909) 797-8507;         Fax: ;         URL: www.wildlandsconservancy.org/botanicgarden.html;         Primary Email: info@twc-ca.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.040489
+2-Longitude: -116.941398
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5267">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5267">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5267">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5267">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5267">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@twc-ca.org
+9-Telephone: (909) 797-8507
+9-URL: www.wildlandsconservancy.org/botanicgarden.html

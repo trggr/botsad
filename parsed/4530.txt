@@ -1,18 +1,22 @@
-ID:	4530
-Name:	Jardin Botánico Ambiental 
-Administration Staff Number:	11
-Curator's Name:	Lic. Roberto Quintana-Perdomo
-Director's Name:	Ricardo Rueda-Pereira, Ph.D.
-Educational Staff Number:	3
-Horticultural Staff Number:	4
-Info:	  Nicaragua - Leon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botánico Ambiental; Universidad Nacional Autonoma de Nicaragua-Leon; Facultad de Ciencias y Tecnologias; Leon; Nicaragua; ;  Telephone: 505-2310-0126; Fax: ; URL: <a target="_blank" href="http://jba.unanleon.edu.ni/">http://jba.unanleon.edu.ni/; Primary Email: jardinbotanicoambiental@unanleon.edu.ni ; 
-Plant Records Officer's Name:	Lic. Ivania Munguia-Ocon
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Date founded:	2010
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	12.43681
-Longitude:	-86.87904
-Natural Vegetation Area:	Yes
-Total Area:	12 Hectares
+0-ID: 4530
+1-Name: Jardin Botánico Ambiental 
+2-Altitude: 0.00 Metres
+2-Date founded: 2010
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botánico Ambiental;         Universidad Nacional Autonoma de Nicaragua-Leon;        Facultad de Ciencias y Tecnologias;        Leon;        Nicaragua;        ;                 Telephone: 505-2310-0126;         Fax: ;         URL: http://jba.unanleon.edu.ni/;         Primary Email: jardinbotanicoambiental@unanleon.edu.ni       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 12.43681
+2-Longitude: -86.87904
+2-Natural Vegetation Area: Yes
+2-Total Area: 12 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4530">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4530">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4530">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4530">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4530">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jardinbotanicoambiental@unanleon.edu.ni
+9-Telephone: 505-2310-0126

@@ -1,12 +1,21 @@
-ID:	1257
-Name:	Huangshan Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Anhui - Huangshan  ;Garden Information;  Institution Code: TANGK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Huangshan Arboretum; Tangkou, Huangshan, Anhui, 242708, China; Huangshan; Anhui China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	30.1197
-Local Address:	中国安徽省黄山市汤口镇，邮编 242708
-Locality:	Information
-Longitude:	118.1931
+0-ID: 1257
+1-Name: Huangshan Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: TANGK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Huangshan Arboretum;         Tangkou, Huangshan, Anhui, 242708, China;                Huangshan;        Anhui China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.1197
+2-Local Address: 中国安徽省黄山市汤口镇，邮编 242708
+2-Locality: Information
+2-Longitude: 118.1931
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1257">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1257">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1257">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1257">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1257">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TANGK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

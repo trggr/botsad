@@ -1,9 +1,19 @@
-ID:	5243
-Name:	Oakwood Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Rhode Island - Newport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Oakwood Arboretum; 50 Narragansett Avenue; Newport; Rhode Island 02840 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: angus.davis@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.476427
-Longitude:	-71.309905
+0-ID: 5243
+1-Name: Oakwood Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Oakwood Arboretum;         50 Narragansett Avenue;                Newport;        Rhode Island 02840 United States of America;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: angus.davis@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.476427
+2-Longitude: -71.309905
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5243">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5243">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5243">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5243">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5243">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: angus.davis@gmail.com
+9-Telephone: 
+9-URL: 

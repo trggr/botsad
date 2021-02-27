@@ -1,9 +1,18 @@
-ID:	5310
-Name:	Budakeszi Botanic and Recreation Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Hungary - Budapest  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Budakeszi Botanic and Recreation Garden; Leyland Kft.; 1165 Budapest, Mészáros J.u. 24; Budapest; 2092 Hungary; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: budakesziarboretum@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	47.5255416
-Longitude:	18.8680543
+0-ID: 5310
+1-Name: Budakeszi Botanic and Recreation Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Budakeszi Botanic and Recreation Garden;         Leyland Kft.;        1165 Budapest, Mészáros J.u. 24;        Budapest;        2092 Hungary;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: budakesziarboretum@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.5255416
+2-Longitude: 18.8680543
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5310">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5310">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5310">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5310">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5310">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: budakesziarboretum@gmail.com
+9-Telephone: 
+9-URL: 

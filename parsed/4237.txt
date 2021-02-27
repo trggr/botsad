@@ -1,10 +1,18 @@
-ID:	4237
-Name:	Attenborough Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United Kingdom - Leics. - Oadby  ;Garden Information;  Institution Code: ATTAR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Attenborough Arboretum; University of Leicester; Stoughton Drive South; Oadby; Leics. LE2 2NE United Kingdom; ;  Telephone: +44 (0)116-271-2933; Fax: ; URL: <a target="_blank" href="http://www.le.ac.uk/botanicgarden/index.html">http://www.le.ac.uk/botanicgarden/index.html; Primary Email: botanicgarden@le.ac.uk ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	52.607569
-Longitude:	-1.092002
+0-ID: 4237
+1-Name: Attenborough Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ATTAR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Attenborough Arboretum;         University of Leicester;        Stoughton Drive South;        Oadby;        Leics. LE2 2NE United Kingdom;        ;                 Telephone: +44 (0)116-271-2933;         Fax: ;         URL: http://www.le.ac.uk/botanicgarden/index.html;         Primary Email: botanicgarden@le.ac.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.607569
+2-Longitude: -1.092002
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4237">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4237">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4237">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4237">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4237">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ATTAR
+9-International Agenda Registration: No
+9-Primary Email: botanicgarden@le.ac.uk
+9-Telephone: +44 (0)116-271-2933

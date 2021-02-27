@@ -1,28 +1,33 @@
-ID:	5352
-Name:	UUCCH Arboretum 
-Administration Staff Number:	4
-Curator's Name:	Ken Arnold
-Director's Name:	Les Engels
-Educational Staff Number:	2
-Horticultural Staff Number:	2
-Info:	  United States of America - New Jersey - Cherry Hill  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the UUCCH Arboretum The Mission of the UUCCH Arboretum is to: ; ; • Steward and preserve the UUCCH Arboretum's 17 acres while fostering an ecologically sound land ethic regarding the woody plants and trees that have been developed and cared for and curated by Ken Arnold and the Congregation before us, so that we may pass on this stewardship to the generations that follow.; ; • Make accessible a natural environment that invites spiritual renewal; ; • Provide opportunities for education, environmental literacy and connections to the natural world that motivate responsible environmental decisions ; ; • Model practices of sustainable land use and conservation ; ; • Engage and build UUCCH connections with the community at large through programs, projects and events so that we may restore an ecologically sustainable relationship between the local community and the land and the life that lives upon it. ; ; The Vision of the UUCCH Arboretum is to: ; ; • Provide and make known a horticultural facility for the benefit and pleasure of the congregation and an interested public.; ; • Preserve open space in a densely populated county and municipality ; ; • Preserve and further develop the UUCCH Arboretum to benefit the church educationally, spiritually, culturally socially and financially.;  Main Address:; UUCCH Arboretum; Unitarian Universalist Church of Cherry Hill Arboretum; 401 Kings Highway North; Cherry Hill; New Jersey 08034 United States of America; ;  Telephone: (856) 667-3618; Fax: (856) 667-9552; URL: <a target="_blank" href="http://uucch.org/the-arboretum">http://uucch.org/the-arboretum; Primary Email: arboretum@uucch.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	11.88 Metres
-Annual Rainfall:	1194 mm
-Date founded:	1971
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	39.9264519
-Local Address:	401 Kings Highway North
-Locality:	Information
-Longitude:	-74.9946162
-Total Area:	7 Hectares
-Arboretum:	Yes
-Arboretum Size:	7
-Disabled access:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	8
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Plant Collection Policy:	Yes
+0-ID: 5352
+1-Name: UUCCH Arboretum 
+2-Altitude: 11.88 Metres
+2-Annual Rainfall: 1194 mm
+2-Date founded: 1971
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level I       ;                                          About the UUCCH Arboretum        The Mission of the UUCCH Arboretum is to: ;  ;  • Steward and preserve the UUCCH Arboretum's 17 acres while fostering an  ecologically sound land ethic regarding the woody plants and trees that have been developed and cared for and curated by Ken Arnold and the Congregation before us, so that we may pass on this stewardship to the generations that follow.;  ;  • Make accessible a natural environment that invites spiritual renewal;  ;  • Provide opportunities for education, environmental literacy and connections to the natural world that motivate responsible environmental decisions ;  ;  • Model practices of sustainable land use and conservation ;  ;  • Engage and build UUCCH connections with the community at large through programs, projects and events so that we may restore an ecologically sustainable relationship between the local community and the land and the life that lives upon it. ;  ;  The Vision of the UUCCH Arboretum is to: ;  ;  • Provide and make known a horticultural facility for the benefit and pleasure of the congregation and an interested public.;  ;  • Preserve open space in a densely populated county and municipality ;  ;  • Preserve and further develop the UUCCH Arboretum to benefit the church educationally, spiritually, culturally socially and financially.;                        Main Address:;         UUCCH Arboretum;         Unitarian Universalist Church of Cherry Hill Arboretum;        401 Kings Highway North;        Cherry Hill;        New Jersey 08034 United States of America;        ;                 Telephone: (856) 667-3618;         Fax: (856) 667-9552;         URL: http://uucch.org/the-arboretum;         Primary Email: arboretum@uucch.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 39.9264519
+2-Local Address: 401 Kings Highway North
+2-Locality: Information
+2-Longitude: -74.9946162
+2-Total Area: 7 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 7
+3-Disabled access: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Volunteers: 8
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-Plant Collection Policy: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5352">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5352">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5352">Please click here if you can update us</a>
+9-About the UUCCH Arboretum        The Mission of the UUCCH Arboretum is to: 
+9-ArbNet Accredited: Level I
+9-BGCI Member: Yes
+9-Fax: (856) 667-9552
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: arboretum@uucch.org
+9-Telephone: (856) 667-3618
+9-The Vision of the UUCCH Arboretum is to: 

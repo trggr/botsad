@@ -1,12 +1,22 @@
-ID:	4298
-Name:	Paul J. Ciener Botanical Garden 
-Curator's Name:	Adrienne Roethling, Garden Curator
-Director's Name:	Kitty Lyon, Interim Director
-Info:	  United States of America - North Carolina - Kernersville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Paul J. Ciener Botanical Garden; 205 South Main Street; Mailing: P.O. Box 725; Kernersville; North Carolina 27285 United States of America; ;  Telephone: (336) 996-7888; Fax: (336) 996-7884; URL: <a target="_blank" href="http://www.pjcbg.org">www.pjcbg.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2005
-Institution Type:	Botanic Garden
-Latitude:	36.1180740
-Longitude:	-80.0752790
-Total Area:	3 Hectares
+0-ID: 4298
+1-Name: Paul J. Ciener Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 2005
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Paul J. Ciener Botanical Garden;         205 South Main Street;        Mailing: P.O. Box 725;        Kernersville;        North Carolina 27285 United States of America;        ;                 Telephone: (336) 996-7888;         Fax: (336) 996-7884;         URL: www.pjcbg.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.1180740
+2-Longitude: -80.0752790
+2-Total Area: 3 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4298">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4298">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4298">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4298">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4298">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (336) 996-7884
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 725
+9-Primary Email: 
+9-Telephone: (336) 996-7888
+9-URL: www.pjcbg.org

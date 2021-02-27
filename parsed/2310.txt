@@ -1,10 +1,19 @@
-ID:	2310
-Name:	AVREFA Herbal Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Kerala - Palghat  ;Garden Information;  Institution Code: AVRE; International Agenda Registration: No; BGCI Member: No;  Main Address:; AVREFA Herbal Garden; Centre for Indian Medicinal Heritage (CIMH)AVP Campus, Kanjikode Dist,, PALGHAT 678 621, ,; Palghat; Kerala India; ;  Telephone: 91 (0)491 567444; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: lspss@md3.vsnl.net.in ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	10.7681
-Longitude:	76.6478
+0-ID: 2310
+1-Name: AVREFA Herbal Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: AVRE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         AVREFA Herbal Garden;         Centre for Indian Medicinal Heritage (CIMH)AVP Campus, Kanjikode Dist,, PALGHAT  678 621, ,;                Palghat;        Kerala India;        ;                 Telephone: 91 (0)491 567444;         Fax: ;         URL: ;         Primary Email: lspss@md3.vsnl.net.in       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 10.7681
+2-Longitude: 76.6478
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2310">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2310">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2310">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2310">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2310">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AVRE
+9-International Agenda Registration: No
+9-Primary Email: lspss@md3.vsnl.net.in
+9-Telephone: 91 (0)491 567444
+9-URL: 

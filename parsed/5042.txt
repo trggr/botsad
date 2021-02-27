@@ -1,10 +1,20 @@
-ID:	5042
-Name:	Delaware Botanic Gardens at Pepper Creek 
-Curator's Name:	Gregg Tepper, Director of Horticulture
-Director's Name:	Sheryl Swed, Executive Director
-Info:	  United States of America - Delaware - Nassau  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Delaware Botanic Gardens at Pepper Creek In early 2012, a group of energetic and garden-loving men and women came together under the leadership of Michael Zajic, former Horticultural Supervisor of Brookside Gardens in Maryland. With his vision as guide and inspiration, they organized and voted on a skilled and talented Board of Directors, and formed Southern Delaware Botanic Gardens, Inc. (SDBG) Our Board includes a diverse group of individuals from across Delmarva, bringing with them the experience, knowledge, and most importantly, passion that will bring this endeavor to fruition.; ; Our Mission is to create a world-class, inspirational, educational, and sustainable public botanic garden in southern Delaware for the benefit and enjoyment of the public.; ; Our Vision is for beautiful, engaging, world class gardens that inspire and educate.; ; Our Values are: Inspirational Gardens; Environmental Stewardship; Financial Responsibility; Community Focus; Education and Research; Organizational Transparency; Civility and Respect.;  Main Address:; Delaware Botanic Gardens at Pepper Creek; Piney Neck Road; Mailing: P.O. Box 176; Nassau; Delaware 19969 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://delawaregardens.org">http://delawaregardens.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	38.579915
-Longitude:	-75.215806
+0-ID: 5042
+1-Name: Delaware Botanic Gardens at Pepper Creek 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Delaware Botanic Gardens at Pepper Creek        In early 2012, a group of energetic and garden-loving men and women came together under the leadership of Michael Zajic, former Horticultural Supervisor of Brookside Gardens in Maryland. With his vision as guide and inspiration, they organized and voted on a skilled and talented Board of Directors, and formed Southern Delaware Botanic Gardens, Inc. (SDBG) Our Board includes a diverse group of individuals from across Delmarva, bringing with them the experience, knowledge, and most importantly, passion that will bring this endeavor to fruition.;  ;  Our Mission is to create a world-class, inspirational, educational, and sustainable public botanic garden in southern Delaware for the benefit and enjoyment of the public.;  ;  Our Vision is for beautiful, engaging, world class gardens that inspire and educate.;  ;  Our Values are: Inspirational Gardens; Environmental Stewardship; Financial Responsibility; Community Focus; Education and Research; Organizational Transparency; Civility and Respect.;                        Main Address:;         Delaware Botanic Gardens at Pepper Creek;         Piney Neck Road;        Mailing: P.O. Box 176;        Nassau;        Delaware 19969 United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://delawaregardens.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.579915
+2-Longitude: -75.215806
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5042">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5042">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5042">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5042">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5042">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 176
+9-Our Values are: Inspirational Gardens
+9-Primary Email: 
+9-Telephone: 

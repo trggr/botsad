@@ -1,12 +1,20 @@
-ID:	2321
-Name:	Lili'uokalani Botanic Garden 
-Curator's Name:	
-Director's Name:	Winnifred Singeo
-Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: HLG; International Agenda Registration: No; BGCI Member: Yes; About the Lili'uokalani Botanic Garden One of five botanic gardens on the island of Oahu which are a part of the Honolulu Botanical Gardens System.;  Main Address:; Lili'uokalani Botanic Garden; 50 North Vineyard Boulevard; Honolulu Botanical Gardens system; Honolulu; Hawaii 96817 United States of America; ;  Telephone: (808) 522-7060; Fax: ; URL: <a target="_blank" href="http://www.co.honolulu.hi.us/parks/hbg/">www.co.honolulu.hi.us/parks/hbg/; Primary Email: hbg@honolulu.gov ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	21.3149989
-Longitude:	-157.8580477
-Total Area:	3 Hectares
-Open to public:	Yes
+0-ID: 2321
+1-Name: Lili'uokalani Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HLG;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Lili'uokalani Botanic Garden        One of five botanic gardens on the island of Oahu which are a part of the Honolulu Botanical Gardens System.;                        Main Address:;         Lili'uokalani Botanic Garden;         50 North Vineyard Boulevard;        Honolulu Botanical Gardens system;        Honolulu;        Hawaii 96817 United States of America;        ;                 Telephone: (808) 522-7060;         Fax: ;         URL: www.co.honolulu.hi.us/parks/hbg/;         Primary Email: hbg@honolulu.gov       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.3149989
+2-Longitude: -157.8580477
+2-Total Area: 3 Hectares
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2321">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2321">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2321">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2321">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: HLG
+9-International Agenda Registration: No
+9-Primary Email: hbg@honolulu.gov
+9-Telephone: (808) 522-7060
+9-URL: www.co.honolulu.hi.us/parks/hbg/

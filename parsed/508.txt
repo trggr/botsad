@@ -1,11 +1,19 @@
-ID:	508
-Name:	The Kyoto Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Kyoto  ;Garden Information;  Institution Code: KYO; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Kyoto Botanical Garden; Hangi-Cho, Shimogamo, Sakyoku, KYOTO,606, Japan.; Kyoto; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1924
-Institution Type:	Botanic Garden
-Latitude:	34.9996
-Longitude:	135.7532
-Special Collections:	Acanthaceae, Marantaceae, Bromeliaceae, Araceae, Orchidaceae, Gramineae (Bambusaceae), Gesneriaceae.
+0-ID: 508
+1-Name: The Kyoto Botanical Garden 
+2-Date founded: 1924
+2-Info:              Institution Code: KYO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Kyoto Botanical Garden;         Hangi-Cho, Shimogamo,  Sakyoku,  KYOTO,606, Japan.;                Kyoto;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.9996
+2-Longitude: 135.7532
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=508">Please click here if you can update us</a>
+4-Special Collections: Acanthaceae, Marantaceae, Bromeliaceae, Araceae, Orchidaceae, Gramineae (Bambusaceae), Gesneriaceae.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=508">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=508">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=508">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KYO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

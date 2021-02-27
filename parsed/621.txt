@@ -1,40 +1,44 @@
-ID:	621
-Name:	Logan Botanic Garden 
-Fax:	01776 860333
-Info:	  United Kingdom - Wigtownshire - Stranraer  ;Garden Information;  Institution Code: E; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	logan@rbge.org.uk
-Telephone:	01776 860600
-Administration Staff Number:	
-Curator's Name:	Richard A. Baines
-Director's Name:	Simon Milne
-Educational Staff Number:	
-Horticultural Staff Number:	8
-Plant Records Officer's Name:	Robert Cubey
-Research Staff Number:	
-Altitude:	25.00 Metres
-Annual Rainfall:	830 mm
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	54.905398
-Longitude:	-5.02547
-Satellite Garden Names:	This is a Specialist (Satellite) Garden of the Royal Botanic Garden Edinburgh
-Total Area:	11 Hectares
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Number of Visitors:	34000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-ABS Policy:	Yes
-Accession Number:	3571
-Cultivation Taxa Num:	2613
-Plant Collection Policy:	Yes
-Special Collections:	Plants of southern South America,, Australasia, Southern Africa, North and Central Mexico, Canary Islands, Labiatae, Ericaceae, Myrtaceae, Azara, Eucryphia, Weinmannia, Gunnera, Rhododendron. Eucalyptus, Dicksonia, Cyathea, Diascia.
-Conservation Programme:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 621
+1-Name: Logan Botanic Garden 
+2-Administration Staff Number: 
+2-Curator's Name: Richard A. Baines
+2-Director's Name: Simon Milne
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 8
+2-Info:              Institution Code: E;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/621/Logan_visitors_cordyline_smallest.jpg" alt="Visitors at Logan Botanic Garden" />         Visitors at Logan Botanic Garden</div>        </div>                           About the Logan Botanic Garden        The garden at Logan dates from 1869 when James McDouall married Agnes Buchan-Hepburn, a very keen gardener from Smeaton in East Lothian. Agnes began to experiment by planting more tender species of plants. Her sons, Kenneth and Douglas, inherited her love of gardening and continued to develop the garden.;  ;  When Kenneth McDouall died, he left the Logan estate to his cousin, Sir Ninian Buchan-Hepburn, and in 1949 the estate passed to Mr Roland Olaf Hambro. Following the latter's death in the early 1960s, a charitable trust was set up to run the garden. However, the trust ran out of money, and the trustees gave the estate to the nation in 1969. In that year, Sir Ninian reacquired the house and policies, and the 1.5 hectare (3.5 acre) walled garden was given to the Royal Botanic Garden along with 5 hectares (12 acres) of woodland.;  ;  Over 50% of the plants at Logan are of known wild origin, and many of these are from the Southern Hemisphere. The garden is the most remarkable in Scotland for its exotic mixture of plants from Mexico, Chile, South Africa, Australasia and other temperate regions of the world. Nearly 40 species of gum tree (Eucalyptus) are grown at Logan including the smooth, white-limbed cabbage gum (E. pauciflora).;                        Main Address:;         Logan Botanic Garden;         Port Logan;                Stranraer;        Wigtownshire DG9 9ND United Kingdom;        ;                 Telephone: 01776 860600;         Fax: 01776 860333;         URL: http://www.rbge.org.uk;         Primary Email: logan@rbge.org.uk       ;              
+2-Plant Records Officer's Name: Robert Cubey
+2-Research Staff Number: 
+3-Altitude: 25.00 Metres
+3-Annual Rainfall: 830 mm
+3-Date founded: 1968
+3-Institution Type: Botanic Garden
+3-Latitude: 54.905398
+3-Longitude: -5.02547
+3-Satellite Garden Names: This is a Specialist (Satellite) Garden of the Royal Botanic Garden Edinburgh
+3-Total Area: 11 Hectares
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Number of Visitors: 34000
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+5-ABS Policy: Yes
+5-Accession Number: 3571
+5-Cultivation Taxa Num: 2613
+5-Plant Collection Policy: Yes
+5-Special Collections: Plants of southern South America,, Australasia, Southern Africa, North and Central Mexico, Canary Islands, Labiatae, Ericaceae, Myrtaceae, Azara, Eucryphia, Weinmannia, Gunnera, Rhododendron. Eucalyptus, Dicksonia, Cyathea, Diascia.
+6-Conservation Programme: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=621">Please click here if you can update us</a>
+8-Education Booklets/Leaflets: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 01776 860333
+9-Institution Code: E
+9-International Agenda Registration: Yes
+9-Primary Email: logan@rbge.org.uk
+9-Telephone: 01776 860600

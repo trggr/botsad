@@ -1,11 +1,19 @@
-ID:	453
-Name:	Sim's Park Coonoor 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Coonoor  ;Garden Information;  Institution Code: COONO; International Agenda Registration: No; BGCI Member: No; About the Sim's Park Coonoor 1. The Pomological Station at Coonoor is situated near Sim’s Park. Established in 1920, it contains a collection of fruits of temperate and subtropical climates, including apple, pear, plum, peach, persimon, fig, pomegranite, lemon, cherimoyer, etc.; 2. T;  Main Address:; Sim's Park Coonoor; p/a Office of the Curator, Government Botanic Gardens, Ootacamund 643-001, The Nilgiris, Tamil Nad; Coonoor; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	11.3483
-Longitude:	76.7936
-Special Collections:	Trees & shrubs, ornamental, economic, medicinal plants, orchids (30 spp.), roses (300 cvs), Acacia, Camellia, Cupressus, Eucalyptus, Magnolia, Pinus, Prunus, Quercus, Rhododendron.
+0-ID: 453
+1-Name: Sim's Park Coonoor 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: COONO;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Sim's Park Coonoor        1. The Pomological Station at Coonoor is situated near Sim’s Park. Established in 1920, it contains a collection of fruits of temperate and subtropical climates, including apple, pear, plum, peach, persimon, fig, pomegranite, lemon, cherimoyer, etc.;  2. T;                        Main Address:;         Sim's Park Coonoor;         p/a Office of the Curator, Government Botanic Gardens, Ootacamund 643-001,  The Nilgiris,  Tamil Nad;                Coonoor;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 11.3483
+2-Longitude: 76.7936
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=453">Please click here if you can update us</a>
+4-Special Collections: Trees & shrubs, ornamental, economic, medicinal plants, orchids (30 spp.), roses (300 cvs), Acacia, Camellia, Cupressus, Eucalyptus, Magnolia, Pinus, Prunus, Quercus, Rhododendron.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=453">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=453">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=453">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: COONO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

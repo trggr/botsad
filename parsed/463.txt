@@ -1,11 +1,19 @@
-ID:	463
-Name:	Botanical Garden "Mikveh-Israel" 
-Curator's Name:	
-Director's Name:	The Director
-Info:	  Israel - Holon  ;Garden Information;  Institution Code: HOLON; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden "Mikveh-Israel"; Holon; Israel; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1930
-Institution Type:	Botanic Garden
-Latitude:	32.0431
-Longitude:	34.7722
-Special Collections:	Annual flowers, conifers, Quercetum, palms, bamboos, climbers.
+0-ID: 463
+1-Name: Botanical Garden "Mikveh-Israel" 
+2-Date founded: 1930
+2-Info:              Institution Code: HOLON;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden "Mikveh-Israel";                         Holon;        Israel;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.0431
+2-Longitude: 34.7722
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=463">Please click here if you can update us</a>
+4-Special Collections: Annual flowers, conifers, Quercetum, palms, bamboos, climbers.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=463">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=463">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=463">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HOLON
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

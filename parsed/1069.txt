@@ -1,12 +1,20 @@
-ID:	1069
-Name:	Diószegi Sámuel Botanic Garden 
-Curator's Name:	
-Director's Name:	György Tihanyi
-Info:	  Hungary - Debrecen  ;Garden Information;  Institution Code: DEBAG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Diószegi Sámuel Botanic Garden; Hollós Street 3.; Debrecen; H-4032 Hungary; ;  Telephone: 20/9590787; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1983
-Institution Type:	Botanic Garden
-Latitude:	47.5533
-Longitude:	21.6224
-Special Collections:	Cacti and other succulents.
+0-ID: 1069
+1-Name: Diószegi Sámuel Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1983
+2-Info:              Institution Code: DEBAG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Diószegi Sámuel Botanic Garden;         Hollós Street 3.;                Debrecen;        H-4032 Hungary;        ;                 Telephone: 20/9590787;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.5533
+2-Longitude: 21.6224
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1069">Please click here if you can update us</a>
+4-Special Collections: Cacti and other succulents.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1069">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1069">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1069">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DEBAG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 20/9590787
+9-URL: 

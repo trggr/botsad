@@ -1,11 +1,19 @@
-ID:	749
-Name:	Botanical Garden, Forest Research Institute and College 
-Curator's Name:	P.C.Gupta
-Director's Name:	Dr. S.S.R.Bennet
-Info:	  India - Dehra Dun  ;Garden Information;  Institution Code: DD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden, Forest Research Institute and College; Dehra Dun; India; ;  Telephone: 91 135 750648(R)/757021 x 28; Fax: 91 135 756865/751826; URL: <a target="_blank" href="http://www.icfre.up.nic.in">www.icfre.up.nic.in; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1934
-Institution Type:	Botanic Garden
-Latitude:	30.3335
-Longitude:	78.0477
-Special Collections:	Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+0-ID: 749
+1-Name: Botanical Garden, Forest Research Institute and College 
+2-Date founded: 1934
+2-Info:              Institution Code: DD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden, Forest Research Institute and College;                         Dehra Dun;        India;        ;                 Telephone: 91 135 750648(R)/757021 x 28;         Fax: 91 135 756865/751826;         URL: www.icfre.up.nic.in;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.3335
+2-Longitude: 78.0477
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=749">Please click here if you can update us</a>
+4-Special Collections: Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=749">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=749">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=749">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 135 756865/751826
+9-Institution Code: DD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 91 135 750648(R)/757021 x 28
+9-URL: www.icfre.up.nic.in

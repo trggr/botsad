@@ -1,10 +1,18 @@
-ID:	2332
-Name:	Parcul "Dendrariu" 
-Curator's Name:	
-Director's Name:	.
-Info:	  Moldova - Enuscu  ;Garden Information;  Institution Code: ENUSC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parcul "Dendrariu"; mun.Chisinau str. George Enescu 5 MD-2064 Moldova, Republic Of; Enuscu; Moldova; ;  Telephone: +373 22 71 90 29; Fax: ; URL: <a target="_blank" href="http://dendrariu.md/">http://dendrariu.md/; Primary Email: dendrariu@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	47.0046
-Longitude:	28.8281
+0-ID: 2332
+1-Name: Parcul "Dendrariu" 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ENUSC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Parcul "Dendrariu";         mun.Chisinau str. George Enescu 5 MD-2064 Moldova, Republic Of;                Enuscu;        Moldova;        ;                 Telephone: +373 22 71 90 29;         Fax: ;         URL: http://dendrariu.md/;         Primary Email: dendrariu@gmail.com       ;              
+2-Institution Type: Other
+2-Latitude: 47.0046
+2-Longitude: 28.8281
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2332">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2332">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2332">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2332">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2332">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ENUSC
+9-International Agenda Registration: No
+9-Primary Email: dendrariu@gmail.com
+9-Telephone: +373 22 71 90 29

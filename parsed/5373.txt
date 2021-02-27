@@ -1,9 +1,19 @@
-ID:	5373
-Name:	Waubonsee Community College 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - IL - Sugar Grove  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Waubonsee Community College; IL Rt. 47 @ Waubonsee Dr.; Sugar Grove; IL 60545 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.waubonsee.edu">www.waubonsee.edu; Primary Email: jzappia@waubonsee.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.800979
-Longitude:	-88.459314
+0-ID: 5373
+1-Name: Waubonsee Community College 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Waubonsee Community College;         IL Rt. 47 @ Waubonsee Dr.;                Sugar Grove;        IL 60545 United States of America;        ;                 Telephone: ;         Fax: ;         URL: www.waubonsee.edu;         Primary Email: jzappia@waubonsee.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.800979
+2-Longitude: -88.459314
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5373">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5373">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5373">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5373">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5373">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jzappia@waubonsee.edu
+9-Telephone: 
+9-URL: www.waubonsee.edu

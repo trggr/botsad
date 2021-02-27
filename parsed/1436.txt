@@ -1,12 +1,20 @@
-ID:	1436
-Name:	Atagawa Tropical & Alligator Garden 
-Curator's Name:	
-Director's Name:	Mr. Kimura, Satoshi
-Info:	  Japan - Naramoto  ;Garden Information;  Institution Code: NARTA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Atagawa Tropical & Alligator Garden; 971-9 Naramoto Higashiizu-machi Kamo-gun, Shizuoka Prefecture, Japan 413-03.; Naramoto; Japan; ;  Telephone: 81 (0)557 23 1105; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1958
-Institution Type:	Other
-Latitude:	34.8201
-Longitude:	139.0637
-Special Collections:	Orchid species.
+0-ID: 1436
+1-Name: Atagawa Tropical & Alligator Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1958
+2-Info:              Institution Code: NARTA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Atagawa Tropical & Alligator Garden;         971-9 Naramoto Higashiizu-machi Kamo-gun,  Shizuoka Prefecture,  Japan 413-03.;                Naramoto;        Japan;        ;                 Telephone: 81 (0)557 23 1105;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 34.8201
+2-Longitude: 139.0637
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1436">Please click here if you can update us</a>
+4-Special Collections: Orchid species.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1436">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1436">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1436">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NARTA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 81 (0)557 23 1105
+9-URL: 

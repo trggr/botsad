@@ -1,9 +1,17 @@
-ID:	5535
-Name:	Vie et Environnement Rwanda 
-Curator's Name:	
-Director's Name:	
-Info:	  Rwanda - Kigali  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Vie et Environnement Rwanda; Rutsiro, NR7; Kigali; Rwanda; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.verrwanda.org">http://www.verrwanda.org; Primary Email: elidaduwi@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-1.8990449
-Longitude:	29.3275953
+0-ID: 5535
+1-Name: Vie et Environnement Rwanda 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Vie et Environnement Rwanda;         Rutsiro, NR7;                Kigali;        Rwanda;        ;                 Telephone: ;         Fax: ;         URL: http://www.verrwanda.org;         Primary Email: elidaduwi@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -1.8990449
+2-Longitude: 29.3275953
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5535">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5535">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5535">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5535">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5535">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: elidaduwi@gmail.com
+9-Telephone: 

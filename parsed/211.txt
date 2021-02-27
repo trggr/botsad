@@ -1,15 +1,22 @@
-ID:	211
-Name:	Orto Botanico dell'Universita di Pavia 
-Curator's Name:	
-Director's Name:	Prof. Francesco Bracco
-Info:	  Italy - Lombardia - Pavia  ;Garden Information;  Institution Code: PAV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico dell'Universita di Pavia; Via San Epifanio 14; Pavia; Lombardia 27100 Italy; ;  Telephone: 0382 964848; Fax: 0382 34240; URL: <a target="_blank" href="http://">; Primary Email: ortobotanico@unipv.it ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1773
-Institution Type:	Botanic Garden
-Latitude:	45.1949
-Longitude:	9.1656
-Friends society:	Yes
-Number of Visitors:	8000
-Number of Volunteers:	20
-Special Collections:	Rose varieties and species, Pelargonium, Fuchsias, Hydrangea, and azaleas, Rhododendron indicum, Welwitschia mirabilis and Chamaedorea oblungata. Ginkgo, Impatiens, Allium ursinum, Magnolia grandiflora, Davidia involucrata, Liriodendron tulipifera, Camellia
+0-ID: 211
+1-Name: Orto Botanico dell'Universita di Pavia 
+2-Altitude: 0.00 Metres
+2-Date founded: 1773
+2-Info:              Institution Code: PAV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Orto Botanico dell'Universita di Pavia;         Via San Epifanio 14;                Pavia;        Lombardia 27100 Italy;        ;                 Telephone: 0382 964848;         Fax: 0382 34240;         URL: ;         Primary Email: ortobotanico@unipv.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.1949
+2-Longitude: 9.1656
+3-Friends society: Yes
+3-Number of Visitors: 8000
+3-Number of Volunteers: 20
+4-Special Collections: Rose varieties and species, Pelargonium, Fuchsias, Hydrangea, and azaleas, Rhododendron indicum, Welwitschia mirabilis and Chamaedorea oblungata. Ginkgo, Impatiens, Allium ursinum, Magnolia grandiflora, Davidia involucrata, Liriodendron tulipifera, Camellia
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=211">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=211">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=211">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0382 34240
+9-Institution Code: PAV
+9-International Agenda Registration: No
+9-Primary Email: ortobotanico@unipv.it
+9-Telephone: 0382 964848
+9-URL: 

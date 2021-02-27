@@ -1,9 +1,17 @@
-ID:	5406
-Name:	Jardín Botánico Facultad de Ciencias Naturales UAQ 
-Curator's Name:	
-Director's Name:	
-Info:	  Mexico - Querétaro - Santiago de Querétaro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Facultad de Ciencias Naturales UAQ; Avenida de las Ciencias SN; Juriquilla; Santiago de Querétaro; Querétaro C. P. 76230 Mexico; ;  Telephone: +52(442)1921200; Fax: ; URL: <a target="_blank" href="http://fcn.uaq.mx/index.php/extension/jardin-botanico">http://fcn.uaq.mx/index.php/extension/jardin-botanico; Primary Email: gomezs@uaq.mx ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	20°42'02.04"
-Longitude:	100°26'58.18"
+0-ID: 5406
+1-Name: Jardín Botánico Facultad de Ciencias Naturales UAQ 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Facultad de Ciencias Naturales UAQ;         Avenida de las Ciencias SN;        Juriquilla;        Santiago de Querétaro;        Querétaro C. P. 76230 Mexico;        ;                 Telephone: +52(442)1921200;         Fax: ;         URL: http://fcn.uaq.mx/index.php/extension/jardin-botanico;         Primary Email: gomezs@uaq.mx       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20°42'02.04"
+2-Longitude: 100°26'58.18"
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5406">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5406">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5406">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5406">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5406">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: gomezs@uaq.mx
+9-Telephone: +52(442)1921200

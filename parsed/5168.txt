@@ -1,9 +1,18 @@
-ID:	5168
-Name:	US Forest Service, RGE Staff 
-Curator's Name:	Gary Man, Forester, State & Private Forestry
-Director's Name:	Thomas Tidwell, Chief
-Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; US Forest Service, RGE Staff; 1400 Independence Avenue, SW; Mailstop 1103; Washington; District of Columbia 20250 United States of America; ;  Telephone: (970) 295-5710; Fax: ; URL: <a target="_blank" href="http://www.fs.fed.us/">www.fs.fed.us/; Primary Email: jordanbancroft@fs.fed.us ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.8867724
-Longitude:	-77.0321822
+0-ID: 5168
+1-Name: US Forest Service, RGE Staff 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         US Forest Service, RGE Staff;         1400 Independence Avenue, SW;        Mailstop 1103;        Washington;        District of Columbia 20250 United States of America;        ;                 Telephone: (970) 295-5710;         Fax: ;         URL: www.fs.fed.us/;         Primary Email: jordanbancroft@fs.fed.us       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.8867724
+2-Longitude: -77.0321822
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5168">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5168">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5168">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5168">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5168">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jordanbancroft@fs.fed.us
+9-Telephone: (970) 295-5710
+9-URL: www.fs.fed.us/

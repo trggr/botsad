@@ -1,9 +1,18 @@
-ID:	4722
-Name:	Knoxville Zoological Gardens 
-Curator's Name:	
-Director's Name:	Keith Montgomery, Director of Operations
-Info:	  United States of America - Tennessee - Knoxville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Knoxville Zoological Gardens; P.O. Box 6040; Knoxville; Tennessee 37914-0040 United States of America; ;  Telephone: (865) 637-5332 x326; Fax: ; URL: <a target="_blank" href="http://www.knoxville-zoo.org">www.knoxville-zoo.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	35.9997600
-Longitude:	-83.8889200
+0-ID: 4722
+1-Name: Knoxville Zoological Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Knoxville Zoological Gardens;         P.O. Box 6040;                Knoxville;        Tennessee 37914-0040 United States of America;        ;                 Telephone: (865) 637-5332  x326;         Fax: ;         URL: www.knoxville-zoo.org;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 35.9997600
+2-Longitude: -83.8889200
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4722">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4722">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4722">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4722">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4722">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (865) 637-5332  x326
+9-URL: www.knoxville-zoo.org

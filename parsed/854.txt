@@ -1,10 +1,19 @@
-ID:	854
-Name:	Arboretum (Institute of Silviculture, Forestry Faculty) 
-Curator's Name:	Paulina Hechenleitner V
-Director's Name:	Moises Osorio
-Info:	  Chile - Valdivia  ;Garden Information;  Institution Code: VALD; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Arboretum (Institute of Silviculture, Forestry Faculty); Universidad Austral de Chile, Casilla 853VALDIVIA, Chile; Valdivia; Chile; ;  Telephone: 56 (0)63 221 228; Fax: 56 (0)63 221 230; URL: <a target="_blank" href="http://www.uach.cl/facultad/forestal/laboratorios/arboretum.htm">www.uach.cl/facultad/forestal/laboratorios/arboretum.htm; Primary Email: silvicul@valdivia.uca.uach.cl; rpenaloz@uach.cl; rpenaloz@uach.cl; phechenleitner@uach.cl ; 
-Plant Records Officer's Name:	
-Date founded:	1972
-Institution Type:	Botanic Garden
-Latitude:	-33.5176
-Longitude:	-71.6068
+0-ID: 854
+1-Name: Arboretum (Institute of Silviculture, Forestry Faculty) 
+2-Date founded: 1972
+2-Info:              Institution Code: VALD;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Arboretum (Institute of Silviculture, Forestry Faculty);         Universidad Austral de Chile, Casilla 853VALDIVIA, Chile;                Valdivia;        Chile;        ;                 Telephone: 56 (0)63 221 228;         Fax: 56 (0)63 221 230;         URL: www.uach.cl/facultad/forestal/laboratorios/arboretum.htm;         Primary Email: silvicul@valdivia.uca.uach.cl; rpenaloz@uach.cl; rpenaloz@uach.cl; phechenleitner@uach.cl       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -33.5176
+2-Longitude: -71.6068
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=854">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=854">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=854">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=854">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=854">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 56 (0)63 221 230
+9-Institution Code: VALD
+9-International Agenda Registration: Yes
+9-Primary Email: silvicul@valdivia.uca.uach.cl
+9-Telephone: 56 (0)63 221 228
+9-URL: www.uach.cl/facultad/forestal/laboratorios/arboretum.htm

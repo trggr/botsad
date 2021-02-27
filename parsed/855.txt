@@ -1,11 +1,20 @@
-ID:	855
-Name:	Parque Botanico Hualpen 
-Curator's Name:	
-Director's Name:	
-Info:	  Chile - Concepcion  ;Garden Information;  Institution Code: CONC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parque Botanico Hualpen; Departamento de Botanica, Universidad de Concepcion, Casilla 1367, CONCEPCION, Chile.; Concepcion; Chile; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1970
-Institution Type:	Botanic Garden
-Latitude:	-36.8148
-Longitude:	-73.0292
+0-ID: 855
+1-Name: Parque Botanico Hualpen 
+2-Altitude: 0.00 Metres
+2-Date founded: 1970
+2-Info:              Institution Code: CONC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Parque Botanico Hualpen;         Departamento de Botanica,  Universidad de Concepcion,  Casilla 1367, CONCEPCION,  Chile.;                Concepcion;        Chile;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -36.8148
+2-Longitude: -73.0292
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=855">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=855">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=855">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=855">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=855">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CONC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

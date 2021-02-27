@@ -1,10 +1,19 @@
-ID:	2157
-Name:	Jardin Botanico con Caracter Didactico 
-Curator's Name:	Biologo Francisco Javier Islas Jimenez
-Director's Name:	The Director
-Info:	  Mexico - Distrito Federal - Mexico City  ;Garden Information;  Institution Code: BANJI; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanico con Caracter Didactico Hoteles en Mexico;  Main Address:; Jardin Botanico con Caracter Didactico; C.C.H. Vallejo, UNAM; Sur 69A #444, Col. Banijdal; Mexico City; Distrito Federal 09450 Mexico; ;  Telephone: 6-72-05-27; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	19.3253
-Longitude:	-99.6045
+0-ID: 2157
+1-Name: Jardin Botanico con Caracter Didactico 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BANJI;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanico con Caracter Didactico        Hoteles en Mexico;                        Main Address:;         Jardin Botanico con Caracter Didactico;         C.C.H. Vallejo, UNAM;        Sur 69A #444, Col. Banijdal;        Mexico City;        Distrito Federal 09450 Mexico;        ;                 Telephone: 6-72-05-27;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 19.3253
+2-Longitude: -99.6045
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2157">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2157">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2157">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2157">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2157">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BANJI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 6-72-05-27
+9-URL: 

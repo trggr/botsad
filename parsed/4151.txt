@@ -1,9 +1,18 @@
-ID:	4151
-Name:	Botanic Gardens of Toyama 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Toyama - Toyama city  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Botanic Gardens of Toyama; 42 Kamikutsuwada; Fuchu-machi; Toyama city; Toyama 939-2713 Japan; ;  Telephone: (+81) 76-466-4187; Fax: (+81) 76-465-5923; URL: <a target="_blank" href="http://www.bgtym.org">www.bgtym.org; Primary Email: nakata@bgtym.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	36.6912
-Longitude:	137.2200
+0-ID: 4151
+1-Name: Botanic Gardens of Toyama 
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Botanic Gardens of Toyama;         42 Kamikutsuwada;        Fuchu-machi;        Toyama city;        Toyama 939-2713 Japan;        ;                 Telephone: (+81) 76-466-4187;         Fax: (+81) 76-465-5923;         URL: www.bgtym.org;         Primary Email: nakata@bgtym.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.6912
+2-Longitude: 137.2200
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4151">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4151">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4151">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4151">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4151">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (+81) 76-465-5923
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: nakata@bgtym.org
+9-Telephone: (+81) 76-466-4187
+9-URL: www.bgtym.org

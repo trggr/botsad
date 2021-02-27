@@ -1,17 +1,23 @@
-ID:	3503
-Name:	Rotary Botanical Gardens 
-Curator's Name:	Mark Dwyer, Director of Horticulture
-Director's Name:	David Jennings, Executive Director
-Info:	  United States of America - Wisconsin - Janesville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Rotary Botanical Gardens Rotary Botanical Gardens is a 20-acre non-profit botanic garden, home to many dramatic and themed gardens. This includes Japanese, Scottish, French Formal, Italian and English Cottage Gardens, as well as one of very few Fern and Moss gardens recognized by the Hardy Fern Foundation in the United States, as well as Shade, Prairie and Woodland Gardens.;  Main Address:; Rotary Botanical Gardens; 1455 Palmer Drive; Janesville; Wisconsin 53545 United States of America; ;  Telephone: (608) 752-3885; Fax: (608) 752-3853; URL: <a target="_blank" href="http://www.rotarygardens.org">www.rotarygardens.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1989
-Institution Type:	Botanic Garden
-Latitude:	42.6700560
-Longitude:	-89.0049530
-Total Area:	8 Hectares
-Friends society:	Yes
-Number of Volunteers:	400
-Open to public:	Yes
-Special Collections:	Grounds Collections
-Reintroduction Programme:	Yes
+0-ID: 3503
+1-Name: Rotary Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1989
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Rotary Botanical Gardens        Rotary Botanical Gardens is a 20-acre non-profit botanic garden, home to many dramatic and themed gardens.  This includes Japanese, Scottish, French Formal, Italian and English Cottage Gardens, as well as one of very few Fern and Moss gardens recognized by the Hardy Fern Foundation in the United States, as well as Shade, Prairie and Woodland Gardens.;                        Main Address:;         Rotary Botanical Gardens;         1455 Palmer Drive;                Janesville;        Wisconsin 53545 United States of America;        ;                 Telephone: (608) 752-3885;         Fax: (608) 752-3853;         URL: www.rotarygardens.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.6700560
+2-Longitude: -89.0049530
+2-Total Area: 8 Hectares
+3-Friends society: Yes
+3-Number of Volunteers: 400
+3-Open to public: Yes
+4-Special Collections: Grounds Collections
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3503">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3503">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (608) 752-3853
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (608) 752-3885
+9-URL: www.rotarygardens.org

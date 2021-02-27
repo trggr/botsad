@@ -1,20 +1,27 @@
-ID:	762
-Name:	Çukurova University Ali Nihat Gökyi?it Botanical Garden 
-Curator's Name:	Prof. Dr. Halil ÇAKAN
-Director's Name:	Prof. Dr. Halil ÇAKAN
-Info:	  Turkey - Adana  ;Garden Information;  Institution Code: ADANA; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Çukurova University Ali Nihat Gökyi?it Botanical Garden; Çukurova Üniversitesi Kampüsü; Sarıçam; Adana; 01330 Turkey; ;  Telephone: (322) 338 60 84 / 2037; Fax: ; URL: <a target="_blank" href="http://botanik.cu.edu.tr">http://botanik.cu.edu.tr; Primary Email: botanikbahcesi@cu.edu.tr ; 
-Plant Records Officer's Name:	Uzm. Salih KAVAK
-Altitude:	0.00 Metres
-Date founded:	1972
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	37.02
-Local Address:	Çukurova Üniversitesi Kampüsü 01330
-Locality:	Information
-Longitude:	35.21
-Natural Vegetation Area:	Yes
-Total Area:	20 Hectares
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Open to public:	Yes
+0-ID: 762
+1-Name: Çukurova University Ali Nihat Gökyi?it Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1972
+2-Info:              Institution Code: ADANA;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Çukurova University Ali Nihat Gökyi?it Botanical Garden;         Çukurova Üniversitesi Kampüsü;        Sarıçam;        Adana;        01330 Turkey;        ;                 Telephone: (322) 338 60 84 / 2037;         Fax: ;         URL: http://botanik.cu.edu.tr;         Primary Email: botanikbahcesi@cu.edu.tr       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 37.02
+2-Local Address: Çukurova Üniversitesi Kampüsü 01330
+2-Locality: Information
+2-Longitude: 35.21
+2-Natural Vegetation Area: Yes
+2-Total Area: 20 Hectares
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=762">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=762">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=762">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=762">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: ADANA
+9-International Agenda Registration: No
+9-Primary Email: botanikbahcesi@cu.edu.tr
+9-Telephone: (322) 338 60 84 / 2037

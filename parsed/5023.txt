@@ -1,42 +1,47 @@
-ID:	5023
-Name:	Botanical Garden and Herbarium, Department of Botany 
-Curator's Name:	Mr Nazim Hassan
-Director's Name:	Dr Mohammad Nisar
-Info:	  Pakistan - Khyber Pakhtunkhwa  ;Garden Information;  Institution Code: UOM; International Agenda Registration: Yes; BGCI Member: No; About the Botanical Garden and Herbarium, Department of Botany The Botanical Garden and Herbarium (BG&H) department of Botany at University of Malakand, Chakdara Dir (L.) Khyber puthtunkhwa, Pakistan launched in 2006 by Higher Education Commission (HEC) of Pakistan and registered with the Botanical Garden Conservation International in 2014. In the botanical garden, 7 thousand herbs, shrubs and trees are growing tolerable. They have economical, medicinal and ethno-botanical application cited in different literature. The garden has been properly looked after and retained fine. The garden is well equipped with lath houses and glass house. Several representative small gardens like, Quranic garden, Olive garden, Jasmine garden, Punica garden, Cacti garden and Rose garden have already been installed. ; Herbarium is a collection of pressed and dried plant specimens mounted on herbarium sheets. About 2000 dry plant specimens are also preserved in the herbarium under proper defined protocols collected from different localities of Malakand division. More than 60% plants are endemic to Malakand division, and fully acclimatized with the environmental condition of botanical garden and herbarium. ; Different approaches have been tested for domestication of the endangered and medicinally important flora of Khyber Pakhtunkhwa. In this connection different pilot project has been started/completed/running with collaborators, like Caralluma, Olea, Phaseolus, Pisum, Cicer, Ricinus, Nigella and Brassica etc.;  Main Address:; Botanical Garden and Herbarium, Department of Botany; University of Malakand; Chakdara; Khyber Pakhtunkhwa; Pakistan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: mnshaalpk@yahoo.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	34.669384
-Longitude:	72.06089
-Accession Number:	7000
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Plant Breeding:	Yes
-Restoration Ecology:	Yes
-Systematics and Taxonomy:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5023
+1-Name: Botanical Garden and Herbarium, Department of Botany 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: UOM;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Botanical Garden and Herbarium, Department of Botany        The Botanical Garden and Herbarium (BG&H) department of Botany at University of Malakand, Chakdara Dir (L.) Khyber puthtunkhwa, Pakistan launched in 2006 by Higher Education Commission (HEC) of Pakistan and registered with the Botanical Garden Conservation International in 2014. In the botanical garden, 7 thousand herbs, shrubs and trees are growing tolerable. They have economical, medicinal and ethno-botanical application cited in different literature. The garden has been properly looked after and retained fine. The garden is well equipped with lath houses and glass house. Several representative small gardens like, Quranic garden, Olive garden, Jasmine garden, Punica garden, Cacti garden and Rose garden have already been installed.       ;   Herbarium is a collection of pressed and dried plant specimens mounted on herbarium sheets. About 2000 dry plant specimens are also preserved in the herbarium under proper defined protocols collected from different localities of Malakand division. More than 60% plants are endemic to Malakand division, and fully acclimatized with the environmental condition of botanical garden and herbarium. ;  Different approaches have been tested for domestication of the endangered and medicinally important flora of Khyber Pakhtunkhwa. In this connection different pilot project has been started/completed/running with collaborators, like Caralluma, Olea, Phaseolus, Pisum, Cicer, Ricinus, Nigella and Brassica etc.;                        Main Address:;         Botanical Garden and Herbarium, Department of Botany;         University of Malakand;        Chakdara;        Khyber Pakhtunkhwa;        Pakistan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: mnshaalpk@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.669384
+2-Longitude: 72.06089
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5023">Please click here if you can update us</a>
+4-Accession Number: 7000
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Biotechnology: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: Yes
+6-Plant Breeding: Yes
+6-Restoration Ecology: Yes
+6-Systematics and Taxonomy: Yes
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: No
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: UOM
+9-International Agenda Registration: Yes
+9-Primary Email: mnshaalpk@yahoo.com
+9-Telephone: 
+9-URL: 

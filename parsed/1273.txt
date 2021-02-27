@@ -1,12 +1,20 @@
-ID:	1273
-Name:	Woodrow Wilson Birthplace 
-Curator's Name:	Joel Hodson, Ph.D., Director of Education
-Director's Name:	The Honorable Don W. Wilson, Ph.D., President and C.E.O.
-Info:	  United States of America - Virginia - Staunton  ;Garden Information;  Institution Code: WOODB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Woodrow Wilson Birthplace; 20 North Coalter Street; P.O. Box 24; Staunton; Virginia 24401 United States of America; ;  Telephone: (540) 885-0897; Fax: (540) 886-9874; URL: <a target="_blank" href="http://www.woodrowwilson.org">www.woodrowwilson.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1938
-Institution Type:	Botanic Garden
-Latitude:	38.1505070
-Longitude:	-79.0685290
-Special Collections:	No information available.
+0-ID: 1273
+1-Name: Woodrow Wilson Birthplace 
+2-Altitude: 0.00 Metres
+2-Date founded: 1938
+2-Info:              Institution Code: WOODB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Woodrow Wilson Birthplace;         20 North Coalter Street;        P.O. Box 24;        Staunton;        Virginia 24401 United States of America;        ;                 Telephone: (540) 885-0897;         Fax: (540) 886-9874;         URL: www.woodrowwilson.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.1505070
+2-Longitude: -79.0685290
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1273">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1273">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1273">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1273">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (540) 886-9874
+9-Institution Code: WOODB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (540) 885-0897
+9-URL: www.woodrowwilson.org

@@ -1,9 +1,17 @@
-ID:	5034
-Name:	Lost Gardens of Heligan, The 
-Curator's Name:	Michael Friend, Garden Supervisor
-Director's Name:	-
-Info:	  United Kingdom - Cornwall - St. Austell  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lost Gardens of Heligan, The; St. Austell; Cornwall PL26 6EN United Kingdom; ;  Telephone: 0044(0)1726 845100; Fax: 0044(0)1726 845101; URL: <a target="_blank" href="http://heligan.com">http://heligan.com; Primary Email: info@heligan.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	50.286713
-Longitude:	-4.813502
+0-ID: 5034
+1-Name: Lost Gardens of Heligan, The 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Lost Gardens of Heligan, The;                         St. Austell;        Cornwall PL26 6EN United Kingdom;        ;                 Telephone: 0044(0)1726 845100;         Fax: 0044(0)1726 845101;         URL: http://heligan.com;         Primary Email: info@heligan.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.286713
+2-Longitude: -4.813502
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5034">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5034">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5034">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5034">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5034">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0044(0)1726 845101
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@heligan.com
+9-Telephone: 0044(0)1726 845100

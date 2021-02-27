@@ -1,12 +1,20 @@
-ID:	2062
-Name:	Medicinal Plant Nursery 
-Curator's Name:	
-Director's Name:	P. Marasinghe
-Info:	  Sri Lanka - Haputale  ;Garden Information;  Institution Code: HAPUT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Medicinal Plant Nursery; Ministry of Indigenous Medicine, Kalupahana; Haputale; Sri Lanka; ;  Telephone: 057 8113; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1986
-Institution Type:	Other
-Latitude:	7.8730
-Longitude:	80.7717
-Special Collections:	Medicinal plants.
+0-ID: 2062
+1-Name: Medicinal Plant Nursery 
+2-Altitude: 0.00 Metres
+2-Date founded: 1986
+2-Info:              Institution Code: HAPUT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Medicinal Plant Nursery;         Ministry of Indigenous Medicine, Kalupahana;                Haputale;        Sri Lanka;        ;                 Telephone: 057 8113;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 7.8730
+2-Longitude: 80.7717
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2062">Please click here if you can update us</a>
+4-Special Collections: Medicinal plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2062">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2062">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2062">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HAPUT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 057 8113
+9-URL: 

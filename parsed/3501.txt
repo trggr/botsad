@@ -1,14 +1,22 @@
-ID:	3501
-Name:	Monticello 
-Curator's Name:	Peter Hatch, Director of Gardens and Grounds
-Director's Name:	Leslie Greene Bowman, President
-Info:	  United States of America - Virginia - Charlottesville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Monticello; Gardens and Grounds Department; P.O. Box 316; Charlottesville; Virginia 22902 United States of America; ;  Telephone: (434) 984-9822; Fax: (804) 977-7757; URL: <a target="_blank" href="http://www.monticello.org">www.monticello.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1768
-Institution Type:	Botanic Garden
-Latitude:	38.0103100
-Longitude:	-78.4522100
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Open to public:	Yes
+0-ID: 3501
+1-Name: Monticello 
+2-Altitude: 0.00 Metres
+2-Date founded: 1768
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Monticello;         Gardens and Grounds Department;        P.O. Box 316;        Charlottesville;        Virginia 22902 United States of America;        ;                 Telephone: (434) 984-9822;         Fax: (804) 977-7757;         URL: www.monticello.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.0103100
+2-Longitude: -78.4522100
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3501">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3501">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3501">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3501">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (804) 977-7757
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (434) 984-9822
+9-URL: www.monticello.org

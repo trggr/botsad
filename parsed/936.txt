@@ -1,11 +1,19 @@
-ID:	936
-Name:	Ravi Sankar University Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Raipur  ;Garden Information;  Institution Code: RAIPU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ravi Sankar University Botanical Garden; Department of Biosciences, Ravi Sankar University, RAIPUR 492 010, Madhya Pradesh, India.; Raipur; India; ;  Telephone: 23970; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1979
-Institution Type:	Botanic Garden
-Latitude:	21.2420
-Longitude:	81.6408
-Special Collections:	Ornamentals, trees, shrubs.
+0-ID: 936
+1-Name: Ravi Sankar University Botanical Garden 
+2-Date founded: 1979
+2-Info:              Institution Code: RAIPU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ravi Sankar University Botanical Garden;         Department of Biosciences,  Ravi Sankar University,  RAIPUR 492 010,  Madhya Pradesh,  India.;                Raipur;        India;        ;                 Telephone: 23970;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.2420
+2-Longitude: 81.6408
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=936">Please click here if you can update us</a>
+4-Special Collections: Ornamentals, trees, shrubs.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=936">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=936">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=936">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: RAIPU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 23970
+9-URL: 

@@ -1,9 +1,18 @@
-ID:	4617
-Name:	Alfred B. Maclay Gardens State Park 
-Curator's Name:	
-Director's Name:	Beth Weidner, Park Manager
-Info:	  United States of America - Florida - Tallahassee  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Alfred B. Maclay Gardens State Park; 3540 Thomasville Road; Tallahassee; Florida 32309 United States of America; ;  Telephone: (850) 487-4556; Fax: ; URL: <a target="_blank" href="http://www.floridastateparks.org/maclaygardens">www.floridastateparks.org/maclaygardens; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	30.5128499
-Longitude:	-84.2444284
+0-ID: 4617
+1-Name: Alfred B. Maclay Gardens State Park 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Alfred B. Maclay Gardens State Park;         3540 Thomasville Road;                Tallahassee;        Florida 32309 United States of America;        ;                 Telephone: (850) 487-4556;         Fax: ;         URL: www.floridastateparks.org/maclaygardens;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.5128499
+2-Longitude: -84.2444284
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4617">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4617">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4617">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4617">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4617">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (850) 487-4556
+9-URL: www.floridastateparks.org/maclaygardens

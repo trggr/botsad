@@ -1,27 +1,32 @@
-ID:	2316
-Name:	Fushan Botanic garden 
-Curator's Name:	Mr. Cheng-Feng Chen
-Director's Name:	Dr. Hsiang-Hua Wang
-Info:	  Taiwan, China - Yilan  ;Garden Information;  Institution Code: FUSHA; International Agenda Registration: No; BGCI Member: No; About the Fushan Botanic garden Fushan Botanical Garden is a part of TFRI’s Fushan Experimental Forest. It contains woody plants from Taiwan’s mid and low-elevation areas which are collected systematically and raised to provide for forestry research, teaching practice and environmental education as well as a means of source protection. The plants displayed are categorized using the Engler system and are divided into the following categories: gymnosperm, choripetal, gampetalous and bamboo. Another section is the special plant-use area which contains species which has particular useful properties. Additionally, there are water and herbal plant sections in which plants are categorized according to their ecological performance and life-form.;  Main Address:; Fushan Botanic garden; P.O. Box 132; Yilan; 260 Taiwan, China; ;  Telephone: 886-3-9228900; Fax: 886-3-9228904; URL: <a target="_blank" href="http://fushan.tfri.gov.tw/">http://fushan.tfri.gov.tw/; Primary Email: fushanweb@tfri.gov.tw ; 
-Plant Records Officer's Name:	
-Altitude:	650.00 Metres
-Annual Rainfall:	3500 mm
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	24.7606
-Longitude:	121.7553
-Natural Vegetation Area:	Yes
-Total Area:	409 Hectares
-Arboretum:	Yes
-Arboretum Size:	15
-Disabled access:	Yes
-Herbarium:	Yes
-Number of Volunteers:	100
-Open to public:	Yes
-Accession Number:	2600
-Cultivation Taxa Num:	710
-Ecology:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2316
+1-Name: Fushan Botanic garden 
+2-Altitude: 650.00 Metres
+2-Annual Rainfall: 3500 mm
+2-Date founded: 1990
+2-Info:              Institution Code: FUSHA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Fushan Botanic garden        Fushan Botanical Garden is a part of TFRI’s Fushan Experimental Forest. It contains woody plants from Taiwan’s mid and low-elevation areas which are collected systematically and raised to provide for forestry research, teaching practice and environmental education as well as a means of source protection. The plants displayed are categorized using the Engler system and are divided into the following categories: gymnosperm, choripetal, gampetalous and bamboo. Another section is the special plant-use area which contains species which has particular useful properties. Additionally, there are water and herbal plant sections in which plants are categorized according to their ecological performance and life-form.;                        Main Address:;         Fushan Botanic garden;         P.O. Box 132;                Yilan;        260 Taiwan, China;        ;                 Telephone: 886-3-9228900;         Fax: 886-3-9228904;         URL: http://fushan.tfri.gov.tw/;         Primary Email: fushanweb@tfri.gov.tw       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 24.7606
+2-Longitude: 121.7553
+2-Natural Vegetation Area: Yes
+2-Total Area: 409 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 15
+3-Disabled access: Yes
+3-Herbarium: Yes
+3-Number of Volunteers: 100
+3-Open to public: Yes
+4-Accession Number: 2600
+4-Cultivation Taxa Num: 710
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2316">Please click here if you can update us</a>
+6-Ecology: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Visitor/Education Centre: Yes
+9-About the Fushan Botanic garden        Fushan Botanical Garden is a part of TFRI’s Fushan Experimental Forest. It contains woody plants from Taiwan’s mid and low-elevation areas which are collected systematically and raised to provide for forestry research, teaching practice and environmental education as well as a means of source protection. The plants displayed are categorized using the Engler system and are divided into the following categories: gymnosperm, choripetal, gampetalous and bamboo. Another section is the special plant-use area which contains species which has particular useful properties. Additionally, there are water and herbal plant sections in which plants are categorized according to their ecological performance and life-form.
+9-BGCI Member: No
+9-Fax: 886-3-9228904
+9-Institution Code: FUSHA
+9-International Agenda Registration: No
+9-Primary Email: fushanweb@tfri.gov.tw
+9-Telephone: 886-3-9228900

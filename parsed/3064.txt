@@ -1,18 +1,21 @@
-ID:	3064
-Name:	Hong Kong Zoological and Botanical Gardens 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	The Director
-Educational Staff Number:	7
-Horticultural Staff Number:	30
-Info:	  China - Hong Kong - Hong Kong Island  ;Garden Information;  Institution Code: HKZB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hong Kong Zoological and Botanical Gardens; Albany Road, Central, Hong Kong SAR, China; Hong Kong Island; Hong Kong China; ;  Telephone: 00852 25300154; Fax: 00852 25371207; URL: <a target="_blank" href="http://www.lcsd.gov.hk/parks/hkzbg/en/index.php">http://www.lcsd.gov.hk/parks/hkzbg/en/index.php; Primary Email: hkzbg@lcsd.gov.hk ; 
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Date founded:	1871
-Institution Type:	Botanic Garden
-Latitude:	22.2802
-Local Address:	中国香港香港岛中环雅宾利道
-Locality:	Information
-Longitude:	114.1601
-Open to public:	Yes
+0-ID: 3064
+1-Name: Hong Kong Zoological and Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1871
+2-Info:              Institution Code: HKZB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hong Kong Zoological and Botanical Gardens;         Albany Road, Central, Hong Kong SAR, China;                Hong Kong Island;        Hong Kong China;        ;                 Telephone: 00852 25300154;         Fax: 00852 25371207;         URL: http://www.lcsd.gov.hk/parks/hkzbg/en/index.php;         Primary Email: hkzbg@lcsd.gov.hk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.2802
+2-Local Address: 中国香港香港岛中环雅宾利道
+2-Locality: Information
+2-Longitude: 114.1601
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3064">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3064">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3064">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3064">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 00852 25371207
+9-Institution Code: HKZB
+9-International Agenda Registration: No
+9-Primary Email: hkzbg@lcsd.gov.hk
+9-Telephone: 00852 25300154

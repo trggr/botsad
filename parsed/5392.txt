@@ -1,9 +1,17 @@
-ID:	5392
-Name:	University of Mazandaran 
-Curator's Name:	
-Director's Name:	
-Info:	  Iran - Babolsar  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Mazandaran; Pasdaran Street; P.O. Box 416; Babolsar; 57416-13534 Iran; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://en.umz.ac.ir/">http://en.umz.ac.ir/; Primary Email: info@umz.ac.ir ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	36.6973371
-Longitude:	52.6437727
+0-ID: 5392
+1-Name: University of Mazandaran 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Mazandaran;         Pasdaran Street;        P.O. Box 416;        Babolsar;        57416-13534 Iran;        ;                 Telephone: ;         Fax: ;         URL: http://en.umz.ac.ir/;         Primary Email: info@umz.ac.ir       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.6973371
+2-Longitude: 52.6437727
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5392">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5392">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5392">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5392">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5392">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@umz.ac.ir
+9-Telephone: 

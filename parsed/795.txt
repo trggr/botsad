@@ -1,81 +1,85 @@
-ID:	795
-Name:	Nanjing Botanical Garden Mem. Sun Yat-sen 
-Fax:	86 (0)25 84432074
-Info:	  China - Jiangsu - Nanjing  ;Garden Information;  Institution Code: NAS; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	bgs@cnbg.net
-Telephone:	86 (0)25 84347118
-Administration Staff Number:	32
-Curator's Name:	
-Director's Name:	Jianhui Xue
-Educational Staff Number:	38
-Horticultural Staff Number:	99
-Plant Records Officer's Name:	
-Research Staff Number:	114
-Altitude:	80.00 Metres
-Annual Rainfall:	1010 mm
-Date founded:	1929
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	32.05135
-Local Address:	中国江苏省南京市中山门外前湖后村1号，邮编 210014
-Locality:	Information
-Longitude:	118.83344
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Xishan Botanical Satellite Garden
-Total Area:	186 Hectares
-Arboretum:	Yes
-Arboretum Size:	10
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	300000
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	8000
-Cultivation Taxa Num:	4500
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Medicinal plants, rare and endangered species, especially those native to Eastern China,trees and shrubs of central and north subtropical area, ornamental plants, succulent and cactus, Iris, timber trees, woody oil plants, ornamental plants, technical plants (Pseudolarix amabilis, P. kaempferi, Nyssa sinensis, Carya cathayensis, Torreya grandis, Tapiscia sinensis, Taxus chinensis, SinojaRare and endangered species, especially those native to Eastern China.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Pharmacology:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 795
+1-Name: Nanjing Botanical Garden Mem. Sun Yat-sen 
+2-Administration Staff Number: 32
+2-Curator's Name: 
+2-Director's Name: Jianhui Xue
+2-Educational Staff Number: 38
+2-Horticultural Staff Number: 99
+2-Info:              Institution Code: NAS;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/795/Sun Yat-sen square.jpg" alt="Sun Yat-sen square" />         Sun Yat-sen square</div>        </div>                           About the Nanjing Botanical Garden Mem. Sun Yat-sen        Nanjing Botanical Garden is the first national botanical garden established in 1929 in China. In 1954, it was received and reconstructed by Eastern China Research Station, Institute of Plant Taxonomy Academia Sinica and renamed as Nanjing Botanical Garden Mem. Sun Yat-Sen, Academia Sinica. By this time, the garden and the institute of botany have merged into a single whole. After 1970, the ownership of the garden belonged to Jiangsu Province. It has under dual leadership of Jiangsu Province and Chinese Academy of Science since 1993. ;  ;  The garden is located in the eastern suburb of Nanjing , a National Scenic Area. With the Purple Mountain behind and the Qianhu Lake in front, the garden lies beside the ancient city wall of Ming Dynasty (1368-1644) and the famous Sun Yat-sen’s Mausoleum. The area of the garden is totally 186 hectare with mild climate, luxuriant vegetation, 1awns, hills and lakes. It is both a fascinating scenic spot and a mysterious plant kingdom. ;  ;  Through hard efforts of several generations, the garden has turned into a well-known modern comprehensive botanical garden that incorporates scientific research, botanical education and tourism. The garden has a living collection of about 4500 taxa and is divided into Northern Garden and Southern garden. As a research center on central and northern subtropical floras of China, the Northern Garden consists of 10 specialized gardens and 700, 000 sheets of herbarium specimens. With collection, introduction, development, utilization and protection of plant resources as its major target, the Northern Garden has gained rich achievements in the research on plant taxonomy, medicinal plants, economic plants, ornamental plants, plant phytochemistry, environmental plants and biodiversity protection. With Tropical Palace as its centre, the Southern Garden consists of specialized garden such as Garden for the Visually-Handicapped,Grass Garden, Aquatic Plant Garden, Rock Garden, Bamboo Garden, Recreational Forest Section, Spore Plant Section, City Landscaping Plant Section Economic Plant Section and Plant Maze.;  ;  Emphasizing on international exchange and cooperation, the garden has set up an exchange program of seeds, plants, specimens and books with over 600 agencies of more than 60 countries in the world. The sister relationship of botanical gardens was established with Missouri Botanical Garden USA, which was the first one in China. Friendly relationship with Botanical Garden of UBC in Canada and the Botanical Garden, University of Tokyo, Japan was also set up. NBG was the first botanical garden in China who joined IUCN and became a member of Threatened Plant Committee of IUCN. The garden held both International Symposium on Botanical Garden( which was the first one in Asia) and Ⅺ International Association of Botanic Gardens Conference successfully.;  ;  Combining scientific contents with artistic appearance, the garden is also a national popular science education base, and receives over 300,000 visitors both domestic and overseas each year.;                        Main Address:;         Nanjing Botanical Garden Mem. Sun Yat-sen;         P.O. Box 1435;        No.1 Qianhu Houcun,Zhongshanmen Wai,;        Nanjing;        Jiangsu 210014 China;        ;                 Telephone: 86 (0)25 84347118;         Fax: 86 (0)25 84432074;         URL: www.cnbg.net;         Primary Email: bgs@cnbg.net       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 114
+3-Altitude: 80.00 Metres
+3-Annual Rainfall: 1010 mm
+3-Date founded: 1929
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 32.05135
+3-Local Address: 中国江苏省南京市中山门外前湖后村1号，邮编 210014
+3-Locality: Information
+3-Longitude: 118.83344
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Xishan Botanical Satellite Garden
+3-Total Area: 186 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 10
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 300000
+4-Number of Volunteers: 100
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: Yes
+5-Accession Number: 8000
+5-Cultivation Taxa Num: 4500
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Medicinal plants, rare and endangered species, especially those native to Eastern China,trees and shrubs of central and north subtropical area, ornamental plants, succulent and cactus, Iris, timber trees, woody oil plants, ornamental plants, technical plants (Pseudolarix amabilis, P. kaempferi, Nyssa sinensis, Carya cathayensis, Torreya grandis, Tapiscia sinensis, Taxus chinensis, SinojaRare and endangered species, especially those native to Eastern China.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: Yes
+7-Pharmacology: Yes
+7-Plant Breeding: Yes
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 86 (0)25 84432074
+9-Institution Code: NAS
+9-International Agenda Registration: No
+9-Primary Email: bgs@cnbg.net
+9-Telephone: 86 (0)25 84347118
+9-URL: www.cnbg.net

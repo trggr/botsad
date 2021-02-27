@@ -1,11 +1,18 @@
-ID:	402
-Name:	Botanischer Garten der Technischen Universität 
-Curator's Name:	
-Director's Name:	Prof. Dr. Ralf-R. Mendel
-Info:	  Germany - Deutschland - Braunschweig  ;Garden Information;  Institution Code: BRAUN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Technischen Universität; Humboldtstrasse 1,; Braunschweig; Germany - Deutschland; ;  Telephone: +49 (0 )531 391 5888; Fax: +49 (0 )531 391 8128; URL: <a target="_blank" href="https://www.tu-braunschweig.de/ifp/garten">https://www.tu-braunschweig.de/ifp/garten; Primary Email: botgart@tu-bs.de ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	52.2805
-Longitude:	10.5356
-Special Collections:	Orchidaceae (500 spp.), Pelargonium (100 spp.), Melica (17 spp.), Alchemilla (100 spp.), native flora of Europe and Iran.
+0-ID: 402
+1-Name: Botanischer Garten der Technischen Universität 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BRAUN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanischer Garten der Technischen Universität;         Humboldtstrasse 1,;                Braunschweig;        Germany - Deutschland;        ;                 Telephone: +49 (0 )531 391 5888;         Fax: +49 (0 )531 391 8128;         URL: https://www.tu-braunschweig.de/ifp/garten;         Primary Email: botgart@tu-bs.de       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.2805
+2-Longitude: 10.5356
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=402">Please click here if you can update us</a>
+4-Special Collections: Orchidaceae (500 spp.), Pelargonium (100 spp.), Melica (17 spp.), Alchemilla (100 spp.), native flora of Europe and Iran.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=402">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=402">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=402">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +49 (0 )531 391 8128
+9-Institution Code: BRAUN
+9-International Agenda Registration: No
+9-Primary Email: botgart@tu-bs.de
+9-Telephone: +49 (0 )531 391 5888

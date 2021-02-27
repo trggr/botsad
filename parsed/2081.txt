@@ -1,12 +1,21 @@
-ID:	2081
-Name:	Xiashi Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Guangxi - Pingyang  ;Garden Information;  Institution Code: XIASH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Xiashi Arboretum; Daqingshan Arboretum of Litho-trees, Pingyang, Guangxi, 532600, China; Pingyang; Guangxi China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	46.6014
-Local Address:	中国广西省平阳，邮编 532600
-Locality:	Information
-Longitude:	123.5329
+0-ID: 2081
+1-Name: Xiashi Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: XIASH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Xiashi Arboretum;         Daqingshan Arboretum of Litho-trees, Pingyang, Guangxi, 532600, China;                Pingyang;        Guangxi China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.6014
+2-Local Address: 中国广西省平阳，邮编 532600
+2-Locality: Information
+2-Longitude: 123.5329
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2081">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2081">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2081">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2081">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2081">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: XIASH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

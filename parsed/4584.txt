@@ -1,9 +1,18 @@
-ID:	4584
-Name:	Theodore Payne Foundation for Wild Flowers and Native Plants 
-Curator's Name:	Tim Becker, Director of Horticulture
-Director's Name:	Kitty Connolly, Executive Director
-Info:	  United States of America - California - Sun Valley  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Theodore Payne Foundation for Wild Flowers and Native Plants; 10459 Taxford Street; Sun Valley; California 91352 United States of America; ;  Telephone: (818) 768-1802; Fax: ; URL: <a target="_blank" href="http://www.theodorepayne.org">www.theodorepayne.org; Primary Email: info@theodorepayne.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	34.2385430
-Longitude:	-118.3594990
+0-ID: 4584
+1-Name: Theodore Payne Foundation for Wild Flowers and Native Plants 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Theodore Payne Foundation for Wild Flowers and Native Plants;         10459 Taxford Street;                Sun Valley;        California 91352 United States of America;        ;                 Telephone: (818) 768-1802;         Fax: ;         URL: www.theodorepayne.org;         Primary Email: info@theodorepayne.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.2385430
+2-Longitude: -118.3594990
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4584">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4584">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4584">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4584">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4584">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@theodorepayne.org
+9-Telephone: (818) 768-1802
+9-URL: www.theodorepayne.org

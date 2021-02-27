@@ -1,16 +1,23 @@
-ID:	4551
-Name:	Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????. 
-Curator's Name:	Yulia Lvova
-Director's Name:	Dr. Vera V. Merker, Director
-Info:	  Russian Federation - Chelyabinsk oblast - Chelyabinsk  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????. Development of the Botanic Garden of Chelyabinsk State University:; 1999 - a decision Academic Council on the establishment of the Botanical Garden; 2000-2002 - The beginning of a collection of greenhouses and the herbarium; 2005 - the creation of collections of open ground;  Main Address:; Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????.; Bratiev Kashirinykh, 129; Chelyabinsk; Chelyabinsk oblast 454001 Russian Federation; ;  Telephone: +7 (495) 662 4914; Fax: ; URL: <a target="_blank" href="http://www.ruspitomniki.ru">www.ruspitomniki.ru; Primary Email: ecol@csu.ru ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	55.177051
-Longitude:	61.31893
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Invasive Species Monitoring:	No
+0-ID: 4551
+1-Name: Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????. 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????.        Development of the Botanic Garden of Chelyabinsk State University:;  1999 - a decision Academic Council on the establishment of the Botanical Garden;  2000-2002 - The beginning of a collection of greenhouses and the herbarium;  2005 - the creation of collections of open ground;                        Main Address:;         Botanical Garden of Chelyabinsk State University / ???????????? ??? ???????????? ?. ????.;         Bratiev Kashirinykh, 129;                Chelyabinsk;        Chelyabinsk oblast 454001 Russian Federation;        ;                 Telephone: +7 (495) 662 4914;         Fax: ;         URL: www.ruspitomniki.ru;         Primary Email: ecol@csu.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.177051
+2-Longitude: 61.31893
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Invasive Species Monitoring: No
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4551">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4551">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4551">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ecol@csu.ru
+9-Telephone: +7 (495) 662 4914
+9-URL: www.ruspitomniki.ru

@@ -1,17 +1,23 @@
-ID:	799
-Name:	Oekologisch-Botanischer Garten Universitaet Bayreuth 
-Curator's Name:	Inge Raps
-Director's Name:	Dr. Gregor Aas, Director
-Info:	  Germany - Deutschland - Bayreuth  ;Garden Information;  Institution Code: BAYRT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oekologisch-Botanischer Garten Universitaet Bayreuth; University of Bayreuth; Universitaetsstrasse 30; Bayreuth; D-95440 Germany - Deutschland; ;  Telephone: ++49-921-55 2961; Fax: ++49-921-55 2976; URL: <a target="_blank" href="http://www.obg.uni-bayreuth.de/de/index.html">http://www.obg.uni-bayreuth.de/de/index.html; Primary Email: obg@uni-bayreuth.de ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1978
-Institution Type:	Botanic Garden
-Latitude:	51.5216
-Longitude:	14.3470
-Natural Vegetation Area:	No
-Total Area:	24 Hectares
-Total area of glasshouses:	6000 Metres
-Open to public:	Yes
-Cultivation Taxa Num:	10000
-Special Collections:	Plants of Canary Islands, Australia
+0-ID: 799
+1-Name: Oekologisch-Botanischer Garten Universitaet Bayreuth 
+2-Altitude: 0.00 Metres
+2-Date founded: 1978
+2-Info:              Institution Code: BAYRT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Oekologisch-Botanischer Garten Universitaet Bayreuth;         University of Bayreuth;        Universitaetsstrasse 30;        Bayreuth;        D-95440 Germany - Deutschland;        ;                 Telephone: ++49-921-55 2961;         Fax: ++49-921-55 2976;         URL: http://www.obg.uni-bayreuth.de/de/index.html;         Primary Email: obg@uni-bayreuth.de       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.5216
+2-Longitude: 14.3470
+2-Natural Vegetation Area: No
+2-Total Area: 24 Hectares
+2-Total area of glasshouses: 6000 Metres
+3-Open to public: Yes
+4-Cultivation Taxa Num: 10000
+4-Special Collections: Plants of Canary Islands, Australia
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=799">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=799">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=799">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: ++49-921-55 2976
+9-Institution Code: BAYRT
+9-International Agenda Registration: No
+9-Primary Email: obg@uni-bayreuth.de
+9-Telephone: ++49-921-55 2961

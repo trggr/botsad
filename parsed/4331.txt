@@ -1,9 +1,18 @@
-ID:	4331
-Name:	Tropical Spice Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Malaysia - Penang  ;Garden Information;  Institution Code: PGTSG; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Tropical Spice Garden; Lone Crag Villa, Lot 595 Mukim 2; Jalan Teluk Bahang; Penang; 11100 Malaysia; ;  Telephone: 604 - 881 1797; Fax: 604 - 881 3794; URL: <a target="_blank" href="http://www.tropicalspicegarden.com">www.tropicalspicegarden.com; Primary Email: info@tropicalspicegarden.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	5.46345
-Longitude:	100.22929
+0-ID: 4331
+1-Name: Tropical Spice Garden 
+2-Info:              Institution Code: PGTSG;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Tropical Spice Garden;         Lone Crag Villa, Lot 595 Mukim 2;        Jalan Teluk Bahang;        Penang;        11100 Malaysia;        ;                 Telephone: 604 - 881 1797;         Fax: 604 - 881 3794;         URL: www.tropicalspicegarden.com;         Primary Email: info@tropicalspicegarden.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 5.46345
+2-Longitude: 100.22929
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4331">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4331">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4331">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4331">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4331">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 604 - 881 3794
+9-Institution Code: PGTSG
+9-International Agenda Registration: No
+9-Primary Email: info@tropicalspicegarden.com
+9-Telephone: 604 - 881 1797
+9-URL: www.tropicalspicegarden.com

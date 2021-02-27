@@ -1,9 +1,17 @@
-ID:	5408
-Name:	Jardín Botánico Haravéri 
-Curator's Name:	
-Director's Name:	
-Info:	  Mexico - Jalisco - San Sebastián del Oeste  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Haravéri; Poblado La Estancia de Landeros; Camino a Potrero de Mulas km 8; San Sebastián del Oeste; Jalisco C. P. 46995 Mexico; ;  Telephone: +52(322)2240578; Fax: ; URL: <a target="_blank" href="https://www.facebook.com/Jardinharaveri">https://www.facebook.com/Jardinharaveri; Primary Email: jbharaveri@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	20°45'34.11"
-Longitude:	104°58'07.00"
+0-ID: 5408
+1-Name: Jardín Botánico Haravéri 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Haravéri;         Poblado La Estancia de Landeros;        Camino a Potrero de Mulas km 8;        San Sebastián del Oeste;        Jalisco C. P. 46995 Mexico;        ;                 Telephone: +52(322)2240578;         Fax: ;         URL: https://www.facebook.com/Jardinharaveri;         Primary Email: jbharaveri@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20°45'34.11"
+2-Longitude: 104°58'07.00"
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5408">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5408">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5408">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5408">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5408">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jbharaveri@gmail.com
+9-Telephone: +52(322)2240578

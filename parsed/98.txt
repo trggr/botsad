@@ -1,92 +1,97 @@
-ID:	98
-Name:	Royal Botanical Gardens, Ontario 
--" src="https:	//www.bgci.org/files/ERABG/project_images/RBG_Canada/Checking%20health_website.jpg" alt="" width="500" height="375" />
--"><br style="text-align:	center
--<a href="mailto:	ttheysmeyer@rbg.ca">Tys Theysmeyer.
--<img style="display:	block
--<p style="text-align:	center
--margin-left:	auto
--margin-right:	auto
-Fax:	(905) 577-0375
-Info:	  Canada - Ontario - Burlington  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: HAM; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	info@rbg.ca
-Telephone:	(905) 527-1158
-Administration Staff Number:	16
-Curator's Name:	Alex Henderson ~ Curator of Collections and Horticulturist
-Director's Name:	Mark Runciman, CEO
-Educational Staff Number:	14
-Horticultural Staff Number:	23
-Plant Records Officer's Name:	Jon L. Peter ~ Curator & Manager of Plant Records
-Research Staff Number:	8
-Altitude:	102.00 Metres
-Annual Rainfall:	680 mm
-Date founded:	1930
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	43.29096
-Local Address:	<BR>Royal Botanical Gardens<BR> 680 Plains Road West<BR> Burlington, Ontario, L7T 4H4<BR> Canada<BR>
-Locality:	Information
-Longitude:	-79.87519
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	n/a
-Total Area:	1100 Hectares
-Total area of glasshouses:	2684 Metres
-Total area of shadehouses:	1143 Metres
-Arboretum:	Yes
-Arboretum Size:	31
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	500000
-Number of Volunteers:	941
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	9536
-Cultivation Taxa Num:	6916
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	The focus of the living collections is based upon ornamental cultivated plants with a small subset of plants being of wild origin and having ex-situ conservation value. As a result, the horticultural work taking place within the living collections is centered upon horticultural research and science, trials and evaluation, education and horticultural display. For a plant to be accessioned within a collection it must have taxonomic, geographic, horticultural, morphological, display, economic, thematic or conservation significance.
-·Veggie Village:	100 Mile Produce Gardens encourages visitors to eat vegetables produced locally in keeping with the one hundred mile diet and promotes ideas on food security, plant biodiversity while empowering visitors to engage with ways of reducing their carbon footprint.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 98
+1-Name: Royal Botanical Gardens, Ontario 
+2-Administration Staff Number: 16
+2-Curator's Name: Alex Henderson ~ Curator of Collections and Horticulturist
+2-Director's Name: Mark Runciman, CEO
+2-Educational Staff Number: 14
+2-Horticultural Staff Number: 23
+2-Info:              Institution Code: HAM;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/98/Rock2017.jpg" alt="Royal Botanical Gardens' historic Rock Garden was opened in 1932. The Rock Garden underwent a significant rejuvenation in 2013-2016." />         Royal Botanical Gardens' historic Rock Garden was opened in 1932. The Rock Garden underwent a significant rejuvenation in 2013-2016.</div>        </div>                           About the Royal Botanical Gardens, Ontario        Royal Botanical Gardens is Canada's largest botanical garden on the basis of its land holdings. It was founded in the 1930s as a combination of cultivated gardens, parks in the City of Hamilton, and protected natural lands. Most of the land area of RBG is located within the city limits of Hamilton, while RBG Centre, with its administrative, research and cultural functions, is located in the west end of neighbouring Burlington.;  ;  <P>As directed by its provincial mandate, since 1941 RBG developed in the 1950s and 1960s into a centre of excellence in both horticulture and the management of natural areas. It has extensive educational programs and serves as an outdoor laboratory for scientific research. More than 25,000 children per year participate in formal education programs, many based at the Nature Interpretive Centre in the RBG Arboretum.;  ;  <P> RBG's cultivated area is comprised of five cultivated gardens holding 50 different plant collections, display gardens and seasonal exhibitions. These gardens include; ;  - The Rock Garden which displays spring bulbs, perenials, spring flowering trees and conifers. ;  - The Laking Garden holds the major perennial collections including irises, hostas, grasses, peonies and a heritage plant collection. ;  - Hendrie Park features collections of roses, lilies, native plants, woodland plants, medicinal plants, scented plants and annual trial beds. ;  - RBG Centre includes a living wall, collections of orchids, a seasonal exhibit space and a conservatory of Mediterranean plants ;  - The Arboretum collections include majestic avenues of trees, ornamental trees and shrubs, a Malus collection and a Magnolia collection. Of particular note is RBG’s signature lilac collection which is one of the largest and most diverse lilac collections in the world. ;  ;  <P>RBG's nature sanctuaries contain one of the most significant and best-studied regional floras in Ontario. Continuing to monitor and conduct field botany in these properties is crucial to managing the institution's natural lands, for interpreting them for the public, and for understanding patterns of plant distribution.;  ;  <P>Present research programs include plant systematics and taxonomy, ecological restoration, field botany, wetlands management, species-at-risk management and recovery, and horticultural taxonomy of hybrid lilacs. Most research is centred on the stewardship and restoration of RBG's natural lands, especially wetlands and threatened terrestrial habitats and plant species.;  ;  <P>The RBG Herbarium, known internationally as "HAM," supports the institution's research activities and is critical to the generation of its knowledge-based products. HAM is an archive of the last 50 years of floristic exploration of southern Ontario and is also important as an international collection of cultivated plant specimens. In total it comprises 80,000 specimens. It includes approximately 15,000 specimens collected within RBG's own properties and the immediate area, and forms the basis for a published checklist of plants growing within the natural lands.;  ;  <P>The RBG Library and Archives have provided research support to both RBG staff and visiting researchers, through extensive serials and monograph collections in horticulture, botany, zoology, garden history and design, landscape architecture and gardening, for nearly 50 years. The Centre for Canadian Historical Horticulture Studies contains one of the largest historical collections of Canadian and international nursery and seed trade catalogues in Canada, as well as the papers of Isabella Preston and other Canadian horticulturists and botanists. The collection also contains a wide variety of ephemera relating to the gardening and horticulture industry in Canada and parts of the United States. The unique focus of these library and archival collections allows RBG to serve as an important centre supporting in-depth research on the development and management of botanical gardens and horticulture trades in North America.;                        Main Address:;         Royal Botanical Gardens, Ontario;         680 Plains Road West;                Burlington;        Ontario L7T 4H4 Canada;        ;                 Telephone: (905) 527-1158;         Fax: (905) 577-0375;         URL: www.rbg.ca;         Primary Email: info@rbg.ca       ;              
+2-Plant Records Officer's Name: Jon L. Peter ~ Curator & Manager of Plant Records
+2-Research Staff Number: 8
+3-Altitude: 102.00 Metres
+3-Annual Rainfall: 680 mm
+3-Date founded: 1930
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 43.29096
+3-Local Address: <BR>Royal Botanical Gardens<BR> 680 Plains Road West<BR> Burlington, Ontario, L7T 4H4<BR> Canada<BR>
+3-Locality: Information
+3-Longitude: -79.87519
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: n/a
+3-Total Area: 1100 Hectares
+3-Total area of glasshouses: 2684 Metres
+3-Total area of shadehouses: 1143 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 31
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 500000
+4-Number of Volunteers: 941
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: No
+5-Accession Number: 9536
+5-Cultivation Taxa Num: 6916
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: Yes
+5-Special Collections: The focus of the living collections is based upon ornamental cultivated plants with a small subset of plants being of wild origin and having ex-situ conservation value. As a result, the horticultural work taking place within the living collections is centered upon horticultural research and science, trials and evaluation, education and horticultural display. For a plant to be accessioned within a collection it must have taxonomic, geographic, horticultural, morphological, display, economic, thematic or conservation significance.
+5-·Veggie Village: 100 Mile Produce Gardens encourages visitors to eat vegetables produced locally in keeping with the one hundred mile diet and promotes ideas on food security, plant biodiversity while empowering visitors to engage with ways of reducing their carbon footprint.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: No
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-"><br style="text-align: center
+9-">Planting reeds in Cootes Paradise Marsh to overcome water level regulation and accelerate the regeneration of lost emergent marsh <p style="text-align: justify
+9-">Royal Botanical Gardens (located in Hamilton and Burlington, Ontario, Canada) owns and manages approximately 2,400 acres of protected nature sanctuaries at the western tip of Lake Ontario. Although within an urban landscape, these lands include some of richest habitats in Canada for diversity of plant species (c. 1,160 species recorded to date). Included in these sanctuaries are extensive wetlands and forests, savannahs, cliff-face ecosystems, and some remnant prairies. These lands include some old-growth communities in deep ravines, but much has been disturbed over the past two centuries as farms and then towns have grown up around them. Protection of this complex landscape began in the 1880s with designation of some wetlands as protected fish habitat. Much more was protected in the 1920s with the declaration of Cootes Paradise Marsh as a bird sanctuary and the purchase of hundreds of acres from developers by the Hamilton Board of Parks Management. <img style="display: block
+9-<a href="mailto: ttheysmeyer@rbg.ca">Tys Theysmeyer</a>. &nbsp
+9-<img style="display: block
+9-BGCI Member: Yes
+9-Fax: (905) 577-0375
+9-Institution Code: HAM
+9-International Agenda Registration: Yes
+9-Planted reeds along the regenerating creek delta in Cootes Paradise Marsh <p style="text-align: justify
+9-Primary Email: info@rbg.ca
+9-Telephone: (905) 527-1158
+9-URL: www.rbg.ca
+9-margin-left: auto
+9-margin-right: auto

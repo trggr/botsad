@@ -1,9 +1,18 @@
-ID:	4451
-Name:	C.W. Post Community Arboretum 
-Curator's Name:	Case Joosse, Grounds Manager
-Director's Name:	Unknown
-Info:	  United States of America - New York - Brookville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; C.W. Post Community Arboretum; Long Island University; 720 Northern Boulevard; Brookville; New York 11548 United States of America; ;  Telephone: (516) 299-2340; Fax: ; URL: <a target="_blank" href="http://www.liu.edu/arboretum">www.liu.edu/arboretum; Primary Email: neighbor@liu.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.8233240
-Longitude:	-73.5925370
+0-ID: 4451
+1-Name: C.W. Post Community Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         C.W. Post Community Arboretum;         Long Island University;        720 Northern Boulevard;        Brookville;        New York 11548 United States of America;        ;                 Telephone: (516) 299-2340;         Fax: ;         URL: www.liu.edu/arboretum;         Primary Email: neighbor@liu.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.8233240
+2-Longitude: -73.5925370
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4451">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4451">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4451">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4451">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4451">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: neighbor@liu.edu
+9-Telephone: (516) 299-2340
+9-URL: www.liu.edu/arboretum

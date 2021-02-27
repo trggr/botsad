@@ -1,12 +1,19 @@
-ID:	327
-Name:	Laurentian University Arboretum 
-Curator's Name:	
-Director's Name:	Dr. P. J. Beckett
-Info:	  Canada - Ontario - Sudbury  ;Garden Information;  Institution Code: SLU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Laurentian University Arboretum; Departments of Biology and Communication; Ramsey Lake Road; Sudbury; Ontario P3E 2C6 Canada; ;  Telephone: (705) 675-1151 x 2259; Fax: ; URL: <a target="_blank" href="http://laurentian.ca/Laurentian/Home/Departments/Biology/About_Biology/arb.htm?Laurentian_Lang=en-CA">http://laurentian.ca/Laurentian/Home/Departments/Biology/About_Biology/arb.htm?Laurentian_Lang=en-CA; Primary Email: pbeckett@laurentian.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1972
-Institution Type:	Botanic Garden
-Latitude:	46.46985
-Longitude:	-80.96935
-Special Collections:	Native flora.
+0-ID: 327
+1-Name: Laurentian University Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1972
+2-Info:              Institution Code: SLU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Laurentian University Arboretum;         Departments of Biology and Communication;        Ramsey Lake Road;        Sudbury;        Ontario P3E 2C6 Canada;        ;                 Telephone: (705) 675-1151 x 2259;         Fax: ;         URL: http://laurentian.ca/Laurentian/Home/Departments/Biology/About_Biology/arb.htm?Laurentian_Lang=en-CA;         Primary Email: pbeckett@laurentian.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.46985
+2-Longitude: -80.96935
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=327">Please click here if you can update us</a>
+4-Special Collections: Native flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=327">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=327">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=327">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SLU
+9-International Agenda Registration: No
+9-Primary Email: pbeckett@laurentian.ca
+9-Telephone: (705) 675-1151 x 2259

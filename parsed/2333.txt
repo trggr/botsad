@@ -1,11 +1,19 @@
-ID:	2333
-Name:	Kuwait Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr Samira Omar
-Info:	  Kuwait - Safat  ;Garden Information;  Institution Code: SAFAT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kuwait Botanic Garden; Kuwait Institute for Scientific Research, PO. Box 24885, 13109 Safat, Kuwait; Safat; Kuwait; ;  Telephone: 965 4830776 4830125 4816237; Fax: 965 4846891; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	29.3116
-Longitude:	47.4817
-Special Collections:	Some native and exotic plants. The botanic garden is at an early stage of development and has limited ex situ collections.
+0-ID: 2333
+1-Name: Kuwait Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: SAFAT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kuwait Botanic Garden;         Kuwait Institute for Scientific Research,  PO. Box 24885,  13109 Safat,  Kuwait;                Safat;        Kuwait;        ;                 Telephone: 965 4830776 4830125 4816237;         Fax: 965 4846891;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.3116
+2-Longitude: 47.4817
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2333">Please click here if you can update us</a>
+4-Special Collections: Some native and exotic plants. The botanic garden is at an early stage of development and has limited ex situ collections.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2333">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2333">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2333">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 965 4846891
+9-Institution Code: SAFAT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 965 4830776 4830125 4816237
+9-URL: 

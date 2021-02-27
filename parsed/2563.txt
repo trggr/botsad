@@ -1,11 +1,25 @@
-ID:	2563
-Name:	Jardin Botanique Montagnard 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Mazet-saint-voy  ;Garden Information;  Institution Code: MAZ; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique Montagnard Location: MAZET-SAINT-VOY; Founded: 1987; Garden Name: Jardin Botanique Montagnard; Address: 43520 MAZET-SAINT-VOY; Status: Municipal; Herbarium: Unknown; Ex situ Collections:; Native plants of the mountains and sub-alpine plants of the region.; No. of ta;  Main Address:; Jardin Botanique Montagnard; 43520 MAZET-SAINT-FOY; Mazet-saint-voy; France; ;  Telephone: 33 4 71 65 06 18; Fax: 33 4 71 65 06 18; URL: <a target="_blank" href="http://">; Primary Email: christian.grosclaude@wanadoo.fr ; 
-Plant Records Officer's Name:	
-Date founded:	1987
-Institution Type:	Botanic Garden
-Latitude:	45.0428
-Longitude:	4.2402
-Special Collections:	Native plants of the mountains and sub-alpine plants of the region.
+0-ID: 2563
+1-Name: Jardin Botanique Montagnard 
+2-Date founded: 1987
+2-Info:              Institution Code: MAZ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique Montagnard        Location: MAZET-SAINT-VOY; Founded: 1987; Garden Name: Jardin Botanique Montagnard; Address: 43520 MAZET-SAINT-VOY; Status: Municipal; Herbarium: Unknown; Ex situ Collections:; Native plants of the mountains and sub-alpine plants of the region.; No. of ta;                        Main Address:;         Jardin Botanique Montagnard;         43520 MAZET-SAINT-FOY;                Mazet-saint-voy;        France;        ;                 Telephone: 33 4 71 65 06 18;         Fax: 33 4 71 65 06 18;         URL: ;         Primary Email: christian.grosclaude@wanadoo.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.0428
+2-Longitude: 4.2402
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2563">Please click here if you can update us</a>
+4-Special Collections: Native plants of the mountains and sub-alpine plants of the region.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2563">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2563">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2563">Please click here if you can update us</a>
+9-About the Jardin Botanique Montagnard        Location: MAZET-SAINT-VOY
+9-Address: 43520 MAZET-SAINT-VOY
+9-BGCI Member: No
+9-Fax: 33 4 71 65 06 18
+9-Founded: 1987
+9-Garden Name: Jardin Botanique Montagnard
+9-Herbarium: Unknown
+9-Institution Code: MAZ
+9-International Agenda Registration: No
+9-Primary Email: christian.grosclaude@wanadoo.fr
+9-Status: Municipal
+9-Telephone: 33 4 71 65 06 18
+9-URL: 

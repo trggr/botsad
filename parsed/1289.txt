@@ -1,12 +1,20 @@
-ID:	1289
-Name:	Landscape & Cosmetic Maintenance Section 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Mumbai (bombay)  ;Garden Information;  Institution Code: BOMBL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Landscape & Cosmetic Maintenance Section; Bhabha Atomic Research Centre,; Trombay, BOMBAY 400 085, India; Mumbai (bombay); India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1964
-Institution Type:	Other
-Latitude:	19.0176
-Longitude:	72.8561
-Special Collections:	Lawn grasses, Bourgainvillea, Canna.
+0-ID: 1289
+1-Name: Landscape & Cosmetic Maintenance Section 
+2-Altitude: 0.00 Metres
+2-Date founded: 1964
+2-Info:              Institution Code: BOMBL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Landscape & Cosmetic Maintenance Section;         Bhabha Atomic Research Centre,;        Trombay, BOMBAY 400 085, India;        Mumbai (bombay);        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 19.0176
+2-Longitude: 72.8561
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1289">Please click here if you can update us</a>
+4-Special Collections: Lawn grasses, Bourgainvillea, Canna.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1289">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1289">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1289">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BOMBL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

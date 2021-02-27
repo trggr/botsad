@@ -1,10 +1,19 @@
-ID:	3640
-Name:	Forest Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Greece - Thessaloniki  ;Garden Information;  Institution Code: TAU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Forest Botanic Garden; Aristotle University of Thessaloniki, Faculty of Forestry and Natural Environment; Institute of Forest Botany-Geobotany; Thessaloniki; 541 24 Greece; ;  Telephone: +30 2310 992765; Fax: +30 2310 992773; URL: <a target="_blank" href="http://www.auth.gr/units/botanicalGarden.el.php3">www.auth.gr/units/botanicalGarden.el.php3; Primary Email: ktheodor@for.auth.gr ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	40.6398
-Longitude:	22.9322
+0-ID: 3640
+1-Name: Forest Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: TAU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Forest Botanic Garden;         Aristotle University of Thessaloniki, Faculty of Forestry and Natural Environment;        Institute of Forest Botany-Geobotany;        Thessaloniki;        541 24 Greece;        ;                 Telephone: +30 2310 992765;         Fax: +30 2310 992773;         URL: www.auth.gr/units/botanicalGarden.el.php3;         Primary Email: ktheodor@for.auth.gr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.6398
+2-Longitude: 22.9322
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3640">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3640">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3640">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3640">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3640">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +30 2310 992773
+9-Institution Code: TAU
+9-International Agenda Registration: No
+9-Primary Email: ktheodor@for.auth.gr
+9-Telephone: +30 2310 992765
+9-URL: www.auth.gr/units/botanicalGarden.el.php3

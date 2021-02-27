@@ -1,10 +1,19 @@
-ID:	1442
-Name:	Arboretum Perkal Botanical Institute 
-Curator's Name:	
-Director's Name:	
-Info:	  Russian Federation - Pyatigorsk  ;Garden Information;  Institution Code: PERKA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Arboretum Perkal Botanical Institute; Academy of Sciences, 357561 PYATIGORSK, Stavropol Region, Russian Federation; Pyatigorsk; Russian Federation; ;  Telephone: 7 86522 9 17 62; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	44.0459
-Longitude:	43.0587
+0-ID: 1442
+1-Name: Arboretum Perkal Botanical Institute 
+2-Date founded: 
+2-Info:              Institution Code: PERKA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Arboretum Perkal Botanical Institute;         Academy of Sciences,  357561 PYATIGORSK,  Stavropol Region,  Russian Federation;                Pyatigorsk;        Russian Federation;        ;                 Telephone: 7 86522 9 17 62;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.0459
+2-Longitude: 43.0587
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1442">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1442">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1442">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1442">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1442">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PERKA
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 7 86522 9 17 62
+9-URL: 

@@ -1,9 +1,18 @@
-ID:	4676
-Name:	St. Louis Community College-Meramec 
-Curator's Name:	Willie Wright, Campus Manager, Buildings and Grounds
-Director's Name:	Paul Roberts, Associate Professor, Horticulture Department
-Info:	  United States of America - Missouri - Saint Louis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; St. Louis Community College-Meramec; Horticulture Department; 11333 Big Bend Road; Saint Louis; Missouri 63122 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.stlcc.edu">www.stlcc.edu; Primary Email: proberts@stlcc.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.5690860
-Longitude:	-90.4205870
+0-ID: 4676
+1-Name: St. Louis Community College-Meramec 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         St. Louis Community College-Meramec;         Horticulture Department;        11333 Big Bend Road;        Saint Louis;        Missouri 63122 United States of America;        ;                 Telephone: ;         Fax: ;         URL: www.stlcc.edu;         Primary Email: proberts@stlcc.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.5690860
+2-Longitude: -90.4205870
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4676">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4676">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4676">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4676">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4676">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: proberts@stlcc.edu
+9-Telephone: 
+9-URL: www.stlcc.edu

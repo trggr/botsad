@@ -1,42 +1,44 @@
-ID:	4359
-Name:	The Palomar College Gardens 
-Administration Staff Number:	1
-Curator's Name:	Antonio Rangel, President
-Director's Name:	Antonio Rangel
-Educational Staff Number:	1
-Horticultural Staff Number:	7
-Info:	  United States of America - California - San Marcos  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the The Palomar College Gardens Palomar Community College District is located in North San Diego County, California. Palomar is one of the largest community colleges in the country, in both geographical area and student population. The student population is over 30,000, throughout the district. The main campus is located in San Marcos on a 252 acre site. In 1973, a 5 acre hillside on the main campus was set aside for an arboretum. Soon thereafter, many trees, palms and bamboos from around the world were planted and labeled, making the arboretum not only an area for the study of Photography, art, communications and physical education students have used the arboretum for class field trips and projects.In 2012 the Palomar Cactus and Succulent Society donated the its collection of more than 3500 speciemens to the campus. This garden is now considered the south pert of the arboretum collection. ; ; Today the Arboretum consist of nearly 10 acres and is considered one of the many gardens at Palomar College. The Friends of the Palomar College Arboretum Committee meets once a month. Usually the second Wednesday of the month at 5:30 pm in room RS-5 on the main San Marcos campus.;  Main Address:; The Palomar College Gardens; 1140 West Mission Road; San Marcos; California 92069-1415 United States of America; ;  Telephone: (760) 744-1150 ext. 2133; Fax: ; URL: <a target="_blank" href="http://www.palomar.edu/arboretum">www.palomar.edu/arboretum; Primary Email: arangel@palomar.edu ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	1973
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	33.1473120
-Longitude:	-117.1852930
-Natural Vegetation Area:	Yes
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	9125
-Number of Volunteers:	2
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
-Plant Breeding:	Yes
-Systematics and Taxonomy:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 4359
+1-Name: The Palomar College Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1973
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level II       ;                                          About the The Palomar College Gardens        Palomar Community College District is located in North San Diego County, California. Palomar is one of the largest community colleges in the country, in both geographical area and student population. The student population is over 30,000, throughout the district. The main campus is located in San Marcos on a 252 acre site. In 1973, a 5 acre hillside on the main campus was set aside for an arboretum. Soon thereafter, many trees, palms and bamboos from around the world were planted and labeled, making the arboretum not only an area for the study of Photography, art, communications and physical education students have used the arboretum for class field trips and projects.In 2012 the Palomar Cactus and Succulent Society donated the its collection of more than 3500 speciemens to the campus. This garden is now considered the south pert of the arboretum collection. ;  ;   Today the Arboretum consist of nearly 10 acres and is considered one of the many gardens at Palomar College. The Friends of the Palomar College Arboretum Committee meets once a month. Usually the second Wednesday of the month at 5:30 pm in room RS-5 on the main San Marcos campus.;                        Main Address:;         The Palomar College Gardens;         1140 West Mission Road;                San Marcos;        California 92069-1415 United States of America;        ;                 Telephone: (760) 744-1150 ext. 2133;         Fax: ;         URL: www.palomar.edu/arboretum;         Primary Email: arangel@palomar.edu       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 33.1473120
+2-Longitude: -117.1852930
+2-Natural Vegetation Area: Yes
+3-Arboretum: Yes
+3-Computer Plant Record System: Yes
+3-Disabled access: No
+3-Friends society: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 9125
+3-Number of Volunteers: 2
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+6-Conservation - Biology: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Horticulture: Yes
+6-Plant Breeding: Yes
+6-Systematics and Taxonomy: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+9-ArbNet Accredited: Level II
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: arangel@palomar.edu
+9-Telephone: (760) 744-1150 ext. 2133
+9-Today the Arboretum consist of nearly 10 acres and is considered one of the many gardens at Palomar College. The Friends of the Palomar College Arboretum Committee meets once a month. Usually the second Wednesday of the month at 5: 30 pm in room RS-5 on the main San Marcos campus.
+9-URL: www.palomar.edu/arboretum

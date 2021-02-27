@@ -1,12 +1,22 @@
-ID:	4364
-Name:	Jinan Botanical Garden 
-Curator's Name:	
-Director's Name:	-
-Info:	  China - Shandong - Zhangqiu City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Jinan Botanical Garden The Jinan Botanical Garden is a large complex covering 6 hectares located about 35 kilometers outside of Jinan. It is actually a collection of several botanical gardens each specializing in a different species such as cherry blossom, peony, pomegranate blossom, magnolia, chrysanthemum, devil wood and bamboo.; ; Eleven featured gardens are planted on various themes, the most intriguing of which is the garden for the blind, which has been planted with visually impaired visitors in mind, incorporating plants whose leaves, branches or fruits have unusual texture and shape such as ginkgo, horse chestnut, persimmon and red bud.; ; Six lakes spaced around the area ensure that the Gardens retain a fresh, gently humid atmosphere. The lakes provide intoxicating views in their own right: their wide vistas complement the Garden's dense foliage. There are also 3 waterfalls near the entrance to the park, and a number of smaller water features dotted about.; ; A Scientific Popularization Hall is designed to educate visitors about the work carried out at Jinan Botanical Garden. It has three exhibition halls: plant hall, insect hall and a multimedia education center, housing exhibits describing the evolution of plants and scientific knowledge through plenty of pictures, specimens and fossils.; ; Directly outside the Scientific Popularization Hall is a 20-hectare area crammed with brightly colored plants. More than 20 varieties of tree picked for their unusual foliage grow here including Red-leaf Cherry Plum and Phoenix Tree as well as Metasequoia and Ginkgo, both of which are said to be living plant fossils.; ; Over 360 varieties of plant and over 3.50 million individual specimens from every corner of China are grown at the Jinan Botanical Garden. But if you really can't bear to see another leaf or bloom, there's even an amusement park within the Gardens.;  Main Address:; Jinan Botanical Garden; 243 Provincial Road; Bucun Town; Zhangqiu City; Shandong China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	36.61498
-Longitude:	117.45854
-Total Area:	30 Hectares
-Special Collections:	Over 360 varieties of plant and over 3.50 million individual specimens from every corner of China are grown at the Jinan Botanical Garden.
+0-ID: 4364
+1-Name: Jinan Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jinan Botanical Garden        The Jinan Botanical Garden is a large complex covering 6 hectares located about 35 kilometers outside of Jinan. It is actually a collection of several botanical gardens each specializing in a different species such as cherry blossom, peony, pomegranate blossom, magnolia, chrysanthemum, devil wood and bamboo.;  ;  Eleven featured gardens are planted on various themes, the most intriguing of which is the garden for the blind, which has been planted with visually impaired visitors in mind, incorporating plants whose leaves, branches or fruits have unusual texture and shape such as ginkgo, horse chestnut, persimmon and red bud.;   ;  Six lakes spaced around the area ensure that the Gardens retain a fresh, gently humid atmosphere. The lakes provide intoxicating views in their own right: their wide vistas complement the Garden's dense foliage. There are also 3 waterfalls near the entrance to the park, and a number of smaller water features dotted about.;   ;  A Scientific Popularization Hall is designed to educate visitors about the work carried out at Jinan Botanical Garden. It has three exhibition halls: plant hall, insect hall and a multimedia education center, housing exhibits describing the evolution of plants and scientific knowledge through plenty of pictures, specimens and fossils.;   ;  Directly outside the Scientific Popularization Hall is a 20-hectare area crammed with brightly colored plants. More than 20 varieties of tree picked for their unusual foliage grow here including Red-leaf Cherry Plum and Phoenix Tree as well as Metasequoia and Ginkgo, both of which are said to be living plant fossils.;   ;  Over 360 varieties of plant and over 3.50 million individual specimens from every corner of China are grown at the Jinan Botanical Garden. But if you really can't bear to see another leaf or bloom, there's even an amusement park within the Gardens.;                        Main Address:;         Jinan Botanical Garden;         243 Provincial Road;        Bucun Town;        Zhangqiu City;        Shandong China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.61498
+2-Longitude: 117.45854
+2-Total Area: 30 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4364">Please click here if you can update us</a>
+4-Special Collections: Over 360 varieties of plant and over 3.50 million individual specimens from every corner of China are grown at the Jinan Botanical Garden.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4364">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4364">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4364">Please click here if you can update us</a>
+9-A Scientific Popularization Hall is designed to educate visitors about the work carried out at Jinan Botanical Garden. It has three exhibition halls: plant hall, insect hall and a multimedia education center, housing exhibits describing the evolution of plants and scientific knowledge through plenty of pictures, specimens and fossils.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Six lakes spaced around the area ensure that the Gardens retain a fresh, gently humid atmosphere. The lakes provide intoxicating views in their own right: their wide vistas complement the Garden's dense foliage. There are also 3 waterfalls near the entrance to the park, and a number of smaller water features dotted about.
+9-Telephone: 
+9-URL: 

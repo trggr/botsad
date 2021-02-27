@@ -1,9 +1,18 @@
-ID:	5606
-Name:	Jardin Botanico Atocha-La Liria 
-Curator's Name:	
-Director's Name:	David Medina Jara
-Info:	  East Timor - Tungurahua - Atocha-Ficoa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Atocha-La Liria; Av. Rodrigo Pachano y El Carrizo; Atocha-Ficoa; Tungurahua East Timor; ;  Telephone: (03) 2828939; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: davidmedinajara@hotmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-1.22829
-Longitude:	-78.6227
+0-ID: 5606
+1-Name: Jardin Botanico Atocha-La Liria 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico Atocha-La Liria;         Av. Rodrigo Pachano y El Carrizo;                Atocha-Ficoa;        Tungurahua East Timor;        ;                 Telephone: (03) 2828939;         Fax: ;         URL: ;         Primary Email: davidmedinajara@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -1.22829
+2-Longitude: -78.6227
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5606">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5606">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5606">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5606">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5606">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: davidmedinajara@hotmail.com
+9-Telephone: (03) 2828939
+9-URL: 

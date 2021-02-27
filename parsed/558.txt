@@ -1,49 +1,54 @@
-ID:	558
-Name:	Ogród Botaniczny w Lodzi 
-"garden-photo"> <img src="/photos/558/Ogród Botaniczny - Kopia.jpg" alt="Collection of tulips" /> Collection of tulips  About the Ogród Botaniczny w Lodzi The Botanic Garden in Lodz is located in the western part of the city and covers an area of 67 hectares. The garden was opened to the public in 1973. The Garden's plant collection consist of about 3500 taxa which are exhibited in the thematic sections:	japanese garden, plant taxonomy section, alpine garden, decorative plant section, park greenery, medicinal plant section, polish flora section and arboretum.
-Fax:	48 42 688 44 14
-Info:	  Poland - łódzkie - Łódź  ;Garden Information;  Institution Code: LODZ; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	sekretariat@botaniczny.lodz.pl
-Telephone:	48 42 688 44 20
-The Botanic Garden has also an interesting collection of greenhouse plants (2500 taxa), which is presented in the Palm House. There are three pavilions:	subtropical flora, cacti and other succulents and tropical flora with, the oldest in Poland, palm trees. The integral part of the Palm House is a Didactic Garden.
-The biggest attraction of the Garden are:	a collection of 50 000 tulips forming in late april picturesque carpet, a collection of peonies and daylilies represented by many varieties, collection of medicinal plants, lilacs, hydrangeas, ornamental apple trees and many others. In the Garden there are several educational paths which allow visitors to explore the mysteries of nature. The new attraction of the Botanic Garden is The Open-air Plant Museum with traditional rural garden and orchard.
-Administration Staff Number:	14
-Curator's Name:	
-Director's Name:	Dorota Mańkowska PhD
-Educational Staff Number:	4
-Horticultural Staff Number:	41
-Plant Records Officer's Name:	
-Research Staff Number:	10
-Altitude:	187.00 Metres
-Annual Rainfall:	521 mm
-Date founded:	1973
-Institution Type:	Botanic Garden
-Latitude:	51.7592
-Local Address:	ul. Krzemieniecka 36/38
-Locality:	Information
-Longitude:	19.4559
-Total Area:	67 Hectares
-Total area of glasshouses:	2000 Metres
-Total area of shadehouses:	1200 Metres
-Arboretum:	Yes
-Arboretum Size:	19
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	170000
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	7000
-Invasive Species Monitoring:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 558
+1-Name: Ogród Botaniczny w Lodzi 
+2-Administration Staff Number: 14
+2-Curator's Name: 
+2-Director's Name: Dorota Mańkowska PhD
+2-Educational Staff Number: 4
+2-Horticultural Staff Number: 41
+2-Info:              Institution Code: LODZ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/558/Ogród Botaniczny - Kopia.jpg" alt="Collection of tulips" />         Collection of tulips</div>        </div>                           About the Ogród Botaniczny w Lodzi        The Botanic Garden in Lodz is located in the western part of the city and covers an area of 67 hectares. The garden was opened to the public in 1973. The Garden's plant collection consist of about 3500 taxa which are exhibited in the thematic sections: japanese garden, plant taxonomy section, alpine garden, decorative plant section, park greenery, medicinal plant section, polish flora section and arboretum.;  The biggest attraction of the Garden are: a collection of 50 000 tulips forming in late april picturesque carpet, a collection of peonies and daylilies represented by many varieties, collection of medicinal plants, lilacs, hydrangeas, ornamental apple trees and many others. In the Garden there are several educational paths which allow visitors to explore the mysteries of nature. The new attraction of the Botanic Garden is The Open-air Plant Museum with traditional rural garden and orchard.;  The Botanic Garden has also an interesting collection of greenhouse plants (2500 taxa), which is presented in the Palm House. There are three pavilions: subtropical flora, cacti and other succulents and tropical flora with, the oldest in Poland, palm trees. The integral part of the Palm House is a Didactic Garden.;  Primarily the Garden performs didactic functions, popularizes horticultural, botanic and ecological knowledge and plays the social role. Garden staff conduct a variety of educational activities such as workshops, laboratory exercises and guided tours for children and adults. During each year there are more than 20 organized thematic exhibitions and outdoor events. A very important role of the Garden is also rare and endangered plant species conservation.;                        Main Address:;         Ogród Botaniczny w Lodzi;         ul. Krzemieniecka 36/38;                Łódź;        łódzkie 94-303 Poland;        ;                 Telephone: 48 42 688 44 20;         Fax: 48 42 688 44 14;         URL: www.botaniczny.lodz.pl;         Primary Email: sekretariat@botaniczny.lodz.pl       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 10
+3-Altitude: 187.00 Metres
+3-Annual Rainfall: 521 mm
+3-Date founded: 1973
+3-Institution Type: Botanic Garden
+3-Latitude: 51.7592
+3-Local Address: ul. Krzemieniecka 36/38
+3-Locality: Information
+3-Longitude: 19.4559
+3-Total Area: 67 Hectares
+3-Total area of glasshouses: 2000 Metres
+3-Total area of shadehouses: 1200 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 19
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 170000
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Cultivation Taxa Num: 7000
+5-Invasive Species Monitoring: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Reintroduction Programme: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=558">Please click here if you can update us</a>
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+9-<img src="/photos/558/Ogród Botaniczny - Kopia.jpg" alt="Collection of tulips" />         Collection of tulips</div>        </div>                           About the Ogród Botaniczny w Lodzi        The Botanic Garden in Lodz is located in the western part of the city and covers an area of 67 hectares. The garden was opened to the public in 1973. The Garden's plant collection consist of about 3500 taxa which are exhibited in the thematic sections: japanese garden, plant taxonomy section, alpine garden, decorative plant section, park greenery, medicinal plant section, polish flora section and arboretum.
+9-BGCI Member: Yes
+9-Fax: 48 42 688 44 14
+9-Institution Code: LODZ
+9-International Agenda Registration: Yes
+9-Primary Email: sekretariat@botaniczny.lodz.pl
+9-Telephone: 48 42 688 44 20
+9-The Botanic Garden has also an interesting collection of greenhouse plants (2500 taxa), which is presented in the Palm House. There are three pavilions: subtropical flora, cacti and other succulents and tropical flora with, the oldest in Poland, palm trees. The integral part of the Palm House is a Didactic Garden.
+9-The biggest attraction of the Garden are: a collection of 50 000 tulips forming in late april picturesque carpet, a collection of peonies and daylilies represented by many varieties, collection of medicinal plants, lilacs, hydrangeas, ornamental apple trees and many others. In the Garden there are several educational paths which allow visitors to explore the mysteries of nature. The new attraction of the Botanic Garden is The Open-air Plant Museum with traditional rural garden and orchard.
+9-URL: www.botaniczny.lodz.pl

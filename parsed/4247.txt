@@ -1,12 +1,20 @@
-ID:	4247
-Name:	Dunsmuir Botanical Gardens 
-Curator's Name:	Candace Miller, Gardens Oversight Chair
-Director's Name:	Judy Harvey, Botanical Gardens Chair
-Info:	  United States of America - California - Dunsmuir  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dunsmuir Botanical Gardens; P.O. Box 242; Dunsmuir; California 96025 United States of America; ;  Telephone: (530) 235-4740; Fax: ; URL: <a target="_blank" href="http://www.dunsmuirbotanicalgardens.org">www.dunsmuirbotanicalgardens.org; Primary Email: info@dunsmuirbotanicalgardens.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	41.2252300
-Longitude:	-122.2766800
-Friends society:	Yes
-Open to public:	Yes
+0-ID: 4247
+1-Name: Dunsmuir Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dunsmuir Botanical Gardens;         P.O. Box 242;                Dunsmuir;        California 96025 United States of America;        ;                 Telephone: (530) 235-4740;         Fax: ;         URL: www.dunsmuirbotanicalgardens.org;         Primary Email: info@dunsmuirbotanicalgardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.2252300
+2-Longitude: -122.2766800
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4247">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4247">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4247">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4247">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@dunsmuirbotanicalgardens.org
+9-Telephone: (530) 235-4740
+9-URL: www.dunsmuirbotanicalgardens.org

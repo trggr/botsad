@@ -1,28 +1,29 @@
-ID:	1386
-Name:	Botanical Garden Druzba 
-Administration Staff Number:	3
-Curator's Name:	
-Director's Name:	Unknown
-Educational Staff Number:	
-Horticultural Staff Number:	18
-Info:	  Bulgaria - Varna  ;Garden Information;  Institution Code: VARNA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden Druzba; Varna 9000,Bulgaria.; Varna; Bulgaria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Date founded:	1977
-Institution Type:	Botanic Garden
-Latitude:	43.2059
-Longitude:	27.9067
-Total Area:	36 Hectares
-Total area of glasshouses:	469 Metres
-Arboretum:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	50000
-Seed Bank:	Yes
-Cultivation Taxa Num:	1750
-Special Collections:	No information available.
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Education:	Yes
+0-ID: 1386
+1-Name: Botanical Garden Druzba 
+2-Altitude: 0.00 Metres
+2-Date founded: 1977
+2-Info:              Institution Code: VARNA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden Druzba;         Varna 9000,Bulgaria.;                Varna;        Bulgaria;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.2059
+2-Longitude: 27.9067
+2-Total Area: 36 Hectares
+2-Total area of glasshouses: 469 Metres
+3-Arboretum: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 50000
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 1750
+4-Special Collections: No information available.
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Education: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1386">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: VARNA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

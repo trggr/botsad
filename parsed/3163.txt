@@ -1,39 +1,40 @@
-ID:	3163
-Name:	Jardin Etnobotanico Francisco Peláez R. A.C 
-Administration Staff Number:	2
-Curator's Name:	Miriam Morales
-Director's Name:	Eloina Pelaez Valdez
-Educational Staff Number:	2
-Horticultural Staff Number:	2
-Info:	  Mexico - Puebla - San Andres Cholula  ;Garden Information;  Institution Code: PFPR; International Agenda Registration: Yes; BGCI Member: No; About the Jardin Etnobotanico Francisco Peláez R. A.C The Ethnobotanic Garden (Jardín Etnobotánico) Francisco Peláez R., A.C. of San Andrés Cholula, Puebla, Mexico, was founded in 1999. It is an independent non-profit organization, constituted legally as an Asociación Civil (a non-profit Civil Association). ; The aim of the Garden is the conservation of the biodiversity of the region. We do this through cultivation, education, research, and the promotion of an ecologically sustainable life. ; It employs 26 people, full-time and part-time.; We receive visits from educational institutions of every level from pre-school to university and offer them guided tours and a wide program of workshops, according to the needs of the group. We are open to the public and at weekends we offer workshops on a wide range of topics. We also conduct training programs on a number of different themes. The emphasis in the educational program is not just to transmit knowledge: we want to infuse visitors with a love for plants and a commitment to preserving the diversity of life that surrounds us. ; The Garden has a program of research, collecting, identifying and preserving the plants of the region and investigating their properties and traditional uses. We also conduct research on the fauna of the region and we are in the process of developing the Museum of Regional Biodiversity. The Garden contains an urban sanctuary and observatory for birds, a seed bank of regional plants, the regional collection of insects, a community compost and a community center for recycling waste. We also support schools and other institutions in the creation of their own gardens and in the promotion of conditions of sustainable development. ; We have a program of diffusion of our activities and our projects. We are very active in the social media, participate regularly in local television and radio programs and contribute to the local newspapers with articles and notes. We collaborate in various ways with a number of universities (the Universidad de las Américas, the Universidad Autónoma de Puebla, the Universidad Iberoamericana and others): important in this context are the collaboration agreements under which students perform their social service working on different projects in the Garden: in the current year we have already had 38 such students. Together with the Universidad de las Américas, we have published a series of local guides to wild medicinal plants, birds, butterflies, beetles, reptiles and amphibians. We have also co-edited a book on the biodiversity of the state of Puebla.; The Garden is a member of the Mexican Association of Botanic Gardens (Asociación Mexicana de Jardines Botánicos) and of Botanic Garden Conservation International. It has been recognized by the Federal Department of the Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)) as a Center of Environmental and Cultural Education at the highest level (Level III), and in June 2015 it obtained a Distinction in the National Prize for Ecological Merit.;  Main Address:; Jardin Etnobotanico Francisco Peláez R. A.C; 2 sur No.1700; San Andres Cholula; Puebla 72810 Mexico; ;  Telephone: (52 222) 2610350; Fax: ; URL: <a target="_blank" href="http://www.jardinetnobotanico.org">www.jardinetnobotanico.org; Primary Email: jardinetnobotanico@gmail.com ; 
-Plant Records Officer's Name:	Eloina Pelaez Valdez
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Annual Rainfall:	961 mm
-Date founded:	1993
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	19.0456
-Local Address:	2 sur No. 1700
-Locality:	Information
-Longitude:	-98.3091
-Natural Vegetation Area:	No
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Volunteers:	25
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Special Collections:	o perfume garden. The parfume garden is composed of different plants all of which have been used in perfumery either for their fragrances or for their fixative properties.
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
-Urban Environments:	Yes
-Guided Tours:	Yes
+0-ID: 3163
+1-Name: Jardin Etnobotanico Francisco Peláez R. A.C 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 961 mm
+2-Date founded: 1993
+2-Info:              Institution Code: PFPR;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Jardin Etnobotanico Francisco Peláez R. A.C        The Ethnobotanic Garden (Jardín Etnobotánico) Francisco Peláez R., A.C. of San Andrés Cholula, Puebla, Mexico, was founded in 1999. It is an independent non-profit organization, constituted legally as an Asociación Civil (a non-profit Civil Association). ;  The aim of the Garden is the conservation of the biodiversity of the region. We do this through cultivation, education, research, and the promotion of an ecologically sustainable life. ;  It employs 26 people, full-time and part-time.;  We receive visits from educational institutions of every level from pre-school to university and offer them guided tours and a wide program of workshops, according to the needs of the group. We are open to the public and at weekends we offer workshops on a wide range of topics. We also conduct training programs on a number of different themes. The emphasis in the educational program is not just to transmit knowledge: we want to infuse visitors with a love for plants and a commitment to preserving the diversity of life that surrounds us. ;  The Garden has a program of research, collecting, identifying and preserving the plants of the region and investigating their properties and traditional uses. We also conduct research on the fauna of the region and we are in the process of developing the Museum of Regional Biodiversity. The Garden contains an urban sanctuary and observatory for birds, a seed bank of regional plants, the regional collection of insects, a community compost and a community center for recycling waste. We also support schools and other institutions in the creation of their own gardens and in the promotion of conditions of sustainable development. ;  We have a program of diffusion of our activities and our projects. We are very active in the social media, participate regularly in local television and radio programs and contribute to the local newspapers with articles and notes. We collaborate in various ways with a number of universities (the Universidad de las Américas, the Universidad Autónoma de Puebla, the Universidad Iberoamericana and others): important in this context are the collaboration agreements under which students perform their social service working on different projects in the Garden: in the current year we have already had 38 such students. Together with the Universidad de las Américas, we have published a series of local guides to wild medicinal plants, birds, butterflies, beetles, reptiles and amphibians. We have also co-edited a book on the biodiversity of the state of Puebla.;  The Garden is a member of the Mexican Association of Botanic Gardens (Asociación Mexicana de Jardines Botánicos) and of Botanic Garden Conservation International. It has been recognized by the Federal Department of the Environment and Natural Resources (Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)) as a Center of Environmental and Cultural Education at the highest level (Level III), and in June 2015 it obtained a Distinction in the National Prize for Ecological Merit.;                        Main Address:;         Jardin Etnobotanico Francisco Peláez R. A.C;         2 sur No.1700;                San Andres Cholula;        Puebla 72810 Mexico;        ;                 Telephone: (52 222) 2610350;         Fax: ;         URL: www.jardinetnobotanico.org;         Primary Email: jardinetnobotanico@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 19.0456
+2-Local Address: 2 sur No. 1700
+2-Locality: Information
+2-Longitude: -98.3091
+2-Natural Vegetation Area: No
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: No
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Volunteers: 25
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-Special Collections: o perfume garden. The parfume garden is composed of different plants all of which have been used in perfumery either for their fragrances or for their fixative properties.
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Horticulture: Yes
+6-Urban Environments: Yes
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PFPR
+9-International Agenda Registration: Yes
+9-Primary Email: jardinetnobotanico@gmail.com
+9-Telephone: (52 222) 2610350
+9-URL: www.jardinetnobotanico.org
+9-We receive visits from educational institutions of every level from pre-school to university and offer them guided tours and a wide program of workshops, according to the needs of the group. We are open to the public and at weekends we offer workshops on a wide range of topics. We also conduct training programs on a number of different themes. The emphasis in the educational program is not just to transmit knowledge: we want to infuse visitors with a love for plants and a commitment to preserving the diversity of life that surrounds us.

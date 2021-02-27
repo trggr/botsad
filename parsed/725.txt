@@ -1,58 +1,58 @@
-ID:	725
-Name:	Marie Selby Botanical Gardens 
-Administration Staff Number:	20
-Curator's Name:	Bruce Holst, Vice President for Botany
-Director's Name:	Jennifer Rominiecki
-Educational Staff Number:	5
-Horticultural Staff Number:	15
-Info:	  United States of America - Florida - Sarasota  ;Garden Information;  Institution Code: SEL; International Agenda Registration: No; BGCI Member: Yes; About the Marie Selby Botanical Gardens Mission; To provide bayfront sanctuaries connecting people with air plants of the world, native nature, and our regional history.; ; Vision; Marie Selby Botanical Gardens provides 45 acres of bayfront sanctuaries connecting people with air plants of the world, native nature, and our regional history. Established by forward thinking women of their time, Selby Gardens is composed of the 15-acre Downtown Sarasota campus and the 30-acre Historic Spanish Point campus in the Osprey area of Sarasota County, Florida. The Downtown Campus on Sarasota Bay is the only botanical garden in the world dedicated to the display and study of epiphytic orchids, bromeliads, gesneriads and ferns, and other tropical plants. There is a significant focus on botany, horticulture, education, historical preservation, and the environment. The Historic Spanish Point (HSP) Campus is located less than 10 miles south along Little Sarasota Bay. The HSP Campus, one of the largest preserves showcasing native Florida plants that is interpreted for and open to the public, celebrates an archaeological record that encompasses approximately 5,000 years of Florida history.;  Main Address:; Marie Selby Botanical Gardens; 1534 Mound Street; Sarasota; Florida 34236 United States of America; ;  Telephone: (941) 366-5731; Fax: (941) 366-9807; URL: <a target="_blank" href="http://www.selby.org">www.selby.org; Primary Email: contactus@selby.org ; 
-Plant Records Officer's Name:	Shawn McCourt
-Research Staff Number:	5
-Altitude:	2.00 Metres
-Annual Rainfall:	1400 mm
-Date founded:	1973
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	27.3282256
-Longitude:	-82.5397761
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Historic Spanish Point
-Total Area:	18 Hectares
-Total area of glasshouses:	2300 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	230000
-Number of Volunteers:	600
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	14500
-Cultivation Taxa Num:	5000
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	More than 200 expeditions to the tropics and subtropics have contributed to the MSBG collections of over 12,500 accessions/plantings of living plants, which include some 5000 species in 1200 genera from 214 plant families. These are divided into two main collections, the greenhouse and grounds collections. The greenhouse collection includes over 13,000 accessions in more than 600 genera representing 92 plant families. These are comprised of (using numbers of accessions) 4900 Orchidaceae, 3600 Bromeliaceae, 660 Araceae, 240 Pteridophytes, 250 Gesneriaceae, and 1300 other plants. The grounds collection contains approximately 2300 recorded tropical and subtropical plantings, representing some 1200 species, 620 genera, and 165 plant families.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Molecular Genetics:	Yes
-Systematics and Taxonomy:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 725
+1-Name: Marie Selby Botanical Gardens 
+2-Altitude: 2.00 Metres
+2-Annual Rainfall: 1400 mm
+2-Date founded: 1973
+2-Info:              Institution Code: SEL;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Marie Selby Botanical Gardens        Mission;  To provide bayfront sanctuaries connecting people with air plants of the world, native nature, and our regional history.;  ;  Vision;  Marie Selby Botanical Gardens provides 45 acres of bayfront sanctuaries connecting people with air plants of the world, native nature, and our regional history.  Established by forward thinking women of their time, Selby Gardens is composed of the 15-acre Downtown Sarasota campus and the 30-acre Historic Spanish Point campus in the Osprey area of Sarasota County, Florida.  The Downtown Campus on Sarasota Bay is the only botanical garden in the world dedicated to the display and study of epiphytic orchids, bromeliads, gesneriads and ferns, and other tropical plants. There is a significant focus on botany, horticulture, education, historical preservation, and the environment. The Historic Spanish Point (HSP) Campus is located less than 10 miles south along Little Sarasota Bay. The HSP Campus, one of the largest preserves showcasing native Florida plants that is interpreted for and open to the public, celebrates an archaeological record that encompasses approximately 5,000 years of Florida history.;                        Main Address:;         Marie Selby Botanical Gardens;         1534 Mound Street;                Sarasota;        Florida 34236 United States of America;        ;                 Telephone: (941) 366-5731;         Fax: (941) 366-9807;         URL: www.selby.org;         Primary Email: contactus@selby.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 27.3282256
+2-Longitude: -82.5397761
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Historic Spanish Point
+2-Total Area: 18 Hectares
+2-Total area of glasshouses: 2300 Metres
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 230000
+3-Number of Volunteers: 600
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: Yes
+4-Accession Number: 14500
+4-Cultivation Taxa Num: 5000
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+4-Special Collections: More than 200 expeditions to the tropics and subtropics have contributed to the MSBG collections of over 12,500 accessions/plantings of living plants, which include some 5000 species in 1200 genera from 214 plant families. These are divided into two main collections, the greenhouse and grounds collections. The greenhouse collection includes over 13,000 accessions in more than 600 genera representing 92 plant families. These are comprised of (using numbers of accessions) 4900 Orchidaceae, 3600 Bromeliaceae, 660 Araceae, 240 Pteridophytes, 250 Gesneriaceae, and 1300 other plants. The grounds collection contains approximately 2300 recorded tropical and subtropical plantings, representing some 1200 species, 620 genera, and 165 plant families.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Ecology: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Molecular Genetics: Yes
+6-Systematics and Taxonomy: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: (941) 366-9807
+9-Institution Code: SEL
+9-International Agenda Registration: No
+9-Primary Email: contactus@selby.org
+9-Telephone: (941) 366-5731
+9-URL: www.selby.org

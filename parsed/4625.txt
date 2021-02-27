@@ -1,9 +1,18 @@
-ID:	4625
-Name:	Hills & Dales Estate 
-Curator's Name:	Jo Phillips, Horticulture Manager
-Director's Name:	Carleton Wood, Executive Director
-Info:	  United States of America - Georgia - LaGrange  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hills & Dales Estate; 1916 Hills and Dales Drive; P.O. Box 790; LaGrange; Georgia 30241 United States of America; ;  Telephone: (706) 882-3242; Fax: ; URL: <a target="_blank" href="http://www.hillsanddales.org">www.hillsanddales.org; Primary Email: horticulture@hillsanddales.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	33.0390490
-Longitude:	-85.0484420
+0-ID: 4625
+1-Name: Hills & Dales Estate 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hills & Dales Estate;         1916 Hills and Dales Drive;        P.O. Box 790;        LaGrange;        Georgia 30241 United States of America;        ;                 Telephone: (706) 882-3242;         Fax: ;         URL: www.hillsanddales.org;         Primary Email: horticulture@hillsanddales.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.0390490
+2-Longitude: -85.0484420
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4625">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4625">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4625">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4625">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4625">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: horticulture@hillsanddales.org
+9-Telephone: (706) 882-3242
+9-URL: www.hillsanddales.org

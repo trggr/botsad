@@ -1,20 +1,22 @@
-ID:	4966
-Name:	The Yorkshire Arboretum 
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	Dr John Grimshaw
-Educational Staff Number:	1
-Horticultural Staff Number:	4
-Info:	  United Kingdom - Yorkshire - York  ;Garden Information;  Institution Code: BG5736; International Agenda Registration: No; BGCI Member: Yes; About the The Yorkshire Arboretum The Yorkshire Arboretum is a glorious, 120 acre garden of trees from around the world set in a stunning landscape of parkland, lakes and ponds on the Castle Howard Estate near York. ; ; ; The trees in the Yorkshire Arboretum come from temperate regions around the world, including Chile and Australasia as well as the more expected North America, Europe and Asia. Originally planted in open fields, the collection has been winnowed by thirty or more winters; while there have been losses, the survivors demonstrate the vast range of hardy trees that can be expected to survive in North Yorkshire.; ; The plantings started with a diverse collection of interesting trees purchased in 1979 from Hillier Nurseries, Hampshire, which then offered an extraordinary range of material but was in the process of stream-lining its assortment. This gave the arboretum a core of good plants, many of them now rare in cultivation.;  Main Address:; The Yorkshire Arboretum; Castle Howard; York; Yorkshire YO60 7BY United Kingdom; ;  Telephone: +44 (0) 1653-648598; Fax: +44 (0) 1653 648650; URL: <a target="_blank" href="http://www.yorkshirearboretum.org/">http://www.yorkshirearboretum.org/; Primary Email: enquiries@yorkshirearboretum.org ; 
-Plant Records Officer's Name:	Nicola Hall - Tree Team & Plant Records Manager
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1959
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	54.12069720149472
-Longitude:	-0.9116938710212
-Natural Vegetation Area:	Yes
-Arboretum:	Yes
-Open to public:	Yes
-Reintroduction Programme:	No
+0-ID: 4966
+1-Name: The Yorkshire Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1959
+2-Info:              Institution Code: BG5736;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the The Yorkshire Arboretum        The Yorkshire Arboretum is a glorious, 120 acre garden of trees from around the world set in a stunning landscape of parkland, lakes and ponds on the Castle Howard Estate near York. ;  ;  ;  The trees in the Yorkshire Arboretum come from temperate regions around the world, including Chile and Australasia as well as the more expected North America, Europe and Asia. Originally planted in open fields, the collection has been winnowed by thirty or more winters; while there have been losses, the survivors demonstrate the vast range of hardy trees that can be expected to survive in North Yorkshire.;  ;  The plantings started with a diverse collection of interesting trees purchased in 1979 from Hillier Nurseries, Hampshire, which then offered an extraordinary range of material but was in the process of stream-lining its assortment. This gave the arboretum a core of good plants, many of them now rare in cultivation.;                        Main Address:;         The Yorkshire Arboretum;         Castle Howard;                York;        Yorkshire YO60 7BY United Kingdom;        ;                 Telephone: +44 (0) 1653-648598;         Fax: +44 (0) 1653 648650;         URL: http://www.yorkshirearboretum.org/;         Primary Email: enquiries@yorkshirearboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 54.12069720149472
+2-Longitude: -0.9116938710212
+2-Natural Vegetation Area: Yes
+3-Arboretum: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4966">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4966">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4966">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +44 (0) 1653 648650
+9-Institution Code: BG5736
+9-International Agenda Registration: No
+9-Primary Email: enquiries@yorkshirearboretum.org
+9-Telephone: +44 (0) 1653-648598

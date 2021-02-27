@@ -1,65 +1,70 @@
-ID:	4260
-Name:	Forrest Deaner Native Plant Botanic Garden 
-Fax:	
-Info:	  United States of America - California - Benicia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	ndeaner@comcast.net
-Telephone:	(707) 745-3906
-Curator's Name:	
-Director's Name:	Norma Deaner
-Plant Records Officer's Name:	Norma Deaner, Committee Chair
-Altitude:	0.00 Metres
-Date founded:	2000
-Institution Type:	Botanic Garden
-Latitude:	38.0676370
-Local Address:	Benicia State Recreation Area
-Locality:	Information
-Longitude:	-122.1565660
-Total Area:	2 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	20
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 4260
+1-Name: Forrest Deaner Native Plant Botanic Garden 
+2-Curator's Name: 
+2-Director's Name: Norma Deaner
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4260/BRSA_Volunteer_Logo.jpg" alt="Logo" />         Logo</div>        </div>                                    Main Address:;         Forrest Deaner Native Plant Botanic Garden;         California Native Plant Society, Willis L. Jepson Chapter;        121 Tustin Court, Benicia, CA 94510;        Benicia;        California 94510 United States of America;        ;                 Telephone: (707) 745-3906;         Fax: ;         URL: www.cnpsjepson.org;         Primary Email: ndeaner@comcast.net       ;              
+2-Plant Records Officer's Name: Norma Deaner, Committee Chair
+3-Altitude: 0.00 Metres
+3-Date founded: 2000
+3-Institution Type: Botanic Garden
+3-Latitude: 38.0676370
+3-Local Address: Benicia State Recreation Area
+3-Locality: Information
+3-Longitude: -122.1565660
+3-Total Area: 2 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Volunteers: 20
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4260">Please click here if you can update us</a>
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: Yes
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: No
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ndeaner@comcast.net
+9-Telephone: (707) 745-3906
+9-URL: www.cnpsjepson.org

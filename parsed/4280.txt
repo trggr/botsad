@@ -1,22 +1,29 @@
-ID:	4280
-Name:	Lake Wilderness Arboretum 
-Curator's Name:	Susan Goodell, Garden Manager
-Director's Name:	Noel Paterson, Board President (2015)
-Info:	  United States of America - Washington - Maple Valley  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lake Wilderness Arboretum; 22520 SE 248th; Mailing: Lake Wilderness Arboretum Foundation, P.O. Box 72; Maple Valley; Washington 98038 United States of America; ;  Telephone: (425) 413-2572; Fax: ; URL: <a target="_blank" href="http://www.lakewildernessarboretum.org">http://www.lakewildernessarboretum.org; Primary Email: info@LakeWildernessArboretum.org ; 
-Plant Records Officer's Name:	Alexander Wright, Accessions Coordinator (also shares curatorial duties)
-Altitude:	0.00 Metres
-Date founded:	1972
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	47.3803260
-Longitude:	-122.0407170
-Natural Vegetation Area:	Yes
-Arboretum:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Seed Bank:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 4280
+1-Name: Lake Wilderness Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1972
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Lake Wilderness Arboretum;         22520 SE 248th;        Mailing: Lake Wilderness Arboretum Foundation, P.O. Box 72;        Maple Valley;        Washington 98038 United States of America;        ;                 Telephone: (425) 413-2572;         Fax: ;         URL: http://www.lakewildernessarboretum.org;         Primary Email: info@LakeWildernessArboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 47.3803260
+2-Longitude: -122.0407170
+2-Natural Vegetation Area: Yes
+3-Arboretum: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Seed Bank: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4280">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4280">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4280">Please click here if you can update us</a>
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: Lake Wilderness Arboretum Foundation, P.O. Box 72
+9-Primary Email: info@LakeWildernessArboretum.org
+9-Telephone: (425) 413-2572

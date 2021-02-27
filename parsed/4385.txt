@@ -1,14 +1,22 @@
-ID:	4385
-Name:	Gangwon Provincial Arboretum 
-Curator's Name:	Juseok Shim
-Director's Name:	Jehun Jeon
-Info:	  South Korea - Gangwondo - Chunchonsi  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gangwon Provincial Arboretum; Hamokwon-Gil 30, Sanong-Dong; Chunchonsi; Gangwondo 200-140 South Korea; ;  Telephone: 033-248-6690; Fax: 033-248-6707; URL: <a target="_blank" href="http://www.provin.gangwon.jr">http://www.provin.gangwon.jr; Primary Email: sjs2644@korea.kr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1999
-Institution Type:	Botanic Garden
-Latitude:	37.90
-Local Address:	사농동 화목원길 30번지 산림개발연구원 강원도립화목원 관리운영과
-Locality:	Information
-Longitude:	127.72
-Total Area:	12 Hectares
+0-ID: 4385
+1-Name: Gangwon Provincial Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1999
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gangwon Provincial Arboretum;         Hamokwon-Gil 30, Sanong-Dong;                Chunchonsi;        Gangwondo 200-140 South Korea;        ;                 Telephone: 033-248-6690;         Fax: 033-248-6707;         URL: http://www.provin.gangwon.jr;         Primary Email: sjs2644@korea.kr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.90
+2-Local Address: 사농동 화목원길 30번지 산림개발연구원 강원도립화목원 관리운영과
+2-Locality: Information
+2-Longitude: 127.72
+2-Total Area: 12 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4385">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4385">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4385">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4385">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4385">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 033-248-6707
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: sjs2644@korea.kr
+9-Telephone: 033-248-6690

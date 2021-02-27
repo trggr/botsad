@@ -1,26 +1,31 @@
-ID:	2071
-Name:	Hannah Carter Japanese Garden 
-Curator's Name:	David S. Verity
-Director's Name:	-
-Info:	  United States of America - California - Los Angeles  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Hannah Carter Japanese Garden The UCLA Hannah Carter Japanese Garden covers just over one acre and is located in the community of Bel Air about one mile from campus.; ; The garden was inspired by the gardens of Kyoto. Many structures in the garden - the main gate, garden house, bridges, and shrine - were built in Japan and reassembled here. Antique stone carvings, water basins and lanterns, as well as the five-tiered pagoda, and key symbolic rocks are also from Japan. Several hundred tons of local stones came from the quarries in Ventura County and the foot of Mt. Baldy, northeast of Los Angeles.;  Main Address:; Hannah Carter Japanese Garden; Garden Administrative Office, UCLA; 10920 Wilshire Blvd, Suite 1520; Los Angeles; California 90024-6518 United States of America; ;  Telephone: (310) 794-0320; Fax: (310) 794-8208; URL: <a target="_blank" href="http://hannahcarterjapanesegarden.com/">http://hannahcarterjapanesegarden.com/; Primary Email: info@hannahcarterjapanesegarden.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1961
-Institution Type:	Botanic Garden
-Latitude:	34.0584660
-Longitude:	-118.4445230
-Total Area:	1 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Education Booklets/Leaflets:	Yes
-Guided Tours:	Yes
+0-ID: 2071
+1-Name: Hannah Carter Japanese Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1961
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Hannah Carter Japanese Garden        The UCLA Hannah Carter Japanese Garden covers just over one acre and is located in the community of Bel Air about one mile from campus.;  ;  The garden was inspired by the gardens of Kyoto. Many structures in the garden - the main gate, garden house, bridges, and shrine - were built in Japan and reassembled here. Antique stone carvings, water basins and lanterns, as well as the five-tiered pagoda, and key symbolic rocks are also from Japan. Several hundred tons of local stones came from the quarries in Ventura County and the foot of Mt. Baldy, northeast of Los Angeles.;                        Main Address:;         Hannah Carter Japanese Garden;         Garden Administrative Office, UCLA;        10920 Wilshire Blvd, Suite 1520;        Los Angeles;        California 90024-6518 United States of America;        ;                 Telephone: (310) 794-0320;         Fax: (310) 794-8208;         URL: http://hannahcarterjapanesegarden.com/;         Primary Email: info@hannahcarterjapanesegarden.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.0584660
+2-Longitude: -118.4445230
+2-Total Area: 1 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Disabled access: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2071">Please click here if you can update us</a>
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2071">Please click here if you can update us</a>
+7-Education Booklets/Leaflets: Yes
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: (310) 794-8208
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@hannahcarterjapanesegarden.com
+9-Telephone: (310) 794-0320

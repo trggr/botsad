@@ -12,11 +12,16 @@
   (map #(str/replace % match replacement) s))
 
 
-(defn export-xls [xls file]
+(defn export-xls-old [xls file]
     (let [w      (create-workbook "Gardens" xls)
           s      (select-sheet "Gardens" w)
           header (first (row-seq s))]
       (set-row-style! header (create-cell-style! w {:background :gray, :font {:bold false}}))
+      (save-workbook! file w)))
+
+(defn export-xls [xls file]
+    (let [w      (create-workbook "Gardens" xls)
+          s      (select-sheet "Gardens" w)]
       (save-workbook! file w)))
 
 (def ids (map read-string (split (slurp "db/ids.txt") #"\n")))
@@ -91,9 +96,14 @@
 (def allkeys (filter #(< (count %) 50) (flatten (map keys db))))
 (spit "good-keys.txt" (join \newline (sort (map first (take 100 (sort-by val > (frequencies allkeys)))))))
 
-(def good-keys (sort (map first (take 100 (sort-by val > (frequencies allkeys))))))
+; (def good-keys (sort (map first (take 100 (sort-by val > (frequencies allkeys))))))
+(def good-keys (split (slurp "good-keys.txt") #"\n"))
 
-(for [k good-keys]
+(def header (map #(subs % 2) good-keys))
+(def rows   (map (fn [garden] (map #(get garden %) good-keys)) db))
+(def xls (into [header] rows))
+
+(export-xls xls "gardens.xlsx")
 
 ;(frequencies allkeys)
 ;(take 100 (sort-by val > (frequencies allkeys)))

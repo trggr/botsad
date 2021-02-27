@@ -1,12 +1,20 @@
-ID:	434
-Name:	Europa - Rosarium der Stadt Sangerhausen 
-Curator's Name:	Hella Brumme
-Director's Name:	Ingomar Lang
-Info:	  Germany - Deutschland - Sangerhausen  ;Garden Information;  Institution Code: SANGH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Europa - Rosarium der Stadt Sangerhausen; Steinberger Weg 3, D-06526 SANGERHAUSEN, Germany; Sangerhausen; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1903
-Institution Type:	Botanic Garden
-Latitude:	51.4751
-Longitude:	11.2923
-Special Collections:	old bush roses and wild roses, modern roses
+0-ID: 434
+1-Name: Europa - Rosarium der Stadt Sangerhausen 
+2-Altitude: 0.00 Metres
+2-Date founded: 1903
+2-Info:              Institution Code: SANGH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Europa - Rosarium der Stadt Sangerhausen;         Steinberger Weg 3, D-06526 SANGERHAUSEN, Germany;                Sangerhausen;        Germany - Deutschland;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.4751
+2-Longitude: 11.2923
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=434">Please click here if you can update us</a>
+4-Special Collections: old bush roses and wild roses, modern roses
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=434">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=434">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=434">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SANGH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

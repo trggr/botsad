@@ -1,11 +1,19 @@
-ID:	2054
-Name:	Lilongwe Botanic Garden. 
-Curator's Name:	Mphamba Kumwenda
-Director's Name:	J. H. Seyani.
-Info:	  Malawi - Zomba  ;Garden Information;  Institution Code: MAL; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Lilongwe Botanic Garden.; P.O. Box 528, ZOMBA, Malawi.; Zomba; Malawi; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1987
-Institution Type:	Botanic Garden
-Latitude:	-15.3849
-Longitude:	35.3197
-Special Collections:	About 50 % of the plant collections are of native species. A programme on the cultivation of rare and endangered plants is currently being initiated but a few are present in cultivation. A collection of economic plants is maintained in a demonstration orc
+0-ID: 2054
+1-Name: Lilongwe Botanic Garden. 
+2-Date founded: 1987
+2-Info:              Institution Code: MAL;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Lilongwe Botanic Garden.;         P.O. Box 528,  ZOMBA,  Malawi.;                Zomba;        Malawi;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -15.3849
+2-Longitude: 35.3197
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2054">Please click here if you can update us</a>
+4-Special Collections: About 50 % of the plant collections are of native species. A programme on the cultivation of rare and endangered plants is currently being initiated but a few are present in cultivation. A collection of economic plants is maintained in a demonstration orc
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2054">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2054">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2054">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MAL
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

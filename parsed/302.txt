@@ -1,11 +1,18 @@
-ID:	302
-Name:	Bundesgärten Wien und Innsbruck (Belvedere) 
-Curator's Name:	Robert Klaus
-Director's Name:	D.Ing.Kaven
-Info:	  Austria - Vienna  ;Garden Information;  Institution Code: AVBUN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bundesgärten Wien und Innsbruck (Belvedere); Schloß Belvedere; Prinz Eugen-Straße 27; Vienna; A-1030 Austria; ;  Telephone: (+43 1) 798 41 20; Fax: (+43 1) 798 31 49; URL: <a target="_blank" href="http://www.bundesgaerten.at">http://www.bundesgaerten.at; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	48.1943
-Longitude:	16.4025
-Special Collections:	Orchidaceae, Ericaceae, Plants from Australia and South Africa, tropical plants, palms, ferns, insectivorous plants.
+0-ID: 302
+1-Name: Bundesgärten Wien und Innsbruck (Belvedere) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: AVBUN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bundesgärten Wien und Innsbruck (Belvedere);         Schloß Belvedere;        Prinz Eugen-Straße 27;        Vienna;        A-1030 Austria;        ;                 Telephone: (+43 1) 798 41 20;         Fax: (+43 1) 798 31 49;         URL: http://www.bundesgaerten.at;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.1943
+2-Longitude: 16.4025
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=302">Please click here if you can update us</a>
+4-Special Collections: Orchidaceae, Ericaceae, Plants from Australia and South Africa, tropical plants, palms, ferns, insectivorous plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=302">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=302">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=302">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (+43 1) 798 31 49
+9-Institution Code: AVBUN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (+43 1) 798 41 20

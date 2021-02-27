@@ -1,9 +1,18 @@
-ID:	4682
-Name:	Daly Mansion & Margaret Daly Memorial Arboretum & Botanic Garden 
-Curator's Name:	Darlene Gould, Collection Manager
-Director's Name:	April Johnson, Managing Director
-Info:	  United States of America - Montana - Hamilton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Daly Mansion & Margaret Daly Memorial Arboretum & Botanic Garden; P.O. Box 223; Hamilton; Montana 59840 United States of America; ;  Telephone: (406) 363-6004; Fax: ; URL: <a target="_blank" href="http://www.dalymansion.org">www.dalymansion.org; Primary Email: april.johnson@dalymansion.org ; 
-Plant Records Officer's Name:	John Koch, Grounds Manager
-Institution Type:	Botanic Garden
-Latitude:	46.2483333
-Longitude:	-114.1597222
+0-ID: 4682
+1-Name: Daly Mansion & Margaret Daly Memorial Arboretum & Botanic Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Daly Mansion & Margaret Daly Memorial Arboretum & Botanic Garden;         P.O. Box 223;                Hamilton;        Montana 59840 United States of America;        ;                 Telephone: (406) 363-6004;         Fax: ;         URL: www.dalymansion.org;         Primary Email: april.johnson@dalymansion.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.2483333
+2-Longitude: -114.1597222
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4682">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4682">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4682">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4682">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4682">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: april.johnson@dalymansion.org
+9-Telephone: (406) 363-6004
+9-URL: www.dalymansion.org

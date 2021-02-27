@@ -1,9 +1,18 @@
-ID:	4150
-Name:	Tama Forest Science Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Tokyo - Hachioji  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Tama Forest Science Garden; Forestry and Forest Products Research Institute (FFPRI); Todori 1833-81; Hachioji; Tokyo 193-0843 Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.ffpri.affrc.go.jp">www.ffpri.affrc.go.jp; Primary Email: tfujii@ffpri.affrc.go.jp ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	36.5851
-Longitude:	137.2150
+0-ID: 4150
+1-Name: Tama Forest Science Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Tama Forest Science Garden;         Forestry and Forest Products Research Institute (FFPRI);        Todori 1833-81;        Hachioji;        Tokyo 193-0843 Japan;        ;                 Telephone: ;         Fax: ;         URL: www.ffpri.affrc.go.jp;         Primary Email: tfujii@ffpri.affrc.go.jp       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.5851
+2-Longitude: 137.2150
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4150">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4150">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4150">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4150">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4150">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: tfujii@ffpri.affrc.go.jp
+9-Telephone: 
+9-URL: www.ffpri.affrc.go.jp

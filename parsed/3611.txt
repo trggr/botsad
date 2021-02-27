@@ -1,10 +1,19 @@
-ID:	3611
-Name:	Reserva Etnobotánica Cumandá 
-Curator's Name:	
-Director's Name:	*
-Info:	  Ecuador - Napo - Baeza  ;Garden Information;  Institution Code: REC; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Reserva Etnobotánica Cumandá; Km 103 Vía Quito – Lago Agrio; Baeza; Napo Ecuador; ;  Telephone: (593-2) 247 0861; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: hosteriacumanda@yahoo.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	-0.2294
-Longitude:	-78.5242
+0-ID: 3611
+1-Name: Reserva Etnobotánica Cumandá 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: REC;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Reserva Etnobotánica Cumandá;         Km 103 Vía Quito – Lago Agrio;                Baeza;        Napo Ecuador;        ;                 Telephone: (593-2) 247 0861;         Fax: ;         URL: ;         Primary Email: hosteriacumanda@yahoo.com       ;              
+2-Institution Type: Other
+2-Latitude: -0.2294
+2-Longitude: -78.5242
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3611">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3611">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3611">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3611">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3611">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: REC
+9-International Agenda Registration: Yes
+9-Primary Email: hosteriacumanda@yahoo.com
+9-Telephone: (593-2) 247 0861
+9-URL: 

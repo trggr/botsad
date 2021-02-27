@@ -1,23 +1,29 @@
-ID:	1246
-Name:	Aburi Botanic Gardens 
-Fax:	233 2177 7821
-Info:	  Ghana - Aburi  ;Garden Information;  Institution Code: ABURI; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	
-Telephone:	233 2176 4337
-Curator's Name:	vacant
-Director's Name:	George Owusu-Afriyie
-Plant Records Officer's Name:	Albert Prempeh
-Altitude:	460.00 Metres
-Date founded:	1890
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	5.8469
-Longitude:	-0.1755
-Natural Vegetation Area:	Yes
-Total Area:	64 Hectares
-Number of Visitors:	75000
-Open to public:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
+0-ID: 1246
+1-Name: Aburi Botanic Gardens 
+2-Curator's Name: vacant
+2-Director's Name: George Owusu-Afriyie
+2-Info:              Institution Code: ABURI;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/1246/aburi.gif" alt="MAIN ENTRANCE OF THE GARDENS    The Royal Palms were planted in 1895." />         MAIN ENTRANCE OF THE GARDENS    The Royal Palms were planted in 1895.</div>        </div>                           About the Aburi Botanic Gardens        Aburi Botanic Garden was officially opened in March 1890. ;  Aburi Botanic Garden has had many roles over the years including plant introduction and teaching scientific methods of agriculture but today is one of the world's 1,800 botanic gardens leading the fight to save plant diversity through, research, conservation of medicinal plants, plant multiplication, horticulture training and environmental education.;  ;  Prior to the establishment of the garden, the Gold Coast Government had built a sanatorium at the site for convalescing Government officials in 1875. In 1899, during the Governorship of His Excellency Sir W. Brandford-Griffith K.G.M.G., a few hectares of land was cleared in vicinity of the sanatorium to begin the Botanic Deparment.;  ;  The clearing was done under the supervision of a German serving the Basel Mission. In 1890 Mr. William Crowther, a student from the Royal Botanic Gardens, Kew arrived in the Gold Coast(now Ghana) as the first curator of the botanic garden.;                        Main Address:;         Aburi Botanic Gardens;         PO Box 23, ABURI, Akwiapim, Ghana.;        P.O.Box  M169  Accra Ghana;        Aburi;        Ghana;        ;                 Telephone: 233 2176 4337;         Fax: 233 2177 7821;         URL: ;         Primary Email:        ;              
+2-Plant Records Officer's Name: Albert Prempeh
+3-Altitude: 460.00 Metres
+3-Date founded: 1890
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 5.8469
+3-Longitude: -0.1755
+3-Natural Vegetation Area: Yes
+3-Total Area: 64 Hectares
+4-Number of Visitors: 75000
+4-Open to public: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1246">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=1246">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 233 2177 7821
+9-Institution Code: ABURI
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 233 2176 4337
+9-URL: 

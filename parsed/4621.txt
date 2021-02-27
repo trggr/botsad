@@ -1,10 +1,18 @@
-ID:	4621
-Name:	World Botanical Garden and Conservation Fund 
-Curator's Name:	
-Director's Name:	Roderick Gay, Chair/Founder
-Info:	  United States of America - Georgia - Atlanta  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; World Botanical Garden and Conservation Fund; 1596 West Cleveland Avenue 102-304; Atlanta; Georgia 30344 United States of America; ;  Telephone: (678) 973-0611; Fax: ; URL: <a target="_blank" href="http://worldbotanicalgarden.org">http://worldbotanicalgarden.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	33.6794806
-Longitude:	-84.4409720
+0-ID: 4621
+1-Name: World Botanical Garden and Conservation Fund 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         World Botanical Garden and Conservation Fund;         1596 West Cleveland Avenue 102-304;                Atlanta;        Georgia 30344 United States of America;        ;                 Telephone: (678) 973-0611;         Fax: ;         URL: http://worldbotanicalgarden.org;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 33.6794806
+2-Longitude: -84.4409720
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4621">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4621">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4621">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4621">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4621">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (678) 973-0611

@@ -1,12 +1,21 @@
-ID:	3298
-Name:	Henan Agricultural University 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Henan - Zhengzhou  ;Garden Information;  Institution Code: HZH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Henan Agricultural University; Henan Agricultural University, Zhengzhou, Henan, 450002, China; Zhengzhou; Henan China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	34.7611
-Local Address:	中国河南省郑州，邮编 450002
-Locality:	Information
-Longitude:	113.6625
+0-ID: 3298
+1-Name: Henan Agricultural University 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HZH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Henan Agricultural University;         Henan Agricultural University, Zhengzhou, Henan, 450002, China;                Zhengzhou;        Henan China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 34.7611
+2-Local Address: 中国河南省郑州，邮编 450002
+2-Locality: Information
+2-Longitude: 113.6625
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3298">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3298">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3298">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3298">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3298">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HZH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

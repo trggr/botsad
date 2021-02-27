@@ -1,12 +1,19 @@
-ID:	1209
-Name:	Jardin Botanico "Jorge Victor Eller T." de la Universidad Autonoma de Guadalajara 
-Curator's Name:	Eduardo Sahagun Godinez
-Director's Name:	Dr. Eduardo Sahagún Godínez
-Info:	  Mexico - Jalisco - Zapopan  ;Garden Information;  Institution Code: GUADA; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanico "Jorge Victor Eller T." de la Universidad Autonoma de Guadalajara El Jardín Botánico "Jorge Víctor Eller T." es una dependencia de la Facultad de Ciencias de la Universidad Autónoma de Guadalajara y tiene una función educativa para los alumnos de la CARRERA DE BIOLOGO. ; ; Recibe también visitantes de otras instituciones educativas de nivel medio y superior así como internacionales sin costo.; ; El Jardín Botánico tiene también una función de conservación e investigación científicas de especies vegetales de zonas áridas y árboles tropicales del occidente de México.;  Main Address:; Jardin Botanico "Jorge Victor Eller T." de la Universidad Autonoma de Guadalajara; Universidad Autonoma de Guadalajara, Jardines Universidad; Av. Patria 1201; Zapopan; Jalisco 44100 Mexico; ;  Telephone: +52 (33) 3648-8824/ ext. 2484; Fax: ; URL: <a target="_blank" href="http://www.bolsasecologicasmexico.com">http://www.bolsasecologicasmexico.com; Primary Email: cladium@yahoo.com.mx ; 
-Plant Records Officer's Name:	Eduardo Sahagún Godínez
-Altitude:	0.00 Metres
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	20.692022
-Longitude:	-103.41804
-Special Collections:	Cactaceae
+0-ID: 1209
+1-Name: Jardin Botanico "Jorge Victor Eller T." de la Universidad Autonoma de Guadalajara 
+2-Altitude: 0.00 Metres
+2-Date founded: 1968
+2-Info:              Institution Code: GUADA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanico "Jorge Victor Eller T." de la Universidad Autonoma de Guadalajara        El Jardín Botánico "Jorge Víctor Eller T." es una dependencia de la Facultad de Ciencias de la Universidad Autónoma de Guadalajara y tiene una función educativa para los alumnos de la CARRERA DE BIOLOGO. ;  ;  Recibe también visitantes de otras instituciones educativas de nivel medio y superior así como internacionales sin costo.;  ;  El Jardín Botánico tiene también una función de conservación e investigación científicas de especies vegetales de zonas áridas y árboles tropicales del occidente de México.;                        Main Address:;         Jardin Botanico "Jorge Victor Eller T." de la Universidad Autonoma de Guadalajara;         Universidad Autonoma de Guadalajara, Jardines Universidad;        Av. Patria 1201;        Zapopan;        Jalisco 44100 Mexico;        ;                 Telephone: +52 (33) 3648-8824/ ext. 2484;         Fax: ;         URL: http://www.bolsasecologicasmexico.com;         Primary Email: cladium@yahoo.com.mx       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.692022
+2-Longitude: -103.41804
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1209">Please click here if you can update us</a>
+4-Special Collections: Cactaceae
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1209">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1209">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1209">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: GUADA
+9-International Agenda Registration: No
+9-Primary Email: cladium@yahoo.com.mx
+9-Telephone: +52 (33) 3648-8824/ ext. 2484

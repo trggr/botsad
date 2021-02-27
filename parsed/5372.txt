@@ -1,9 +1,19 @@
-ID:	5372
-Name:	Walnut Point Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - RI - Newport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Walnut Point Arboretum; 45 Third Street; Newport; RI 02840 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: mcronin@e-worldways.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.495089
-Longitude:	-71.318873
+0-ID: 5372
+1-Name: Walnut Point Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Walnut Point Arboretum;         45 Third Street;                Newport;        RI 02840 United States of America;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: mcronin@e-worldways.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.495089
+2-Longitude: -71.318873
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5372">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5372">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5372">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5372">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5372">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: mcronin@e-worldways.com
+9-Telephone: 
+9-URL: 

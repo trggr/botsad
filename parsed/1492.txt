@@ -1,11 +1,19 @@
-ID:	1492
-Name:	Arboretum Opeka 
-Curator's Name:	
-Director's Name:	Siler Margita
-Info:	  Macedonia (FYR) - Vinica  ;Garden Information;  Institution Code: AOPEK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Opeka; 42207 VINICA, Marcan 53, Macedonia.; Vinica; Macedonia (FYR); ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	41.8695
-Longitude:	22.1700
-Special Collections:	Conifers and deciduous trees and shrubs.
+0-ID: 1492
+1-Name: Arboretum Opeka 
+2-Date founded: 
+2-Info:              Institution Code: AOPEK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Opeka;         42207 VINICA,   Marcan 53,   Macedonia.;                Vinica;        Macedonia (FYR);        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.8695
+2-Longitude: 22.1700
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1492">Please click here if you can update us</a>
+4-Special Collections: Conifers and deciduous trees and shrubs.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1492">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1492">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1492">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AOPEK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,12 +1,21 @@
-ID:	4230
-Name:	Houston Botanic Garden 
-Curator's Name:	Peter R. McStravick, Jr., Board Director
-Director's Name:	Claudia Gee Vassar, Executive Director
-Info:	  United States of America - Texas - Houston  ;Garden Information;  Institution Code: HOUBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Houston Botanic Garden; P.O. Box 27510; Houston; Texas 77227 United States of America; ;  Telephone: (713) 715-9675; Fax: (713) 520-5761; URL: <a target="_blank" href="http://www.hbg.org">www.hbg.org; Primary Email: info@hbg.org ; 
-Plant Records Officer's Name:	April Lloyd, Plant Recorded
-Altitude:	0.00 Metres
-Date founded:	2015
-Institution Type:	Botanic Garden
-Latitude:	29.7537
-Longitude:	-95.3596
-Total Area:	49 Hectares
+0-ID: 4230
+1-Name: Houston Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 2015
+2-Info:              Institution Code: HOUBG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Houston Botanic Garden;                 P.O. Box 27510;        Houston;        Texas 77227 United States of America;        ;                 Telephone: (713) 715-9675;         Fax: (713) 520-5761;         URL: www.hbg.org;         Primary Email: info@hbg.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.7537
+2-Longitude: -95.3596
+2-Total Area: 49 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4230">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4230">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4230">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4230">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4230">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (713) 520-5761
+9-Institution Code: HOUBG
+9-International Agenda Registration: No
+9-Primary Email: info@hbg.org
+9-Telephone: (713) 715-9675
+9-URL: www.hbg.org

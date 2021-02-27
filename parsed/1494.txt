@@ -1,11 +1,20 @@
-ID:	1494
-Name:	Jungle Park 
-Curator's Name:	
-Director's Name:	Kikuchi
-Info:	  Japan - Kamo-gun  ;Garden Information;  Institution Code: IROZJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jungle Park; 546-1 Irozaki Minamiizu-Machi, KAMO-GUN, Shizuoka-Prefecture, Japan.; Kamo-gun; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1969
-Institution Type:	Other
-Latitude:	36.2048
-Longitude:	138.2529
+0-ID: 1494
+1-Name: Jungle Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 1969
+2-Info:              Institution Code: IROZJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jungle Park;         546-1 Irozaki Minamiizu-Machi,  KAMO-GUN,  Shizuoka-Prefecture,  Japan.;                Kamo-gun;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 36.2048
+2-Longitude: 138.2529
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1494">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1494">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1494">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1494">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1494">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: IROZJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

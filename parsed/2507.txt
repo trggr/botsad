@@ -1,19 +1,22 @@
-ID:	2507
-Name:	Trebah Garden Trust 
-Administration Staff Number:	
-Curator's Name:	Malcolm MacLachlan
-Director's Name:	Major Hibbett
-Educational Staff Number:	
-Horticultural Staff Number:	7
-Info:	  United Kingdom - Cornwall  ;Garden Information;  Institution Code: TREBA; International Agenda Registration: No; BGCI Member: No; About the Trebah Garden Trust Taxa 1,600 (290 genera, 1,000 spp. 3,300 accessions, 6000 plants);  Main Address:; Trebah Garden Trust; Mawnan SmithNr FalmouthCornwallTR11 5JZ; Cornwall; United Kingdom; ;  Telephone: +44 (0) 1326 252200; Fax: +44 (0) 1326 250781; URL: <a target="_blank" href="http://www.trebah-garden.co.uk">www.trebah-garden.co.uk; Primary Email: mail@trebah-garden.co.uk ; 
-Plant Records Officer's Name:	Rachel Martin
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	50.10668
-Longitude:	-5.121775
-Total Area:	11 Hectares
-Total area of glasshouses:	150 Metres
-Number of Visitors:	100000
-Cultivation Taxa Num:	1600
-Special Collections:	Ericaceae, Gramineae, Hydrangeaceae, Magnoliaceae, Compositae, Podocarpaceae, Myrtaceae, Proteaceae, Cornaceae, Theaceae, Cupressaceae, Pinaceae, Agavaceae, Palmae, Crassulaceae, Liliaceae, Fagaceae, Flacourtiaceae, Winteraceae, Pittosporaceae. Rhododendr
+0-ID: 2507
+1-Name: Trebah Garden Trust 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: TREBA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Trebah Garden Trust        Taxa 1,600 (290 genera, 1,000 spp. 3,300 accessions, 6000 plants);                        Main Address:;         Trebah Garden Trust;         Mawnan SmithNr FalmouthCornwallTR11 5JZ;                Cornwall;        United Kingdom;        ;                 Telephone: +44 (0) 1326 252200;         Fax: +44 (0) 1326 250781;         URL: www.trebah-garden.co.uk;         Primary Email: mail@trebah-garden.co.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.10668
+2-Longitude: -5.121775
+2-Total Area: 11 Hectares
+2-Total area of glasshouses: 150 Metres
+3-Number of Visitors: 100000
+4-Cultivation Taxa Num: 1600
+4-Special Collections: Ericaceae, Gramineae, Hydrangeaceae, Magnoliaceae, Compositae, Podocarpaceae, Myrtaceae, Proteaceae, Cornaceae, Theaceae, Cupressaceae, Pinaceae, Agavaceae, Palmae, Crassulaceae, Liliaceae, Fagaceae, Flacourtiaceae, Winteraceae, Pittosporaceae. Rhododendr
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2507">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2507">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2507">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +44 (0) 1326 250781
+9-Institution Code: TREBA
+9-International Agenda Registration: No
+9-Primary Email: mail@trebah-garden.co.uk
+9-Telephone: +44 (0) 1326 252200
+9-URL: www.trebah-garden.co.uk

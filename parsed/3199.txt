@@ -1,11 +1,19 @@
-ID:	3199
-Name:	Annapolis Royal Historic Gardens 
-Curator's Name:	Karen Achenbach, Horticulturist
-Director's Name:	Trish Fry, Manager
-Info:	  Canada - Nova Scotia - Annapolis Royal  ;Garden Information;  Institution Code: ANNA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Annapolis Royal Historic Gardens; 441 St. George Street; P.O. Box 278; Annapolis Royal; Nova Scotia BOS 1AO Canada; ;  Telephone: (902) 532-7018; Fax: (902) 532-7445; URL: <a target="_blank" href="http://www.historicgardens.com">www.historicgardens.com; Primary Email: hort@historicgardens.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	44.74146
-Longitude:	-65.5136
-Reintroduction Programme:	No
+0-ID: 3199
+1-Name: Annapolis Royal Historic Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ANNA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Annapolis Royal Historic Gardens;         441 St. George Street;        P.O. Box 278;        Annapolis Royal;        Nova Scotia BOS 1AO Canada;        ;                 Telephone: (902) 532-7018;         Fax: (902) 532-7445;         URL: www.historicgardens.com;         Primary Email: hort@historicgardens.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.74146
+2-Longitude: -65.5136
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3199">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3199">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3199">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3199">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (902) 532-7445
+9-Institution Code: ANNA
+9-International Agenda Registration: No
+9-Primary Email: hort@historicgardens.com
+9-Telephone: (902) 532-7018
+9-URL: www.historicgardens.com

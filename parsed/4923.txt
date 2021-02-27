@@ -1,10 +1,18 @@
-ID:	4923
-Name:	Nigeria Natural Medicine Development Agency (NNMDA) 
-Curator's Name:	
-Director's Name:	Mrs. Chidebe
-Info:	  Nigeria - Lagos - Lagos  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Nigeria Natural Medicine Development Agency (NNMDA) Several medicinal gardens are present across Nigeria managed by the Nigeria Natural Medicine Development Agency (NNMDA).;  Main Address:; Nigeria Natural Medicine Development Agency (NNMDA); No. 9 Kofo Abayomi Street; Victoria Island; Lagos; Lagos Nigeria; ;  Telephone: +234 1 7737817 / 08037252662; Fax: ; URL: <a target="_blank" href="http://www.nnmda.gov.ng/">http://www.nnmda.gov.ng/; Primary Email: namdanigeria@yahoo.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	6.43569
-Longitude:	3.41347
+0-ID: 4923
+1-Name: Nigeria Natural Medicine Development Agency (NNMDA) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Nigeria Natural Medicine Development Agency (NNMDA)        Several medicinal gardens are present across Nigeria managed by the Nigeria Natural Medicine Development Agency (NNMDA).;                        Main Address:;         Nigeria Natural Medicine Development Agency (NNMDA);         No. 9 Kofo Abayomi Street;        Victoria Island;        Lagos;        Lagos Nigeria;        ;                 Telephone: +234 1 7737817 / 08037252662;         Fax: ;         URL: http://www.nnmda.gov.ng/;         Primary Email: namdanigeria@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 6.43569
+2-Longitude: 3.41347
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4923">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4923">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4923">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4923">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4923">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: namdanigeria@yahoo.com
+9-Telephone: +234 1 7737817 / 08037252662

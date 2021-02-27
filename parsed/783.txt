@@ -1,10 +1,19 @@
-ID:	783
-Name:	Jardin Zoologique et Botanique d‘Eala 
-Curator's Name:	Mogulu mo Lolea
-Director's Name:	Kasumba Dunia
-Info:	  Democratic Republic of the Congo (formerly Zaire) - Equateur - Eala Mbandaka  ;Garden Information;  Institution Code: MBAN; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Zoologique et Botanique d‘Eala; B.P. 278; Eala Mbandaka; Equateur Democratic Republic of the Congo (formerly Zaire); ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	0.0487
-Longitude:	18.3109
+0-ID: 783
+1-Name: Jardin Zoologique et Botanique d‘Eala 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MBAN;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardin Zoologique et Botanique d‘Eala;         B.P. 278;                Eala Mbandaka;        Equateur Democratic Republic of the Congo (formerly Zaire);        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 0.0487
+2-Longitude: 18.3109
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=783">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=783">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=783">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=783">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=783">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MBAN
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

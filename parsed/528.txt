@@ -1,16 +1,20 @@
-ID:	528
-Name:	Forest Research Institute Malaysia 
-Administration Staff Number:	
-Curator's Name:	Dr Saw Leng Guan
-Director's Name:	Dr Abdul Razak Mohd Ali
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Info:	  Malaysia - Selangor - Kepong  ;Garden Information;  Institution Code: KEP; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Forest Research Institute Malaysia; Kepong,; Kepong; Selangor 52109 Malaysia; ;  Telephone: 60 3 62797218; Fax: 60 3 62731041; URL: <a target="_blank" href="http://www.frim.gov.my">www.frim.gov.my; Primary Email: sawlg@frim.gov.my ; 
-Plant Records Officer's Name:	Sam Yen Yen
-Research Staff Number:	40
-Altitude:	0.00 Metres
-Date founded:	1926
-Institution Type:	Other
-Latitude:	3.1876
-Longitude:	101.5723
-Special Collections:	Woody families of S.E. Asia, especially Dipterocarpaceae, bamboo and palms.Maintains a seed bank with medium-term storage capacity, containing 210 accessions, representing 111 species (1994 figures).
+0-ID: 528
+1-Name: Forest Research Institute Malaysia 
+2-Altitude: 0.00 Metres
+2-Date founded: 1926
+2-Info:              Institution Code: KEP;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Forest Research Institute Malaysia;         Kepong,;                Kepong;        Selangor 52109 Malaysia;        ;                 Telephone: 60 3 62797218;         Fax: 60 3 62731041;         URL: www.frim.gov.my;         Primary Email: sawlg@frim.gov.my       ;              
+2-Institution Type: Other
+2-Latitude: 3.1876
+2-Longitude: 101.5723
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=528">Please click here if you can update us</a>
+4-Special Collections: Woody families of S.E. Asia, especially Dipterocarpaceae, bamboo and palms.Maintains a seed bank with medium-term storage capacity, containing 210 accessions, representing 111 species (1994 figures).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=528">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=528">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=528">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 60 3 62731041
+9-Institution Code: KEP
+9-International Agenda Registration: No
+9-Primary Email: sawlg@frim.gov.my
+9-Telephone: 60 3 62797218
+9-URL: www.frim.gov.my

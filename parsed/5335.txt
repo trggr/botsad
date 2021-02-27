@@ -1,9 +1,17 @@
-ID:	5335
-Name:	University of Wisconsin - River Falls Greenhouse 
-Curator's Name:	
-Director's Name:	Dan Waletzko, Greenhouse and Field Plot Manager
-Info:	  United States of America - Wisconsin - River Falls  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Wisconsin - River Falls Greenhouse; 623 S. 3rd Street; River Falls; Wisconsin 54022 United States of America; ;  Telephone: 715-425-4888; Fax: ; URL: <a target="_blank" href="https://www.uwrf.edu/AboutUs/Explore/AcademicBuildings/Greenhouse.cfm">https://www.uwrf.edu/AboutUs/Explore/AcademicBuildings/Greenhouse.cfm; Primary Email: daniel.k.waletzko@uwrf.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	44.852922
-Longitude:	-92.620887
+0-ID: 5335
+1-Name: University of Wisconsin - River Falls Greenhouse 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Wisconsin - River Falls Greenhouse;         623 S. 3rd Street;                River Falls;        Wisconsin 54022 United States of America;        ;                 Telephone: 715-425-4888;         Fax: ;         URL: https://www.uwrf.edu/AboutUs/Explore/AcademicBuildings/Greenhouse.cfm;         Primary Email: daniel.k.waletzko@uwrf.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.852922
+2-Longitude: -92.620887
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5335">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5335">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5335">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5335">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5335">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: daniel.k.waletzko@uwrf.edu
+9-Telephone: 715-425-4888

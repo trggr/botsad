@@ -1,10 +1,19 @@
-ID:	3026
-Name:	Botanischer Garten der Stadt Solingen 
-Curator's Name:	
-Director's Name:	Director
-Info:	  Germany - Deutschland - Solingen  ;Garden Information;  Institution Code: SSG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Stadt Solingen; Vogelsang 2a D-42653 Solingen; Solingen; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	51.2005
-Longitude:	7.0785
+0-ID: 3026
+1-Name: Botanischer Garten der Stadt Solingen 
+2-Date founded: 
+2-Info:              Institution Code: SSG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanischer Garten der Stadt Solingen;         Vogelsang 2a  D-42653 Solingen;                Solingen;        Germany - Deutschland;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.2005
+2-Longitude: 7.0785
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3026">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3026">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3026">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3026">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3026">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SSG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

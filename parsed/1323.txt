@@ -1,10 +1,19 @@
-ID:	1323
-Name:	City Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Macedonia (FYR) - Skopje  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; City Botanical Garden; Vodno Mountain, SKOPJE, Macedonia. RETURNED 1997. Insufficient address.; Skopje; Macedonia (FYR); ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1964
-Institution Type:	Botanic Garden
-Latitude:	42.0024
-Longitude:	21.4360
+0-ID: 1323
+1-Name: City Botanical Garden 
+2-Date founded: 1964
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         City Botanical Garden;         Vodno Mountain,   SKOPJE,   Macedonia.    RETURNED 1997. Insufficient address.;                Skopje;        Macedonia (FYR);        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.0024
+2-Longitude: 21.4360
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1323">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1323">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1323">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1323">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1323">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

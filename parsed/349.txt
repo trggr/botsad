@@ -1,36 +1,40 @@
-ID:	349
-Name:	Botanical Gardens and Arboretum 
-Fax:	+420 5 45 22 36 93
-Info:	  Czech Republic - Brno  ;Garden Information;  Institution Code: BZA; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	arboretum@mendelu.cz
-Telephone:	+420 5 45 22 36 06
-Administration Staff Number:	5
-Director's Name:	ing. Tomas Kolousek
-Educational Staff Number:	
-Horticultural Staff Number:	12
-Research Staff Number:	3
-Altitude:	230.00 Metres
-Annual Rainfall:	547 mm
-Date founded:	1936
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	49.2121
-Longitude:	16.6208
-Total Area:	11 Hectares
-Total area of glasshouses:	650 Metres
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	13000
-Special Collections:	alpines 500 taxons
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Education:	Yes
-Guided Tours:	Yes
+0-ID: 349
+1-Name: Botanical Gardens and Arboretum 
+2-Administration Staff Number: 5
+2-Director's Name: ing. Tomas Kolousek
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 12
+2-Info:              Institution Code: BZA;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/349/rokle-59.1.jpg" alt="Alpine plant collection" />         Alpine plant collection</div>        </div>                           About the Botanical Gardens and Arboretum        Botanic Gardens and Arboretum of Mendel University of Agriculture and Forestry (formerly Agriculture University) was founded in 1926 close to University buildings complex to help students with systematic botany. There were mostly taxa important for agriculture. Garden was unfortunately confined to the extent and number of taxa. However it was part of University what was big advantage.;  In 1938 was founded close to this garden woody plants collection - arboretum, intended for forest engineers. The founder was Prof. Ing. Dr. Augustin Bayer who plant 1 ha area in a distance of 500 m from University.;  Old garden and arboretum stayed unchanged during 2nd World War to the sixties. Together with growing importance of University was necessary to build new buildings. Botanical Garden had to step aside. Therefore it was important to create new one. For this purpose was chosen about 10 ha area in close proximity to Bayer's arboretum.;  In 1967 started first arrangements and in 1970 building of new botanic garden and arboretum as a scientific, research and educational part of University.;                        Main Address:;         Botanical Gardens and Arboretum;         Mendel University in Brno;        Zemedelska 1;        Brno;        613 00 Czech Republic;        ;                 Telephone: +420 5 45 22 36 06;         Fax: +420 5 45 22 36 93;         URL: www.mendelu.cz/arboretum;         Primary Email: arboretum@mendelu.cz       ;              
+2-Research Staff Number: 3
+3-Altitude: 230.00 Metres
+3-Annual Rainfall: 547 mm
+3-Date founded: 1936
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 49.2121
+3-Longitude: 16.6208
+3-Total Area: 11 Hectares
+3-Total area of glasshouses: 650 Metres
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Cultivation Taxa Num: 13000
+5-Special Collections: alpines 500 taxons
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Education: Yes
+8-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: +420 5 45 22 36 93
+9-Institution Code: BZA
+9-International Agenda Registration: No
+9-Primary Email: arboretum@mendelu.cz
+9-Telephone: +420 5 45 22 36 06
+9-URL: www.mendelu.cz/arboretum

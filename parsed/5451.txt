@@ -1,7 +1,16 @@
-ID:	5451
-Name:	Jardin Botanico "Joaquin Antonio Uribe" De Medellin 
-Curator's Name:	
-Director's Name:	
-Info:	  Colombia - Medellin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Jardin Botanico "Joaquin Antonio Uribe" De Medellin; Apto Aereo 51-407; Medellin; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.botanicomedellin.org">http://www.botanicomedellin.org; Primary Email: anamaria.benavides@jbotanico.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5451
+1-Name: Jardin Botanico "Joaquin Antonio Uribe" De Medellin 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Jardin Botanico "Joaquin Antonio Uribe" De Medellin;         Apto Aereo 51-407;                Medellin;        Colombia;        ;                 Telephone: ;         Fax: ;         URL: http://www.botanicomedellin.org;         Primary Email: anamaria.benavides@jbotanico.org       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5451">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5451">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5451">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5451">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5451">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: anamaria.benavides@jbotanico.org
+9-Telephone: 

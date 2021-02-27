@@ -1,29 +1,35 @@
-ID:	5496
-Name:	Arboretum-Pinetum Lucus Augusti 
-Fax:	
-Info:	  Spain - Lugo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	jhpr@uvigo.es
-Telephone:	648486840
-Curator's Name:	
-Director's Name:	José Henrique Pérez Rodríguez
-Plant Records Officer's Name:	
-Altitude:	475.00 Metres
-Annual Rainfall:	1037 mm
-Date founded:	2006
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	43.0056437
-Local Address:	Estrada Bonxe-Mosteiro s/n Carballido (Mosteiro) 27153
-Locality:	Information
-Longitude:	-7.5568407
-Natural Vegetation Area:	No
-Arboretum:	Yes
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	465
+0-ID: 5496
+1-Name: Arboretum-Pinetum Lucus Augusti 
+2-Curator's Name: 
+2-Director's Name: José Henrique Pérez Rodríguez
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/5496/DSCF3750_.jpg" alt="Wollemia nobilis (Arboretum / pinetum Lucus Augusti)" />         Wollemia nobilis (Arboretum / pinetum Lucus Augusti)</div>        </div>                           About the Arboretum-Pinetum Lucus Augusti        This is a small arboretum that is mainly focused in conifers, but with some other species of interest.;                        Main Address:;         Arboretum-Pinetum Lucus Augusti;         Estrada Mosteiro-Bonxe s/n;        Mosteiro (Outeiro de Rei);        Lugo;        27153 Spain;        ;                 Telephone: 648486840;         Fax: ;         URL: https://sites.google.com/view/arboretum-lugo;         Primary Email: jhpr@uvigo.es       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 475.00 Metres
+3-Annual Rainfall: 1037 mm
+3-Date founded: 2006
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 43.0056437
+3-Local Address: Estrada Bonxe-Mosteiro s/n Carballido (Mosteiro) 27153
+3-Locality: Information
+3-Longitude: -7.5568407
+3-Natural Vegetation Area: No
+4-Arboretum: Yes
+4-Computer Plant Record System: No
+4-Disabled access: No
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Cultivation Taxa Num: 465
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5496">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5496">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=5496">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jhpr@uvigo.es
+9-Telephone: 648486840

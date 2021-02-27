@@ -1,10 +1,18 @@
-ID:	4355
-Name:	Al Ain Zoo 
-Curator's Name:	
-Director's Name:	Majid Ali Al Mansouri, Managing Director
-Info:	  United Arab Emirates - Al Ain - Abu Dhabi  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Al Ain Zoo; (Zoo and Aquarium Public Institution in Al Ain) Conservation Department; P.O. Box 1204; Abu Dhabi; Al Ain United Arab Emirates; ;  Telephone: +971 3 782 8188; Fax: +971 3 782 9112; URL: <a target="_blank" href="http://www.alainzoo.ae/">http://www.alainzoo.ae/; Primary Email: info@alainzoo.ae ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Latitude:	24.2075
-Longitude:	55.744722
+0-ID: 4355
+1-Name: Al Ain Zoo 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Al Ain Zoo;         (Zoo and Aquarium Public Institution in Al Ain) Conservation Department;        P.O. Box 1204;        Abu Dhabi;        Al Ain United Arab Emirates;        ;                 Telephone: +971 3 782 8188;         Fax: +971 3 782 9112;         URL: http://www.alainzoo.ae/;         Primary Email: info@alainzoo.ae       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 24.2075
+2-Longitude: 55.744722
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4355">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4355">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4355">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4355">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4355">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +971 3 782 9112
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: info@alainzoo.ae
+9-Telephone: +971 3 782 8188

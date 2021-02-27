@@ -1,10 +1,19 @@
-ID:	2242
-Name:	The Rapinat Herbarium 
-Curator's Name:	
-Director's Name:	Dr. S John Britto S.J.
-Info:	  India - Tamil Nadu - Tiruchirapalli  ;Garden Information;  Institution Code: SHC; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; The Rapinat Herbarium; St Josephs College, TIRUCHIRAPALLI 620 002, Tamil Nadu, India; Tiruchirapalli; Tamil Nadu 620002 India; ;  Telephone: +91 (0)431 2700 052/2721 422; Fax: +91 (0)431 2721 475/2701 501; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	10.8028
-Longitude:	78.6987
+0-ID: 2242
+1-Name: The Rapinat Herbarium 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SHC;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         The Rapinat Herbarium;         St Josephs College, TIRUCHIRAPALLI 620 002, Tamil Nadu, India;                Tiruchirapalli;        Tamil Nadu 620002 India;        ;                 Telephone: +91 (0)431 2700 052/2721 422;         Fax: +91 (0)431 2721 475/2701 501;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 10.8028
+2-Longitude: 78.6987
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2242">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2242">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2242">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2242">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2242">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +91 (0)431 2721 475/2701 501
+9-Institution Code: SHC
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: +91 (0)431 2700 052/2721 422
+9-URL: 

@@ -1,30 +1,31 @@
-ID:	3454
-Name:	Jacksonville Zoo and Gardens 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Bob Chabot, Director of Horticulture & Facilities
-Educational Staff Number:	1
-Horticultural Staff Number:	8
-Info:	  United States of America - Florida - Jacksonville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Jacksonville Zoo and Gardens For decades, Jacksonville Zoo and Gardens has given Jacksonville and Northeast Florida residents a place to love animals. Now our mission is to offer our community a public place to love plants, while setting a new standard for zoos in the process. We are in the process of building a first-of-its-kind botanical garden inside our Zoo that, unlike other zoos, is separate from the adjuncts to animals.; ; Unlike most other growing and culturally-rich cities, Jacksonville cannot list a botanical garden as one of its cultural treasures. Beyond filling an educational need, botanical gardens benefit their communities in many ways. They become tourist attractions, benefit the green industry, serve as an employer and pump millions of construction dollars and salaries into the regional economy.;  Main Address:; Jacksonville Zoo and Gardens; 370 Zoo Parkway; Jacksonville; Florida 32218 United States of America; ;  Telephone: (904) 757-4463; Fax: (904) 714-4441; URL: <a target="_blank" href="http://www.jaxzoo.org/botanical/">www.jaxzoo.org/botanical/; Primary Email: horticulture@jacksonvillezoo.org ; 
-Plant Records Officer's Name:	Chris Dailey, Horticulture Manager
-Research Staff Number:	1
-Altitude:	3.00 Metres
-Annual Rainfall:	1300 mm
-Date founded:	1925
-Institution Type:	Zoological Institution
-Latitude:	30.4022360
-Longitude:	-81.6441500
-Natural Vegetation Area:	Yes
-Total Area:	36 Hectares
-Total area of shadehouses:	600 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Number of Visitors:	500
-Open to public:	Yes
-Accession Number:	650
-Cultivation Taxa Num:	800
-Special Collections:	African plants - mostly from the south summer rainfall aeas.
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Education Booklets/Leaflets:	Yes
+0-ID: 3454
+1-Name: Jacksonville Zoo and Gardens 
+2-Altitude: 3.00 Metres
+2-Annual Rainfall: 1300 mm
+2-Date founded: 1925
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jacksonville Zoo and Gardens        For decades, Jacksonville Zoo and Gardens has given Jacksonville and Northeast Florida residents a place to love animals. Now our mission is to offer our community a public place to love plants, while setting a new standard for zoos in the process.  We are in the process of building a first-of-its-kind botanical garden inside our Zoo that, unlike other zoos, is separate from the adjuncts to animals.;  ;  Unlike most other growing and culturally-rich cities, Jacksonville cannot list a botanical garden as one of its cultural treasures.  Beyond filling an educational need, botanical gardens benefit their communities in many ways.  They become tourist attractions, benefit the green industry, serve as an employer and pump millions of construction dollars and salaries into the regional economy.;                        Main Address:;         Jacksonville Zoo and Gardens;         370 Zoo Parkway;                Jacksonville;        Florida 32218 United States of America;        ;                 Telephone: (904) 757-4463;         Fax: (904) 714-4441;         URL: www.jaxzoo.org/botanical/;         Primary Email: horticulture@jacksonvillezoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 30.4022360
+2-Longitude: -81.6441500
+2-Natural Vegetation Area: Yes
+2-Total Area: 36 Hectares
+2-Total area of shadehouses: 600 Metres
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Number of Visitors: 500
+3-Open to public: Yes
+4-Accession Number: 650
+4-Cultivation Taxa Num: 800
+4-Special Collections: African plants - mostly from the south summer rainfall aeas.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3454">Please click here if you can update us</a>
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+7-Education Booklets/Leaflets: Yes
+9-BGCI Member: No
+9-Fax: (904) 714-4441
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: horticulture@jacksonvillezoo.org
+9-Telephone: (904) 757-4463
+9-URL: www.jaxzoo.org/botanical/

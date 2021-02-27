@@ -1,9 +1,18 @@
-ID:	4589
-Name:	Cheyenne Mountain Zoo 
-Curator's Name:	Frank Haas, Horticulture Curator
-Director's Name:	Robert Chastain, President and CEO
-Info:	  United States of America - Colorado - Colorado Springs  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cheyenne Mountain Zoo; 4250 Cheyenne Mountain Zoo Road; Colorado Springs; Colorado 80906 United States of America; ;  Telephone: (719) 633-9255; Fax: ; URL: <a target="_blank" href="http://www.cmzoo.org/animalsPlants/plants/">www.cmzoo.org/animalsPlants/plants/; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	38.7710450
-Longitude:	-104.8546159
+0-ID: 4589
+1-Name: Cheyenne Mountain Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Cheyenne Mountain Zoo;         4250 Cheyenne Mountain Zoo Road;                Colorado Springs;        Colorado 80906 United States of America;        ;                 Telephone: (719) 633-9255;         Fax: ;         URL: www.cmzoo.org/animalsPlants/plants/;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 38.7710450
+2-Longitude: -104.8546159
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4589">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4589">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4589">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4589">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4589">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (719) 633-9255
+9-URL: www.cmzoo.org/animalsPlants/plants/

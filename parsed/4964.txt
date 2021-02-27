@@ -1,9 +1,18 @@
-ID:	4964
-Name:	Luoyang National Paeonia Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Henan Province - Luoyang  ;Garden Information;  Institution Code: BG5793; International Agenda Registration: No; BGCI Member: No;  Main Address:; Luoyang National Paeonia Garden; Zhonggouxi; Mangshan; Luoyang; Henan Province China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.gjmdy.com">www.gjmdy.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	34.71078
-Longitude:	112.44206
+0-ID: 4964
+1-Name: Luoyang National Paeonia Garden 
+2-Info:              Institution Code: BG5793;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Luoyang National Paeonia Garden;         Zhonggouxi;        Mangshan;        Luoyang;        Henan Province China;        ;                 Telephone: ;         Fax: ;         URL: www.gjmdy.com;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.71078
+2-Longitude: 112.44206
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4964">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4964">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4964">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4964">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4964">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BG5793
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.gjmdy.com

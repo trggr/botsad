@@ -1,9 +1,17 @@
-ID:	5289
-Name:	College of Biological Sciences Conservatory 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Minnesota - St. Paul  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; College of Biological Sciences Conservatory; University of Minnesota; 1534 Lindig Street; St. Paul; Minnesota 55108 United States of America; ;  Telephone: (612) 625-4788; Fax: ; URL: <a target="_blank" href="https://cbs.umn.edu/conservatory">https://cbs.umn.edu/conservatory; Primary Email: cbsgh@umn.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	44.987599
-Longitude:	-93.179245
+0-ID: 5289
+1-Name: College of Biological Sciences Conservatory 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         College of Biological Sciences Conservatory;         University of Minnesota;        1534 Lindig Street;        St. Paul;        Minnesota 55108 United States of America;        ;                 Telephone: (612) 625-4788;         Fax: ;         URL: https://cbs.umn.edu/conservatory;         Primary Email: cbsgh@umn.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.987599
+2-Longitude: -93.179245
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5289">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5289">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5289">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5289">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5289">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cbsgh@umn.edu
+9-Telephone: (612) 625-4788

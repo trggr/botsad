@@ -1,19 +1,24 @@
-ID:	5051
-Name:	The Botanic Garden at Historic Barns Park 
-Curator's Name:	
-Director's Name:	Uknown
-Info:	  United States of America - Michigan - Traverse City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the The Botanic Garden at Historic Barns Park Its 25 acres will enliven our history and promote Michigan’s natural beauty. With an emphasis on plant species native to northwest Michigan, it will create and enhance habitats for various forms of wildlife. As a place of refreshment and solace, The Botanic Garden’s unique and original design will inform and inspire. After over a decade of careful planning and preparation, the garden is coming alive.;  Main Address:; The Botanic Garden at Historic Barns Park; Grand Traverse Commons,; 1490 Red Drive; Traverse City; Michigan 49685 United States of America; ;  Telephone: +1 231 935 4077; Fax: ; URL: <a target="_blank" href="http://thebotanicgarden.org/">http://thebotanicgarden.org/; Primary Email: Grow@TheBotanicGarden.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2010
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	44.748478
-Local Address:	Traverse City, MI 49685
-Locality:	Information
-Longitude:	-85.647268
-Open to public:	Yes
-Education:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5051
+1-Name: The Botanic Garden at Historic Barns Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 2010
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the The Botanic Garden at Historic Barns Park        Its 25 acres will enliven our history and promote Michigan’s natural beauty. With an emphasis on plant species native to northwest Michigan, it will create and enhance habitats for various forms of wildlife. As a place of refreshment and solace, The Botanic Garden’s unique and original design will inform and inspire. After over a decade of careful planning and preparation, the garden is coming alive.;                        Main Address:;         The Botanic Garden at Historic Barns Park;         Grand Traverse Commons,;        1490 Red Drive;        Traverse City;        Michigan 49685 United States of America;        ;                 Telephone: +1 231 935 4077;         Fax: ;         URL: http://thebotanicgarden.org/;         Primary Email: Grow@TheBotanicGarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 44.748478
+2-Local Address: Traverse City, MI 49685
+2-Locality: Information
+2-Longitude: -85.647268
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5051">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5051">Please click here if you can update us</a>
+6-Education: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Grow@TheBotanicGarden.org
+9-Telephone: +1 231 935 4077

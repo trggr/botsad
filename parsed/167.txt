@@ -1,11 +1,19 @@
-ID:	167
-Name:	University Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Tamil Nadu - Coimbatore  ;Garden Information;  Institution Code: MH; International Agenda Registration: No; BGCI Member: No;  Main Address:; University Botanic Garden; Botanical Survey of India (Southern Circle),; Coimbatore; Tamil Nadu India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1906
-Institution Type:	Botanic Garden
-Latitude:	11.0052
-Longitude:	76.9707
-Special Collections:	Ferns, palms, shade-loving plants on banks of a small stream
+0-ID: 167
+1-Name: University Botanic Garden 
+2-Date founded: 1906
+2-Info:              Institution Code: MH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University Botanic Garden;         Botanical Survey of India (Southern Circle),;                Coimbatore;        Tamil Nadu India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 11.0052
+2-Longitude: 76.9707
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=167">Please click here if you can update us</a>
+4-Special Collections: Ferns, palms, shade-loving plants on banks of a small stream
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=167">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=167">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=167">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,11 +1,19 @@
-ID:	1417
-Name:	Eurobodalla Regional Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - BATEMAN'S BAY  ;Garden Information;  Institution Code: BATEM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Eurobodalla Regional Botanic Gardens; PO Box 116, BATEMANS BAY, NSW 2536, AUSTRALIA; BATEMAN'S BAY; Australia; ;  Telephone: 61 (0)2 4471 3348; Fax: 61 (0)2 4472 8366; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1987
-Institution Type:	Botanic Garden
-Latitude:	-35.75323
-Longitude:	150.16542
-Special Collections:	100 % of collection if Australian flora.
+0-ID: 1417
+1-Name: Eurobodalla Regional Botanic Gardens 
+2-Date founded: 1987
+2-Info:              Institution Code: BATEM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Eurobodalla Regional Botanic Gardens;         PO Box 116,  BATEMANS BAY,  NSW 2536,  AUSTRALIA;                BATEMAN'S BAY;        Australia;        ;                 Telephone: 61 (0)2 4471 3348;         Fax: 61 (0)2 4472 8366;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -35.75323
+2-Longitude: 150.16542
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1417">Please click here if you can update us</a>
+4-Special Collections: 100 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1417">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1417">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1417">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)2 4472 8366
+9-Institution Code: BATEM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)2 4471 3348
+9-URL: 

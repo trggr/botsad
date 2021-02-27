@@ -1,11 +1,19 @@
-ID:	3362
-Name:	Indiana University Arboretum 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  United States of America - Indiana - Bloomington  ;Garden Information;  Institution Code: IND; International Agenda Registration: No; BGCI Member: No;  Main Address:; Indiana University Arboretum; Department of Physical Facilities; 700 North Walnut Grove; Bloomington; Indiana 47401 United States of America; ;  Telephone: (812) 855-5294; Fax: (812) 855-5635; URL: <a target="_blank" href="http://www.indiana.edu/~univfac/">www.indiana.edu/~univfac/; Primary Email: ddebaun@indiana.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	39.1725990
-Longitude:	-86.5208990
-Special Collections:	Arecaceae, Juglandaceae, Pinaceae, Rosaceae, Cornus (6 spp., 7 taxa), Ilex (3 spp., 12 taxa).
+0-ID: 3362
+1-Name: Indiana University Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: IND;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Indiana University Arboretum;         Department of Physical Facilities;        700 North Walnut Grove;        Bloomington;        Indiana 47401 United States of America;        ;                 Telephone: (812) 855-5294;         Fax: (812) 855-5635;         URL: www.indiana.edu/~univfac/;         Primary Email: ddebaun@indiana.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.1725990
+2-Longitude: -86.5208990
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3362">Please click here if you can update us</a>
+4-Special Collections: Arecaceae, Juglandaceae, Pinaceae, Rosaceae, Cornus (6 spp., 7 taxa), Ilex (3 spp., 12 taxa).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3362">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3362">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3362">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (812) 855-5635
+9-Institution Code: IND
+9-International Agenda Registration: No
+9-Primary Email: ddebaun@indiana.edu
+9-Telephone: (812) 855-5294
+9-URL: www.indiana.edu/~univfac/

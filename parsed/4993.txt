@@ -1,22 +1,26 @@
-ID:	4993
-Name:	Genbank Bayern Arche 
-Fax:	
-Info:	  Germany - Deutschland - Regensburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	Genbank@uni-regensburg.de
-Telephone:	0941 - 943 - 3137
-Curator's Name:	Martin Leipold
-Director's Name:	Prof. Dr. Peter Poschlod
-Plant Records Officer's Name:	
-Altitude:	350.00 Metres
-Annual Rainfall:	650 mm
-Date founded:	2009
-Institution Type:	Gene/Seed Bank
-Latitude:	48.993686
-Longitude:	12.092975
-Seed Bank:	Yes
-Plant Collection Policy:	Yes
-Ex Situ Conservation Programme:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Molecular Genetics:	Yes
-Seed/Spore Biology:	Yes
+0-ID: 4993
+1-Name: Genbank Bayern Arche 
+2-Curator's Name: Martin Leipold
+2-Director's Name: Prof. Dr. Peter Poschlod
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4993/gba_logo_200x200.png" alt="" />         </div>        </div>                                    Main Address:;         Genbank Bayern Arche;         University of Regensburg, Institute of Botany;        Universitätsstr. 31;        Regensburg;        93053 Germany - Deutschland;        ;                 Telephone: 0941 - 943 - 3137;         Fax: ;         URL: http://www.genbank-bayern-arche.de;         Primary Email: Genbank@uni-regensburg.de       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 350.00 Metres
+3-Annual Rainfall: 650 mm
+3-Date founded: 2009
+3-Institution Type: Gene/Seed Bank
+3-Latitude: 48.993686
+3-Longitude: 12.092975
+4-Seed Bank: Yes
+5-Plant Collection Policy: Yes
+6-Ex Situ Conservation Programme: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Molecular Genetics: Yes
+7-Seed/Spore Biology: Yes
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=4993">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Genbank@uni-regensburg.de
+9-Telephone: 0941 - 943 - 3137

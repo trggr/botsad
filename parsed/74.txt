@@ -1,118 +1,127 @@
-ID:	74
-Name:	Dunedin Botanic Garden 
--" border="0" width="127" align="center"> <tbody> <tr> <td style="text-align:	center
--" border="0" width="309" align="center"> <tbody> <tr> <td><img style="margin-right:	auto
--" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/dunedin_video_icon.jpg" alt="" width="341" height="194" border="0" /></td> </tr> <tr> <td style="text-align:	center
--" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_eroni.jpg" alt="" width="326" border="0" /></td> </tr> <tr> <td style="text-align:	center
--" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_lucy.jpg" alt="" width="326" height="243" border="0" /></td> </tr> <tr> <td style="text-align:	center
--"> <h5 style="text-align:	center
--"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_tom_and_logan.jpg" alt="" width="326" border="0" /></td> </tr> <tr> <td style="text-align:	center
--"><strong>ABOUT</strong> <p style="text-align:	justify
--<h3 style="text-align:	justify
--<img style="margin-right:	auto
--<p style="text-align:	justify
--<strong> <a href="http:	//www.dunedin.govt.nz/" target="_blank">Dunedin City Council&nbsp
--<strong><a href="http:	//malcam.org.nz/" target="_blank">Malcam Trust </strong>
--<table style="height:	297px
--Dunedin Botanic Garden</h5> </td> </tr> </tbody> </table> <p style="text-align:	justify
--IMPACTS </strong> <p style="text-align:	justify
--S NEXT?</strong> <p style="text-align:	justify
--display:	block
--margin-left:	auto
--" border="0" width="156" align="center"> <tbody> <tr> <td><em><img style="margin-right:	auto
--" border="0" width="171" align="center"> <tbody> <tr> <td style="text-align:	center
--" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_stacy.jpg" alt="" height="300" border="0" /></em></td> </tr> <tr> <td style="text-align:	center
--"><a href="http:	//www.dunedinbotanicgarden.co.nz/" target="_blank">Dunedin Botanic Garden&rsquo
--"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_andrew.jpg" alt="" width="400" border="0" /></td> </tr> <tr> <td style="text-align:	center
--</h5> </td> </tr> </tbody> </table> <h3 style="text-align:	justify
--</td> <td style="text-align:	center
--<h3 style="text-align:	justify
--<img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_joanna.jpg" alt="" width="200" border="0" /></td> </tr> <tr> <td style="text-align:	center
--<p style="text-align:	justify
--<strong><a href="http:	//malcam.org.nz/" target="_blank">Malcam Trust </strong>
--<strong>IMPACT</strong> <p style="text-align:	justify
--<table style="height:	369px
--ABOUT</strong> <p style="text-align:	justify
--Dunedin Botanic Garden</h5> </td> <td style="text-align:	center
--S NEXT?</strong> <p style="text-align:	justify
--display:	block
--margin-left:	auto
-Fax:	64-(0)3 473 9240
-Info:	  New Zealand - Dunedin  ;Garden Information;<a href="#tabs-2">Community Projects;  Institution Code: DUN; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
-Primary Email:	botanic@cityofdunedin.com
-Telephone:	64 (0)3 477 4000
-Administration Staff Number:	6
-Curator's Name:	Alan Matchett
-Director's Name:	Alan Matchett
-Educational Staff Number:	1
-Horticultural Staff Number:	21
-Plant Records Officer's Name:	Tom Myers
-Research Staff Number:	
-Altitude:	200.00 Metres
-Annual Rainfall:	926 mm
-Date founded:	1863
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-45.857458
-Local Address:	Corner of Great King Street and Opoho Road
-Locality:	Information
-Longitude:	170.521135
-Natural Vegetation Area:	Yes
-Total Area:	28 Hectares
-Total area of glasshouses:	1285 Metres
-Total area of shadehouses:	342 Metres
-Arboretum:	Yes
-Arboretum Size:	8
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	250000
-Number of Volunteers:	46
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	18000
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 74
+1-Name: Dunedin Botanic Garden 
+10-" border="0" width="156" align="center"> <tbody> <tr> <td><em><img style="margin-right: auto
+10-" border="0" width="171" align="center"> <tbody> <tr> <td style="text-align: center
+10-" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_stacy.jpg" alt="" height="300" border="0" /></em></td> </tr> <tr> <td style="text-align: center
+10-"><a href="http: //www.dunedinbotanicgarden.co.nz/" target="_blank">Dunedin Botanic Garden&rsquo
+10-"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_andrew.jpg" alt="" width="400" border="0" /></td> </tr> <tr> <td style="text-align: center
+10-</h5> </td> </tr> </tbody> </table> <h3 style="text-align: justify
+10-</td> <td style="text-align: center
+10-<h3 style="text-align: justify
+10-<img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/4trades_joanna.jpg" alt="" width="200" border="0" /></td> </tr> <tr> <td style="text-align: center
+10-<p style="text-align: justify
+10-<strong>IMPACT</strong> <p style="text-align: justify
+10-<strong>Started in 2003, the project is ongoing.</strong> <table style="height: 238px
+10-ABOUT</strong> <p style="text-align: justify
+10-Dunedin Botanic Garden</h5> </td> <td style="text-align: center
+10-Other graduates have had successes in the wider industry, with roles in maintaining and managing key reserve areas in the city and working for private contractors. <table style="height: 369px
+10-S NEXT?</strong> <p style="text-align: justify
+10-This partnership is critical in allowing the garden to deliver high quality trade training for the wider industry (not just botanic gardens) and in doing so, raise standards of horticulture across all horticultural industry sectors. The strength of the partner organization and relationship between them and the garden gives the program added benefits and provides apprentices with more support than could otherwise be provided. <h3 style="text-align: justify
+10-display: block
+10-margin-left: auto
+10-s changing climate and about plant conservation. This information is often passed on to their friends and family so has a wider reaching impact. <table style="height: 304px
+10-s progress. <table style="height: 173px
+2-Administration Staff Number: 6
+2-Curator's Name: Alan Matchett
+2-Director's Name: Alan Matchett
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 21
+2-Info:              Institution Code: DUN;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level III       ;                                       <img src="/photos/74/DunedinNZ.jpg" alt="View of Winter Garden from Arboretum" />         View of Winter Garden from Arboretum</div>        </div>                                    Main Address:;         Dunedin Botanic Garden;         Dunedin City Council;        P O Box 5045;        Dunedin;        9058 New Zealand;        ;                 Telephone: 64 (0)3 477 4000;         Fax: 64-(0)3 473 9240;         URL: www.cityofdunedin.com/city/?page=bg_about;         Primary Email: botanic@cityofdunedin.com       ;              
+2-Plant Records Officer's Name: Tom Myers
+2-Research Staff Number: 
+3-Altitude: 200.00 Metres
+3-Annual Rainfall: 926 mm
+3-Date founded: 1863
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -45.857458
+3-Local Address: Corner of Great King Street and Opoho Road
+3-Locality: Information
+3-Longitude: 170.521135
+3-Natural Vegetation Area: Yes
+3-Total Area: 28 Hectares
+3-Total area of glasshouses: 1285 Metres
+3-Total area of shadehouses: 342 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 8
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 250000
+4-Number of Volunteers: 46
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Accession Number: 18000
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: Yes
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-" border="0" width="127" align="center"> <tbody> <tr> <td style="text-align: center
+9-" border="0" width="309" align="center"> <tbody> <tr> <td><img style="margin-right: auto
+9-" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/dunedin_video_icon.jpg" alt="" width="341" height="194" border="0" /></a></td> </tr> <tr> <td style="text-align: center
+9-" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_eroni.jpg" alt="" width="326" border="0" /></td> </tr> <tr> <td style="text-align: center
+9-" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_lucy.jpg" alt="" width="326" height="243" border="0" /></td> </tr> <tr> <td style="text-align: center
+9-"> <h5 style="text-align: center
+9-"><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/mt_tom_and_logan.jpg" alt="" width="326" border="0" /></td> </tr> <tr> <td style="text-align: center
+9-"><strong>ABOUT</strong> <p style="text-align: justify
+9-<h3 style="text-align: justify
+9-<img style="margin-right: auto
+9-<strong> <a href="http: //www.dunedin.govt.nz/" target="_blank">Dunedin City Council</a>&nbsp
+9-<strong><a href="http: //malcam.org.nz/" target="_blank">Malcam Trust </a></strong>
+9-<table style="height: 297px
+9-ArbNet Accredited: Level III
+9-BGCI Member: Yes
+9-Dunedin Botanic Garden</h5> </td> </tr> </tbody> </table> <p style="text-align: justify
+9-Fax: 64-(0)3 473 9240
+9-IMPACTS </strong> <p style="text-align: justify
+9-Institution Code: DUN
+9-International Agenda Registration: No
+9-Primary Email: botanic@cityofdunedin.com
+9-Project Green Job provides the opportunity for young people at risk to work in a well established botanic garden and gain practical skills, a sense of achievement and pride in the work they carry out. By participating, these young people gain core skills in grounds maintenance and machinery. <p style="text-align: justify
+9-S NEXT?</strong> <p style="text-align: justify
+9-Telephone: 64 (0)3 477 4000
+9-The Malcam Trust employs and administers a full-time Grounds Supervisor and three trainees. Garden staff oversee the workers and regularly meet with Trust Management and Grounds Supervisor to ensure the project is going according to plan. <table style="height: 349px
+9-URL: www.cityofdunedin.com/city/?page=bg_about
+9-display: block
+9-margin-left: auto

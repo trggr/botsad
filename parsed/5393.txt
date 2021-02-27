@@ -1,9 +1,18 @@
-ID:	5393
-Name:	The British Oasis Academy 
-Curator's Name:	
-Director's Name:	
-Info:	  Nigeria - Abuja  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The British Oasis Academy; Plot 147, Cadastral Zone, 07-04; Peyi Village, Bwari Road; Abuja; Nigeria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	9.245429
-Longitude:	7.3957423
+0-ID: 5393
+1-Name: The British Oasis Academy 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The British Oasis Academy;         Plot 147, Cadastral Zone, 07-04;        Peyi Village, Bwari Road;        Abuja;        Nigeria;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.245429
+2-Longitude: 7.3957423
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5393">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5393">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5393">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5393">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5393">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,20 +1,26 @@
-ID:	4900
-Name:	Smithsonian Gardens - Tree Collection 
-Curator's Name:	Sarah Hedean
-Director's Name:	Barbara Faust
-Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Smithsonian Gardens - Tree Collection; 600 Maryland Avenue, SW; P.O. Box 37012 MRC 420; Washington; District of Columbia 20013 United States of America; ;  Telephone: (202) 633-5839; Fax: (202) 633-5697; URL: <a target="_blank" href="http://www.gardens.si.edu">www.gardens.si.edu; Primary Email: Connollyc2@si.edu ; 
-Plant Records Officer's Name:	Courtney Connolly
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	38.886557
-Local Address:	National Mall
-Locality:	Information
-Longitude:	-77.021245
-Open to public:	Yes
-Accession Number:	1804
-Cultivation Taxa Num:	236
-Invasive Species Monitoring:	Yes
-Special Collections:	Smithsonian Gardens Tree Collection
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	Yes
+0-ID: 4900
+1-Name: Smithsonian Gardens - Tree Collection 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Smithsonian Gardens - Tree Collection;         600 Maryland Avenue, SW;        P.O. Box 37012 MRC 420;        Washington;        District of Columbia 20013 United States of America;        ;                 Telephone: (202) 633-5839;         Fax: (202) 633-5697;         URL: www.gardens.si.edu;         Primary Email: Connollyc2@si.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.886557
+2-Local Address: National Mall
+2-Locality: Information
+2-Longitude: -77.021245
+3-Open to public: Yes
+4-Accession Number: 1804
+4-Cultivation Taxa Num: 236
+4-Invasive Species Monitoring: Yes
+4-Special Collections: Smithsonian Gardens Tree Collection
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4900">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4900">Please click here if you can update us</a>
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: (202) 633-5697
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Connollyc2@si.edu
+9-Telephone: (202) 633-5839
+9-URL: www.gardens.si.edu

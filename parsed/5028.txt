@@ -1,9 +1,18 @@
-ID:	5028
-Name:	PowellsWood 
-Curator's Name:	
-Director's Name:	Justin Henderson, Director
-Info:	  United States of America - Washington - Federal Way  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; PowellsWood; 430 South Dash Point Road; Mailing: 1600B SW Dash Point Road #252; Federal Way; Washington 98023 United States of America; ;  Telephone: (253) 529‑1620; Fax: ; URL: <a target="_blank" href="http://powellswood.org">http://powellswood.org; Primary Email: admin@powellswood.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	47.332437
-Longitude:	-122.327911
+0-ID: 5028
+1-Name: PowellsWood 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         PowellsWood;         430 South Dash Point Road;        Mailing: 1600B SW Dash Point Road #252;        Federal Way;        Washington 98023 United States of America;        ;                 Telephone: (253) 529‑1620;         Fax: ;         URL: http://powellswood.org;         Primary Email: admin@powellswood.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.332437
+2-Longitude: -122.327911
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5028">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5028">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5028">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5028">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5028">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: 1600B SW Dash Point Road #252
+9-Primary Email: admin@powellswood.org
+9-Telephone: (253) 529‑1620

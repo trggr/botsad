@@ -1,80 +1,82 @@
-ID:	201
-Name:	New York Botanical Garden, The 
--" src="https:	//www.bgci.org/files/ERABG/project_images/New%20York%20Botanical%20Garden/6_website.jpg" alt="" width="500" height="750" />
--"><a href="http:	//link.springer.com/article/10.1007/s12228-016-9417-5">Learn more about the Historic and Extant Spontaneous Flora of NYBG
--"><img style="display:	block
--<a href="mailto:	jarcate@nybg.org">Jessica Arcate Schuler for more information about this project.
--<img style="display:	block
--<p style="text-align:	center
--has changed considerably since 1895. The hemlocks that once dominated the canopy began to decline early in the 20th century and have been nearly decimated in the last 30 years by two invasive insects:	hemlock woolly adelgid and elongate hemlock scale. Human-caused disturbances including soil compaction, over-collection of native plants, pollution, introduction of invasive species, fragmentation, loss of top predators, and climate change threaten the remaining native plant communities and habitats. Previous stewards, respectful of natural processes that created the Forest and informed by ecological theories of their times, preferred a &ldquo
--margin-left:	auto
--margin-right:	auto
-Fax:	(718) 220-6504
-Info:	  United States of America - New York - Bronx  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: NY; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	
-Telephone:	(718) 817-8700
-Curator's Name:	Todd Forrest, Arthur Ross Vice President for Horticulture and Living Collections
-Director's Name:	J. V. Cossaboom, Interim President and Chief Executive Officer, Office of the Director
-Plant Records Officer's Name:	Kristine Paulus, Living Collections Information Manager
-Altitude:	0.00 Metres
-Annual Rainfall:	89 mm
-Date founded:	1891
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	40.8667875
-Longitude:	-73.8832653
-Natural Vegetation Area:	Yes
-Total Area:	101 Hectares
-Total area of glasshouses:	12140 Metres
-Total area of shadehouses:	4046 Metres
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	800000
-Number of Volunteers:	1484
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Accession Number:	21975
-Cultivation Taxa Num:	14418
-Invasive Species Monitoring:	Yes
-Special Collections:	Acer (119 taxa) - NAPCC Collection
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Pharmacology:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 201
+1-Name: New York Botanical Garden, The 
+2-Curator's Name: Todd Forrest, Arthur Ross Vice President for Horticulture and Living Collections
+2-Director's Name: J. V. Cossaboom, Interim President and Chief Executive Officer, Office of the Director
+2-Info:              Institution Code: NY;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/201/nybg_dome_200x144.jpg" alt="Enid A. Haupt Conservatory" />         Enid A. Haupt Conservatory</div>        </div>                           About the New York Botanical Garden, The        Founded in 1891, the Garden is one of the world’s great collections of plants, the region’s leading educational center for gardening and horticulture, and an international center for plant research. The Garden is alive with opportunities for discovery, from an "ecotour" of the world in the Enid A. Haupt Conservatory to an innovative indoor/outdoor science museum for kids to 50 exquisite gardens and plant collections, all on a 250-acre National Historic Landmark site in New York City’s Bronx borough.;                        Main Address:;         New York Botanical Garden, The;         2900 Southern Boulevard;                Bronx;        New York 10458-5126 United States of America;        ;                 Telephone: (718) 817-8700;         Fax: (718) 220-6504;         URL: www.nybg.org;         Primary Email:        ;              
+2-Plant Records Officer's Name: Kristine Paulus, Living Collections Information Manager
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 89 mm
+3-Date founded: 1891
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 40.8667875
+3-Longitude: -73.8832653
+3-Natural Vegetation Area: Yes
+3-Total Area: 101 Hectares
+3-Total area of glasshouses: 12140 Metres
+3-Total area of shadehouses: 4046 Metres
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 800000
+4-Number of Volunteers: 1484
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Accession Number: 21975
+5-Cultivation Taxa Num: 14418
+5-Invasive Species Monitoring: Yes
+5-Special Collections: Acer (119 taxa) - NAPCC Collection
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: Yes
+7-Pharmacology: Yes
+7-Plant Breeding: Yes
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-" src="https: //www.bgci.org/files/ERABG/project_images/New%20York%20Botanical%20Garden/1_website.jpg" alt="" width="500" height="666" />
+9-"><img style="display: block
+9-. Seedlings grown from trees in the eastern U.S. showing natural resistance to hemlock wooly adelgid were planted in the Thain Family Forest in 2015 <p style="text-align: justify
+9-BGCI Member: Yes
+9-Fax: (718) 220-6504
+9-Institution Code: NY
+9-International Agenda Registration: No
+9-NYBG created of a comprehensive program of research, education, and ecological restoration. <p style="text-align: center
+9-Primary Email: 
+9-Telephone: (718) 817-8700
+9-URL: www.nybg.org
+9-has changed considerably since 1895. The hemlocks that once dominated the canopy began to decline early in the 20th century and have been nearly decimated in the last 30 years by two invasive insects: hemlock woolly adelgid and elongate hemlock scale. Human-caused disturbances including soil compaction, over-collection of native plants, pollution, introduction of invasive species, fragmentation, loss of top predators, and climate change threaten the remaining native plant communities and habitats. Previous stewards, respectful of natural processes that created the Forest and informed by ecological theories of their times, preferred a &ldquo
+9-margin-left: auto
+9-margin-right: auto

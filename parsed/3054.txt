@@ -1,12 +1,21 @@
-ID:	3054
-Name:	Central South University of Forestry and Technology 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  China - Hunan - Changsha  ;Garden Information;  Institution Code: ZHUZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Central South University of Forestry and Technology; Forestry Department; Shaoshan South Road, No. 498; Changsha; Hunan 410004 China; ;  Telephone: (+86) 731-85623398; Fax: (+86) 731-85623172; URL: <a target="_blank" href="http://www.csuft.edu.cn">www.csuft.edu.cn; Primary Email: csuftxb@edu.cn ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	27.5416
-Local Address:	中国湖南省株洲中南大学林学院株洲，邮编 412006
-Locality:	Information
-Longitude:	113.1625
+0-ID: 3054
+1-Name: Central South University of Forestry and Technology 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ZHUZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Central South University of Forestry and Technology;         Forestry Department;        Shaoshan South Road, No. 498;        Changsha;        Hunan 410004 China;        ;                 Telephone: (+86) 731-85623398;         Fax: (+86) 731-85623172;         URL: www.csuft.edu.cn;         Primary Email: csuftxb@edu.cn       ;              
+2-Institution Type: Other
+2-Latitude: 27.5416
+2-Local Address: 中国湖南省株洲中南大学林学院株洲，邮编 412006
+2-Locality: Information
+2-Longitude: 113.1625
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3054">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3054">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3054">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3054">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3054">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (+86) 731-85623172
+9-Institution Code: ZHUZ
+9-International Agenda Registration: No
+9-Primary Email: csuftxb@edu.cn
+9-Telephone: (+86) 731-85623398
+9-URL: www.csuft.edu.cn

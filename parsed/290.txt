@@ -1,77 +1,76 @@
-ID:	290
-Name:	Brisbane Botanic Gardens 
-Administration Staff Number:	9
-Curator's Name:	Dale Arvidsson
-Director's Name:	Curator
-Educational Staff Number:	10
-Horticultural Staff Number:	34
-Info:	  Australia - Queensland - Toowong  ;Garden Information;  Institution Code: TOOW; International Agenda Registration: Yes; BGCI Member: Yes; About the Brisbane Botanic Gardens The Brisbane Botanic Gardens at Mt Coot-tha are Queensland's premier subtropical botanic gardens. These 56 hectare gardens are situated seven kilometres from the city centre.; The Brisbane Botanic Gardens officially opened in 1976. Work to build these gardens at the foot of Mount Coot-tha began in 1970.; ; Brisbane City Council established a second botanic gardens in 1970. The historic City Botanic Gardens was established in 1855 and Sherwood Arboretum was established in 1925.; ; Plant collections at the Brisbane Botanic Gardens Mt Coo-tha include a series of distinctly different gardens arranged in themes and geographical displays. The City Botanic Gardens house some of the oldest Queensland Native and exotic plants in Australia, whilst Sherwood Arboretum is home to over 1,150 Australian native trees.;  Main Address:; Brisbane Botanic Gardens; Mt Coot-tha Road; Toowong; Queensland 4066 Australia; ;  Telephone: +(07) 617 3403 2535; Fax: +(07) 617 3403 2552; URL: <a target="_blank" href="http://www.brisbane.qld.gov.au/botanicgardens.">http://www.brisbane.qld.gov.au/botanicgardens.; Primary Email: botanicgardens@brisbane.qld.gov.au ; 
-Plant Records Officer's Name:	Ross Demuth
-Research Staff Number:	2
-Altitude:	38.00 Metres
-Annual Rainfall:	1200 mm
-Date founded:	1976
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-27.4767276
-Longitude:	152.9753942
-Satellite Garden Names:	City Botanic Gardens Sherwood Arboretum
-Total Area:	56 Hectares
-Total area of glasshouses:	100 Metres
-Total area of shadehouses:	200 Metres
-Arboretum:	Yes
-Arboretum Size:	15
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	15000000
-Number of Volunteers:	120
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	15000
-Cultivation Taxa Num:	3988
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	70% of collection is Australian flora.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 290
+1-Name: Brisbane Botanic Gardens 
+2-Altitude: 38.00 Metres
+2-Annual Rainfall: 1200 mm
+2-Date founded: 1976
+2-Info:              Institution Code: TOOW;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Brisbane Botanic Gardens        The Brisbane Botanic Gardens at Mt Coot-tha are Queensland's premier subtropical botanic gardens. These 56 hectare gardens are situated seven kilometres from the city centre.;  The Brisbane Botanic Gardens officially opened in 1976. Work to build these gardens at the foot of Mount Coot-tha began in 1970.;  ;  Brisbane City Council established a second botanic gardens in 1970. The historic City Botanic Gardens was established in 1855 and Sherwood Arboretum was established in 1925.;  ;  Plant collections at the Brisbane Botanic Gardens Mt Coo-tha include a series of distinctly different gardens arranged in themes and geographical displays.  The City Botanic Gardens house some of the oldest Queensland Native and exotic plants in Australia, whilst Sherwood Arboretum is home to over 1,150 Australian native trees.;                        Main Address:;         Brisbane Botanic Gardens;         Mt Coot-tha Road;                Toowong;        Queensland 4066 Australia;        ;                 Telephone: +(07) 617 3403 2535;         Fax: +(07) 617 3403 2552;         URL: http://www.brisbane.qld.gov.au/botanicgardens.;         Primary Email: botanicgardens@brisbane.qld.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: -27.4767276
+2-Longitude: 152.9753942
+2-Satellite Garden Names: City Botanic Gardens Sherwood Arboretum
+2-Total Area: 56 Hectares
+2-Total area of glasshouses: 100 Metres
+2-Total area of shadehouses: 200 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 15
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 15000000
+3-Number of Volunteers: 120
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Accession Number: 15000
+4-Cultivation Taxa Num: 3988
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: 70% of collection is Australian flora.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: Yes
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: +(07) 617 3403 2552
+9-Institution Code: TOOW
+9-International Agenda Registration: Yes
+9-Primary Email: botanicgardens@brisbane.qld.gov.au
+9-Telephone: +(07) 617 3403 2535

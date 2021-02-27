@@ -1,12 +1,21 @@
-ID:	2077
-Name:	Hangzhou Medicinal Herb Garden (Zhejiang) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Zhejiang - Hangzhou  ;Garden Information;  Institution Code: HANGZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hangzhou Medicinal Herb Garden (Zhejiang); Hangzhou Institute of Medicine, No. 133 Xixi Road, Hangzhou, Zhejiang, 310023, China; Hangzhou; Zhejiang China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	30.2722
-Local Address:	中国浙江省杭州市西溪路133号杭州中药研究所，邮编 310023
-Locality:	Information
-Longitude:	120.1708
+0-ID: 2077
+1-Name: Hangzhou Medicinal Herb Garden (Zhejiang) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HANGZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hangzhou Medicinal Herb Garden (Zhejiang);         Hangzhou Institute of Medicine, No. 133 Xixi Road, Hangzhou, Zhejiang, 310023, China;                Hangzhou;        Zhejiang China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.2722
+2-Local Address: 中国浙江省杭州市西溪路133号杭州中药研究所，邮编 310023
+2-Locality: Information
+2-Longitude: 120.1708
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2077">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2077">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2077">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2077">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2077">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HANGZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

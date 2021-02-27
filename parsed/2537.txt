@@ -1,10 +1,19 @@
-ID:	2537
-Name:	Campo Biologico Experimental-Laboratorio 125 
-Curator's Name:	
-Director's Name:	
-Info:	  Colombia - Bogota  ;Garden Information;  Institution Code: UNC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Campo Biologico Experimental-Laboratorio 125; Ciudad Universitaria Universidad Nacional de Colombia Carrera 30 calle 45 Facultad de Ciencias Depar; Bogota; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	4.6473
-Longitude:	-74.0962
+0-ID: 2537
+1-Name: Campo Biologico Experimental-Laboratorio 125 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: UNC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Campo Biologico Experimental-Laboratorio 125;         Ciudad Universitaria Universidad Nacional de Colombia Carrera 30 calle 45 Facultad de Ciencias Depar;                Bogota;        Colombia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 4.6473
+2-Longitude: -74.0962
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2537">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2537">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2537">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2537">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2537">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: UNC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

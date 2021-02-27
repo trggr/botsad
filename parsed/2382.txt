@@ -1,11 +1,19 @@
-ID:	2382
-Name:	Hackfalls Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  New Zealand - Tiniroto  ;Garden Information;  Institution Code: HACK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hackfalls Arboretum; Hackfalls Arboretum Charitable Trust, P.O. Box 3, Tiniroto, via Gisborne, New Zealand.; Tiniroto; New Zealand; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-38.769907
-Longitude:	177.54079
-Special Collections:	Trees and shrubs, exotic and native
+0-ID: 2382
+1-Name: Hackfalls Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: HACK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hackfalls Arboretum;         Hackfalls Arboretum Charitable Trust,  P.O. Box 3, Tiniroto, via Gisborne,  New Zealand.;                Tiniroto;        New Zealand;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -38.769907
+2-Longitude: 177.54079
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2382">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs, exotic and native
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2382">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2382">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2382">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HACK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

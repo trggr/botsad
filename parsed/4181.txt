@@ -1,74 +1,74 @@
-ID:	4181
-Name:	Coimbatore Zoological Park Society 
-Administration Staff Number:	1
-Curator's Name:	Mr. B. Rathinasabapathy
-Director's Name:	G. Rangaswamy
-Educational Staff Number:	1
-Horticultural Staff Number:	
-Info:	  India - Tamil Nadu - Coimbatore  ;Garden Information;  Institution Code: CZPS; International Agenda Registration: No; BGCI Member: No; About the Coimbatore Zoological Park Society The Coimbatore Zoological Park & Conservation Centre (CZPCC) is located at Anaikatty, 30 km west of Coimbatore, occupying an area of 100 hectares in the foothills of the Nilgiri Biosphere Reserve (NBR), which is a unique and threatened ecosystem in Western Ghats of India. The NBR, is the first of the fourteen biosphere reserves of India. It provides habitat for about 110 strict endemics of plants. The CZPCC would be a replica of the NBR, focusing on its flora and fauna. Ever since inception, it has been involved in various conservation related activities and has attracted many nature lovers and students. An initiative towards this was the conduct of a Botanic Education workshop in collaboration with Zoo Outreach Organization and BGCI in 1995. The aim of this workshop was to bring together zoos, botanic gardens, forest department, research institutions and NGOs, to work towards plant diversity. In recognition of CZPCC work, the BGCI/NBRI awarded a grant under Investing in Nature-India to establish an Arboretum for endemic and endangered plants of the NBR and to promote conservation education. We routinely organize environment related educational programmes like nature camps, trekking, plants identification, quiz competitions etc., for school and college students. Apart form this, CZPCC has also conducted thematic programmes for teachers to promote biodiversity conservation. So far, about 5000 people have been trained on various issues of plant conservation. We at CZPCC truly believe that in the coming years, the organization would grow from strength to strength and will have a great impact on the nature lovers, students, researchers and the general public.;  Main Address:; Coimbatore Zoological Park Society; Pioneer House; Peelamedu; Coimbatore; Tamil Nadu 641 004 India; ;  Telephone: 91 422 2572222; Fax: ; URL: <a target="_blank" href="http://www.nilgiribiopark.com">www.nilgiribiopark.com; Primary Email: nbrpark@gmail.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	650.00 Metres
-Annual Rainfall:	800 mm
-Date founded:	1986
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	11.1000
-Local Address:	1388, Pioneer House, Peelamedu Coimbatore 641 004, Tamil Nadu, India
-Locality:	Information
-Longitude:	76.7500
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Nilgiri Biosphere Nature Park
-Total Area:	100 Hectares
-Arboretum:	Yes
-Arboretum Size:	2
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	4000
-Number of Volunteers:	10
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	600
-Cultivation Taxa Num:	110
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4181
+1-Name: Coimbatore Zoological Park Society 
+2-Altitude: 650.00 Metres
+2-Annual Rainfall: 800 mm
+2-Date founded: 1986
+2-Info:              Institution Code: CZPS;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Coimbatore Zoological Park Society        The Coimbatore Zoological Park & Conservation Centre (CZPCC) is located at Anaikatty, 30 km west of Coimbatore, occupying an area of 100 hectares in the foothills of the Nilgiri Biosphere Reserve (NBR), which is a unique and threatened ecosystem in Western Ghats of India. The NBR, is the first of the fourteen biosphere reserves of India. It provides habitat for about 110 strict endemics of plants.               The CZPCC would be a replica of the NBR, focusing on its flora and fauna. Ever since inception, it has been involved in various conservation related activities and has attracted many nature lovers and students.  An initiative towards this was the conduct of a Botanic Education workshop in collaboration with Zoo Outreach Organization and BGCI in 1995. The aim of this workshop was  to bring together zoos, botanic gardens, forest department, research institutions and NGOs, to work towards plant diversity.   In recognition of CZPCC work, the BGCI/NBRI awarded a grant under Investing in Nature-India to establish an Arboretum for endemic and endangered plants of the NBR and to promote conservation education.                         We routinely organize environment related educational programmes like nature camps, trekking, plants identification, quiz competitions etc., for school and college students. Apart form this, CZPCC has also conducted thematic programmes for teachers to promote biodiversity conservation. So far, about 5000 people have been trained on various issues of plant conservation. We at CZPCC truly believe that in the coming years, the organization would grow from strength to strength and will have a great impact on the nature lovers, students, researchers and the general public.;                        Main Address:;         Coimbatore Zoological Park Society;         Pioneer House;        Peelamedu;        Coimbatore;        Tamil Nadu 641 004 India;        ;                 Telephone: 91 422 2572222;         Fax: ;         URL: www.nilgiribiopark.com;         Primary Email: nbrpark@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 11.1000
+2-Local Address: 1388, Pioneer House, Peelamedu Coimbatore 641 004, Tamil Nadu, India
+2-Locality: Information
+2-Longitude: 76.7500
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Nilgiri Biosphere Nature Park
+2-Total Area: 100 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 2
+3-Computer Plant Record System: Yes
+3-Disabled access: No
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 4000
+3-Number of Volunteers: 10
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Accession Number: 600
+4-Cultivation Taxa Num: 110
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Agriculture: Yes
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: Yes
+6-Sustainability: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: No
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CZPS
+9-International Agenda Registration: No
+9-Primary Email: nbrpark@gmail.com
+9-Telephone: 91 422 2572222
+9-URL: www.nilgiribiopark.com

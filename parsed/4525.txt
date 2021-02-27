@@ -1,11 +1,19 @@
-ID:	4525
-Name:	Flora Tropica Gardens 
-Curator's Name:	
-Director's Name:	Ms. Paula Young
-Info:	  Fiji - Fiji Islands - Savusavu  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Flora Tropica Gardens Flora Tropica Gardens Fiji are situated on the bay, five kilometres from Savusavu town. The gardens comprise five acres of stunningly landscaped hillsides and creek flats which can be explored by elevated timber walkways and stone paths. Well-placed rest areas provide opportunities to relax and enjoy the glorious views over the gardens and across Savusavu Bay.; ; The highlight of the gardens is the palm collection with more than 300 species from around the world, including many that are among the most rare and endangered species. The gardens also include more than 40 types of tropical fruit trees, myriad flowering trees, variegated and flowering shrubs, as well as orchids, heliconias, ponds brimming with water lilies, and much more. The gardens' abundance of flowers and fruit attract native birds to delight bird watchers.; ; On 20th February 2016 the gardens were hit pretty hard by Cyclone Winston. The gardens are currently closed for full restoration and repair.;  Main Address:; Flora Tropica Gardens; P.O. Box 507; Savusavu; Fiji Islands Fiji; ;  Telephone: +679 8850591; Fax: +679 8850591; URL: <a target="_blank" href="http://www.floratropica.com">www.floratropica.com; Primary Email: info@floratropica.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-16.77
-Longitude:	179.34
-Special Collections:	More than 300 species of palms from around the world, more than 40 types of tropical fruit trees, many flowering trees, variegated and flowering shrubs, as well as orchids, heliconias, ponds brimming with water lilies, and much more.
+0-ID: 4525
+1-Name: Flora Tropica Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Flora Tropica Gardens        Flora Tropica Gardens Fiji are situated on the bay, five kilometres from Savusavu town. The gardens comprise five acres of stunningly landscaped hillsides and creek flats which can be explored by elevated timber walkways and stone paths. Well-placed rest areas provide opportunities to relax and enjoy the glorious views over the gardens and across Savusavu Bay.;  ;  The highlight of the gardens is the palm collection with more than 300 species from around the world, including many that are among the most rare and endangered species. The gardens also include more than 40 types of tropical fruit trees, myriad flowering trees, variegated and flowering shrubs, as well as orchids, heliconias, ponds brimming with water lilies, and much more. The gardens' abundance of flowers and fruit attract native birds to delight bird watchers.;  ;  On 20th February 2016 the gardens were hit pretty hard by Cyclone Winston. The gardens are currently closed for full restoration and repair.;                        Main Address:;         Flora Tropica Gardens;         P.O. Box 507;                Savusavu;        Fiji Islands Fiji;        ;                 Telephone: +679 8850591;         Fax: +679 8850591;         URL: www.floratropica.com;         Primary Email: info@floratropica.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -16.77
+2-Longitude: 179.34
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4525">Please click here if you can update us</a>
+4-Special Collections: More than 300 species of palms from around the world, more than 40 types of tropical fruit trees, many flowering trees, variegated and flowering shrubs, as well as orchids, heliconias, ponds brimming with water lilies, and much more.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4525">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4525">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4525">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +679 8850591
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@floratropica.com
+9-Telephone: +679 8850591
+9-URL: www.floratropica.com

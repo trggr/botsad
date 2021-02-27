@@ -1,14 +1,21 @@
-ID:	5491
-Name:	Williams Conservatory, University of Wyoming 
-Curator's Name:	
-Director's Name:	Sarah B. Lemli
-Info:	  United States of America - Wyoming - Laramie  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Williams Conservatory, University of Wyoming The Williams Conservatory is a prominent facility at the University of Wyoming. Built in 1994, our greenhouse was funded largely by private donations from Louis O. and Terua P. Williams. The National Science Foundation (NSF) also contributed grant dollars specifically for the enhancement and maintenance of research.; ; The Conservatory is a multipurpose facility that is open daily for free public use. Our facility receives hundreds of visitors each year from the University community, traveling tourists, and Wyoming residents. ; ; The Williams Conservatory greenhouse and staff are organized to serve a three pronged mission of research, education, and outreach. Various graduate students and faculty conduct experiments in our segregated research rooms. University classes benefit from our growing spaces and sample from our living collection. Students of all ages regularly tour our facility to learn about plants from various climates and biomes. Conservatory staff not only work to maintain a living collection, but also host many guided tours, workshops, and fundraising events.;  Main Address:; Williams Conservatory, University of Wyoming; 1000 E. University Ave; Laramie; Wyoming 82071 United States of America; ;  Telephone: 3077664336; Fax: ; URL: <a target="_blank" href="http://www.uwyo.edu/conservatory/">http://www.uwyo.edu/conservatory/; Primary Email: slemli@uwyo.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1994
-Institution Type:	Botanic Garden
-Latitude:	41.3126823
-Longitude:	-105.5869633
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5491
+1-Name: Williams Conservatory, University of Wyoming 
+2-Altitude: 0.00 Metres
+2-Date founded: 1994
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Williams Conservatory, University of Wyoming        The Williams Conservatory is a prominent facility at the University of Wyoming. Built in 1994, our greenhouse was funded largely by private donations from Louis O. and Terua P. Williams. The National Science Foundation (NSF) also contributed grant dollars specifically for the enhancement and maintenance of research.;  ;  The Conservatory is a multipurpose facility that is open daily for free public use. Our facility receives hundreds of visitors each year from the University community, traveling tourists, and Wyoming residents. ;  ;  The Williams Conservatory greenhouse and staff are organized to serve a three pronged mission of research, education, and outreach. Various graduate students and faculty conduct experiments in our segregated research rooms. University classes benefit from our growing spaces and sample from our living collection. Students of all ages regularly tour our facility to learn about plants from various climates and biomes. Conservatory staff not only work to maintain a living collection, but also host many guided tours, workshops, and fundraising events.;                        Main Address:;         Williams Conservatory, University of Wyoming;         1000 E. University Ave;                Laramie;        Wyoming 82071 United States of America;        ;                 Telephone: 3077664336;         Fax: ;         URL: http://www.uwyo.edu/conservatory/;         Primary Email: slemli@uwyo.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.3126823
+2-Longitude: -105.5869633
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5491">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5491">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5491">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5491">Please click here if you can update us</a>
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: slemli@uwyo.edu
+9-Telephone: 3077664336

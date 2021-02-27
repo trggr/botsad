@@ -1,9 +1,18 @@
-ID:	5143
-Name:	Roseraie du Val-de-Marne 
-Curator's Name:	
-Director's Name:	
-Info:	  France - L'Hay-Les-Roses  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Roseraie du Val-de-Marne; Rue Albert Watel; L'Hay-Les-Roses; 94240 France; ;  Telephone: +33 630 232 674; Fax: ; URL: <a target="_blank" href="http://www.valdemarne.fr">www.valdemarne.fr; Primary Email: Guillaume.LeTexier@valdemarne.fr ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	48.7762605
-Longitude:	2.3324063
+0-ID: 5143
+1-Name: Roseraie du Val-de-Marne 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Roseraie du Val-de-Marne;         Rue Albert Watel;                L'Hay-Les-Roses;        94240 France;        ;                 Telephone: +33 630 232 674;         Fax: ;         URL: www.valdemarne.fr;         Primary Email: Guillaume.LeTexier@valdemarne.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.7762605
+2-Longitude: 2.3324063
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5143">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5143">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5143">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5143">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5143">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Guillaume.LeTexier@valdemarne.fr
+9-Telephone: +33 630 232 674
+9-URL: www.valdemarne.fr

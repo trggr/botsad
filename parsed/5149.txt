@@ -1,10 +1,18 @@
-ID:	5149
-Name:	Asociación Mexicana de Jardines Botánicos (AMJB) 
-Curator's Name:	Beatriz Maruri
-Director's Name:	Emiliano Sanchez, AMJB Director
-Info:	  Mexico - Querétaro - Querétaro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Asociación Mexicana de Jardines Botánicos (AMJB); Luis Pasteur Sur 36, Centro; Querétaro; Querétaro 76000 Mexico; ;  Telephone: +52 441-276-0647; Fax: ; URL: <a target="_blank" href="http://www.concyteq.edu.mx/amjb/">http://www.concyteq.edu.mx/amjb/; Primary Email: esanchez@concyteq.edu.mx ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Network
-Latitude:	22.592282
-Longitude:	-100.388589
+0-ID: 5149
+1-Name: Asociación Mexicana de Jardines Botánicos (AMJB) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Asociación Mexicana de Jardines Botánicos (AMJB);         Luis Pasteur Sur 36, Centro;                Querétaro;        Querétaro 76000 Mexico;        ;                 Telephone: +52 441-276-0647;         Fax: ;         URL: http://www.concyteq.edu.mx/amjb/;         Primary Email: esanchez@concyteq.edu.mx       ;              
+2-Institution Type: Network
+2-Latitude: 22.592282
+2-Longitude: -100.388589
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5149">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5149">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5149">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5149">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5149">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: esanchez@concyteq.edu.mx
+9-Telephone: +52 441-276-0647

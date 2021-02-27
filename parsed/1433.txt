@@ -1,22 +1,24 @@
-ID:	1433
-Name:	The University of Auckland Botanic Garden 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Stanley Jones
-Educational Staff Number:	
-Horticultural Staff Number:	8
-Info:	  New Zealand - Auckland  ;Garden Information;  Institution Code: AKU; International Agenda Registration: No; BGCI Member: No;  Main Address:; The University of Auckland Botanic Garden; University of Auckland,; Private Bag 92019; Auckland; 1142 New Zealand; ;  Telephone: +64 9 373 7599; Fax: +64 9 373 7456; URL: <a target="_blank" href="https://www.auckland.ac.nz/en.html">https://www.auckland.ac.nz/en.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-36.851861
-Longitude:	174.77057
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Special Collections:	Acer, Allium, Crataegus, Betula, Lonicera, Rosa, Thalictrum. Flora of Western Europe, European former USSR, Crimea and Caucasus. Middle Asia, Western and Eastern Siberia, Far East, tropics.
+0-ID: 1433
+1-Name: The University of Auckland Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: AKU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The University of Auckland Botanic Garden;         University of Auckland,;        Private Bag 92019;        Auckland;        1142 New Zealand;        ;                 Telephone: +64 9 373 7599;         Fax: +64 9 373 7456;         URL: https://www.auckland.ac.nz/en.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -36.851861
+2-Longitude: 174.77057
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Special Collections: Acer, Allium, Crataegus, Betula, Lonicera, Rosa, Thalictrum. Flora of Western Europe, European former USSR, Crimea and Caucasus. Middle Asia, Western and Eastern Siberia, Far East, tropics.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1433">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1433">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1433">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +64 9 373 7456
+9-Institution Code: AKU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +64 9 373 7599

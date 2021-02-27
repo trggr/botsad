@@ -1,28 +1,31 @@
-ID:	3596
-Name:	Botanova 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Katarina Stenman
-Educational Staff Number:	
-Horticultural Staff Number:	1
-Info:	  Sweden - Umeå  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Botanova Small (former botanic garden) collection in transit to new facilities. Not open to the public currently but will be in teh future.;  Main Address:; Botanova; Tallvagen 47; Växthuset, Umeå University; Umeå; 90738 Sweden; ;  Telephone: +4690178811; Fax: +4690178811; URL: <a target="_blank" href="http://">; Primary Email: Katarina.Stenman@emg.umu.se ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1970
-Institution Type:	Other
-Landscaped Area:	No
-Latitude:	63.8287
-Longitude:	20.2581
-Natural Vegetation Area:	No
-Total area of glasshouses:	300 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	No
-Published Plant Catalogue:	No
-Seed Bank:	No
-Accession Number:	2400
-Cultivation Taxa Num:	2200
+0-ID: 3596
+1-Name: Botanova 
+2-Altitude: 0.00 Metres
+2-Date founded: 1970
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Botanova        Small (former botanic garden) collection in transit to new facilities. Not open to the public currently but will be in teh future.;                        Main Address:;         Botanova;         Tallvagen 47;        Växthuset, Umeå University;        Umeå;        90738 Sweden;        ;                 Telephone: +4690178811;         Fax: +4690178811;         URL: ;         Primary Email: Katarina.Stenman@emg.umu.se       ;              
+2-Institution Type: Other
+2-Landscaped Area: No
+2-Latitude: 63.8287
+2-Longitude: 20.2581
+2-Natural Vegetation Area: No
+2-Total area of glasshouses: 300 Metres
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: No
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Accession Number: 2400
+4-Cultivation Taxa Num: 2200
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3596">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3596">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3596">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +4690178811
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Katarina.Stenman@emg.umu.se
+9-Telephone: +4690178811
+9-URL: 

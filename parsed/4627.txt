@@ -1,9 +1,18 @@
-ID:	4627
-Name:	Oatland Island Wildlife Center 
-Curator's Name:	Horticulturist
-Director's Name:	Unknown
-Info:	  United States of America - Georgia - Savannah  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oatland Island Wildlife Center; 711 Sandtown Road; Savannah; Georgia 31410 United States of America; ;  Telephone: (912) 395-1212; Fax: ; URL: <a target="_blank" href="http://www.oatlandisland.org">www.oatlandisland.org; Primary Email: shirley.calhoun@sccpss.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	32.0520395
-Longitude:	-81.0180354
+0-ID: 4627
+1-Name: Oatland Island Wildlife Center 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Oatland Island Wildlife Center;         711 Sandtown Road;                Savannah;        Georgia 31410 United States of America;        ;                 Telephone: (912) 395-1212;         Fax: ;         URL: www.oatlandisland.org;         Primary Email: shirley.calhoun@sccpss.com       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 32.0520395
+2-Longitude: -81.0180354
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4627">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4627">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4627">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4627">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4627">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: shirley.calhoun@sccpss.com
+9-Telephone: (912) 395-1212
+9-URL: www.oatlandisland.org

@@ -1,28 +1,33 @@
-ID:	4791
-Name:	Green Mountain Cloud Forest Gardens 
-Fax:	
-Info:	  Costa Rica - Cartago  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	greencrabcr@yahoo.com
-Telephone:	011.506.8718.9039
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	Arley E. Arthur
-Educational Staff Number:	2
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	1835.00 Metres
-Date founded:	2001
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	9.7605
-Longitude:	-83.7845
-Natural Vegetation Area:	Yes
-Total Area:	5 Hectares
-Open to public:	Yes
-Ecosystem Conservation:	Yes
-Land Restoration:	Yes
-Plant Breeding:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4791
+1-Name: Green Mountain Cloud Forest Gardens 
+2-Administration Staff Number: 2
+2-Curator's Name: 
+2-Director's Name: Arley E. Arthur
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4791/1407695234400[1].jpg" alt="Lotus pond" />         Lotus pond</div>        </div>                           About the Green Mountain Cloud Forest Gardens        We are located within the cloud forest known as El Macizo del Cerro de la Muerte,a World Heritage region due to its global environmental importance. Our approximate altitude is 1835 meters above sea level. Half the grounds consist of primary forest. A river runs through the forest and there are multiple falls. Epiphytes are abundant.;                        Main Address:;         Green Mountain Cloud Forest Gardens;         La Cangreja;                Cartago;        1823-7050 Costa Rica;        ;                 Telephone: 011.506.8718.9039;         Fax: ;         URL: http://www.greenmountaincr.com/index2.html;         Primary Email: greencrabcr@yahoo.com       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 1835.00 Metres
+3-Date founded: 2001
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 9.7605
+3-Longitude: -83.7845
+3-Natural Vegetation Area: Yes
+3-Total Area: 5 Hectares
+4-Open to public: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4791">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4791">Please click here if you can update us</a>
+7-Ecosystem Conservation: Yes
+7-Land Restoration: Yes
+7-Plant Breeding: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: greencrabcr@yahoo.com
+9-Telephone: 011.506.8718.9039

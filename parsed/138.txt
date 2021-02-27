@@ -1,64 +1,69 @@
-ID:	138
-Name:	Los Angeles County Arboretum and Botanic Garden 
-Curator's Name:	Jim Henrich, Living Collections Curator
-Director's Name:	Richard Schulhof, CEO
-Info:	  United States of America - California - Arcadia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Los Angeles County Arboretum and Botanic Garden The Arboretum is a 127-acre botanical garden and historical site jointly operated by the Los Angeles Arboretum Foundation and the Los Angeles County Department of Parks and Recreation.;  Main Address:; Los Angeles County Arboretum and Botanic Garden; 301 North Baldwin Avenue; Arcadia; California 91007 United States of America; ;  Telephone: (626) 821-3222; Fax: (626) 445-1217; URL: <a target="_blank" href="http://www.arboretum.org">www.arboretum.org; Primary Email: jim.henrich@arboretum.org ; 
-Plant Records Officer's Name:	
-Altitude:	167.00 Metres
-Annual Rainfall:	457 mm
-Date founded:	1948
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	34.1439049
-Longitude:	-118.0511940
-Natural Vegetation Area:	Yes
-Total Area:	51 Hectares
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	200000
-Number of Volunteers:	125
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Special Collections:	Arranged primarily by biogeography. Also Tropical Greenhouse, Palm & Bamboo, Herb, Water-conservation, Madagascar Spiny Forest, Prehistoric Forest, Rose, Orchidaceae, Myrtaceae, Acacia (110 spp., 120 taxa), Aloe (32 spp., 32 taxa), Callistemon (21 spp., Ficus 54 taxa), Juniperus (130 taxa), Magnolia (76 taxa), Melaleuca.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 138
+1-Name: Los Angeles County Arboretum and Botanic Garden 
+2-Altitude: 167.00 Metres
+2-Annual Rainfall: 457 mm
+2-Date founded: 1948
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level IV       ;                                          About the Los Angeles County Arboretum and Botanic Garden        The Arboretum is a 127-acre botanical garden and historical site jointly operated by the Los Angeles Arboretum Foundation and the Los Angeles County Department of Parks and Recreation.;                        Main Address:;         Los Angeles County Arboretum and Botanic Garden;         301 North Baldwin Avenue;                Arcadia;        California 91007 United States of America;        ;                 Telephone: (626) 821-3222;         Fax: (626) 445-1217;         URL: www.arboretum.org;         Primary Email: jim.henrich@arboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 34.1439049
+2-Longitude: -118.0511940
+2-Natural Vegetation Area: Yes
+2-Total Area: 51 Hectares
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 200000
+3-Number of Volunteers: 125
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Special Collections: Arranged primarily by biogeography. Also Tropical Greenhouse, Palm & Bamboo, Herb, Water-conservation, Madagascar Spiny Forest, Prehistoric Forest, Rose, Orchidaceae, Myrtaceae, Acacia (110 spp., 120 taxa), Aloe (32 spp., 32 taxa), Callistemon (21 spp., Ficus 54 taxa), Juniperus (130 taxa), Magnolia (76 taxa), Melaleuca.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: No
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: No
+9-ArbNet Accredited: Level IV
+9-BGCI Member: No
+9-Fax: (626) 445-1217
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jim.henrich@arboretum.org
+9-Telephone: (626) 821-3222
+9-URL: www.arboretum.org

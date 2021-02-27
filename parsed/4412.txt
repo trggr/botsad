@@ -1,9 +1,18 @@
-ID:	4412
-Name:	Highline, The 
-Curator's Name:	Patrick Cullina, Vice President of Horticulture and Park Operations
-Director's Name:	Unknown
-Info:	  United States of America - New York - New York  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Highline, The; Friends of the High Line; 529 West 20th Street, Suite 8W; New York; New York 10011 United States of America; ;  Telephone: (212) 206-9922; Fax: (212) 206-9118; URL: <a target="_blank" href="http://www.thehighline.org">www.thehighline.org; Primary Email: info@thehighline.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.7462630
-Longitude:	-74.0062240
+0-ID: 4412
+1-Name: Highline, The 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Highline, The;         Friends of the High Line;        529 West 20th Street, Suite 8W;        New York;        New York 10011 United States of America;        ;                 Telephone: (212) 206-9922;         Fax: (212) 206-9118;         URL: www.thehighline.org;         Primary Email: info@thehighline.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.7462630
+2-Longitude: -74.0062240
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4412">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4412">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4412">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4412">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4412">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (212) 206-9118
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@thehighline.org
+9-Telephone: (212) 206-9922
+9-URL: www.thehighline.org

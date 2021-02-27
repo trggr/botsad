@@ -1,17 +1,23 @@
-ID:	1240
-Name:	Flamingo Gardens 
-Curator's Name:	Laura Tooley, Director of Horticulture
-Director's Name:	Stan Wood, Executive Director
-Info:	  United States of America - Florida - Davie  ;Garden Information;  Institution Code: FLAM; International Agenda Registration: No; BGCI Member: No; About the Flamingo Gardens See a touch of history on 60 acres of lush gardens, showcasing rare, exotic and native plants. Tour the citrus groves and the Wray Botanical Collection. Explore the Free-Flight Aviary, Everglades Wildlife Sanctuary and historic 1930s Wray Home. Visit our Gift Shop, Garden Shop and the Tropical Marketplace. Enjoy an eco-experience of the Florida Everglades.; ; It is our mission to foster curiosity, appreciation and respect for Nature in children, while they have fun discovering the world around them.;  Main Address:; Flamingo Gardens; 3750 South Flamingo Road; Davie; Florida 33330 United States of America; ;  Telephone: (954) 473-2955; Fax: (305) 473-1738; URL: <a target="_blank" href="http://www.flamingogardens.org">www.flamingogardens.org; Primary Email: wrayhq@aol.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1927
-Institution Type:	Botanic Garden
-Latitude:	26.0720760
-Longitude:	-80.3139730
-Total Area:	24 Hectares
-Arboretum:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Acanthaceae, Arecaceae, Heliconiaceae, Marantaceae, Rutaceae, Zingiberaceae, Citrus (16 spp., 83 taxa), Heliconia (29 spp., 35 taxa), Musa (9 spp., 17 taxa), cycads, native plants, orchids, Citrus, palms, orchids.
-Education Programme:	Yes
+0-ID: 1240
+1-Name: Flamingo Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1927
+2-Info:              Institution Code: FLAM;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Flamingo Gardens        See a touch of history on 60 acres of lush gardens, showcasing rare, exotic and native plants. Tour the citrus groves and the Wray Botanical Collection. Explore the Free-Flight Aviary, Everglades Wildlife Sanctuary and historic 1930s Wray Home. Visit our Gift Shop, Garden Shop and the Tropical Marketplace. Enjoy an eco-experience of the Florida Everglades.;  ;  It is our mission to foster curiosity, appreciation and respect for Nature in children, while they have fun  discovering the world around them.;                        Main Address:;         Flamingo Gardens;         3750 South Flamingo Road;                Davie;        Florida 33330 United States of America;        ;                 Telephone: (954) 473-2955;         Fax: (305) 473-1738;         URL: www.flamingogardens.org;         Primary Email: wrayhq@aol.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 26.0720760
+2-Longitude: -80.3139730
+2-Total Area: 24 Hectares
+3-Arboretum: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Acanthaceae, Arecaceae, Heliconiaceae, Marantaceae, Rutaceae, Zingiberaceae, Citrus (16 spp., 83 taxa), Heliconia (29 spp., 35 taxa), Musa (9 spp., 17 taxa), cycads, native plants, orchids, Citrus, palms, orchids.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1240">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1240">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-BGCI Member: No
+9-Fax: (305) 473-1738
+9-Institution Code: FLAM
+9-International Agenda Registration: No
+9-Primary Email: wrayhq@aol.com
+9-Telephone: (954) 473-2955
+9-URL: www.flamingogardens.org

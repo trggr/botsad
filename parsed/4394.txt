@@ -1,16 +1,24 @@
-ID:	4394
-Name:	Gayasan Wildflower Botanical Garden 
-Curator's Name:	Jaemin Lee
-Director's Name:	Gihwan Yoon
-Info:	  South Korea - Gyeongsangbuk-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gayasan Wildflower Botanical Garden; 1282-16 Baekwoon-ri, Suryun-myeon,; Seongju-gun,; Gyeongsangbuk-do 719-892 South Korea; ;  Telephone: 054-931-1264; Fax: 054-930-6399; URL: <a target="_blank" href="http://www.gayasan.go.kr">http://www.gayasan.go.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2006
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	35.49
-Local Address:	성주군 수륜면 백운리 1282-16
-Locality:	Information
-Longitude:	128.8
-Natural Vegetation Area:	Yes
-Total Area:	5 Hectares
+0-ID: 4394
+1-Name: Gayasan Wildflower Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 2006
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gayasan Wildflower Botanical Garden;         1282-16 Baekwoon-ri, Suryun-myeon,;        Seongju-gun,;                Gyeongsangbuk-do 719-892 South Korea;        ;                 Telephone: 054-931-1264;         Fax: 054-930-6399;         URL: http://www.gayasan.go.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 35.49
+2-Local Address: 성주군 수륜면 백운리 1282-16
+2-Locality: Information
+2-Longitude: 128.8
+2-Natural Vegetation Area: Yes
+2-Total Area: 5 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4394">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4394">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4394">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4394">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4394">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 054-930-6399
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 054-931-1264

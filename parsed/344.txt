@@ -1,10 +1,19 @@
-ID:	344
-Name:	Botanicka Zahrada 
-Curator's Name:	
-Director's Name:	Ing.G.Samel
-Info:	  Slovakia - Banska Stiavnica  ;Garden Information;  Institution Code: BANSK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanicka Zahrada; Stredna Lesnicka Skolo, 96900 BANSKA STIAVNICA, Slovakia; Banska Stiavnica; Slovakia; ;  Telephone: 21131; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	48.4500
-Longitude:	18.9167
+0-ID: 344
+1-Name: Botanicka Zahrada 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BANSK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanicka Zahrada;         Stredna Lesnicka Skolo,   96900 BANSKA STIAVNICA,   Slovakia;                Banska Stiavnica;        Slovakia;        ;                 Telephone: 21131;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.4500
+2-Longitude: 18.9167
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=344">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=344">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=344">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=344">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=344">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BANSK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 21131
+9-URL: 

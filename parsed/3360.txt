@@ -1,14 +1,20 @@
-ID:	3360
-Name:	Kenilworth Aquatic Gardens 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  United States of America - District Of Columbia - Washington  ;Garden Information;  Institution Code: KADC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kenilworth Aquatic Gardens; 1900 Anacostia Dr. SE; Washington; District Of Columbia 20020 United States of America; ;  Telephone: (202) 426-6905; Fax: ; URL: <a target="_blank" href="http://www.nps.gov/keaq/">http://www.nps.gov/keaq/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1926
-Institution Type:	Botanic Garden
-Latitude:	38.8681080
-Longitude:	-76.9953620
-Total Area:	283 Hectares
-Open to public:	Yes
-Special Collections:	Nymphaeaceae, Nelumbo (spp., 8 taxa), Nuphar (1 spp.), Nymphaea (4 spp., 32 taxa), Nymphoides (3 spp.).
+0-ID: 3360
+1-Name: Kenilworth Aquatic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1926
+2-Info:              Institution Code: KADC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kenilworth Aquatic Gardens;         1900 Anacostia Dr. SE;                Washington;        District Of Columbia 20020 United States of America;        ;                 Telephone: (202) 426-6905;         Fax: ;         URL: http://www.nps.gov/keaq/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.8681080
+2-Longitude: -76.9953620
+2-Total Area: 283 Hectares
+3-Open to public: Yes
+4-Special Collections: Nymphaeaceae, Nelumbo (spp., 8 taxa), Nuphar (1 spp.), Nymphaea (4 spp., 32 taxa), Nymphoides (3 spp.).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3360">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3360">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3360">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KADC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (202) 426-6905

@@ -1,29 +1,31 @@
-ID:	1379
-Name:	Jardin Botanico Summit 
-Administration Staff Number:	14
-Curator's Name:	
-Director's Name:	
-Educational Staff Number:	3
-Horticultural Staff Number:	15
-Info:	  Panama - Balboa  ;Garden Information;  Institution Code: SCZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Summit; Jardin Botanico Summit, P.O.Box 503, BALBOA, Panama; Balboa; Panama; ;  Telephone: 507 232-4854/ 4850; Fax: 507 232-4850; URL: <a target="_blank" href="http://">; Primary Email: summitbot@hotmail.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Annual Rainfall:	2600 mm
-Date founded:	1923
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	8.9542
-Longitude:	-79.5604
-Natural Vegetation Area:	Yes
-Total Area:	292 Hectares
-Herbarium:	Yes
-Number of Volunteers:	7
-Open to public:	Yes
-Special Collections:	Orchidaceae, Araceae, Arecaceae, Zamiaceae, native plants.
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1379
+1-Name: Jardin Botanico Summit 
+2-Annual Rainfall: 2600 mm
+2-Date founded: 1923
+2-Info:              Institution Code: SCZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico Summit;         Jardin Botanico Summit, P.O.Box 503, BALBOA, Panama;                Balboa;        Panama;        ;                 Telephone: 507 232-4854/ 4850;         Fax: 507 232-4850;         URL: ;         Primary Email: summitbot@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 8.9542
+2-Longitude: -79.5604
+2-Natural Vegetation Area: Yes
+2-Total Area: 292 Hectares
+3-Herbarium: Yes
+3-Number of Volunteers: 7
+3-Open to public: Yes
+4-Special Collections: Orchidaceae, Araceae, Arecaceae, Zamiaceae, native plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1379">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1379">Please click here if you can update us</a>
+7-Courses for School Children: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 507 232-4850
+9-Institution Code: SCZ
+9-International Agenda Registration: No
+9-Primary Email: summitbot@hotmail.com
+9-Telephone: 507 232-4854/ 4850
+9-URL: 

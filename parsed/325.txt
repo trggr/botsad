@@ -1,18 +1,25 @@
-ID:	325
-Name:	Dominion Arboretum and Central Experimental Farm 
-Curator's Name:	Jean-Pascal Gratton, Arboretum Supervisor
-Director's Name:	Doug Shouldice, President, Friends of the Farm
-Info:	  Canada - Ontario - Ottawa  ;Garden Information;  Institution Code: DAO; International Agenda Registration: No; BGCI Member: No; About the Dominion Arboretum and Central Experimental Farm located on the Central Experimental Farm of the Department of Agriculture and Agri-Food Canada in Ottawa, Canada, 45°23'N 75°42'W. Established in 1889, the arboretum is Canada’s oldest. It is operated by the Department with the help of the volunteer Friends of the Farm. It is open to the public on foot sunup to sundown. It occupies 40 hectares (99 acres) and includes about 10,000 kinds of plants. Its special collections of flowering crabs, lilacs, lilies, and hedge plants are as much for experimental work and study as for display to the public. The Dominion Arboretum has three greenhouses, the largest of which (2,760 square m [30,000 square feet]) is used for research. It also has an herbarium containing some 695,000 preserved plant specimens for reference purposes.; ; Vascular Plant Herbarium - 800,000; National Mycological Herbarium (address as above) - 250,000 specimen - worldwide fungi especially Canada and arctic-alpine; collection of 12,600 fungus cultures.;  Main Address:; Dominion Arboretum and Central Experimental Farm; Prince of Wales Drive; Ottawa; Ontario K1A 0C6 Canada; ;  Telephone: (613) 230-3276; Fax: (613) 230-1238; URL: <a target="_blank" href="http://www.friendsofthefarm.ca">www.friendsofthefarm.ca; Primary Email: info@friendsofthefarm.ca ; 
-Plant Records Officer's Name:	Gisèle Mitrow, Plant Collection
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	45.39096
-Longitude:	-75.70392
-Total Area:	40 Hectares
-Arboretum:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Cultivation Taxa Num:	10000
-Special Collections:	Hardy woody and herbaceous plants, particularly Malus, Syringa and other ornamental cultivars.
-http:	//dsp-psd.pwgsc.gc.ca/Collection/A42-104-2005E.pdf
+0-ID: 325
+1-Name: Dominion Arboretum and Central Experimental Farm 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: DAO;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Dominion Arboretum and Central Experimental Farm        located on the Central Experimental Farm of the Department of Agriculture and Agri-Food Canada in Ottawa, Canada, 45°23'N 75°42'W. Established in 1889, the arboretum is Canada’s oldest. It is operated by the Department with the help of the volunteer Friends of the Farm. It is open to the public on foot sunup to sundown. It occupies 40 hectares (99 acres) and includes about 10,000 kinds of plants. Its special collections of flowering crabs, lilacs, lilies, and hedge plants are as much for experimental work and study as for display to the public. The Dominion Arboretum has three greenhouses, the largest of which (2,760 square m [30,000 square feet]) is used for research. It also has an herbarium containing some 695,000 preserved plant specimens for reference purposes.;  ;  Vascular Plant Herbarium - 800,000;  National Mycological Herbarium (address as above) - 250,000 specimen - worldwide fungi especially Canada and arctic-alpine; collection of 12,600 fungus cultures.;                        Main Address:;         Dominion Arboretum and Central Experimental Farm;         Prince of Wales Drive;                Ottawa;        Ontario K1A 0C6 Canada;        ;                 Telephone: (613) 230-3276;         Fax: (613) 230-1238;         URL: www.friendsofthefarm.ca;         Primary Email: info@friendsofthefarm.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.39096
+2-Longitude: -75.70392
+2-Total Area: 40 Hectares
+3-Arboretum: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+4-Cultivation Taxa Num: 10000
+4-Special Collections: Hardy woody and herbaceous plants, particularly Malus, Syringa and other ornamental cultivars.
+4-http: //dsp-psd.pwgsc.gc.ca/Collection/A42-104-2005E.pdf
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=325">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=325">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=325">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (613) 230-1238
+9-Institution Code: DAO
+9-International Agenda Registration: No
+9-Primary Email: info@friendsofthefarm.ca
+9-Telephone: (613) 230-3276
+9-URL: www.friendsofthefarm.ca

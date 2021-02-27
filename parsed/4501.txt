@@ -1,69 +1,72 @@
-ID:	4501
-Name:	Vanderbilt University Arboretum 
-Fax:	(615) 343-4830
-Info:	  United States of America - Tennessee - Nashville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	steve.baskauf@vanderbilt.edu
-Telephone:	(615) 322-2715
-Curator's Name:	Dr. Steven Baskauf, Senior Lecturer
-Director's Name:	Pamela Sevy, Director of Arboretum, Campus Landscape Architect
-Plant Records Officer's Name:	
-Altitude:	150.00 Metres
-Annual Rainfall:	1200 mm
-Date founded:	1988
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	36.1677830
-Longitude:	-86.7783650
-Natural Vegetation Area:	No
-Total Area:	130 Hectares
-Arboretum:	Yes
-Arboretum Size:	130
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Accession Number:	5625
-Cultivation Taxa Num:	170
-Special Collections:	The data on trees and shrubs in the arboretum are a part of the campus planning GIS database. Thus each tree is geolocated and identified to species and sometimes cultivar if known.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 4501
+1-Name: Vanderbilt University Arboretum 
+2-Curator's Name: Dr. Steven Baskauf, Senior Lecturer
+2-Director's Name: Pamela Sevy, Director of Arboretum, Campus Landscape Architect
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4501/w79649.jpg" alt="The Bicentennial Oak, a large specimen of Quercus macrocarpus (bur oak) believed to be over 200 years old, is representative of the mature trees found in the center of the Vanderbilt campus.  (Image GUID: http://bioimages.vanderbilt.edu/baskauf/79649)" />         The Bicentennial Oak, a large specimen of Quercus macrocarpus (bur oak) believed to be over 200 years old, is representative of the mature trees found in the center of the Vanderbilt campus.  (Image GUID: http://bioimages.vanderbilt.edu/baskauf/79649)</div>        </div>                           About the Vanderbilt University Arboretum        The arboretum itself consists of the campus of Vanderbilt University. It was first referred to as an "arboretum" in May 1879, only six years after the university was founded. The arboretum seeks to represent the variety of trees native to Tennessee as well as to illustrate various ornamental species. The collection contains approximately 5625 identified and geolocated trees representing about 170 species of trees and shrubs.  It contains one national champion tree (September elm), and four Tennessee state champion trees (September elm, Japanese zelkova, green hawthorn, and hedge maple).;                        Main Address:;         Vanderbilt University Arboretum;         Campus Planning & Construction;        122 Bryan Building;        Nashville;        Tennessee 37240 United States of America;        ;                 Telephone: (615) 322-2715;         Fax: (615) 343-4830;         URL: http://bioimages.vanderbilt.edu/arboretum;         Primary Email: steve.baskauf@vanderbilt.edu       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 150.00 Metres
+3-Annual Rainfall: 1200 mm
+3-Date founded: 1988
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 36.1677830
+3-Longitude: -86.7783650
+3-Natural Vegetation Area: No
+3-Total Area: 130 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 130
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-Accession Number: 5625
+5-Cultivation Taxa Num: 170
+5-Special Collections: The data on trees and shrubs in the arboretum are a part of the campus planning GIS database. Thus each tree is geolocated and identified to species and sometimes cultivar if known.
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: (615) 343-4830
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: steve.baskauf@vanderbilt.edu
+9-Telephone: (615) 322-2715

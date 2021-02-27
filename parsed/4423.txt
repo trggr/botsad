@@ -1,63 +1,63 @@
-ID:	4423
-Name:	Phoenix Zoo - Gardens 
-Administration Staff Number:	16
-Curator's Name:	Scott Frische, Horticulture
-Director's Name:	Bert Castro
-Educational Staff Number:	37
-Horticultural Staff Number:	12
-Info:	  United States of America - Arizona - Phoenix  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Phoenix Zoo - Gardens; 455 N. Galvin Parkway; Phoenix; Arizona 85008 United States of America; ;  Telephone: (602) 273-1341; Fax: (602) 914-4380; URL: <a target="_blank" href="http://www.phoenixzoo.org">www.phoenixzoo.org; Primary Email: hkassim@thephxzoo.com ; 
-Plant Records Officer's Name:	Hassena Kassim
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Date founded:	1967
-Institution Type:	Zoological Institution
-Landscaped Area:	Yes
-Latitude:	33.4537840
-Longitude:	-111.9532640
-Natural Vegetation Area:	Yes
-Total Area:	126 Hectares
-Arboretum:	No
-Disabled access:	Yes
-Herbarium:	No
-Open to public:	Yes
-ABS Policy:	No
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4423
+1-Name: Phoenix Zoo - Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1967
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Phoenix Zoo - Gardens;         455 N. Galvin Parkway;                Phoenix;        Arizona 85008 United States of America;        ;                 Telephone: (602) 273-1341;         Fax: (602) 914-4380;         URL: www.phoenixzoo.org;         Primary Email: hkassim@thephxzoo.com       ;              
+2-Institution Type: Zoological Institution
+2-Landscaped Area: Yes
+2-Latitude: 33.4537840
+2-Longitude: -111.9532640
+2-Natural Vegetation Area: Yes
+2-Total Area: 126 Hectares
+3-Arboretum: No
+3-Disabled access: Yes
+3-Herbarium: No
+3-Open to public: Yes
+4-ABS Policy: No
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: No
+4-Plant Collection Policy: No
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: Yes
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: No
+6-Sustainability: Yes
+6-Systematics and Taxonomy: No
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (602) 914-4380
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: hkassim@thephxzoo.com
+9-Telephone: (602) 273-1341
+9-URL: www.phoenixzoo.org

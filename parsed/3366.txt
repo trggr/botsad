@@ -1,13 +1,21 @@
-ID:	3366
-Name:	Viles Arboretum (formerly Pine Tree State Arboretum) 
-Curator's Name:	
-Director's Name:	Stephen Oliveri
-Info:	  United States of America - Maine - Augusta  ;Garden Information;  Institution Code: PTM; International Agenda Registration: No; BGCI Member: No; About the Viles Arboretum (formerly Pine Tree State Arboretum) The Mission of the Pine Tree State Arboretum is "to promote the knowledge and appreciation of Maine's trees and other flora for people of all ages by offering educational, recreational, and inspirational opportunities." ; ; The six-mile, year round trail system is open to hiking, jogging, bird watching, non-motorized biking horseback riding, and cross-country skiing on groomed winter trails. ; ; A number of trails have hard-packed surfaces suitable for wheelchair access. Enjoy a picnic, take some photos, look for birds (over 150 species have been spotted).;  Main Address:; Viles Arboretum (formerly Pine Tree State Arboretum); 153 Hospital Street; Augusta; Maine 04330 United States of America; ;  Telephone: (207) 621-7989; Fax: (207) 621-8245; URL: <a target="_blank" href="http://www.vilesarboretum.org">www.vilesarboretum.org; Primary Email: ptsaso@mint.net ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1982
-Institution Type:	Botanic Garden
-Latitude:	44.3019520
-Longitude:	-69.7662770
-Total Area:	91 Hectares
-Special Collections:	Hosta, azaleas and rhododendrons, lilacs, green ash, Antique Maine Apple Orchard, "Space Trees" (from seeds that travelled on the space shuttle).
+0-ID: 3366
+1-Name: Viles Arboretum (formerly Pine Tree State Arboretum) 
+2-Altitude: 0.00 Metres
+2-Date founded: 1982
+2-Info:              Institution Code: PTM;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Viles Arboretum (formerly Pine Tree State Arboretum)        The Mission of the Pine Tree State Arboretum is "to promote the knowledge and appreciation of Maine's trees and other flora for people of all ages by offering educational, recreational, and inspirational opportunities."  ;  ;  The six-mile, year round trail system is open to hiking, jogging, bird watching, non-motorized biking horseback riding, and cross-country skiing on groomed winter trails. ;  ;  A number of trails have hard-packed surfaces suitable for wheelchair access. Enjoy a picnic, take some photos, look for birds (over 150 species have been spotted).;                        Main Address:;         Viles Arboretum (formerly Pine Tree State Arboretum);         153 Hospital Street;                Augusta;        Maine 04330 United States of America;        ;                 Telephone: (207) 621-7989;         Fax: (207) 621-8245;         URL: www.vilesarboretum.org;         Primary Email: ptsaso@mint.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.3019520
+2-Longitude: -69.7662770
+2-Total Area: 91 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3366">Please click here if you can update us</a>
+4-Special Collections: Hosta, azaleas and rhododendrons, lilacs, green ash, Antique Maine Apple Orchard, "Space Trees" (from seeds that travelled on the space shuttle).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3366">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3366">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3366">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (207) 621-8245
+9-Institution Code: PTM
+9-International Agenda Registration: No
+9-Primary Email: ptsaso@mint.net
+9-Telephone: (207) 621-7989
+9-URL: www.vilesarboretum.org

@@ -1,9 +1,18 @@
-ID:	4587
-Name:	Great Park Conservancy 
-Curator's Name:	
-Director's Name:	Rick T. Hume, Director
-Info:	  United States of America - California - Tustin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Great Park Conservancy; 1100 Irvine Blvd. 326; Tustin; California 92780 United States of America; ;  Telephone: (949) 653-1775; Fax: ; URL: <a target="_blank" href="http://www.orangecountygreatpark.org">www.orangecountygreatpark.org; Primary Email: conservancy@orangecountygreatpark.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	33.7477791
-Longitude:	-117.8089615
+0-ID: 4587
+1-Name: Great Park Conservancy 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Great Park Conservancy;         1100 Irvine Blvd. 326;                Tustin;        California 92780 United States of America;        ;                 Telephone: (949) 653-1775;         Fax: ;         URL: www.orangecountygreatpark.org;         Primary Email: conservancy@orangecountygreatpark.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.7477791
+2-Longitude: -117.8089615
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4587">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4587">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4587">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4587">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4587">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: conservancy@orangecountygreatpark.org
+9-Telephone: (949) 653-1775
+9-URL: www.orangecountygreatpark.org

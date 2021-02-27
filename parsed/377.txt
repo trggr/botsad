@@ -1,44 +1,49 @@
-ID:	377
-Name:	Botanic Garden "Botania" 
-Fax:	
-Info:	  Finland - Joensuu  ;Garden Information;  Institution Code: JOENS; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	toimisto@botania.fi
-Telephone:	+358505629482
-Administration Staff Number:	1
-Curator's Name:	Vilma Lehtovaara
-Director's Name:	Yrjö Vähäkallio
-Educational Staff Number:	
-Horticultural Staff Number:	3
-Plant Records Officer's Name:	Sari Meriläinen
-Research Staff Number:	
-Altitude:	80.00 Metres
-Annual Rainfall:	600 mm
-Date founded:	1985
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	62.6000
-Local Address:	Heinäpurontie 70, 80110
-Locality:	Information
-Longitude:	29.7166
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	- Joensuu Arboretum
-Total Area:	4 Hectares
-Total area of glasshouses:	570 Metres
-Arboretum:	Yes
-Arboretum Size:	73
-Disabled access:	Yes
-Friends society:	Yes
-Number of Visitors:	20000
-Open to public:	Yes
-Accession Number:	1500
-Cultivation Taxa Num:	1000
-Special Collections:	native plants, plants used for university teaching and research
-Restoration Ecology:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 377
+1-Name: Botanic Garden "Botania" 
+2-Administration Staff Number: 1
+2-Curator's Name: Vilma Lehtovaara
+2-Director's Name: Yrjö Vähäkallio
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 3
+2-Info:              Institution Code: JOENS;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/377/GRAPagam.jpg" alt="<i>Graphium agamemnon</i>, one of the numerous living tropical butterflies of Botania." />         <i>Graphium agamemnon</i>, one of the numerous living tropical butterflies of Botania.</div>        </div>                           About the Botanic Garden "Botania"        Botania is the only Tropical Butterfly Garden in Finland. ;  The garden is managed by Friends of Botania registered association. Its task is both to provide a wonderful experience for the general public,but also to support the education and research of biology and forestry. In co-operation with the city of Joensuu it also has a 73-hectare Arboretum.;                        Main Address:;         Botanic Garden "Botania";         Heinäpurontie 70;        80110 Joensuu;        Joensuu;        FI-80110 Finland;        ;                 Telephone: +358505629482;         Fax: ;         URL: www.botania.fi;         Primary Email: toimisto@botania.fi       ;              
+2-Plant Records Officer's Name: Sari Meriläinen
+2-Research Staff Number: 
+3-Altitude: 80.00 Metres
+3-Annual Rainfall: 600 mm
+3-Date founded: 1985
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 62.6000
+3-Local Address: Heinäpurontie 70, 80110
+3-Locality: Information
+3-Longitude: 29.7166
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: - Joensuu Arboretum
+3-Total Area: 4 Hectares
+3-Total area of glasshouses: 570 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 73
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Number of Visitors: 20000
+4-Open to public: Yes
+5-Accession Number: 1500
+5-Cultivation Taxa Num: 1000
+5-Special Collections: native plants, plants used for university teaching and research
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=377">Please click here if you can update us</a>
+7-Restoration Ecology: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: JOENS
+9-International Agenda Registration: No
+9-Primary Email: toimisto@botania.fi
+9-Telephone: +358505629482
+9-URL: www.botania.fi

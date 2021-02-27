@@ -1,11 +1,19 @@
-ID:	2089
-Name:	Friends of the Museums of Tanzania 
-Curator's Name:	
-Director's Name:	
-Info:	  Tanzania - Dar Es Salaam  ;Garden Information;  Institution Code: DSMM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Friends of the Museums of Tanzania; Box 9084, DAR ES SALAAM, Tanzania.; Dar Es Salaam; Tanzania; ;  Telephone: 255 51 121432; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	-6.8198
-Longitude:	39.2799
-Special Collections:	Adenanthera pavonina, Albizzia saman, Bauhinia variegata, Calliandra surinamensis, Calophyllum inophyllum, Cassia fistulosa, Cassia nodosa, C. siamea, Chlorophora excelsa, Enterilobium contortisiliquaum, Ficus benjamina, Gliricidia sepium, Jacaranda mimos
+0-ID: 2089
+1-Name: Friends of the Museums of Tanzania 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: DSMM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Friends of the Museums of Tanzania;         Box 9084,  DAR ES SALAAM,  Tanzania.;                Dar Es Salaam;        Tanzania;        ;                 Telephone: 255 51 121432;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: -6.8198
+2-Longitude: 39.2799
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2089">Please click here if you can update us</a>
+4-Special Collections: Adenanthera pavonina, Albizzia saman, Bauhinia variegata, Calliandra surinamensis, Calophyllum inophyllum, Cassia fistulosa, Cassia nodosa, C. siamea, Chlorophora excelsa, Enterilobium contortisiliquaum, Ficus benjamina, Gliricidia sepium, Jacaranda mimos
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2089">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2089">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2089">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DSMM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 255 51 121432
+9-URL: 

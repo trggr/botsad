@@ -1,83 +1,87 @@
-ID:	3623
-Name:	Historische Tuin Aalsmeer 
-Fax:	031297322562
-Info:	  Netherlands - Noord-Holland - Aalsmeer  ;Garden Information;  Institution Code: AALS; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	htaalsmeer@planet.nl
-Telephone:	031297322562
-Administration Staff Number:	
-Curator's Name:	C. van Dam
-Director's Name:	C. van Dam
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	C. van Dam
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	750 mm
-Date founded:	1982
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	52.2498
-Local Address:	Ophelialaan naast de begraafplaats
-Locality:	Information
-Longitude:	4.7323
-Natural Vegetation Area:	No
-Satellite Garden Names:	Seringenpark Aalsmeer. This parc was established in 1955 to show the people the importance of lilac growing in Aalsmeer. You wil find ca. 150 varieties of Lilac vulgaris and Lilac hyacinthyflora in this garden.
-Total Area:	1 Hectares
-Total area of glasshouses:	1200 Metres
-Arboretum:	Yes
-Arboretum Size:	1
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	12000
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	1300
-Cultivation Taxa Num:	300
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Most of our collection is related to the plants grown in the city of Aalsmeer from 1650 until 1960. So we have a wide variety of schrubs, conifers,fruittrees and oldfashioned indoor plants. But the roses were very important in older days,that's why there is a important collection of cut roses, also we have a large number of lilac's and the Dahlia's are related to the growers on our location.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 3623
+1-Name: Historische Tuin Aalsmeer 
+2-Administration Staff Number: 
+2-Curator's Name: C. van Dam
+2-Director's Name: C. van Dam
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: AALS;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/3623/Cees.jpg" alt="Cees van Dam" />         Cees van Dam</div>        </div>                           About the Historische Tuin Aalsmeer        The Historical Garden Aalsmeer shows the public how the famous flower nurseries in Aalsmeer were founded.;  We have a collection of plants which were the most important of the history of the nurseries.It started with the growing of fruittrees like apples and pears and strawbarries. Also we have a collection of lilacs, for in Aalsmeer growers are forcing lilacs to flower in winter. Of course do we have roses and are specialized in old cutroses.;                        Main Address:;         Historische Tuin Aalsmeer;         Uiterweg 32;        Praamplein 1a;        Aalsmeer;        Noord-Holland 1431 AN Netherlands;        ;                 Telephone: 031297322562;         Fax: 031297322562;         URL: www.htaalsmeer.org;         Primary Email: htaalsmeer@planet.nl       ;              
+2-Plant Records Officer's Name: C. van Dam
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 750 mm
+3-Date founded: 1982
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 52.2498
+3-Local Address: Ophelialaan naast de begraafplaats
+3-Locality: Information
+3-Longitude: 4.7323
+3-Natural Vegetation Area: No
+3-Satellite Garden Names: Seringenpark Aalsmeer. This parc was established in 1955 to show the people the importance of lilac growing in Aalsmeer. You wil find ca. 150 varieties of Lilac vulgaris and Lilac hyacinthyflora in this garden.
+3-Total Area: 1 Hectares
+3-Total area of glasshouses: 1200 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 1
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 12000
+4-Number of Volunteers: 100
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: Yes
+5-Accession Number: 1300
+5-Cultivation Taxa Num: 300
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Most of our collection is related to the plants grown in the city of Aalsmeer from 1650 until 1960. So we have a wide variety of schrubs, conifers,fruittrees and oldfashioned indoor plants. But the roses were very important in older days,that's why there is a important collection of cut roses, also we have a large number of lilac's and the Dahlia's are related to the growers on our location.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: Yes
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 031297322562
+9-Institution Code: AALS
+9-International Agenda Registration: No
+9-Primary Email: htaalsmeer@planet.nl
+9-Telephone: 031297322562
+9-URL: www.htaalsmeer.org

@@ -1,45 +1,45 @@
-ID:	522
-Name:	University of Tokyo Botanical Gardens 
-Administration Staff Number:	3
-Curator's Name:	Tetsuo OHI-TOMA
-Director's Name:	Jin MURATA
-Educational Staff Number:	3
-Horticultural Staff Number:	6
-Info:	  Japan - Tokyo  ;Garden Information;  Institution Code: TI; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; University of Tokyo Botanical Gardens; (Koishikawa), Hakusan 3-7-1,; Bunkyo-ku; Tokyo; 112-0001 Japan; ;  Telephone: 03 3814 2625; Fax: 03 3014 0139; URL: <a target="_blank" href="http://www.bg.s.u-tokyo.ac.jp/index.html">www.bg.s.u-tokyo.ac.jp/index.html; Primary Email: koishikawa_bg@ns.bg.s.u-tokyo.ac.jp ; 
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Date founded:	1684
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	35.6784
-Longitude:	139.6822
-Natural Vegetation Area:	No
-Satellite Garden Names:	Nikko Botanical Garden
-Total Area:	16 Hectares
-Arboretum:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	120000
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	4500
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Special Collections:	Variety of east Asiatic and Sino-Himalayan wild plants, Cultivars of Prunus, Rhododendron, Camellia and Japanese primulas.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Education:	Yes
-Floristics:	Yes
-Molecular Genetics:	Yes
-Pollination Biology:	Yes
-Systematics and Taxonomy:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Public Lectures/Talks:	Yes
-Visitor/Education Centre:	No
+0-ID: 522
+1-Name: University of Tokyo Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1684
+2-Info:              Institution Code: TI;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         University of Tokyo Botanical Gardens;         (Koishikawa), Hakusan 3-7-1,;        Bunkyo-ku;        Tokyo;        112-0001 Japan;        ;                 Telephone: 03 3814 2625;         Fax: 03 3014 0139;         URL: www.bg.s.u-tokyo.ac.jp/index.html;         Primary Email: koishikawa_bg@ns.bg.s.u-tokyo.ac.jp       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 35.6784
+2-Longitude: 139.6822
+2-Natural Vegetation Area: No
+2-Satellite Garden Names: Nikko Botanical Garden
+2-Total Area: 16 Hectares
+3-Arboretum: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 120000
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Cultivation Taxa Num: 4500
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: No
+4-Special Collections: Variety of east Asiatic and Sino-Himalayan wild plants, Cultivars of Prunus, Rhododendron, Camellia and Japanese primulas.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Education: Yes
+6-Floristics: Yes
+6-Molecular Genetics: Yes
+6-Pollination Biology: Yes
+6-Systematics and Taxonomy: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Public Lectures/Talks: Yes
+7-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 03 3014 0139
+9-Institution Code: TI
+9-International Agenda Registration: Yes
+9-Primary Email: koishikawa_bg@ns.bg.s.u-tokyo.ac.jp
+9-Telephone: 03 3814 2625
+9-URL: www.bg.s.u-tokyo.ac.jp/index.html

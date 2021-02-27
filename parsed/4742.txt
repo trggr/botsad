@@ -1,9 +1,17 @@
-ID:	4742
-Name:	Ochsner Park Zoo 
-Curator's Name:	
-Director's Name:	Mike Hardy, Director
-Info:	  United States of America - Wisconsin - Baraboo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ochsner Park Zoo; 124 2nd Street, Room 17; Baraboo; Wisconsin 53913 United States of America; ;  Telephone: (608) 355-2760; Fax: ; URL: <a target="_blank" href="http://cityofbaraboo.com/index.asp?Type=B_BASIC&SEC=%7B5043BD1C-3698-469B-9726-CC333B6676E8%7D">http://cityofbaraboo.com/index.asp?Type=B_BASIC&SEC=%7B5043BD1C-3698-469B-9726-CC333B6676E8%7D; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	43.4689664
-Longitude:	-89.7420132
+0-ID: 4742
+1-Name: Ochsner Park Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ochsner Park Zoo;         124 2nd Street, Room 17;                Baraboo;        Wisconsin 53913 United States of America;        ;                 Telephone: (608) 355-2760;         Fax: ;         URL: http://cityofbaraboo.com/index.asp?Type=B_BASIC&SEC=%7B5043BD1C-3698-469B-9726-CC333B6676E8%7D;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 43.4689664
+2-Longitude: -89.7420132
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4742">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4742">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4742">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4742">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4742">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (608) 355-2760

@@ -1,13 +1,19 @@
-ID:	2090
-Name:	Jardim Botânico do Instituto Agronômico de Campinas 
-Curator's Name:	
-Director's Name:	Renato Ferraz de Arruda Veiga
-Info:	  Brazil - São Paulo - Campinas  ;Garden Information;  Institution Code: CAMPS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico do Instituto Agronômico de Campinas; Av. Theodureto de Almeida Camargo, no.1500, Vila Nova,; Campinas; São Paulo 13.012-970 Brazil; ;  Telephone: +55 (19) 2415188 R 330 or 427; Fax: +55 (19) 2314943 or +55 (19) 2423602; URL: <a target="_blank" href="http://www.iac.sp.gov.br/areadoinstituto/botanico/">http://www.iac.sp.gov.br/areadoinstituto/botanico/; Primary Email: iacdir@iac.sp.gov.br ; 
-Plant Records Officer's Name:	Renato Ferraz de Arruda Veiga
-Date founded:	1998
-Institution Type:	Botanic Garden
-Latitude:	-22.8757
-Longitude:	-47.0725
-Number of Visitors:	500
-Number of Volunteers:	15
-Special Collections:	Native and exotic tropical fruit trees, coffee, citrus, medicinal plants.
+0-ID: 2090
+1-Name: Jardim Botânico do Instituto Agronômico de Campinas 
+2-Date founded: 1998
+2-Info:              Institution Code: CAMPS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico do Instituto Agronômico de Campinas;         Av. Theodureto de Almeida Camargo, no.1500, Vila Nova,;                Campinas;        São Paulo 13.012-970 Brazil;        ;                 Telephone: +55 (19) 2415188 R 330 or 427;         Fax: +55 (19) 2314943 or +55 (19) 2423602;         URL: http://www.iac.sp.gov.br/areadoinstituto/botanico/;         Primary Email: iacdir@iac.sp.gov.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -22.8757
+2-Longitude: -47.0725
+3-Number of Visitors: 500
+3-Number of Volunteers: 15
+4-Special Collections: Native and exotic tropical fruit trees, coffee, citrus, medicinal plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2090">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2090">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2090">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +55 (19) 2314943 or +55 (19) 2423602
+9-Institution Code: CAMPS
+9-International Agenda Registration: No
+9-Primary Email: iacdir@iac.sp.gov.br
+9-Telephone: +55 (19) 2415188 R 330 or 427

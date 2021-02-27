@@ -1,7 +1,16 @@
-ID:	5499
-Name:	Centre for Plant Conservation 
-Curator's Name:	
-Director's Name:	
-Info:	  Pakistan - Sindh - Karachi  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Centre for Plant Conservation; Main University Road; Karachi; Sindh 75270 Pakistan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: anjum_tahir@hotmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5499
+1-Name: Centre for Plant Conservation 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Centre for Plant Conservation;         Main University Road;                Karachi;        Sindh 75270 Pakistan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: anjum_tahir@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5499">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5499">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5499">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5499">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5499">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: anjum_tahir@hotmail.com
+9-Telephone: 
+9-URL: 

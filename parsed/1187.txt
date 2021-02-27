@@ -1,13 +1,21 @@
-ID:	1187
-Name:	Kalamazoo Nature Center 
-Curator's Name:	Sarah Reding, VP of Conservation Stewardship
-Director's Name:	Willard Rose, Ph.D, President and CEO
-Info:	  United States of America - Michigan - Kalamazoo  ;Garden Information;  Institution Code: KALAM; International Agenda Registration: No; BGCI Member: No; About the Kalamazoo Nature Center The Kalamazoo Nature Center is a not-for-profit organization located in Kalamazoo, Michigan whose mission is to inspire people to care for the environment by providing experience that lead them to understand their connection to the natural world.;  Main Address:; Kalamazoo Nature Center; 7000 North Westnedge Avenue; Kalamazoo; Michigan 49009 United States of America; ;  Telephone: (269) 381-1574; Fax: (269) 381-2557; URL: <a target="_blank" href="http://www.naturecenter.org">www.naturecenter.org; Primary Email: sreding@naturecenter.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1960
-Institution Type:	Other
-Latitude:	42.3619320
-Longitude:	-85.5902740
-Friends society:	Yes
-Open to public:	Yes
+0-ID: 1187
+1-Name: Kalamazoo Nature Center 
+2-Altitude: 0.00 Metres
+2-Date founded: 1960
+2-Info:              Institution Code: KALAM;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Kalamazoo Nature Center        The Kalamazoo Nature Center is a not-for-profit organization located in Kalamazoo, Michigan whose mission is to inspire people to care for the environment by providing experience that lead them to understand their connection to the natural world.;                        Main Address:;         Kalamazoo Nature Center;         7000 North Westnedge Avenue;                Kalamazoo;        Michigan 49009 United States of America;        ;                 Telephone: (269) 381-1574;         Fax: (269) 381-2557;         URL: www.naturecenter.org;         Primary Email: sreding@naturecenter.org       ;              
+2-Institution Type: Other
+2-Latitude: 42.3619320
+2-Longitude: -85.5902740
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1187">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1187">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1187">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1187">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (269) 381-2557
+9-Institution Code: KALAM
+9-International Agenda Registration: No
+9-Primary Email: sreding@naturecenter.org
+9-Telephone: (269) 381-1574
+9-URL: www.naturecenter.org

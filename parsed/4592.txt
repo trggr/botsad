@@ -1,10 +1,18 @@
-ID:	4592
-Name:	High Plains Environmental Center 
-Curator's Name:	
-Director's Name:	Jim Tolstrup, Land Stewardship Director
-Info:	  United States of America - Colorado - Loveland  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; High Plains Environmental Center; 1854 Piney River Drive; Loveland; Colorado 80538 United States of America; ;  Telephone: (970) 622-9676; Fax: ; URL: <a target="_blank" href="http://www.suburbitat.org">www.suburbitat.org; Primary Email: jim@suburbitat.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.4110129
-Longitude:	-105.0165470
-Reintroduction Programme:	Yes
+0-ID: 4592
+1-Name: High Plains Environmental Center 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         High Plains Environmental Center;         1854 Piney River Drive;                Loveland;        Colorado 80538 United States of America;        ;                 Telephone: (970) 622-9676;         Fax: ;         URL: www.suburbitat.org;         Primary Email: jim@suburbitat.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.4110129
+2-Longitude: -105.0165470
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4592">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4592">Please click here if you can update us</a>
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4592">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4592">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jim@suburbitat.org
+9-Telephone: (970) 622-9676
+9-URL: www.suburbitat.org

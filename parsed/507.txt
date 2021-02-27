@@ -1,11 +1,19 @@
-ID:	507
-Name:	Nippon Shinyaku Co., Ltd (The Nippon Shinyaku Institute for Botanical Research) 
-Curator's Name:	
-Director's Name:	Dr Toyoyuki Nishi
-Info:	  Japan - Kyoto  ;Garden Information;  Institution Code: KYOBR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Nippon Shinyaku Co., Ltd (The Nippon Shinyaku Institute for Botanical Research); Sakanotsuji-cho 39, Oyake, Yamashina-ku, KYOTO 607, Japan.; Kyoto; Japan; ;  Telephone: 075 581 0419; Fax: 075 592 7199; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1953
-Institution Type:	Botanic Garden
-Latitude:	34.9996
-Longitude:	135.7532
-Special Collections:	Econimic plants, especially Artemisia, Matricaria, Anthemis, Ephedra.
+0-ID: 507
+1-Name: Nippon Shinyaku Co., Ltd (The Nippon Shinyaku Institute for Botanical Research) 
+2-Date founded: 1953
+2-Info:              Institution Code: KYOBR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Nippon Shinyaku Co., Ltd (The Nippon Shinyaku Institute for Botanical Research);         Sakanotsuji-cho 39, Oyake, Yamashina-ku, KYOTO 607, Japan.;                Kyoto;        Japan;        ;                 Telephone: 075 581 0419;         Fax: 075 592 7199;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.9996
+2-Longitude: 135.7532
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=507">Please click here if you can update us</a>
+4-Special Collections: Econimic plants, especially Artemisia, Matricaria, Anthemis, Ephedra.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=507">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=507">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=507">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 075 592 7199
+9-Institution Code: KYOBR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 075 581 0419
+9-URL: 

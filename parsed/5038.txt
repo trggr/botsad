@@ -1,80 +1,84 @@
-ID:	5038
-Name:	African Forest 
-Fax:	
-Info:	  Kenya - Elementaita  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	info@african-forest.net
-Telephone:	+ 254 (0) 722 514765 / + 254 (0) 714 048900
-Administration Staff Number:	1
-Curator's Name:	Kenya Mutiso
-Director's Name:	Helen Thornton-Mutiso
-Educational Staff Number:	1
-Horticultural Staff Number:	8
-Plant Records Officer's Name:	Sally Rop
-Research Staff Number:	1
-Altitude:	1915.00 Metres
-Annual Rainfall:	800 mm
-Date founded:	2006
-Institution Type:	Other
-Landscaped Area:	Yes
-Latitude:	-0.379644
-Local Address:	Soysambu Ranch, Gilgil District, Nakuru County
-Locality:	Information
-Longitude:	36.243570
-Natural Vegetation Area:	Yes
-Total Area:	51 Hectares
-Total area of glasshouses:	32 Metres
-Total area of shadehouses:	2000 Metres
-Arboretum:	Yes
-Arboretum Size:	3
-Computer Plant Record System:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	200
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	No
-Accession Number:	120
-Cultivation Taxa Num:	120
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	African Forest focuses on indigenous Kenyan tree species, with some shrubs and some exotic trees.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	No
-Education Signs in Garden:	No
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 5038
+1-Name: African Forest 
+2-Administration Staff Number: 1
+2-Curator's Name: Kenya Mutiso
+2-Director's Name: Helen Thornton-Mutiso
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 8
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/5038/AF and TAFTF Logo 200.jpg" alt="Logo" />         Logo</div>        </div>                           About the African Forest        African Forest is a holistic agro-forestry social enterprise, founded in 2006, and based on the edge of Soysambu Conservancy, a 22,000 ha ranch surrounding Lake Elmenteita, in the Rift Valley. African Forest has a 51 ha plot on the edge of the ranch, where they have an indigenous organic tree nursery, with over 80 different species and tree seed centre and trial plantations of Planet Positive Forestry. They also produce and promote, in conjunction with the local communities, sustainable NTFP’s (non-timber forest products) including herbal medicines. Services include plantation establishment and management, reforestation and sustainable development planning and implementation, as well as assistance in raising green finance. In 2015 they will commence planting a medicine woman arboretum, which will cover an area of around 20 hectares.;                        Main Address:;         African Forest;         Soysambu Estate;        PO Box 21209;        Elementaita;        00505 Nairobi Kenya;        ;                 Telephone: + 254 (0) 722 514765 / + 254 (0) 714 048900;         Fax: ;         URL: www.african-forest.net;         Primary Email: info@african-forest.net       ;              
+2-Plant Records Officer's Name: Sally Rop
+2-Research Staff Number: 1
+3-Altitude: 1915.00 Metres
+3-Annual Rainfall: 800 mm
+3-Date founded: 2006
+3-Institution Type: Other
+3-Landscaped Area: Yes
+3-Latitude: -0.379644
+3-Local Address: Soysambu Ranch, Gilgil District, Nakuru County
+3-Locality: Information
+3-Longitude: 36.243570
+3-Natural Vegetation Area: Yes
+3-Total Area: 51 Hectares
+3-Total area of glasshouses: 32 Metres
+3-Total area of shadehouses: 2000 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 3
+4-Computer Plant Record System: No
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 200
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: No
+5-Accession Number: 120
+5-Cultivation Taxa Num: 120
+5-Invasive Species Monitoring: No
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+5-Special Collections: African Forest focuses on indigenous Kenyan tree species, with some shrubs and some exotic trees.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: Yes
+7-Agriculture: Yes
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: Yes
+7-Pollination Biology: No
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: No
+8-Education Signs in Garden: No
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@african-forest.net
+9-Telephone: + 254 (0) 722 514765 / + 254 (0) 714 048900
+9-URL: www.african-forest.net

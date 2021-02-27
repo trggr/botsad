@@ -1,77 +1,77 @@
-ID:	4906
-Name:	Cox Arboretum & Gardens 
-Administration Staff Number:	2
-Curator's Name:	Evelyn Cox
-Director's Name:	Tom Cox
-Educational Staff Number:	1
-Horticultural Staff Number:	3
-Info:	  United States of America - Georgia - Canton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Cox Arboretum & Gardens The Cox Arboretum and Gardens is a private estate located in Canton, Georgia. Canton is approximately 40 miles north of Atlanta in the foothills of the Piedmont Range. Numbering over 4,000 living specimens, the plantings display one of the largest private collections of temperate flora in the United States. With an elevation of 1200 feet and containing several lakes and streams, we are able to grow a wide variety of plants in our zone 7B climate. The property is also bounded by several large wetland habitats where many migratory and native fowl make their home. It is situated on 13 acres in the middle of an old-growth southern deciduous hardwood forest, containing many large Oaks, Hickory, Poplar and Sweetgum--some of which are over 100 years old;  Main Address:; Cox Arboretum & Gardens; 1621 N. Lake Drive; Canton; Georgia 30115 United States of America; ;  Telephone: 404-421-6614; Fax: ; URL: <a target="_blank" href="http://www.coxgardens.com/">http://www.coxgardens.com/; Primary Email: coxarb2@gmail.com ; 
-Plant Records Officer's Name:	Tom Cox
-Research Staff Number:	1
-Altitude:	368.00 Metres
-Annual Rainfall:	1422 mm
-Date founded:	1990
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	34.21751
-Local Address:	1621 North Lake Dr
-Locality:	Information
-Longitude:	-84.37131
-Natural Vegetation Area:	Yes
-Total Area:	5 Hectares
-Arboretum:	Yes
-Arboretum Size:	5
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	200
-Number of Volunteers:	3
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	4000
-Cultivation Taxa Num:	2800
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	The garden maintains a representative collection of temperate conifers, along with a handful of tropical species that we demonstrate as good houseplants such as Araucaria, Podocarpus and Retrophyllum.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 4906
+1-Name: Cox Arboretum & Gardens 
+2-Altitude: 368.00 Metres
+2-Annual Rainfall: 1422 mm
+2-Date founded: 1990
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                          About the Cox Arboretum & Gardens        The Cox Arboretum and Gardens is a private estate located in Canton, Georgia.  Canton is approximately 40 miles north of Atlanta in the foothills of the Piedmont Range.  Numbering over 4,000 living specimens, the plantings display one of the largest private collections of temperate flora in the  United States.  With an elevation of 1200 feet and containing several lakes and streams,  we are able to grow a wide variety of plants in our zone 7B climate.  The property is also bounded by several large wetland habitats where many migratory and native fowl make their home.  It is situated on 13 acres in the middle of an old-growth southern deciduous hardwood forest, containing many large Oaks, Hickory, Poplar and Sweetgum--some of which are over 100 years old;                        Main Address:;         Cox Arboretum & Gardens;         1621 N. Lake Drive;                Canton;        Georgia 30115 United States of America;        ;                 Telephone: 404-421-6614;         Fax: ;         URL: http://www.coxgardens.com/;         Primary Email: coxarb2@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 34.21751
+2-Local Address: 1621 North Lake Dr
+2-Locality: Information
+2-Longitude: -84.37131
+2-Natural Vegetation Area: Yes
+2-Total Area: 5 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 5
+3-Computer Plant Record System: Yes
+3-Disabled access: No
+3-Friends society: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 200
+3-Number of Volunteers: 3
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: No
+4-ABS Policy: No
+4-Accession Number: 4000
+4-Cultivation Taxa Num: 2800
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+4-Special Collections: The garden maintains a representative collection of temperate conifers, along with a handful of tropical species that we demonstrate as good houseplants such as Araucaria, Podocarpus and Retrophyllum.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: No
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: No
+7-Visitor/Education Centre: No
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: coxarb2@gmail.com
+9-Telephone: 404-421-6614

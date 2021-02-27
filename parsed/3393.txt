@@ -1,22 +1,28 @@
-ID:	3393
-Name:	Vermont Experimental Cold-Hardy Cactus Garden 
-Curator's Name:	
-Director's Name:	Louis and Marilyn Varricchio
-Info:	  United States of America - Vermont - Middlebury  ;Garden Information;  Institution Code: VEC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Vermont Experimental Cold-Hardy Cactus Garden; c/o Louis and Marilyn Varricchio; Halladay Road; Middlebury; Vermont 05753 United States of America; ;  Telephone: 802-388-3268; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	43.9728190
-Longitude:	-73.1338970
-Arboretum:	No
-Computer Plant Record System:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Special Collections:	Cacti - hardy.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
+0-ID: 3393
+1-Name: Vermont Experimental Cold-Hardy Cactus Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: VEC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Vermont Experimental Cold-Hardy Cactus Garden;         c/o Louis and Marilyn Varricchio;        Halladay Road;        Middlebury;        Vermont 05753 United States of America;        ;                 Telephone: 802-388-3268;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.9728190
+2-Longitude: -73.1338970
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Special Collections: Cacti - hardy.
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3393">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3393">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: VEC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 802-388-3268
+9-URL: 

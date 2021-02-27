@@ -1,11 +1,19 @@
-ID:	1312
-Name:	Arboretum Trubarevo 
-Curator's Name:	
-Director's Name:	Dr. Lazar Donevski
-Info:	  Macedonia (FYR) - Skopje  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Trubarevo; Faculty of Forestry, 91000 SKOPJE, Macedonia. Returned 01/98; Skopje; Macedonia (FYR); ;  Telephone: 091 234 560; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1950
-Institution Type:	Botanic Garden
-Latitude:	42.0656
-Longitude:	21.6430
-Special Collections:	Trees and shrubs from various parts of the world.
+0-ID: 1312
+1-Name: Arboretum Trubarevo 
+2-Date founded: 1950
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Trubarevo;         Faculty of Forestry,   91000 SKOPJE,  Macedonia.     Returned 01/98;                Skopje;        Macedonia (FYR);        ;                 Telephone: 091 234 560;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.0656
+2-Longitude: 21.6430
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1312">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs from various parts of the world.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1312">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1312">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1312">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 091 234 560
+9-URL: 

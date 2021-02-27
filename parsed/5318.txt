@@ -1,9 +1,17 @@
-ID:	5318
-Name:	Eastern Illinois University Thut Greenhouse 
-Curator's Name:	
-Director's Name:	Steve Malhorn, Greenhouse and Biology Prep Room Manager
-Info:	  United States of America - Illinois - Charleston  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Eastern Illinois University Thut Greenhouse; Life Sciences Building; Eastern Illinois University; Charleston; Illinois 61920 United States of America; ;  Telephone: 217-581-3126; Fax: ; URL: <a target="_blank" href="http://www.eiu.edu/grnhouse/index.php">http://www.eiu.edu/grnhouse/index.php; Primary Email: shmalehorn@eiu.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.479202
-Longitude:	-88.174543
+0-ID: 5318
+1-Name: Eastern Illinois University Thut Greenhouse 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Eastern Illinois University Thut Greenhouse;         Life Sciences Building;        Eastern Illinois University;        Charleston;        Illinois 61920 United States of America;        ;                 Telephone: 217-581-3126;         Fax: ;         URL: http://www.eiu.edu/grnhouse/index.php;         Primary Email: shmalehorn@eiu.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.479202
+2-Longitude: -88.174543
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5318">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5318">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5318">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5318">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5318">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: shmalehorn@eiu.edu
+9-Telephone: 217-581-3126

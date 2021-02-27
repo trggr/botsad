@@ -1,11 +1,20 @@
-ID:	3005
-Name:	Arzneipflanzengarten des Institutes fuer Pharmazeutische Biologie der TU Braunschweig 
-Curator's Name:	
-Director's Name:	
-Info:	  Germany - Deutschland - Braunschweig  ;Garden Information;  Institution Code: BRAU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arzneipflanzengarten des Institutes fuer Pharmazeutische Biologie der TU Braunschweig; Mendelssohnstrasse 1, D-381006 BRAUNSCHWEIG; Braunschweig; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1989
-Institution Type:	Other
-Latitude:	52.2641
-Longitude:	10.5263
+0-ID: 3005
+1-Name: Arzneipflanzengarten des Institutes fuer Pharmazeutische Biologie der TU Braunschweig 
+2-Altitude: 0.00 Metres
+2-Date founded: 1989
+2-Info:              Institution Code: BRAU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arzneipflanzengarten des Institutes fuer Pharmazeutische Biologie der TU Braunschweig;         Mendelssohnstrasse 1,  D-381006 BRAUNSCHWEIG;                Braunschweig;        Germany - Deutschland;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 52.2641
+2-Longitude: 10.5263
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3005">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3005">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3005">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3005">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3005">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BRAU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

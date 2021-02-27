@@ -1,11 +1,19 @@
-ID:	853
-Name:	Jardin Botanico Nacional "Dr. Rafael M. Moscoso" 
-Curator's Name:	
-Director's Name:	Ricardo Garcia
-Info:	  Dominican Republic - Santo Domingo  ;Garden Information;  Institution Code: JBSD; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin Botanico Nacional "Dr. Rafael M. Moscoso"; Av. Republica de Colombia esq. Av Los Proceres; Sector los Altos de Gala, Apartado Postal 21-9; Santo Domingo; Dominican Republic; ;  Telephone: 1 809 385-2611 Ext. 221; Fax: 1 809 563 2525; URL: <a target="_blank" href="http://www.jbn.gob.do">www.jbn.gob.do; Primary Email: jardinbotanico@jbn.gob.do ; 
-Plant Records Officer's Name:	
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	18.4790
-Longitude:	-69.8900
-Special Collections:	Araceae, Orchidaceae (such as Cryptopodium domingensis, Broughtonia domingensis, Oncidium henekenii, O. variegatum, Polyradicion lindenii, Tetramicra canaliculata, Quisqueya ekmanii, Eulophia alta, Psychilis olivacea, Dochaea glauca and Pleurothallis domi
+0-ID: 853
+1-Name: Jardin Botanico Nacional "Dr. Rafael M. Moscoso" 
+2-Date founded: 1976
+2-Info:              Institution Code: JBSD;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Jardin Botanico Nacional "Dr. Rafael M. Moscoso";         Av. Republica de Colombia esq. Av Los Proceres;        Sector los Altos de Gala, Apartado Postal 21-9;        Santo Domingo;        Dominican Republic;        ;                 Telephone: 1 809 385-2611 Ext. 221;         Fax: 1 809 563 2525;         URL: www.jbn.gob.do;         Primary Email: jardinbotanico@jbn.gob.do       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.4790
+2-Longitude: -69.8900
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=853">Please click here if you can update us</a>
+4-Special Collections: Araceae, Orchidaceae (such as Cryptopodium domingensis, Broughtonia domingensis, Oncidium henekenii, O. variegatum, Polyradicion lindenii, Tetramicra canaliculata, Quisqueya ekmanii, Eulophia alta, Psychilis olivacea, Dochaea glauca and Pleurothallis domi
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=853">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=853">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=853">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 1 809 563 2525
+9-Institution Code: JBSD
+9-International Agenda Registration: No
+9-Primary Email: jardinbotanico@jbn.gob.do
+9-Telephone: 1 809 385-2611 Ext. 221
+9-URL: www.jbn.gob.do

@@ -1,12 +1,21 @@
-ID:	845
-Name:	Jardin Botanico Municipal de Santa Cruz de la Sierra 
-Curator's Name:	Cleidy Alvarez Severiche
-Director's Name:	Ingeniero Darío Melgar Gómez
-Info:	  Bolivia - Santa Cruz - Santa Cruz de la Sierra  ;Garden Information;  Institution Code: SCRUZ; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanico Municipal de Santa Cruz de la Sierra El Jardín Botánico está extendido sobre una superficie de 186 hectáreas de bosques muy bien preservados que incluyen una muestra representativa de las especies arbóreas de la región. Hay aproximadamente 6 Km. de senderos interpretativos y también una pequeña laguna.; ; Para visitar el Jardín Botánico se recomienda utilizar repelente de insectos, utilizar ropa liviana de algodón de manga larga y pantalones largos, zapatos cómodos, sombrero, protector solar, etc. ¡Hay muchos mosquitos, prepárese!; ; Ubicación: Carretera a Cotoca Km. 8; Horario de atención: 7:00 a 16:00 todos los días incluyendo los feriados.; La entrada tiene un costo de Bs. 3. (USD 0.40);  Main Address:; Jardin Botanico Municipal de Santa Cruz de la Sierra; Km. 8 1/2 Carretera a Cotoca; Santa Cruz de la Sierra; Santa Cruz Bolivia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1984
-Institution Type:	Botanic Garden
-Latitude:	-16.9778
-Longitude:	-61.1304
-Special Collections:	Native (secondary) forest vegetation
+0-ID: 845
+1-Name: Jardin Botanico Municipal de Santa Cruz de la Sierra 
+2-Altitude: 0.00 Metres
+2-Date founded: 1984
+2-Info:              Institution Code: SCRUZ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanico Municipal de Santa Cruz de la Sierra        El Jardín Botánico está extendido sobre una superficie de 186 hectáreas de bosques muy bien preservados que incluyen una muestra representativa de las especies arbóreas de la región. Hay aproximadamente 6 Km. de senderos interpretativos y también una pequeña laguna.;  ;  Para visitar el Jardín Botánico se recomienda utilizar repelente de insectos, utilizar ropa liviana de algodón de manga larga y pantalones largos, zapatos cómodos, sombrero, protector solar, etc. ¡Hay muchos mosquitos, prepárese!;  ;  Ubicación: Carretera a Cotoca Km. 8;  Horario de atención: 7:00 a 16:00 todos los días incluyendo los feriados.;  La entrada tiene un costo de Bs. 3. (USD 0.40);                        Main Address:;         Jardin Botanico Municipal de Santa Cruz de la Sierra;         Km. 8 1/2 Carretera a Cotoca;                Santa Cruz de la Sierra;        Santa Cruz Bolivia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -16.9778
+2-Longitude: -61.1304
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=845">Please click here if you can update us</a>
+4-Special Collections: Native (secondary) forest vegetation
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=845">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=845">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=845">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SCRUZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 
+9-Ubicación: Carretera a Cotoca Km. 8

@@ -1,11 +1,19 @@
-ID:	205
-Name:	The Botanical Garden, Agricultural Institute 
-Curator's Name:	
-Director's Name:	A.P.Zamullo
-Info:	  Russian Federation - Omsk  ;Garden Information;  Institution Code: OMSK; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; The Botanical Garden, Agricultural Institute; Sibakovskaja 4, Omsk Region, 644008 OMSK, Russian Federation; Omsk; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1927
-Institution Type:	Botanic Garden
-Latitude:	54.9709
-Longitude:	73.3937
-Special Collections:	Allium, Iris, tropical and subtropical plants, medicinal plants, ornamentals, alpines. Experimental Division. Introductions.
+0-ID: 205
+1-Name: The Botanical Garden, Agricultural Institute 
+2-Date founded: 1927
+2-Info:              Institution Code: OMSK;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         The Botanical Garden, Agricultural Institute;         Sibakovskaja 4, Omsk Region,  644008 OMSK,  Russian Federation;                Omsk;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 54.9709
+2-Longitude: 73.3937
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=205">Please click here if you can update us</a>
+4-Special Collections: Allium, Iris, tropical and subtropical plants, medicinal plants, ornamentals, alpines. Experimental Division. Introductions.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=205">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=205">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=205">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: OMSK
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

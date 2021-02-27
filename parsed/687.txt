@@ -1,28 +1,35 @@
-ID:	687
-Name:	Eloise Butler Wildflower Garden & Bird Sanctuary 
-Curator's Name:	Susan Wilkins, Garden Curator
-Director's Name:	N/A
-Info:	  United States of America - Minnesota - Minneapolis  ;Garden Information;  Institution Code: MEBWG; International Agenda Registration: No; BGCI Member: No; About the Eloise Butler Wildflower Garden & Bird Sanctuary When visitors step behind the rustic gates at Eloise Butler Wildflower Garden and Bird Sanctuary, they quickly forget they’re in the middle of the city. A meandering trail takes visitors deep into nature’s wonderland, the quiet accented with the sounds of birds, insects, frogs and wind in the trees.; ; The 15-acre garden is the oldest public wildflower garden in the nation. Its legacy dates back to 1907 when Minneapolis botanist Eloise Butler and botany teachers successfully petitioned the Minneapolis Park Board to create a natural botanic garden to preserve native flora as the city grew. Three acres of bog, meadow and hillside were properly fenced and the Wild Botanic Garden opened April 27, 1907.; ; The Garden is home to over 500 plant species and 140 bird species. It provides 60,000 visitors annually with spectacular seasonal displays of native wildflowers in woodland, wetland and prairie areas. Each area creates a different habitat that fosters different types of plants, animals and birds.; ; The 2/3-mile trail* features 49 interpretive stations for guided and self-guided tours. Nestled in the garden is the Martha Crone Visitor’s Shelter where you will find natural history displays, natural history reference materials and friendly staff and volunteers waiting to help with Garden-related questions.; ; Located in Theodore Wirth Regional Park, the Garden was founded by Minneapolis botanist and school teacher Eloise Butler. She and other botany teachers successfully petitioned the Minneapolis Park Board to create a natural botanic garden to preserve native flora as the city grew.; ; The Garden is open daily April 1-Oct. 15 from 7:30 a.m. to one hour before sunset.;  Main Address:; Eloise Butler Wildflower Garden & Bird Sanctuary; Minneapolis Park and Recreation Board; Theodore Wirth Parkway and Glenwood Avenue; Minneapolis; Minnesota 55415 United States of America; ;  Telephone: (612) 370-4903; Fax: ; URL: <a target="_blank" href="http://www.minneapolisparks.org/default.asp?PageID=4&parkid=340">www.minneapolisparks.org/default.asp?PageID=4&parkid=340; Primary Email: swilkins@minneapolisparks.org ; 
-Plant Records Officer's Name:	N/A
-Altitude:	0.00 Metres
-Date founded:	1907
-Institution Type:	Botanic Garden
-Latitude:	44.9772420
-Longitude:	-93.3261570
-Natural Vegetation Area:	Yes
-Total Area:	5 Hectares
-Disabled access:	No
-Friends society:	Yes
-Number of Visitors:	60000
-Number of Volunteers:	100
-Open to public:	Yes
-Accession Number:	550
-Special Collections:	Asclepiadaceae, Betulaceae, Caprifoliaceae, Caryophyllaceae, Compositae, Cruciferae, Gramineae, Labiateae, Leguminosae, Liliaceae, Pinaceae, Polypodiaceae, Ranunculaceae, Rosaceae, Salicaceae, Saxifragaceae, Scrophulariaceae, Acer (7 spp., 7 taxa), Aster
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 687
+1-Name: Eloise Butler Wildflower Garden & Bird Sanctuary 
+2-Altitude: 0.00 Metres
+2-Date founded: 1907
+2-Info:              Institution Code: MEBWG;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Eloise Butler Wildflower Garden & Bird Sanctuary        When visitors step behind the rustic gates at Eloise Butler Wildflower Garden and Bird Sanctuary, they quickly forget they’re in the middle of the city. A meandering trail takes visitors deep into nature’s wonderland, the quiet accented with the sounds of birds, insects, frogs and wind in the trees.;  ;  The 15-acre garden is the oldest public wildflower garden in the nation. Its legacy dates back to 1907 when Minneapolis botanist Eloise Butler and botany teachers successfully petitioned the Minneapolis Park Board to create a natural botanic garden to preserve native flora as the city grew. Three acres of bog, meadow and hillside were properly fenced and the Wild Botanic Garden opened April 27, 1907.;  ;  The Garden is home to over 500 plant species and 140 bird species. It provides 60,000 visitors annually with spectacular seasonal displays of native wildflowers in woodland, wetland and prairie areas. Each area creates a different habitat that fosters different types of plants, animals and birds.;  ;  The 2/3-mile trail* features 49 interpretive stations for guided and self-guided tours. Nestled in the garden is the Martha Crone Visitor’s Shelter where you will find natural history displays, natural history reference materials and friendly staff and volunteers waiting to help with Garden-related questions.;  ;  Located in Theodore Wirth Regional Park, the Garden was founded by Minneapolis botanist and school teacher Eloise Butler. She and other botany teachers successfully petitioned the Minneapolis Park Board to create a natural botanic garden to preserve native flora as the city grew.;  ;  The Garden is open daily April 1-Oct. 15 from 7:30 a.m. to one hour before sunset.;                        Main Address:;         Eloise Butler Wildflower Garden & Bird Sanctuary;         Minneapolis Park and Recreation Board;        Theodore Wirth Parkway and Glenwood Avenue;        Minneapolis;        Minnesota 55415 United States of America;        ;                 Telephone: (612) 370-4903;         Fax: ;         URL: www.minneapolisparks.org/default.asp?PageID=4&parkid=340;         Primary Email: swilkins@minneapolisparks.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.9772420
+2-Longitude: -93.3261570
+2-Natural Vegetation Area: Yes
+2-Total Area: 5 Hectares
+3-Disabled access: No
+3-Friends society: Yes
+3-Number of Visitors: 60000
+3-Number of Volunteers: 100
+3-Open to public: Yes
+4-Accession Number: 550
+4-Special Collections: Asclepiadaceae, Betulaceae, Caprifoliaceae, Caryophyllaceae, Compositae, Cruciferae, Gramineae, Labiateae, Leguminosae, Liliaceae, Pinaceae, Polypodiaceae, Ranunculaceae, Rosaceae, Salicaceae, Saxifragaceae, Scrophulariaceae, Acer (7 spp., 7 taxa), Aster
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=687">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=687">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MEBWG
+9-International Agenda Registration: No
+9-Primary Email: swilkins@minneapolisparks.org
+9-Telephone: (612) 370-4903
+9-The Garden is open daily April 1-Oct. 15 from 7: 30 a.m. to one hour before sunset.
+9-URL: www.minneapolisparks.org/default.asp?PageID=4&parkid=340

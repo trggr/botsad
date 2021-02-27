@@ -1,11 +1,19 @@
-ID:	3202
-Name:	Brickman Botanical Country Garden 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Canada - Ontario - Stratford  ;Garden Information;  Institution Code: BRIC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Brickman Botanical Country Garden; RR 1; Stratford; Ontario NOK 1XO Canada; ;  Telephone: (519) 393-6223; Fax: ; URL: <a target="_blank" href="http://www.sentex.net/~lwr/brickman.html">www.sentex.net/~lwr/brickman.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	43.46502
-Longitude:	-81.04424
-Special Collections:	No information available.
+0-ID: 3202
+1-Name: Brickman Botanical Country Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BRIC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Brickman Botanical Country Garden;         RR 1;                Stratford;        Ontario NOK 1XO Canada;        ;                 Telephone: (519) 393-6223;         Fax: ;         URL: www.sentex.net/~lwr/brickman.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.46502
+2-Longitude: -81.04424
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3202">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3202">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3202">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3202">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BRIC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (519) 393-6223
+9-URL: www.sentex.net/~lwr/brickman.html

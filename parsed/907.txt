@@ -1,42 +1,43 @@
-ID:	907
-Name:	Makerere University Botanical Garden 
-Administration Staff Number:	2
-Curator's Name:	Dr. Paul Ssegawa
-Director's Name:	Head of Botany Department - Dr. Arthur Tugume. Senior in charge of Herbarium & BG - Dr. James Kalema
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Info:	  Uganda - Kampala  ;Garden Information;  Institution Code: MHU; International Agenda Registration: Yes; BGCI Member: No; About the Makerere University Botanical Garden The Makerere University Herbarium was established in 1945 under the management of the Department of Botany, Faculty of Science. It is one of the most important sections used in botanical research, training in taxonomy and reference for many local and international researchers and research institutions. It houses about 40,000 collections (including ca. 120 type specimens) of plants from Uganda and other countries. About five years ago, the herbarium was entrusted with collections from the National Forestry Authority (formerly called the Forest Department) and they are been incorporated into the main collection. It serves the students’ community, staff and researchers from all over the world in botanical research, determination of plant species, training and ethnobotanical research. Members of staff have also been involved in various projects involving botanical research with several institutions. ; ; ; Within Makerere University, the Herbarium serves both staff and students in the following faculties: Faculty of Science (i.e. Botany, Zoology & Biochemistry); Makerere University Institute of Environment and Natural Resources; Faculty of Forestry and Nature Conservation; Faculty of Arts (i.e. Department of Geography; Tourism and Environmental management); Faculty of Technology (Department of Architecture); The School of Medicine (Department of Pharmacology and Therapeutics) and the School of Fine Art. At the national level, the herbarium is consulted and works closely with several government institutions including Uganda Wildlife Authority, Uganda National Council of Science and Technology, National Forestry Authority, Wetlands Inspection Division, National Environment Management Authority, National Chemotherapeutics Research Laboratory (Ministry of Health), THETA, NARO, Ministry of Lands and Environment. Other institutions that are always consulting the herbarium include Mbarara University Science and Technology, Ndejje University and Kyambogo University. The herbarium has had a close working relationship with the East African Herbarium (Kenya), Royal Botanic Gardens, Kew (England) and the Missouri Botanic Gardens (USA) in the form of training and exchange of plant taxonomic expertise.;  Main Address:; Makerere University Botanical Garden; Botany Department, Makerere University, P.O. Box 7062, KAMPALA, Uganda.; Kampala; Uganda; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	Dr. Paul Ssegawa
-Research Staff Number:	3
-Altitude:	1100.00 Metres
-Annual Rainfall:	1200 mm
-Date founded:	1945
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	0.3376
-Local Address:	College of natural Sciences Department of Biological Sciences Botany Section P.O. Box 7062 Kampala
-Locality:	Information
-Longitude:	32.5772
-Total Area:	1 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Number of Volunteers:	2
-Plant Collection Policy:	No
-Special Collections:	Orchids, decorative indoor plants, native plants.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Invasive Species Biology and Control:	Yes
-Pharmacology:	Yes
-Restoration Ecology:	Yes
-Systematics and Taxonomy:	Yes
-Courses for University/College Students:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 907
+1-Name: Makerere University Botanical Garden 
+2-Altitude: 1100.00 Metres
+2-Annual Rainfall: 1200 mm
+2-Date founded: 1945
+2-Info:              Institution Code: MHU;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Makerere University Botanical Garden        The Makerere University Herbarium was established in 1945 under the management of the Department of Botany, Faculty of Science. It is one of the most important sections used in botanical research, training in taxonomy and reference for many local and international researchers and research institutions. It houses about 40,000 collections (including ca. 120 type specimens) of plants from Uganda and other countries. About five years ago, the herbarium was entrusted with collections from the National Forestry Authority (formerly called the Forest Department) and they are been incorporated into the main collection. It serves the students’ community, staff and researchers from all over the world in botanical research, determination of plant species, training and ethnobotanical research. Members of staff have also been involved in various projects involving botanical research with several institutions. ;  ;  ;  Within Makerere University, the Herbarium serves both staff and students in the following faculties: Faculty of Science (i.e. Botany, Zoology & Biochemistry); Makerere University Institute of Environment and Natural Resources; Faculty of Forestry and Nature Conservation; Faculty of Arts (i.e. Department of Geography; Tourism and Environmental management); Faculty of Technology (Department of Architecture); The School of Medicine (Department of Pharmacology and Therapeutics) and the School of Fine Art. At the national level, the herbarium is consulted and works closely with several government institutions including Uganda Wildlife Authority, Uganda National Council of Science and Technology, National Forestry Authority, Wetlands Inspection Division, National Environment Management Authority, National Chemotherapeutics Research Laboratory (Ministry of Health), THETA, NARO, Ministry of Lands and Environment. Other institutions that are always consulting the herbarium include Mbarara University Science and Technology, Ndejje University and Kyambogo University. The herbarium has had a close working relationship with the East African Herbarium (Kenya), Royal Botanic Gardens, Kew (England) and the Missouri Botanic Gardens (USA) in the form of training and exchange of plant taxonomic expertise.;                        Main Address:;         Makerere University Botanical Garden;         Botany Department, Makerere University, P.O. Box 7062, KAMPALA, Uganda.;                Kampala;        Uganda;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 0.3376
+2-Local Address: College of natural Sciences Department of Biological Sciences Botany Section P.O. Box 7062 Kampala
+2-Locality: Information
+2-Longitude: 32.5772
+2-Total Area: 1 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Number of Volunteers: 2
+4-Plant Collection Policy: No
+4-Special Collections: Orchids, decorative indoor plants, native plants.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+6-Conservation - Biology: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Invasive Species Biology and Control: Yes
+6-Pharmacology: Yes
+6-Restoration Ecology: Yes
+6-Systematics and Taxonomy: Yes
+7-Courses for University/College Students: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MHU
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 
+9-Within Makerere University, the Herbarium serves both staff and students in the following faculties: Faculty of Science (i.e. Botany, Zoology & Biochemistry)

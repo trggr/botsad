@@ -1,11 +1,19 @@
-ID:	4895
-Name:	Kano Botanic Garden 
-Curator's Name:	
-Director's Name:	The Director
-Info:	  Nigeria - Kano - Tamburawa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kano Botanic Garden; Dawakin Kudu Local Government Area; Tamburawa; Kano Nigeria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://kanobotanicgarden.com/">http://kanobotanicgarden.com/; Primary Email: aliyunuhu@yahoo.com ; 
-Plant Records Officer's Name:	Dr. Sulaimon
-Altitude:	0.00 Metres
-Date founded:	2008
-Institution Type:	Botanic Garden
-Latitude:	11.864873
-Longitude:	8.536842
+0-ID: 4895
+1-Name: Kano Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 2008
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kano Botanic Garden;         Dawakin Kudu Local Government Area;                Tamburawa;        Kano Nigeria;        ;                 Telephone: ;         Fax: ;         URL: http://kanobotanicgarden.com/;         Primary Email: aliyunuhu@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 11.864873
+2-Longitude: 8.536842
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4895">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4895">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4895">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4895">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4895">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: aliyunuhu@yahoo.com
+9-Telephone: 

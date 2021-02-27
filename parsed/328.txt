@@ -1,24 +1,25 @@
-ID:	328
-Name:	Toronto Zoo 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	John Tracogna, CEO
-Educational Staff Number:	
-Horticultural Staff Number:	15
-Info:	  Canada - Ontario - Toronto  ;Garden Information;  Institution Code: TOROZ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Toronto Zoo; 361A Old Finch Avenue; Toronto; Ontario M1B 5K7 Canada; ;  Telephone: (416) 392-5901; Fax: (416) 392-4979; URL: <a target="_blank" href="http://www.torontozoo.ca">www.torontozoo.ca; Primary Email: tzwebmaster@torontozoo.ca ; 
-Plant Records Officer's Name:	Elizabeth Heighington, Curatorial Gardener
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1973
-Institution Type:	Zoological Institution
-Landscaped Area:	Yes
-Latitude:	43.82046
-Longitude:	-79.18001
-Natural Vegetation Area:	Yes
-Open to public:	Yes
-Special Collections:	Tropical plants including palms, orchids, bromeliads. Native species.
-Conservation Programme:	Yes
-Courses for School Children:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
+0-ID: 328
+1-Name: Toronto Zoo 
+2-Altitude: 0.00 Metres
+2-Date founded: 1973
+2-Info:              Institution Code: TOROZ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Toronto Zoo;         361A Old Finch Avenue;                Toronto;        Ontario M1B 5K7 Canada;        ;                 Telephone: (416) 392-5901;         Fax: (416) 392-4979;         URL: www.torontozoo.ca;         Primary Email: tzwebmaster@torontozoo.ca       ;              
+2-Institution Type: Zoological Institution
+2-Landscaped Area: Yes
+2-Latitude: 43.82046
+2-Longitude: -79.18001
+2-Natural Vegetation Area: Yes
+3-Open to public: Yes
+4-Special Collections: Tropical plants including palms, orchids, bromeliads. Native species.
+5-Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=328">Please click here if you can update us</a>
+7-Courses for School Children: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+9-BGCI Member: Yes
+9-Fax: (416) 392-4979
+9-Institution Code: TOROZ
+9-International Agenda Registration: Yes
+9-Primary Email: tzwebmaster@torontozoo.ca
+9-Telephone: (416) 392-5901
+9-URL: www.torontozoo.ca

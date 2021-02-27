@@ -1,10 +1,18 @@
-ID:	3224
-Name:	Barrie Arboretum at Sunnidale Park 
-Curator's Name:	
-Director's Name:	Catherine Waffle, Chairperson
-Info:	  Canada - Ontario - Barrie  ;Garden Information;  Institution Code: BARR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Barrie Arboretum at Sunnidale Park; The Barrie Garden Club; corner of Sunnidale and Cundles Roads; Barrie; Ontario L4N Canada; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://barriegardenclub.com">http://barriegardenclub.com; Primary Email: chairman@barriegardenclub.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	44.39706
-Longitude:	-79.70844
+0-ID: 3224
+1-Name: Barrie Arboretum at Sunnidale Park 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BARR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Barrie Arboretum at Sunnidale Park;         The Barrie Garden Club;        corner of Sunnidale and Cundles Roads;        Barrie;        Ontario L4N Canada;        ;                 Telephone: ;         Fax: ;         URL: http://barriegardenclub.com;         Primary Email: chairman@barriegardenclub.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.39706
+2-Longitude: -79.70844
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3224">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3224">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3224">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3224">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3224">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BARR
+9-International Agenda Registration: No
+9-Primary Email: chairman@barriegardenclub.com
+9-Telephone: 

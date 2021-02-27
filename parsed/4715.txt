@@ -1,9 +1,18 @@
-ID:	4715
-Name:	Arboretum at Kutztown University 
-Curator's Name:	
-Director's Name:	Will Meeker, Assistant Director of Campus Services
-Info:	  United States of America - Pennsylvania - Kutztown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum at Kutztown University; 427 Baldy Street; Kutztown; Pennsylvania 19530 United States of America; ;  Telephone: (484) 646-4336; Fax: ; URL: <a target="_blank" href="http://www.kutztown.edu/admin/Facilities/arboretum/arbor.htm">www.kutztown.edu/admin/Facilities/arboretum/arbor.htm; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.5095486
-Longitude:	-75.7770630
+0-ID: 4715
+1-Name: Arboretum at Kutztown University 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum at Kutztown University;         427 Baldy Street;                Kutztown;        Pennsylvania 19530 United States of America;        ;                 Telephone: (484) 646-4336;         Fax: ;         URL: www.kutztown.edu/admin/Facilities/arboretum/arbor.htm;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.5095486
+2-Longitude: -75.7770630
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4715">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4715">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4715">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4715">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4715">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (484) 646-4336
+9-URL: www.kutztown.edu/admin/Facilities/arboretum/arbor.htm

@@ -1,9 +1,17 @@
-ID:	4568
-Name:	South Bay Botanic Gardens 
-Curator's Name:	
-Director's Name:	Meredith Sinclair, Executive Director
-Info:	  United States of America - California - Chula Vista  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; South Bay Botanic Gardens; Southwestern College; 900 Otay Lakes Road; Chula Vista; California 91910 United States of America; ;  Telephone: (619) 421-6700 x15371; Fax: ; URL: <a target="_blank" href="http://southbaybotanicgarden.org/">http://southbaybotanicgarden.org/; Primary Email: msinclair1@swccd.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	32.6424543
-Longitude:	-116.9951920
+0-ID: 4568
+1-Name: South Bay Botanic Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         South Bay Botanic Gardens;         Southwestern College;        900 Otay Lakes Road;        Chula Vista;        California 91910 United States of America;        ;                 Telephone: (619) 421-6700 x15371;         Fax: ;         URL: http://southbaybotanicgarden.org/;         Primary Email: msinclair1@swccd.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.6424543
+2-Longitude: -116.9951920
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4568">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4568">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4568">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4568">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4568">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: msinclair1@swccd.edu
+9-Telephone: (619) 421-6700 x15371

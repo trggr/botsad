@@ -1,12 +1,20 @@
-ID:	264
-Name:	Gornotaietchna Station 
-Curator's Name:	
-Director's Name:	Dr. A. D. Gurjev
-Info:	  Russian Federation - Ussuriysk  ;Garden Information;  Institution Code: USSU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gornotaietchna Station; Far East Section, Academy of Sciences, 692533 USSURIYSK, Primorskiy District, Russian Federation; Ussuriysk; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1935
-Institution Type:	Other
-Latitude:	43.8162
-Longitude:	131.9893
-Special Collections:	Pinus, Acer, Lonicera, Berberis, Amorpha, Far Eastern plants, East Asian, European, N. American and Siberian plants.
+0-ID: 264
+1-Name: Gornotaietchna Station 
+2-Altitude: 0.00 Metres
+2-Date founded: 1935
+2-Info:              Institution Code: USSU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gornotaietchna Station;         Far East Section, Academy of Sciences,  692533 USSURIYSK,  Primorskiy District,  Russian Federation;                Ussuriysk;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 43.8162
+2-Longitude: 131.9893
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=264">Please click here if you can update us</a>
+4-Special Collections: Pinus, Acer, Lonicera, Berberis, Amorpha, Far Eastern plants, East Asian, European, N. American and Siberian plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=264">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=264">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=264">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: USSU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

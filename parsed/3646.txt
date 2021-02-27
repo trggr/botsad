@@ -1,25 +1,26 @@
-ID:	3646
-Name:	Parque Botânico da Tapada da Ajuda 
-Administration Staff Number:	1
-Curator's Name:	Paulo Jorge da Silva Forte
-Director's Name:	Maria Teresa de Carvalho e Vasconcelos
-Educational Staff Number:	2
-Horticultural Staff Number:	7
-Info:	  Portugal - Lisboa  ;Garden Information;  Institution Code: AJUDA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parque Botânico da Tapada da Ajuda; Instituto Superior de Agronomia; Tapada da Ajuda; Lisboa; 1349-017 Portugal; ;  Telephone: 351 21 3653168; Fax: 351 21 3653238; URL: <a target="_blank" href="http://www.isa.utl.pt">www.isa.utl.pt; Primary Email: tvasconcelos@isa.utl.pt ; 
-Plant Records Officer's Name:	
-Research Staff Number:	4
-Altitude:	60.00 Metres
-Date founded:	1910
-Institution Type:	Botanic Garden
-Latitude:	38.7066
-Longitude:	-9.1766
-Total Area:	89 Hectares
-Arboretum:	No
-Herbarium:	Yes
-Open to public:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	1500
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Education:	Yes
+0-ID: 3646
+1-Name: Parque Botânico da Tapada da Ajuda 
+2-Altitude: 60.00 Metres
+2-Date founded: 1910
+2-Info:              Institution Code: AJUDA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Parque Botânico da Tapada da Ajuda;         Instituto Superior de Agronomia;        Tapada da Ajuda;        Lisboa;        1349-017 Portugal;        ;                 Telephone: 351 21 3653168;         Fax: 351 21 3653238;         URL: www.isa.utl.pt;         Primary Email: tvasconcelos@isa.utl.pt       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.7066
+2-Longitude: -9.1766
+2-Total Area: 89 Hectares
+3-Arboretum: No
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 1500
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Education: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3646">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 351 21 3653238
+9-Institution Code: AJUDA
+9-International Agenda Registration: No
+9-Primary Email: tvasconcelos@isa.utl.pt
+9-Telephone: 351 21 3653168
+9-URL: www.isa.utl.pt

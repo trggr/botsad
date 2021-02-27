@@ -1,45 +1,50 @@
-ID:	3216
-Name:	Roger-Van den Hende Botanic Garden 
-Curator's Name:	Helene Corriveau, Garden Manager
-Director's Name:	Jacques Allard, Director of the League of Friends of Van den Hende Garden
-Info:	  Canada - Quebec - Quebec  ;Garden Information;  Institution Code: QFA; International Agenda Registration: Yes; BGCI Member: No; About the Roger-Van den Hende Botanic Garden The Roger-Van den Hende botanical Garden is Université Laval’s educational garden. Its mission is to serve as a practical laboratory for students and researchers studying and working at Université Laval, particularly at the Faculty of Agricultural and Food Sciences. The garden also has a public education vocation and is a popular open space. ; ; This six-hectare educational garden features near than 4000 species and cultivars arranged in order of botanical family. It houses a unique collection of plants native to Quebec and ornamental plants introduced from Europe, America and Asia. It contains a water garden, a collection of herbaceous plants and rhododendrons, an arboretum and a rose garden.;  Main Address:; Roger-Van den Hende Botanic Garden; Pavillon de l'Envirotron, Universite Laval; 2480 Boulevard Hochelaga; Quebec; Quebec G1K 7P4 Canada; ;  Telephone: (418) 656-3742; Fax: (418) 656-3515; URL: <a target="_blank" href="http://www.jardin.ulaval.ca">www.jardin.ulaval.ca; Primary Email: jardin@fsaa.ulaval.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1966
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	46.77628
-Longitude:	-71.28113
-Total Area:	6 Hectares
-Arboretum:	Yes
-Arboretum Size:	4
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	35000
-Number of Volunteers:	50
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Special Collections:	No information available.
-Agriculture:	Yes
-Biotechnology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Horticulture:	Yes
-Molecular Genetics:	Yes
-Plant Breeding:	Yes
-Restoration Ecology:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 3216
+1-Name: Roger-Van den Hende Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1966
+2-Info:              Institution Code: QFA;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Roger-Van den Hende Botanic Garden        The Roger-Van den Hende botanical Garden is Université Laval’s educational garden. Its mission is to serve as a practical laboratory for students and researchers studying and working at Université Laval, particularly at the Faculty of Agricultural and Food Sciences. The garden also has a public education vocation and is a popular open space. ;  ;  This six-hectare educational garden features near than 4000 species and cultivars arranged in order of botanical family. It houses a unique collection of plants native to Quebec and ornamental plants introduced from Europe, America and Asia. It contains a water garden, a collection of herbaceous plants and rhododendrons, an arboretum and a rose garden.;                        Main Address:;         Roger-Van den Hende Botanic Garden;         Pavillon de l'Envirotron, Universite Laval;        2480 Boulevard Hochelaga;        Quebec;        Quebec G1K 7P4 Canada;        ;                 Telephone: (418) 656-3742;         Fax: (418) 656-3515;         URL: www.jardin.ulaval.ca;         Primary Email: jardin@fsaa.ulaval.ca       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 46.77628
+2-Longitude: -71.28113
+2-Total Area: 6 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 4
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 35000
+3-Number of Volunteers: 50
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3216">Please click here if you can update us</a>
+6-Agriculture: Yes
+6-Biotechnology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Horticulture: Yes
+6-Molecular Genetics: Yes
+6-Plant Breeding: Yes
+6-Restoration Ecology: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (418) 656-3515
+9-Institution Code: QFA
+9-International Agenda Registration: Yes
+9-Primary Email: jardin@fsaa.ulaval.ca
+9-Telephone: (418) 656-3742
+9-URL: www.jardin.ulaval.ca

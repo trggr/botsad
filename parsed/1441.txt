@@ -1,14 +1,20 @@
-ID:	1441
-Name:	Sakhalin Botanical Garden / ??????????? ???????????? ??? ??? ??? 
-Curator's Name:	Dr. Svetlana I. Chabanenko, Deputy Director of Research
-Director's Name:	Dr. Alexandr A. Taran, Director
-Info:	  Russian Federation - Sakhalin oblast - Yuzhno-Sakhalinsk  ;Garden Information;  Institution Code: SAKGA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Sakhalin Botanical Garden / ??????????? ???????????? ??? ??? ???; Far East Branch, Russian Academy of Sciences; Gorkogo Street, 25; Yuzhno-Sakhalinsk; Sakhalin oblast 693023 Russian Federation; ;  Telephone: +(4242)550242; Fax: +(4242) 550621; URL: <a target="_blank" href="http://botsad.ru/sakhalin.htm">http://botsad.ru/sakhalin.htm; Primary Email: sbg@sakhalin.ru ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1966
-Institution Type:	Botanic Garden
-Latitude:	46.9612
-Longitude:	142.7319
-Total Area:	40 Hectares
-Herbarium:	Yes
-Special Collections:	Rosa, Sorbus, Iris, Cactaceae, Crataegus, Cerasus. Regional flora. Ornamentals.
+0-ID: 1441
+1-Name: Sakhalin Botanical Garden / ??????????? ???????????? ??? ??? ??? 
+2-Altitude: 0.00 Metres
+2-Date founded: 1966
+2-Info:              Institution Code: SAKGA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Sakhalin Botanical Garden / ??????????? ???????????? ??? ??? ???;         Far East Branch, Russian Academy of Sciences;        Gorkogo Street, 25;        Yuzhno-Sakhalinsk;        Sakhalin oblast 693023 Russian Federation;        ;                 Telephone: +(4242)550242;         Fax: +(4242) 550621;         URL: http://botsad.ru/sakhalin.htm;         Primary Email: sbg@sakhalin.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.9612
+2-Longitude: 142.7319
+2-Total Area: 40 Hectares
+3-Herbarium: Yes
+4-Special Collections: Rosa, Sorbus, Iris, Cactaceae, Crataegus, Cerasus. Regional flora. Ornamentals.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1441">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1441">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1441">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +(4242) 550621
+9-Institution Code: SAKGA
+9-International Agenda Registration: Yes
+9-Primary Email: sbg@sakhalin.ru
+9-Telephone: +(4242)550242

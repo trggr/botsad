@@ -1,22 +1,24 @@
-ID:	682
-Name:	Memphis Botanic Garden 
-Administration Staff Number:	8
-Curator's Name:	Rick Pudwell, Director Horticulture/Outreach
-Director's Name:	Jim Duncan, Executive Director
-Educational Staff Number:	8
-Horticultural Staff Number:	20
-Info:	  United States of America - Tennessee - Memphis  ;Garden Information;  Institution Code: MEM; International Agenda Registration: No; BGCI Member: No; About the Memphis Botanic Garden If you're looking for that perfect place to stop and smell the roses, perhaps it's time you stopped by the Memphis Botanic Garden. It's your chance to experience the quiet tranquility of one of the Mid-South's finest horticultural attractions. Memphis Botanic Garden encompasses over 96 acres of sweeping vistas, lakes and woodlands, display gardens and the renowned Japanese Garden of Tranquility, the Sensory Garden and much more.; ; This community gem serves over 35,000 area children annually and sees over 150,000 visitors. We hope you stop by soon.;  Main Address:; Memphis Botanic Garden; 750 Cherry Road; Memphis; Tennessee 38117 United States of America; ;  Telephone: (901) 636-4100; Fax: (901) 682-1561; URL: <a target="_blank" href="http://www.memphisbotanicgarden.com">www.memphisbotanicgarden.com; Primary Email: Laurie.Williams@memphisbotanicgarden.com ; 
-Plant Records Officer's Name:	Laurie Williams
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1953
-Institution Type:	Botanic Garden
-Latitude:	35.1112080
-Longitude:	-89.9184380
-Total Area:	39 Hectares
-Arboretum:	Yes
-Number of Visitors:	150000
-Open to public:	Yes
-Special Collections:	Conifers, evergreen shrubs, Iris test garden (1210 taxa), rose test garden (50 taxa), hollies, magnolias, azaleas, daffodils Children's and Japanese Garden.
-Courses for General Public:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 682
+1-Name: Memphis Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1953
+2-Info:              Institution Code: MEM;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Memphis Botanic Garden        If you're looking for that perfect place to stop and smell the roses, perhaps it's time you stopped by the Memphis Botanic Garden. It's your chance to experience the quiet tranquility of one of the Mid-South's finest horticultural attractions. Memphis Botanic Garden encompasses over 96 acres of sweeping vistas, lakes and woodlands, display gardens and the renowned Japanese Garden of Tranquility, the Sensory Garden and much more.;  ;  This community gem serves over 35,000 area children annually and sees over 150,000 visitors. We hope you stop by soon.;                        Main Address:;         Memphis Botanic Garden;         750 Cherry Road;                Memphis;        Tennessee 38117 United States of America;        ;                 Telephone: (901) 636-4100;         Fax: (901) 682-1561;         URL: www.memphisbotanicgarden.com;         Primary Email: Laurie.Williams@memphisbotanicgarden.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.1112080
+2-Longitude: -89.9184380
+2-Total Area: 39 Hectares
+3-Arboretum: Yes
+3-Number of Visitors: 150000
+3-Open to public: Yes
+4-Special Collections: Conifers, evergreen shrubs, Iris test garden (1210 taxa), rose test garden (50 taxa), hollies, magnolias, azaleas, daffodils Children's and Japanese Garden.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=682">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=682">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (901) 682-1561
+9-Institution Code: MEM
+9-International Agenda Registration: No
+9-Primary Email: Laurie.Williams@memphisbotanicgarden.com
+9-Telephone: (901) 636-4100
+9-URL: www.memphisbotanicgarden.com

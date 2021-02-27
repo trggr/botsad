@@ -1,12 +1,21 @@
-ID:	4429
-Name:	International Larix Arboretum 
-Curator's Name:	David Wright, Ecologist
-Director's Name:	Elaine Kennedy Sutherland, Project Leader
-Info:	  United States of America - Montana - Hungry Horse  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the International Larix Arboretum The International Larix (larch) Arboretum was dedicated October 7, 1992 as part of; an International Larix Symposium on a 1.2-acre site, next to the headquarters of the; Coram Experimental Forest and near the Hungry Horse Ranger Station, Hungry Horse,; Montana.; Ten species of Larix from North America, Asia, and Europe, along with subspecies and; hybrids were planted. This arboretum will not only provide a visual demonstration of; Larix but is designed to provide opportunities for species comparisons and genetics; research.;  Main Address:; International Larix Arboretum; Rocky Mountain Research Station; Coram Experimental Forest; Hungry Horse; Montana 59919 United States of America; ;  Telephone: (406) 542-4181; Fax: (406) 329-2124; URL: <a target="_blank" href="http://www.fs.fed.us/rm/ecology/demo/coram/">www.fs.fed.us/rm/ecology/demo/coram/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1992
-Institution Type:	Botanic Garden
-Latitude:	48.3850810
-Longitude:	-114.0557500
-Total Area:	1 Hectares
+0-ID: 4429
+1-Name: International Larix Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1992
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the International Larix Arboretum        The International Larix (larch) Arboretum was dedicated October 7, 1992 as part of;  an International Larix Symposium on a 1.2-acre site, next to the headquarters of the;  Coram Experimental Forest and near the Hungry Horse Ranger Station, Hungry Horse,;  Montana.;  Ten species of Larix from North America, Asia, and Europe, along with subspecies and;  hybrids were planted. This arboretum will not only provide a visual demonstration of;  Larix but is designed to provide opportunities for species comparisons and genetics;  research.;                        Main Address:;         International Larix Arboretum;         Rocky Mountain Research Station;        Coram Experimental Forest;        Hungry Horse;        Montana 59919 United States of America;        ;                 Telephone: (406) 542-4181;         Fax: (406) 329-2124;         URL: www.fs.fed.us/rm/ecology/demo/coram/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.3850810
+2-Longitude: -114.0557500
+2-Total Area: 1 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4429">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4429">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4429">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4429">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4429">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (406) 329-2124
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (406) 542-4181
+9-URL: www.fs.fed.us/rm/ecology/demo/coram/

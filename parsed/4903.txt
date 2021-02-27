@@ -1,10 +1,19 @@
-ID:	4903
-Name:	Randolph College Organic Garden and Orchard 
-Curator's Name:	
-Director's Name:	-
-Info:	  United States of America - Virginia - Lynchburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Randolph College Organic Garden and Orchard; Randolph College; 2500 Rivermont Avenue; Lynchburg; Virginia 24503 United States of America; ;  Telephone: (434) 947-8000; Fax: ; URL: <a target="_blank" href="http://www.randolphcollege.edu/x17638.xml">www.randolphcollege.edu/x17638.xml; Primary Email: kbliss@randolphcollege.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.439439
-Longitude:	-79.170372
+0-ID: 4903
+1-Name: Randolph College Organic Garden and Orchard 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Randolph College Organic Garden and Orchard;         Randolph College;        2500 Rivermont Avenue;        Lynchburg;        Virginia 24503 United States of America;        ;                 Telephone: (434) 947-8000;         Fax: ;         URL: www.randolphcollege.edu/x17638.xml;         Primary Email: kbliss@randolphcollege.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.439439
+2-Longitude: -79.170372
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4903">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4903">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4903">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4903">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4903">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: kbliss@randolphcollege.edu
+9-Telephone: (434) 947-8000
+9-URL: www.randolphcollege.edu/x17638.xml

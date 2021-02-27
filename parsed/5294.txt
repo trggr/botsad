@@ -1,9 +1,18 @@
-ID:	5294
-Name:	Botanica Palm Hills 
-Curator's Name:	
-Director's Name:	
-Info:	  Egypt - Giza Governorate  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanica Palm Hills; Palm Hills; 6th of October City; Giza Governorate; Egypt; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ja_sci@yahoo.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	29.9990874
-Longitude:	31.0240178
+0-ID: 5294
+1-Name: Botanica Palm Hills 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Botanica Palm Hills;         Palm Hills;        6th of October City;        Giza Governorate;        Egypt;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: ja_sci@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.9990874
+2-Longitude: 31.0240178
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5294">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5294">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5294">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5294">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5294">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ja_sci@yahoo.com
+9-Telephone: 
+9-URL: 

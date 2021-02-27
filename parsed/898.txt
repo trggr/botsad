@@ -1,11 +1,19 @@
-ID:	898
-Name:	Darjeeling Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Darjeeling  ;Garden Information;  Institution Code: DARJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Darjeeling Botanic Garden; Department of Botany, Darjeeling Government College, DARJEELING 734 101, West Bengal, India.; Darjeeling; India; ;  Telephone: 2019; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1948
-Institution Type:	Botanic Garden
-Latitude:	27.0399
-Longitude:	88.2636
-Special Collections:	Acanthaceae, Betulaceae, Saxifragaceae, Solanaceae, Rosaceae, Ericaceae, foliage plants, temperate and subtropical Himalayan spp.
+0-ID: 898
+1-Name: Darjeeling Botanic Garden 
+2-Date founded: 1948
+2-Info:              Institution Code: DARJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Darjeeling Botanic Garden;         Department of Botany,  Darjeeling Government College,  DARJEELING 734 101,  West Bengal,  India.;                Darjeeling;        India;        ;                 Telephone: 2019;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 27.0399
+2-Longitude: 88.2636
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=898">Please click here if you can update us</a>
+4-Special Collections: Acanthaceae, Betulaceae, Saxifragaceae, Solanaceae, Rosaceae, Ericaceae, foliage plants, temperate and subtropical Himalayan spp.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=898">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=898">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=898">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DARJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 2019
+9-URL: 

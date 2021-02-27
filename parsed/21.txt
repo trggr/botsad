@@ -1,11 +1,19 @@
-ID:	21
-Name:	Botanical Garden Komarov, Herbarium & Baku Botanical Institute 
-Curator's Name:	
-Director's Name:	Dr. A.A.Bairamov
-Info:	  Azerbaijan - Baku  ;Garden Information;  Institution Code: BAK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden Komarov, Herbarium & Baku Botanical Institute; Potamdarskoye Avenue 40370073; Baku; AZ1073 Azerbaijan; ;  Telephone: 994 12 393380; Fax: 994 12 393380; URL: <a target="_blank" href="http://">; Primary Email: alizade@artel.net.az ; 
-Plant Records Officer's Name:	
-Date founded:	1931
-Institution Type:	Botanic Garden
-Latitude:	40.3834
-Longitude:	49.8932
-Special Collections:	Mediterranean flora, Middle Asia plants, N. American flora, Caucasian flora. Crataegus, Cotoneaster, Rosa, Berberis, Pinus, Malus, Cupressus.
+0-ID: 21
+1-Name: Botanical Garden Komarov, Herbarium & Baku Botanical Institute 
+2-Date founded: 1931
+2-Info:              Institution Code: BAK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden Komarov, Herbarium & Baku Botanical Institute;         Potamdarskoye Avenue 40370073;                Baku;        AZ1073 Azerbaijan;        ;                 Telephone: 994 12 393380;         Fax: 994 12 393380;         URL: ;         Primary Email: alizade@artel.net.az       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.3834
+2-Longitude: 49.8932
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=21">Please click here if you can update us</a>
+4-Special Collections: Mediterranean flora, Middle Asia plants, N. American flora, Caucasian flora. Crataegus, Cotoneaster, Rosa, Berberis, Pinus, Malus, Cupressus.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=21">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=21">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=21">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 994 12 393380
+9-Institution Code: BAK
+9-International Agenda Registration: No
+9-Primary Email: alizade@artel.net.az
+9-Telephone: 994 12 393380
+9-URL: 

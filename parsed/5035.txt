@@ -1,9 +1,18 @@
-ID:	5035
-Name:	The American School of Kinshasa 
-Curator's Name:	
-Director's Name:	Scott Shannon, President
-Info:	  Democratic Republic of the Congo (formerly Zaire) - Kinshasa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The American School of Kinshasa; 51 Route de Matadi; Ngaliema; Kinshasa; Democratic Republic of the Congo (formerly Zaire); ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: nbarratt@tasok.net ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-4.4217505
-Longitude:	15.2586913
+0-ID: 5035
+1-Name: The American School of Kinshasa 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The American School of Kinshasa;         51 Route de Matadi;        Ngaliema;        Kinshasa;        Democratic Republic of the Congo (formerly Zaire);        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: nbarratt@tasok.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -4.4217505
+2-Longitude: 15.2586913
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5035">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5035">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5035">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5035">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5035">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: nbarratt@tasok.net
+9-Telephone: 
+9-URL: 

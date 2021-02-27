@@ -1,9 +1,17 @@
-ID:	5326
-Name:	Rollins College Hauck Research Center 
-Curator's Name:	
-Director's Name:	Alan Chryst, Greenhouse Manager
-Info:	  United States of America - Florida - Winter Park  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Rollins College Hauck Research Center; 1000 Holt Avenue - 2743; Winter Park; Florida 32789 United States of America; ;  Telephone: 407.646.2399; Fax: ; URL: <a target="_blank" href="https://www.rollins.edu/greenhouse/index.html">https://www.rollins.edu/greenhouse/index.html; Primary Email: achryst@rollins.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	28.592368
-Longitude:	-81.348641
+0-ID: 5326
+1-Name: Rollins College Hauck Research Center 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Rollins College Hauck Research Center;         1000 Holt Avenue - 2743;                Winter Park;        Florida 32789 United States of America;        ;                 Telephone: 407.646.2399;         Fax: ;         URL: https://www.rollins.edu/greenhouse/index.html;         Primary Email: achryst@rollins.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.592368
+2-Longitude: -81.348641
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5326">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5326">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5326">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5326">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5326">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: achryst@rollins.edu
+9-Telephone: 407.646.2399

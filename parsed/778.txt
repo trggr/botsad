@@ -1,10 +1,19 @@
-ID:	778
-Name:	Jevremovac Botanical Garden 
-Curator's Name:	Prof. Vladimir Stevanovic
-Director's Name:	Prof. Radomir Konjevic
-Info:	  Serbia - Belgrade  ;Garden Information;  Institution Code: BEOGR; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jevremovac Botanical Garden; Botanical Institute and Botanic Garden; Takovska 43; Belgrade; 11000 Serbia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	44.814476
-Longitude:	20.473282
+0-ID: 778
+1-Name: Jevremovac Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BEOGR;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Jevremovac Botanical Garden;         Botanical Institute and Botanic Garden;        Takovska 43;        Belgrade;        11000 Serbia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.814476
+2-Longitude: 20.473282
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=778">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=778">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=778">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=778">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=778">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: BEOGR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

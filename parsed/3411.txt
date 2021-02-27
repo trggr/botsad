@@ -1,11 +1,19 @@
-ID:	3411
-Name:	Altai State University Botanic Garden / ????????? ??????????????? ??????????? 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Russian Federation - Atlai krai - Barnaul  ;Garden Information;  Institution Code: ALTAI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Altai State University Botanic Garden / ????????? ??????????????? ???????????; Dmitrova Street 66656099; Barnaul; Atlai krai Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	53.3563
-Longitude:	83.7616
-Special Collections:	No information available.
+0-ID: 3411
+1-Name: Altai State University Botanic Garden / ????????? ??????????????? ??????????? 
+2-Date founded: 
+2-Info:              Institution Code: ALTAI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Altai State University Botanic Garden / ????????? ??????????????? ???????????;         Dmitrova Street 66656099;                Barnaul;        Atlai krai Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 53.3563
+2-Longitude: 83.7616
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3411">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3411">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3411">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3411">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ALTAI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

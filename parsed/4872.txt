@@ -1,12 +1,21 @@
-ID:	4872
-Name:	Songsan Arboretum 
-Curator's Name:	Sang-Hee Kim
-Director's Name:	Goong-Chang Nam
-Info:	  South Korea - Seoul  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Songsan Arboretum; 19-53 Okyin-dong, Jongno-gu; Seoul; 110-035 South Korea; ;  Telephone: 02-734-7474; Fax: 02-734-7676; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.69093
-Local Address:	종로구 옥인동 19-53번지
-Locality:	Information
-Longitude:	126.75402
+0-ID: 4872
+1-Name: Songsan Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Songsan Arboretum;         19-53 Okyin-dong, Jongno-gu;                Seoul;        110-035 South Korea;        ;                 Telephone: 02-734-7474;         Fax: 02-734-7676;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.69093
+2-Local Address: 종로구 옥인동 19-53번지
+2-Locality: Information
+2-Longitude: 126.75402
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4872">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4872">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4872">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4872">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4872">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 02-734-7676
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 02-734-7474
+9-URL: 

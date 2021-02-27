@@ -1,11 +1,19 @@
-ID:	519
-Name:	The Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr. T. Tsujii
-Info:	  Japan - Sapporo  ;Garden Information;  Institution Code: SAPPO; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanic Garden; Faculty of Agriculture, Hokkaido University, N-3, W-8, Chuo-Ku, SAPPORO 060, Japan.; Sapporo; Japan; ;  Telephone: 011 221 0066; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	43.0637
-Longitude:	141.3580
-Special Collections:	Collections - South-eastern Asia, North America, Eurosiberian, native flora.
+0-ID: 519
+1-Name: The Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: SAPPO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Botanic Garden;         Faculty of Agriculture,  Hokkaido University, N-3, W-8, Chuo-Ku,  SAPPORO 060,  Japan.;                Sapporo;        Japan;        ;                 Telephone: 011 221 0066;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.0637
+2-Longitude: 141.3580
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=519">Please click here if you can update us</a>
+4-Special Collections: Collections - South-eastern Asia, North America, Eurosiberian, native flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=519">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=519">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=519">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SAPPO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 011 221 0066
+9-URL: 

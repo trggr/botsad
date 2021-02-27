@@ -1,23 +1,25 @@
-ID:	295
-Name:	Townsville Botanic Gardens 
-Administration Staff Number:	
-Curator's Name:	-
-Director's Name:	-
-Educational Staff Number:	
-Horticultural Staff Number:	12
-Info:	  Australia - Queensland - Townsville  ;Garden Information;  Institution Code: TOWVL; International Agenda Registration: No; BGCI Member: No; About the Townsville Botanic Gardens Three Botanic Gardens comprising the Townsville Palmetum, Queens Gardens and Anderson Botanic Gardens.;  Main Address:; Townsville Botanic Gardens; Mailing: Townsville City Council, P.O. Box 1268; Townsville; Queensland 4810 Australia; ;  Telephone: 61 (0)7-4727 8343; Fax: 61 (0)7-4727 8929; URL: <a target="_blank" href="http://www.townsville.qld.gov.au/facilities/parks/gardens/pages/default.aspx">http://www.townsville.qld.gov.au/facilities/parks/gardens/pages/default.aspx; Primary Email: enquiries@townsville.qld.gov.au ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	-19.2903136
-Local Address:	Anderson Botanic Gardens, Gulliver Street Queens Gardens, Gregory and Paxton Street Townsville Palmetum, University Road
-Locality:	Information
-Longitude:	146.7820733
-Satellite Garden Names:	Anderson Botanic Gardens Queens Gardens Townsville Palmetum
-Total Area:	51 Hectares
-Computer Plant Record System:	Yes
-Open to public:	Yes
-Special Collections:	Aracaceae, Pandanaceae, Zingiberaceae, SGAP gardens, Herb Society gardens, bromeliads.
-Education Booklets/Leaflets:	Yes
+0-ID: 295
+1-Name: Townsville Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1969
+2-Info:              Institution Code: TOWVL;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Townsville Botanic Gardens        Three Botanic Gardens comprising the Townsville Palmetum, Queens Gardens and Anderson Botanic Gardens.;                        Main Address:;         Townsville Botanic Gardens;                 Mailing: Townsville City Council, P.O. Box 1268;        Townsville;        Queensland 4810 Australia;        ;                 Telephone: 61 (0)7-4727 8343;         Fax: 61 (0)7-4727 8929;         URL: http://www.townsville.qld.gov.au/facilities/parks/gardens/pages/default.aspx;         Primary Email: enquiries@townsville.qld.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -19.2903136
+2-Local Address: Anderson Botanic Gardens, Gulliver Street Queens Gardens, Gregory and Paxton Street Townsville Palmetum, University Road
+2-Locality: Information
+2-Longitude: 146.7820733
+2-Satellite Garden Names: Anderson Botanic Gardens Queens Gardens Townsville Palmetum
+2-Total Area: 51 Hectares
+3-Computer Plant Record System: Yes
+3-Open to public: Yes
+4-Special Collections: Aracaceae, Pandanaceae, Zingiberaceae, SGAP gardens, Herb Society gardens, bromeliads.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=295">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=295">Please click here if you can update us</a>
+7-Education Booklets/Leaflets: Yes
+9-BGCI Member: No
+9-Fax: 61 (0)7-4727 8929
+9-Institution Code: TOWVL
+9-International Agenda Registration: No
+9-Mailing: Townsville City Council, P.O. Box 1268
+9-Primary Email: enquiries@townsville.qld.gov.au
+9-Telephone: 61 (0)7-4727 8343

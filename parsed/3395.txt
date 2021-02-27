@@ -1,19 +1,27 @@
-ID:	3395
-Name:	Rhododendron Species Foundation and Botanical Garden 
-Curator's Name:	Steve Hootman
-Director's Name:	Steve Hootman, Executive Director and Curator
-Info:	  United States of America - Washington - Federal Way  ;Garden Information;  Institution Code: RWA; International Agenda Registration: No; BGCI Member: Yes; About the Rhododendron Species Foundation and Botanical Garden The Rhododendron Species Foundation is a non-profit organization dedicated to the conservation, research, acquisition, evaluation, cultivation, public display, and distribution of Rhododendron species.;  Main Address:; Rhododendron Species Foundation and Botanical Garden; 2525 South 336th Street; Mailing: P.O. Box 3798, Federal Way, WA 98063; Federal Way; Washington 98003 United States of America; ;  Telephone: (253) 838-4646; Fax: (253) 838-4686; URL: <a target="_blank" href="http://www.rhodygarden.org">www.rhodygarden.org; Primary Email: steve@rhodygarden.org ; 
-Plant Records Officer's Name:	Atsuko Gibson, Horticultural Assistant
-Altitude:	0.00 Metres
-Date founded:	1993
-Institution Type:	Botanic Garden
-Latitude:	47.2936670
-Longitude:	-122.3022400
-Total Area:	9 Hectares
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	1700
-Special Collections:	Rhododendron (475 spp., 1,700 taxa) - native to temperate and tropical regions.
+0-ID: 3395
+1-Name: Rhododendron Species Foundation and Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1993
+2-Info:              Institution Code: RWA;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Rhododendron Species Foundation and Botanical Garden        The Rhododendron Species Foundation is a non-profit organization dedicated to the conservation, research, acquisition, evaluation, cultivation, public display, and distribution of Rhododendron species.;                        Main Address:;         Rhododendron Species Foundation and Botanical Garden;         2525 South 336th Street;        Mailing: P.O. Box 3798, Federal Way, WA 98063;        Federal Way;        Washington 98003 United States of America;        ;                 Telephone: (253) 838-4646;         Fax: (253) 838-4686;         URL: www.rhodygarden.org;         Primary Email: steve@rhodygarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.2936670
+2-Longitude: -122.3022400
+2-Total Area: 9 Hectares
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 1700
+4-Special Collections: Rhododendron (475 spp., 1,700 taxa) - native to temperate and tropical regions.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3395">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3395">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3395">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (253) 838-4686
+9-Institution Code: RWA
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 3798, Federal Way, WA 98063
+9-Primary Email: steve@rhodygarden.org
+9-Telephone: (253) 838-4646
+9-URL: www.rhodygarden.org

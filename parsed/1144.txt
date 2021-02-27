@@ -1,11 +1,19 @@
-ID:	1144
-Name:	Khakas Arboretum 
-Curator's Name:	
-Director's Name:	Director
-Info:	  Russian Federation - Zelenoye  ;Garden Information;  Institution Code: ZELEN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Khakas Arboretum; Khakas Experimental Station of Agriculture, Khakas Autonomous Region, Prov. Krasnojarskij, 662632; Zelenoye; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	47.1599
-Longitude:	34.2800
-Special Collections:	Salix, Rosa, Syringa, Philadelphus, Ribes, Spiraea, Betula, Lonicera
+0-ID: 1144
+1-Name: Khakas Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: ZELEN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Khakas Arboretum;         Khakas Experimental Station of Agriculture, Khakas Autonomous Region, Prov. Krasnojarskij, 662632;                Zelenoye;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.1599
+2-Longitude: 34.2800
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1144">Please click here if you can update us</a>
+4-Special Collections: Salix, Rosa, Syringa, Philadelphus, Ribes, Spiraea, Betula, Lonicera
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1144">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1144">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1144">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ZELEN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,29 +1,34 @@
-ID:	1408
-Name:	Górski Ogród Botaniczny Instytutu Ochrony Przyrody PAN (Mountain Botanical Garden) 
-Fax:	
-Info:	  Poland - małopolskie - Zakopane  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Telephone:	+48 18 2012651
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Paweł Olejniczak PhD
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	1887
-Institution Type:	Botanic Garden
-Latitude:	49.2991
-Longitude:	19.9495
-Arboretum:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	400
-Seed Bank:	Yes
-Cultivation Taxa Num:	600
-Special Collections:	Saxifraga and Gentiana, fern collection, seed collection ca.1000species
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Education:	Yes
+0-ID: 1408
+1-Name: Górski Ogród Botaniczny Instytutu Ochrony Przyrody PAN (Mountain Botanical Garden) 
+2-Administration Staff Number: 1
+2-Curator's Name: 
+2-Director's Name: Paweł Olejniczak PhD
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/1408/Górski Ogród Botaniczny w Zakopanem.JPG" alt="" />         </div>        </div>                                    Main Address:;         Górski Ogród Botaniczny Instytutu Ochrony Przyrody PAN (Mountain Botanical Garden);         ul. Krupowki 10A;                Zakopane;        małopolskie 34-500 Poland;        ;                 Telephone: +48 18 2012651;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 1
+3-Altitude: 0.00 Metres
+3-Date founded: 1887
+3-Institution Type: Botanic Garden
+3-Latitude: 49.2991
+3-Longitude: 19.9495
+4-Arboretum: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 400
+4-Seed Bank: Yes
+5-Cultivation Taxa Num: 600
+5-Special Collections: Saxifraga and Gentiana, fern collection, seed collection ca.1000species
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Education: Yes
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=1408">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +48 18 2012651
+9-URL: 

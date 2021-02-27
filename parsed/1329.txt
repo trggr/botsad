@@ -1,11 +1,19 @@
-ID:	1329
-Name:	Botanical Garden of Medicinal Plants 'Fran Kusan' 
-Curator's Name:	
-Director's Name:	Dario Kremer
-Info:	  Croatia - Croatia - Zagreb  ;Garden Information;  Institution Code: ZAGMP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of Medicinal Plants 'Fran Kusan'; Faculty of Pharmacy & Biochemistry, University of Zagreb; Schrotova 39; Zagreb; Croatia 10000 Croatia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: dkremer@pharma.hr ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	45.8150
-Longitude:	15.9785
-Special Collections:	Native plants, medicinal plants, rock plants, trees, shrubs and herbaceous plants.
+0-ID: 1329
+1-Name: Botanical Garden of Medicinal Plants 'Fran Kusan' 
+2-Date founded: 
+2-Info:              Institution Code: ZAGMP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden of Medicinal Plants 'Fran Kusan';         Faculty of Pharmacy & Biochemistry, University of Zagreb;        Schrotova 39;        Zagreb;        Croatia 10000 Croatia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: dkremer@pharma.hr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.8150
+2-Longitude: 15.9785
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1329">Please click here if you can update us</a>
+4-Special Collections: Native plants, medicinal plants, rock plants, trees, shrubs and herbaceous plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1329">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1329">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1329">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ZAGMP
+9-International Agenda Registration: No
+9-Primary Email: dkremer@pharma.hr
+9-Telephone: 
+9-URL: 

@@ -1,43 +1,42 @@
-ID:	2522
-Name:	Jardín Botánico Xochitla 
-Administration Staff Number:	1
-Curator's Name:	S. Nayeli González Mateos
-Director's Name:	H. Lorena Martínez González
-Educational Staff Number:	3
-Horticultural Staff Number:	11
-Info:	  Mexico - Mexico - Tepotzotlán  ;Garden Information;  Institution Code: XOC; International Agenda Registration: Yes; BGCI Member: Yes; About the Jardín Botánico Xochitla JARDÍN BOTÁNICO DE LA FUNDACIÓN XOCHITLA, A. C.; La creación de este espacio de 18 hectáreas tiene como reto, desarrollar una cantidad importante de especies arbóreas, arbustivas, herbáceas y plantas acuáticas tanto del Valle de México como de la Meseta Central del país con fines de conservación, educativos, recreativos y científicos. Actualmente la colección botánica del JBFX considera una colección de árboles de zonas templadas llamado Arboretum y el Jardín de Plantas Acuáticas, una colección de plantas acuáticas. Asimismo se realizan diversas investigaciones que incrementan el conocimiento de la biología de las especies contribuyendo así a la sensibilización y divulgación de los recursos florísticos de México. Para lograr la conformación del JBFX a partir de 1997, la institución se integra a la Asociación Mexicana de Jardines Botánicos, A. C. (AMJB) y obtiene el registro como miembro consultor iniciando así las actividades a favor de la conservación de especies. ; ; ARBORETUM; Dada la importancia de contar en la zona metropolitana de la Ciudad de México con un área verde urbana donde pueda estar representada la diversidad de especies arbóreas de clima templado de nuestro país, Xochitla inició en 1999 la creación del Arboretum en una extensión de 18 hectáreas en la cual están presentes 25 especies de árboles, pertenecientes a 10 géneros, siendo Quercus y Pinus los más representados. ; ; Los objetivos de esta colección son:; 1. Ser un espacio donde se establezca una diversidad importante de especies arbóreas nativas propias de clima templado y árido a fin de mostrar su importancia ambiental o cultural para el ser humano.; 2. Fomentar estudios y proyectos científicos en torno a la flora arbórea.; 3. Difundir el conocimiento, importancia de los árboles, sus funciones y sus beneficios ambientales.; 4. Conformar un espacio arbolado de gran calidad estética, integrado a las condiciones paisajistas de la región, que representa una aportación a la consolidación de las áreas verdes de Xochitla.; 5. Ser un área donde se fomenten nuevas oportunidades recreativas y donde un componente importante es la educación ambiental y la sensibilización a la naturaleza; ; Desde el 2001, se ha evaluado anualmente el desarrollo de los árboles a través de inventarios en donde se analiza la sobrevivencia y crecimiento de los árboles así como estado fitosanitarios del individuo. Esto ha permitido realizar un diagnostico de las necesidades más urgentes y de las mejoras en el mantenimiento de estos árboles para garantizar su óptimo desarrollo. Los resultados muestran que de 802 árboles plantados en el periodo 1999-2004, ha sobrevivido el 65.08% que equivale a 522 árboles los cuales presentan características físicas y sanitarias entre buenas y regulares afectados principalmente por la presencia de insectos, malezas, daños ambientales y antropogénicos. El incremento en el crecimiento va desde el 4.1% en Cupressus guadalupensis, siendo este el más bajo, hasta 252% en el caso Quercus crassipes, especie que presentó el mayor crecimiento. El desarrollo óptimo de los árboles requiere de mantenimiento continuo, por lo que se trabaja en fertilización, poda, control de plagas y enfermedades, además de mejora de las condiciones del suelo.;  Main Address:; Jardín Botánico Xochitla; Carretera Circunvalación s/n; A.P. 44; Tepotzotlán; Mexico 54600 Mexico; ;  Telephone: + (52) 58 99 66 00 Ext. 2040; Fax: + (52) 58 99 66 16; URL: <a target="_blank" href="http://www.eluniversaldiario.info">http://www.eluniversaldiario.info; Primary Email: lmartinez@xochitla.org.mx ; 
-Plant Records Officer's Name:	Mónica López Hernández
-Research Staff Number:	2
-Altitude:	2266.00 Metres
-Annual Rainfall:	700 mm
-Date founded:	1999
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	19.4438
-Local Address:	Carretera Circunvalaci髇 Cuautitl醤-Tepotzotl醤 S/N Tepotzotl醤, Estado de M閤ico. CP 54600
-Locality:	Information
-Longitude:	-99.2475
-Total Area:	18 Hectares
-Arboretum:	Yes
-Arboretum Size:	9
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Seed Bank:	Yes
-Accession Number:	155
-Cultivation Taxa Num:	25
-Desde 2001, se han colectado, propagado y plantado 17 especies acuáticas, de las cuales 10 se han propagado en condiciones de invernadero, tales como:	Bacopa monnieri, Berula erecta, Equisetum hyemale, Nymphoides fallax, Hydrocotyle ranunculoides, Hydromistria laevigata, Lobelia cardinalis, Nymphaea gracilis, N. mexicana, N. odorata, Rorippa nasturium acuaticum, Thalia geniculata y Sagittaria macrophylla. Otras 4 especies se han plantado directamente en el lago (Typha latiofolia, T. domingensis, y dos especies del género Schoenoplectus). En octubre de 2005 se inauguró oficialmente el Jardín de Plantas Acuáticas, el cual puede ser visitado en un recorrido programado con el área de Servicios Educativos. Las actividades educativas promueven el reconocimiento de la vegetación acuática para motivar el rescate y valoración de la sabiduría y sensibilidad que en el pasado los habitantes del gran lago de México demostraron para vivir, aprovechar y disfrutar de los recursos y el paisaje lacustre.Arboretum, Jardín de Plantas Acuáticas, Especies nativas de la Sierra de Tepotzotlán
-Special Collections:	JARDÍN DE PLANTAS ACUÁTICAS XOCHITLA
-Ex Situ Conservation Programme:	Yes
-Conservation - Biology:	Yes
-Education:	Yes
-Horticulture:	Yes
-Seed/Spore Biology:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2522
+1-Name: Jardín Botánico Xochitla 
+2-Altitude: 2266.00 Metres
+2-Annual Rainfall: 700 mm
+2-Date founded: 1999
+2-Info:              Institution Code: XOC;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Jardín Botánico Xochitla        JARDÍN BOTÁNICO DE LA FUNDACIÓN XOCHITLA, A. C.;  La creación de este espacio de 18 hectáreas tiene como reto, desarrollar una cantidad importante de especies arbóreas, arbustivas, herbáceas y plantas acuáticas tanto del Valle de México como de la Meseta Central del país con fines de conservación, educativos, recreativos y científicos. Actualmente la colección botánica del JBFX considera una colección de árboles de zonas templadas llamado Arboretum y el Jardín de Plantas Acuáticas,  una colección de plantas acuáticas. Asimismo se realizan diversas investigaciones que incrementan el conocimiento de la biología de las especies contribuyendo así a la sensibilización y divulgación de los recursos florísticos de México. Para lograr la conformación del JBFX a partir de 1997, la institución se integra a la Asociación Mexicana de Jardines Botánicos, A. C. (AMJB) y obtiene el registro como miembro consultor iniciando así las actividades a favor de la conservación de especies. ;  ;  ARBORETUM;  Dada la importancia de contar en la zona metropolitana de la Ciudad de México con un área verde urbana donde pueda estar representada la diversidad de especies arbóreas de clima templado de nuestro país, Xochitla inició en 1999 la creación del Arboretum en una extensión de 18 hectáreas en la cual están presentes 25 especies de árboles, pertenecientes a 10 géneros, siendo  Quercus y Pinus los más representados. ;  ;  Los objetivos de esta colección son:;  1. Ser un espacio donde se establezca una diversidad importante de especies arbóreas nativas propias de clima templado y árido a fin de mostrar su importancia ambiental o cultural para el ser humano.;  2. Fomentar estudios y proyectos científicos en torno a la flora arbórea.;  3. Difundir el conocimiento, importancia de los árboles, sus funciones y sus beneficios ambientales.;  4. Conformar un espacio arbolado de gran calidad estética, integrado a las condiciones paisajistas de la región, que representa una aportación a la consolidación de las áreas verdes de Xochitla.;  5. Ser un área donde se fomenten nuevas oportunidades recreativas y donde un componente importante es la educación ambiental y la sensibilización a la naturaleza;  ;  Desde el 2001, se ha evaluado anualmente el desarrollo de los árboles a través de inventarios en donde se analiza la sobrevivencia y crecimiento de los árboles así como estado fitosanitarios del individuo. Esto ha permitido realizar un diagnostico de las necesidades más urgentes y de las mejoras en el mantenimiento de estos árboles para garantizar su óptimo desarrollo. Los resultados muestran que de  802 árboles plantados en el periodo 1999-2004, ha sobrevivido el 65.08% que equivale a 522 árboles los cuales presentan características físicas y sanitarias entre buenas y regulares afectados principalmente por la presencia de insectos, malezas, daños ambientales y antropogénicos. El incremento en el  crecimiento va desde el  4.1% en Cupressus guadalupensis, siendo este el más bajo, hasta 252% en el caso Quercus crassipes, especie que presentó el mayor crecimiento. El desarrollo óptimo de los árboles  requiere de mantenimiento continuo, por lo que se trabaja en fertilización, poda, control de plagas y enfermedades, además de mejora de las condiciones del suelo.;                        Main Address:;         Jardín Botánico Xochitla;         Carretera Circunvalación s/n;        A.P. 44;        Tepotzotlán;        Mexico 54600 Mexico;        ;                 Telephone: + (52) 58 99 66 00 Ext. 2040;         Fax: + (52) 58 99 66 16;         URL: http://www.eluniversaldiario.info;         Primary Email: lmartinez@xochitla.org.mx       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 19.4438
+2-Local Address: Carretera Circunvalaci髇 Cuautitl醤-Tepotzotl醤 S/N Tepotzotl醤, Estado de M閤ico. CP 54600
+2-Locality: Information
+2-Longitude: -99.2475
+2-Total Area: 18 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 9
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Accession Number: 155
+4-Cultivation Taxa Num: 25
+4-Desde 2001, se han colectado, propagado y plantado 17 especies acuáticas, de las cuales 10 se han propagado en condiciones de invernadero, tales como: Bacopa monnieri, Berula erecta, Equisetum hyemale, Nymphoides fallax, Hydrocotyle ranunculoides, Hydromistria laevigata, Lobelia cardinalis, Nymphaea gracilis, N. mexicana, N. odorata, Rorippa nasturium acuaticum, Thalia geniculata y Sagittaria macrophylla. Otras 4 especies se han plantado directamente en el lago (Typha latiofolia, T. domingensis, y dos especies del género Schoenoplectus). En octubre de 2005 se inauguró oficialmente el Jardín de Plantas Acuáticas, el cual puede ser visitado en un recorrido programado con el área de Servicios Educativos. Las actividades educativas promueven el reconocimiento de la vegetación acuática para motivar el rescate y valoración de la sabiduría y sensibilidad que en el pasado los habitantes del gran lago de México demostraron para vivir, aprovechar y disfrutar de los recursos y el paisaje lacustre.Arboretum, Jardín de Plantas Acuáticas, Especies nativas de la Sierra de Tepotzotlán
+4-Special Collections: JARDÍN DE PLANTAS ACUÁTICAS XOCHITLA
+5-Ex Situ Conservation Programme: Yes
+6-Conservation - Biology: Yes
+6-Education: Yes
+6-Horticulture: Yes
+6-Seed/Spore Biology: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: + (52) 58 99 66 16
+9-Institution Code: XOC
+9-International Agenda Registration: Yes
+9-Primary Email: lmartinez@xochitla.org.mx
+9-Telephone: + (52) 58 99 66 00 Ext. 2040

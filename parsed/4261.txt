@@ -1,13 +1,21 @@
-ID:	4261
-Name:	Foxfire Botanical Gardens 
-Curator's Name:	
-Director's Name:	Linda Schulte, Managing Director and Co-Creator of Foxfire
-Info:	  United States of America - Wisconsin - Marshfield  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Foxfire Botanical Gardens; M220 Sugar Bush Lane; Marshfield; Wisconsin 54449 United States of America; ;  Telephone: (715) 387-3050; Fax: (715) 387-3050; URL: <a target="_blank" href="http://www.foxfiregardens.com">www.foxfiregardens.com; Primary Email: foxfiregardens@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1985
-Institution Type:	Botanic Garden
-Latitude:	44.7354570
-Longitude:	-90.1677040
-Number of Visitors:	15000
-Open to public:	Yes
+0-ID: 4261
+1-Name: Foxfire Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1985
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Foxfire Botanical Gardens;         M220 Sugar Bush Lane;                Marshfield;        Wisconsin 54449 United States of America;        ;                 Telephone: (715) 387-3050;         Fax: (715) 387-3050;         URL: www.foxfiregardens.com;         Primary Email: foxfiregardens@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.7354570
+2-Longitude: -90.1677040
+3-Number of Visitors: 15000
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4261">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4261">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4261">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4261">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (715) 387-3050
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: foxfiregardens@gmail.com
+9-Telephone: (715) 387-3050
+9-URL: www.foxfiregardens.com

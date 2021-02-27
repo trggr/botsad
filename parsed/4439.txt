@@ -1,10 +1,18 @@
-ID:	4439
-Name:	Prairie Garden Trust 
-Curator's Name:	
-Director's Name:	Lorna and Henry Domke, Co-Directors
-Info:	  United States of America - Missouri - New Bloomfield  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Prairie Garden Trust; 3914 Foxdale Road; New Bloomfield; Missouri 65063 United States of America; ;  Telephone: (573) 295-6349; Fax: ; URL: <a target="_blank" href="http://www.prairiegardentrust.org">www.prairiegardentrust.org; Primary Email: info@prairiegardentrust.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.7203170
-Longitude:	-92.0912960
-Reintroduction Programme:	No
+0-ID: 4439
+1-Name: Prairie Garden Trust 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Prairie Garden Trust;         3914 Foxdale Road;                New Bloomfield;        Missouri 65063 United States of America;        ;                 Telephone: (573) 295-6349;         Fax: ;         URL: www.prairiegardentrust.org;         Primary Email: info@prairiegardentrust.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.7203170
+2-Longitude: -92.0912960
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4439">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4439">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4439">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4439">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@prairiegardentrust.org
+9-Telephone: (573) 295-6349
+9-URL: www.prairiegardentrust.org

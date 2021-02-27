@@ -1,12 +1,20 @@
-ID:	3044
-Name:	Zhejiang Bamboo Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Zhejiang - Hangzhou  ;Garden Information;  Institution Code: ZHEJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Zhejiang Bamboo Botanical Garden; Zhejiang Institute of Forestry Sciences, Liuxia, Western Suburbs, Hangzhou, Zhejiang, 310023, China; Hangzhou; Zhejiang China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1985
-Institution Type:	Botanic Garden
-Latitude:	30.2722
-Local Address:	中国浙江省杭州市西郊留下浙江林业科学院，邮编 310023
-Locality:	Information
-Longitude:	120.1708
+0-ID: 3044
+1-Name: Zhejiang Bamboo Botanical Garden 
+2-Date founded: 1985
+2-Info:              Institution Code: ZHEJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Zhejiang Bamboo Botanical Garden;         Zhejiang Institute of Forestry Sciences, Liuxia, Western Suburbs, Hangzhou, Zhejiang, 310023, China;                Hangzhou;        Zhejiang China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.2722
+2-Local Address: 中国浙江省杭州市西郊留下浙江林业科学院，邮编 310023
+2-Locality: Information
+2-Longitude: 120.1708
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3044">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3044">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3044">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3044">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ZHEJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

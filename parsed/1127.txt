@@ -1,10 +1,19 @@
-ID:	1127
-Name:	Arboretum NPO 
-Curator's Name:	
-Director's Name:	
-Info:	  Moldova - Kishinev  ;Garden Information;  Institution Code: KISHA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum NPO; Dunajevskogo 5, 277039 KISHINEV, Moldova; Kishinev; Moldova; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	47.0167
-Longitude:	28.8497
+0-ID: 1127
+1-Name: Arboretum NPO 
+2-Date founded: 
+2-Info:              Institution Code: KISHA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum NPO;         Dunajevskogo 5, 277039 KISHINEV,  Moldova;                Kishinev;        Moldova;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.0167
+2-Longitude: 28.8497
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1127">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1127">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1127">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1127">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1127">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KISHA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

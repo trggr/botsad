@@ -1,33 +1,38 @@
-ID:	1123
-Name:	Botanic Garden of Tver State University 
-Curator's Name:	
-Director's Name:	Dr Yuri Naumtsev
-Info:	  Russian Federation - Tver  ;Garden Information;  Institution Code: TVER; International Agenda Registration: Yes; BGCI Member: Yes; About the Botanic Garden of Tver State University The Botanic Garden of Tver State University is situated at the meeting place of the Volga and Tvertza rivers. It is one of the main green spaces of Tver. Many centuries ago the territory of the Garden belonged to Otroch monastery - the oldest settlement of the town of Tver. The area was occupied by Zavolzhsky trading quarter. The history of the garden goes back to 1879 when Ilia Ivanovich Bobrov, a merchant of the first guild, an honary citizen of the town, planted a small private garden. Some of the trees planted at that time have been preserved till now. Subsequently the garden passed into the hands of Leonid Antonovich Kolakovsky, a teacher of Sciences of Tver State Modern School. He managed to accumulate a rather interesting collection of tree and shrub species at the small territory of 1,5 ha.; After the October Revolution the garden passed under charge of municipal department of public education and was used as a leisure activity center for children. In 1939 the Garden was affiliated to the Pedagogical Institute. The main planting occured between 1939 and 1941 but a great number of plants disappeared during Word War. ; Since 1949 the garden had been reconstructed according to the programme developed by M.L.Nevsky. The programme was centered around educational issues and popularization of plant introduction and acclimatization experiments. ; In 1971 Tver State University, the former Pedagogical Institute, refused to support the garden and the garden passed to municipal plant-growing holding. The smaller part of the living collections was moved to the agro-biological station of Tver State University. In the 1970s and 1980s the garden was neglected. Research and educational activities were not performed and the garden became a recreation center. The largest part of the living collections perished, only few tree specimens were preserved. There were only 3 members on staff and no wonder the garden was not properly tended to. ; Since 1989 the Botanical Garden has been affiliated to Tver State University. The work on the reconstruction of the garden and its collections and development of new living collections has been carried out first under the directorship of K.M.Smirnova, then under the guidance of A.P.Khokhryakov and M.T.Mazurenko. ; In the course of its long history the Botanic Garden of Tver State University has developed into a unique institution valuable for science, culture and leisure. It is the only Botanic Garden in the upper reaches of the Volga River. ; The Botanic Garden has the sectors of "Dendrology", "Wild Flora", "Ornamental Flower Gardening" and "Herbarium". At present the Botanic Garden of Tver State University has a collection of 350 species of trees and shrubs and 2 000 species of herbaceous plants. ; Plants grown in the open air are distributed according to natural ecological zones: the Far East, Europe and North America. The Botanic Garden has a number of floristic exhibitions.;  Main Address:; Botanic Garden of Tver State University; Zhelyabova Street 33,TVER, 170000 Russian Federation; Tver; 170000 Russian Federation; ;  Telephone: 7 0822 315318; Fax: 7 0822 331274; URL: <a target="_blank" href="http://www.garden.tversu.ru">www.garden.tversu.ru; Primary Email: garden@tversu.ru ; 
-Plant Records Officer's Name:	
-Altitude:	135.00 Metres
-Annual Rainfall:	593 mm
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	56.8666
-Longitude:	35.9333
-Total Area:	2 Hectares
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	2
-Special Collections:	Ornamentals, woody and hardy herbaceous plant, in particular indigenous plants of the Tver region, a systematic collection for teaching purposes (including 250 species from 42 families), steppe flora (135 species), dwarf conifers, Iris (97 species), Lilia
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Floristics:	Yes
-Restoration Ecology:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 1123
+1-Name: Botanic Garden of Tver State University 
+2-Altitude: 135.00 Metres
+2-Annual Rainfall: 593 mm
+2-Info:              Institution Code: TVER;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Botanic Garden of Tver State University        The Botanic Garden of Tver State University is situated at the meeting place of the Volga and Tvertza rivers. It is one of the main green spaces of Tver. Many centuries ago the territory of the Garden belonged to Otroch monastery - the oldest settlement of the town of Tver. The area was occupied by Zavolzhsky trading quarter. The history of the garden goes back to 1879 when Ilia Ivanovich Bobrov, a merchant of the first guild, an honary citizen of the town, planted a small private garden. Some of the trees planted at that time have been preserved till now. Subsequently the garden passed into the hands of Leonid Antonovich Kolakovsky, a teacher of Sciences of Tver State Modern School. He managed to accumulate a rather interesting collection of tree and shrub species at the small territory of 1,5 ha.;   After the October Revolution the garden passed under charge of municipal department of public education and was used as a leisure activity center for children. In 1939 the Garden was affiliated to the Pedagogical Institute. The main planting occured between 1939 and 1941 but a great number of plants disappeared during Word War. ;     Since 1949 the garden had been reconstructed according to the programme developed by M.L.Nevsky. The programme was centered around educational issues and popularization of plant introduction and acclimatization experiments. ;     In 1971 Tver State University, the former Pedagogical Institute, refused to support the garden and the garden passed to municipal plant-growing holding. The smaller part of the living collections was moved to the agro-biological station of Tver State University. In the 1970s and 1980s the garden was neglected. Research and educational activities were not performed and the garden became a recreation center. The largest part of the living collections perished, only few tree specimens were preserved. There were only 3 members on staff and no wonder the garden was not properly tended to. ;     Since 1989 the Botanical Garden has been affiliated to Tver State University. The work on the reconstruction of the garden and its collections and development of new living collections has been carried out first under the directorship of K.M.Smirnova, then under the guidance of A.P.Khokhryakov and M.T.Mazurenko. ;     In the course of its long history the Botanic Garden of Tver State University has developed into a unique institution valuable for science, culture and leisure. It is the only Botanic Garden in the upper reaches of the Volga River. ;     The Botanic Garden has the sectors of "Dendrology", "Wild Flora", "Ornamental Flower Gardening" and "Herbarium". At present the Botanic Garden of Tver State University has a collection of 350 species of trees and shrubs and 2 000 species of herbaceous plants. ;     Plants grown in the open air are distributed according to natural ecological zones: the Far East, Europe and North America. The Botanic Garden has a number of floristic exhibitions.;                        Main Address:;         Botanic Garden of Tver State University;         Zhelyabova Street 33,TVER, 170000 Russian Federation;                Tver;        170000 Russian Federation;        ;                 Telephone: 7 0822 315318;         Fax: 7 0822 331274;         URL: www.garden.tversu.ru;         Primary Email: garden@tversu.ru       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 56.8666
+2-Longitude: 35.9333
+2-Total Area: 2 Hectares
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 2
+4-Special Collections: Ornamentals, woody and hardy herbaceous plant, in particular indigenous plants of the Tver region, a systematic collection for teaching purposes (including 250 species from 42 families), steppe flora (135 species), dwarf conifers, Iris (97 species), Lilia
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Floristics: Yes
+6-Restoration Ecology: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: Yes
+9-Fax: 7 0822 331274
+9-Institution Code: TVER
+9-International Agenda Registration: Yes
+9-Plants grown in the open air are distributed according to natural ecological zones: the Far East, Europe and North America. The Botanic Garden has a number of floristic exhibitions.
+9-Primary Email: garden@tversu.ru
+9-Telephone: 7 0822 315318
+9-URL: www.garden.tversu.ru

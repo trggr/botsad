@@ -1,21 +1,25 @@
-ID:	5018
-Name:	Park and Botanic Garden Coronel 
-Administration Staff Number:	
-Curator's Name:	Inelia Escobar Jara
-Director's Name:	-
-Educational Staff Number:	
-Horticultural Staff Number:	
-Info:	  Chile - Concepcion  ;Garden Information;  Institution Code: BGC; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Park and Botanic Garden Coronel; Sociedad Agricola del Sur; Casilla 2141; Concepcion; Chile; ;  Telephone: +56-041-2914224; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: parqueyjardinbotanicocoronel@gmail.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	18.00 Metres
-Annual Rainfall:	850 mm
-Institution Type:	Botanic Garden
-Latitude:	-36.8446753
-Local Address:	Yobilo s/n, Coronel, Bio Bio
-Locality:	Information
-Longitude:	-73.006042
-Total Area:	50 Hectares
-Arboretum:	Yes
-Arboretum Size:	25
-Open to public:	No
+0-ID: 5018
+1-Name: Park and Botanic Garden Coronel 
+2-Altitude: 18.00 Metres
+2-Annual Rainfall: 850 mm
+2-Info:              Institution Code: BGC;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Park and Botanic Garden Coronel;         Sociedad Agricola del Sur;        Casilla 2141;        Concepcion;        Chile;        ;                 Telephone: +56-041-2914224;         Fax: ;         URL: ;         Primary Email: parqueyjardinbotanicocoronel@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -36.8446753
+2-Local Address: Yobilo s/n, Coronel, Bio Bio
+2-Locality: Information
+2-Longitude: -73.006042
+2-Total Area: 50 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 25
+3-Open to public: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5018">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5018">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5018">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5018">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: BGC
+9-International Agenda Registration: No
+9-Primary Email: parqueyjardinbotanicocoronel@gmail.com
+9-Telephone: +56-041-2914224
+9-URL: 

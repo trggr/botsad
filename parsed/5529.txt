@@ -1,13 +1,21 @@
-ID:	5529
-Name:	Santa Ana Zoo 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - California - Santa Ana  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Santa Ana Zoo; 1801 East Chestnut Avenue; Santa Ana; California 92701 United States of America; ;  Telephone: (714) 953-8555; Fax: ; URL: <a target="_blank" href="https://www.santaanazoo.org/">https://www.santaanazoo.org/; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	33.742770
-Longitude:	-117.843210
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
+0-ID: 5529
+1-Name: Santa Ana Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Santa Ana Zoo;         1801 East Chestnut Avenue;                Santa Ana;        California 92701 United States of America;        ;                 Telephone: (714) 953-8555;         Fax: ;         URL: https://www.santaanazoo.org/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.742770
+2-Longitude: -117.843210
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5529">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5529">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5529">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5529">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (714) 953-8555

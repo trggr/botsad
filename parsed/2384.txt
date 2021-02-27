@@ -1,10 +1,19 @@
-ID:	2384
-Name:	Arboreto Mediterraneo del Limbara 
-Curator's Name:	
-Director's Name:	
-Info:	  Italy - Sassari  ;Garden Information;  Institution Code: LIMB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboreto Mediterraneo del Limbara; Azienda Foreste Demaniali, Via Roma, 62, 07100 SASSARI, Italy; Sassari; Italy; ;  Telephone: +39 79 2018216; Fax: +39 79 2018209; URL: <a target="_blank" href="http://">; Primary Email: AFDRS.SS@FLASHNET.IT ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	40.7594
-Longitude:	8.3871
+0-ID: 2384
+1-Name: Arboreto Mediterraneo del Limbara 
+2-Date founded: 
+2-Info:              Institution Code: LIMB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboreto Mediterraneo del Limbara;         Azienda Foreste Demaniali,  Via Roma, 62,  07100 SASSARI,  Italy;                Sassari;        Italy;        ;                 Telephone: +39 79 2018216;         Fax: +39 79 2018209;         URL: ;         Primary Email: AFDRS.SS@FLASHNET.IT       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.7594
+2-Longitude: 8.3871
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2384">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2384">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2384">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2384">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2384">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +39 79 2018209
+9-Institution Code: LIMB
+9-International Agenda Registration: No
+9-Primary Email: AFDRS.SS@FLASHNET.IT
+9-Telephone: +39 79 2018216
+9-URL: 

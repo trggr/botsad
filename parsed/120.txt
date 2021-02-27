@@ -1,11 +1,19 @@
-ID:	120
-Name:	Kazan Zoobotanic Garden 
-Curator's Name:	
-Director's Name:	F. Sh. Shamsiev
-Info:	  Russian Federation - Kazan  ;Garden Information;  Institution Code: KAZZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kazan Zoobotanic Garden; Khadi Taktash Street 112, 420041 KAZAN, Tatarstan, Russian Federation; Kazan; Russian Federation; ;  Telephone: 37 50 32, 36 27 04; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	55.7965
-Longitude:	49.1081
-Special Collections:	Subtropical and tropical plants.
+0-ID: 120
+1-Name: Kazan Zoobotanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: KAZZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kazan Zoobotanic Garden;         Khadi Taktash Street 112,  420041 KAZAN,  Tatarstan, Russian Federation;                Kazan;        Russian Federation;        ;                 Telephone: 37 50 32,  36 27 04;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.7965
+2-Longitude: 49.1081
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=120">Please click here if you can update us</a>
+4-Special Collections: Subtropical and tropical plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=120">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=120">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=120">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KAZZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 37 50 32,  36 27 04
+9-URL: 

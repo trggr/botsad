@@ -1,76 +1,79 @@
-ID:	600
-Name:	Jardin Alpin des Rochers-de-Naye "La Rambertia" 
-Fax:	++41.21.989.81.80
-Info:	  Switzerland - Montreux  ;Garden Information;  Institution Code: RAMB; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	bruny.m@omnibases.ch
-Telephone:	++41.21.989.81.81
-Administration Staff Number:	2
-Curator's Name:	Mrs. Bruny Monney, Garden Manager
-Director's Name:	Mr. Walter Jenelten
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	Mrs. Bruny Monney, Garden Manager
-Research Staff Number:	
-Altitude:	1980.00 Metres
-Annual Rainfall:	2500 mm
-Date founded:	1896
-Institution Type:	Zoological Institution
-Landscaped Area:	Yes
-Latitude:	46.4313
-Local Address:	Les Rochers-de-Naye c/o GoldenPass CP 1426
-Locality:	Information
-Longitude:	6.9106
-Natural Vegetation Area:	Yes
-Total Area:	1 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	12000
-Number of Volunteers:	10
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Invasive Species Policy:	Yes
-Special Collections:	Alpine plants particularly of Switzerland and Europe, such as Androsace helvetica, Anemone alpina ssp. alpina, Clematis alpina, Dianthus alpinus, Dianthus glacialis, Fritillaria pyrenaica, Gentiana clusii,Geranium argenteum,Leontopodium alpinum, Lilium bulbiferum, Lilium martagon, Lilium pyrenaicum, Primula glaucescens, Rhododendron hirsutum, Saxifraga oppositifolia
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	No
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 600
+1-Name: Jardin Alpin des Rochers-de-Naye "La Rambertia" 
+2-Administration Staff Number: 2
+2-Curator's Name: Mrs. Bruny Monney, Garden Manager
+2-Director's Name: Mr. Walter Jenelten
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: RAMB;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/600/1 Entrée du jardin.jpg" alt="Entrance of the garden" />         Entrance of the garden</div>        </div>                           About the Jardin Alpin des Rochers-de-Naye "La Rambertia"        La Rambertia is a private botanical alpine garden which belongs to the society of the same name. The name was chosen in honour of Eugène Rambert (1830 - 1886), professor of French literature, poet, great naturalist and devoted member of the Swiss Alpine Club. The society provides financial support, assisted by the local railway group operating the rack railway from Montreux up to the Rochers-de-Naye. The garden cultivates plants of the mountainous regions worldwide and especially from Switzerland. The garden is a member of IPEN International Plant Exchange Network.;                        Main Address:;         Jardin Alpin des Rochers-de-Naye "La Rambertia";         Rue de la Gare 22;                Montreux;        CH - 1820 Switzerland;        ;                 Telephone: ++41.21.989.81.81;         Fax: ++41.21.989.81.80;         URL: http://www.rambertia.ch/welcome/;         Primary Email: bruny.m@omnibases.ch       ;              
+2-Plant Records Officer's Name: Mrs. Bruny Monney, Garden Manager
+2-Research Staff Number: 
+3-Altitude: 1980.00 Metres
+3-Annual Rainfall: 2500 mm
+3-Date founded: 1896
+3-Institution Type: Zoological Institution
+3-Landscaped Area: Yes
+3-Latitude: 46.4313
+3-Local Address: Les Rochers-de-Naye c/o GoldenPass CP 1426
+3-Locality: Information
+3-Longitude: 6.9106
+3-Natural Vegetation Area: Yes
+3-Total Area: 1 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: No
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 12000
+4-Number of Volunteers: 10
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Invasive Species Policy: Yes
+5-Special Collections: Alpine plants particularly of Switzerland and Europe, such as Androsace helvetica, Anemone alpina ssp. alpina, Clematis alpina, Dianthus alpinus, Dianthus glacialis, Fritillaria pyrenaica, Gentiana clusii,Geranium argenteum,Leontopodium alpinum, Lilium bulbiferum, Lilium martagon, Lilium pyrenaicum, Primula glaucescens, Rhododendron hirsutum, Saxifraga oppositifolia
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: No
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: ++41.21.989.81.80
+9-Institution Code: RAMB
+9-International Agenda Registration: No
+9-Primary Email: bruny.m@omnibases.ch
+9-Telephone: ++41.21.989.81.81

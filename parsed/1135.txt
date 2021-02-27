@@ -1,12 +1,20 @@
-ID:	1135
-Name:	Dendrarium 'Belye Nochi' 
-Curator's Name:	
-Director's Name:	Y.N.Karpun
-Info:	  Russian Federation - Sochi  ;Garden Information;  Institution Code: DENBN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dendrarium 'Belye Nochi'; 354214 SOCHI,L-214, Krasnodar Region, Russian Federation; Sochi; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1977
-Institution Type:	Other
-Latitude:	43.6115
-Longitude:	39.7224
-Special Collections:	Cotoneaster, Pinus, Viburnum, Acer, Ligristrum, Pittosporum, Cupressus, Ilex, Quercus, Callicarpa, Australian plants, Mediterranean plants., Japanese plants.
+0-ID: 1135
+1-Name: Dendrarium 'Belye Nochi' 
+2-Altitude: 0.00 Metres
+2-Date founded: 1977
+2-Info:              Institution Code: DENBN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dendrarium 'Belye Nochi';         354214 SOCHI,L-214, Krasnodar Region, Russian Federation;                Sochi;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 43.6115
+2-Longitude: 39.7224
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1135">Please click here if you can update us</a>
+4-Special Collections: Cotoneaster, Pinus, Viburnum, Acer, Ligristrum, Pittosporum, Cupressus, Ilex, Quercus, Callicarpa, Australian plants, Mediterranean plants., Japanese plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1135">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1135">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1135">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DENBN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

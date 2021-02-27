@@ -1,12 +1,20 @@
-ID:	499
-Name:	Asakawa Experimental Forest 
-Curator's Name:	
-Director's Name:	Chugoro Ishido
-Info:	  Japan - Hachioji  ;Garden Information;  Institution Code: TFA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Asakawa Experimental Forest; Forestry and Forest products Research Institute, 1833 Todori - machi, Hachioji-shi, Tokyo, 193 J; Hachioji; Japan; ;  Telephone: 0426 61 1121; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1921
-Institution Type:	Other
-Latitude:	35.6573
-Longitude:	139.3281
-Special Collections:	Flowering cherries, native flora.
+0-ID: 499
+1-Name: Asakawa Experimental Forest 
+2-Altitude: 0.00 Metres
+2-Date founded: 1921
+2-Info:              Institution Code: TFA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Asakawa Experimental Forest;         Forestry and Forest products Research Institute,  1833 Todori - machi,  Hachioji-shi,  Tokyo, 193  J;                Hachioji;        Japan;        ;                 Telephone: 0426 61 1121;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 35.6573
+2-Longitude: 139.3281
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=499">Please click here if you can update us</a>
+4-Special Collections: Flowering cherries, native flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=499">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=499">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=499">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TFA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0426 61 1121
+9-URL: 

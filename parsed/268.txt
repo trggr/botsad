@@ -1,42 +1,42 @@
-ID:	268
-Name:	The B.M. Kozo-Polyansky Botanical Garden of Voronezh State University 
-Administration Staff Number:	2
-Curator's Name:	Svetlana Karpova
-Director's Name:	Dr. Andrey Voronin
-Educational Staff Number:	5
-Horticultural Staff Number:	14
-Info:	  Russian Federation - Voronezh oblast - Voronezh  ;Garden Information;  Institution Code: VOR; International Agenda Registration: Yes; BGCI Member: No; About the The B.M. Kozo-Polyansky Botanical Garden of Voronezh State University Botanical Garden of Voronezh State University was founded in 1937. The founder was one of the leading botanists of the world, professor of Voronezh State University, corresponding member of USSR Academy of Sciences, BM Kozo-Polyanskiy. A lot of famous scientists worked together with him: Levine RE, Zamyatin BN, Golitsyn S., Marfin FS, Rutsky IA and many others. Over the years Botanical garden was managed by professor Mashkin SI, Kireichev AN, Arkhangelskiy IP, Nikolaev EA. Currently director of the garden is Andrey Voronin.; Now, Botanical Garden of Voronezh State University is the only scientific institution in the Central Black Earth region which makes the research work in the fields of introduction of plants, identifying of commercially valuable species in the natural flora, the comprehensive study of such plant species, the conservation and enrichment of regional and world flora to develop a scientific basis for sustainable use and conservation of plant resources.; Botanical Garden of Voronezh State University has a very rich collection of living plants in the region. Expositions of the Garden include collections of trees and shrubs, collections of decorative grasses. Currently, the unique in its composition dendrological collection, including pinetum, tujetum, arboretum, lilac-garden, rosarium, geographic park, exposure of wild fruit plants, and the collection of fruit and nut species, has been created in the Central Black Earth Region. There is enough big collection of representatives from family of Ericaceae Juss., which are the most worldwide ornamental plants. The collections and exhibits are annually replenished with new species, varieties and forms. Annually the list of seeds (Index Seminum) is released, and Botanical Garden of Voronezh State University exchanges by plant seeds with more then 60 botanical gardens of the world.; The scientific work of the Botanical Garden of Voronezh State University, with its unique for the Central Black Earth Region gene pool of various representatives of the world flora, can not be overestimated for the conservation of biodiversity, re-introduction species in natural habitats, and for creation of semi-industrial plantations of various species of ornamental, medicinal and other useful plants. Only through knowledge about the biology of the studied species we can be sure in success of their cultivation and conservation in the wild nature.;  Main Address:; The B.M. Kozo-Polyansky Botanical Garden of Voronezh State University; Voronezh State University; Universitetskaya pl.,1; Voronezh; Voronezh oblast 394006 Russian Federation; ;  Telephone: +7 473 251 84 38; Fax: +7 473 251 88 03; URL: <a target="_blank" href="http://www.vsubotsad.ru">http://www.vsubotsad.ru; Primary Email: botsad.vsu@mail.ru ; 
-Plant Records Officer's Name:	Olga Safonova
-Research Staff Number:	15
-Altitude:	168.20 Metres
-Annual Rainfall:	511 mm
-Date founded:	1937
-Institution Type:	Botanic Garden
-Latitude:	51.6600
-Longitude:	39.1974
-Total Area:	72 Hectares
-Arboretum:	Yes
-Arboretum Size:	1
-Herbarium:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Cultivation Taxa Num:	3000
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Festuca, Astragalus, Sorbus, Crataegus, Tulipa, Sedum, Lilium, Pinus, Cerasus, Vitis,Rhododendron, Rose garden, medicinal plants, native flora.
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Ecology:	Yes
-Education:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Seed/Spore Biology:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for University/College Students:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 268
+1-Name: The B.M. Kozo-Polyansky Botanical Garden of Voronezh State University 
+2-Altitude: 168.20 Metres
+2-Annual Rainfall: 511 mm
+2-Date founded: 1937
+2-Info:              Institution Code: VOR;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the The B.M. Kozo-Polyansky Botanical Garden of Voronezh State University        Botanical Garden of Voronezh State University was founded in 1937. The founder was one of the leading botanists of the world, professor of Voronezh State University, corresponding member of USSR Academy of Sciences, BM Kozo-Polyanskiy. A lot of famous scientists worked together with him: Levine RE, Zamyatin BN, Golitsyn S., Marfin FS, Rutsky IA and many others. Over the years Botanical garden was managed by professor Mashkin SI, Kireichev AN, Arkhangelskiy IP, Nikolaev EA. Currently director of the garden is  Andrey Voronin.;  Now, Botanical Garden of Voronezh State University is the only scientific institution in the Central Black Earth region which makes the research work in the fields of introduction of plants, identifying of commercially valuable species in the natural flora, the comprehensive study of such plant species, the conservation and enrichment of regional and world flora to develop a scientific basis for sustainable use and conservation of plant resources.;  Botanical Garden of Voronezh State University has a very rich collection of living plants in the region. Expositions of the Garden include collections of trees and shrubs, collections of decorative grasses. Currently, the unique in its composition dendrological collection, including pinetum, tujetum, arboretum, lilac-garden, rosarium, geographic park, exposure of wild fruit plants, and the collection of fruit and nut species, has been created in the Central Black Earth Region. There is enough big collection of representatives from family of Ericaceae Juss., which are the most worldwide ornamental plants. The collections and exhibits are annually replenished with new species, varieties and forms. Annually the list of seeds (Index Seminum) is released, and Botanical Garden of Voronezh State University exchanges by plant seeds with more then 60 botanical gardens of the world.;  The scientific work of the Botanical Garden of Voronezh State University, with its unique for the Central Black Earth Region gene pool of various representatives of the world flora, can not be overestimated for the conservation of biodiversity, re-introduction species in natural habitats, and for creation of semi-industrial plantations of various species of ornamental, medicinal and other useful plants. Only through knowledge about the biology of the studied species we can be sure in success of their cultivation and conservation in the wild nature.;                        Main Address:;         The B.M. Kozo-Polyansky Botanical Garden of Voronezh State University;         Voronezh State University;        Universitetskaya pl.,1;        Voronezh;        Voronezh oblast 394006 Russian Federation;        ;                 Telephone: +7 473 251 84 38;         Fax: +7 473 251 88 03;         URL: http://www.vsubotsad.ru;         Primary Email: botsad.vsu@mail.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.6600
+2-Longitude: 39.1974
+2-Total Area: 72 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 1
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-Cultivation Taxa Num: 3000
+4-Invasive Species Monitoring: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Festuca, Astragalus, Sorbus, Crataegus, Tulipa, Sedum, Lilium, Pinus, Cerasus, Vitis,Rhododendron, Rose garden, medicinal plants, native flora.
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Ecology: Yes
+6-Education: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Seed/Spore Biology: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for University/College Students: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-About the The B.M. Kozo-Polyansky Botanical Garden of Voronezh State University        Botanical Garden of Voronezh State University was founded in 1937. The founder was one of the leading botanists of the world, professor of Voronezh State University, corresponding member of USSR Academy of Sciences, BM Kozo-Polyanskiy. A lot of famous scientists worked together with him: Levine RE, Zamyatin BN, Golitsyn S., Marfin FS, Rutsky IA and many others. Over the years Botanical garden was managed by professor Mashkin SI, Kireichev AN, Arkhangelskiy IP, Nikolaev EA. Currently director of the garden is  Andrey Voronin.
+9-BGCI Member: No
+9-Fax: +7 473 251 88 03
+9-Institution Code: VOR
+9-International Agenda Registration: Yes
+9-Primary Email: botsad.vsu@mail.ru
+9-Telephone: +7 473 251 84 38

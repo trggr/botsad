@@ -1,10 +1,19 @@
-ID:	2306
-Name:	Chessa Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Itanagar  ;Garden Information;  Institution Code: VANB; International Agenda Registration: Yes; BGCI Member: No; About the Chessa Botanic Garden A botanic garden is being developed by the University of Jabalpore, Pachpedi, Jabalpore 482 001. It includes a small herbarium.;  Main Address:; Chessa Botanic Garden; State Forest Research Institute Van Vihar, P.O. Box No. 159, ITANAGAR 791 111, Arunchal Pradesh,; Itanagar; India; ;  Telephone: 91 0360 203504/203566/203523; Fax: 91 0360 203523; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	27.0922
-Longitude:	93.6162
+0-ID: 2306
+1-Name: Chessa Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: VANB;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Chessa Botanic Garden        A botanic garden is being developed by the University of Jabalpore, Pachpedi, Jabalpore 482 001. It includes a small herbarium.;                        Main Address:;         Chessa Botanic Garden;         State Forest Research Institute Van Vihar, P.O. Box No. 159,  ITANAGAR  791 111, Arunchal Pradesh,;                Itanagar;        India;        ;                 Telephone: 91 0360 203504/203566/203523;         Fax: 91 0360 203523;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 27.0922
+2-Longitude: 93.6162
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2306">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2306">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2306">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2306">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2306">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 0360 203523
+9-Institution Code: VANB
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 91 0360 203504/203566/203523
+9-URL: 

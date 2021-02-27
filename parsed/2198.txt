@@ -1,12 +1,20 @@
-ID:	2198
-Name:	Daintree Wilderness Refugium 
-Curator's Name:	Sylvia Thurgood, Curator
-Director's Name:	-
-Info:	  Australia - Queensland - Diwan  ;Garden Information;  Institution Code: DAIN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Daintree Wilderness Refugium; 26 Ironbark Rd; Tea Tree Rd; Diwan; Queensland QLD 4873 Australia; ;  Telephone: 0408075272; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: sylviathurgood@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1992
-Institution Type:	Botanic Garden
-Latitude:	-16.202791
-Longitude:	145.406573
-Special Collections:	90 % of collection is Australian flora.
+0-ID: 2198
+1-Name: Daintree Wilderness Refugium 
+2-Altitude: 0.00 Metres
+2-Date founded: 1992
+2-Info:              Institution Code: DAIN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Daintree Wilderness Refugium;         26 Ironbark Rd;        Tea Tree Rd;        Diwan;        Queensland QLD 4873 Australia;        ;                 Telephone: 0408075272;         Fax: ;         URL: ;         Primary Email: sylviathurgood@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -16.202791
+2-Longitude: 145.406573
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2198">Please click here if you can update us</a>
+4-Special Collections: 90 % of collection is Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2198">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2198">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2198">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DAIN
+9-International Agenda Registration: No
+9-Primary Email: sylviathurgood@gmail.com
+9-Telephone: 0408075272
+9-URL: 

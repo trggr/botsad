@@ -1,11 +1,18 @@
-ID:	5113
-Name:	Luxembourg Botanic Gardens- Seed Bank 
-Curator's Name:	
-Director's Name:	-
-Info:	  Luxembourg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Luxembourg Botanic Gardens- Seed Bank; National Museum "d’histoire naturelle"; 25, rue Münster; l-2160 Luxembourg; ;  Telephone: +352 46 22 33-1; Fax: +352 46 38 48; URL: <a target="_blank" href="https://www.mnhn.lu/">https://www.mnhn.lu/; Primary Email: thelminger@mnhn.lu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	49.6098
-Longitude:	6.1356
-Seed Bank:	Yes
+0-ID: 5113
+1-Name: Luxembourg Botanic Gardens- Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Luxembourg Botanic Gardens- Seed Bank;         National Museum "d’histoire naturelle";        25, rue Münster;                l-2160 Luxembourg;        ;                 Telephone: +352 46 22 33-1;         Fax: +352 46 38 48;         URL: https://www.mnhn.lu/;         Primary Email: thelminger@mnhn.lu       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 49.6098
+2-Longitude: 6.1356
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5113">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5113">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5113">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5113">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +352 46 38 48
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: thelminger@mnhn.lu
+9-Telephone: +352 46 22 33-1

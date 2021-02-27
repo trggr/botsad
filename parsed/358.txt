@@ -1,11 +1,19 @@
-ID:	358
-Name:	Vulhm - Arboretum Sofronka 
-Curator's Name:	Ing. J. Kanak
-Director's Name:	Ing. K. Kanak
-Info:	  Czech Republic - Plzen  ;Garden Information;  Institution Code: PLZVU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Vulhm - Arboretum Sofronka; PLZEN-1, Czech Republic, 30425.; Plzen; Czech Republic; ;  Telephone: (019) 52 18 86; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1956
-Institution Type:	Botanic Garden
-Latitude:	49.7474
-Longitude:	13.3776
-Special Collections:	Pinus. Maintains a seed bank with medium-term storage capacity. In 1994 the seed bank contained 220 accessions representing 45 spp.
+0-ID: 358
+1-Name: Vulhm - Arboretum Sofronka 
+2-Date founded: 1956
+2-Info:              Institution Code: PLZVU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Vulhm - Arboretum Sofronka;         PLZEN-1,  Czech Republic,  30425.;                Plzen;        Czech Republic;        ;                 Telephone: (019) 52 18 86;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.7474
+2-Longitude: 13.3776
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=358">Please click here if you can update us</a>
+4-Special Collections: Pinus. Maintains a seed bank with medium-term storage capacity. In 1994 the seed bank contained 220 accessions representing 45 spp.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=358">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=358">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=358">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PLZVU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (019) 52 18 86
+9-URL: 

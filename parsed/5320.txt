@@ -1,9 +1,17 @@
-ID:	5320
-Name:	Indiana University Jordan Hall Greenhouses 
-Curator's Name:	John Leichter, Gardener
-Director's Name:	John Lemon, Greenhouse Supervisor
-Info:	  United States of America - Indiana - Bloomington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Indiana University Jordan Hall Greenhouses; 1001 E 3rd Street; Bloomington; Indiana 47405 United States of America; ;  Telephone: (812) 855-7717; Fax: ; URL: <a target="_blank" href="https://biology.indiana.edu/research/facilities-resources/jordan-hall-greenhouse.html">https://biology.indiana.edu/research/facilities-resources/jordan-hall-greenhouse.html; Primary Email: biogreen@indiana.edu ; 
-Plant Records Officer's Name:	Michael O'Connor, Gardener
-Institution Type:	Botanic Garden
-Latitude:	39.164725
-Longitude:	-86.521217
+0-ID: 5320
+1-Name: Indiana University Jordan Hall Greenhouses 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Indiana University Jordan Hall Greenhouses;         1001 E 3rd Street;                Bloomington;        Indiana 47405 United States of America;        ;                 Telephone: (812) 855-7717;         Fax: ;         URL: https://biology.indiana.edu/research/facilities-resources/jordan-hall-greenhouse.html;         Primary Email: biogreen@indiana.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.164725
+2-Longitude: -86.521217
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5320">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5320">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5320">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5320">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5320">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: biogreen@indiana.edu
+9-Telephone: (812) 855-7717

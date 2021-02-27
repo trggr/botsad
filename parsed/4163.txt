@@ -1,76 +1,80 @@
-ID:	4163
-Name:	Śląski Ogród Botaniczny w Mikołowie (Silesian Botanical Garden in Mikolow) 
-Fax:	
-Info:	  Poland - śląskie - Mikołów  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	sibg@sibg.org.pl
-Telephone:	0048 327797602
-an institution which would attempt not only to protect nature, but to be a meeting place and an environment suitable for exchanging ideas on all subjects:	culture, philosophy, social issues… Finally, the idea was to create a friendly and open space for everyone who simply needs rest and a break from the fast-paced city life.
-Administration Staff Number:	8
-Curator's Name:	
-Director's Name:	Paweł Kojs PhD
-Educational Staff Number:	5
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	
-Research Staff Number:	4
-Altitude:	0.00 Metres
-Annual Rainfall:	152 mm
-Date founded:	2006
-Institution Type:	Botanic Garden
-Latitude:	50.1758
-Local Address:	
-Locality:	Information
-Longitude:	18.8447
-Satellite Garden Names:	Silesian Botanical Garden in Radzionków
-Total Area:	117 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	55000
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-ABS Policy:	No
-Cultivation Taxa Num:	700
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4163
+1-Name: Śląski Ogród Botaniczny w Mikołowie (Silesian Botanical Garden in Mikolow) 
+2-Administration Staff Number: 8
+2-Curator's Name: 
+2-Director's Name: Paweł Kojs PhD
+2-Educational Staff Number: 5
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/4163/sob.jpg" alt="" />         </div>        </div>                           About the Śląski Ogród Botaniczny w Mikołowie (Silesian Botanical Garden in Mikolow)        In 2013 the Silesian Botanical Garden celebrates its 10th anniversary. The idea to create a botanical garden in Mikolow-Mokre arose in 1997. In 1996 a natural resource survey was performed which showed that Mokre, a district of Mikolow, contains a unique natural environment. A wealth of habitats has survived: valuable forest stands of Fiolkowa Gora and two stream valleys: Promna and Jasienica; wetlands and farmlands with contour buffer strips (called czyznia) which are now becoming increasingly rare, limestone excavation pits, ravines and hills, and hundreds of species of plants and animals, including rare and protected ones. Overall, there is a wide array of habitats which are seldom found together within a single area. This location turned out to be perfect for the creation of a botanical garden, one that is mostly arranged by nature itself. It was therefore unnecessary to recreate natural habitats which is so often the case with botanical gardens founded within cities. In 2003 the Silesian Botanical Garden Union of Associations was founded – the entity formally responsible for the construction of the Garden. A crucial moment came in 2006, when, by a decision of the Ministry of the Environment, the Union of Associations was given permission to open the Silesian Botanical Garden. For all these years many people contributed to the creation of this place which would become the green island within the industrial and urbanized Silesia; an institution which would attempt not only to protect nature, but to be a meeting place and an environment suitable for exchanging ideas on all subjects: culture, philosophy, social issues… Finally, the idea was to create a friendly and open space for everyone who simply needs rest and a break from the fast-paced city life.;                        Main Address:;         Śląski Ogród Botaniczny w Mikołowie (Silesian Botanical Garden in Mikolow);                 ul. Sosnowa 5;        Mikołów;        śląskie 43-190 Poland;        ;                 Telephone: 0048 327797602;         Fax: ;         URL: www.obmikolow.robia.pl;         Primary Email: sibg@sibg.org.pl       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 4
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 152 mm
+3-Date founded: 2006
+3-Institution Type: Botanic Garden
+3-Latitude: 50.1758
+3-Local Address: 
+3-Locality: Information
+3-Longitude: 18.8447
+3-Satellite Garden Names: Silesian Botanical Garden in Radzionków
+3-Total Area: 117 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: No
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 55000
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: Yes
+5-ABS Policy: No
+5-Cultivation Taxa Num: 700
+5-Invasive Species Monitoring: No
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Ecosystem Conservation: No
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: sibg@sibg.org.pl
+9-Telephone: 0048 327797602
+9-URL: www.obmikolow.robia.pl
+9-an institution which would attempt not only to protect nature, but to be a meeting place and an environment suitable for exchanging ideas on all subjects: culture, philosophy, social issues… Finally, the idea was to create a friendly and open space for everyone who simply needs rest and a break from the fast-paced city life.

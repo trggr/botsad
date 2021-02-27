@@ -1,13 +1,21 @@
-ID:	3055
-Name:	Xiji Arboretum (Ningxia) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Ningxia - Xiji  ;Garden Information;  Institution Code: XIJI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Xiji Arboretum (Ningxia); Forestry Institute of Ningxia Academy of Agriculture and Forestry Sciences, Shagangzi Village, Huoshizhai, Xiji County, Ningxia, 750004, China; Xiji; Ningxia China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1985
-Institution Type:	Botanic Garden
-Latitude:	35.9683
-Local Address:	中国宁夏回族自治区西吉县子村宁夏林科所转，邮编 750004
-Locality:	Information
-Longitude:	105.7173
-Special Collections:	Drought resistant and hardy trees and shrubs of loess plateau, Hippophae rhamnoides
+0-ID: 3055
+1-Name: Xiji Arboretum (Ningxia) 
+2-Date founded: 1985
+2-Info:              Institution Code: XIJI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Xiji Arboretum (Ningxia);         Forestry Institute of Ningxia Academy of Agriculture and Forestry Sciences, Shagangzi Village, Huoshizhai, Xiji County, Ningxia, 750004, China;                Xiji;        Ningxia China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.9683
+2-Local Address: 中国宁夏回族自治区西吉县子村宁夏林科所转，邮编 750004
+2-Locality: Information
+2-Longitude: 105.7173
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3055">Please click here if you can update us</a>
+4-Special Collections: Drought resistant and hardy trees and shrubs of loess plateau, Hippophae rhamnoides
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3055">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3055">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3055">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: XIJI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,10 +1,18 @@
-ID:	4760
-Name:	Connecticut Science Center 
-Curator's Name:	TJ McKenna, Staff Scientist
-Director's Name:	Matt Fleury, President & CEO
-Info:	  United States of America - Connecticut - Hartford  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Connecticut Science Center; 250 Columbus Boulevard; Hartford; Connecticut 06029 United States of America; ;  Telephone: (860) 724-3623; Fax: ; URL: <a target="_blank" href="http://ctsciencecenter.org">http://ctsciencecenter.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	41.7647980
-Longitude:	-72.6694250
+0-ID: 4760
+1-Name: Connecticut Science Center 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Connecticut Science Center;         250 Columbus Boulevard;                Hartford;        Connecticut 06029 United States of America;        ;                 Telephone: (860) 724-3623;         Fax: ;         URL: http://ctsciencecenter.org;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 41.7647980
+2-Longitude: -72.6694250
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4760">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4760">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4760">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4760">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4760">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (860) 724-3623

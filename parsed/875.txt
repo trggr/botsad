@@ -1,11 +1,19 @@
-ID:	875
-Name:	National Orchidarium and Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Shillong  ;Garden Information;  Institution Code: ASSAM; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Orchidarium and Botanic Garden; Botanical Survey of India (Eastern Circle), Woodlands, SHILLONG 793 001, Meghalaya, India.; Shillong; India; ;  Telephone: 24119 23618; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1959
-Institution Type:	Botanic Garden
-Latitude:	25.5697
-Longitude:	91.8758
-Special Collections:	Ferns, conifers, medicinal plants, economic plants, orchids.
+0-ID: 875
+1-Name: National Orchidarium and Botanic Garden 
+2-Date founded: 1959
+2-Info:              Institution Code: ASSAM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Orchidarium and Botanic Garden;         Botanical Survey of India (Eastern Circle), Woodlands,  SHILLONG 793 001,  Meghalaya,  India.;                Shillong;        India;        ;                 Telephone: 24119 23618;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.5697
+2-Longitude: 91.8758
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=875">Please click here if you can update us</a>
+4-Special Collections: Ferns, conifers, medicinal plants, economic plants, orchids.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=875">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=875">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=875">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ASSAM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 24119 23618
+9-URL: 

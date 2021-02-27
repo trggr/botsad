@@ -1,9 +1,18 @@
-ID:	5200
-Name:	Institute of Sustainable Biotechnology 
-Curator's Name:	
-Director's Name:	
-Info:	  Puerto Rico - Barranquitas  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Institute of Sustainable Biotechnology; PO Box 517; Barranquitas; 00794 Puerto Rico; ;  Telephone: 787-857-3600; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: janegron@br.inter.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	18.1845559
-Longitude:	-66.3182323
+0-ID: 5200
+1-Name: Institute of Sustainable Biotechnology 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Institute of Sustainable Biotechnology;         PO Box 517;                Barranquitas;        00794 Puerto Rico;        ;                 Telephone: 787-857-3600;         Fax: ;         URL: ;         Primary Email: janegron@br.inter.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.1845559
+2-Longitude: -66.3182323
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5200">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5200">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5200">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5200">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5200">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: janegron@br.inter.edu
+9-Telephone: 787-857-3600
+9-URL: 

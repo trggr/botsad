@@ -1,14 +1,22 @@
-ID:	1398
-Name:	Iowa Arboretum 
-Curator's Name:	Heather Bass, Arboretum Horticulturist
-Director's Name:	Mark Kane, Executive Director
-Info:	  United States of America - Iowa - Madrid  ;Garden Information;  Institution Code: IOWAA; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Iowa Arboretum The Iowa Arboretum's mission is to grow, display, identify and study plants and demonstrate their values and uses for education; scientific research; conservation; esthetic purposes; and for personal enjoyment and recreation. ; ; ; The Iowa Arboretum, Located on 378 acres in the heart of Boone county contains hundreds of species of trees, shrubs and flowers in a quiet scenic setting. This living museum offers something for visitors of all ages and interests. ; Its main goal is to help people appreciate and better understand plant life. Here you can learn which plants are best adapted to the soils and climate of Iowa and how to use these plants properly for landscaping, gardening conservation and other purposes. The Arboretum also serves as an outdoor laboratory for testing the hardiness and adaptability of newly introduced plants. ; ; Come and walk the "Library Trail" to experience 19 different plant collections, plants with similar uses grouped together. Explore the 348 acre preserve, offering self-guided woodland trails that pass by scenic overlooks, deep ravines, and streams. A beautiful natural Iowa Landscape.;  Main Address:; Iowa Arboretum; 1875 Peach Avenue; Madrid; Iowa 50156 United States of America; ;  Telephone: (515) 795-3216; Fax: (515) 795-2619; URL: <a target="_blank" href="http://www.iowaarboretum.org">www.iowaarboretum.org; Primary Email: info@IowaArboretum.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	41.9381710
-Longitude:	-93.8600320
-Arboretum:	Yes
-Open to public:	Yes
-Special Collections:	Herbs, Hostas.
+0-ID: 1398
+1-Name: Iowa Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1969
+2-Info:              Institution Code: IOWAA;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level III       ;                                          About the Iowa Arboretum        The Iowa Arboretum's mission is to grow, display, identify and study plants and demonstrate their values and uses for education; scientific research; conservation; esthetic purposes; and for personal enjoyment and recreation. ;  ;   ;  The Iowa Arboretum, Located on 378 acres in the heart of Boone county contains hundreds of species of trees, shrubs and flowers in a quiet scenic setting. This living museum offers something for visitors of all ages and interests. ;  Its main goal is to help people appreciate and better understand plant life. Here you can learn which plants are best adapted to the soils and climate of Iowa and how to use these plants properly for landscaping, gardening conservation and other purposes. The Arboretum also serves as an outdoor laboratory for testing the hardiness and adaptability of newly introduced plants. ;  ;  Come and walk the "Library Trail" to experience 19 different plant collections, plants with similar uses grouped together. Explore the 348 acre preserve, offering self-guided woodland trails that pass by scenic overlooks, deep ravines, and streams. A beautiful natural Iowa Landscape.;                        Main Address:;         Iowa Arboretum;         1875 Peach Avenue;                Madrid;        Iowa 50156 United States of America;        ;                 Telephone: (515) 795-3216;         Fax: (515) 795-2619;         URL: www.iowaarboretum.org;         Primary Email: info@IowaArboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.9381710
+2-Longitude: -93.8600320
+3-Arboretum: Yes
+3-Open to public: Yes
+4-Special Collections: Herbs, Hostas.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1398">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1398">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1398">Please click here if you can update us</a>
+9-ArbNet Accredited: Level III
+9-BGCI Member: No
+9-Fax: (515) 795-2619
+9-Institution Code: IOWAA
+9-International Agenda Registration: No
+9-Primary Email: info@IowaArboretum.org
+9-Telephone: (515) 795-3216
+9-URL: www.iowaarboretum.org

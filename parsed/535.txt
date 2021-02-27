@@ -1,23 +1,26 @@
-ID:	535
-Name:	Pinetum Blijdenstein 
-Administration Staff Number:	
-Curator's Name:	Dr. A. Aptroot, Curator of collections
-Director's Name:	Dr. A. Aptroot
-Educational Staff Number:	
-Horticultural Staff Number:	1
-Info:	  Netherlands - Hilversum  ;Garden Information;  Institution Code: HILVE; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Pinetum Blijdenstein; Van der Lindenlaan 125; Mailing: P.O. Box 49, 1200 AA Hilversum, The Netherlands; Hilversum; 1217 PJ Netherlands; ;  Telephone: +31 (0)35-6231123; Fax: +31 (0)35-6247767; URL: <a target="_blank" href="http://www.pinetum.nl">www.pinetum.nl; Primary Email: info@pinetum.nl ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1911
-Institution Type:	Botanic Garden
-Latitude:	52.2239
-Longitude:	5.1709
-Arboretum:	Yes
-Arboretum Size:	2
-Number of Volunteers:	25
-Open to public:	Yes
-Accession Number:	1600
-Cultivation Taxa Num:	500
-Special Collections:	Member of NPC scheme specialising in Coniferae, Cycadales, Ephedra, Rhododendron,. One of the major European collections of conifers and the largest in the Netherlands. Excellent and extensive collection of subtropical and tropical conifers in the glassho
-Ex Situ Conservation Programme:	Yes
+0-ID: 535
+1-Name: Pinetum Blijdenstein 
+2-Altitude: 0.00 Metres
+2-Date founded: 1911
+2-Info:              Institution Code: HILVE;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Pinetum Blijdenstein;         Van der Lindenlaan 125;        Mailing: P.O. Box 49, 1200 AA Hilversum, The Netherlands;        Hilversum;        1217 PJ Netherlands;        ;                 Telephone: +31 (0)35-6231123;         Fax: +31 (0)35-6247767;         URL: www.pinetum.nl;         Primary Email: info@pinetum.nl       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.2239
+2-Longitude: 5.1709
+3-Arboretum: Yes
+3-Arboretum Size: 2
+3-Number of Volunteers: 25
+3-Open to public: Yes
+4-Accession Number: 1600
+4-Cultivation Taxa Num: 500
+4-Special Collections: Member of NPC scheme specialising in Coniferae, Cycadales, Ephedra, Rhododendron,. One of the major European collections of conifers and the largest in the Netherlands. Excellent and extensive collection of subtropical and tropical conifers in the glassho
+5-Ex Situ Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=535">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=535">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +31 (0)35-6247767
+9-Institution Code: HILVE
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 49, 1200 AA Hilversum, The Netherlands
+9-Primary Email: info@pinetum.nl
+9-Telephone: +31 (0)35-6231123
+9-URL: www.pinetum.nl

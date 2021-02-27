@@ -1,15 +1,23 @@
-ID:	196
-Name:	Jardin Botanique de la Ville de Nice 
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	Christian lescos
-Educational Staff Number:	1
-Horticultural Staff Number:	4
-Info:	  France - Nice  ;Garden Information;  Institution Code: NICE; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de la Ville de Nice Location: NICE; Founded: 1982 ; Garden Name: Jardin Botanique de la Ville de Nice; Address: 78 Corniche Feurie, F-06200 NICE.; Status: Municipal; Herbarium: Yes Approx. no. of herbarium specimens: 6,000; Ex situ Collections:; Trees (300 taxa), conifers, s;  Main Address:; Jardin Botanique de la Ville de Nice; 78 avenue de la Corniche Fleurie; Nice; F-06200 France; ;  Telephone: 33 (0) 4 92 29 41 80; Fax: 33 (0) 4 92 29 41 82; URL: <a target="_blank" href="http://www.nice.fr/mairie_nice_921.html">http://www.nice.fr/mairie_nice_921.html; Primary Email: jardin.botanique@ville-nice.fr ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Date founded:	1982
-Institution Type:	Botanic Garden
-Latitude:	43.7030
-Longitude:	7.2137
-Special Collections:	Trees (300 taxa), conifers, shrubs, herbaceous plants (800 taxa), medicinal plants (150 spp.). Cistaceae, Rhamnaceae, Lamiaceae, Genista, Acacia, Salvia, Phlomis, Rosa, Dianthus, Yucca, Iris, Pelargonium, Opuntia, Stipa, Teucrium, Astragalus, Cistus, Vibu
+0-ID: 196
+1-Name: Jardin Botanique de la Ville de Nice 
+2-Date founded: 1982
+2-Info:              Institution Code: NICE;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique de la Ville de Nice        Location: NICE;  Founded: 1982 ;  Garden Name: Jardin Botanique de la Ville de Nice;  Address: 78 Corniche Feurie, F-06200 NICE.;  Status: Municipal;  Herbarium: Yes Approx. no. of herbarium specimens: 6,000;  Ex situ Collections:;  Trees (300 taxa), conifers, s;                        Main Address:;         Jardin Botanique de la Ville de Nice;         78 avenue de la Corniche Fleurie;                Nice;        F-06200 France;        ;                 Telephone: 33 (0) 4 92 29 41 80;         Fax: 33 (0) 4 92 29 41 82;         URL: http://www.nice.fr/mairie_nice_921.html;         Primary Email: jardin.botanique@ville-nice.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.7030
+2-Longitude: 7.2137
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=196">Please click here if you can update us</a>
+4-Special Collections: Trees (300 taxa), conifers, shrubs, herbaceous plants (800 taxa), medicinal plants (150 spp.). Cistaceae, Rhamnaceae, Lamiaceae, Genista, Acacia, Salvia, Phlomis, Rosa, Dianthus, Yucca, Iris, Pelargonium, Opuntia, Stipa, Teucrium, Astragalus, Cistus, Vibu
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=196">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=196">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=196">Please click here if you can update us</a>
+9-About the Jardin Botanique de la Ville de Nice        Location: NICE
+9-Address: 78 Corniche Feurie, F-06200 NICE.
+9-BGCI Member: No
+9-Fax: 33 (0) 4 92 29 41 82
+9-Founded: 1982
+9-Garden Name: Jardin Botanique de la Ville de Nice
+9-Institution Code: NICE
+9-International Agenda Registration: No
+9-Primary Email: jardin.botanique@ville-nice.fr
+9-Status: Municipal
+9-Telephone: 33 (0) 4 92 29 41 80

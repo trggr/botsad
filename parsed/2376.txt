@@ -1,74 +1,77 @@
-ID:	2376
-Name:	King Saud University Botanic Garden 
-Fax:	+966-1-4675833
-Info:	  Saudi Arabia - Riyadh - Riyadh  ;Garden Information;  Institution Code: KSU; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	jathomas@ksu.edu.sa
-Telephone:	+966-1-4675807
-Administration Staff Number:	1
-Curator's Name:	Dr. Jacob Thomas
-Director's Name:	Prof. Dr Ahmed H. Alfarhan
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	800.00 Metres
-Annual Rainfall:	120 mm
-Date founded:	1994
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	24.6748
-Longitude:	46.6977
-Natural Vegetation Area:	No
-Total Area:	1 Hectares
-Total area of glasshouses:	400 Metres
-Total area of shadehouses:	500 Metres
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	300
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	150
-Special Collections:	Live plants are mainly from the Central Region of Saudi Arabia. However, several species from the southwestern region and other parts of the Kingdom are also planted in this garden.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	No
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 2376
+1-Name: King Saud University Botanic Garden 
+2-Administration Staff Number: 1
+2-Curator's Name: Dr. Jacob Thomas
+2-Director's Name: Prof. Dr Ahmed H. Alfarhan
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: KSU;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/2376/New.gif" alt="Botanic Garden at King Saud University" />         Botanic Garden at King Saud University</div>        </div>                           About the King Saud University Botanic Garden        This botanic garden  has started in 1994 within the university campus to protect the rare and endangered plants. Although the garden is for students' practical purposes, the overall idea of establishing a garden in the University is to make people aware of the importance of botanic gardens and to train them in the planning, planting and protection of such gardens; and to persuade landscape architects and Municipal Authorities to use native plants in their plantings whenever and wherever suitable.;                        Main Address:;         King Saud University Botanic Garden;         College of Science,;        Department of Botany and Microbiology,;        Riyadh;        Riyadh 11451 Saudi Arabia;        ;                 Telephone: +966-1-4675807;         Fax: +966-1-4675833;         URL: http://www.ksu.edu.sa/sites/Colleges/CollegeofScinces/BotanyDepartment/habg/Default.aspx;         Primary Email: jathomas@ksu.edu.sa       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 3
+3-Altitude: 800.00 Metres
+3-Annual Rainfall: 120 mm
+3-Date founded: 1994
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 24.6748
+3-Longitude: 46.6977
+3-Natural Vegetation Area: No
+3-Total Area: 1 Hectares
+3-Total area of glasshouses: 400 Metres
+3-Total area of shadehouses: 500 Metres
+4-Arboretum: No
+4-Computer Plant Record System: No
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 300
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Cultivation Taxa Num: 150
+5-Special Collections: Live plants are mainly from the Central Region of Saudi Arabia. However, several species from the southwestern region and other parts of the Kingdom are also planted in this garden.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: No
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: +966-1-4675833
+9-Institution Code: KSU
+9-International Agenda Registration: No
+9-Primary Email: jathomas@ksu.edu.sa
+9-Telephone: +966-1-4675807

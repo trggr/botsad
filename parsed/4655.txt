@@ -1,9 +1,17 @@
-ID:	4655
-Name:	William Paca Garden 
-Curator's Name:	Mollie Ridout, Director of Horticulture
-Director's Name:	John Guild, President and CEO
-Info:	  United States of America - Maryland - Annapolis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; William Paca Garden; Historic Annapolis Foundation, Shiplap House; 18 Pinkney Street; Annapolis; Maryland 21401 United States of America; ;  Telephone: (410) 267-7619; Fax: ; URL: <a target="_blank" href="http://annapolis.org/index.asp?pageid=51%20">http://annapolis.org/index.asp?pageid=51%20; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.9785740
-Longitude:	-76.4874480
+0-ID: 4655
+1-Name: William Paca Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         William Paca Garden;         Historic Annapolis Foundation, Shiplap House;        18 Pinkney Street;        Annapolis;        Maryland 21401 United States of America;        ;                 Telephone: (410) 267-7619;         Fax: ;         URL: http://annapolis.org/index.asp?pageid=51%20;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.9785740
+2-Longitude: -76.4874480
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4655">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4655">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4655">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4655">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4655">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (410) 267-7619

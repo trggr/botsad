@@ -1,11 +1,19 @@
-ID:	4785
-Name:	Makana Botanical Garden 
-Curator's Name:	Mark Hazell
-Director's Name:	Unknown
-Info:	  South Africa - Eastern Cape - Grahamstown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Makana Botanical Garden; Rhodes University; Grahamstown; Eastern Cape South Africa; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://bots.ru.ac.za/index.html">http://bots.ru.ac.za/index.html; Primary Email: grounds@ru.ac.za ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1853
-Institution Type:	Botanic Garden
-Latitude:	-33.314994
-Longitude:	26.520789
+0-ID: 4785
+1-Name: Makana Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1853
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Makana Botanical Garden;         Rhodes University;                Grahamstown;        Eastern Cape South Africa;        ;                 Telephone: ;         Fax: ;         URL: http://bots.ru.ac.za/index.html;         Primary Email: grounds@ru.ac.za       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -33.314994
+2-Longitude: 26.520789
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4785">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4785">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4785">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4785">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4785">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: grounds@ru.ac.za
+9-Telephone: 

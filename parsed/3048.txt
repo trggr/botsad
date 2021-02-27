@@ -1,13 +1,21 @@
-ID:	3048
-Name:	Kunming Horticultural Landscape Botanical Garden (Yunnan) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Yunnan - Kunming  ;Garden Information;  Institution Code: KHLK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kunming Horticultural Landscape Botanical Garden (Yunnan); Parks and Landscape Bureau of Kunming, Golden Temple Park, Northern Suburbs, Kunming, Yunnan, 650224, China; Kunming; Yunnan China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1983
-Institution Type:	Botanic Garden
-Latitude:	25.0472
-Local Address:	中国云南省昆明市北郊金殿名胜区昆明园林局，邮编 650224
-Locality:	Information
-Longitude:	102.7000
-Special Collections:	Magnolia, Camellia, tropical ornamental Plants
+0-ID: 3048
+1-Name: Kunming Horticultural Landscape Botanical Garden (Yunnan) 
+2-Date founded: 1983
+2-Info:              Institution Code: KHLK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kunming Horticultural Landscape Botanical Garden (Yunnan);         Parks and Landscape Bureau of Kunming, Golden Temple Park,  Northern Suburbs, Kunming, Yunnan, 650224, China;                Kunming;        Yunnan China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.0472
+2-Local Address: 中国云南省昆明市北郊金殿名胜区昆明园林局，邮编 650224
+2-Locality: Information
+2-Longitude: 102.7000
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3048">Please click here if you can update us</a>
+4-Special Collections: Magnolia, Camellia, tropical ornamental Plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3048">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3048">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3048">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KHLK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

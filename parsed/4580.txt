@@ -1,10 +1,19 @@
-ID:	4580
-Name:	California Academy of Sciences - Department of Botany and Aquarium 
-Curator's Name:	Natoli Kristen, Aquarium Horticulturist
-Director's Name:	Debra Trock, Senior Collections Manager
-Info:	  United States of America - California - San Francisco  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; California Academy of Sciences - Department of Botany and Aquarium; 55 Music Concourse Drive; Golden Gate Park; San Francisco; California 94118 United States of America; ;  Telephone: (415) 379-5442; Fax: ; URL: <a target="_blank" href="http://www.calacademy.org">www.calacademy.org; Primary Email: botany@calacademy.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	37.7697361
-Longitude:	-122.4661381
+0-ID: 4580
+1-Name: California Academy of Sciences - Department of Botany and Aquarium 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         California Academy of Sciences - Department of Botany and Aquarium;         55 Music Concourse Drive;        Golden Gate Park;        San Francisco;        California 94118 United States of America;        ;                 Telephone: (415) 379-5442;         Fax: ;         URL: www.calacademy.org;         Primary Email: botany@calacademy.org       ;              
+2-Institution Type: Other
+2-Latitude: 37.7697361
+2-Longitude: -122.4661381
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4580">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4580">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4580">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4580">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4580">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: botany@calacademy.org
+9-Telephone: (415) 379-5442
+9-URL: www.calacademy.org

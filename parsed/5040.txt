@@ -1,9 +1,18 @@
-ID:	5040
-Name:	Dongguan Botanic Garden 
-Curator's Name:	
-Director's Name:	Wu Yong
-Info:	  China - Guangdong Province - Dougguan City  ;Garden Information;  Institution Code: DGB; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Dongguan Botanic Garden; No. 99 Green Road; Southern District; Dougguan City; Guangdong Province China; ;  Telephone: 0769-22985030; Fax: 0769-22887801; URL: <a target="_blank" href="http://www.dgzwy.com">www.dgzwy.com; Primary Email: hxfscau@163.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	22.967063
-Longitude:	113.749963
+0-ID: 5040
+1-Name: Dongguan Botanic Garden 
+2-Info:              Institution Code: DGB;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Dongguan Botanic Garden;         No. 99 Green Road;        Southern District;        Dougguan City;        Guangdong Province China;        ;                 Telephone: 0769-22985030;         Fax: 0769-22887801;         URL: www.dgzwy.com;         Primary Email: hxfscau@163.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.967063
+2-Longitude: 113.749963
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5040">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5040">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5040">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5040">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5040">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 0769-22887801
+9-Institution Code: DGB
+9-International Agenda Registration: No
+9-Primary Email: hxfscau@163.com
+9-Telephone: 0769-22985030
+9-URL: www.dgzwy.com

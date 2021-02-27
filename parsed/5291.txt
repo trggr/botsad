@@ -1,9 +1,18 @@
-ID:	5291
-Name:	Fundación Progressio 
-Curator's Name:	
-Director's Name:	
-Info:	  Dominican Republic - Santo Domingo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Fundación Progressio; Erick Leonard Eckmann #14; Altos de Arroyo Hondo; Santo Domingo; +1 809 565 1422 Dominican Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.fundacionprogressio.org">www.fundacionprogressio.org; Primary Email: ramon_elias_c@hotmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	18.4842028
-Longitude:	-69.945814
+0-ID: 5291
+1-Name: Fundación Progressio 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Fundación Progressio;         Erick Leonard Eckmann #14;        Altos de Arroyo Hondo;        Santo Domingo;        +1 809 565 1422 Dominican Republic;        ;                 Telephone: ;         Fax: ;         URL: www.fundacionprogressio.org;         Primary Email: ramon_elias_c@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.4842028
+2-Longitude: -69.945814
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5291">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5291">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5291">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5291">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5291">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ramon_elias_c@hotmail.com
+9-Telephone: 
+9-URL: www.fundacionprogressio.org

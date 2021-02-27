@@ -1,9 +1,18 @@
-ID:	5185
-Name:	Ghini/Bauble and Botanical gardens the Netherlands (Planten voor de toekomst) 
-Curator's Name:	
-Director's Name:	
-Info:	  Netherlands - Utrecht  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ghini/Bauble and Botanical gardens the Netherlands (Planten voor de toekomst); Benschoplaan 12; Utrecht; 3527 XW Netherlands; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	52.0778933
-Longitude:	5.0996859
+0-ID: 5185
+1-Name: Ghini/Bauble and Botanical gardens the Netherlands (Planten voor de toekomst) 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ghini/Bauble and Botanical gardens the Netherlands (Planten voor de toekomst);         Benschoplaan 12;                Utrecht;        3527 XW Netherlands;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.0778933
+2-Longitude: 5.0996859
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5185">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5185">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5185">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5185">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5185">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

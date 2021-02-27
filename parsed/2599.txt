@@ -1,11 +1,19 @@
-ID:	2599
-Name:	Joao Pessoa Botanical Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Brazil - Joao Pessoa  ;Garden Information;  Institution Code: JPES; International Agenda Registration: No; BGCI Member: No;  Main Address:; Joao Pessoa Botanical Gardens; Av. Dom Pedro II, no. 3284 Mata do Puraquinho, JOAO PESSOA - PB Brazil; Joao Pessoa; Brazil; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-7.1153
-Longitude:	-34.8610
-Special Collections:	None yet, but it contains an in situ reserve of Atlantic Rainforest.
+0-ID: 2599
+1-Name: Joao Pessoa Botanical Gardens 
+2-Date founded: 
+2-Info:              Institution Code: JPES;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Joao Pessoa Botanical Gardens;         Av. Dom Pedro II, no. 3284 Mata do Puraquinho, JOAO PESSOA - PB Brazil;                Joao Pessoa;        Brazil;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -7.1153
+2-Longitude: -34.8610
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2599">Please click here if you can update us</a>
+4-Special Collections: None yet, but it contains an in situ reserve of Atlantic Rainforest.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2599">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2599">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2599">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: JPES
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

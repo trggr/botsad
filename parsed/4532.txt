@@ -1,27 +1,30 @@
-ID:	4532
-Name:	Harmas de Fabre 
-Administration Staff Number:	2
-Curator's Name:	Frédéric Achille
-Director's Name:	Eric Joly
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Info:	  France - Sérignan du Comtat  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Harmas de Fabre; Museum National d'Histoire Naturelle; Sérignan du Comtat; 84830 France; ;  Telephone: +33 04 90 70 15 61; Fax: ; URL: <a target="_blank" href="http://www.museum-paca.org/harmas-collections.htm">http://www.museum-paca.org/harmas-collections.htm; Primary Email: syflamand@mnhn.fr ; 
-Plant Records Officer's Name:	Roseline Grouard
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	1922
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	44.18807
-Longitude:	4.84032
-Natural Vegetation Area:	Yes
-Total Area:	1 Hectares
-Arboretum:	Yes
-Computer Plant Record System:	No
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	36000
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
+0-ID: 4532
+1-Name: Harmas de Fabre 
+2-Altitude: 0.00 Metres
+2-Date founded: 1922
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Harmas de Fabre;         Museum National d'Histoire Naturelle;                Sérignan du Comtat;        84830 France;        ;                 Telephone: +33 04 90 70 15 61;         Fax: ;         URL: http://www.museum-paca.org/harmas-collections.htm;         Primary Email: syflamand@mnhn.fr       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 44.18807
+2-Longitude: 4.84032
+2-Natural Vegetation Area: Yes
+2-Total Area: 1 Hectares
+3-Arboretum: Yes
+3-Computer Plant Record System: No
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 36000
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4532">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4532">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4532">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4532">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: syflamand@mnhn.fr
+9-Telephone: +33 04 90 70 15 61

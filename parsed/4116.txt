@@ -1,62 +1,65 @@
-ID:	4116
-Name:	Nature Palace Botanical Gardens 
--"garden-project" style="margin-top:	1em"> Poverty Alleviation and Healthcare Promotion through Conservation (PHPC) <!-- <img src="/files/Community_projects/NP_drying_small.jpg" alt="" /> --> &nbsp
--</address><div align="right"><address><img width="450" height="300" style="width:	264px
--<address><img width="440" height="331" style="width:	260px
--<img width="400" height="93" style="width:	319px
--<img width="450" height="317" style="width:	259px
--<img width="450" height="325" style="width:	263px
--<img width="450" height="361" style="width:	450px
--height:	106px" src="/files/hsbc_logo.jpg" border="0" />
--"garden-project" style="margin-top:	1em"> Community-based Adaptation and Plant Conservation through Waste-to-Energy Recycling <!-- <img src="/files/wastetoenergy_community_members_learn_briquette_making1.JPG" alt="" /> --> &nbsp
--<div align="center"><address class="MsoNormal"><img width="400" height="300" style="width:	400px
--<div align="center"><address class="MsoNormal"><img width="400" height="380" style="width:	400px
--<font size="2"><font size="2"><font size="2"><font color="#000000" face="Times New Roman" size="3"><p class="MsoNormal"><img width="400" height="93" style="width:	286px
--<img width="400" height="300" style="width:	400px
--<strong>Duration:	</strong> January 2010 to January 2014
--A simple project with far-reaching benefits:	climate change mitigation, biodiversity conservation, community collaboration and economic gain through sustainable livelihoods. Nature Palace works with Pamoja Cleantech and The Renewable Energy Incubator of Makerere University to deliver training, education and support to participating communities.
--height:	95px" src="/files/makerere_uni_logo.jpg" border="0" />
-Fax:	
-For more information about the PHP-C project please contact David at:	naturepaldn@gmail.com
-Info:	  Uganda - Kampala  ;Garden Information;<a href="#tabs-2">Community Projects;  Institution Code: KAMPA; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	naturepaldn@gmail.com
-Telephone:	+256-772-625963
-Administration Staff Number:	3
-Curator's Name:	David Nkwanga Kintu
-Director's Name:	David Nkwanga Kintu
-Educational Staff Number:	2
-Horticultural Staff Number:	4
-Plant Records Officer's Name:	Olivia Muyomba
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Date founded:	2000
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	0.3133
-Longitude:	32.5713
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Mabamba Bay Nature School located at Mabamba Ramsar site (Wetland of International Importance)
-Total Area:	17 Hectares
-Computer Plant Record System:	Yes
-Open to public:	Yes
-Seed Bank:	Yes
-Special Collections:	NPBG makes plant collections of rare and threatened species with special interest in medicinal plants. Medicinal values of conserved plants is documented and Communities are encouraged to cultivate these species in order to foster multiplication and community involvement in their conservation. The Garden also has a programme for controlled exportation of plant specimens to other botanic gardens. For example 'Encephalartos hildebrandtii' which has been referred to as 'a living fossil' and other specimens. For more information please contact David at vibrantenv@hotmail.com
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Horticulture:	Yes
-Plant Breeding:	Yes
-Sustainability:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4116
+1-Name: Nature Palace Botanical Gardens 
+10-"garden-project" style="margin-top: 1em"> Community-based Adaptation and Plant Conservation through Waste-to-Energy Recycling <!-- <img src="/files/wastetoenergy_community_members_learn_briquette_making1.JPG" alt="" /> --> &nbsp
+10-</font></font></font><font size="2"><font size="2"><font size="2"><font color="#000000" face="Times New Roman" size="3"><p class="MsoNormal"><img width="400" height="93" style="width: 286px
+10-<div align="center"><address class="MsoNormal"><img width="400" height="300" style="width: 400px
+10-<div align="center"><address class="MsoNormal"><img width="400" height="380" style="width: 400px
+10-<img width="400" height="300" style="width: 400px
+10-<strong>Duration: </strong> January 2010 to January 2014&nbsp
+10-A simple project with far-reaching benefits: climate change mitigation, biodiversity conservation, community collaboration and economic gain through sustainable livelihoods. Nature Palace works with Pamoja Cleantech and The Renewable Energy Incubator of Makerere University to deliver training, education and support to participating communities. So far, Nature Palace has trained two local and two non-local groups in making and using fuel briquettes (flammable &ldquo
+10-height: 95px" src="/files/makerere_uni_logo.jpg" border="0" /><font size="3"><p class="MsoNormal">&nbsp
+2-Administration Staff Number: 3
+2-Curator's Name: David Nkwanga Kintu
+2-Director's Name: David Nkwanga Kintu
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 4
+2-Info:              Institution Code: KAMPA;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/4116/DSC03403.JPG" alt="A Medicinal Plants plot" />         A Medicinal Plants plot</div>        </div>                           About the Nature Palace Botanical Gardens        The Nature Palace Botanical Garden (NPBG), found in Uganda (East Africa) is a Community Development and Well-being-focused garden administered by Nature Palace Foundation. The garden has special emphasis on medicinal plants that are very essential to the welfare of poor communities in terms of known medicinal values. In 2005, NPBG was registered as a participant in the world-wide implementation of the International Agenda in support of Plant Conservation, Environmental Awareness and Sustainable Development.  ;  ;  In 2005, NPBG won an a grant from HSBC Bank Plc to implement the 'Poverty Alleviation and Health care Promotion through Conservation'(PHP-C) project.  Under this project NPBG is strengthening community collaboration in conservation and  developing a preliminary national list of threatened plants while documenting Indigenous Knowledge on Medicinal Plants.  As a result of this project, there is more and closer collaboration between the Botanic Garden and the neighboring communities.  A strong Community Conservation and Development group emerged and they are involved in the cultivation as well as promoting conservation of indigenous medicinal plants.  The group is also involved in processing herbal formula for sale to other people in the community and beyond thereby improving on their income and livelihoods.;  ;  For more information about the PHP-C project please contact David at: naturepaldn@gmail.com;  ;  Traditional Medicine Day, 31st August;  ;  Uganda joins other African countries to mark the African Traditional Medicine Day on every 31st of August. ;  ;  This day is very important for African countries since close to 80% of the population in Africa continue to rely on traditional medicine for healthy delivery.  The day also underscores the need for conservation of Medicinal plants. ;  ;  Nature Palace Foundation is involved in Conservation of Uganda’s biodiversity with special interest in Plants with Medicinal properties (which of course most have).  We are happy to see the increasing appreciation of the contribution of Medicinal plants to the well-being of the population, especially the poorer, and unfortunately, broader layer of the population.;                        Main Address:;         Nature Palace Botanical Gardens;         Jandira/Luwule;        PO Box 29455;        Kampala;        256414 Uganda;        ;                 Telephone: +256-772-625963;         Fax: ;         URL: http://botanic.naturepalace.net/;         Primary Email: naturepaldn@gmail.com       ;              
+2-Plant Records Officer's Name: Olivia Muyomba
+2-Research Staff Number: 2
+3-Altitude: 0.00 Metres
+3-Date founded: 2000
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 0.3133
+3-Longitude: 32.5713
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Mabamba Bay Nature School located at Mabamba Ramsar site (Wetland of International Importance)
+3-Total Area: 17 Hectares
+4-Computer Plant Record System: Yes
+4-Open to public: Yes
+4-Seed Bank: Yes
+5-Special Collections: NPBG makes plant collections of rare and threatened species with special interest in medicinal plants. Medicinal values of conserved plants is documented and Communities are encouraged to cultivate these species in order to foster multiplication and community involvement in their conservation. The Garden also has a programme for controlled exportation of plant specimens to other botanic gardens. For example 'Encephalartos hildebrandtii' which has been referred to as 'a living fossil' and other specimens. For more information please contact David at vibrantenv@hotmail.com
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Conservation - Biology: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Horticulture: Yes
+7-Plant Breeding: Yes
+7-Sustainability: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-"garden-project" style="margin-top: 1em"> Poverty Alleviation and Healthcare Promotion through Conservation (PHPC) <!-- <img src="/files/Community_projects/NP_drying_small.jpg" alt="" /> --> &nbsp
+9-</address><div align="right"><address><img width="450" height="300" style="width: 264px
+9-<address><img width="440" height="331" style="width: 260px
+9-<img width="400" height="93" style="width: 319px
+9-<img width="450" height="317" style="width: 259px
+9-<img width="450" height="325" style="width: 263px
+9-<img width="450" height="361" style="width: 450px
+9-BGCI Member: No
+9-Fax: 
+9-For more information about the PHP-C project please contact David at: naturepaldn@gmail.com
+9-Institution Code: KAMPA
+9-International Agenda Registration: Yes
+9-Primary Email: naturepaldn@gmail.com
+9-Telephone: +256-772-625963
+9-height: 106px" src="/files/hsbc_logo.jpg" border="0" />&nbsp

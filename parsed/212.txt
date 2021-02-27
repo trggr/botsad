@@ -1,38 +1,39 @@
-ID:	212
-Name:	Phipps Conservatory and Botanical Gardens 
-Administration Staff Number:	19
-Curator's Name:	Julie Razryadov, Curator of Horticulture
-Director's Name:	Richard Piacentini, Executive Director
-Educational Staff Number:	17
-Horticultural Staff Number:	18
-Info:	  United States of America - Pennsylvania - Pittsburgh  ;Garden Information;  Institution Code: PCPT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Phipps Conservatory and Botanical Gardens; One Schenley Park; Pittsburgh; Pennsylvania 15213-3830 United States of America; ;  Telephone: (412) 622-6915; Fax: (412) 665-2368; URL: <a target="_blank" href="http://www.phipps.conservatory.org">www.phipps.conservatory.org; Primary Email: ; 
-Plant Records Officer's Name:	Laura Schoch, Plant Recorder / Display Horticulturist
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Annual Rainfall:	961 mm
-Date founded:	1893
-Institution Type:	Botanic Garden
-Latitude:	40.4391970
-Longitude:	-79.9473500
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	317
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Orchids, cacti, tropical and subtropical plants, Chrysanthemum, medicinal plants, ferns, herbs and aquatic plants.
-Conservation Programme:	Yes
-Courses for General Public:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 212
+1-Name: Phipps Conservatory and Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 961 mm
+2-Date founded: 1893
+2-Info:              Institution Code: PCPT;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Phipps Conservatory and Botanical Gardens;         One Schenley Park;                Pittsburgh;        Pennsylvania 15213-3830 United States of America;        ;                 Telephone: (412) 622-6915;         Fax: (412) 665-2368;         URL: www.phipps.conservatory.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.4391970
+2-Longitude: -79.9473500
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Volunteers: 317
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Orchids, cacti, tropical and subtropical plants, Chrysanthemum, medicinal plants, ferns, herbs and aquatic plants.
+5-Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=212">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: (412) 665-2368
+9-Institution Code: PCPT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (412) 622-6915
+9-URL: www.phipps.conservatory.org

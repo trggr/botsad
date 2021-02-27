@@ -1,27 +1,32 @@
-ID:	3504
-Name:	Heathcote Botanical Gardens 
-Curator's Name:	Miriam Charles, Horticulturist
-Director's Name:	Unknown
-Info:	  United States of America - Florida - Fort Pierce  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Heathcote Botanical Gardens Heathcote Botanical Gardens consists of an assortment of specialty gardens including a Japanese Garden, Reflection Garden, Herb Garden, Rainforest Display, Native Plants Garden and a Palm & Cycad Walk. These areas convey an atmosphere of individual garden rooms. Through this type of garden design, you will sense the intimacy of this unique botanical garden. Gracing the areas in between these specialty gardens are borders of flowering shrubs, bulbs, trees, vines and other assorted herbaceous plants. Niches found throughout the garden provide varied microclimates, which allows the use of a wide variety of plants ranging from those found in Mediterranean climates to the Tropics.;  Main Address:; Heathcote Botanical Gardens; 210 Savannah Road; Fort Pierce; Florida 34982 United States of America; ;  Telephone: (772) 464-4672; Fax: (772) 489-2748; URL: <a target="_blank" href="http://www.heathcotebotanicalgardens.org">www.heathcotebotanicalgardens.org; Primary Email: info@heathcotebotanicalgardens.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1985
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	27.4178520
-Longitude:	-80.3230330
-Total Area:	1 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Friends society:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Special Collections:	Japanese Garden, Reflection Garden, Herb Garden, Rainforest Display, Native Plants Garden and a Palm & Cycad Walk. Shrubs, bulbs, trees, vines and other assorted herbaceous plants.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
+0-ID: 3504
+1-Name: Heathcote Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1985
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Heathcote Botanical Gardens        Heathcote Botanical Gardens consists of an assortment of specialty gardens including a Japanese Garden, Reflection Garden, Herb Garden, Rainforest Display, Native Plants Garden and a Palm & Cycad Walk. These areas convey an atmosphere of individual garden rooms. Through this type of garden design, you will sense the intimacy of this unique botanical garden. Gracing the areas in between these specialty gardens are borders of flowering shrubs, bulbs, trees, vines and other assorted herbaceous plants. Niches found throughout the garden provide varied microclimates, which allows the use of a wide variety of plants ranging from those found in Mediterranean climates to the Tropics.;                        Main Address:;         Heathcote Botanical Gardens;         210 Savannah Road;                Fort Pierce;        Florida 34982 United States of America;        ;                 Telephone: (772) 464-4672;         Fax: (772) 489-2748;         URL: www.heathcotebotanicalgardens.org;         Primary Email: info@heathcotebotanicalgardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 27.4178520
+2-Longitude: -80.3230330
+2-Total Area: 1 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Friends society: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Special Collections: Japanese Garden, Reflection Garden, Herb Garden, Rainforest Display, Native Plants Garden and a Palm & Cycad Walk. Shrubs, bulbs, trees, vines and other assorted herbaceous plants.
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3504">Please click here if you can update us</a>
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: (772) 489-2748
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@heathcotebotanicalgardens.org
+9-Telephone: (772) 464-4672
+9-URL: www.heathcotebotanicalgardens.org

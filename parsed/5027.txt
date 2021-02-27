@@ -1,17 +1,21 @@
-ID:	5027
-Name:	Newport Arboretum, The 
-Administration Staff Number:	2
-Curator's Name:	Kristyn Woodland
-Director's Name:	Lilly Dick, Board President
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Info:	  United States of America - Rhode Island - Newport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Newport Arboretum, The The Newport Arboretum is New England's first citywide arboretum.;  Main Address:; Newport Arboretum, The; P.O. Box 863; Newport; Rhode Island 02840 United States of America; ;  Telephone: (401) 324-9204; Fax: ; URL: <a target="_blank" href="http://newportarboretum.org">http://newportarboretum.org; Primary Email: trees@newportarboretum.org ; 
-Plant Records Officer's Name:	Kristyn Woodland
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	2011
-Institution Type:	Other
-Latitude:	41.493311
-Longitude:	-71.310520
-Open to public:	Yes
-Published Plant Catalogue:	Yes
+0-ID: 5027
+1-Name: Newport Arboretum, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 2011
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                          About the Newport Arboretum, The        The Newport Arboretum is New England's first citywide arboretum.;                        Main Address:;         Newport Arboretum, The;         P.O. Box 863;                Newport;        Rhode Island 02840 United States of America;        ;                 Telephone: (401) 324-9204;         Fax: ;         URL: http://newportarboretum.org;         Primary Email: trees@newportarboretum.org       ;              
+2-Institution Type: Other
+2-Latitude: 41.493311
+2-Longitude: -71.310520
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5027">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5027">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5027">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5027">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: trees@newportarboretum.org
+9-Telephone: (401) 324-9204

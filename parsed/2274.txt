@@ -1,14 +1,21 @@
-ID:	2274
-Name:	Jardín Botánico Alberto Roth 
-Curator's Name:	Lic. Prof. Manuela Rodríguez
-Director's Name:	Téc. Verónica Jakus
-Info:	  Argentina - Misiones - Posadas  ;Garden Information;  Institution Code: POSADAS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Alberto Roth; Av. Balcarce y 31 A. Chacra 223 Barrio Kenedy; Secretaría de Planificación Estratégica y Territorial Municipalidad de Posadas, Diag.45 casi Av. Costanera S/N; Posadas; Misiones 3300 Argentina; ;  Telephone: 54 (0) 376-4597850; Fax: ; URL: <a target="_blank" href="http://www.botanico.posadas.gov.ar">http://www.botanico.posadas.gov.ar; Primary Email: botanico@posadas.gov.ar ; 
-Plant Records Officer's Name:	Lic. Prof. Manuela Rodríguez
-Altitude:	0.00 Metres
-Date founded:	1981
-Institution Type:	Botanic Garden
-Latitude:	-27.4081
-Longitude:	-55.89666
-Total Area:	11 Hectares
-Cultivation Taxa Num:	154
-Special Collections:	Alberto Roth Botanical Garden hosts a variety of trees, shrubs, herbs and vines native and exotic. Here you will find a total of 154 species, 109 native (70.8%).
+0-ID: 2274
+1-Name: Jardín Botánico Alberto Roth 
+2-Altitude: 0.00 Metres
+2-Date founded: 1981
+2-Info:              Institution Code: POSADAS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Alberto Roth;         Av. Balcarce y 31 A. Chacra 223  Barrio Kenedy;        Secretaría de Planificación  Estratégica y Territorial Municipalidad de Posadas, Diag.45 casi Av. Costanera S/N;        Posadas;        Misiones 3300 Argentina;        ;                 Telephone: 54 (0) 376-4597850;         Fax: ;         URL: http://www.botanico.posadas.gov.ar;         Primary Email: botanico@posadas.gov.ar       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -27.4081
+2-Longitude: -55.89666
+2-Total Area: 11 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2274">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 154
+4-Special Collections: Alberto Roth Botanical Garden hosts a variety of trees, shrubs, herbs and vines native and exotic. Here you will find a total of 154 species, 109 native (70.8%).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2274">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2274">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2274">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: POSADAS
+9-International Agenda Registration: No
+9-Primary Email: botanico@posadas.gov.ar
+9-Telephone: 54 (0) 376-4597850

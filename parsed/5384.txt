@@ -1,41 +1,42 @@
-ID:	5384
-Name:	Osa Conservation 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Dr. Andrew Whitworth
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Info:	  Costa Rica - Golfito - Puerto Jiménez  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Osa Conservation The Osa Arboretum is located in Costa Rica’s Osa Peninsula, one of the most biologically intense regions on the planet. Protecting more than 300 native, endemic, rare and threatened trees, the Osa Arboretum is an ideal environmental education site which connects people to nature as they learn about Osa’s flora. With a trail network spanning 617 acres across coastal, mangrove, secondary and old-growth forests, the Osa Arboretum aims to be one of the largest arboretums in Central America. The Osa Arboretum is an initiative of Osa Conservation, a non-profit organization that has been protecting the Osa since 2003.;  Main Address:; Osa Conservation; Apdo. 54-8203; Puerto Jiménez; Golfito Costa Rica; ;  Telephone: +506 2735 5756; Fax: +506 2735 5754; URL: <a target="_blank" href="http://osaconservation.org/">http://osaconservation.org/; Primary Email: info@osaconservation.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	50.00 Metres
-Date founded:	2019
-Institution Type:	Botanic Garden
-Latitude:	8.4040194
-Local Address:	Estación Biologica Osa (Piro), Osa Peninsula, Costa Rica
-Locality:	Information
-Longitude:	-83.336552
-Total Area:	250 Hectares
-Arboretum:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	186
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	No
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Land Restoration:	Yes
-Restoration Ecology:	Yes
+0-ID: 5384
+1-Name: Osa Conservation 
+2-Altitude: 50.00 Metres
+2-Date founded: 2019
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level I       ;                                          About the Osa Conservation        The Osa Arboretum is located in Costa Rica’s Osa Peninsula, one of the most biologically intense regions on the planet. Protecting more than 300 native, endemic, rare and threatened trees, the Osa Arboretum is an ideal environmental education site which connects people to nature as they learn about Osa’s flora. With a trail network spanning 617 acres across coastal, mangrove, secondary and old-growth forests, the Osa Arboretum aims to be one of the largest arboretums in Central America. The Osa Arboretum is an initiative of Osa Conservation, a non-profit organization that has been protecting the Osa since 2003.;                        Main Address:;         Osa Conservation;         Apdo. 54-8203;                Puerto Jiménez;        Golfito Costa Rica;        ;                 Telephone: +506 2735 5756;         Fax: +506 2735 5754;         URL: http://osaconservation.org/;         Primary Email: info@osaconservation.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 8.4040194
+2-Local Address: Estación Biologica Osa (Piro), Osa Peninsula, Costa Rica
+2-Locality: Information
+2-Longitude: -83.336552
+2-Total Area: 250 Hectares
+3-Arboretum: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Seed Bank: No
+4-ABS Policy: No
+4-Accession Number: 186
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: No
+4-Plant Collection Policy: No
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: No
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Land Restoration: Yes
+6-Restoration Ecology: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5384">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: Yes
+9-Fax: +506 2735 5754
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@osaconservation.org
+9-Telephone: +506 2735 5756

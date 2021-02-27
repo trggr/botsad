@@ -1,11 +1,19 @@
-ID:	2335
-Name:	Botanic Garden of the Solovki History 
-Curator's Name:	
-Director's Name:	Tatiana L. Fokina
-Info:	  Russian Federation - Solovki  ;Garden Information;  Institution Code: SOLOV; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanic Garden of the Solovki History; Architecture Museum Reservation, Solovki, ARCHANGELSKOI ob, 164409 Russian Federation; Solovki; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	64.5369
-Longitude:	40.5655
-Special Collections:	No information available.
+0-ID: 2335
+1-Name: Botanic Garden of the Solovki History 
+2-Date founded: 1974
+2-Info:              Institution Code: SOLOV;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Botanic Garden of the Solovki History;         Architecture Museum Reservation, Solovki, ARCHANGELSKOI ob, 164409 Russian Federation;                Solovki;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 64.5369
+2-Longitude: 40.5655
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2335">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2335">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2335">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2335">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: SOLOV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

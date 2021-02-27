@@ -1,44 +1,48 @@
-ID:	4520
-Name:	Gareev Botanical Garden of the National Academy of Sciences, Kyrgyzstan 
-Fax:	+996(312)517355
-Info:	  Kyrgyzstan - Bishkek  ;Garden Information;  Institution Code: FRU; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	gareev100@mail.ru
-Telephone:	+996(312)517355, 517932
-Administration Staff Number:	6
-Curator's Name:	
-Director's Name:	Tashtanbek Akymbaevich Kochkumbayev
-Educational Staff Number:	
-Horticultural Staff Number:	
-Plant Records Officer's Name:	
-Research Staff Number:	29
-Altitude:	900.00 Metres
-Date founded:	1938
-Institution Type:	Botanic Garden
-Latitude:	42.90
-Local Address:	ул. Ахунбаева 1-а
-Locality:	Information
-Longitude:	74.60
-Total Area:	172 Hectares
-Total area of glasshouses:	500 Metres
-Arboretum:	Yes
-Computer Plant Record System:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Invasive Species Monitoring:	Yes
-Reintroduction Programme:	Yes
-Biotechnology:	No
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
-Plant Breeding:	Yes
-Urban Environments:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 4520
+1-Name: Gareev Botanical Garden of the National Academy of Sciences, Kyrgyzstan 
+2-Administration Staff Number: 6
+2-Curator's Name: 
+2-Director's Name: Tashtanbek Akymbaevich Kochkumbayev
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 
+2-Info:              Institution Code: FRU;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/4520/gareev_small.jpg" alt="View to the Tien Shan from the arboretum of Gareev Botanical Garden" />         View to the Tien Shan from the arboretum of Gareev Botanical Garden</div>        </div>                           About the Gareev Botanical Garden of the National Academy of Sciences, Kyrgyzstan        The Gareev Botanical Garden of National Academy of Sciences of the Kyrgyz Republic was established in 1938 and is a centre for the research and conservation of the biodiversity of local and foreign flora. It is a leading research institution in the field of introduction and acclimatisation, physiology, selection and genetics of plants. The botanical garden has a unique collection which numbers nearly 5000 taxa of higher vascular plants. The Botanical Garden is located in Bishkek, in the foothills area of the Chui Valley at about 900 meters altitude. The total area is 150 hectares. ;  ;  From 2009 as part of a Darwin Initiative-funded project (2009 – 2012) on participative forest management in the Tian-Shan region of Kyrgyzstan, Gareev Botanical Garden has been working with Botanic Gardens Conservation International (BGCI) to create a panel exhibition containing information on key species of Kyrgyzstan’s fruit and nut forests. The botanic garden provides an ideal vehicle to publicise the conservation work of the project and reach out to a large public regarding the importance of the wild fruit and nut forests of Kyrgyzstan. Many of the species that have been researched under this Darwin Initiative, grow in the garden’s living collections offering thereby an excellent opportunity to visualise these species live supported by special displays and plant labels.;                        Main Address:;         Gareev Botanical Garden of the National Academy of Sciences, Kyrgyzstan;         1-a  Akhunbaeva str.;                Bishkek;        720064 Kyrgyzstan;        ;                 Telephone: +996(312)517355, 517932;         Fax: +996(312)517355;         URL: www.botanica.kg;         Primary Email: gareev100@mail.ru       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 29
+3-Altitude: 900.00 Metres
+3-Date founded: 1938
+3-Institution Type: Botanic Garden
+3-Latitude: 42.90
+3-Local Address: ул. Ахунбаева 1-а
+3-Locality: Information
+3-Longitude: 74.60
+3-Total Area: 172 Hectares
+3-Total area of glasshouses: 500 Metres
+4-Arboretum: Yes
+4-Computer Plant Record System: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Invasive Species Monitoring: Yes
+6-Reintroduction Programme: Yes
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Horticulture: Yes
+7-Plant Breeding: Yes
+7-Urban Environments: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: Yes
+9-BGCI Member: Yes
+9-Fax: +996(312)517355
+9-Institution Code: FRU
+9-International Agenda Registration: No
+9-Primary Email: gareev100@mail.ru
+9-Telephone: +996(312)517355, 517932
+9-URL: www.botanica.kg

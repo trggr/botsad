@@ -1,9 +1,18 @@
-ID:	4579
-Name:	Japanese Friendship Garden 
-Curator's Name:	Javier Palacios, Head Gardener
-Director's Name:	Luanne Kanzawa, Executive Director
-Info:	  United States of America - California - San Diego  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Japanese Friendship Garden; 2125 Park Boulevard; San Diego; California 92101 United States of America; ;  Telephone: (619) 232-2721; Fax: ; URL: <a target="_blank" href="http://www.niwa.org">www.niwa.org; Primary Email: jfgsd@niwa.org ; 
-Plant Records Officer's Name:	Paul Johnson, Senior Gardener
-Institution Type:	Botanic Garden
-Latitude:	32.7522262
-Longitude:	-117.1462370
+0-ID: 4579
+1-Name: Japanese Friendship Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Japanese Friendship Garden;         2125 Park Boulevard;                San Diego;        California 92101 United States of America;        ;                 Telephone: (619) 232-2721;         Fax: ;         URL: www.niwa.org;         Primary Email: jfgsd@niwa.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.7522262
+2-Longitude: -117.1462370
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4579">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4579">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4579">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4579">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4579">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jfgsd@niwa.org
+9-Telephone: (619) 232-2721
+9-URL: www.niwa.org

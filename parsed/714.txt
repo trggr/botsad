@@ -1,26 +1,33 @@
-ID:	714
-Name:	Morris Arboretum, The 
-Curator's Name:	Anthony Aiello, Curator and Director of Horticulture
-Director's Name:	William G. Cullina, The F. Otto Haas Executive Director
-Info:	  United States of America - Pennsylvania - Philadelphia  ;Garden Information;  Institution Code: MOAR; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Morris Arboretum, The The Morris Arboretum of the University of Pennsylvania is a historic public garden and educational institution. It promotes an understanding of the relationship between plants, people and place through programmes that integrate science, art and the humanities.;  Main Address:; Morris Arboretum, The; 100 Northwestern Avenue; Philadelphia; Pennsylvania 19118 United States of America; ;  Telephone: (215) 247-5777; Fax: (215) 248-4439; URL: <a target="_blank" href="http://www.morrisarboretum.org">www.morrisarboretum.org; Primary Email: info@morrisarboretum.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1932
-Institution Type:	Botanic Garden
-Latitude:	40.0848283
-Longitude:	-75.2317794
-Total Area:	67 Hectares
-Arboretum:	Yes
-Arboretum Size:	67
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	500
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Special Collections:	Hamamelidaceae, Acer (27 spp., 67 taxa), Ilex (17 spp., 111 taxa), Magnolia (13 spp., 51 taxa), Rhododendron and native deciduous azalea (14 spp., 10 taxa), Rosa (58 taxa). Extensive Asian collections collected in late 1800's by John Morris and Ernest Wil
-Courses for General Public:	Yes
-Education Signs in Garden:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 714
+1-Name: Morris Arboretum, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 1932
+2-Info:              Institution Code: MOAR;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level IV       ;                                          About the Morris Arboretum, The        The Morris Arboretum of the University of Pennsylvania is a historic public garden and educational institution. It promotes an understanding of the relationship between plants, people and place through programmes that integrate science, art and the humanities.;                        Main Address:;         Morris Arboretum, The;         100 Northwestern Avenue;                Philadelphia;        Pennsylvania 19118 United States of America;        ;                 Telephone: (215) 247-5777;         Fax: (215) 248-4439;         URL: www.morrisarboretum.org;         Primary Email: info@morrisarboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.0848283
+2-Longitude: -75.2317794
+2-Total Area: 67 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 67
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Volunteers: 500
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: No
+4-Special Collections: Hamamelidaceae, Acer (27 spp., 67 taxa), Ilex (17 spp., 111 taxa), Magnolia (13 spp., 51 taxa), Rhododendron and native deciduous azalea (14 spp., 10 taxa), Rosa (58 taxa). Extensive Asian collections collected in late 1800's by John Morris and Ernest Wil
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=714">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=714">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Education Signs in Garden: Yes
+7-Public Lectures/Talks: Yes
+9-ArbNet Accredited: Level IV
+9-BGCI Member: Yes
+9-Fax: (215) 248-4439
+9-Institution Code: MOAR
+9-International Agenda Registration: No
+9-Primary Email: info@morrisarboretum.org
+9-Telephone: (215) 247-5777
+9-URL: www.morrisarboretum.org

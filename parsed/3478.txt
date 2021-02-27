@@ -1,41 +1,47 @@
-ID:	3478
-Name:	Santa Fe Botanical Garden 
-Fax:	
-Info:	  United States of America - New Mexico - Santa Fe  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	info@santafebotanicalgarden.org
-Telephone:	(505) 471-9103
-Administration Staff Number:	5
-Curator's Name:	Cristina Salvador, Collections Manager
-Director's Name:	Clayton Bass, Chief Executive Officer
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	2134.00 Metres
-Annual Rainfall:	360 mm
-Date founded:	1987
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	35.6562790
-Longitude:	-105.9389900
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Leonora Curtin Wetland Preserve Ortiz Mountains Educational Preserve
-Total Area:	6 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	40000
-Number of Volunteers:	400
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Plant Collection Policy:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 3478
+1-Name: Santa Fe Botanical Garden 
+2-Administration Staff Number: 5
+2-Curator's Name: Cristina Salvador, Collections Manager
+2-Director's Name: Clayton Bass, Chief Executive Officer
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/3478/SFBGlogo_SquareYouTube.jpg" alt="" />         </div>        </div>                           About the Santa Fe Botanical Garden        The Santa Fe Botanical Garden celebrates, cultivates and conserves the rich botanical heritage and biodiversity of our region. In partnership with nature, we demonstrate our commitment through education, community service and the sustainable management of our nature preserves and public garden.;                        Main Address:;         Santa Fe Botanical Garden;         P.O. Box 23343;                Santa Fe;        New Mexico 87502-3343 United States of America;        ;                 Telephone: (505) 471-9103;         Fax: ;         URL: www.santafebotanicalgarden.org;         Primary Email: info@santafebotanicalgarden.org       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 2134.00 Metres
+3-Annual Rainfall: 360 mm
+3-Date founded: 1987
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 35.6562790
+3-Longitude: -105.9389900
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Leonora Curtin Wetland Preserve Ortiz Mountains Educational Preserve
+3-Total Area: 6 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 40000
+4-Number of Volunteers: 400
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Plant Collection Policy: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3478">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3478">Please click here if you can update us</a>
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@santafebotanicalgarden.org
+9-Telephone: (505) 471-9103
+9-URL: www.santafebotanicalgarden.org

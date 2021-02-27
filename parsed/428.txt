@@ -1,13 +1,19 @@
-ID:	428
-Name:	Botanischer Garten der Friedrich-Schiller-Universitaet 
-Curator's Name:	Dr. Stefan Arndt
-Director's Name:	Prof. Dr. Frank Hellwig
-Info:	  Germany - Deutschland - Jena  ;Garden Information;  Institution Code: JENA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Friedrich-Schiller-Universitaet; Fuerstengraben 26; Jena; 07743 Germany - Deutschland; ;  Telephone: +49 (0)3641 949250; Fax: +49 (0)3641 949252; URL: <a target="_blank" href="http://www2.uni-jena.de/biologie/spezbot/">http://www2.uni-jena.de/biologie/spezbot/; Primary Email: thomas.bopp@uni-jena.de ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1586
-Institution Type:	Botanic Garden
-Latitude:	50.9496
-Longitude:	11.5838
-Open to public:	Yes
-Special Collections:	Mountain and rock plants, especially from Mediterranean regions
+0-ID: 428
+1-Name: Botanischer Garten der Friedrich-Schiller-Universitaet 
+2-Altitude: 0.00 Metres
+2-Date founded: 1586
+2-Info:              Institution Code: JENA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanischer Garten der Friedrich-Schiller-Universitaet;         Fuerstengraben 26;                Jena;        07743 Germany - Deutschland;        ;                 Telephone: +49 (0)3641  949250;         Fax: +49 (0)3641  949252;         URL: http://www2.uni-jena.de/biologie/spezbot/;         Primary Email: thomas.bopp@uni-jena.de       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.9496
+2-Longitude: 11.5838
+3-Open to public: Yes
+4-Special Collections: Mountain and rock plants, especially from Mediterranean regions
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=428">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=428">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=428">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +49 (0)3641  949252
+9-Institution Code: JENA
+9-International Agenda Registration: No
+9-Primary Email: thomas.bopp@uni-jena.de
+9-Telephone: +49 (0)3641  949250

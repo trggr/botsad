@@ -1,10 +1,18 @@
-ID:	1082
-Name:	Botanical Gardens 
-Curator's Name:	G. Erdenjav
-Director's Name:	C. Ceren
-Info:	  Mongolia - Ulaanbaatar 51  ;Garden Information;  Institution Code: UBA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanical Gardens; Institute of Botany - Academy of Sciences of the MPR; Junkov avenue - 77; Ulaanbaatar 51; Mongolia; ;  Telephone: 976 (11) 451837/451996/451014; Fax: 976 1 321638; URL: <a target="_blank" href="http://www.mas.ac.mn/en">www.mas.ac.mn/en; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	47.9138
-Longitude:	106.9220
+0-ID: 1082
+1-Name: Botanical Gardens 
+2-Date founded: 1974
+2-Info:              Institution Code: UBA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Botanical Gardens;         Institute of Botany -  Academy of Sciences of the MPR;        Junkov avenue - 77;        Ulaanbaatar 51;        Mongolia;        ;                 Telephone: 976 (11) 451837/451996/451014;         Fax: 976 1 321638;         URL: www.mas.ac.mn/en;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.9138
+2-Longitude: 106.9220
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1082">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1082">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1082">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1082">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 976 1 321638
+9-Institution Code: UBA
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 976 (11) 451837/451996/451014
+9-URL: www.mas.ac.mn/en

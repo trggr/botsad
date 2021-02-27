@@ -1,54 +1,55 @@
-ID:	772
-Name:	Hoyt Arboretum 
-Administration Staff Number:	2
-Curator's Name:	Martin Nicholson, Curator
-Director's Name:	Anna Goldrich, Executive Director
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Info:	  United States of America - Oregon - Portland  ;Garden Information;  Institution Code: HOYT; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; About the Hoyt Arboretum Hoyt Arboretum is Portland's global garden in the wild, where we grow and exhibit trees and plants from around the world while educating our community and conserving vitally important plant bio-diversity.;  Main Address:; Hoyt Arboretum; Portland Parks & Recreation; 4000 SW Fairview Boulevard; Portland; Oregon 97221 United States of America; ;  Telephone: (503) 823 1649; Fax: (503) 823-4213; URL: <a target="_blank" href="http://www.hoytarboretum.org">www.hoytarboretum.org; Primary Email: info@hoytarboretum.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	300.00 Metres
-Date founded:	1928
-Institution Type:	Botanic Garden
-Latitude:	45.5146037
-Longitude:	-122.7177981
-Natural Vegetation Area:	Yes
-Total Area:	76 Hectares
-Arboretum:	Yes
-Arboretum Size:	76
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	450000
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Accession Number:	5850
-Cultivation Taxa Num:	1780
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Aceraceae, Fagaceae, Pinaceae, Rosaceae, Taxodiaceae, Acer (33 spp., 43 taxa), Picea (15 spp., 20 taxa), Pinus (45 spp., 58 taxa), Quercus (28 spp., 31 taxa). One of the largest collections of species of gymnosperms in the United States.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Education:	Yes
-Horticulture:	Yes
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Seed/Spore Biology:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	Yes
+0-ID: 772
+1-Name: Hoyt Arboretum 
+2-Altitude: 300.00 Metres
+2-Date founded: 1928
+2-Info:              Institution Code: HOYT;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level III       ;                                          About the Hoyt Arboretum        Hoyt Arboretum is Portland's global garden in the wild, where we grow and exhibit trees and plants from around the world while educating our community and conserving vitally important plant bio-diversity.;                        Main Address:;         Hoyt Arboretum;         Portland Parks & Recreation;        4000 SW Fairview Boulevard;        Portland;        Oregon 97221 United States of America;        ;                 Telephone: (503) 823 1649;         Fax: (503) 823-4213;         URL: www.hoytarboretum.org;         Primary Email: info@hoytarboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.5146037
+2-Longitude: -122.7177981
+2-Natural Vegetation Area: Yes
+2-Total Area: 76 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 76
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 450000
+3-Number of Volunteers: 100
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-Accession Number: 5850
+4-Cultivation Taxa Num: 1780
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Aceraceae, Fagaceae, Pinaceae, Rosaceae, Taxodiaceae, Acer (33 spp., 43 taxa), Picea (15 spp., 20 taxa), Pinus (45 spp., 58 taxa), Quercus (28 spp., 31 taxa). One of the largest collections of species of gymnosperms in the United States.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-Agriculture: No
+6-Biotechnology: No
+6-Education: Yes
+6-Horticulture: Yes
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Seed/Spore Biology: No
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: No
+7-Visitor/Education Centre: Yes
+9-ArbNet Accredited: Level III
+9-BGCI Member: Yes
+9-Fax: (503) 823-4213
+9-Institution Code: HOYT
+9-International Agenda Registration: No
+9-Primary Email: info@hoytarboretum.org
+9-Telephone: (503) 823 1649
+9-URL: www.hoytarboretum.org

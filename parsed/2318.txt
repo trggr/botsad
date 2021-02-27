@@ -1,10 +1,19 @@
-ID:	2318
-Name:	Eidgenossische Forschunganstalt fur Pflanzenbau 
-Curator's Name:	Regula Schmitt/
-Director's Name:	
-Info:	  Switzerland - Zurich-reckenholz  ;Garden Information;  Institution Code: EIDGE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Eidgenossische Forschunganstalt fur Pflanzenbau; Alpinum Arosa, 8046 ZURICH-RECKENHOLZ, Switzerland; Zurich-reckenholz; Switzerland; ;  Telephone: 1.3777111; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	47.4258
-Longitude:	8.5171
+0-ID: 2318
+1-Name: Eidgenossische Forschunganstalt fur Pflanzenbau 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: EIDGE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Eidgenossische Forschunganstalt fur Pflanzenbau;         Alpinum Arosa,   8046 ZURICH-RECKENHOLZ,   Switzerland;                Zurich-reckenholz;        Switzerland;        ;                 Telephone: 1.3777111;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 47.4258
+2-Longitude: 8.5171
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2318">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2318">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2318">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2318">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2318">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: EIDGE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 1.3777111
+9-URL: 

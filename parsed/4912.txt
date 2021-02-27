@@ -1,9 +1,18 @@
-ID:	4912
-Name:	University of Port Harcourt Gardens 
-Curator's Name:	Dr. Nsirim, L. Edwin-Wosu
-Director's Name:	Professor Edith N. Elenwo
-Info:	  Nigeria - Rivers State - Choba  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Port Harcourt Gardens; University of Port Harcourt; Choba; Rivers State Nigeria; ;  Telephone: 234 0803 339 9889; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: rcbdc@uniport.edu.ng ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	4.89272
-Longitude:	6.91545
+0-ID: 4912
+1-Name: University of Port Harcourt Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Port Harcourt Gardens;         University of Port Harcourt;                Choba;        Rivers State Nigeria;        ;                 Telephone: 234 0803 339 9889;         Fax: ;         URL: ;         Primary Email: rcbdc@uniport.edu.ng       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 4.89272
+2-Longitude: 6.91545
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4912">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4912">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4912">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4912">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4912">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: rcbdc@uniport.edu.ng
+9-Telephone: 234 0803 339 9889
+9-URL: 

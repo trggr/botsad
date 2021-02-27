@@ -1,28 +1,30 @@
-ID:	439
-Name:	Georgetown Botanical Gardens 
-Administration Staff Number:	2
-Curator's Name:	Ms Yolanda Vasconcellos
-Director's Name:	Ms Inge Nathoo
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Info:	  Guyana - Georgetown  ;Garden Information;  Institution Code: BRG; International Agenda Registration: No; BGCI Member: No; About the Georgetown Botanical Gardens associated nature reserves Kaieteur National Park (627 sq km);  Main Address:; Georgetown Botanical Gardens; National Parks Commission; National Park, Thomas Road, Thomas Lands; Georgetown; Guyana; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.landofsixpeoples.com/h2pict.htm and search Botanic Gardens">www.landofsixpeoples.com/h2pict.htm and search Botanic Gardens; Primary Email: ; 
-Plant Records Officer's Name:	Ms Yolanda Vasconcellos
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	6.7921
-Longitude:	-58.1684
-Natural Vegetation Area:	Yes
-Computer Plant Record System:	Yes
-Number of Visitors:	130000
-Number of Volunteers:	62
-Open to public:	Yes
-Cultivation Taxa Num:	100
-Special Collections:	Contains a diverse collection of tropical ornamental and woody plants, including representatives of about 20 plant families, Palms, commercial hardwoods, mangrove
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Restoration Ecology:	Yes
+0-ID: 439
+1-Name: Georgetown Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BRG;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Georgetown Botanical Gardens        associated nature reserves Kaieteur National Park (627 sq km);                        Main Address:;         Georgetown Botanical Gardens;         National Parks Commission;        National Park, Thomas Road, Thomas Lands;        Georgetown;        Guyana;        ;                 Telephone: ;         Fax: ;         URL: www.landofsixpeoples.com/h2pict.htm and search Botanic Gardens;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 6.7921
+2-Longitude: -58.1684
+2-Natural Vegetation Area: Yes
+3-Computer Plant Record System: Yes
+3-Number of Visitors: 130000
+3-Number of Volunteers: 62
+3-Open to public: Yes
+4-Cultivation Taxa Num: 100
+4-Special Collections: Contains a diverse collection of tropical ornamental and woody plants, including representatives of about 20 plant families, Palms, commercial hardwoods, mangrove
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=439">Please click here if you can update us</a>
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Restoration Ecology: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=439">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BRG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.landofsixpeoples.com/h2pict.htm and search Botanic Gardens

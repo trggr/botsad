@@ -1,26 +1,32 @@
-ID:	5209
-Name:	Plant Conservation and Research Foundation 
-Curator's Name:	
-Director's Name:	Md. Mustafizur Rahman
-Info:	  Bangladesh - Mymensingh  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; About the Plant Conservation and Research Foundation Plant Conservation and Research Foundation (PCRF) has been created and registered under the Joint Stock Companies & Firms, Bangladesh (Registration No. S-12470/2016) with the view to promote and contribute plant conservation towards enrichment of biodiversity as a whole.;  Main Address:; Plant Conservation and Research Foundation; House No. 47, Chatrapur Primary School Road BAU Sheshmor P.P.; Bangladesh Agricultural University; Mymensingh; 2202 Bangladesh; ;  Telephone: +8801711372859; Fax: ; URL: <a target="_blank" href="http://www.pcrf.org.bd">www.pcrf.org.bd; Primary Email: pcrfbd@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	24.7196252
-Local Address:	
-Locality:	Information
-Longitude:	90.4244697
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
+0-ID: 5209
+1-Name: Plant Conservation and Research Foundation 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Plant Conservation and Research Foundation        Plant Conservation and Research Foundation (PCRF) has been created and registered under the Joint Stock Companies & Firms, Bangladesh (Registration No. S-12470/2016) with the view to promote and contribute plant conservation towards enrichment of biodiversity as a whole.;                        Main Address:;         Plant Conservation and Research Foundation;         House No. 47, Chatrapur Primary School Road BAU Sheshmor P.P.;        Bangladesh Agricultural University;        Mymensingh;        2202 Bangladesh;        ;                 Telephone: +8801711372859;         Fax: ;         URL: www.pcrf.org.bd;         Primary Email: pcrfbd@gmail.com       ;              
+2-Institution Type: Other
+2-Latitude: 24.7196252
+2-Local Address: 
+2-Locality: Information
+2-Longitude: 90.4244697
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5209">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5209">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: pcrfbd@gmail.com
+9-Telephone: +8801711372859
+9-URL: www.pcrf.org.bd

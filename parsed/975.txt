@@ -1,12 +1,20 @@
-ID:	975
-Name:	The Botanical Garden 
-Curator's Name:	
-Director's Name:	Dr. M. T. Tadzhitdinov
-Info:	  Uzbekistan - Nukus  ;Garden Information;  Institution Code: NUKU; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanical Garden; Complex Institute of Natural Sciences, Karakalpakaya Branch, Uzbek Academy of Sciences, 742004; Nukus; Uzbekistan; ;  Telephone: 2 41 26; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1959
-Institution Type:	Botanic Garden
-Latitude:	42.29
-Longitude:	59.63
-Special Collections:	Mexican plants, Eastern-Asian, North American, Mediterranean, Himalayan plants, Pinus spp., Picea spp., Acer spp., Quercus spp., Rhododendron spp.
+0-ID: 975
+1-Name: The Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1959
+2-Info:              Institution Code: NUKU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Botanical Garden;         Complex Institute of Natural Sciences, Karakalpakaya Branch, Uzbek Academy of Sciences, 742004;                Nukus;        Uzbekistan;        ;                 Telephone: 2 41 26;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.29
+2-Longitude: 59.63
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=975">Please click here if you can update us</a>
+4-Special Collections: Mexican plants, Eastern-Asian, North American, Mediterranean, Himalayan plants, Pinus spp., Picea spp., Acer spp., Quercus spp., Rhododendron spp.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=975">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=975">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=975">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NUKU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 2 41 26
+9-URL: 

@@ -1,13 +1,18 @@
-ID:	4924
-Name:	National Institute for Pharmaceutical Research and Development (NIPRD) 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Mr. Irekhegbe John Atogwe
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Info:	  Nigeria - Abuja - Abuja  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Institute for Pharmaceutical Research and Development (NIPRD); Idu Industrial Area, P.M.B. 21; Garki District; Abuja; Abuja Nigeria; ;  Telephone: +234 08063881723; Fax: ; URL: <a target="_blank" href="http://National Institute for Pharmaceutical Research and Development (NIPRD)">National Institute for Pharmaceutical Research and Development (NIPRD); Primary Email: ; 
-Plant Records Officer's Name:	Mr. Irekhegbe John Atogwe
-Research Staff Number:	
-Institution Type:	Botanic Garden
-Latitude:	9.06667
-Longitude:	7.48333
+0-ID: 4924
+1-Name: National Institute for Pharmaceutical Research and Development (NIPRD) 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Institute for Pharmaceutical Research and Development (NIPRD);         Idu Industrial Area, P.M.B. 21;        Garki District;        Abuja;        Abuja Nigeria;        ;                 Telephone: +234 08063881723;         Fax: ;         URL: National Institute for Pharmaceutical Research and Development (NIPRD);         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.06667
+2-Longitude: 7.48333
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4924">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4924">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4924">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4924">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4924">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +234 08063881723
+9-URL: National Institute for Pharmaceutical Research and Development (NIPRD)

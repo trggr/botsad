@@ -1,11 +1,19 @@
-ID:	1457
-Name:	Esperance (Helms) Exotic & Indigenous Arboretum 
-Curator's Name:	District Manager
-Director's Name:	Dr. S. Shea
-Info:	  Australia - Esperance  ;Garden Information;  Institution Code: KALGO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Esperance (Helms) Exotic & Indigenous Arboretum; Dept of CALM, PO Box 234, ESPERANCE, WA 6450, Australia; Esperance; Australia; ;  Telephone: 61 (0)8 9071 3733; Fax: 61 (0)8 9071 3657; URL: <a target="_blank" href="http://">; Primary Email: 417esp@GEI.Net.AU ; 
-Plant Records Officer's Name:	
-Date founded:	1965
-Institution Type:	Botanic Garden
-Latitude:	-33.80395
-Longitude:	121.8805
-Special Collections:	80 % of collection if Australian flora.
+0-ID: 1457
+1-Name: Esperance (Helms) Exotic & Indigenous Arboretum 
+2-Date founded: 1965
+2-Info:              Institution Code: KALGO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Esperance (Helms) Exotic & Indigenous Arboretum;         Dept of CALM,  PO Box 234,  ESPERANCE,  WA 6450,  Australia;                Esperance;        Australia;        ;                 Telephone: 61 (0)8 9071 3733;         Fax: 61 (0)8 9071 3657;         URL: ;         Primary Email: 417esp@GEI.Net.AU       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -33.80395
+2-Longitude: 121.8805
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1457">Please click here if you can update us</a>
+4-Special Collections: 80 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1457">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1457">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1457">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)8 9071 3657
+9-Institution Code: KALGO
+9-International Agenda Registration: No
+9-Primary Email: 417esp@GEI.Net.AU
+9-Telephone: 61 (0)8 9071 3733
+9-URL: 

@@ -1,9 +1,17 @@
-ID:	4770
-Name:	SFA Mast Arboretum, The 
-Curator's Name:	Dove Stover, Research Associate
-Director's Name:	Dr. David Creech, Director
-Info:	  United States of America - Texas - Nacogdoches  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; SFA Mast Arboretum, The; Stephen F. Austin State University; 419 East College Street; Nacogdoches; Texas 75962 United States of America; ;  Telephone: (936) 468-3301; Fax: ; URL: <a target="_blank" href="http://sfagardens.sfasu.edu">http://sfagardens.sfasu.edu; Primary Email: sfagardens@sfasu.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	31.6211120
-Longitude:	-94.6426920
+0-ID: 4770
+1-Name: SFA Mast Arboretum, The 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         SFA Mast Arboretum, The;         Stephen F. Austin State University;        419 East College Street;        Nacogdoches;        Texas 75962 United States of America;        ;                 Telephone: (936) 468-3301;         Fax: ;         URL: http://sfagardens.sfasu.edu;         Primary Email: sfagardens@sfasu.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.6211120
+2-Longitude: -94.6426920
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4770">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4770">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4770">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4770">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4770">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: sfagardens@sfasu.edu
+9-Telephone: (936) 468-3301

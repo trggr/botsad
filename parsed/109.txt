@@ -1,13 +1,26 @@
-ID:	109
-Name:	Conservatoire Botanique National de Porquerolles 
-Curator's Name:	
-Director's Name:	Monsieur A. Manche
-Info:	  France - Hyeres  ;Garden Information;  Institution Code: HYE; International Agenda Registration: No; BGCI Member: No; About the Conservatoire Botanique National de Porquerolles Location: HYERES; Founded: 1979 ; Garden Name: Conservatoire Botanique National de Porquerolles; Address: Le Parc National de Port-Cros, Le Castel Ste Claire, Rue Ste Claire, F-83400 HYERES.; Status: State; Herbarium: Yes Approx. no. of herbarium specimen;  Main Address:; Conservatoire Botanique National de Porquerolles; Le Parc National de Port-Cros, Le Castel Ste Claire, Rue Ste Claire, F-83400 HYERES, France.; Hyeres; France; ;  Telephone: 33 4 94 65 32 98; Fax: 33 4 94 65 84 83; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1979
-Institution Type:	Other
-Latitude:	43.0013
-Longitude:	6.2216
-Seed Bank:	Yes
-Special Collections:	Native plants of the Mediterranean region. Maintains a seed bank with long-term storage capacity, containing 10,000 accessions representing 1,000 species (1994 figures).
+0-ID: 109
+1-Name: Conservatoire Botanique National de Porquerolles 
+2-Altitude: 0.00 Metres
+2-Date founded: 1979
+2-Info:              Institution Code: HYE;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Conservatoire Botanique National de Porquerolles        Location: HYERES;  Founded: 1979 ;  Garden Name: Conservatoire Botanique National de Porquerolles;  Address: Le Parc National de Port-Cros, Le Castel Ste Claire, Rue Ste Claire, F-83400 HYERES.;  Status: State;  Herbarium: Yes Approx. no. of herbarium specimen;                        Main Address:;         Conservatoire Botanique National de Porquerolles;         Le Parc National de Port-Cros,  Le Castel Ste Claire, Rue Ste Claire,  F-83400 HYERES,  France.;                Hyeres;        France;        ;                 Telephone: 33 4 94 65 32 98;         Fax: 33 4 94 65 84 83;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 43.0013
+2-Longitude: 6.2216
+3-Seed Bank: Yes
+4-Special Collections: Native plants of the Mediterranean region. Maintains a seed bank with long-term storage capacity, containing 10,000 accessions representing 1,000 species (1994 figures).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=109">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=109">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=109">Please click here if you can update us</a>
+9-About the Conservatoire Botanique National de Porquerolles        Location: HYERES
+9-Address: Le Parc National de Port-Cros, Le Castel Ste Claire, Rue Ste Claire, F-83400 HYERES.
+9-BGCI Member: No
+9-Fax: 33 4 94 65 84 83
+9-Founded: 1979
+9-Garden Name: Conservatoire Botanique National de Porquerolles
+9-Herbarium: Yes Approx. no. of herbarium specimen
+9-Institution Code: HYE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: State
+9-Telephone: 33 4 94 65 32 98
+9-URL: 

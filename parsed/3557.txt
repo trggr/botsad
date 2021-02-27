@@ -1,41 +1,44 @@
-ID:	3557
-Name:	Giardino Botanico Friuli "Cormor" 
-Fax:	
-Info:	  Italy - Friuli Venezia Giulia - Udine  ;Garden Information;  Institution Code: CORMO; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	parcobotanico@gmail.com
-Telephone:	3927156120
-The figurative research at work in the design is based on the topography:	a grove of slender poplars, and vistas receding into the countryside.
-The project also imitates manner:	that of Heinrich Tessenow in his first aketches for the National Gallery in Berlin, and of Lenné in his work on the 'Prussian Versailles'.
-from:	l'architecture d'aujourd'hui
-Curator's Name:	Dennis
-Director's Name:	Roberto
-Plant Records Officer's Name:	...
-Altitude:	115.00 Metres
-Annual Rainfall:	1673 mm
-Date founded:	1884
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	46.0836
-Local Address:	
-Locality:	Information
-Longitude:	13.1902
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Orto botanico
-Arboretum:	Yes
-Arboretum Size:	3
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Number of Volunteers:	5
-Open to public:	Yes
-Invasive Species Monitoring:	Yes
-Special Collections:	Some Trees and schrubs - Botanical Garden - UDINE
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Conservation - Biology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Exploration:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 3557
+1-Name: Giardino Botanico Friuli "Cormor" 
+2-Curator's Name: Dennis
+2-Director's Name: Roberto
+2-Info:              Institution Code: CORMO;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/3557/Friuli-garden-200.jpg" alt="Friuli Botanic Garden Cormor" />         Friuli Botanic Garden Cormor</div>        </div>                           About the Giardino Botanico Friuli "Cormor"        The park is the first leg of a hug plan for restoring the entire hydrogeological basin of Cormor. ;  The architect Pirzio-Biroli, used old maps to find the traces of olden-day tracks and carriageways. ;  A drainage and irrigation plan was set into place with a retention basin. ;  Along the motorway, plantings are particularly thick, so as to create a light-absorbent barrier ;  On the outskirts of Udine (Italy) a tract of 2000 hectares has been earmarked for conservation. Of them, a 45-hectare area of particularly degraded land along the banks of the river Cormor was recently restored in an experimental park project. ;  At the entrance to this park the Pavilion destined to house small events, and the warden's house leaning up against it, give the key-note. ;  Designed by Pirzio-Biroli, the building is rich in references old and new. Its intention salutes the plan for the environs of Potsdam drawn up by Peter Joseph Lenné between 1816 and 1860.;  The project also imitates manner: that of Heinrich Tessenow in his first aketches for the National Gallery in Berlin, and of Lenné in his work on the 'Prussian Versailles'. ;  The figurative research at work in the design is based on the topography: a grove of slender poplars, and vistas receding into the countryside. ;  ;  from: l'architecture d'aujourd'hui;  Joze Plecnik -;                        Main Address:;         Giardino Botanico Friuli "Cormor";         Amici del Parco botanico;        via Sagrado 5;        Udine;        Friuli Venezia Giulia 33100 Italy;        ;                 Telephone: 3927156120;         Fax: ;         URL: http://www.parcodelcormor.org;         Primary Email: parcobotanico@gmail.com       ;              
+2-Plant Records Officer's Name: ...
+3-Altitude: 115.00 Metres
+3-Annual Rainfall: 1673 mm
+3-Date founded: 1884
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 46.0836
+3-Local Address: 
+3-Locality: Information
+3-Longitude: 13.1902
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Orto botanico
+4-Arboretum: Yes
+4-Arboretum Size: 3
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Number of Volunteers: 5
+4-Open to public: Yes
+5-Invasive Species Monitoring: Yes
+5-Special Collections: Some Trees and schrubs - Botanical Garden - UDINE
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Conservation - Biology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Exploration: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: CORMO
+9-International Agenda Registration: No
+9-Primary Email: parcobotanico@gmail.com
+9-Telephone: 3927156120
+9-The figurative research at work in the design is based on the topography: a grove of slender poplars, and vistas receding into the countryside.
+9-The project also imitates manner: that of Heinrich Tessenow in his first aketches for the National Gallery in Berlin, and of Lenné in his work on the 'Prussian Versailles'.
+9-from: l'architecture d'aujourd'hui

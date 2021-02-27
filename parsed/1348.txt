@@ -1,12 +1,21 @@
-ID:	1348
-Name:	Zhongguancun Botanical Garden (Beijing) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Beijing - Haidian  ;Garden Information;  Institution Code: BEIJU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Zhongguancun Botanical Garden (Beijing); Beijing University, Zhongguancun, Haidian District, Beijing, 100081, China; Haidian; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	39.9833
-Local Address:	中国北京海淀区中关村北京大学，邮编 100081
-Locality:	Information
-Longitude:	116.3000
+0-ID: 1348
+1-Name: Zhongguancun Botanical Garden (Beijing) 
+2-Date founded: 
+2-Info:              Institution Code: BEIJU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Zhongguancun Botanical Garden (Beijing);         Beijing University, Zhongguancun, Haidian District, Beijing, 100081, China;                Haidian;        Beijing China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.9833
+2-Local Address: 中国北京海淀区中关村北京大学，邮编 100081
+2-Locality: Information
+2-Longitude: 116.3000
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1348">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1348">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1348">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1348">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1348">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BEIJU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

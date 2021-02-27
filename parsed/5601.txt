@@ -1,9 +1,18 @@
-ID:	5601
-Name:	Jardín Botánico “El Pantanillo” 
-Curator's Name:	Téc. Cecilia Genovese
-Director's Name:	Lic. Alejandro Suyama
-Info:	  Argentina - San Luis - Villa de Merlo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico “El Pantanillo”; Campus Universitario, Facultad de Turismo y Urbanismo Universidad Nacional de San Luis.; Av. Libertador San Martín s/n°, Barranca Colorada; Villa de Merlo; San Luis 5881 Argentina; ;  Telephone: +54 2656 470320; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jbelpantanillo@gmail.com ; 
-Plant Records Officer's Name:	Téc. Melina Costa
-Institution Type:	Botanic Garden
-Latitude:	-32.334604
-Longitude:	-65.009016
+0-ID: 5601
+1-Name: Jardín Botánico “El Pantanillo” 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico “El Pantanillo”;         Campus Universitario,  Facultad de Turismo y Urbanismo Universidad Nacional de San Luis.;        Av. Libertador San Martín s/n°, Barranca Colorada;        Villa de Merlo;        San Luis 5881 Argentina;        ;                 Telephone: +54 2656 470320;         Fax: ;         URL: ;         Primary Email: jbelpantanillo@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -32.334604
+2-Longitude: -65.009016
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5601">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5601">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5601">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5601">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5601">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jbelpantanillo@gmail.com
+9-Telephone: +54 2656 470320
+9-URL: 

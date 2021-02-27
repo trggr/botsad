@@ -1,52 +1,56 @@
-ID:	3634
-Name:	Brackenhurst Botanic Garden & Forest 
--" src="https:	//www.bgci.org/files/ERABG/project_images/Brackenhurst/Restored-forest-12-years-from%20Eucalyptus-plantation-2013-Barney-Wilczak-_D803550_website.jpg" alt="" width="700" height="467" />
--"garden-project" style="margin-top:	1em"> Forest Restoration in the East African Uplands <!-- <img src="/files/ERABG/project_images/Brackenhurst/Gigasyphon-macrosyphon_thumbnail.jpg" alt="" /> --> <strong>Brackenhurst Botanic Garden&rsquo
--<h6 style="text-align:	center
--<img style="display:	block
--<p style="text-align:	justify
--For more information on this project please contact <a href="mailto:	mjlni@yahoo.com">Mark Nicholson.&nbsp
--margin-left:	auto
--margin-right:	auto
-Fax:	
-Info:	  Kenya - Limuru  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: LIMU; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; 
-Primary Email:	mjlni@yahoo.com
-Telephone:	+254 733 995478/ +254 66 73407/ +254 66 73007
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Mark Nicholson
-Educational Staff Number:	
-Horticultural Staff Number:	18
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	-1.1603
-Longitude:	36.6888
-Natural Vegetation Area:	Yes
-Total Area:	40 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Focus on indigenous species, particularly trees
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Floristics:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Restoration Ecology:	Yes
-Systematics and Taxonomy:	Yes
-Courses for School Children:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
+0-ID: 3634
+1-Name: Brackenhurst Botanic Garden & Forest 
+2-Administration Staff Number: 
+2-Curator's Name: 
+2-Director's Name: Mark Nicholson
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 18
+2-Info:              Institution Code: LIMU;             International Agenda Registration: Yes;        BGCI Member: Yes;                       ArbNet Accredited:          Level II       ;                                       <img src="/photos/3634/1364227221_tmp_1364227159_tmp_1364226962_tmp_D803550_small_size_for_website.jpg" alt="Restored indigenous forest at Brackenhurst Botanic Garden (Photo credit Barney Wilczack)" />         Restored indigenous forest at Brackenhurst Botanic Garden (Photo credit Barney Wilczack)</div>        </div>                           About the Brackenhurst Botanic Garden & Forest        Since its founding in 1990, this botanic garden has restored a 40 hectare area of forest. ;  ;  With a strong focus on indigenous species, planting efforts have naturally increased the number of species of flora and fauna recorded in the grounds of the garden, including 170 bird species. ;  ;  The vision of Brackenhurst is to:;  ;  - Create an indigenous forest and botanic garden with native plant and associated non-plant biodiversity for education, conservation, research and environmental restoration, and; ;  ;  - To restore ecosystem services in the Brackenhurst Valley, in particular perennial stream flow;  ;  Brackenhurst Botanic Garden is part of the Ecological Restoration Alliance of Botanic Gardens.;                        Main Address:;         Brackenhurst Botanic Garden & Forest;         Plants For Life International;        P.O. Box 617;        Limuru;        00217 Kenya;        ;                 Telephone: +254 733 995478/ +254 66 73407/ +254 66 73007;         Fax: ;         URL: ;         Primary Email: mjlni@yahoo.com       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1990
+3-Institution Type: Botanic Garden
+3-Latitude: -1.1603
+3-Longitude: 36.6888
+3-Natural Vegetation Area: Yes
+3-Total Area: 40 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Friends society: Yes
+4-Open to public: Yes
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Focus on indigenous species, particularly trees
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Floristics: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Restoration Ecology: Yes
+7-Systematics and Taxonomy: Yes
+8-Courses for School Children: Yes
+8-Education Programme: Yes
+8-Guided Tours: Yes
+9-">The upland forest restoration work of Brackenhurst Botanic Garden near Nairobi, Kenya, is the most diverse example of forest restoration in Kenya and has become a model for East African habitat restoration initiatives. One hundred acres (40 hectares) of tropical rainforest have now been replanted. In just 15 years, the project has replaced exotic tree plantations with a 30-foot tall native forest that shelters lianas, orchids and a species-rich understory. More than 500 East African woody species, including 25 threatened species, have been incorporated in restoration plots and the compound of Brackenhurst Conference Centre. The forest is now home to over 170 species of birds, 120 species of butterfly, as well as fruit bats. The project also provides livelihood opportunities in an area of high unemployment, by training and employing local people. <img style="display: block
+9-"garden-project" style="margin-top: 1em"> Forest Restoration in the East African Uplands <!-- <img src="/files/ERABG/project_images/Brackenhurst/Gigasyphon-macrosyphon_thumbnail.jpg" alt="" /> --> <strong>Brackenhurst Botanic Garden&rsquo
+9-</strong> For more information on this project please contact <a href="mailto: mjlni@yahoo.com">Mark Nicholson</a>.&nbsp
+9-ArbNet Accredited: Level II
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: LIMU
+9-International Agenda Registration: Yes
+9-Primary Email: mjlni@yahoo.com
+9-Telephone: +254 733 995478/ +254 66 73407/ +254 66 73007
+9-URL: 
+9-margin-left: auto
+9-margin-right: auto
+9-s restoration of upland forest near Nairobi has become a model for East African habitat restoration initiatives.</strong> <p style="text-align: justify
+9-view of Mount Kilimanjaro. Less than 2% of original forest remained before restoration work began at Brackenhurst Botanic Garden, with the rest mostly transformed into tea and eucalyptus plantations. <p style="text-align: justify

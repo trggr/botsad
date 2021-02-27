@@ -1,9 +1,18 @@
-ID:	5362
-Name:	Harbor House 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - RI - Newport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Harbor House; 111 Washington St.; Newport; RI 02840 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://www.phoenix-ri.com/property-by-location/newport/harbor-house">https://www.phoenix-ri.com/property-by-location/newport/harbor-house; Primary Email: jbyrne@phoenix-ri.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.497822
-Longitude:	-71.32078
+0-ID: 5362
+1-Name: Harbor House 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Harbor House;         111 Washington St.;                Newport;        RI 02840 United States of America;        ;                 Telephone: ;         Fax: ;         URL: https://www.phoenix-ri.com/property-by-location/newport/harbor-house;         Primary Email: jbyrne@phoenix-ri.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.497822
+2-Longitude: -71.32078
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5362">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5362">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5362">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5362">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5362">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jbyrne@phoenix-ri.com
+9-Telephone: 

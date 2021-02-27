@@ -1,82 +1,86 @@
-ID:	2359
-Name:	The Garden Route Botanical Garden 
-A unique collection of files with named, scanned live specimens, from most hiking areas in the southern Cape. They are filed in 1:	50 map references numbers and indexed to both map and taxa.
-Fax:	088448741558
-Info:	  South Africa - Western Cape - George  ;Garden Information;  Institution Code: GEORG; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	scherb@pixie.co.za
-Telephone:	27 44 8741558
-Administration Staff Number:	1
-Curator's Name:	Dayne de Wet
-Director's Name:	Robin Clarke
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	Yvette van Wijk
-Research Staff Number:	3
-Altitude:	240.00 Metres
-Annual Rainfall:	700 mm
-Date founded:	1996
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-33.946324
-Local Address:	Caledon Straat 49
-Locality:	Information
-Longitude:	22.465018
-Natural Vegetation Area:	Yes
-Total Area:	19 Hectares
-Total area of shadehouses:	500 Metres
-Arboretum:	Yes
-Arboretum Size:	1
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	6000
-Number of Volunteers:	30
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Cultivation Taxa Num:	400
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	Indigenous plants, mainly Fynbos, native to southern Cape.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2359
+1-Name: The Garden Route Botanical Garden 
+2-Administration Staff Number: 1
+2-Curator's Name: Dayne de Wet
+2-Director's Name: Robin Clarke
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: GEORG;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/2359/REFLECTION_OF_GEORGE_PEAK_IN_DAM_with_birds.jpg" alt="Historic first water source for the town of George at the heart of the GRBGarden with Outeniqua mountains reflected" />         Historic first water source for the town of George at the heart of the GRBGarden with Outeniqua mountains reflected</div>        </div>                           About the The Garden Route Botanical Garden        The Botanical Garden was started in 1996 to showcase the magnificent & species rich Southern Cape Flora. A shared ;  concern for the rapidly diminishing flora of the Southern Cape brought together a group comprising members of several environmental NGO's led by John Reid & Mandy Fick of the South African Botanical Society's local branch. They were determined to raise public awareness of the problem of Southern Cape floral destruction as well as implement remedial action.  ;  ;  The garden amalgamated with the Southern Cape Herbarium in 2001, the joint project aimed to encompass the broader issues of biodiversity loss & sustainability, of social and cultural history and change,  plus the dire need for education and public awareness raising.;  ;  Both the Garden & the Herbarium rely heavily on volunteers in order to keep going. Fundinig has been received from Green Trust, WWF, WESSA, SANBI, NRF, CEPF and SA National Lottery. It is imperative that we find a formal and longterm funding solution however.;  ;  In 2002 the magnificent donation of a building adjacent to the botanical gardens was made by Audrey Moriarty, and this is now the Moriarty Environmental Centre. This centre now houses the Southern Cape Herbarium + Quick Guides, the herbarium office, shop and botanical library, the BEEP & GREEN Garden Route Environmental Education Network) office, a large lecture room, toilets, kitchens, garden stores, and a garden labourers rest room.  Propagation sheds and a succulent living herbarium area are under construction behind the centre. ;  ;  The official opening of the Moriarty Environmental Centre took place on July 26th 2002.;  ;  The S C Herbarium offers an easily accessible data-base (presently being digitised,)or pressed plant library, in the form of 10 000 (and growing) pressed and named plant specimens from the region in the main research herbarium collection, as well as about 2000 (and growing) in the Guick Guide section.;  ;  The Herbarium houses in addition 3 special collections ie; ;  Audrey Moriartys complete collection of plant specimens illustrated and described in her flora Outeniquas and Eastern Little Karoo Botanical Society publication No 2) plus many others totalling about 1000. ;  ;  Gerhard Kirsten's complete collection of Ericas made for Ericas of Soputhern Africa which he co-authored with Dolf Schuman and Ted Oliver - as well as his photographic slides of Ericas and collection of reference books and keys on Ericas.;  ;  The collection of David Shearing's specimens from his flora Karoo(Botanical society publication No 6) as well as many more. Also a collection of dyed wool specimens using these Karoo plants.;  ;  These collections all provide a means of identification by matching live material or pressed plant specimens to named specimens, and 3 good microscopes to aid in ID.;  ;  A Digital herbarium comprising thousands of plant images from the area filed in taxanomic order and in process of being truned into a website.;  ;  A part-time, voluntary taxonomist to identify specimens for bona-fide researchers and projects at accepted herbarium rates ;  ;  A unique collection of files with named, scanned live specimens, from most hiking areas in the southern Cape. They are filed in 1:50 map references numbers and indexed to both map and taxa.;  ;  About 2000 original paintings by Audrey Moriarty of southern Cape plant species,  many of which have never been illustrated before. These are being scanned into an interactive database and can already be accessed by visitors on the library computer. Our slide collection and photos will be added to this database with plant descriptions, uses, common names and locality maps, as we build it up gradually.;  ;  A growing database of medicinal plants from the region, their uses, preparation and common names. Voucher specimens are filed in the herbarium. Workshops to teach the making of simple remedies using these plants are offered.;  ;  The Botanical Garden has expanded and improved over the past 10 years into an important component of the George & Garden Route Tourism attractions and although financial contraints have forced cut backs in staff and many of the older Trustees and volunteers have moved away, retired or died! we still manage to keep going, and are at present in constant discussion with Municipal leaders and committees with regard to formal and ongoing support.;  ;  Our IMITHI Medicinal Plant project works closely with Knysna Clinics and recently with George as well, also with some of the communities in these areas, as well as the George Agricultural Research Farm. A very large mound garden displaying these medicinal plants is nearly completed.  Plant material for direct use or for propagation, is being made available to NGO's and projects working with Aids and to Municipal clinics in the region.;                        Main Address:;         The Garden Route Botanical Garden;         Moriarty Environmental Centre;        49 Caledon Street;        George;        Western Cape 6529 South Africa;        ;                 Telephone: 27 44 8741558;         Fax: 088448741558;         URL: www.botanicalgarden.org.za;         Primary Email: scherb@pixie.co.za       ;              
+2-Plant Records Officer's Name: Yvette van Wijk
+2-Research Staff Number: 3
+3-Altitude: 240.00 Metres
+3-Annual Rainfall: 700 mm
+3-Date founded: 1996
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -33.946324
+3-Local Address: Caledon Straat 49
+3-Locality: Information
+3-Longitude: 22.465018
+3-Natural Vegetation Area: Yes
+3-Total Area: 19 Hectares
+3-Total area of shadehouses: 500 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 1
+4-Computer Plant Record System: No
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 6000
+4-Number of Volunteers: 30
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: No
+5-Cultivation Taxa Num: 400
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+5-Special Collections: Indigenous plants, mainly Fynbos, native to southern Cape.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: No
+8-Courses for School Children: Yes
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: No
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-A unique collection of files with named, scanned live specimens, from most hiking areas in the southern Cape. They are filed in 1: 50 map references numbers and indexed to both map and taxa.
+9-BGCI Member: Yes
+9-Fax: 088448741558
+9-Institution Code: GEORG
+9-International Agenda Registration: Yes
+9-Primary Email: scherb@pixie.co.za
+9-Telephone: 27 44 8741558
+9-URL: www.botanicalgarden.org.za

@@ -1,9 +1,19 @@
-ID:	4712
-Name:	Arboretum at California University of Pennsylvania 
-Curator's Name:	Harry Marks, Campus Grounds Superviser
-Director's Name:	Angelo Armenti, Jr., President of CALU
-Info:	  United States of America - Pennsylvania - California  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum at California University of Pennsylvania; Grounds Building; Mailing: Campus Box 26; California; Pennsylvania 15419-1394 United States of America; ;  Telephone: (724) 938-4520; Fax: ; URL: <a target="_blank" href="http://www.calu.edu/about-us/the-campus/arboretum/index.htm">www.calu.edu/about-us/the-campus/arboretum/index.htm; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.0635610
-Longitude:	-79.8842370
+0-ID: 4712
+1-Name: Arboretum at California University of Pennsylvania 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum at California University of Pennsylvania;         Grounds Building;        Mailing: Campus Box 26;        California;        Pennsylvania 15419-1394 United States of America;        ;                 Telephone: (724) 938-4520;         Fax: ;         URL: www.calu.edu/about-us/the-campus/arboretum/index.htm;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.0635610
+2-Longitude: -79.8842370
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4712">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4712">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4712">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4712">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4712">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: Campus Box 26
+9-Primary Email: 
+9-Telephone: (724) 938-4520
+9-URL: www.calu.edu/about-us/the-campus/arboretum/index.htm

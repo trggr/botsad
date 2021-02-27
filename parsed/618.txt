@@ -1,11 +1,19 @@
-ID:	618
-Name:	Winkworth Arboretum 
-Curator's Name:	
-Director's Name:	NK
-Info:	  United Kingdom - Surrey - Winkworth  ;Garden Information;  Institution Code: WINKW; International Agenda Registration: No; BGCI Member: No;  Main Address:; Winkworth Arboretum; Hascombe Road,; Winkworth; Surrey United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1938
-Institution Type:	Botanic Garden
-Latitude:	51.16074
-Longitude:	-0.58155
-Special Collections:	Rosaceae, Hamamelidaceae, Aceraceae, Magnoliaceae, Aquifoliaceae. Acer, Hamamelis, Quercus, Ilex, Magnolia, Prunus, Sorbus, Rhododendron, Stewartia, Styrax, Viburnum.
+0-ID: 618
+1-Name: Winkworth Arboretum 
+2-Date founded: 1938
+2-Info:              Institution Code: WINKW;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Winkworth Arboretum;         Hascombe Road,;                Winkworth;        Surrey United Kingdom;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.16074
+2-Longitude: -0.58155
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=618">Please click here if you can update us</a>
+4-Special Collections: Rosaceae, Hamamelidaceae, Aceraceae, Magnoliaceae, Aquifoliaceae. Acer, Hamamelis, Quercus, Ilex, Magnolia, Prunus, Sorbus, Rhododendron, Stewartia, Styrax, Viburnum.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=618">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=618">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=618">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WINKW
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

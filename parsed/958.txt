@@ -1,10 +1,18 @@
-ID:	958
-Name:	The Botanical Garden of Podolensis 
-Curator's Name:	I.S. Glazkov
-Director's Name:	U.C. Trazkob
-Info:	  Ukraine - Vinnitsa  ;Garden Information;  Institution Code: PODL; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanical Garden of Podolensis; Pirogova 155, 286008 VINNITSA, Ukraine.; Vinnitsa; Ukraine; ;  Telephone: 2 07 47; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1963
-Institution Type:	Botanic Garden
-Latitude:	49.21216
-Longitude:	28.41429
+0-ID: 958
+1-Name: The Botanical Garden of Podolensis 
+2-Date founded: 1963
+2-Info:              Institution Code: PODL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Botanical Garden of Podolensis;         Pirogova 155, 286008 VINNITSA, Ukraine.;                Vinnitsa;        Ukraine;        ;                 Telephone: 2 07 47;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.21216
+2-Longitude: 28.41429
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=958">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=958">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=958">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=958">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PODL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 2 07 47
+9-URL: 

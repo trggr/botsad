@@ -1,10 +1,19 @@
-ID:	2174
-Name:	Kilbogget Heritage Garden 
-Curator's Name:	
-Director's Name:	Patricia Troughton-Smith
-Info:	  Ireland - Dublin  ;Garden Information;  Institution Code: KILBO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kilbogget Heritage Garden; Church Road, Killiney, Co. Dublin, Ireland; Dublin; Ireland; ;  Telephone: 353 (0)1 285 2542; Fax: 353 (0)1 285 5140; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	53.3441
-Longitude:	-6.2674
+0-ID: 2174
+1-Name: Kilbogget Heritage Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: KILBO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kilbogget Heritage Garden;         Church Road,  Killiney,  Co. Dublin,  Ireland;                Dublin;        Ireland;        ;                 Telephone: 353 (0)1 285 2542;         Fax: 353 (0)1 285 5140;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 53.3441
+2-Longitude: -6.2674
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2174">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2174">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2174">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2174">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2174">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 353 (0)1 285 5140
+9-Institution Code: KILBO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 353 (0)1 285 2542
+9-URL: 

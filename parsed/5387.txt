@@ -1,9 +1,18 @@
-ID:	5387
-Name:	Raja Doraisingam Government Arts College 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Tamilnadu - Sivaganga  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Raja Doraisingam Government Arts College; Department of Botany; Manamadurai Road; Sivaganga; Tamilnadu 630 561 India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: rajadoraisingamgovtartscollege@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	9.6901475
-Longitude:	78.4499155
+0-ID: 5387
+1-Name: Raja Doraisingam Government Arts College 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Raja Doraisingam Government Arts College;         Department of Botany;        Manamadurai Road;        Sivaganga;        Tamilnadu 630 561 India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: rajadoraisingamgovtartscollege@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.6901475
+2-Longitude: 78.4499155
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5387">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5387">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5387">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5387">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5387">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: rajadoraisingamgovtartscollege@gmail.com
+9-Telephone: 
+9-URL: 

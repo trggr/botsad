@@ -1,9 +1,18 @@
-ID:	4694
-Name:	North Carolina Zoological Park 
-Curator's Name:	Miriam Cattabriga, Curator of Horticulture
-Director's Name:	Patricia Simmons, Director & CEO
-Info:	  United States of America - North Carolina - Asheboro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; North Carolina Zoological Park; 4401 Zoo Parkway; Asheboro; North Carolina 27205 United States of America; ;  Telephone: (336) 879-7400; Fax: ; URL: <a target="_blank" href="http://www.nczoo.org">www.nczoo.org; Primary Email: horticulture@nczoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	35.6201360
-Longitude:	-79.7553590
+0-ID: 4694
+1-Name: North Carolina Zoological Park 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         North Carolina Zoological Park;         4401 Zoo Parkway;                Asheboro;        North Carolina 27205 United States of America;        ;                 Telephone: (336) 879-7400;         Fax: ;         URL: www.nczoo.org;         Primary Email: horticulture@nczoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 35.6201360
+2-Longitude: -79.7553590
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4694">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4694">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4694">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4694">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4694">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: horticulture@nczoo.org
+9-Telephone: (336) 879-7400
+9-URL: www.nczoo.org

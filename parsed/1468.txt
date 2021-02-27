@@ -1,12 +1,20 @@
-ID:	1468
-Name:	The Bryant Park 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  India - Tamil Nadu - Kodaikanal  ;Garden Information;  Institution Code: KODAI; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Bryant Park; KODAIKANAL, Tamil Nadu., India.; Kodaikanal; Tamil Nadu 624101 India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1908
-Institution Type:	Other
-Latitude:	10.2354
-Longitude:	77.4844
-Special Collections:	Trees & shrubs (325 spp.), annuals (100 spp.), perennials, roses (742 cvs.), cacti, succulents, orchids, Chrysanthemum.
+0-ID: 1468
+1-Name: The Bryant Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 1908
+2-Info:              Institution Code: KODAI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Bryant Park;         KODAIKANAL, Tamil Nadu., India.;                Kodaikanal;        Tamil Nadu 624101 India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 10.2354
+2-Longitude: 77.4844
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1468">Please click here if you can update us</a>
+4-Special Collections: Trees & shrubs (325 spp.), annuals (100 spp.), perennials, roses (742 cvs.), cacti, succulents, orchids, Chrysanthemum.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1468">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1468">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1468">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KODAI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,10 +1,19 @@
-ID:	933
-Name:	Meerut University Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Meerut  ;Garden Information;  Institution Code: MEERU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Meerut University Botanical Garden; Botany Department, Meerut University, MEERUT, Uttar Pradesh, India.; Meerut; India; ;  Telephone: 75021 19; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1970
-Institution Type:	Botanic Garden
-Latitude:	28.9916
-Longitude:	77.7036
+0-ID: 933
+1-Name: Meerut University Botanical Garden 
+2-Date founded: 1970
+2-Info:              Institution Code: MEERU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Meerut University Botanical Garden;         Botany Department, Meerut University,  MEERUT,  Uttar Pradesh,  India.;                Meerut;        India;        ;                 Telephone: 75021 19;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.9916
+2-Longitude: 77.7036
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=933">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=933">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=933">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=933">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=933">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MEERU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 75021 19
+9-URL: 

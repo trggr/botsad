@@ -1,11 +1,24 @@
-ID:	1331
-Name:	Parc Zoologique et Botanique de la Ville de Mulhouse 
-Curator's Name:	V.Scius Turlot
-Director's Name:	J.P.Reduron
-Info:	  France - Mulhouse  ;Garden Information;  Institution Code: MULH; International Agenda Registration: No; BGCI Member: Yes; About the Parc Zoologique et Botanique de la Ville de Mulhouse Location: MULHOUSE; Founded: 1868; Garden Name: Parc Zoologique et Botanique de la Ville de Mulhouse (including the Conservatoire Botanique de Mulhouse); Address: 51, rue du Jardin Zoologique, 68100 MULHOUSE.; (Conservatoire situated at: 2 rue Pierre Curi;  Main Address:; Parc Zoologique et Botanique de la Ville de Mulhouse; Conservatoire Botanique de Mulhouse 2 rue Pierre Curie BP 3089 68062 MULHOUSE Cedex, France.; Mulhouse; France; ;  Telephone: 33 3 89 32 58 58; Fax: 33 3 89 32 59 09; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	Jean-Pierre Reduron
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	47.7494
-Longitude:	7.3397
-Special Collections:	ris, Dahlia (100 cultivars), Poaceae, Cyperaceae, Hemerocallis, bamboo, Rhododendron, Tulipa, Umbelliferae. Island plants most 9 of which are rare or endangered, including Catharanthus from Madagascar (7 taxa), Canary Islands (22 taxa), Madeira (11 taxa),
+0-ID: 1331
+1-Name: Parc Zoologique et Botanique de la Ville de Mulhouse 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MULH;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Parc Zoologique et Botanique de la Ville de Mulhouse        Location: MULHOUSE;  Founded: 1868;  Garden Name: Parc Zoologique et Botanique de la Ville de Mulhouse (including the Conservatoire Botanique de Mulhouse);  Address: 51, rue du Jardin Zoologique, 68100 MULHOUSE.;  (Conservatoire situated at: 2 rue Pierre Curi;                        Main Address:;         Parc Zoologique et Botanique de la Ville de Mulhouse;         Conservatoire Botanique de Mulhouse 2 rue Pierre Curie BP 3089 68062 MULHOUSE Cedex,  France.;                Mulhouse;        France;        ;                 Telephone: 33 3 89 32 58 58;         Fax: 33 3 89 32 59 09;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.7494
+2-Longitude: 7.3397
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1331">Please click here if you can update us</a>
+4-Special Collections: ris, Dahlia (100 cultivars), Poaceae, Cyperaceae, Hemerocallis, bamboo, Rhododendron, Tulipa, Umbelliferae. Island plants most 9 of which are rare or endangered, including Catharanthus from Madagascar (7 taxa), Canary Islands (22 taxa), Madeira (11 taxa),
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1331">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1331">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1331">Please click here if you can update us</a>
+9-(Conservatoire situated at: 2 rue Pierre Curi
+9-About the Parc Zoologique et Botanique de la Ville de Mulhouse        Location: MULHOUSE
+9-Address: 51, rue du Jardin Zoologique, 68100 MULHOUSE.
+9-BGCI Member: Yes
+9-Fax: 33 3 89 32 59 09
+9-Founded: 1868
+9-Garden Name: Parc Zoologique et Botanique de la Ville de Mulhouse (including the Conservatoire Botanique de Mulhouse)
+9-Institution Code: MULH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 33 3 89 32 58 58
+9-URL: 

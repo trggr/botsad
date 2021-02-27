@@ -1,11 +1,19 @@
-ID:	411
-Name:	Forstbotanischer Garten und Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  Germany - Deutschland - Gottingen  ;Garden Information;  Institution Code: GOETF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Forstbotanischer Garten und Arboretum; Universitat Gottingen, Busgenweg 2, D-37077 GOTTINGEN, Germany.; Gottingen; Germany - Deutschland; ;  Telephone: 0551 393492; Fax: 0551 392705; URL: <a target="_blank" href="http://www.gwdg.de/~uffg/">www.gwdg.de/~uffg/; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1970
-Institution Type:	Botanic Garden
-Latitude:	51.5663
-Longitude:	9.9845
-Special Collections:	Plants of the Caucasus (64 spp.), Japan (165 spp.), China (256 spp.), North America (242) and Korea (32 spp.), Acer (66 taxa), Betula (43 taxa), Clematis (47 taxa), Chamaecyparis (56 taxa), Fraxinus (19 taxa), Juniperus (82 taxa), nMalus (36 taxa), Picea
+0-ID: 411
+1-Name: Forstbotanischer Garten und Arboretum 
+2-Date founded: 1970
+2-Info:              Institution Code: GOETF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Forstbotanischer Garten und Arboretum;         Universitat Gottingen, Busgenweg 2, D-37077 GOTTINGEN, Germany.;                Gottingen;        Germany - Deutschland;        ;                 Telephone: 0551 393492;         Fax: 0551 392705;         URL: www.gwdg.de/~uffg/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.5663
+2-Longitude: 9.9845
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=411">Please click here if you can update us</a>
+4-Special Collections: Plants of the Caucasus (64 spp.), Japan (165 spp.), China (256 spp.), North America (242) and Korea (32 spp.), Acer (66 taxa), Betula (43 taxa), Clematis (47 taxa), Chamaecyparis (56 taxa), Fraxinus (19 taxa), Juniperus (82 taxa), nMalus (36 taxa), Picea
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=411">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=411">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=411">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0551 392705
+9-Institution Code: GOETF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0551 393492
+9-URL: www.gwdg.de/~uffg/

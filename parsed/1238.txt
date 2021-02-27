@@ -1,15 +1,21 @@
-ID:	1238
-Name:	Greater Des Moines Botanical Garden 
-Curator's Name:	Kelly D. Norris, Horticulture Manager
-Director's Name:	Stephanie Jutila, President and CEO
-Info:	  United States of America - Iowa - Des Moines  ;Garden Information;  Institution Code: DMBC; International Agenda Registration: No; BGCI Member: No; About the Greater Des Moines Botanical Garden The Des Moines Botanical Center is one of the most popular cultural attractions in Iowa, providing educational, recreational, and community resources to thousands. Its goal is to provide botanical displays and educational services for its visitors. It is located on 14 acres along the east bank of the Des Moines River, close to downtown.; ; Des Moines Botanical Center is reaching out to the community and beyond to educate and promote awareness of high level horticulture and environmental stewardship through; positive partnerships, education programs, opportunities for tourism, a quality venue for social events and meetings, unified grounds and unique horticulture collections.;  Main Address:; Greater Des Moines Botanical Garden; 909 Robert D. Ray Drive; Des Moines; Iowa 50309 United States of America; ;  Telephone: (515) 323-6290; Fax: (515) 242-2797; URL: <a target="_blank" href="http://www.dmbotanicalgarden.com">www.dmbotanicalgarden.com; Primary Email: info@dmbotanicalgarden.com ; 
-Plant Records Officer's Name:	Derek Carwood, Curatorial Horticulturist
-Altitude:	0.00 Metres
-Date founded:	1979
-Institution Type:	Botanic Garden
-Latitude:	41.5974335
-Longitude:	-93.6143564
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Acanthaceae, Araceae, Bromeliaceae, Cactaceae, Euphorbiaceae, Gesneriaceae, Leguminosae, Liliaceae, Myrtaceae, Palmae, Acalypha, Anthurium, Begonia, Pseuderanthemum, bonsai, and orchids.
-Education Programme:	Yes
+0-ID: 1238
+1-Name: Greater Des Moines Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1979
+2-Info:              Institution Code: DMBC;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Greater Des Moines Botanical Garden        The Des Moines Botanical Center is one of the most popular cultural attractions in Iowa, providing educational, recreational, and community resources to thousands. Its goal is to provide botanical displays and educational services for its visitors. It is located on 14 acres along the east bank of the Des Moines River, close to downtown.;  ;  Des Moines Botanical Center is reaching out to the community and beyond to educate and promote awareness of high level horticulture and environmental stewardship through; positive partnerships, education programs, opportunities for tourism, a quality venue for social events and meetings, unified grounds and unique horticulture collections.;                        Main Address:;         Greater Des Moines Botanical Garden;         909 Robert D. Ray Drive;                Des Moines;        Iowa 50309 United States of America;        ;                 Telephone: (515) 323-6290;         Fax: (515) 242-2797;         URL: www.dmbotanicalgarden.com;         Primary Email: info@dmbotanicalgarden.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.5974335
+2-Longitude: -93.6143564
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Acanthaceae, Araceae, Bromeliaceae, Cactaceae, Euphorbiaceae, Gesneriaceae, Leguminosae, Liliaceae, Myrtaceae, Palmae, Acalypha, Anthurium, Begonia, Pseuderanthemum, bonsai, and orchids.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1238">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1238">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-BGCI Member: No
+9-Fax: (515) 242-2797
+9-Institution Code: DMBC
+9-International Agenda Registration: No
+9-Primary Email: info@dmbotanicalgarden.com
+9-Telephone: (515) 323-6290
+9-URL: www.dmbotanicalgarden.com

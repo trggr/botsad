@@ -1,20 +1,24 @@
-ID:	4897
-Name:	Coastal Georgia Botanical Gardens at the Historic Bamboo Farm 
-Administration Staff Number:	3
-Curator's Name:	Ms. Kathy Deloe, Head Groundskeeper
-Director's Name:	-
-Educational Staff Number:	3
-Horticultural Staff Number:	6
-Info:	  United States of America - Georgia - Savannah  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Coastal Georgia Botanical Gardens at the Historic Bamboo Farm Savannah's growing horticultural destination, the Coastal Georgia Botanical Gardens at the Historic Bamboo Farm is 51 acres of historic plants, ornamental gardens, lakes, farm buildings and pick-your-own berry fields. Once a USDA plant introduction station, today we are transforming into a complete botanical garden: a horticultural showplace for residents and visitors to the Coastal Empire and Carolina Lowcountry.;  Main Address:; Coastal Georgia Botanical Gardens at the Historic Bamboo Farm; 2 Canebrake Road; Savannah; Georgia 31419 United States of America; ;  Telephone: (912) 921-5460; Fax: (912) 921-5890; URL: <a target="_blank" href="http://www.coastalgeorgiabg.org">www.coastalgeorgiabg.org; Primary Email: coastal@uga.edu ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1983
-Institution Type:	Botanic Garden
-Latitude:	31.996978
-Longitude:	-81.270008
-Total Area:	19 Hectares
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Special Collections
+0-ID: 4897
+1-Name: Coastal Georgia Botanical Gardens at the Historic Bamboo Farm 
+2-Altitude: 0.00 Metres
+2-Date founded: 1983
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Coastal Georgia Botanical Gardens at the Historic Bamboo Farm        Savannah's growing horticultural destination, the Coastal Georgia Botanical Gardens at the Historic Bamboo Farm is 51 acres of historic plants, ornamental gardens, lakes, farm buildings and pick-your-own berry fields. Once a USDA plant introduction station, today we are transforming into a complete botanical garden: a horticultural showplace for residents and visitors to the Coastal Empire and Carolina Lowcountry.;                        Main Address:;         Coastal Georgia Botanical Gardens at the Historic Bamboo Farm;         2 Canebrake Road;                Savannah;        Georgia 31419 United States of America;        ;                 Telephone: (912) 921-5460;         Fax: (912) 921-5890;         URL: www.coastalgeorgiabg.org;         Primary Email: coastal@uga.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.996978
+2-Longitude: -81.270008
+2-Total Area: 19 Hectares
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Special Collections
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4897">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4897">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4897">Please click here if you can update us</a>
+9-About the Coastal Georgia Botanical Gardens at the Historic Bamboo Farm        Savannah's growing horticultural destination, the Coastal Georgia Botanical Gardens at the Historic Bamboo Farm is 51 acres of historic plants, ornamental gardens, lakes, farm buildings and pick-your-own berry fields. Once a USDA plant introduction station, today we are transforming into a complete botanical garden: a horticultural showplace for residents and visitors to the Coastal Empire and Carolina Lowcountry.
+9-BGCI Member: No
+9-Fax: (912) 921-5890
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: coastal@uga.edu
+9-Telephone: (912) 921-5460
+9-URL: www.coastalgeorgiabg.org

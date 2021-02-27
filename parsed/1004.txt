@@ -1,10 +1,19 @@
-ID:	1004
-Name:	Maui Zoo and Botanical Garden 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  United States of America - Hawaii - Wailuku, Maui  ;Garden Information;  Institution Code: HMBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Maui Zoo and Botanical Garden; County of Maui - Parks Department; Wailuku, Maui; Hawaii 96793 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Latitude:	20.8923700
-Longitude:	-156.4866600
+0-ID: 1004
+1-Name: Maui Zoo and Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HMBG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Maui Zoo and Botanical Garden;         County of Maui - Parks Department;                Wailuku, Maui;        Hawaii 96793 United States of America;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 20.8923700
+2-Longitude: -156.4866600
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1004">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1004">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1004">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1004">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1004">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HMBG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

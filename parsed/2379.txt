@@ -1,11 +1,19 @@
-ID:	2379
-Name:	Bahamas Botanic Garden 
-Curator's Name:	
-Director's Name:	The Director
-Info:	  Bahamas - Nassau  ;Garden Information;  Institution Code: BAHAM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bahamas Botanic Garden; Department of Agriculture; P.O. Box N 3028; Nassau; Bahamas; ;  Telephone: 242 356 6475/6477; Fax: 242 328 5874; URL: <a target="_blank" href="http://">; Primary Email: botanicg@bahamas.net.bs ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	25.0661
-Longitude:	-77.3390
-Special Collections:	No information available.
+0-ID: 2379
+1-Name: Bahamas Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BAHAM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bahamas Botanic Garden;         Department of Agriculture;        P.O. Box N 3028;        Nassau;        Bahamas;        ;                 Telephone: 242 356 6475/6477;         Fax: 242 328 5874;         URL: ;         Primary Email: botanicg@bahamas.net.bs       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.0661
+2-Longitude: -77.3390
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2379">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2379">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2379">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2379">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 242 328 5874
+9-Institution Code: BAHAM
+9-International Agenda Registration: No
+9-Primary Email: botanicg@bahamas.net.bs
+9-Telephone: 242 356 6475/6477
+9-URL: 

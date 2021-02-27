@@ -1,10 +1,19 @@
-ID:	4519
-Name:	Quercus Multi-site Collection - Plant Collections Network 
-Curator's Name:	Greg Paige, Quercus Multi-site Collection Coordinator
-Director's Name:	Pam Allenstein, Plant Collections Network Manager, American Public Gardens Association
-Info:	  United States of America  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Quercus Multi-site Collection - Plant Collections Network Quercus (Oaks) - 17 institutions in NAPCC multi-site collection:; Chicago Botanic Garden 48 taxa; Cornell Botanic Gardens 77 taxa; Denver Botanic Gardens 61 taxa; Donald E Davis Arboretum 34 taxa Provisional Status; Holden Arboretum 64 taxa; Landis Arboretum 14 taxa; Missouri Botanical Garden 40 taxa; Morris Arboretum of Univ of Pennsylvania 58 taxa; The Morton Arboretum 67 taxa; Mount Auburn Cemetery 25 taxa; New York Botanical Garden 46 taxa; Rancho Santa Ana Botanic Garden 27 taxa; Scott Arboretum of Swarthmore College 52 taxa; Starhill Forest Arboretum 290 taxa; UC-Davis Arboretum 92 taxa; Univ of California Botanical Garden 71 taxa; Univ of Washington Botanic Gardens 86 taxa;  Main Address:; Quercus Multi-site Collection - Plant Collections Network; Coordinated via: Bartlett; United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.publicgardens.org/Content/NAPCC-Multi-Institutional-Quercus-Oak-Collection">http://www.publicgardens.org/Content/NAPCC-Multi-Institutional-Quercus-Oak-Collection; Primary Email: gpaige@Bartlett.com ; 
-Plant Records Officer's Name:	Cindy Newlander, Denver Botanic Gardens
-Altitude:	0.00 Metres
-Institution Type:	Network
-Latitude:	38.5300300
-Longitude:	-121.7625300
+0-ID: 4519
+1-Name: Quercus Multi-site Collection - Plant Collections Network 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Quercus Multi-site Collection - Plant Collections Network        Quercus (Oaks) - 17 institutions in NAPCC multi-site collection:;  Chicago Botanic Garden 48 taxa;  Cornell Botanic Gardens 77 taxa;  Denver Botanic Gardens 61 taxa;  Donald E Davis Arboretum 34 taxa Provisional Status;  Holden Arboretum 64 taxa;  Landis Arboretum 14 taxa;  Missouri Botanical Garden 40 taxa;  Morris Arboretum of Univ of Pennsylvania 58 taxa;  The Morton Arboretum 67 taxa;  Mount Auburn Cemetery 25 taxa;  New York Botanical Garden 46 taxa;  Rancho Santa Ana Botanic Garden 27 taxa;  Scott Arboretum of Swarthmore College 52 taxa;  Starhill Forest Arboretum 290 taxa;  UC-Davis Arboretum 92 taxa;  Univ of California Botanical Garden 71 taxa;  Univ of Washington Botanic Gardens 86 taxa;                        Main Address:;         Quercus Multi-site Collection - Plant Collections Network;         Coordinated via: Bartlett;                        United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://www.publicgardens.org/Content/NAPCC-Multi-Institutional-Quercus-Oak-Collection;         Primary Email: gpaige@Bartlett.com       ;              
+2-Institution Type: Network
+2-Latitude: 38.5300300
+2-Longitude: -121.7625300
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4519">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4519">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4519">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4519">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4519">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Coordinated via: Bartlett
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: gpaige@Bartlett.com
+9-Telephone: 

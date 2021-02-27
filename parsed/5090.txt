@@ -1,16 +1,24 @@
-ID:	5090
-Name:	Arboretum Leśne im. prof. S. Białoboka w Nadleśnictwie Sycow 
-Fax:	
-Info:	  Poland - dolnośląskie - Dziadowa Kłoda  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	arboretum@poznan.lasy.gov.pl
-Telephone:	+48 62 785 1325
-Administration Staff Number:	2
-Curator's Name:	Jaroslaw Sęktas
-Director's Name:	Stanisław Sęktas
-Educational Staff Number:	1
-Horticultural Staff Number:	15
-Plant Records Officer's Name:	Martyna Kuźniak
-Research Staff Number:	2
-Institution Type:	Botanic Garden
-Latitude:	51.22
-Longitude:	17.72
+0-ID: 5090
+1-Name: Arboretum Leśne im. prof. S. Białoboka w Nadleśnictwie Sycow 
+2-Administration Staff Number: 2
+2-Curator's Name: Jaroslaw Sęktas
+2-Director's Name: Stanisław Sęktas
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 15
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/5090/Arboretum leśne w Nadleśnictwie Syców.jpg" alt="" />         </div>        </div>                                    Main Address:;         Arboretum Leśne im. prof. S. Białoboka w Nadleśnictwie Sycow;         ul. Leśna 6;        PL-56-504 Dziadowa Kłoda;        Dziadowa Kłoda;        dolnośląskie Poland;        ;                 Telephone: +48 62 785 1325;         Fax: ;         URL: http://www.arboretumlesne.poznan.lasy.gov.pl/web/arboretum-lesne;         Primary Email: arboretum@poznan.lasy.gov.pl       ;              
+2-Plant Records Officer's Name: Martyna Kuźniak
+2-Research Staff Number: 2
+3-Institution Type: Botanic Garden
+3-Latitude: 51.22
+3-Longitude: 17.72
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5090">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5090">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5090">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5090">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=5090">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: arboretum@poznan.lasy.gov.pl
+9-Telephone: +48 62 785 1325

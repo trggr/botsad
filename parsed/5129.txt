@@ -1,11 +1,19 @@
-ID:	5129
-Name:	University of Oslo Botanical Garden- Seed Bank 
-Curator's Name:	
-Director's Name:	-
-Info:	  Norway - Oslo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Oslo Botanical Garden- Seed Bank; Natural History Museum; P.O. Box 1172 Blindern; Oslo; NO-0318 Norway; ;  Telephone: +47 22851612; Fax: ; URL: <a target="_blank" href="http://www.nhm.uio.no">www.nhm.uio.no; Primary Email: botaniskhage@nhm.uio.no ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	59.9138
-Longitude:	10.7387
-Seed Bank:	Yes
+0-ID: 5129
+1-Name: University of Oslo Botanical Garden- Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Oslo Botanical Garden- Seed Bank;         Natural History Museum;        P.O. Box 1172 Blindern;        Oslo;        NO-0318 Norway;        ;                 Telephone: +47 22851612;         Fax: ;         URL: www.nhm.uio.no;         Primary Email: botaniskhage@nhm.uio.no       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 59.9138
+2-Longitude: 10.7387
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5129">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5129">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5129">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5129">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: botaniskhage@nhm.uio.no
+9-Telephone: +47 22851612
+9-URL: www.nhm.uio.no

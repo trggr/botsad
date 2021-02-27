@@ -1,9 +1,18 @@
-ID:	5164
-Name:	Zhejiang Forestry Academy 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Zhejiang Province - Hangzhou City  ;Garden Information;  Institution Code: ZFA; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Zhejiang Forestry Academy; Liuhe Road 399; Hangzhou City; Zhejiang Province China; ;  Telephone: 0571-87798032; Fax: 0571-87798206; URL: <a target="_blank" href="http://">; Primary Email: wcp1117@hotmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	30.2175406
-Longitude:	120.0266603
+0-ID: 5164
+1-Name: Zhejiang Forestry Academy 
+2-Info:              Institution Code: ZFA;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Zhejiang Forestry Academy;         Liuhe Road 399;                Hangzhou City;        Zhejiang Province China;        ;                 Telephone: 0571-87798032;         Fax: 0571-87798206;         URL: ;         Primary Email: wcp1117@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.2175406
+2-Longitude: 120.0266603
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5164">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5164">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5164">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5164">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5164">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 0571-87798206
+9-Institution Code: ZFA
+9-International Agenda Registration: No
+9-Primary Email: wcp1117@hotmail.com
+9-Telephone: 0571-87798032
+9-URL: 

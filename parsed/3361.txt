@@ -1,16 +1,24 @@
-ID:	3361
-Name:	Sawtooth Botanical Garden 
-Curator's Name:	Kathy Noble, Garden Manager
-Director's Name:	Jen Smith, Executive Director
-Info:	  United States of America - Idaho - Ketchum  ;Garden Information;  Institution Code: SSV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sawtooth Botanical Garden; 11 Gimlet Road; Mailing: P.O. Box 928, Sun Valley, Idaho 83353; Ketchum; Idaho 83340 United States of America; ;  Telephone: (208) 726-9358; Fax: (208) 726-5435; URL: <a target="_blank" href="http://www.sbgarden.org">www.sbgarden.org; Primary Email: info@sbgarden.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1994
-Institution Type:	Botanic Garden
-Latitude:	43.6259830
-Longitude:	-114.3528000
-Total Area:	2 Hectares
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Education Programme:	Yes
+0-ID: 3361
+1-Name: Sawtooth Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1994
+2-Info:              Institution Code: SSV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sawtooth Botanical Garden;         11 Gimlet Road;        Mailing: P.O. Box 928, Sun Valley, Idaho 83353;        Ketchum;        Idaho 83340 United States of America;        ;                 Telephone: (208) 726-9358;         Fax: (208) 726-5435;         URL: www.sbgarden.org;         Primary Email: info@sbgarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.6259830
+2-Longitude: -114.3528000
+2-Total Area: 2 Hectares
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3361">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3361">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3361">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-BGCI Member: No
+9-Fax: (208) 726-5435
+9-Institution Code: SSV
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 928, Sun Valley, Idaho 83353
+9-Primary Email: info@sbgarden.org
+9-Telephone: (208) 726-9358
+9-URL: www.sbgarden.org

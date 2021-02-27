@@ -1,10 +1,19 @@
-ID:	3526
-Name:	Botanic Garden of Papatia 
-Curator's Name:	
-Director's Name:	Gnanando Seydou
-Info:	  Benin - Sinaissire  ;Garden Information;  Institution Code: BJPAP; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanic Garden of Papatia; Papatia, Sinaissire; Sinaissire; Benin; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	9.3076
-Longitude:	2.3158
+0-ID: 3526
+1-Name: Botanic Garden of Papatia 
+2-Date founded: 
+2-Info:              Institution Code: BJPAP;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Botanic Garden of Papatia;         Papatia, Sinaissire;                Sinaissire;        Benin;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.3076
+2-Longitude: 2.3158
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3526">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3526">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3526">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3526">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3526">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BJPAP
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

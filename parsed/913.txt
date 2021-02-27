@@ -1,11 +1,19 @@
-ID:	913
-Name:	Jardin Botánico de San Fernando 
-Curator's Name:	
-Director's Name:	Dra. Arilmi Gorriti
-Info:	  Peru - Lima - Lima  ;Garden Information;  Institution Code: SMF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botánico de San Fernando; Universidad Nacional Mayor de San Marcos; Jiron Puno; Lima; Lima 1002 Peru; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-12.0930
-Longitude:	-77.0464
-Special Collections:	Gramineae, many valuable 30-40 year old trees. Native plants of Uruguay.
+0-ID: 913
+1-Name: Jardin Botánico de San Fernando 
+2-Date founded: 
+2-Info:              Institution Code: SMF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botánico de San Fernando;         Universidad Nacional Mayor de San Marcos;        Jiron Puno;        Lima;        Lima 1002 Peru;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -12.0930
+2-Longitude: -77.0464
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=913">Please click here if you can update us</a>
+4-Special Collections: Gramineae, many valuable 30-40 year old trees. Native plants of Uruguay.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=913">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=913">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=913">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SMF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

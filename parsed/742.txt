@@ -1,20 +1,26 @@
-ID:	742
-Name:	Secrest Arboretum 
-Curator's Name:	Barbara Mekoleske, Administrative Assistant
-Director's Name:	Kenneth Cochran, Director of Programs
-Info:	  United States of America - Ohio - Wooster  ;Garden Information;  Institution Code: OARDC; International Agenda Registration: No; BGCI Member: No; About the Secrest Arboretum By providing research-based information to enhance the environment, Secrest helps scientists, educators, students, producers, landscape architects, and consumers. As Secrest continues to discover and develop solutions to landscape problems, it is critical to update our collections. Secrest is already home to thousands of native and introduced species and cultivars of trees, shrubs, and other plants, and with the help of the Friends of Secrest Arboretum, we will help establish new and improved programs for research, education, and natural beauty and continue to be a unique resource in Ohio.;  Main Address:; Secrest Arboretum; Ohio State University; 1680 Madison Avenue; Wooster; Ohio 44691 United States of America; ;  Telephone: (330) 263-3761; Fax: (330) 263-3767; URL: <a target="_blank" href="http://www.secrest.osu.edu">www.secrest.osu.edu; Primary Email: cochran.7@osu.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Annual Rainfall:	1052 mm
-Date founded:	1908
-Institution Type:	Botanic Garden
-Latitude:	40.7786720
-Longitude:	-81.9307930
-Total Area:	46 Hectares
-Arboretum:	Yes
-Friends society:	Yes
-Number of Visitors:	10000
-Open to public:	Yes
-Special Collections:	Arborvitae, flowering crab-apples, firs, hollies, junipers, pines, Rhododendrons, shade trees, spruces, Taxus, deciduous shrubs.
-Courses for General Public:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 742
+1-Name: Secrest Arboretum 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 1052 mm
+2-Date founded: 1908
+2-Info:              Institution Code: OARDC;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Secrest Arboretum        By providing research-based information to enhance the environment, Secrest helps scientists, educators, students, producers, landscape architects, and consumers.  As Secrest continues to discover and develop solutions to landscape problems, it is critical to update our collections. Secrest is already home to thousands of native and introduced species and cultivars of trees, shrubs, and other plants, and with the help of the Friends of Secrest Arboretum, we will help establish new and improved programs for research, education, and natural beauty and continue to be a unique resource in Ohio.;                        Main Address:;         Secrest Arboretum;         Ohio State University;        1680 Madison Avenue;        Wooster;        Ohio 44691 United States of America;        ;                 Telephone: (330) 263-3761;         Fax: (330) 263-3767;         URL: www.secrest.osu.edu;         Primary Email: cochran.7@osu.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.7786720
+2-Longitude: -81.9307930
+2-Total Area: 46 Hectares
+3-Arboretum: Yes
+3-Friends society: Yes
+3-Number of Visitors: 10000
+3-Open to public: Yes
+4-Special Collections: Arborvitae, flowering crab-apples, firs, hollies, junipers, pines, Rhododendrons, shade trees, spruces, Taxus, deciduous shrubs.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=742">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=742">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (330) 263-3767
+9-Institution Code: OARDC
+9-International Agenda Registration: No
+9-Primary Email: cochran.7@osu.edu
+9-Telephone: (330) 263-3761
+9-URL: www.secrest.osu.edu

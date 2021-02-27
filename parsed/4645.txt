@@ -1,10 +1,19 @@
-ID:	4645
-Name:	Heritage Farm, Seed Savers Exchange 
-Curator's Name:	
-Director's Name:	Lee Buttala, Executive Director
-Info:	  United States of America - Iowa - Decorah  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Heritage Farm, Seed Savers Exchange; 3094 North Winn Road; Decorah; Iowa 52101 United States of America; ;  Telephone: (563) 382-5990; Fax: ; URL: <a target="_blank" href="http://www.seedsavers.org">www.seedsavers.org; Primary Email: shirley@seedsavers.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	43.3845660
-Longitude:	-91.8074540
+0-ID: 4645
+1-Name: Heritage Farm, Seed Savers Exchange 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Heritage Farm, Seed Savers Exchange;         3094 North Winn Road;                Decorah;        Iowa 52101 United States of America;        ;                 Telephone: (563) 382-5990;         Fax: ;         URL: www.seedsavers.org;         Primary Email: shirley@seedsavers.org       ;              
+2-Institution Type: Other
+2-Latitude: 43.3845660
+2-Longitude: -91.8074540
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4645">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4645">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4645">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4645">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4645">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: shirley@seedsavers.org
+9-Telephone: (563) 382-5990
+9-URL: www.seedsavers.org

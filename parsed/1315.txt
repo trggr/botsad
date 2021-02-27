@@ -1,10 +1,18 @@
-ID:	1315
-Name:	Arboretum Lisicine 
-Curator's Name:	Natasa Rap
-Director's Name:	Tatjana Arnold Sabo
-Info:	  Croatia - Croatia - Vocin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Lisicine; Lisicine; Vocin; Croatia 33250 Croatia; ;  Telephone: +38531618050; Fax: +38531613741; URL: <a target="_blank" href="http://">; Primary Email: natasa.rap@hrsume.hr ; 
-Plant Records Officer's Name:	
-Date founded:	1963
-Institution Type:	Botanic Garden
-Latitude:	45.6204
-Longitude:	17.5455
+0-ID: 1315
+1-Name: Arboretum Lisicine 
+2-Date founded: 1963
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Lisicine;         Lisicine;                Vocin;        Croatia 33250 Croatia;        ;                 Telephone: +38531618050;         Fax: +38531613741;         URL: ;         Primary Email: natasa.rap@hrsume.hr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.6204
+2-Longitude: 17.5455
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1315">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1315">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1315">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1315">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +38531613741
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: natasa.rap@hrsume.hr
+9-Telephone: +38531618050
+9-URL: 

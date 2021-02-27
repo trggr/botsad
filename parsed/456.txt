@@ -1,14 +1,22 @@
-ID:	456
-Name:	Government Botanic Gardens 
-Fax:	
-Info:	  India - Tamil Nadu - The Nilgiris  ;Garden Information;  Institution Code: OOTAC; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Telephone:	2545
-Curator's Name:	M. Murugan
-Director's Name:	NK
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	11.4452
-Longitude:	76.6543
-Special Collections:	Economic plants, cacti and succulents, orchids (120 spp.), ferns (127 spp.), roses (300 cvs.), begonias, chicory, annuals and herbaceous perennials, conifers, Cinchona, Eucalyptus, wattle.
+0-ID: 456
+1-Name: Government Botanic Gardens 
+2-Curator's Name: M. Murugan
+2-Director's Name: NK
+2-Info:              Institution Code: OOTAC;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/456/ootybg2_phpOWUnQo.jpg" alt="" />         </div>        </div>                                    Main Address:;         Government Botanic Gardens;         Ootacamund;        Udhagamandalam;        The Nilgiris;        Tamil Nadu 643-001 India;        ;                 Telephone: 2545;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+3-Date founded: 
+3-Institution Type: Botanic Garden
+3-Latitude: 11.4452
+3-Longitude: 76.6543
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=456">Please click here if you can update us</a>
+5-Special Collections: Economic plants, cacti and succulents, orchids (120 spp.), ferns (127 spp.), roses (300 cvs.), begonias, chicory, annuals and herbaceous perennials, conifers, Cinchona, Eucalyptus, wattle.
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=456">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=456">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=456">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: OOTAC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 2545
+9-URL: 

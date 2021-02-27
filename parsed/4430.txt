@@ -1,10 +1,19 @@
-ID:	4430
-Name:	Eastern Ontario Model Forest 
-Curator's Name:	Erin Neave, Biodiversity Specialist
-Director's Name:	Mark Richardson, General Manager
-Info:	  Canada - Ontario - Kemptville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Eastern Ontario Model Forest; P.O. Bag 2111; Kemptville; Ontario K0G 1J0 Canada; ;  Telephone: (613) 258-8241; Fax: (613) 258-8363; URL: <a target="_blank" href="http://www.eomf.on.ca">www.eomf.on.ca; Primary Email: modelforest@eomf.on.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	45.00636
-Longitude:	-75.6379
+0-ID: 4430
+1-Name: Eastern Ontario Model Forest 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Eastern Ontario Model Forest;         P.O. Bag 2111;                Kemptville;        Ontario K0G 1J0 Canada;        ;                 Telephone: (613) 258-8241;         Fax: (613) 258-8363;         URL: www.eomf.on.ca;         Primary Email: modelforest@eomf.on.ca       ;              
+2-Institution Type: Other
+2-Latitude: 45.00636
+2-Longitude: -75.6379
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4430">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4430">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4430">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4430">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4430">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (613) 258-8363
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: modelforest@eomf.on.ca
+9-Telephone: (613) 258-8241
+9-URL: www.eomf.on.ca

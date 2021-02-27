@@ -1,71 +1,72 @@
-ID:	636
-Name:	Brooklyn Botanic Garden 
-Administration Staff Number:	19
-Curator's Name:	Rowan Blaik, Interim Vice President of Horticulture
-Director's Name:	Leslie Findlen & Dorota Rashid, Interim Co-Directors
-Educational Staff Number:	28
-Horticultural Staff Number:	31
-Info:	  United States of America - New York - Brooklyn  ;Garden Information;  Institution Code: BKL; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Brooklyn Botanic Garden Founded in 1910, Brooklyn Botanic Garden is a tranquil, 52-acre urban oasis featuring more than 10,000 different kinds of plants from around the world. Situated in the heart of Brooklyn, the Garden hosts more than 700,000 visitors annually and inspires them to discover that plants are essential to life. ; ; Called the "premier horticultural attraction in the region," by The New York Times, the Garden is made up of many exquisite and historic specialty gardens, including the Japanese-Hill-and-Pond-Garden, the Children's Garden, the Native Flora Garden, the Cranford Rose Garden, the Alice Recknagel Ireys Fragrance Garden, and the Steinhardt Conservatory. To learn more about our collections, go to the visitors section of our website.; ; Along with displaying a world-class collection of plants, Brooklyn Botanic Garden is also deeply committed to education, community outreach, and scientific research, and to being a trusted source of information about horticulture, botany, and the importance of conserving plants and protecting the environment.;  Main Address:; Brooklyn Botanic Garden; 1000 Washington Avenue; Brooklyn; New York 11225 United States of America; ;  Telephone: (718) 623-7200; Fax: (718) 857-2430; URL: <a target="_blank" href="http://www.bbg.org">www.bbg.org; Primary Email: horticulture@bbg.org ; 
-Plant Records Officer's Name:	Uriel Walker
-Research Staff Number:	12
-Altitude:	28.90 Metres
-Annual Rainfall:	1140 mm
-Date founded:	1910
-Institution Type:	Botanic Garden
-Latitude:	40.6675820
-Longitude:	-73.9618890
-Natural Vegetation Area:	No
-Total Area:	21 Hectares
-Total area of glasshouses:	3300 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	700000
-Number of Volunteers:	600
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-ABS Policy:	Yes
-Accession Number:	18748
-Cultivation Taxa Num:	11685
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Anacardiaceae, Araliaceae, Berberidaceae, Bignoniaceae, Bromeliaceae, Caprifoliaceae, Celastraceae, Cornaceae, Cupressaceae, Ericaceae, Fagaceae, Hamamelidaceae, Juglandaceae, Lauraceae, Leguminosae, Moraceae, Oleaceae, Orchidaceae, Pinaceae, Rhamnaceae,
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	No
-Exploration:	Yes
-Floristics:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 636
+1-Name: Brooklyn Botanic Garden 
+2-Altitude: 28.90 Metres
+2-Annual Rainfall: 1140 mm
+2-Date founded: 1910
+2-Info:              Institution Code: BKL;             International Agenda Registration: Yes;        BGCI Member: Yes;                       ArbNet Accredited:          Level II       ;                                          About the Brooklyn Botanic Garden        Founded in 1910, Brooklyn Botanic Garden is a tranquil, 52-acre urban oasis featuring more than 10,000 different kinds of plants from around the world. Situated in the heart of Brooklyn, the Garden hosts more than 700,000 visitors annually and inspires them to discover that plants are essential to life. ;  ;  Called the "premier horticultural attraction in the region," by The New York Times, the Garden is made up of many exquisite and historic specialty gardens, including the Japanese-Hill-and-Pond-Garden, the Children's Garden, the Native Flora Garden, the Cranford Rose Garden, the Alice Recknagel Ireys Fragrance Garden, and the Steinhardt Conservatory. To learn more about our collections, go to the visitors section of our website.;  ;  Along with displaying a world-class collection of plants, Brooklyn Botanic Garden is also deeply committed to education, community outreach, and scientific research, and to being a trusted source of information about horticulture, botany, and the importance of conserving plants and protecting the environment.;                        Main Address:;         Brooklyn Botanic Garden;         1000 Washington Avenue;                Brooklyn;        New York 11225 United States of America;        ;                 Telephone: (718) 623-7200;         Fax: (718) 857-2430;         URL: www.bbg.org;         Primary Email: horticulture@bbg.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.6675820
+2-Longitude: -73.9618890
+2-Natural Vegetation Area: No
+2-Total Area: 21 Hectares
+2-Total area of glasshouses: 3300 Metres
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 700000
+3-Number of Volunteers: 600
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-ABS Policy: Yes
+4-Accession Number: 18748
+4-Cultivation Taxa Num: 11685
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Anacardiaceae, Araliaceae, Berberidaceae, Bignoniaceae, Bromeliaceae, Caprifoliaceae, Celastraceae, Cornaceae, Cupressaceae, Ericaceae, Fagaceae, Hamamelidaceae, Juglandaceae, Lauraceae, Leguminosae, Moraceae, Oleaceae, Orchidaceae, Pinaceae, Rhamnaceae,
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: Yes
+6-Floristics: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: Yes
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: No
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-ArbNet Accredited: Level II
+9-BGCI Member: Yes
+9-Fax: (718) 857-2430
+9-Institution Code: BKL
+9-International Agenda Registration: Yes
+9-Primary Email: horticulture@bbg.org
+9-Telephone: (718) 623-7200
+9-URL: www.bbg.org

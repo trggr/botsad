@@ -1,9 +1,18 @@
-ID:	5306
-Name:	Asociación Etnobotánica Paraguaya (Jardín Etnobotánico Patiño) 
-Curator's Name:	
-Director's Name:	Claudia Isabel Céspedes de Zárate
-Info:	  Paraguay - Departamento Central - Capiatá  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Asociación Etnobotánica Paraguaya (Jardín Etnobotánico Patiño); Estudiantes Capiateños N° 712, Entre 2 de Febrero y La Candelaria. Barrio La Candelaria.; Capiatá; Departamento Central 2560 Paraguay; ;  Telephone: (595) 981403583; Fax: ; URL: <a target="_blank" href="http://www.etnobotanica.org.py">www.etnobotanica.org.py; Primary Email: etnobotanica@etnobotanica.org.py ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-25.3512
-Longitude:	-57.6476205
+0-ID: 5306
+1-Name: Asociación Etnobotánica Paraguaya (Jardín Etnobotánico Patiño) 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Asociación Etnobotánica Paraguaya (Jardín Etnobotánico Patiño);         Estudiantes Capiateños N° 712, Entre 2 de Febrero y La Candelaria. Barrio La Candelaria.;                Capiatá;        Departamento Central 2560 Paraguay;        ;                 Telephone: (595) 981403583;         Fax: ;         URL: www.etnobotanica.org.py;         Primary Email: etnobotanica@etnobotanica.org.py       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -25.3512
+2-Longitude: -57.6476205
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5306">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5306">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5306">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5306">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5306">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: etnobotanica@etnobotanica.org.py
+9-Telephone: (595) 981403583
+9-URL: www.etnobotanica.org.py

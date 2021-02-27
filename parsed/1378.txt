@@ -1,10 +1,18 @@
-ID:	1378
-Name:	Botanical Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Pakistan - Lahore  ;Garden Information;  Institution Code: LAH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Gardens; Punjab University,; New Campus; Lahore; Pakistan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	31.6000
-Longitude:	74.3139
+0-ID: 1378
+1-Name: Botanical Gardens 
+2-Date founded: 
+2-Info:              Institution Code: LAH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Gardens;         Punjab University,;        New Campus;        Lahore;        Pakistan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.6000
+2-Longitude: 74.3139
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1378">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1378">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1378">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1378">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LAH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

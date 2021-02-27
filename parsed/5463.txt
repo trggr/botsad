@@ -1,7 +1,16 @@
-ID:	5463
-Name:	Northeastern University Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Massachusetts - Boston  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Northeastern University Arboretum; 360 Huntington Ave.; Boston; Massachusetts 02115 United States of America; ;  Telephone: 617-373-2700; Fax: ; URL: <a target="_blank" href="http://www.northeastern.edu/">http://www.northeastern.edu/; Primary Email: c.doughty@northeastern.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5463
+1-Name: Northeastern University Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Northeastern University Arboretum;         360 Huntington Ave.;                Boston;        Massachusetts 02115 United States of America;        ;                 Telephone: 617-373-2700;         Fax: ;         URL: http://www.northeastern.edu/;         Primary Email: c.doughty@northeastern.edu       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5463">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5463">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5463">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5463">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5463">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: c.doughty@northeastern.edu
+9-Telephone: 617-373-2700

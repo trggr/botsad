@@ -1,23 +1,27 @@
-ID:	4214
-Name:	Botanical Garden Cayes 
-Administration Staff Number:	2
-Curator's Name:	Martin Reith
-Director's Name:	Natacha Beaussejour
-Educational Staff Number:	2
-Horticultural Staff Number:	11
-Info:	  Haiti - Les Cayes  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: CABG; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanical Garden Cayes; Route Nationale 2; Les Cayes; HT8110 Haiti; ;  Telephone: (+509) 43092809; Fax: ; URL: <a target="_blank" href="https://www.jardinbotaniquecayeshaiti.org/">https://www.jardinbotaniquecayeshaiti.org/; Primary Email: jardinbotaniquedecayes@gmail.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	4
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	18.9711
-Longitude:	-72.2852
-" src="https:	//www.bgci.org/files/ERABG/project_images/Cayes%20Botanical%20Garden%20/Samyda%20pubescens.jpg" alt="" width="700" height="338" />
-</h6> <p style="text-align:	justify
-<a href="mailto:	wcinea@gmail.com">William Cinea for more information about Cayes Botanical Garden restoration work.
-<h6 style="text-align:	center
-<img style="display:	block
-<p style="text-align:	justify
-margin-left:	auto
-margin-right:	auto
-pubescens</em> seeds</h6> <p style="text-align:	justify
+0-ID: 4214
+1-Name: Botanical Garden Cayes 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: CABG;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Botanical Garden Cayes;         Route Nationale 2;                Les Cayes;        HT8110 Haiti;        ;                 Telephone: (+509) 43092809;         Fax: ;         URL: https://www.jardinbotaniquecayeshaiti.org/;         Primary Email: jardinbotaniquedecayes@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.9711
+2-Longitude: -72.2852
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4214">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4214">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4214">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4214">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4214">Please click here if you can update us</a>
+8-"><em>Samyda pubescens</em> is an example of a native species that has been collected and propagated in the garden. The research has identified that this species is an important food source for Haitian native fauna, but unfortunately, forests where it is present have been widely cleared for agriculture. Cayes Botanical Garden is promoting the use of <em>S. pubescens</em> in restoration projects to benefit native fauna, and it is also being promoted in the horticultural trade as it produces an abundance of attractive white and pink flowers. <img style="display: block
+8-</h6> <p style="text-align: justify
+8-</strong> <p style="text-align: justify
+8-<a href="mailto: wcinea@gmail.com">William Cinea</a> for more information about Cayes Botanical Garden restoration work. <hr />
+8-<p style="text-align: justify
+8-margin-left: auto
+8-margin-right: auto
+8-pubescens</em> seeds</h6> <p style="text-align: justify
+8-s restoration success. In addition to completing baseline floristic surveys, the botanic garden has established native plant plots within its grounds to gather important ecological information that will be crucial to guide future restoration efforts. <img style="display: block
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: CABG
+9-International Agenda Registration: No
+9-Primary Email: jardinbotaniquedecayes@gmail.com
+9-Telephone: (+509) 43092809

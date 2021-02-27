@@ -1,9 +1,18 @@
-ID:	5482
-Name:	Singapore Botanic Gardens - seed bank 
-Curator's Name:	
-Director's Name:	Ang Wee Foong, National Parks Board Singapore
-Info:	  Singapore - Singapore - Singapore City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Singapore Botanic Gardens - seed bank; Naitonal Parks Board; 1 Cluny Road; Singapore City; Singapore 259569 Singapore; ;  Telephone: (65) 6471-7138; Fax: (65) 6473-7983; URL: <a target="_blank" href="http://www.sbg.org.sg">www.sbg.org.sg; Primary Email: ANG_Wee_Foong@nparks.gov.sg ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	1.3144
-Longitude:	103.8211
+0-ID: 5482
+1-Name: Singapore Botanic Gardens - seed bank 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Singapore Botanic Gardens - seed bank;         Naitonal Parks Board;        1 Cluny Road;        Singapore City;        Singapore 259569 Singapore;        ;                 Telephone: (65) 6471-7138;         Fax: (65) 6473-7983;         URL: www.sbg.org.sg;         Primary Email: ANG_Wee_Foong@nparks.gov.sg       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 1.3144
+2-Longitude: 103.8211
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5482">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5482">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5482">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5482">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5482">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (65) 6473-7983
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ANG_Wee_Foong@nparks.gov.sg
+9-Telephone: (65) 6471-7138
+9-URL: www.sbg.org.sg

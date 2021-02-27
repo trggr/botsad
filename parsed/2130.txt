@@ -1,11 +1,19 @@
-ID:	2130
-Name:	Botanical Garden Kalinin 
-Curator's Name:	
-Director's Name:	
-Info:	  Russian Federation - Kalinin  ;Garden Information;  Institution Code: KALIN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden Kalinin; Shevchenko 16,; Kalinin; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	47.2498
-Longitude:	39.5219
-Special Collections:	Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+0-ID: 2130
+1-Name: Botanical Garden Kalinin 
+2-Date founded: 
+2-Info:              Institution Code: KALIN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden Kalinin;         Shevchenko 16,;                Kalinin;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.2498
+2-Longitude: 39.5219
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2130">Please click here if you can update us</a>
+4-Special Collections: Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2130">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2130">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2130">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KALIN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

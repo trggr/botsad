@@ -1,12 +1,18 @@
-ID:	5006
-Name:	Beijing (southern) Botanical Garden - Tissue Culture 
-Curator's Name:	
-Director's Name:	Song Ge, Director of Botanical Garden
-Info:	  China - Beijing - Xiangshan  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Beijing (southern) Botanical Garden - Tissue Culture; Institute of Botany, Chinese Academy of Sciences; 20 Nanxiincun, Xiangshan South Road; Xiangshan; Beijing 100093 China; ;  Telephone: (86-10) 62591431; Fax: (86-10) 62590348; URL: <a target="_blank" href="http://www.beijingbg.com">http://www.beijingbg.com; Primary Email: Xmjing@ns.ibcas.ac.cn ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	39.6333
-Longitude:	118.1666
-Seed Bank:	Yes
-Cultivation Taxa Num:	2000
+0-ID: 5006
+1-Name: Beijing (southern) Botanical Garden - Tissue Culture 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Beijing (southern) Botanical Garden - Tissue Culture;         Institute of Botany, Chinese Academy of Sciences;        20 Nanxiincun, Xiangshan South Road;        Xiangshan;        Beijing 100093 China;        ;                 Telephone: (86-10) 62591431;         Fax: (86-10) 62590348;         URL: http://www.beijingbg.com;         Primary Email: Xmjing@ns.ibcas.ac.cn       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 39.6333
+2-Longitude: 118.1666
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 2000
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5006">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5006">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5006">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (86-10) 62590348
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: Xmjing@ns.ibcas.ac.cn
+9-Telephone: (86-10) 62591431

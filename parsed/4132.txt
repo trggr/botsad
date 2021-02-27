@@ -1,14 +1,19 @@
-ID:	4132
-Name:	Central Botanical Garden of National Academy of Sciences of Azerbaijan 
-Administration Staff Number:	10
-Curator's Name:	Farid Seyfullayev
-Director's Name:	Farzaliyev Vahid
-Educational Staff Number:	8
-Horticultural Staff Number:	10
-Info:	  Azerbaijan - Azerbaijan - Baku  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Central Botanical Garden of National Academy of Sciences of Azerbaijan; Mikayil Mushfig 103; Baku; Azerbaijan AZ1004 Azerbaijan; ;  Telephone: (+994 12) 502 43 21; Fax: (+994 12) 502 41 72; URL: <a target="_blank" href="http://www.cbg.org.az">www.cbg.org.az; Primary Email: fseyfullayev@yahoo.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	35
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.3834
-Longitude:	49.8932
+0-ID: 4132
+1-Name: Central Botanical Garden of National Academy of Sciences of Azerbaijan 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Central Botanical Garden of National Academy of Sciences of Azerbaijan;         Mikayil Mushfig 103;                Baku;        Azerbaijan AZ1004 Azerbaijan;        ;                 Telephone: (+994 12)  502 43 21;         Fax: (+994 12)  502 41 72;         URL: www.cbg.org.az;         Primary Email: fseyfullayev@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.3834
+2-Longitude: 49.8932
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4132">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4132">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4132">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4132">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4132">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (+994 12)  502 41 72
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: fseyfullayev@yahoo.com
+9-Telephone: (+994 12)  502 43 21
+9-URL: www.cbg.org.az

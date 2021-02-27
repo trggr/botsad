@@ -1,12 +1,21 @@
-ID:	3062
-Name:	Ocean Park Corporation (Hong Kong) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hong Kong - Hong Kong Island  ;Garden Information;  Institution Code: HKOP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ocean Park Corporation (Hong Kong); Wong Chuk Hang Road, Aberdeen, Hong Kong SAR, China; Hong Kong Island; Hong Kong China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	22.3813
-Local Address:	中国香港香港岛南岸香港仔黄竹坑道
-Locality:	Information
-Longitude:	114.1686
+0-ID: 3062
+1-Name: Ocean Park Corporation (Hong Kong) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HKOP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ocean Park Corporation (Hong Kong);         Wong Chuk Hang Road, Aberdeen, Hong Kong SAR, China;                Hong Kong Island;        Hong Kong China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 22.3813
+2-Local Address: 中国香港香港岛南岸香港仔黄竹坑道
+2-Locality: Information
+2-Longitude: 114.1686
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3062">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3062">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3062">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3062">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3062">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HKOP
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

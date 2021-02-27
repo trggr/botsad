@@ -1,9 +1,18 @@
-ID:	5595
-Name:	Jardín Botánico EMAJEA 
-Curator's Name:	Téc. Laura Vezzato
-Director's Name:	Ing. Agr. María Florencia Silva
-Info:	  Argentina - Buenos Aires - Lomas de Zamora  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico EMAJEA; Escuela Municipal de Arboricultura, Jardinería y Ecología Aplicada; Avenida Frías 1475; Lomas de Zamora; Buenos Aires 1832 Argentina; ;  Telephone: +54 11 4283 2334; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: emajea@gmail.com ; 
-Plant Records Officer's Name:	Ing. Agr. Verónica Mautone
-Institution Type:	Botanic Garden
-Latitude:	-34.774233
-Longitude:	-58.424777
+0-ID: 5595
+1-Name: Jardín Botánico EMAJEA 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico EMAJEA;         Escuela Municipal de Arboricultura, Jardinería y Ecología Aplicada;        Avenida Frías 1475;        Lomas de Zamora;        Buenos Aires 1832 Argentina;        ;                 Telephone: +54 11 4283 2334;         Fax: ;         URL: ;         Primary Email: emajea@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -34.774233
+2-Longitude: -58.424777
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5595">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5595">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5595">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5595">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5595">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: emajea@gmail.com
+9-Telephone: +54 11 4283 2334
+9-URL: 

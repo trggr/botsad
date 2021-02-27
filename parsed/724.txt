@@ -1,44 +1,44 @@
-ID:	724
-Name:	Santa Barbara Botanic Garden 
-Administration Staff Number:	7
-Curator's Name:	Betsy Collins, Director of Horticulture
-Director's Name:	Dr. Steve Windhager
-Educational Staff Number:	3
-Horticultural Staff Number:	10
-Info:	  United States of America - California - Santa Barbara  ;Garden Information;  Institution Code: SBBG; International Agenda Registration: Yes; BGCI Member: Yes; About the Santa Barbara Botanic Garden The Santa Barbara Botanic Garden fosters the conservation of California native plants through our gardens, education, and research, and serves as a role model of sustainable practices.; ; SBBG envisions a world where society understands the interdepende;  Main Address:; Santa Barbara Botanic Garden; 1212 Mission Canyon Road; Santa Barbara; California 93105 United States of America; ;  Telephone: (805) 682-4726 x123; Fax: (805) 682-6953; URL: <a target="_blank" href="http://www.sbbg.org">www.sbbg.org; Primary Email: info@sbbg.org ; 
-Plant Records Officer's Name:	Betsy Lape, Living Collections Coordinator
-Research Staff Number:	5
-Altitude:	0.00 Metres
-Annual Rainfall:	432 mm
-Date founded:	1926
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	34.4565340
-Longitude:	-119.7100200
-Natural Vegetation Area:	Yes
-Total Area:	31 Hectares
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	200
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Accession Number:	2240
-Cultivation Taxa Num:	900
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Ericaceae, Poaceae, Polypodiaceae, Rhamnaceae, Arctostaphylos (54 spp., 82 taxa), Ceanothus (37 spp., 69 taxa), Cupressus (4 spp.), Eriogonum (25 spp.), Fremontodendron (6 spp., 13 taxa), Mahonia (17 spp.), Pinus (21 spp.), Quercus (8 spp.), Ribes (14 spp
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Ecology:	Yes
-Floristics:	Yes
-Courses for General Public:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 724
+1-Name: Santa Barbara Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 432 mm
+2-Date founded: 1926
+2-Info:              Institution Code: SBBG;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Santa Barbara Botanic Garden        The Santa Barbara Botanic Garden fosters the conservation of California native plants through our gardens, education, and research, and serves as a role model of sustainable practices.;  ;  SBBG envisions a world where society understands the interdepende;                        Main Address:;         Santa Barbara Botanic Garden;         1212 Mission Canyon Road;                Santa Barbara;        California 93105 United States of America;        ;                 Telephone: (805) 682-4726 x123;         Fax: (805) 682-6953;         URL: www.sbbg.org;         Primary Email: info@sbbg.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 34.4565340
+2-Longitude: -119.7100200
+2-Natural Vegetation Area: Yes
+2-Total Area: 31 Hectares
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Volunteers: 200
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-Accession Number: 2240
+4-Cultivation Taxa Num: 900
+4-Invasive Species Monitoring: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Ericaceae, Poaceae, Polypodiaceae, Rhamnaceae, Arctostaphylos (54 spp., 82 taxa), Ceanothus (37 spp., 69 taxa), Cupressus (4 spp.), Eriogonum (25 spp.), Fremontodendron (6 spp., 13 taxa), Mahonia (17 spp.), Pinus (21 spp.), Quercus (8 spp.), Ribes (14 spp
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Ecology: Yes
+6-Floristics: Yes
+7-Courses for General Public: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: Yes
+9-Fax: (805) 682-6953
+9-Institution Code: SBBG
+9-International Agenda Registration: Yes
+9-Primary Email: info@sbbg.org
+9-Telephone: (805) 682-4726 x123
+9-URL: www.sbbg.org

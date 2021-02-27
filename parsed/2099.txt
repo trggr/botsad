@@ -1,12 +1,19 @@
-ID:	2099
-Name:	Jardim Botânico da Fundação Zoobotânica do Rio Grande do Sul 
-Curator's Name:	
-Director's Name:	Raquel Corine Scalabrini
-Info:	  Brazil - Rio Grande do Sul - Porto Alegre  ;Garden Information;  Institution Code: PALGR; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardim Botânico da Fundação Zoobotânica do Rio Grande do Sul; Rua Salvador França, 1427 - Jardim Botânico; Porto Alegre; Rio Grande do Sul 90.690-000 Brazil; ;  Telephone: 55 51 3320 2024; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jbotanico@fzb.rs.gov.br ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-30.0554
-Longitude:	-51.1820
-Seed Bank:	Yes
-Special Collections:	Bromeliads, Cacti, Liliaceae (36 spp), Iridaceae (28 spp) orchids, Myrtaceae (145 accessions of 36 spp in 1992), medicinal plants. Native plants from southern Brazil.
+0-ID: 2099
+1-Name: Jardim Botânico da Fundação Zoobotânica do Rio Grande do Sul 
+2-Date founded: 
+2-Info:              Institution Code: PALGR;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico da Fundação Zoobotânica do Rio Grande do Sul;         Rua Salvador França, 1427 - Jardim Botânico;                Porto Alegre;        Rio Grande do Sul 90.690-000 Brazil;        ;                 Telephone: 55 51 3320 2024;         Fax: ;         URL: ;         Primary Email: jbotanico@fzb.rs.gov.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -30.0554
+2-Longitude: -51.1820
+3-Seed Bank: Yes
+4-Special Collections: Bromeliads, Cacti, Liliaceae (36 spp), Iridaceae (28 spp) orchids, Myrtaceae (145 accessions of 36 spp in 1992), medicinal plants. Native plants from southern Brazil.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2099">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2099">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2099">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PALGR
+9-International Agenda Registration: Yes
+9-Primary Email: jbotanico@fzb.rs.gov.br
+9-Telephone: 55 51 3320 2024
+9-URL: 

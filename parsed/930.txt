@@ -1,11 +1,19 @@
-ID:	930
-Name:	Botanical Garden Delhi University 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Delhi  ;Garden Information;  Institution Code: DUH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden Delhi University; Department of Botany; Delhi University; Delhi; India; ;  Telephone: 221421; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1947
-Institution Type:	Botanic Garden
-Latitude:	28.6353
-Longitude:	77.2249
-Special Collections:	Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+0-ID: 930
+1-Name: Botanical Garden Delhi University 
+2-Date founded: 1947
+2-Info:              Institution Code: DUH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden Delhi University;         Department of Botany;        Delhi University;        Delhi;        India;        ;                 Telephone: 221421;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.6353
+2-Longitude: 77.2249
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=930">Please click here if you can update us</a>
+4-Special Collections: Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=930">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=930">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=930">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DUH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 221421
+9-URL: 

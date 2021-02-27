@@ -1,10 +1,19 @@
-ID:	1138
-Name:	Introduction Laboratory Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  Kazakhstan - Szczuczinsk  ;Garden Information;  Institution Code: SZCZU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Introduction Laboratory Arboretum; Kas Niilha, Kokchzetavskaja Region, 476410 SZCZUCZINSK, Kazakhstan; Szczuczinsk; Kazakhstan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	48.0195
-Longitude:	66.9236
+0-ID: 1138
+1-Name: Introduction Laboratory Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: SZCZU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Introduction Laboratory Arboretum;         Kas Niilha,   Kokchzetavskaja Region,   476410 SZCZUCZINSK,   Kazakhstan;                Szczuczinsk;        Kazakhstan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.0195
+2-Longitude: 66.9236
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1138">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1138">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1138">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1138">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1138">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SZCZU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

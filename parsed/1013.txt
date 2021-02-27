@@ -1,11 +1,19 @@
-ID:	1013
-Name:	Atherton Rainforest Arboretum and Herbarium Reference Collection 
-Curator's Name:	None
-Director's Name:	None
-Info:	  Australia - Atherton  ;Garden Information;  Institution Code: QRS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Atherton Rainforest Arboretum and Herbarium Reference Collection; PO Box 273; Atherton; QLD 4883 Australia; ;  Telephone: 61 (0)7 4091 1755; Fax: 61 (0)7 4091 3245; URL: <a target="_blank" href="http://www.csiro.au/en/Organisation-Structure/Divisions/Ecosystem-Sciences/Atherton-Arboretum.aspx">www.csiro.au/en/Organisation-Structure/Divisions/Ecosystem-Sciences/Atherton-Arboretum.aspx; Primary Email: reception@tfrc.csiro.au ; 
-Plant Records Officer's Name:	
-Date founded:	1971
-Institution Type:	Botanic Garden
-Latitude:	-17.25822
-Longitude:	145.48525
-Special Collections:	100 % of collection is Australian flora. Myrtaceae, Proteaceae, ornamental trees, land rehabilitation plantings.
+0-ID: 1013
+1-Name: Atherton Rainforest Arboretum and Herbarium Reference Collection 
+2-Date founded: 1971
+2-Info:              Institution Code: QRS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Atherton Rainforest Arboretum and Herbarium Reference Collection;                 PO Box 273;        Atherton;        QLD 4883 Australia;        ;                 Telephone: 61 (0)7 4091 1755;         Fax: 61 (0)7 4091 3245;         URL: www.csiro.au/en/Organisation-Structure/Divisions/Ecosystem-Sciences/Atherton-Arboretum.aspx;         Primary Email: reception@tfrc.csiro.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -17.25822
+2-Longitude: 145.48525
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1013">Please click here if you can update us</a>
+4-Special Collections: 100 % of collection is Australian flora. Myrtaceae, Proteaceae, ornamental trees, land rehabilitation plantings.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1013">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1013">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1013">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)7 4091 3245
+9-Institution Code: QRS
+9-International Agenda Registration: No
+9-Primary Email: reception@tfrc.csiro.au
+9-Telephone: 61 (0)7 4091 1755
+9-URL: www.csiro.au/en/Organisation-Structure/Divisions/Ecosystem-Sciences/Atherton-Arboretum.aspx

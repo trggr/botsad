@@ -1,12 +1,20 @@
-ID:	677
-Name:	Early American Museum and Gardens 
-Curator's Name:	Barbara Oehlschlaeger-Garvey, Curator
-Director's Name:	Cheryl Kennedy, Museum Director
-Info:	  United States of America - Illinois - Mahomet  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Early American Museum and Gardens; The Heritage Center of Campaign County; P.O. Box 1040; Mahomet; Illinois 61853 United States of America; ;  Telephone: (217) 586 3360; Fax: ; URL: <a target="_blank" href="http://www.earlyamericanmuseum.org/program.htm">www.earlyamericanmuseum.org/program.htm; Primary Email: bgarvey@ccfpd.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	40.1979710
-Longitude:	-88.3779640
-Special Collections:	Ethnobotanical collections.
+0-ID: 677
+1-Name: Early American Museum and Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1974
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Early American Museum and Gardens;         The Heritage Center of Campaign County;        P.O. Box 1040;        Mahomet;        Illinois 61853 United States of America;        ;                 Telephone: (217) 586 3360;         Fax: ;         URL: www.earlyamericanmuseum.org/program.htm;         Primary Email: bgarvey@ccfpd.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.1979710
+2-Longitude: -88.3779640
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=677">Please click here if you can update us</a>
+4-Special Collections: Ethnobotanical collections.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=677">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=677">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=677">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: bgarvey@ccfpd.org
+9-Telephone: (217) 586 3360
+9-URL: www.earlyamericanmuseum.org/program.htm

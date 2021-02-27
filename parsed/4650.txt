@@ -1,9 +1,17 @@
-ID:	4650
-Name:	Lakeside Commons Educational Gardens 
-Curator's Name:	Doris Meece, Horticulture Program Assistant
-Director's Name:	David K. Koester, County Extension Agent for Horticulture
-Info:	  United States of America - Kentucky - Newport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lakeside Commons Educational Gardens; 3500 Alexandria Pike; Newport; Kentucky 41076 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://ces.ca.uky.edu/campbell/LakesideCommonsEducationalGardens">http://ces.ca.uky.edu/campbell/LakesideCommonsEducationalGardens; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.0289659
-Longitude:	-84.4521490
+0-ID: 4650
+1-Name: Lakeside Commons Educational Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Lakeside Commons Educational Gardens;         3500 Alexandria Pike;                Newport;        Kentucky 41076 United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://ces.ca.uky.edu/campbell/LakesideCommonsEducationalGardens;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.0289659
+2-Longitude: -84.4521490
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4650">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4650">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4650">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4650">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4650">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

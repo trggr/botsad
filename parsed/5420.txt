@@ -1,9 +1,18 @@
-ID:	5420
-Name:	Huaihua Botanical Garden of Hunan Province 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hunan Province - Huaihua City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Huaihua Botanical Garden of Hunan Province; 5 Zongpo Road; Hecheng District; Huaihua City; Hunan Province China; ;  Telephone: 0745-2765790; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: 0745-2765790 ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	27.5972992
-Longitude:	110.0116444
+0-ID: 5420
+1-Name: Huaihua Botanical Garden of Hunan Province 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Huaihua Botanical Garden of Hunan Province;         5 Zongpo Road;        Hecheng District;        Huaihua City;        Hunan Province China;        ;                 Telephone: 0745-2765790;         Fax: ;         URL: ;         Primary Email: 0745-2765790       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 27.5972992
+2-Longitude: 110.0116444
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5420">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5420">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5420">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5420">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5420">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 0745-2765790
+9-Telephone: 0745-2765790
+9-URL: 

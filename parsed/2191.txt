@@ -1,12 +1,19 @@
-ID:	2191
-Name:	Burnley Gardens 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Australia - Burnley  ;Garden Information;  Institution Code: BURN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Burnley Gardens; The Principal VCAH Burnley, Yarra Boulevard, BURNLEY, VIC 3121, Australia; Burnley; Australia; ;  Telephone: 61 (0)3 9250 6800; Fax: 61 (0)3 9250 6885; URL: <a target="_blank" href="http://www.fobg.org.au/blog/about-the-gardens/2563-2/">http://www.fobg.org.au/blog/about-the-gardens/2563-2/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1861
-Institution Type:	Botanic Garden
-Latitude:	-37.8296
-Longitude:	145.02283
-Special Collections:	25 % of collection if Australian flora.
+0-ID: 2191
+1-Name: Burnley Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1861
+2-Info:              Institution Code: BURN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Burnley Gardens;         The Principal VCAH Burnley, Yarra Boulevard, BURNLEY, VIC 3121, Australia;                Burnley;        Australia;        ;                 Telephone: 61 (0)3 9250 6800;         Fax: 61 (0)3 9250 6885;         URL: http://www.fobg.org.au/blog/about-the-gardens/2563-2/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -37.8296
+2-Longitude: 145.02283
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2191">Please click here if you can update us</a>
+4-Special Collections: 25 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2191">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2191">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2191">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 9250 6885
+9-Institution Code: BURN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)3 9250 6800

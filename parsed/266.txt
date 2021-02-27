@@ -1,13 +1,22 @@
-ID:	266
-Name:	Cape Flats Nature Reserve 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  South Africa - Western Cape - Bellville  ;Garden Information;  Institution Code: UWC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cape Flats Nature Reserve; University of the Western Cape, Private Bag X 17, BELLVILLE 7530, South Africa.; Bellville; Western Cape 7530 South Africa; ;  Telephone: 9592498; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	50.00 Metres
-Annual Rainfall:	500 mm
-Date founded:	1977
-Institution Type:	Other
-Latitude:	-33.935563
-Longitude:	18.620007
-Natural Vegetation Area:	Yes
+0-ID: 266
+1-Name: Cape Flats Nature Reserve 
+2-Altitude: 50.00 Metres
+2-Annual Rainfall: 500 mm
+2-Date founded: 1977
+2-Info:              Institution Code: UWC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Cape Flats Nature Reserve;         University of the Western Cape, Private Bag  X 17, BELLVILLE 7530, South Africa.;                Bellville;        Western Cape 7530 South Africa;        ;                 Telephone: 9592498;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: -33.935563
+2-Longitude: 18.620007
+2-Natural Vegetation Area: Yes
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=266">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=266">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=266">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=266">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=266">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: UWC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 9592498
+9-URL: 

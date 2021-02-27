@@ -1,9 +1,18 @@
-ID:	4470
-Name:	Schnormeier Gardens 
-Curator's Name:	
-Director's Name:	Ted Schnormeier, Director
-Info:	  United States of America - Ohio - Gambier  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Schnormeier Gardens; 8701 Laymon Road; Gambier; Ohio 43022 United States of America; ;  Telephone: (740) 427-2612; Fax: ; URL: <a target="_blank" href="http://www.schnormeiergardens.org">www.schnormeiergardens.org; Primary Email: schangrala@aol.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.3563130
-Longitude:	-82.4121990
+0-ID: 4470
+1-Name: Schnormeier Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Schnormeier Gardens;         8701 Laymon Road;                Gambier;        Ohio 43022 United States of America;        ;                 Telephone: (740) 427-2612;         Fax: ;         URL: www.schnormeiergardens.org;         Primary Email: schangrala@aol.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.3563130
+2-Longitude: -82.4121990
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4470">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4470">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4470">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4470">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4470">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: schangrala@aol.com
+9-Telephone: (740) 427-2612
+9-URL: www.schnormeiergardens.org

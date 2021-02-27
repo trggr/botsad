@@ -1,30 +1,34 @@
-ID:	559
-Name:	Ogród Botaniczny Uniwersytetu im. Marii Curie-Skłodowskiej w Lublinie 
-Fax:	
-Info:	  Poland - lubelskie - Lublin  ;Garden Information;  Institution Code: LBLC; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	botanik@hektor.umcs.lublin.pl
-Telephone:	322 53
-Administration Staff Number:	6
-Curator's Name:	
-Director's Name:	Grażyna Szymczak PhD
-Educational Staff Number:	1
-Horticultural Staff Number:	22
-Plant Records Officer's Name:	
-Research Staff Number:	5
-Altitude:	0.00 Metres
-Date founded:	1965
-Institution Type:	Botanic Garden
-Latitude:	51.2779
-Longitude:	22.5062
-Total Area:	21 Hectares
-Total area of glasshouses:	1000 Metres
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	600000
-Seed Bank:	Yes
-Cultivation Taxa Num:	6800
-Special Collections:	Tulipa, Rosa, native Flora
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Education:	Yes
+0-ID: 559
+1-Name: Ogród Botaniczny Uniwersytetu im. Marii Curie-Skłodowskiej w Lublinie 
+2-Administration Staff Number: 6
+2-Curator's Name: 
+2-Director's Name: Grażyna Szymczak PhD
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 22
+2-Info:              Institution Code: LBLC;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/559/Ogród Botaniczny UMCS w Lublinie.JPG" alt="" />         </div>        </div>                                    Main Address:;         Ogród Botaniczny Uniwersytetu im. Marii Curie-Skłodowskiej w Lublinie;         Botanical Garden of Maria Skłodowska-Curie University;        ul. Slawinkowska 3,;        Lublin;        lubelskie 20-810 Poland;        ;                 Telephone: 322 53;         Fax: ;         URL: https://www.umcs.pl/pl/ogrod-botaniczny.htm;         Primary Email: botanik@hektor.umcs.lublin.pl       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 5
+3-Altitude: 0.00 Metres
+3-Date founded: 1965
+3-Institution Type: Botanic Garden
+3-Latitude: 51.2779
+3-Longitude: 22.5062
+3-Total Area: 21 Hectares
+3-Total area of glasshouses: 1000 Metres
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 600000
+4-Seed Bank: Yes
+5-Cultivation Taxa Num: 6800
+5-Special Collections: Tulipa, Rosa, native Flora
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Education: Yes
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=559">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LBLC
+9-International Agenda Registration: Yes
+9-Primary Email: botanik@hektor.umcs.lublin.pl
+9-Telephone: 322 53

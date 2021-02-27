@@ -1,36 +1,37 @@
-ID:	751
-Name:	Orto Botanico Hanbury di Genova 
-Administration Staff Number:	
-Curator's Name:	Dr Elena Mora
-Director's Name:	Dr Mauro Mariotti
-Educational Staff Number:	
-Horticultural Staff Number:	1
-Info:	  Italy - Liguria - Genova  ;Garden Information;  Institution Code: GE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico Hanbury di Genova; Università Degli Studi di Genova - Corso Dogali 1M; Genova; Liguria 16136 Italy; ;  Telephone: +39 (0)10 209 9392; Fax: +39 (0)10 209 9377; URL: <a target="_blank" href="http://">; Primary Email: botgarden@unige.it ; 
-Plant Records Officer's Name:	Dr Elena Mora
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	44.4070
-Longitude:	8.9339
-Disabled access:	No
-Friends society:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Seed Bank:	No
-ABS Policy:	No
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	Tropical plants - Ferns - Useful Plants - Sages - Medicinal plants.
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Floristics:	Yes
-Urban Environments:	Yes
-Courses for University/College Students:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	No
+0-ID: 751
+1-Name: Orto Botanico Hanbury di Genova 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: GE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Orto Botanico Hanbury di Genova;         Università Degli Studi di Genova - Corso Dogali 1M;                Genova;        Liguria 16136 Italy;        ;                 Telephone: +39 (0)10 209 9392;         Fax: +39 (0)10 209 9377;         URL: ;         Primary Email: botgarden@unige.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.4070
+2-Longitude: 8.9339
+3-Disabled access: No
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Seed Bank: No
+4-ABS Policy: No
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: No
+4-Plant Collection Policy: No
+4-Special Collections: Tropical plants - Ferns - Useful Plants - Sages - Medicinal plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=751">Please click here if you can update us</a>
+6-Biotechnology: Yes
+6-Conservation - Biology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Floristics: Yes
+6-Urban Environments: Yes
+7-Courses for University/College Students: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Special Exhibitions: No
+9-BGCI Member: No
+9-Fax: +39 (0)10 209 9377
+9-Institution Code: GE
+9-International Agenda Registration: No
+9-Primary Email: botgarden@unige.it
+9-Telephone: +39 (0)10 209 9392
+9-URL: 

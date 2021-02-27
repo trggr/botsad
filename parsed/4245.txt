@@ -1,14 +1,21 @@
-ID:	4245
-Name:	Kalmia Gardens of Coker College 
-Curator's Name:	
-Director's Name:	Mary Ridgeway, Director
-Info:	  United States of America - South Carolina - Hartsville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kalmia Gardens of Coker College; 1624 West Carolina Avenue; Hartsville; South Carolina 29550-4906 United States of America; ;  Telephone: (843) 383-8145; Fax: (843) 383-8149; URL: <a target="_blank" href="http://www.coker.edu/coker-campus.html">www.coker.edu/coker-campus.html; Primary Email: kalmia@coker.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1935
-Institution Type:	Botanic Garden
-Latitude:	34.3655130
-Longitude:	-80.1155240
-Total Area:	12 Hectares
-Open to public:	Yes
-Guided Tours:	Yes
+0-ID: 4245
+1-Name: Kalmia Gardens of Coker College 
+2-Altitude: 0.00 Metres
+2-Date founded: 1935
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kalmia Gardens of Coker College;         1624 West Carolina Avenue;                Hartsville;        South Carolina 29550-4906 United States of America;        ;                 Telephone: (843) 383-8145;         Fax: (843) 383-8149;         URL: www.coker.edu/coker-campus.html;         Primary Email: kalmia@coker.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.3655130
+2-Longitude: -80.1155240
+2-Total Area: 12 Hectares
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4245">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4245">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4245">Please click here if you can update us</a>
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: (843) 383-8149
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: kalmia@coker.edu
+9-Telephone: (843) 383-8145
+9-URL: www.coker.edu/coker-campus.html

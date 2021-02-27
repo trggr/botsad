@@ -1,39 +1,43 @@
-ID:	1878
-Name:	Arboretum des Grands-Murcins 
-Address:	Les Grands-Murcins, 42370 ARCON.
-Fax:	
-Founded:	1936-37
-Garden Name:	Arboretum des Grands-Murcins
-Herbarium:	No
-Info:	  France - Arcon  ;Garden Information;  Institution Code: AGM; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Status:	Municipal (Community of Municipalities) & Associative
-Telephone:	++33 4 77 64 40 51
-Curator's Name:	Paul CORNIER
-Director's Name:	Claude DEVAUX
-Plant Records Officer's Name:	Bruno CORNIER
-Altitude:	775.00 Metres
-Annual Rainfall:	900 mm
-Date founded:	1936
-Institution Type:	Botanic Garden
-Latitude:	46.0260
-Local Address:	Les Grands-Murcins 42370 Arcon
-Locality:	Information
-Longitude:	3.8931
-Natural Vegetation Area:	Yes
-Arboretum:	Yes
-Arboretum Size:	3
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	200
-Special Collections:	Native and exotic forestry trees (40 spp.), trees of the Mediterranean region, Betula, Larix hybrids, Pinus, Quercus, Sorbus (24 spp).
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Courses for School Children:	Yes
-Guided Tours:	Yes
+0-ID: 1878
+1-Name: Arboretum des Grands-Murcins 
+2-Curator's Name: Paul CORNIER
+2-Director's Name: Claude DEVAUX
+2-Info:              Institution Code: AGM;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/1878/Grands-Murcins.JPG" alt="April 6, 2009 : European Cornel (<i>Cornus mas</i>)" />         April 6, 2009 : European Cornel (<i>Cornus mas</i>)</div>        </div>                           About the Arboretum des Grands-Murcins        Location: ARCON;  Founded: 1936-37;  Garden Name: Arboretum des Grands-Murcins;  Address: Les Grands-Murcins, 42370 ARCON.;  Status: Municipal (Community of Municipalities) & Associative;  Herbarium: No;  Ex situ Collections:;  Native and exotic forestry trees (40 spp.), trees of the Mediterranean region, Larix hybrids, Sorbus (26 spp), Betula.;                        Main Address:;         Arboretum des Grands-Murcins;         Les Grands-Murcins;                Arcon;        42370 France;        ;                 Telephone: ++33 4 77 64 40 51;         Fax: ;         URL: http://leroannais.com/noesit/!/fiche/arboretum-et-foret-des-grands-murcins-179624;         Primary Email:        ;              
+2-Plant Records Officer's Name: Bruno CORNIER
+3-Altitude: 775.00 Metres
+3-Annual Rainfall: 900 mm
+3-Date founded: 1936
+3-Institution Type: Botanic Garden
+3-Latitude: 46.0260
+3-Local Address: Les Grands-Murcins 42370 Arcon
+3-Locality: Information
+3-Longitude: 3.8931
+3-Natural Vegetation Area: Yes
+4-Arboretum: Yes
+4-Arboretum Size: 3
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Cultivation Taxa Num: 200
+5-Special Collections: Native and exotic forestry trees (40 spp.), trees of the Mediterranean region, Betula, Larix hybrids, Pinus, Quercus, Sorbus (24 spp).
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1878">Please click here if you can update us</a>
+8-Courses for School Children: Yes
+8-Guided Tours: Yes
+9-Address: Les Grands-Murcins, 42370 ARCON.
+9-BGCI Member: No
+9-Fax: 
+9-Founded: 1936-37
+9-Garden Name: Arboretum des Grands-Murcins
+9-Herbarium: No
+9-Institution Code: AGM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: Municipal (Community of Municipalities) & Associative
+9-Telephone: ++33 4 77 64 40 51

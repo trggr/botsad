@@ -1,10 +1,19 @@
-ID:	4866
-Name:	Meadowbrook Farm 
-Curator's Name:	
-Director's Name:	Chris Woods, Executive Director
-Info:	  United States of America - Pennsylvania - Meadowbrook  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Meadowbrook Farm; 1633 Washington Lane; Meadowbrook; Pennsylvania 19046 United States of America; ;  Telephone: (215) 887-5900; Fax: ; URL: <a target="_blank" href="http://www.meadowbrookfarm.org">www.meadowbrookfarm.org; Primary Email: lbaxter@meadowbrookfarm.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.117596
-Longitude:	-75.095161
+0-ID: 4866
+1-Name: Meadowbrook Farm 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Meadowbrook Farm;         1633 Washington Lane;                Meadowbrook;        Pennsylvania 19046 United States of America;        ;                 Telephone: (215) 887-5900;         Fax: ;         URL: www.meadowbrookfarm.org;         Primary Email: lbaxter@meadowbrookfarm.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.117596
+2-Longitude: -75.095161
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4866">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4866">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4866">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4866">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4866">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: lbaxter@meadowbrookfarm.org
+9-Telephone: (215) 887-5900
+9-URL: www.meadowbrookfarm.org

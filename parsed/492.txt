@@ -1,10 +1,19 @@
-ID:	492
-Name:	Bath Garden 
-Curator's Name:	
-Director's Name:	Mr. Raymond Ramdon, Superintendent, Public Gardens
-Info:	  Jamaica - Bath  ;Garden Information;  Institution Code: BATHJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bath Garden; Public Gardens Division, Ministry of Agriculture, St Thomas, Jamaica.; Bath; Jamaica; ;  Telephone: + 876 927 1257; Fax: 876-927-1904; URL: <a target="_blank" href="http://moa.gov.jm">moa.gov.jm; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	17.9671
-Longitude:	-76.4226
+0-ID: 492
+1-Name: Bath Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BATHJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bath Garden;         Public Gardens Division, Ministry of Agriculture, St Thomas, Jamaica.;                Bath;        Jamaica;        ;                 Telephone: + 876 927 1257;         Fax: 876-927-1904;         URL: moa.gov.jm;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 17.9671
+2-Longitude: -76.4226
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=492">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=492">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=492">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=492">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=492">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 876-927-1904
+9-Institution Code: BATHJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: + 876 927 1257
+9-URL: moa.gov.jm

@@ -1,11 +1,19 @@
-ID:	877
-Name:	Experimental Gardens Dehra Dun 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Dehra Dun  ;Garden Information;  Institution Code: BSD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Experimental Gardens Dehra Dun; Botanical Survey of India (Northern Circle), P.O. Khirsu, Garhwal 246 001, Uttar Pradesh, India; Dehra Dun; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	30.3335
-Longitude:	78.0477
-Special Collections:	Timber, ornamental and other economic species, bamboos, gymnosperms.
+0-ID: 877
+1-Name: Experimental Gardens Dehra Dun 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BSD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Experimental Gardens Dehra Dun;         Botanical Survey of India (Northern Circle),  P.O. Khirsu,  Garhwal 246 001, Uttar Pradesh,  India;                Dehra Dun;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 30.3335
+2-Longitude: 78.0477
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=877">Please click here if you can update us</a>
+4-Special Collections: Timber, ornamental and other economic species, bamboos, gymnosperms.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=877">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=877">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=877">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BSD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

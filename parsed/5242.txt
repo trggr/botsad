@@ -1,9 +1,18 @@
-ID:	5242
-Name:	Oklahoma Baptist University Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Oklahoma - Shawnee  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Oklahoma Baptist University Arboretum; 500 W. University; Shawnee; Oklahoma 74804 United States of America; ;  Telephone: 405-585-5505; Fax: ; URL: <a target="_blank" href="http://www.okbu.edu/">http://www.okbu.edu/; Primary Email: Berry.nichols@okbu.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	35.368064
-Longitude:	-96.937962
+0-ID: 5242
+1-Name: Oklahoma Baptist University Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Oklahoma Baptist University Arboretum;         500 W. University;                Shawnee;        Oklahoma 74804 United States of America;        ;                 Telephone: 405-585-5505;         Fax: ;         URL: http://www.okbu.edu/;         Primary Email: Berry.nichols@okbu.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.368064
+2-Longitude: -96.937962
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5242">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5242">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5242">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5242">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5242">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Berry.nichols@okbu.edu
+9-Telephone: 405-585-5505

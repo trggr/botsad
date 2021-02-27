@@ -1,9 +1,18 @@
-ID:	4496
-Name:	Great Plains Garden 
-Curator's Name:	
-Director's Name:	Cynthia Reed, President
-Info:	  United States of America - South Dakota - Hot Springs  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Great Plains Garden; Great Plains Native Plant Society; P.O. Box 461; Hot Springs; South Dakota 57747 United States of America; ;  Telephone: (605) 745-3397; Fax: ; URL: <a target="_blank" href="http://www.gpnps.org">www.gpnps.org; Primary Email: info@gpnps.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	43.7672500
-Longitude:	-103.2107470
+0-ID: 4496
+1-Name: Great Plains Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Great Plains Garden;         Great Plains Native Plant Society;        P.O. Box 461;        Hot Springs;        South Dakota 57747 United States of America;        ;                 Telephone: (605) 745-3397;         Fax: ;         URL: www.gpnps.org;         Primary Email: info@gpnps.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.7672500
+2-Longitude: -103.2107470
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4496">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4496">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4496">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4496">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4496">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@gpnps.org
+9-Telephone: (605) 745-3397
+9-URL: www.gpnps.org

@@ -1,9 +1,18 @@
-ID:	4623
-Name:	University of West Georgia Arboretum 
-Curator's Name:	
-Director's Name:	James Hebree, Grounds Superintendent
-Info:	  United States of America - Georgia - Carrolton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of West Georgia Arboretum; University of West Georgia; 1601 Maple Street; Carrolton; Georgia 30118 United States of America; ;  Telephone: 678-839-6576; Fax: ; URL: <a target="_blank" href="http://www.westga.edu/cpf/index_7154.php">www.westga.edu/cpf/index_7154.php; Primary Email: cpf@westga.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	33.5710289
-Longitude:	-85.0968698
+0-ID: 4623
+1-Name: University of West Georgia Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of West Georgia Arboretum;         University of West Georgia;        1601 Maple Street;        Carrolton;        Georgia 30118 United States of America;        ;                 Telephone: 678-839-6576;         Fax: ;         URL: www.westga.edu/cpf/index_7154.php;         Primary Email: cpf@westga.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.5710289
+2-Longitude: -85.0968698
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4623">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4623">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4623">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4623">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4623">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cpf@westga.edu
+9-Telephone: 678-839-6576
+9-URL: www.westga.edu/cpf/index_7154.php

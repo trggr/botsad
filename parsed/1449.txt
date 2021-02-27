@@ -1,12 +1,21 @@
-ID:	1449
-Name:	Arboretum Hainan Forestry Institute 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hainan - Qiongshan  ;Garden Information;  Institution Code: HAINF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Hainan Forestry Institute; Fuchen Town, Qiongshan City, Hainan, 571100, China; Qiongshan; Hainan China; ;  Telephone: 0898 5884780; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	19.9993
-Local Address:	中国海南省琼山市府城镇，邮编 571100
-Locality:	Information
-Longitude:	110.3505
+0-ID: 1449
+1-Name: Arboretum Hainan Forestry Institute 
+2-Date founded: 
+2-Info:              Institution Code: HAINF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Hainan Forestry Institute;         Fuchen Town, Qiongshan City, Hainan, 571100, China;                Qiongshan;        Hainan China;        ;                 Telephone: 0898 5884780;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 19.9993
+2-Local Address: 中国海南省琼山市府城镇，邮编 571100
+2-Locality: Information
+2-Longitude: 110.3505
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1449">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1449">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1449">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1449">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1449">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HAINF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0898 5884780
+9-URL: 

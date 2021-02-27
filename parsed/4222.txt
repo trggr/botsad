@@ -1,72 +1,77 @@
-ID:	4222
-Name:	Jardín Botánico de Lago Puelo 
-Fax:	+ 54 2944 499232
-Info:	  Argentina - Chubut - Lago Puelo  ;Garden Information;  Institution Code: LAPU; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	lagopuelo@apn.gob.ar
-Telephone:	+ 54 2944 499064
-Administration Staff Number:	5
-Curator's Name:	Emiliano Leonardi
-Director's Name:	Sergio Rusak
-Educational Staff Number:	6
-Horticultural Staff Number:	
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	190.00 Metres
-Annual Rainfall:	1800 mm
-Date founded:	2006
-Institution Type:	Botanic Garden
-Latitude:	-42.090978
-Local Address:	Parque Nacional Lago Puelo
-Locality:	Information
-Longitude:	-71.611140
-Natural Vegetation Area:	Yes
-Total Area:	16 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	10000
-Number of Volunteers:	10
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 4222
+1-Name: Jardín Botánico de Lago Puelo 
+2-Administration Staff Number: 5
+2-Curator's Name: Emiliano Leonardi
+2-Director's Name: Sergio Rusak
+2-Educational Staff Number: 6
+2-Horticultural Staff Number: 
+2-Info:              Institution Code: LAPU;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/4222/BGCI.JPG" alt="South wooden trail" />         South wooden trail</div>        </div>                           About the Jardín Botánico de Lago Puelo        In this Garden of 16 hectares it is possible to know part of the beautiful diversity of plants and its relation with the environment and the society. Many trails guide you into the relationship among plants, animals, environment and society. Rest areas, shaded places and seats complete the visit.;                        Main Address:;         Jardín Botánico de Lago Puelo;         Parque Nacional Lago Puelo;        Ruta Provincial Nº 16 s/n;        Lago Puelo;        Chubut 9211 Argentina;        ;                 Telephone: + 54 2944 499064;         Fax: + 54 2944 499232;         URL: www.jardinbotanicolagopuelo.blogspot.com;         Primary Email: lagopuelo@apn.gob.ar       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 190.00 Metres
+3-Annual Rainfall: 1800 mm
+3-Date founded: 2006
+3-Institution Type: Botanic Garden
+3-Latitude: -42.090978
+3-Local Address: Parque Nacional Lago Puelo
+3-Locality: Information
+3-Longitude: -71.611140
+3-Natural Vegetation Area: Yes
+3-Total Area: 16 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: No
+4-Disabled access: No
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 10000
+4-Number of Volunteers: 10
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4222">Please click here if you can update us</a>
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: Yes
+7-Pollination Biology: No
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: + 54 2944 499232
+9-Institution Code: LAPU
+9-International Agenda Registration: Yes
+9-Primary Email: lagopuelo@apn.gob.ar
+9-Telephone: + 54 2944 499064
+9-URL: www.jardinbotanicolagopuelo.blogspot.com

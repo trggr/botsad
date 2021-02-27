@@ -1,11 +1,19 @@
-ID:	3333
-Name:	Getso Botanical Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Nigeria - Getso  ;Garden Information;  Institution Code: GETSO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Getso Botanical Gardens; Getso; Nigeria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	11.8684
-Longitude:	7.9708
-Special Collections:	Indigenous trees, herbs and shrubs.
+0-ID: 3333
+1-Name: Getso Botanical Gardens 
+2-Date founded: 
+2-Info:              Institution Code: GETSO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Getso Botanical Gardens;                         Getso;        Nigeria;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 11.8684
+2-Longitude: 7.9708
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3333">Please click here if you can update us</a>
+4-Special Collections: Indigenous trees, herbs and shrubs.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3333">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3333">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3333">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: GETSO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

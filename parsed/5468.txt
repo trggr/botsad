@@ -1,7 +1,16 @@
-ID:	5468
-Name:	Philadelphia Navy Yard 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Pennsylvania - Philadelphia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Philadelphia Navy Yard; 4747 South Broad St.; Building 101, Suite 120; Philadelphia; Pennsylvania 91112 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://navyyard.org">http://navyyard.org; Primary Email: tmajoros@pennhort.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5468
+1-Name: Philadelphia Navy Yard 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Philadelphia Navy Yard;         4747 South Broad St.;        Building 101, Suite 120;        Philadelphia;        Pennsylvania 91112 United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://navyyard.org;         Primary Email: tmajoros@pennhort.org       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5468">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5468">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5468">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5468">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5468">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: tmajoros@pennhort.org
+9-Telephone: 

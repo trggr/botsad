@@ -1,12 +1,21 @@
-ID:	871
-Name:	Wenzhou Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Zhejiang - Wenzhou  ;Garden Information;  Institution Code: WENZH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wenzhou Botanical Garden; Zhejiang Institute of Subtropical Crops, Zhejiang Academy of Sciences,; Jinshan,; Wenzhou; Zhejiang 325005 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1962
-Institution Type:	Botanic Garden
-Latitude:	28.0250
-Local Address:	中国浙江温州浙江省科学院亚热带作物研究所，邮编 325005
-Locality:	Information
-Longitude:	120.6375
+0-ID: 871
+1-Name: Wenzhou Botanical Garden 
+2-Date founded: 1962
+2-Info:              Institution Code: WENZH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wenzhou Botanical Garden;         Zhejiang Institute of Subtropical Crops, Zhejiang Academy of Sciences,;        Jinshan,;        Wenzhou;        Zhejiang 325005 China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.0250
+2-Local Address: 中国浙江温州浙江省科学院亚热带作物研究所，邮编 325005
+2-Locality: Information
+2-Longitude: 120.6375
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=871">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=871">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=871">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=871">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=871">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WENZH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

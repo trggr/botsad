@@ -1,37 +1,41 @@
-ID:	303
-Name:	Geografisch Arboretum Tervuren 
-Fax:	
-Info:	  Belgium - Tervuren  ;Garden Information;  Institution Code: OVERI; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	patrick.huvenne@lne.vlaanderen.be
-Telephone:	32 (0)475 914 700
-Administration Staff Number:	1
-Curator's Name:	Marc Van Hummelen and Wilfried Emmerechts
-Director's Name:	Patrick Huvenne
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Plant Records Officer's Name:	Marc Van Hummelen and Wilfried Emmerechts
-Research Staff Number:	1
-Altitude:	100.00 Metres
-Annual Rainfall:	780 mm
-Date founded:	1902
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	50.8000
-Longitude:	4.4833
-Natural Vegetation Area:	Yes
-Total Area:	350 Hectares
-Arboretum:	Yes
-Arboretum Size:	100
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Cultivation Taxa Num:	470
-Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Education:	Yes
-Plant Breeding:	Yes
-Urban Environments:	Yes
-Guided Tours:	Yes
+0-ID: 303
+1-Name: Geografisch Arboretum Tervuren 
+2-Administration Staff Number: 1
+2-Curator's Name: Marc Van Hummelen and Wilfried Emmerechts
+2-Director's Name: Patrick Huvenne
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 4
+2-Info:              Institution Code: OVERI;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/303/2002-04-01 @12-26-32 200pix.jpg" alt="The Royal Promenade" />         The Royal Promenade</div>        </div>                           About the Geografisch Arboretum Tervuren        The Geographical Arboretum of Tervuren features over 450 species of trees and shrubs grouped in 40 sections, each representing a forest type or regional vegetation association of the northern hemisphere (North America, Europe, Middle East, Far East). The collection is exceptionally well arranged in a splendid landscape park, covering 100 hectares of the Capucines Wood, adjacent to the Zonien Forest at the south of Brussels. The arboretum was founded on initiative of king Leopold II in 1902 and today still makes up one of the most attractive parts of the patrimonium that the king donated to the Belgian state and public one year later.;                        Main Address:;         Geografisch Arboretum Tervuren;         Beheer van de Koninklijke Schenking;        Eikestraat 102-104;        Tervuren;        B-3080 Belgium;        ;                 Telephone: 32 (0)475 914 700;         Fax: ;         URL: www.arboretum-tervuren.be (not an official site);         Primary Email: patrick.huvenne@lne.vlaanderen.be       ;              
+2-Plant Records Officer's Name: Marc Van Hummelen and Wilfried Emmerechts
+2-Research Staff Number: 1
+3-Altitude: 100.00 Metres
+3-Annual Rainfall: 780 mm
+3-Date founded: 1902
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 50.8000
+3-Longitude: 4.4833
+3-Natural Vegetation Area: Yes
+3-Total Area: 350 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 100
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+5-Cultivation Taxa Num: 470
+6-Conservation Programme: Yes
+6-Reintroduction Programme: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Education: Yes
+7-Plant Breeding: Yes
+7-Urban Environments: Yes
+8-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: OVERI
+9-International Agenda Registration: No
+9-Primary Email: patrick.huvenne@lne.vlaanderen.be
+9-Telephone: 32 (0)475 914 700
+9-URL: www.arboretum-tervuren.be (not an official site)

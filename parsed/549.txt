@@ -1,12 +1,20 @@
-ID:	549
-Name:	MUSEUM OF NATURAL HISTORY, University of the Philippines Los Banos 
-Curator's Name:	ANNALEE S. HADSALL
-Director's Name:	JUAN CARLOS T. GONZALEZ, D. Phil.
-Info:	  Philippines - Laguna  ;Garden Information;  Institution Code: PNH; International Agenda Registration: No; BGCI Member: No;  Main Address:; MUSEUM OF NATURAL HISTORY, University of the Philippines Los Banos; College, LAGUNA, Philippines; Laguna; 4031 Philippines; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	MICHELLE ALEJADO
-Altitude:	0.00 Metres
-Date founded:	1973
-Institution Type:	Other
-Latitude:	14.3866
-Longitude:	121.2410
-Special Collections:	Ferns, Ficus, palms.
+0-ID: 549
+1-Name: MUSEUM OF NATURAL HISTORY, University of the Philippines Los Banos 
+2-Altitude: 0.00 Metres
+2-Date founded: 1973
+2-Info:              Institution Code: PNH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         MUSEUM OF NATURAL HISTORY, University of the Philippines Los Banos;         College, LAGUNA, Philippines;                Laguna;        4031 Philippines;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 14.3866
+2-Longitude: 121.2410
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=549">Please click here if you can update us</a>
+4-Special Collections: Ferns, Ficus, palms.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=549">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=549">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=549">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PNH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

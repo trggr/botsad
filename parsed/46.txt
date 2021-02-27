@@ -1,12 +1,19 @@
-ID:	46
-Name:	Parco Botanico del Cantone Ticino 
-Curator's Name:	
-Director's Name:	Position vacant as of June 2015
-Info:	  Switzerland - Brissago  ;Garden Information;  Institution Code: BRISS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parco Botanico del Cantone Ticino; Lago Maggiore, Isole di Brissago, CH-6614, Switzerland.; Brissago; Switzerland; ;  Telephone: 41917914361; Fax: ; URL: <a target="_blank" href="http://www.isolebrissago.ch/en/botanic-garden">http://www.isolebrissago.ch/en/botanic-garden; Primary Email: info@isolebrissago.ch ; 
-Plant Records Officer's Name:	Mattia Boggia (head gardener)
-Altitude:	0.00 Metres
-Date founded:	1950
-Institution Type:	Botanic Garden
-Latitude:	46.1191
-Longitude:	8.7115
-Special Collections:	Subtropical and mediterranean plants.
+0-ID: 46
+1-Name: Parco Botanico del Cantone Ticino 
+2-Altitude: 0.00 Metres
+2-Date founded: 1950
+2-Info:              Institution Code: BRISS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Parco Botanico del Cantone Ticino;         Lago Maggiore, Isole di Brissago, CH-6614, Switzerland.;                Brissago;        Switzerland;        ;                 Telephone: 41917914361;         Fax: ;         URL: http://www.isolebrissago.ch/en/botanic-garden;         Primary Email: info@isolebrissago.ch       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.1191
+2-Longitude: 8.7115
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=46">Please click here if you can update us</a>
+4-Special Collections: Subtropical and mediterranean plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=46">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=46">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=46">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BRISS
+9-International Agenda Registration: No
+9-Primary Email: info@isolebrissago.ch
+9-Telephone: 41917914361

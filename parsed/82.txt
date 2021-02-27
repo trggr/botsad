@@ -1,18 +1,24 @@
-ID:	82
-Name:	Volunteer Park Conservatory 
-Curator's Name:	David Helgeson, Senior Gardener
-Director's Name:	Anthonio Pettit, FOC Board President
-Info:	  United States of America - Washington - Seattle  ;Garden Information;  Institution Code: FOCS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Volunteer Park Conservatory; 1400 East Galer Street; Seattle; Washington 98112 United States of America; ;  Telephone: (206) 684-4743; Fax: ; URL: <a target="_blank" href="http://www.seattle.gov/PARKS/parkspaces/VolunteerPark/conservatory.htm">www.seattle.gov/PARKS/parkspaces/VolunteerPark/conservatory.htm; Primary Email: foc@volunteerparkconservatory.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1912
-Institution Type:	Botanic Garden
-Latitude:	47.6320410
-Longitude:	-122.3761170
-Total Area:	18 Hectares
-Arboretum:	No
-Friends society:	Yes
-Herbarium:	No
-Open to public:	Yes
-Special Collections:	Orchids
-Guided Tours:	Yes
+0-ID: 82
+1-Name: Volunteer Park Conservatory 
+2-Altitude: 0.00 Metres
+2-Date founded: 1912
+2-Info:              Institution Code: FOCS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Volunteer Park Conservatory;         1400 East Galer Street;                Seattle;        Washington 98112 United States of America;        ;                 Telephone: (206) 684-4743;         Fax: ;         URL: www.seattle.gov/PARKS/parkspaces/VolunteerPark/conservatory.htm;         Primary Email: foc@volunteerparkconservatory.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.6320410
+2-Longitude: -122.3761170
+2-Total Area: 18 Hectares
+3-Arboretum: No
+3-Friends society: Yes
+3-Herbarium: No
+3-Open to public: Yes
+4-Special Collections: Orchids
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=82">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=82">Please click here if you can update us</a>
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FOCS
+9-International Agenda Registration: No
+9-Primary Email: foc@volunteerparkconservatory.org
+9-Telephone: (206) 684-4743
+9-URL: www.seattle.gov/PARKS/parkspaces/VolunteerPark/conservatory.htm

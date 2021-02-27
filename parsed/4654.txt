@@ -1,73 +1,74 @@
-ID:	4654
-Name:	Audubon Parks - Audubon Nature Institute 
-Administration Staff Number:	
-Curator's Name:	Dianne Weber, Horticulture Manager
-Director's Name:	Tracey Henneman, Park Manager
-Educational Staff Number:	
-Horticultural Staff Number:	9
-Info:	  United States of America - Louisiana - New Orleans  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Audubon Parks - Audubon Nature Institute; 6500 Magazine Street; Mailing: P.O. Box 4327; New Orleans; Louisiana 70178-4327 United States of America; ;  Telephone: (504) 212-5235; Fax: (504) 212-5218; URL: <a target="_blank" href="http://www.auduboninstitute.org/visit/parks">www.auduboninstitute.org/visit/parks; Primary Email: air@auduboninstitute.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	1829 mm
-Date founded:	1884
-Institution Type:	Zoological Institution
-Landscaped Area:	Yes
-Latitude:	29.9233600
-Local Address:	6500 Magazine Street
-Locality:	Information
-Longitude:	-90.1293070
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Usdin Gardens St. Charles Gardens
-Total Area:	29 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	No
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 4654
+1-Name: Audubon Parks - Audubon Nature Institute 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 1829 mm
+2-Date founded: 1884
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Audubon Parks - Audubon Nature Institute;         6500 Magazine Street;        Mailing: P.O. Box 4327;        New Orleans;        Louisiana 70178-4327 United States of America;        ;                 Telephone: (504) 212-5235;         Fax: (504) 212-5218;         URL: www.auduboninstitute.org/visit/parks;         Primary Email: air@auduboninstitute.org       ;              
+2-Institution Type: Zoological Institution
+2-Landscaped Area: Yes
+2-Latitude: 29.9233600
+2-Local Address: 6500 Magazine Street
+2-Locality: Information
+2-Longitude: -90.1293070
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Usdin Gardens St. Charles Gardens
+2-Total Area: 29 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: No
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: No
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: No
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: Yes
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: No
+7-Special Exhibitions: No
+7-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: (504) 212-5218
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 4327
+9-Primary Email: air@auduboninstitute.org
+9-Telephone: (504) 212-5235
+9-URL: www.auduboninstitute.org/visit/parks

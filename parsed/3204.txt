@@ -1,11 +1,19 @@
-ID:	3204
-Name:	Arboretum of the University of Toronto at Mississauga 
-Curator's Name:	Dr. Ingo Ensminger, Professor Plant Physiology
-Director's Name:	Unknown
-Info:	  Canada - Ontario - Mississauga  ;Garden Information;  Institution Code: ERIN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of the University of Toronto at Mississauga; University of Toronto at Mississauga; 3359 Mississauga Road; Mississauga; Ontario L5L 1C6 Canada; ;  Telephone: (905) 828-5438; Fax: (905) 828-3792; URL: <a target="_blank" href="http://www.utm.utoronto.ca/library/facilities/pdfs/celebrating40years.pdf">www.utm.utoronto.ca/library/facilities/pdfs/celebrating40years.pdf; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	43.5891348
-Longitude:	-79.6440885
-Special Collections:	No information available.
+0-ID: 3204
+1-Name: Arboretum of the University of Toronto at Mississauga 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ERIN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of the University of Toronto at Mississauga;         University of Toronto at Mississauga;        3359 Mississauga Road;        Mississauga;        Ontario L5L 1C6 Canada;        ;                 Telephone: (905) 828-5438;         Fax: (905) 828-3792;         URL: www.utm.utoronto.ca/library/facilities/pdfs/celebrating40years.pdf;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.5891348
+2-Longitude: -79.6440885
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3204">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3204">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3204">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3204">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (905) 828-3792
+9-Institution Code: ERIN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (905) 828-5438
+9-URL: www.utm.utoronto.ca/library/facilities/pdfs/celebrating40years.pdf

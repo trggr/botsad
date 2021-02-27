@@ -1,17 +1,21 @@
-ID:	840
-Name:	Sarajevo Botanical Garden (Botanicki vrt Zemaljskog muzeja BiH Sarajevo) 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Verran Vidacek, Head of Sarajevo Botanical Garden
-Educational Staff Number:	
-Horticultural Staff Number:	7
-Info:	  Bosnia and Herzegovina - Sarajevo  ;Garden Information;  Institution Code: SARA; International Agenda Registration: No; BGCI Member: No; About the Sarajevo Botanical Garden (Botanicki vrt Zemaljskog muzeja BiH Sarajevo) The Botanical Garden is part of the National Museum on Zmaja od Bosne (in front of the Holiday Inn). It is a oasis in the city where one can spend time and enjoy the greenery.;  Main Address:; Sarajevo Botanical Garden (Botanicki vrt Zemaljskog muzeja BiH Sarajevo); Zemaljski Muzej, Zmaja Od Bosne 3; Sarajevo; 71000 Bosnia and Herzegovina; ;  Telephone: +387 71 668027; Fax: +387 71 668025; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1913
-Institution Type:	Botanic Garden
-Latitude:	43.8607
-Longitude:	18.4213
-Total Area:	5 Hectares
-Special Collections:	Native plants of Bosnia- Herzegovina. Trees, shrubs, herbaceous perennials, bulbs.
+0-ID: 840
+1-Name: Sarajevo Botanical Garden (Botanicki vrt Zemaljskog muzeja BiH Sarajevo) 
+2-Altitude: 0.00 Metres
+2-Date founded: 1913
+2-Info:              Institution Code: SARA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Sarajevo Botanical Garden (Botanicki vrt Zemaljskog muzeja BiH Sarajevo)        The Botanical Garden is part of the National Museum on Zmaja od Bosne (in front of the Holiday Inn). It is a oasis in the city where one can spend time and enjoy the greenery.;                        Main Address:;         Sarajevo Botanical Garden (Botanicki vrt Zemaljskog muzeja BiH Sarajevo);         Zemaljski Muzej, Zmaja Od Bosne 3;                Sarajevo;        71000 Bosnia and Herzegovina;        ;                 Telephone: +387 71 668027;         Fax: +387 71 668025;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.8607
+2-Longitude: 18.4213
+2-Total Area: 5 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=840">Please click here if you can update us</a>
+4-Special Collections: Native plants of Bosnia- Herzegovina. Trees, shrubs, herbaceous perennials, bulbs.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=840">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=840">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=840">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +387 71 668025
+9-Institution Code: SARA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +387 71 668027
+9-URL: 

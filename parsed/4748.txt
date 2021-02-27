@@ -1,10 +1,19 @@
-ID:	4748
-Name:	Clary Gardens 
-Curator's Name:	
-Director's Name:	Kerry Rapp, Director
-Info:	  United States of America - Ohio - Coshocton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Clary Gardens Clary Gardens is an emerging botanical garden that is being developed in Eastern Ohio, amid the Appalachian foothills. Founded in 2001, the Garden is currently in its early stages of development and the public is encouraged to visit as the garden grows!; ; The existing landscape includes 20 acres of rolling hills, spring-fed ponds, sandstone outcroppings, and a ravine. Over the past several years, many native and exotic perennials, trees, and shrubs have been added to the landscape. The first phase of the Rose Garden is complete and an amphitheater has been built into the hillside of a ravine. We also added a ½ mile trail in the Woodlands that lets visitors meander through sandstones.; ; Clary Gardens is great place for families to get out and enjoy nature…..so come visit and see what’s new!;  Main Address:; Clary Gardens; 588 West Chestnut Street; Coshocton; Ohio 43812 United States of America; ;  Telephone: (740) 622-6524; Fax: (614) 283-9210; URL: <a target="_blank" href="http://www.clarygardens.org">www.clarygardens.org; Primary Email: info@ClaryGardens.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.2753470
-Longitude:	-81.8806240
+0-ID: 4748
+1-Name: Clary Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Clary Gardens        Clary Gardens is an emerging botanical garden that is being developed in Eastern Ohio, amid the Appalachian foothills. Founded in 2001, the Garden is currently in its early stages of development and the public is encouraged to visit as the garden grows!;  ;  The existing landscape includes 20 acres of rolling hills, spring-fed ponds, sandstone outcroppings, and a ravine. Over the past several years, many native and exotic perennials, trees, and shrubs have been added to the landscape. The first phase of the Rose Garden is complete and an amphitheater has been built into the hillside of a ravine. We also added a ½ mile trail in the Woodlands that lets visitors meander through sandstones.;  ;  Clary Gardens is great place for families to get out and enjoy nature…..so come visit and see what’s new!;                        Main Address:;         Clary Gardens;         588 West Chestnut Street;                Coshocton;        Ohio 43812 United States of America;        ;                 Telephone: (740) 622-6524;         Fax: (614) 283-9210;         URL: www.clarygardens.org;         Primary Email: info@ClaryGardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.2753470
+2-Longitude: -81.8806240
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4748">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4748">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4748">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4748">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4748">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (614) 283-9210
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@ClaryGardens.org
+9-Telephone: (740) 622-6524
+9-URL: www.clarygardens.org

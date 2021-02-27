@@ -1,12 +1,21 @@
-ID:	1355
-Name:	Arboretum of Wuhan University 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hubei - Wuchang  ;Garden Information;  Institution Code: WH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of Wuhan University; Donghu, Luojia Hill, Wuchang, Hubei, 430072, China; Wuchang; Hubei China; ;  Telephone: 812712 - 260; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	44.9158
-Local Address:	中国湖北省武昌路珈山东湖边，邮编 430072
-Locality:	Information
-Longitude:	127.1535
+0-ID: 1355
+1-Name: Arboretum of Wuhan University 
+2-Date founded: 
+2-Info:              Institution Code: WH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of Wuhan University;         Donghu, Luojia Hill, Wuchang, Hubei, 430072, China;                Wuchang;        Hubei China;        ;                 Telephone: 812712 - 260;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.9158
+2-Local Address: 中国湖北省武昌路珈山东湖边，邮编 430072
+2-Locality: Information
+2-Longitude: 127.1535
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1355">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1355">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1355">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1355">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1355">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 812712 - 260
+9-URL: 

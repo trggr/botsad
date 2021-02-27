@@ -1,10 +1,18 @@
-ID:	4888
-Name:	Abby Aldrich Rockefeller Garden 
-Curator's Name:	Cassie Banning, Garden Manager
-Director's Name:	Cassie Banning, Garden Manager
-Info:	  United States of America - Maine - Seal Harbor  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Abby Aldrich Rockefeller Garden The Abby Aldrich Rockefeller Garden in Seal Harbor, Maine is a private garden that is generally open one day a week in late July, August, and early September to allow garden enthusiasts a chance to enjoy its beauty. The number of visitors on open garden days is limited to protect the quality of each visitor’s experience and the well being of the garden.;  Main Address:; Abby Aldrich Rockefeller Garden; Private; Seal Harbor; Maine 04675 United States of America; ;  Telephone: 207-276-3330; Fax: ; URL: <a target="_blank" href="http://rockgardenmaine.wordpress.com/">http://rockgardenmaine.wordpress.com/; Primary Email: reservations@greenrockme.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	44.303333
-Longitude:	-68.240278
+0-ID: 4888
+1-Name: Abby Aldrich Rockefeller Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Abby Aldrich Rockefeller Garden        The Abby Aldrich Rockefeller Garden in Seal Harbor, Maine is a private garden that is generally open one day a week in late July, August, and early September to allow garden enthusiasts a chance to enjoy its beauty.  The number of visitors on open garden days is limited to protect the quality of each visitor’s experience and the well being of the garden.;                        Main Address:;         Abby Aldrich Rockefeller Garden;         Private;                Seal Harbor;        Maine 04675 United States of America;        ;                 Telephone: 207-276-3330;         Fax: ;         URL: http://rockgardenmaine.wordpress.com/;         Primary Email: reservations@greenrockme.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.303333
+2-Longitude: -68.240278
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4888">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4888">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4888">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4888">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4888">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: reservations@greenrockme.com
+9-Telephone: 207-276-3330

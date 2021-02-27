@@ -1,12 +1,20 @@
-ID:	2583
-Name:	Okopark, Biologiezentrum des OO Landesmuseums 
-Curator's Name:	
-Director's Name:	
-Info:	  Austria - Linz  ;Garden Information;  Institution Code: LINZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Okopark, Biologiezentrum des OO Landesmuseums; Johann Wilhelm Klein Stra?e 73 4040 LINZ O.O. Austria; Linz; Austria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1993
-Institution Type:	Other
-Latitude:	48.3386
-Longitude:	14.2942
-Special Collections:	Bulbous plants.
+0-ID: 2583
+1-Name: Okopark, Biologiezentrum des OO Landesmuseums 
+2-Altitude: 0.00 Metres
+2-Date founded: 1993
+2-Info:              Institution Code: LINZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Okopark, Biologiezentrum des OO Landesmuseums;         Johann Wilhelm Klein Stra?e 73 4040 LINZ O.O. Austria;                Linz;        Austria;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 48.3386
+2-Longitude: 14.2942
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2583">Please click here if you can update us</a>
+4-Special Collections: Bulbous plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2583">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2583">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2583">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LINZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

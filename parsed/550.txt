@@ -1,11 +1,19 @@
-ID:	550
-Name:	Harrison Park Zoological & Botanical Garden 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Philippines - Manila  ;Garden Information;  Institution Code: MANZB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Harrison Park Zoological & Botanical Garden; Public Recreations Bureau, Malate; Manila; Philippines; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1959
-Institution Type:	Botanic Garden
-Latitude:	14.5790
-Longitude:	120.9726
-Special Collections:	Exotic trees, cassias, native trees, native and exotic orchids, ornamental limbo plants.
+0-ID: 550
+1-Name: Harrison Park Zoological & Botanical Garden 
+2-Date founded: 1959
+2-Info:              Institution Code: MANZB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Harrison Park Zoological & Botanical Garden;         Public Recreations Bureau, Malate;                Manila;        Philippines;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 14.5790
+2-Longitude: 120.9726
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=550">Please click here if you can update us</a>
+4-Special Collections: Exotic trees, cassias, native trees, native and exotic orchids, ornamental limbo plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=550">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=550">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=550">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MANZB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

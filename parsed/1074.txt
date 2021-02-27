@@ -1,10 +1,18 @@
-ID:	1074
-Name:	Orto Botanico Universita 
-Curator's Name:	
-Director's Name:	Prof. F. Tammaro
-Info:	  Italy - L'AQUILA  ;Garden Information;  Institution Code: AQUI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico Universita; Piazza Annunziata l, I-67100 L'AQUILA, Italy.; L'AQUILA; Italy; ;  Telephone: 0862 646608; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1967
-Institution Type:	Botanic Garden
-Latitude:	42.3872
-Longitude:	13.4135
+0-ID: 1074
+1-Name: Orto Botanico Universita 
+2-Date founded: 1967
+2-Info:              Institution Code: AQUI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Orto Botanico Universita;         Piazza Annunziata l,  I-67100 L'AQUILA,  Italy.;                L'AQUILA;        Italy;        ;                 Telephone: 0862 646608;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.3872
+2-Longitude: 13.4135
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1074">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1074">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1074">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1074">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AQUI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0862 646608
+9-URL: 

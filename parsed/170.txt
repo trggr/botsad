@@ -1,24 +1,27 @@
-ID:	170
-Name:	Mitchell Park Horticultural Conservatory (The Domes) 
-Administration Staff Number:	1
-Curator's Name:	Amy Thurner, Horticulture Manager
-Director's Name:	Doris Maki, Director
-Educational Staff Number:	1
-Horticultural Staff Number:	7
-Info:	  United States of America - Wisconsin - Milwaukee  ;Garden Information;  Institution Code: MIL; International Agenda Registration: No; BGCI Member: No; About the Mitchell Park Horticultural Conservatory (The Domes) We have three large (85 ft high) glass domes that each contain a different climate and type of garden. There is a Tropical Dome, containing plants from tropical regions, a Desert Dome, containing plants from arid regions, and a Show Dome, with a rotating schedule of 5 thematic floral displays a year.;  Main Address:; Mitchell Park Horticultural Conservatory (The Domes); 524 South Layton Boulevard; Milwaukee; Wisconsin 53215 United States of America; ;  Telephone: (414) 257-5600; Fax: (414) 649-8616; URL: <a target="_blank" href="http://www.county.milwaukee.gov/MitchellParkConserva10116.htm">www.county.milwaukee.gov/MitchellParkConserva10116.htm; Primary Email: ; 
-Plant Records Officer's Name:	Marian French
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1959
-Institution Type:	Other
-Latitude:	43.0262360
-Local Address:	524 S Layton Boulevard
-Locality:	Information
-Longitude:	-87.9438340
-Total area of glasshouses:	4047 Metres
-Arboretum:	No
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Madagascar succulents
+0-ID: 170
+1-Name: Mitchell Park Horticultural Conservatory (The Domes) 
+2-Altitude: 0.00 Metres
+2-Date founded: 1959
+2-Info:              Institution Code: MIL;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Mitchell Park Horticultural Conservatory (The Domes)        We have three large (85 ft high) glass domes that each contain a different climate and type of garden.  There is a Tropical Dome, containing plants from tropical regions, a Desert Dome, containing plants from arid regions, and a Show Dome, with a rotating schedule of 5 thematic floral displays a year.;                        Main Address:;         Mitchell Park Horticultural Conservatory (The Domes);         524 South Layton Boulevard;                Milwaukee;        Wisconsin 53215 United States of America;        ;                 Telephone: (414) 257-5600;         Fax: (414) 649-8616;         URL: www.county.milwaukee.gov/MitchellParkConserva10116.htm;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 43.0262360
+2-Local Address: 524 S Layton Boulevard
+2-Locality: Information
+2-Longitude: -87.9438340
+2-Total area of glasshouses: 4047 Metres
+3-Arboretum: No
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Madagascar succulents
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=170">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=170">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=170">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (414) 649-8616
+9-Institution Code: MIL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (414) 257-5600
+9-URL: www.county.milwaukee.gov/MitchellParkConserva10116.htm

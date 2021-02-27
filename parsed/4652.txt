@@ -1,9 +1,18 @@
-ID:	4652
-Name:	Alexandria Zoological Park 
-Curator's Name:	Darren Gree, Urban Forester
-Director's Name:	Lee Ann Whitt, Zoo Director
-Info:	  United States of America - Louisiana - Alexandria  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Alexandria Zoological Park; 3016 Masonic Drive; Alexandria; Louisiana 71301 United States of America; ;  Telephone: (318) 441-6810; Fax: ; URL: <a target="_blank" href="http://www.thealexandriazoo.com">www.thealexandriazoo.com; Primary Email: info@thealexandriazoo.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	31.2878200
-Longitude:	-92.4572100
+0-ID: 4652
+1-Name: Alexandria Zoological Park 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Alexandria Zoological Park;         3016 Masonic Drive;                Alexandria;        Louisiana 71301 United States of America;        ;                 Telephone: (318) 441-6810;         Fax: ;         URL: www.thealexandriazoo.com;         Primary Email: info@thealexandriazoo.com       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 31.2878200
+2-Longitude: -92.4572100
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4652">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4652">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4652">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4652">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4652">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@thealexandriazoo.com
+9-Telephone: (318) 441-6810
+9-URL: www.thealexandriazoo.com

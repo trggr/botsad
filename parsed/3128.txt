@@ -1,22 +1,31 @@
-ID:	3128
-Name:	Musée du Château Ramezay 
-Curator's Name:	
-Director's Name:	André Delisle
-Info:	  Canada - Quebec - Montreal  ;Garden Information;  Institution Code: RAMEZ; International Agenda Registration: Yes; BGCI Member: No; About the Musée du Château Ramezay Recréé à l’été 2000 sur une surface de 750 m2, le Jardin du Gouverneur se veut une évocation du style et du contenu des jardins de la noblesse montréalaise du 18e siècle. Il est conçu dans un style « à la française » et est divisé en 3 sections : potager, jardin ornemental et verger. On y trouve aussi des herbes aromatiques et médicinales.; ; Outils d’interprétation disponibles : panneaux de signalisation sonore multilingues implantés dans le jardin, brochure d’accompagnement en vente, site Internet.; ; Activités : visite gratuite par des guides costumés, visite plus approfondie par des spécialistes (sur réservation), animations historiques (musique, ateliers d’artisanat).; ; L’exposition « Aventures Botaniques », du 11 mai au 11 septembre 2005, présentée au Musée du Château Ramezay, retrace un volet passionnant de l’histoire des sciences, des voyages et de la curiosité humaine. Elle relate les défis relevés pour cultiver les plantes, les transporter du Nouveau Monde en France, et les conserver. Les herbiers, constitués pour la plupart au XIXe siècle, témoignent de la biodiversité et de son évolution.;  Main Address:; Musée du Château Ramezay; 280, rue Notre-Dame est; Montreal; Quebec H2Y 1C5 Canada; ;  Telephone: (514) 861-3708; Fax: (514) 861-8317; URL: <a target="_blank" href="http://www.chateauramezay.qc.ca/jardin/">www.chateauramezay.qc.ca/jardin/; Primary Email: info@chateauramezay.qc.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2000
-Institution Type:	Botanic Garden
-Latitude:	45.508843
-Longitude:	-73.553414
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	native species
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 3128
+1-Name: Musée du Château Ramezay 
+2-Altitude: 0.00 Metres
+2-Date founded: 2000
+2-Info:              Institution Code: RAMEZ;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Musée du Château Ramezay        Recréé à l’été 2000 sur une surface de 750 m2, le Jardin du Gouverneur se veut une évocation du style et du contenu des jardins de la noblesse montréalaise du 18e siècle. Il est conçu dans un style « à la française » et est divisé en 3 sections : potager, jardin ornemental et verger. On y trouve aussi des herbes aromatiques et médicinales.;  ;  Outils d’interprétation disponibles : panneaux de signalisation sonore multilingues implantés dans le jardin, brochure d’accompagnement en vente, site Internet.;  ;  Activités : visite gratuite par des guides costumés, visite plus approfondie par des spécialistes (sur réservation), animations historiques (musique, ateliers d’artisanat).;  ;  L’exposition « Aventures Botaniques », du 11 mai au 11 septembre 2005, présentée au Musée du Château Ramezay, retrace un volet passionnant de l’histoire des sciences, des voyages et de la curiosité humaine. Elle relate les défis relevés pour cultiver les plantes, les transporter du Nouveau Monde en France, et les conserver. Les herbiers, constitués pour la plupart au XIXe siècle, témoignent de la biodiversité et de son évolution.;                        Main Address:;         Musée du Château Ramezay;         280, rue Notre-Dame est;                Montreal;        Quebec H2Y 1C5 Canada;        ;                 Telephone: (514) 861-3708;         Fax: (514) 861-8317;         URL: www.chateauramezay.qc.ca/jardin/;         Primary Email: info@chateauramezay.qc.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.508843
+2-Longitude: -73.553414
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: native species
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3128">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3128">Please click here if you can update us</a>
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-About the Musée du Château Ramezay        Recréé à l’été 2000 sur une surface de 750 m2, le Jardin du Gouverneur se veut une évocation du style et du contenu des jardins de la noblesse montréalaise du 18e siècle. Il est conçu dans un style « à la française » et est divisé en 3 sections: potager, jardin ornemental et verger. On y trouve aussi des herbes aromatiques et médicinales.
+9-Activités: visite gratuite par des guides costumés, visite plus approfondie par des spécialistes (sur réservation), animations historiques (musique, ateliers d’artisanat).
+9-BGCI Member: No
+9-Fax: (514) 861-8317
+9-Institution Code: RAMEZ
+9-International Agenda Registration: Yes
+9-Outils d’interprétation disponibles: panneaux de signalisation sonore multilingues implantés dans le jardin, brochure d’accompagnement en vente, site Internet.
+9-Primary Email: info@chateauramezay.qc.ca
+9-Telephone: (514) 861-3708
+9-URL: www.chateauramezay.qc.ca/jardin/

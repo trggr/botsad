@@ -1,13 +1,21 @@
-ID:	2362
-Name:	Pua Mau Place Botanic & Sculpture Gardens 
-Curator's Name:	
-Director's Name:	Irina Place
-Info:	  United States of America - Hawaii - Kawaihae  ;Garden Information;  Institution Code: VAP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Pua Mau Place Botanic & Sculpture Gardens; 10 Ala Kahuna; P.O.Box 44555; Kawaihae; Hawaii 96743 United States of America; ;  Telephone: (808) 882-0888; Fax: (808) 882-7749; URL: <a target="_blank" href="http://www.puamau.org">www.puamau.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	19.9659330
-Longitude:	-155.6800630
-Arboretum:	Yes
-Open to public:	Yes
+0-ID: 2362
+1-Name: Pua Mau Place Botanic & Sculpture Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1974
+2-Info:              Institution Code: VAP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Pua Mau Place Botanic & Sculpture Gardens;         10 Ala Kahuna;        P.O.Box 44555;        Kawaihae;        Hawaii 96743 United States of America;        ;                 Telephone: (808) 882-0888;         Fax: (808) 882-7749;         URL: www.puamau.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 19.9659330
+2-Longitude: -155.6800630
+3-Arboretum: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2362">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2362">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2362">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2362">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (808) 882-7749
+9-Institution Code: VAP
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (808) 882-0888
+9-URL: www.puamau.org

@@ -1,11 +1,19 @@
-ID:	1367
-Name:	Arboretum Frutillar 
-Curator's Name:	
-Director's Name:	Prof. Rodolfo Gajardo
-Info:	  Chile - Santiago  ;Garden Information;  Institution Code: EIF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Frutillar; Departamento de Silviculture, Facultad de Ciencias Forestales, Casilla 9206, SANTIAGO Chile; Santiago; Chile; ;  Telephone: 56 2 5587042; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1960
-Institution Type:	Botanic Garden
-Latitude:	-33.4253
-Longitude:	-70.5664
-Special Collections:	Forest trees and Natural Reserve.
+0-ID: 1367
+1-Name: Arboretum Frutillar 
+2-Date founded: 1960
+2-Info:              Institution Code: EIF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Frutillar;         Departamento de Silviculture,  Facultad de Ciencias Forestales,  Casilla 9206,  SANTIAGO Chile;                Santiago;        Chile;        ;                 Telephone: 56 2 5587042;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -33.4253
+2-Longitude: -70.5664
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1367">Please click here if you can update us</a>
+4-Special Collections: Forest trees and Natural Reserve.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1367">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1367">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1367">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: EIF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 56 2 5587042
+9-URL: 

@@ -1,11 +1,24 @@
-ID:	378
-Name:	Jardin Botanique de l'Ecole Veterinaire d'Alfort 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Maisons-alfort  ;Garden Information;  Institution Code: ALFOR; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de l'Ecole Veterinaire d'Alfort Location: MAISONS-ALFORT; Founded: 1801 (but it became a state institution in 1997); Garden Name: Jardin Botanique de l'Ecole Veterinaire d'Alfort; Address: 7, Avenue de General de Gaulle, 94704 MAISONS-ALFORT.; Status: State (Ministry of Agriculture); He;  Main Address:; Jardin Botanique de l'Ecole Veterinaire d'Alfort; 7, Avenue de Generale de Gaulle, 94704 MAISONS-ALFORT France.; Maisons-alfort; France; ;  Telephone: 33 1 43 96 71 00; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1985
-Institution Type:	Botanic Garden
-Latitude:	48.8013
-Longitude:	2.4312
-Special Collections:	Toxic plants, medicinal plants, honey plants, insecticide plants. Maintains a seed bank with medium-term storage capacity, containing 1,813 accessions, representing 1,700 species (1994 figures).
+0-ID: 378
+1-Name: Jardin Botanique de l'Ecole Veterinaire d'Alfort 
+2-Date founded: 1985
+2-Info:              Institution Code: ALFOR;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique de l'Ecole Veterinaire d'Alfort        Location: MAISONS-ALFORT; Founded: 1801 (but it became a state institution in 1997); Garden Name: Jardin Botanique de l'Ecole Veterinaire d'Alfort; Address: 7, Avenue de General de Gaulle, 94704 MAISONS-ALFORT.; Status: State (Ministry of Agriculture); He;                        Main Address:;         Jardin Botanique de l'Ecole Veterinaire d'Alfort;         7, Avenue de Generale de Gaulle,  94704 MAISONS-ALFORT  France.;                Maisons-alfort;        France;        ;                 Telephone: 33 1 43 96 71  00;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.8013
+2-Longitude: 2.4312
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=378">Please click here if you can update us</a>
+4-Special Collections: Toxic plants, medicinal plants, honey plants, insecticide plants. Maintains a seed bank with medium-term storage capacity, containing 1,813 accessions, representing 1,700 species (1994 figures).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=378">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=378">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=378">Please click here if you can update us</a>
+9-About the Jardin Botanique de l'Ecole Veterinaire d'Alfort        Location: MAISONS-ALFORT
+9-Address: 7, Avenue de General de Gaulle, 94704 MAISONS-ALFORT.
+9-BGCI Member: No
+9-Fax: 
+9-Founded: 1801 (but it became a state institution in 1997)
+9-Garden Name: Jardin Botanique de l'Ecole Veterinaire d'Alfort
+9-Institution Code: ALFOR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: State (Ministry of Agriculture)
+9-Telephone: 33 1 43 96 71  00
+9-URL: 

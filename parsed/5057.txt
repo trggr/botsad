@@ -1,9 +1,17 @@
-ID:	5057
-Name:	Beijing Blue Cloud Information Technology Co., Ltd 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Beijing  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Beijing Blue Cloud Information Technology Co., Ltd; No. 20, Nanxincun, Xiangshan; Haidan District; Beijing; 100093 China; ;  Telephone: 010-62836847; Fax: 86-10-82591781; URL: <a target="_blank" href="http://www.pavoinfo.com">http://www.pavoinfo.com; Primary Email: xuzp@mail.las.ac.cn ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.0238144
-Longitude:	116.2219654
+0-ID: 5057
+1-Name: Beijing Blue Cloud Information Technology Co., Ltd 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Beijing Blue Cloud Information Technology Co., Ltd;         No. 20, Nanxincun, Xiangshan;        Haidan District;        Beijing;        100093 China;        ;                 Telephone: 010-62836847;         Fax: 86-10-82591781;         URL: http://www.pavoinfo.com;         Primary Email: xuzp@mail.las.ac.cn       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.0238144
+2-Longitude: 116.2219654
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5057">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5057">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5057">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5057">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5057">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 86-10-82591781
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: xuzp@mail.las.ac.cn
+9-Telephone: 010-62836847

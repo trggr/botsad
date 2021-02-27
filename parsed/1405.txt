@@ -1,12 +1,20 @@
-ID:	1405
-Name:	National Herbarium and Genebank 
-Curator's Name:	
-Director's Name:	
-Info:	  Saudi Arabia - Riyadh  ;Garden Information;  Institution Code: RIYAD; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Herbarium and Genebank; Ministry of Agriculture and Water, P.O. Box 17285, Riyadh 11484, Saudi Arabia; Riyadh; Saudi Arabia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1994
-Institution Type:	Gene/Seed Bank
-Latitude:	24.6748
-Longitude:	46.6977
-Seed Bank:	Yes
+0-ID: 1405
+1-Name: National Herbarium and Genebank 
+2-Altitude: 0.00 Metres
+2-Date founded: 1994
+2-Info:              Institution Code: RIYAD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Herbarium and Genebank;         Ministry of Agriculture and Water,  P.O. Box 17285,  Riyadh 11484,  Saudi Arabia;                Riyadh;        Saudi Arabia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 24.6748
+2-Longitude: 46.6977
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1405">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1405">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1405">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1405">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: RIYAD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

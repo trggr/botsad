@@ -1,25 +1,25 @@
-ID:	374
-Name:	The John F. Kennedy Arboretum 
-Administration Staff Number:	1
-Curator's Name:	Paul Maher
-Director's Name:	Matthew Jebb
-Educational Staff Number:	4
-Horticultural Staff Number:	12
-Info:	  Ireland - Co Wexford - New Ross  ;Garden Information;  Institution Code: JFKA; International Agenda Registration: No; BGCI Member: No;  Main Address:; The John F. Kennedy Arboretum; The Office of Public Works, New Ross,Co Wexford, Ireland; New Ross; Co Wexford Y34 KA48 Ireland; ;  Telephone: 051 881713; Fax: 051 388172; URL: <a target="_blank" href="http://www.heritageireland.ie/en/south-east/thejohnfkennedyarboretum/">http://www.heritageireland.ie/en/south-east/thejohnfkennedyarboretum/; Primary Email: jfkarboretum@opw.ie ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	52.3958
-Longitude:	-6.9459
-Total Area:	252 Hectares
-Number of Visitors:	110000
-Cultivation Taxa Num:	4500
-Special Collections:	Trees and shrubs (7,800 plants, representing 6,500 accessions, 4,500 taxa, 2,200 species and 330 genera). Provenance display, 8 ha. 7 species, 226 provs. IUFRO Seed Source. Aceraceae, Aquifoliaceae, Berberidaceae, Betulaceae, Cupressaceae, Ericaceae, Faga
-Conservation Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 374
+1-Name: The John F. Kennedy Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1968
+2-Info:              Institution Code: JFKA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The John F. Kennedy Arboretum;         The Office of Public Works, New Ross,Co Wexford, Ireland;                New Ross;        Co Wexford Y34 KA48 Ireland;        ;                 Telephone: 051 881713;         Fax: 051 388172;         URL: http://www.heritageireland.ie/en/south-east/thejohnfkennedyarboretum/;         Primary Email: jfkarboretum@opw.ie       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.3958
+2-Longitude: -6.9459
+2-Total Area: 252 Hectares
+3-Number of Visitors: 110000
+4-Cultivation Taxa Num: 4500
+4-Special Collections: Trees and shrubs (7,800 plants, representing 6,500 accessions, 4,500 taxa, 2,200 species and 330 genera). Provenance display, 8 ha. 7 species, 226 provs. IUFRO Seed Source. Aceraceae, Aquifoliaceae, Berberidaceae, Betulaceae, Cupressaceae, Ericaceae, Faga
+5-Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=374">Please click here if you can update us</a>
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 051 388172
+9-Institution Code: JFKA
+9-International Agenda Registration: No
+9-Primary Email: jfkarboretum@opw.ie
+9-Telephone: 051 881713

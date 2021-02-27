@@ -1,11 +1,20 @@
-ID:	4228
-Name:	Bartram's Garden 
-Curator's Name:	Todd Greenberg, Head Gardener
-Director's Name:	Maitreyi Roy, Executive Director
-Info:	  United States of America - Pennsylvania - Philadelphia  ;Garden Information;  Institution Code: BARTR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bartram's Garden; 54th Street and Lindbergh Boulevard; Philadelphia; Pennsylvania 19143 United States of America; ;  Telephone: (215) 729-5281; Fax: (215) 729-1047; URL: <a target="_blank" href="http://www.bartramsgarden.org">www.bartramsgarden.org; Primary Email: info@bartramsgarden.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1728
-Institution Type:	Botanic Garden
-Latitude:	39.9334850
-Longitude:	-75.2155720
+0-ID: 4228
+1-Name: Bartram's Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1728
+2-Info:              Institution Code: BARTR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bartram's Garden;         54th Street and Lindbergh Boulevard;                Philadelphia;        Pennsylvania 19143 United States of America;        ;                 Telephone: (215) 729-5281;         Fax: (215) 729-1047;         URL: www.bartramsgarden.org;         Primary Email: info@bartramsgarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.9334850
+2-Longitude: -75.2155720
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4228">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4228">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4228">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4228">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4228">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (215) 729-1047
+9-Institution Code: BARTR
+9-International Agenda Registration: No
+9-Primary Email: info@bartramsgarden.org
+9-Telephone: (215) 729-5281
+9-URL: www.bartramsgarden.org

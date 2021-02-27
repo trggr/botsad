@@ -1,12 +1,21 @@
-ID:	1242
-Name:	Dongfeng Forest Farm (Guizhou) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Guizhou - Liping  ;Garden Information;  Institution Code: ADFF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dongfeng Forest Farm (Guizhou); Forest Farm, Forestry Department, Liping County, Guizhou, 557300, China; Liping; Guizhou China; ;  Telephone: 401; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	26.2310
-Local Address:	中国贵州省黎平县林业局林场，邮编 557300
-Locality:	Information
-Longitude:	109.1253
+0-ID: 1242
+1-Name: Dongfeng Forest Farm (Guizhou) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ADFF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dongfeng Forest Farm (Guizhou);         Forest Farm, Forestry Department, Liping County, Guizhou, 557300, China;                Liping;        Guizhou China;        ;                 Telephone: 401;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 26.2310
+2-Local Address: 中国贵州省黎平县林业局林场，邮编 557300
+2-Locality: Information
+2-Longitude: 109.1253
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1242">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1242">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1242">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1242">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1242">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ADFF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 401
+9-URL: 

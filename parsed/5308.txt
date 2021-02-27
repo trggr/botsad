@@ -1,9 +1,18 @@
-ID:	5308
-Name:	Hubei University of Nationalities 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hubei  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Hubei University of Nationalities; 39# Xueyuan Road; Enshi; Hubei; 445000 China; ;  Telephone: (718) 843-8633; Fax: (718) 843-9547; URL: <a target="_blank" href="http://www.hbmy.edu.cn">www.hbmy.edu.cn; Primary Email: hbmylsj@163.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	30.294519
-Longitude:	108.3820045
+0-ID: 5308
+1-Name: Hubei University of Nationalities 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Hubei University of Nationalities;         39# Xueyuan Road;        Enshi;        Hubei;        445000 China;        ;                 Telephone: (718) 843-8633;         Fax: (718) 843-9547;         URL: www.hbmy.edu.cn;         Primary Email: hbmylsj@163.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.294519
+2-Longitude: 108.3820045
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5308">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5308">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5308">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5308">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5308">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (718) 843-9547
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: hbmylsj@163.com
+9-Telephone: (718) 843-8633
+9-URL: www.hbmy.edu.cn

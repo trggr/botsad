@@ -1,11 +1,19 @@
-ID:	482
-Name:	Istituto e Orto Botanico Universita di Parma 
-Curator's Name:	Dr. F. Fossati
-Director's Name:	Prof. M. Bassi
-Info:	  Italy - Emilia Romagna - Parma  ;Garden Information;  Institution Code: PARMA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Istituto e Orto Botanico Universita di Parma; Dipartimento di Biologia Evolutiva e Funzionale, Università, Parco Area delle Scienze 11/A; Parma; Emilia Romagna 43100 Italy; ;  Telephone: 39 (0)521 34082; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: pasquali@biol.unipr.it ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	44.8044
-Longitude:	10.3325
-Special Collections:	Alpine plants, succulents, tropical and subtropical, orchids, Bromeliaceae, Nymphaea alba, Eichornia crassipes, Pistia stratiotes, Acorus calamus, Cyperus papyrus, Ulmus campestris, Quercus robur, Platanus hybrida, P. occidentalis, Populus tremuloides, Fr
+0-ID: 482
+1-Name: Istituto e Orto Botanico Universita di Parma 
+2-Date founded: 
+2-Info:              Institution Code: PARMA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Istituto e Orto Botanico Universita di Parma;         Dipartimento di Biologia Evolutiva e Funzionale, Università, Parco Area delle Scienze 11/A;                Parma;        Emilia Romagna 43100 Italy;        ;                 Telephone: 39 (0)521 34082;         Fax: ;         URL: ;         Primary Email: pasquali@biol.unipr.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.8044
+2-Longitude: 10.3325
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=482">Please click here if you can update us</a>
+4-Special Collections: Alpine plants, succulents, tropical and subtropical, orchids, Bromeliaceae, Nymphaea alba, Eichornia crassipes, Pistia stratiotes, Acorus calamus, Cyperus papyrus, Ulmus campestris, Quercus robur, Platanus hybrida, P. occidentalis, Populus tremuloides, Fr
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=482">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=482">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=482">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PARMA
+9-International Agenda Registration: No
+9-Primary Email: pasquali@biol.unipr.it
+9-Telephone: 39 (0)521 34082
+9-URL: 

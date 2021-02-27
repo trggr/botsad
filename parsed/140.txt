@@ -1,41 +1,45 @@
-ID:	140
-Name:	Musee et Jardins Botaniques Cantonaux 
-Fax:	++41 21 616 46 65
-Info:	  Switzerland - Switzerland - Lausanne  ;Garden Information;  Institution Code: LAU; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	info.botanique@vd.ch
-Telephone:	++41 21 316 99 88
-Administration Staff Number:	1
-Curator's Name:	J.-L.Moret
-Director's Name:	Dr.F. Felber
-Educational Staff Number:	
-Horticultural Staff Number:	7
-Plant Records Officer's Name:	S. Cottet
-Research Staff Number:	3
-Altitude:	420.00 Metres
-Annual Rainfall:	1116 mm
-Date founded:	1946
-Institution Type:	Botanic Garden
-Latitude:	46.5000
-Local Address:	Montriond - Place de Milan
-Locality:	Information
-Longitude:	6.6166
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Jardin alpin "La Thomasia" Pont de Nant
-Total Area:	2 Hectares
-Total area of glasshouses:	103 Metres
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Cultivation Taxa Num:	8000
-Special Collections:	Alpines, medicinal plants, succulent plants, carnivorous plants, orchids, aquatic plants, arboretum.
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Ecosystem Conservation:	Yes
-Floristics:	Yes
-Systematics and Taxonomy:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
+0-ID: 140
+1-Name: Musee et Jardins Botaniques Cantonaux 
+2-Administration Staff Number: 1
+2-Curator's Name: J.-L.Moret
+2-Director's Name: Dr.F. Felber
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 7
+2-Info:              Institution Code: LAU;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/140/JBL200.jpg" alt="" />         </div>        </div>                                    Main Address:;         Musee et Jardins Botaniques Cantonaux;         Avenue de Cour,14bis;        CH-1007 LAUSANNE, Switzerland;        Lausanne;        Switzerland CH-1007 Switzerland;        ;                 Telephone: ++41 21 316 99 88;         Fax: ++41 21 616 46 65;         URL: www.botanique.vd.ch;         Primary Email: info.botanique@vd.ch       ;              
+2-Plant Records Officer's Name: S. Cottet
+2-Research Staff Number: 3
+3-Altitude: 420.00 Metres
+3-Annual Rainfall: 1116 mm
+3-Date founded: 1946
+3-Institution Type: Botanic Garden
+3-Latitude: 46.5000
+3-Local Address: Montriond - Place de Milan
+3-Locality: Information
+3-Longitude: 6.6166
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Jardin alpin "La Thomasia" Pont de Nant
+3-Total Area: 2 Hectares
+3-Total area of glasshouses: 103 Metres
+4-Computer Plant Record System: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Open to public: Yes
+5-Cultivation Taxa Num: 8000
+5-Special Collections: Alpines, medicinal plants, succulent plants, carnivorous plants, orchids, aquatic plants, arboretum.
+6-Ex Situ Conservation Programme: Yes
+6-Reintroduction Programme: Yes
+7-Conservation - Biology: Yes
+7-Ecosystem Conservation: Yes
+7-Floristics: Yes
+7-Systematics and Taxonomy: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Guided Tours: Yes
+8-Special Exhibitions: Yes
+9-BGCI Member: Yes
+9-Fax: ++41 21 616 46 65
+9-Institution Code: LAU
+9-International Agenda Registration: No
+9-Primary Email: info.botanique@vd.ch
+9-Telephone: ++41 21 316 99 88
+9-URL: www.botanique.vd.ch

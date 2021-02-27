@@ -1,11 +1,19 @@
-ID:	964
-Name:	The Kubansk State University Botanical Garden 
-Curator's Name:	
-Director's Name:	D.P.Kasanelli
-Info:	  Russian Federation - Krasnodar  ;Garden Information;  Institution Code: KBSU; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Kubansk State University Botanical Garden; Mir str. 4, 350027 KRASNODAR, Russian Federation; Krasnodar; Russian Federation; ;  Telephone: 3 04 50; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1972
-Institution Type:	Botanic Garden
-Latitude:	45.0421
-Longitude:	38.9806
-Special Collections:	Buxus, Salix, Picea, Pinus, Juniperus, Quercus, Berberis, Philadelphus, Spirea, Cotoneaster, Lonicera, native flora, decorative perennials, Rosa, Syringa, rare and endangered plants.
+0-ID: 964
+1-Name: The Kubansk State University Botanical Garden 
+2-Date founded: 1972
+2-Info:              Institution Code: KBSU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Kubansk State University Botanical Garden;         Mir str. 4,  350027 KRASNODAR,  Russian Federation;                Krasnodar;        Russian Federation;        ;                 Telephone: 3 04 50;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.0421
+2-Longitude: 38.9806
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=964">Please click here if you can update us</a>
+4-Special Collections: Buxus, Salix, Picea, Pinus, Juniperus, Quercus, Berberis, Philadelphus, Spirea, Cotoneaster, Lonicera, native flora, decorative perennials, Rosa, Syringa, rare and endangered plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=964">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=964">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=964">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KBSU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 3 04 50
+9-URL: 

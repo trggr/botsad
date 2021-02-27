@@ -1,11 +1,19 @@
-ID:	1290
-Name:	Joseph Reynold O'Neal Botanic Gardens 
-Curator's Name:	Robert Woodman
-Director's Name:	Anne Riggall
-Info:	  Virgin Islands (British) - Tortola  ;Garden Information;  Institution Code: TBVI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Joseph Reynold O'Neal Botanic Gardens; PO Box 878, Road Town, TORTOLA, British Virgin Islands; Tortola; Virgin Islands (British); ;  Telephone: 1 809 494 4557; Fax: 1 809 494 6383; URL: <a target="_blank" href="http://">; Primary Email: bvinpt@bvinationalparkstrust.org; robertwoodman@hotmail.org ; 
-Plant Records Officer's Name:	
-Date founded:	1986
-Institution Type:	Botanic Garden
-Latitude:	18.4275
-Longitude:	-64.62197
-Special Collections:	Tropical ferns, bamboos & grasses, bromeliads, heliconias, philodendrons, orchids, shoreline plants, hillslope plants, cacti & succulents, palms, tropical vines, aquatics, medicinal plants.
+0-ID: 1290
+1-Name: Joseph Reynold O'Neal Botanic Gardens 
+2-Date founded: 1986
+2-Info:              Institution Code: TBVI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Joseph Reynold O'Neal Botanic Gardens;         PO Box 878, Road Town, TORTOLA, British Virgin Islands;                Tortola;        Virgin Islands (British);        ;                 Telephone: 1 809 494 4557;         Fax: 1 809 494 6383;         URL: ;         Primary Email: bvinpt@bvinationalparkstrust.org; robertwoodman@hotmail.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.4275
+2-Longitude: -64.62197
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1290">Please click here if you can update us</a>
+4-Special Collections: Tropical ferns, bamboos & grasses, bromeliads, heliconias, philodendrons, orchids, shoreline plants, hillslope plants, cacti & succulents, palms, tropical vines, aquatics, medicinal plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1290">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1290">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1290">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 1 809 494 6383
+9-Institution Code: TBVI
+9-International Agenda Registration: No
+9-Primary Email: bvinpt@bvinationalparkstrust.org
+9-Telephone: 1 809 494 4557
+9-URL: 

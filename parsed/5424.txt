@@ -1,10 +1,19 @@
-ID:	5424
-Name:	Colorado State University Arboretum 
-Curator's Name:	Julia Innes, CSU Facilities Management
-Director's Name:	-
-Info:	  United States of America - Colorado - Fort Collins  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Colorado State University Arboretum; Facility Management, 6030 Campus Delivery; Fort Collins; Colorado 80523 United States of America; ;  Telephone: 970-491-8725; Fax: ; URL: <a target="_blank" href="https://www.fm.colostate.edu/outdoorservices">https://www.fm.colostate.edu/outdoorservices; Primary Email: R.Scott.Simonds@colostate.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.571779
-Longitude:	-105.080102
+0-ID: 5424
+1-Name: Colorado State University Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Colorado State University Arboretum;         Facility Management, 6030 Campus Delivery;                Fort Collins;        Colorado 80523 United States of America;        ;                 Telephone: 970-491-8725;         Fax: ;         URL: https://www.fm.colostate.edu/outdoorservices;         Primary Email: R.Scott.Simonds@colostate.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.571779
+2-Longitude: -105.080102
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5424">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5424">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5424">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5424">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5424">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: R.Scott.Simonds@colostate.edu
+9-Telephone: 970-491-8725

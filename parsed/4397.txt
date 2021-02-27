@@ -1,10 +1,18 @@
-ID:	4397
-Name:	Deagu Arboretum 
-Curator's Name:	
-Director's Name:	Hee-Cheon Kim
-Info:	  South Korea - Daegu  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Deagu Arboretum; 100 Seosan-gil, Dalseo-gu; Daegu; 704-310 South Korea; ;  Telephone: 053-642-4100; Fax: 053-803-5489; URL: <a target="_blank" href="http://www.daegu.go.kr/forestry">http://www.daegu.go.kr/forestry; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	35.80264
-Longitude:	128.52064
+0-ID: 4397
+1-Name: Deagu Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Deagu Arboretum;         100 Seosan-gil, Dalseo-gu;                Daegu;        704-310 South Korea;        ;                 Telephone: 053-642-4100;         Fax: 053-803-5489;         URL: http://www.daegu.go.kr/forestry;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.80264
+2-Longitude: 128.52064
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4397">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4397">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4397">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4397">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4397">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 053-803-5489
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 053-642-4100

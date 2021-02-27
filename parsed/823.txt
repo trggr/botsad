@@ -1,11 +1,19 @@
-ID:	823
-Name:	University Botanical Garden 
-Curator's Name:	Dr. Jan de Koning
-Director's Name:	Dra. Angelina Maite
-Info:	  Mozambique - Maputo  ;Garden Information;  Institution Code: LMU; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; University Botanical Garden; Universidade Eduardo Mondlane/ Biologia, C.P. 257, MAPUTO, Mozambique.; Maputo; Mozambique; ;  Telephone: 7430009 / 742142; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	-25.9686
-Longitude:	32.5804
-Special Collections:	Indigenous plants, economic and ornamental trees, shrubs, herbs and palms. Medicinal plant collections.
+0-ID: 823
+1-Name: University Botanical Garden 
+2-Date founded: 1976
+2-Info:              Institution Code: LMU;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         University Botanical Garden;         Universidade Eduardo Mondlane/ Biologia,  C.P. 257, MAPUTO,  Mozambique.;                Maputo;        Mozambique;        ;                 Telephone: 7430009 / 742142;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -25.9686
+2-Longitude: 32.5804
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=823">Please click here if you can update us</a>
+4-Special Collections: Indigenous plants, economic and ornamental trees, shrubs, herbs and palms. Medicinal plant collections.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=823">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=823">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=823">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LMU
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 7430009 / 742142
+9-URL: 

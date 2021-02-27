@@ -1,11 +1,18 @@
-ID:	3187
-Name:	Jardín Agrobotánico de la Península de Yucatán (JAPY) 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Mexico - Yucatan - Merida  ;Garden Information;  Institution Code: CRUPY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Agrobotánico de la Península de Yucatán (JAPY); Centro Regional Universitario Península de Yucatán (CRUPY); Hacienda Temozan Norte 91310; Merida; Yucatan Mexico; ;  Telephone: (999) 924 00 54; Fax: ; URL: <a target="_blank" href="http://www.crupy-uach.org.mx/6.jardin-agrobotanico">http://www.crupy-uach.org.mx/6.jardin-agrobotanico; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	21.0599
-Longitude:	-89.3904
-Special Collections:	Plants for home gardens (74 taxa), vegetables (16 spp.), orchard (7 spp.), medicinal plants, fruit ( c.36 spp.), cereals (10 spp.), forage (c.27 spp.), textiles (10 spp.) and useful shrubs (34 spp.), ornamentals (c.19 spp.).
+0-ID: 3187
+1-Name: Jardín Agrobotánico de la Península de Yucatán (JAPY) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: CRUPY;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Agrobotánico de la Península de Yucatán (JAPY);         Centro Regional Universitario Península de Yucatán (CRUPY);        Hacienda Temozan Norte 91310;        Merida;        Yucatan Mexico;        ;                 Telephone: (999) 924 00 54;         Fax: ;         URL: http://www.crupy-uach.org.mx/6.jardin-agrobotanico;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.0599
+2-Longitude: -89.3904
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3187">Please click here if you can update us</a>
+4-Special Collections: Plants for home gardens (74 taxa), vegetables (16 spp.), orchard (7 spp.), medicinal plants, fruit ( c.36 spp.), cereals (10 spp.), forage (c.27 spp.), textiles (10 spp.) and useful shrubs (34 spp.), ornamentals (c.19 spp.).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3187">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3187">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3187">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CRUPY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (999) 924 00 54

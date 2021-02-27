@@ -1,13 +1,21 @@
-ID:	3051
-Name:	Shenyang Botanical Garden (Liaoning) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Liaoning - Shenyang  ;Garden Information;  Institution Code: SHDD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Shenyang Botanical Garden (Liaoning); Shenyang Institute of Landscape Gardening, Gokan Town, Dongling District, Shenyang, Liaoning, 110163, China; Shenyang; Liaoning China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	41.8055
-Local Address:	中国辽宁省沈阳东陵区高坎镇沈阳园林科学研究院，邮编 110163
-Locality:	Information
-Longitude:	123.4333
-Special Collections:	Pines, Roses, Spiraeas, Elders, Spruces, Junipers, Lilacs, Honeysuckles
+0-ID: 3051
+1-Name: Shenyang Botanical Garden (Liaoning) 
+2-Date founded: 
+2-Info:              Institution Code: SHDD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Shenyang Botanical Garden (Liaoning);         Shenyang Institute of Landscape Gardening, Gokan Town, Dongling District, Shenyang, Liaoning, 110163, China;                Shenyang;        Liaoning China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.8055
+2-Local Address: 中国辽宁省沈阳东陵区高坎镇沈阳园林科学研究院，邮编 110163
+2-Locality: Information
+2-Longitude: 123.4333
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3051">Please click here if you can update us</a>
+4-Special Collections: Pines, Roses, Spiraeas, Elders, Spruces, Junipers, Lilacs, Honeysuckles
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3051">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3051">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3051">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SHDD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

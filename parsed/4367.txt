@@ -1,20 +1,24 @@
-ID:	4367
-Name:	Centennial Museum and Chihuahuan Desert Gardens 
-Administration Staff Number:	
-Curator's Name:	Kevin Floyd, Garden Curator
-Director's Name:	Daniel Carey-Whalen, Director
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Info:	  United States of America - Texas - El Paso  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Centennial Museum and Chihuahuan Desert Gardens; University Avenue & Wiggins Rd; Mailing: University of Texas at El Paso, 500 West University Avenue, Centennial Museum; El Paso; Texas 79968 United States of America; ;  Telephone: (915) 747-5565; Fax: (915) 747-5411; URL: <a target="_blank" href="https://www.utep.edu/centennial-museum/">https://www.utep.edu/centennial-museum/; Primary Email: centennialmuseum@utep.edu ; 
-Plant Records Officer's Name:	Amy Briones, Curatorial Assistant
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1999
-Institution Type:	Botanic Garden
-Latitude:	31.7704530
-Local Address:	
-Locality:	Information
-Longitude:	-106.5042280
-Computer Plant Record System:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
+0-ID: 4367
+1-Name: Centennial Museum and Chihuahuan Desert Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1999
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Centennial Museum and Chihuahuan Desert Gardens;         University Avenue & Wiggins Rd;        Mailing: University of Texas at El Paso, 500 West University Avenue, Centennial Museum;        El Paso;        Texas 79968 United States of America;        ;                 Telephone: (915) 747-5565;         Fax: (915) 747-5411;         URL: https://www.utep.edu/centennial-museum/;         Primary Email: centennialmuseum@utep.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.7704530
+2-Local Address: 
+2-Locality: Information
+2-Longitude: -106.5042280
+3-Computer Plant Record System: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4367">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4367">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4367">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4367">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (915) 747-5411
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: University of Texas at El Paso, 500 West University Avenue, Centennial Museum
+9-Primary Email: centennialmuseum@utep.edu
+9-Telephone: (915) 747-5565

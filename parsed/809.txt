@@ -1,12 +1,21 @@
-ID:	809
-Name:	Jubilee Park 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Jamshedpur  ;Garden Information;  Institution Code: JAMSH; International Agenda Registration: No; BGCI Member: No; About the Jubilee Park Telco Garden and Nursery, Jamshedpur, established in 1963 has a good collection of trees, shrubs and fruit species. (Tata Engineering & Locomotive Company (Telco). Jamshedpur 831 010, Dist.: Singhblum, Bihar).;  Main Address:; Jubilee Park; JAMSHEDPUR 831 005, Singhbhum, Bihar, India.; Jamshedpur; India; ;  Telephone: 24247; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1958
-Institution Type:	Other
-Latitude:	22.7784
-Longitude:	86.2090
-Special Collections:	Trees & shrubs (7,800 accessions), roses, Chrysanthemum, Dahlia, flowering plants of the region.
+0-ID: 809
+1-Name: Jubilee Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 1958
+2-Info:              Institution Code: JAMSH;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jubilee Park        Telco Garden and Nursery, Jamshedpur, established in 1963 has a good collection of trees, shrubs and fruit species. (Tata Engineering & Locomotive Company (Telco). Jamshedpur 831 010, Dist.: Singhblum, Bihar).;                        Main Address:;         Jubilee Park;         JAMSHEDPUR 831 005,  Singhbhum, Bihar,  India.;                Jamshedpur;        India;        ;                 Telephone: 24247;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 22.7784
+2-Longitude: 86.2090
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=809">Please click here if you can update us</a>
+4-Special Collections: Trees & shrubs (7,800 accessions), roses, Chrysanthemum, Dahlia, flowering plants of the region.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=809">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=809">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=809">Please click here if you can update us</a>
+9-About the Jubilee Park        Telco Garden and Nursery, Jamshedpur, established in 1963 has a good collection of trees, shrubs and fruit species. (Tata Engineering & Locomotive Company (Telco). Jamshedpur 831 010, Dist.: Singhblum, Bihar).
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: JAMSH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 24247
+9-URL: 

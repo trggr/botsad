@@ -1,9 +1,17 @@
-ID:	5404
-Name:	EcoParque COLEF 
-Curator's Name:	
-Director's Name:	
-Info:	  Mexico - Baja California - Tijuana  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; EcoParque COLEF; Rampa Universidad #1; Colonia Laderas de Otay; Tijuana; Baja California C.P. 22427 Mexico; ;  Telephone: +52(664)6240531; Fax: ; URL: <a target="_blank" href="https://www.colef.mx/ecoparque/">https://www.colef.mx/ecoparque/; Primary Email: ecopar@colef.mx ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	32°31'19.32"
-Longitude:	116°58'33.16"
+0-ID: 5404
+1-Name: EcoParque COLEF 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         EcoParque COLEF;         Rampa Universidad #1;        Colonia Laderas de Otay;        Tijuana;        Baja California C.P. 22427 Mexico;        ;                 Telephone: +52(664)6240531;         Fax: ;         URL: https://www.colef.mx/ecoparque/;         Primary Email: ecopar@colef.mx       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32°31'19.32"
+2-Longitude: 116°58'33.16"
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5404">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5404">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5404">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5404">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5404">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ecopar@colef.mx
+9-Telephone: +52(664)6240531

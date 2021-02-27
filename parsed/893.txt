@@ -1,11 +1,19 @@
-ID:	893
-Name:	Sarabhai Foundation Botanic Gardens 
-Curator's Name:	Shri.G.Vinubhai
-Director's Name:	Smt. Gira Sarabhai
-Info:	  India - Ahmedabad  ;Garden Information;  Institution Code: AHMSF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sarabhai Foundation Botanic Gardens; Shahibag, AHMEDABAD 380 004, Gujarat, India.; Ahmedabad; India; ;  Telephone: 65929 & 68172; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1978
-Institution Type:	Botanic Garden
-Latitude:	23.0395
-Longitude:	72.5660
-Special Collections:	Palms, cacti and other succulents (Arjun, Stenospurmum, Stropenthus), roses, orchids.
+0-ID: 893
+1-Name: Sarabhai Foundation Botanic Gardens 
+2-Date founded: 1978
+2-Info:              Institution Code: AHMSF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sarabhai Foundation Botanic Gardens;         Shahibag,  AHMEDABAD 380 004,  Gujarat,  India.;                Ahmedabad;        India;        ;                 Telephone: 65929 & 68172;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 23.0395
+2-Longitude: 72.5660
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=893">Please click here if you can update us</a>
+4-Special Collections: Palms, cacti and other succulents (Arjun, Stenospurmum, Stropenthus), roses, orchids.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=893">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=893">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=893">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AHMSF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 65929 & 68172
+9-URL: 

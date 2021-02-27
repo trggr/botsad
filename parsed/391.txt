@@ -1,11 +1,19 @@
-ID:	391
-Name:	Jardin Botanique de la Faculte de Pharmacie 
-Curator's Name:	Pr.C-P.Bournique
-Director's Name:	Pr. J-M. Gehu
-Info:	  France - Paris  ;Garden Information;  Institution Code: PARFP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique de la Faculte de Pharmacie; 4 avenue de l'Observatoire, F-75270 PARIS 6e, France.; Paris; France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	48.8495
-Longitude:	2.3524
-Special Collections:	Medicinal plants
+0-ID: 391
+1-Name: Jardin Botanique de la Faculte de Pharmacie 
+2-Date founded: 
+2-Info:              Institution Code: PARFP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanique de la Faculte de Pharmacie;         4 avenue de l'Observatoire,  F-75270 PARIS 6e,  France.;                Paris;        France;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.8495
+2-Longitude: 2.3524
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=391">Please click here if you can update us</a>
+4-Special Collections: Medicinal plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=391">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=391">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=391">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PARFP
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

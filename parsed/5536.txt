@@ -1,7 +1,16 @@
-ID:	5536
-Name:	Orto Botanico Selva di Gallignano 
-Curator's Name:	
-Director's Name:	
-Info:	  Italy - Marche - Ancona  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico Selva di Gallignano; Ancona; Marche Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5536
+1-Name: Orto Botanico Selva di Gallignano 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Orto Botanico Selva di Gallignano;                         Ancona;        Marche Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5536">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5536">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5536">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5536">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5536">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,9 +1,18 @@
-ID:	5405
-Name:	Jardín Botánico Xochiltlayocan UAM-Xochimilco 
-Curator's Name:	
-Director's Name:	
-Info:	  Mexico - Ciudad de México - Coyoacán  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Xochiltlayocan UAM-Xochimilco; Calzada del Hueso 1100; Colonia Villa Quietud.; Coyoacán; Ciudad de México C. P. 04960 Mexico; ;  Telephone: +52(55)4837000 ext. 3281; Fax: ; URL: <a target="_blank" href="http://NA">NA; Primary Email: amosuna@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	19°16'56.66"
-Longitude:	99°06'09.56"
+0-ID: 5405
+1-Name: Jardín Botánico Xochiltlayocan UAM-Xochimilco 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Xochiltlayocan UAM-Xochimilco;         Calzada del Hueso 1100;        Colonia Villa Quietud.;        Coyoacán;        Ciudad de México C. P. 04960 Mexico;        ;                 Telephone: +52(55)4837000 ext. 3281;         Fax: ;         URL: NA;         Primary Email: amosuna@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 19°16'56.66"
+2-Longitude: 99°06'09.56"
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5405">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5405">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5405">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5405">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5405">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: amosuna@gmail.com
+9-Telephone: +52(55)4837000 ext. 3281
+9-URL: NA

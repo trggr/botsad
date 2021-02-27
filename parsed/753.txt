@@ -1,12 +1,20 @@
-ID:	753
-Name:	Orto Botanico G.E. Ghirardi 
-Curator's Name:	Cristina Puricelli
-Director's Name:	Gelsomina Fico
-Info:	  Italy - Lombardia - Toscolano Maderno (BS)  ;Garden Information;  Institution Code: TOSCO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico G.E. Ghirardi; Via Religione; Toscolano Maderno (BS); Lombardia 25088 Italy; ;  Telephone: +39 0365641246; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1964
-Institution Type:	Other
-Latitude:	45.6563
-Longitude:	10.6057
-Special Collections:	Medicinal and poisonous plants, Solanaceae, Apocynaceae,, Digitalis, Camptotheca acuminata, Nyssaceae
+0-ID: 753
+1-Name: Orto Botanico G.E. Ghirardi 
+2-Altitude: 0.00 Metres
+2-Date founded: 1964
+2-Info:              Institution Code: TOSCO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Orto Botanico G.E. Ghirardi;         Via Religione;                Toscolano Maderno (BS);        Lombardia 25088 Italy;        ;                 Telephone: +39 0365641246;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 45.6563
+2-Longitude: 10.6057
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=753">Please click here if you can update us</a>
+4-Special Collections: Medicinal and poisonous plants, Solanaceae, Apocynaceae,, Digitalis, Camptotheca acuminata, Nyssaceae
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=753">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=753">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=753">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TOSCO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +39 0365641246
+9-URL: 

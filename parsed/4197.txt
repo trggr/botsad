@@ -1,9 +1,18 @@
-ID:	4197
-Name:	Medicinal Plants Garden 
-Curator's Name:	
-Director's Name:	Shoji Yahara
-Info:	  Japan - Kumamoto  ;Garden Information;  Institution Code: KUMPS; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Medicinal Plants Garden; Graduate School of Pharmaceutical Sciences, Kumamoto University; 5-1 Oe-honmachi; Kumamoto; 8620973 Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	32.7994
-Longitude:	130.7227
+0-ID: 4197
+1-Name: Medicinal Plants Garden 
+2-Info:              Institution Code: KUMPS;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Medicinal Plants Garden;         Graduate School of Pharmaceutical Sciences, Kumamoto University;        5-1 Oe-honmachi;        Kumamoto;        8620973 Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.7994
+2-Longitude: 130.7227
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4197">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4197">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4197">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4197">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4197">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KUMPS
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

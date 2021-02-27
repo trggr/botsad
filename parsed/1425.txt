@@ -1,11 +1,19 @@
-ID:	1425
-Name:	Jardin Botanique 
-Curator's Name:	
-Director's Name:	Mme Bounagan
-Info:	  Algeria - Wilaya De Bechar  ;Garden Information;  Institution Code: WBECH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique; L'Unite de Recherches sur les Zones Arides; Station de Recherches de Beni Abbes; Wilaya De Bechar; Algeria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	31.52
-Longitude:	-2.22
-Special Collections:	Trees and shrubs (315 taxa), plants used for phytotherapy and other useful spp. (175 taxa), systematic plant collection (2,000 taxa), aromatic, perfume and spice plants (22 spp), greenhouse plants (250 spp.).
+0-ID: 1425
+1-Name: Jardin Botanique 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: WBECH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanique;         L'Unite de Recherches sur les Zones Arides;        Station de Recherches de Beni Abbes;        Wilaya De Bechar;        Algeria;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.52
+2-Longitude: -2.22
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1425">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (315 taxa), plants used for phytotherapy and other useful spp. (175 taxa), systematic plant collection (2,000 taxa), aromatic, perfume and spice plants (22 spp), greenhouse plants (250 spp.).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1425">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1425">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1425">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WBECH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

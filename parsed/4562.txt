@@ -1,9 +1,18 @@
-ID:	4562
-Name:	Little Rock Zoo 
-Curator's Name:	Jj Muehlhausen, Grant Writer
-Director's Name:	Mike Blakely, Director
-Info:	  United States of America - Arkansas - Little Rock  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Little Rock Zoo; 1 Jonesboro Dr.; Little Rock; Arkansas 72205 United States of America; ;  Telephone: (501) 666-2406; Fax: ; URL: <a target="_blank" href="http://www.littlerockzoo.com">www.littlerockzoo.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	34.7486269
-Longitude:	-92.3274870
+0-ID: 4562
+1-Name: Little Rock Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Little Rock Zoo;         1 Jonesboro Dr.;                Little Rock;        Arkansas 72205 United States of America;        ;                 Telephone: (501) 666-2406;         Fax: ;         URL: www.littlerockzoo.com;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 34.7486269
+2-Longitude: -92.3274870
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4562">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4562">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4562">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4562">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4562">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (501) 666-2406
+9-URL: www.littlerockzoo.com

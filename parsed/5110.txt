@@ -1,11 +1,18 @@
-ID:	5110
-Name:	Jardín Botánico Atlántico de Gijón- Seed Bank 
-Curator's Name:	Alvaro Bueno Sánchez
-Director's Name:	Jesús Martínez Salvador
-Info:	  Spain - Asturias - Gijón/Xixón  ;Garden Information;  Institution Code: JBAGSB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Atlántico de Gijón- Seed Bank; Universidad de Oviedo; Avda. del Jardín Botánico 2230; Gijón/Xixón; Asturias 33394 Spain; ;  Telephone: 0034985185149; Fax: 0034985130685; URL: <a target="_blank" href="https://botanico.gijon.es/">https://botanico.gijon.es/; Primary Email: ravergel@gijon.es ; 
-Plant Records Officer's Name:	José Ignacio Alonso Felpete
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	43.5467029
-Longitude:	-5.6628859
-Seed Bank:	Yes
+0-ID: 5110
+1-Name: Jardín Botánico Atlántico de Gijón- Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: JBAGSB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Atlántico de Gijón- Seed Bank;         Universidad de Oviedo;        Avda. del Jardín Botánico 2230;        Gijón/Xixón;        Asturias 33394 Spain;        ;                 Telephone: 0034985185149;         Fax: 0034985130685;         URL: https://botanico.gijon.es/;         Primary Email: ravergel@gijon.es       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 43.5467029
+2-Longitude: -5.6628859
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5110">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5110">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5110">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5110">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0034985130685
+9-Institution Code: JBAGSB
+9-International Agenda Registration: No
+9-Primary Email: ravergel@gijon.es
+9-Telephone: 0034985185149

@@ -1,12 +1,20 @@
-ID:	2140
-Name:	The Botanical Gardens of the Universtiy of the South Pacific 
-Curator's Name:	
-Director's Name:	
-Info:	  Fiji - Suva  ;Garden Information;  Institution Code: SUVA; International Agenda Registration: No; BGCI Member: No; About the The Botanical Gardens of the Universtiy of the South Pacific Herbarium in the School of Applied Science;  Main Address:; The Botanical Gardens of the Universtiy of the South Pacific; G.P.O. Box 1151, Suva, Fiji; Suva; Fiji; ;  Telephone: ; Fax: 679 301078; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1988
-Institution Type:	Botanic Garden
-Latitude:	-18.0876
-Longitude:	178.3841
-Special Collections:	Palms, cycads and Hibiscus
+0-ID: 2140
+1-Name: The Botanical Gardens of the Universtiy of the South Pacific 
+2-Altitude: 0.00 Metres
+2-Date founded: 1988
+2-Info:              Institution Code: SUVA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the The Botanical Gardens of the Universtiy of the South Pacific        Herbarium in the School of Applied Science;                        Main Address:;         The Botanical Gardens of the Universtiy of the South Pacific;         G.P.O. Box 1151,  Suva,  Fiji;                Suva;        Fiji;        ;                 Telephone: ;         Fax: 679 301078;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -18.0876
+2-Longitude: 178.3841
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2140">Please click here if you can update us</a>
+4-Special Collections: Palms, cycads and Hibiscus
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2140">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2140">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2140">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 679 301078
+9-Institution Code: SUVA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,10 +1,19 @@
-ID:	3552
-Name:	Jardin Botanique de Kinshasa 
-Curator's Name:	
-Director's Name:	
-Info:	  Democratic Republic of the Congo (formerly Zaire) - Kinshasa  ;Garden Information;  Institution Code: KINSH; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanique de Kinshasa; Institut des Jardins Zoologiques et Botaniques du Congo, P.O. Box. 5593, Kinshasa, Gombe, Democratic Republic of Congo; Kinshasa; Democratic Republic of the Congo (formerly Zaire); ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-4.3258
-Longitude:	15.3218
+0-ID: 3552
+1-Name: Jardin Botanique de Kinshasa 
+2-Date founded: 
+2-Info:              Institution Code: KINSH;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardin Botanique de Kinshasa;         Institut des Jardins Zoologiques et Botaniques du Congo, P.O. Box. 5593, Kinshasa, Gombe, Democratic Republic of Congo;                Kinshasa;        Democratic Republic of the Congo (formerly Zaire);        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -4.3258
+2-Longitude: 15.3218
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3552">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3552">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3552">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3552">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3552">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KINSH
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

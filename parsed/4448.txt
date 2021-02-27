@@ -1,9 +1,18 @@
-ID:	4448
-Name:	Bard College Arboretum 
-Curator's Name:	Amy Parrella Foster, Horticulture Supervisor
-Director's Name:	Unknown
-Info:	  United States of America - New York - Annandale On Hudson  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Bard College Arboretum; 30 Campus Road; P.O. Box 5000; Annandale On Hudson; New York 12504 United States of America; ;  Telephone: (845) 758-7179; Fax: ; URL: <a target="_blank" href="http://inside.bard.edu/horticulture">http://inside.bard.edu/horticulture; Primary Email: horticulture@bard.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	42.0222530
-Longitude:	-73.9064220
+0-ID: 4448
+1-Name: Bard College Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Bard College Arboretum;         30 Campus Road;        P.O. Box 5000;        Annandale On Hudson;        New York 12504 United States of America;        ;                 Telephone: (845) 758-7179;         Fax: ;         URL: http://inside.bard.edu/horticulture;         Primary Email: horticulture@bard.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.0222530
+2-Longitude: -73.9064220
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4448">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4448">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4448">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4448">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4448">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: horticulture@bard.edu
+9-Telephone: (845) 758-7179

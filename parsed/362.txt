@@ -1,50 +1,55 @@
-ID:	362
-Name:	Dendrological garden of the Silva Tarouca Research Institute for Landscape and Ornamental Gardening 
-Fax:	+420 267 750 023
-Info:	  Czech Republic - Pruhonice  ;Garden Information;  Institution Code: VSUOZ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
-Primary Email:	dz@vukoz.cz
-Telephone:	+420 296 528 256
-Administration Staff Number:	3
-Curator's Name:	Jiří Velebil
-Director's Name:	Ivan Suchara
-Educational Staff Number:	2
-Horticultural Staff Number:	12
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	285.00 Metres
-Annual Rainfall:	564 mm
-Date founded:	1974
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	50.028
-Local Address:	Za dálnicí 146 252 43 Průhonice
-Locality:	Information
-Longitude:	14.5509
-Natural Vegetation Area:	No
-Total Area:	72 Hectares
-Total area of glasshouses:	480 Metres
-Arboretum:	Yes
-Arboretum Size:	72
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	38000
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	7000
-Special Collections:	Special collection for training in landscape and garden architecture.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Biotechnology:	Yes
-Education:	Yes
-Floristics:	Yes
-Plant Breeding:	Yes
-Urban Environments:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
+0-ID: 362
+1-Name: Dendrological garden of the Silva Tarouca Research Institute for Landscape and Ornamental Gardening 
+2-Administration Staff Number: 3
+2-Curator's Name: Jiří Velebil
+2-Director's Name: Ivan Suchara
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 12
+2-Info:              Institution Code: VSUOZ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level III       ;                                       <img src="/photos/362/DSC_0025-5.jpg" alt="" />         </div>        </div>                           About the Dendrological garden of the Silva Tarouca Research Institute for Landscape and Ornamental Gardening        The Dendrological Garden is the experimental site of the Silva Tarouca Research Institute for Landscape and Ornamental Gardening, a public research institute. It was established to collect and maintain plant collections, their documentation and studies, with emphasis on the use of individual species in garden and landscape design.  With the Garden‘s activities in the areas of taxonomy, plant conservation, education and public awareness it fulfills the mission of a classic botanical garden but one that also has research activities in a wider sphere focusing on the environment.   ;  ;  The name “Dendrological Garden” comes from the Greek root “dendros” (wood) and “logos” (study).  It was derived from the name of the former Czechoslovak Dendrological Society that was found in part of the Garden’s current site.  The basis of the Garden’s appearance today stems from the extraordinary efforts of several of the research institute’s employees in the mid-1970s when the sites here again began to be used as an experimental site for gardening and landscape research. The arrangement of the Dendrological Garden and the collections here were a reaction to the needs of the time to study and maintain gene pools of ornamental plants, and to experiment with and test new plantation technologies.  The Garden developed the most in the second half of the 1980s.  In 1991, the Garden, thanks to the understanding of the lands’ owners, was opened to the public, which in turn led to the expansion of our educational and awareness activities for visitors.;  ;  The Dendrological Garden builds on the legacy of Earl Ernest Emanuel Silva Tarouca, founder of the Pruhonice landscape park and the first president of the Austro-Hungarian Dendrological Society, which has more than a hundred year tradition. ;  ;  Currently the Dendrological Garden’s activities are in the following areas:;  Maintaining plant collections:;  • Preservation and development of plant genetic resources of non-productive, concentrated here since the early 20th century;  • Maintaining the offspring of trees of historical and cultural significance in the Czech Republic;  • Conservation and development of gene pools of species endemic to the Czech Republic;  • Cooperation on exchanging seeds with around 360 botanical gardens in the Czech Republic and around the world (Index Seminum);  Research;  • Study of plants intended for use in residential and landscape greenery and enhancing its diversity;  •  Monitoring of selected species for the potential risks of invasive behaviour;  •    Verification, implementation and presentation of new plantation technologies;  Environmental education and awareness for children and adults;  • Educational programmes for nursery and primary schools;  • Awareness-raising educational events for the public (guided tours, professional workshops, events for families with children, etc.).;  • Seasonal-themed plant exhibitions;                        Main Address:;         Dendrological garden of the Silva Tarouca Research Institute for Landscape and Ornamental Gardening;         Dendrologická zahrada Vyzkumného Ústavu Silva Taroucy pro krajinu a okrasné zahradnictvi;        Kvetnove nam 391;        Pruhonice;        252 43 Czech Republic;        ;                 Telephone: +420 296 528 256;         Fax: +420 267 750 023;         URL: www.dendrologickazahrada.cz;         Primary Email: dz@vukoz.cz       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 2
+3-Altitude: 285.00 Metres
+3-Annual Rainfall: 564 mm
+3-Date founded: 1974
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 50.028
+3-Local Address: Za dálnicí 146 252 43 Průhonice
+3-Locality: Information
+3-Longitude: 14.5509
+3-Natural Vegetation Area: No
+3-Total Area: 72 Hectares
+3-Total area of glasshouses: 480 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 72
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 38000
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Cultivation Taxa Num: 7000
+5-Special Collections: Special collection for training in landscape and garden architecture.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Biotechnology: Yes
+7-Education: Yes
+7-Floristics: Yes
+7-Plant Breeding: Yes
+7-Urban Environments: Yes
+8-Education Programme: Yes
+8-Guided Tours: Yes
+8-Special Exhibitions: Yes
+9-ArbNet Accredited: Level III
+9-BGCI Member: No
+9-Fax: +420 267 750 023
+9-Institution Code: VSUOZ
+9-International Agenda Registration: No
+9-Primary Email: dz@vukoz.cz
+9-Telephone: +420 296 528 256
+9-URL: www.dendrologickazahrada.cz

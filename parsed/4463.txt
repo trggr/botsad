@@ -1,77 +1,81 @@
-ID:	4463
-Name:	Lincoln Park Conservatory 
-Fax:	(312) 742-5619
-Info:	  United States of America - Illinois - Chicago  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Telephone:	(312) 742-7739
-With its four display houses:	the Palm House, Fern Room, Orchid House and Show House - home to the annual flower shows - the Conservatory continues to provide a haven in the city.
-Administration Staff Number:	1
-Curator's Name:	Harvey Bernstein
-Director's Name:	Mary Eysenbach
-Educational Staff Number:	
-Horticultural Staff Number:	14
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	177.00 Metres
-Annual Rainfall:	840 mm
-Date founded:	1890
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	41.9256610
-Local Address:	2391 N. Stockton Drive
-Locality:	Information
-Longitude:	-87.6360220
-Natural Vegetation Area:	No
-Satellite Garden Names:	Great Garden Conifer Garden
-Total area of glasshouses:	5180 Metres
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	1822500
-Number of Volunteers:	7
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 4463
+1-Name: Lincoln Park Conservatory 
+2-Administration Staff Number: 1
+2-Curator's Name: Harvey Bernstein
+2-Director's Name: Mary Eysenbach
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 14
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4463/200 pixel web image.jpg" alt="Lincoln Park Conservatory viewed from the center of the Great Garden." />         Lincoln Park Conservatory viewed from the center of the Great Garden.</div>        </div>                           About the Lincoln Park Conservatory        Step inside and be transported to another place and time - Lincoln Park Conservatory - where you will find tropical palms and ancient ferns, right in the heart of Lincoln Park.;  ;  Constructed in stages between 1890 and 1895, the Conservatory was designed both to showcase exotic plants and to grow the thousands of plants needed for use in the parks.;  ;  Lincoln Park Conservatory was designed by a well known architect of the Victorian era, Joespeh L. Silsbee. He built the Conservatory during a time of great fascination with nature. Studying and classifying plants, animals and insects were common hobbies. People were becoming concerned about the effects of industrialization and conservatories provided "tropical paradises" within cities.;  ;  With its four display houses: the Palm House, Fern Room, Orchid House and Show House - home to the annual flower shows - the Conservatory continues to provide a haven in the city. ;  ;  No matter the time of year, Lincoln Park Conservatory is always green and lush. Come take a stroll and let yourself be transported away.;  ;  Admission is free.;  ;  ;  ;  History ;  The Lincoln Park Commission constructed the Lincoln Park Conservatory in phases between 1890 and 1895, replacing a small greenhouse that dated from the 1870s. Nationally renowned architect Joseph Lyman Silsbee designed the Conservatory in collaboration with architect M.E. Bell. The park includes a second example of the work of each architect. ;  ;  During the early nineteenth century developments in iron and glass building technology led to the construction of conservatories in cities throughout Europe and the United States. Later in the century, as people were increasingly concerned about the ill effects of industrialization, they became fascinated with nature and interested in collecting and classifying plants. Large conservatories with display and exhibit rooms gained popularity, and Lincoln Park's small greenhouse no longer seemed sufficient. Architects Silsbee and Bell were commissioned to design a much more substantial building. Rendered in an exotic style, the new structure included palm, fernery, orchid, and show houses. A "paradise under glass," the Conservatory supported "a luxuriant tropical growth, blending the whole into a natural grouping of Nature’s loveliest forms." Historically, aquatic plants propagated in tanks in the Conservatory were planted outside, in artificially-heated lily ponds. The exotic plants were so popular that in 1897 the Egyptian government requested seeds from Lincoln Park's water lilies. The rocky-edged ponds once meandered along what is now the fence line of the Lincoln Park Zoo.;                        Main Address:;         Lincoln Park Conservatory;         2391 N. Stockton Dr.;                Chicago;        Illinois 60614 United States of America;        ;                 Telephone: (312) 742-7739;         Fax: (312) 742-5619;         URL: www.chicagoparkdistrict.com/index.cfm/fuseaction/parks.detail/object_id/45aa3ed2-7c6f-4461-83b2-29cb991637e6.cfm;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 177.00 Metres
+3-Annual Rainfall: 840 mm
+3-Date founded: 1890
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 41.9256610
+3-Local Address: 2391 N. Stockton Drive
+3-Locality: Information
+3-Longitude: -87.6360220
+3-Natural Vegetation Area: No
+3-Satellite Garden Names: Great Garden Conifer Garden
+3-Total area of glasshouses: 5180 Metres
+4-Arboretum: No
+4-Computer Plant Record System: No
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 1822500
+4-Number of Volunteers: 7
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Invasive Species Monitoring: Yes
+5-Plant Collection Policy: Yes
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: Yes
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: (312) 742-5619
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (312) 742-7739
+9-URL: www.chicagoparkdistrict.com/index.cfm/fuseaction/parks.detail/object_id/45aa3ed2-7c6f-4461-83b2-29cb991637e6.cfm
+9-With its four display houses: the Palm House, Fern Room, Orchid House and Show House - home to the annual flower shows - the Conservatory continues to provide a haven in the city.

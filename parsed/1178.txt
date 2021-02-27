@@ -1,11 +1,19 @@
-ID:	1178
-Name:	Bayou Bend Gardens 
-Curator's Name:	Bart Brechter, Curator of Gardens
-Director's Name:	Bonnie Campbell, Director
-Info:	  United States of America - Texas - Houston  ;Garden Information;  Institution Code: BAYOU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bayou Bend Gardens; 1 Westcott Street at Memorial; P.O. Box 6826; Houston; Texas 77265-6826 United States of America; ;  Telephone: (713) 639-7750; Fax: ; URL: <a target="_blank" href="http://www.mfah.org/bayoubend">www.mfah.org/bayoubend; Primary Email: bayoubend@mfah.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	29.7585880
-Longitude:	-95.4219500
-Open to public:	Yes
+0-ID: 1178
+1-Name: Bayou Bend Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BAYOU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bayou Bend Gardens;         1 Westcott Street at Memorial;        P.O. Box 6826;        Houston;        Texas 77265-6826 United States of America;        ;                 Telephone: (713) 639-7750;         Fax: ;         URL: www.mfah.org/bayoubend;         Primary Email: bayoubend@mfah.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.7585880
+2-Longitude: -95.4219500
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1178">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1178">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1178">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1178">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BAYOU
+9-International Agenda Registration: No
+9-Primary Email: bayoubend@mfah.org
+9-Telephone: (713) 639-7750
+9-URL: www.mfah.org/bayoubend

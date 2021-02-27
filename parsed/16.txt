@@ -1,11 +1,19 @@
-ID:	16
-Name:	Hortus Botanicus Kabardino-Balkar State Farm 
-Curator's Name:	
-Director's Name:	K. Sh. Shogenov
-Info:	  Russian Federation - Nalchik  ;Garden Information;  Institution Code: AUBSN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hortus Botanicus Kabardino-Balkar State Farm; Chernishevsky Street 173, 360002 NALCHIK, Kabardino-Balkaria, Russian Federation; Nalchik; Russian Federation; ;  Telephone: 9 92 57; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1949
-Institution Type:	Botanic Garden
-Latitude:	43.4869
-Longitude:	43.6029
-Special Collections:	Begonia, Kalanchoe, Allium, Mammillaria, Rosa, etc
+0-ID: 16
+1-Name: Hortus Botanicus Kabardino-Balkar State Farm 
+2-Date founded: 1949
+2-Info:              Institution Code: AUBSN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hortus Botanicus Kabardino-Balkar State Farm;         Chernishevsky Street 173,  360002 NALCHIK,  Kabardino-Balkaria,  Russian Federation;                Nalchik;        Russian Federation;        ;                 Telephone: 9 92 57;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.4869
+2-Longitude: 43.6029
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=16">Please click here if you can update us</a>
+4-Special Collections: Begonia, Kalanchoe, Allium, Mammillaria, Rosa, etc
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=16">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=16">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=16">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AUBSN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 9 92 57
+9-URL: 

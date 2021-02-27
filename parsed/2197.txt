@@ -1,10 +1,19 @@
-ID:	2197
-Name:	Coolgardie Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Coolgardie  ;Garden Information;  Institution Code: COOL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Coolgardie Arboretum; Dept of CALM, PO Box 366, KALGOORLIE, WA 6430, Australia; Coolgardie; Australia; ;  Telephone: 61 (0)8 9021 2677; Fax: 61 (0)8 9021 7831; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-30.95403
-Longitude:	121.16234
+0-ID: 2197
+1-Name: Coolgardie Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: COOL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Coolgardie Arboretum;         Dept of CALM, PO Box 366,  KALGOORLIE,  WA 6430,  Australia;                Coolgardie;        Australia;        ;                 Telephone: 61 (0)8 9021 2677;         Fax: 61 (0)8 9021 7831;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -30.95403
+2-Longitude: 121.16234
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2197">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2197">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2197">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2197">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2197">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)8 9021 7831
+9-Institution Code: COOL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)8 9021 2677
+9-URL: 

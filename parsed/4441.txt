@@ -1,9 +1,18 @@
-ID:	4441
-Name:	University of Nevada Reno Arboretum 
-Curator's Name:	
-Director's Name:	Raymond Needham, Chair
-Info:	  United States of America - Nevada - Reno  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Nevada Reno Arboretum; Reno Campus Mailstop 186; Reno; Nevada 89557 United States of America; ;  Telephone: (775) 784-6837; Fax: ; URL: <a target="_blank" href="http://www.unr.edu/arboretum">www.unr.edu/arboretum; Primary Email: borman@unr.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.5450420
-Longitude:	-119.8157770
+0-ID: 4441
+1-Name: University of Nevada Reno Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Nevada Reno Arboretum;         Reno Campus Mailstop 186;                Reno;        Nevada 89557 United States of America;        ;                 Telephone: (775) 784-6837;         Fax: ;         URL: www.unr.edu/arboretum;         Primary Email: borman@unr.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.5450420
+2-Longitude: -119.8157770
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4441">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4441">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4441">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4441">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4441">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: borman@unr.edu
+9-Telephone: (775) 784-6837
+9-URL: www.unr.edu/arboretum

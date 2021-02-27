@@ -1,9 +1,19 @@
-ID:	5360
-Name:	Dunn School Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - CA - Los Olivos  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Dunn School Arboretum; 2555 West Hwy 154; Los Olivos; CA 93441 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.dunnschool.org">www.dunnschool.org; Primary Email: cstacy@dunnschool.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	34.657355
-Longitude:	-120.102124
+0-ID: 5360
+1-Name: Dunn School Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Dunn School Arboretum;         2555 West Hwy 154;                Los Olivos;        CA 93441 United States of America;        ;                 Telephone: ;         Fax: ;         URL: www.dunnschool.org;         Primary Email: cstacy@dunnschool.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.657355
+2-Longitude: -120.102124
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5360">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5360">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5360">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5360">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5360">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cstacy@dunnschool.org
+9-Telephone: 
+9-URL: www.dunnschool.org

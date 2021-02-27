@@ -1,72 +1,79 @@
-ID:	278
-Name:	Jardín Botánico Francisco Javier Clavijero 
--" src="https:	//www.bgci.org/files/ERABG/project_images/ClavijeroBG-Active%20restoration%20%20Parcel%202%20-%20plot%202.jpg" alt="" width="500" height="281" />
--"><img src="https:	//www.bgci.org/files/ERABG/project_images/ClavijeroBG-Passive%20restoration_Parcel%202%20plot%201%20front.jpg" alt="" width="500" />
--<img style="display:	block
--<p style="text-align:	center
--margin-left:	auto
--margin-right:	auto
-Fax:	52 (228) 818 78 09
-Info:	  Mexico - Veracruz - Xalapa  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: XAL; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
-Primary Email:	jardinbotanico@inecol.mx
-Telephone:	52 (228) 842 18 27
-Administration Staff Number:	2
-Curator's Name:	Dr. Milton Hugo Díaz Toribio
-Director's Name:	Biól. Orlik Gómez García
-Educational Staff Number:	5
-Horticultural Staff Number:	9
-Plant Records Officer's Name:	Víctor E. Luna Monterrojo
-Research Staff Number:	2
-Altitude:	1300.00 Metres
-Annual Rainfall:	1514 mm
-Date founded:	1977
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	19.514460
-Local Address:	Km. 2.5 carretera antigua a Coatepec # 351
-Locality:	Information
-Longitude:	-96.936439
-Natural Vegetation Area:	Yes
-Total Area:	38 Hectares
-Arboretum:	Yes
-Arboretum Size:	2
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	40000
-Open to public:	Yes
-Accession Number:	6222
-Cultivation Taxa Num:	1009
-Special Collections:	National collection of Cycads, National collection of native Mexican bamboo species, Temperate mountain cloud forest, Palmetum, Arboretum, Pinetum, Coffee plantation, ethnobotanic collection currently under construction.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Plant Breeding:	Yes
-Restoration Ecology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 278
+1-Name: Jardín Botánico Francisco Javier Clavijero 
+2-Administration Staff Number: 2
+2-Curator's Name: Dr. Milton Hugo Díaz Toribio
+2-Director's Name: Biól. Orlik Gómez García
+2-Educational Staff Number: 5
+2-Horticultural Staff Number: 9
+2-Info:              Institution Code: XAL;             International Agenda Registration: Yes;        BGCI Member: Yes;                       ArbNet Accredited:          Level I       ;                                       <img src="/photos/278/clavijero_small.jpg" alt="View of arboretum of Jardín Botánico Francisco Javier Clavijero in a  early winter morning.  You can see a big Platanus mexicana in the middle." />         View of arboretum of Jardín Botánico Francisco Javier Clavijero in a  early winter morning.  You can see a big Platanus mexicana in the middle.</div>        </div>                           About the Jardín Botánico Francisco Javier Clavijero        The Francisco Javier Clavijero Botanic Garden was inaugurated in February of 1977. It is located in Xalapa, about 500 km East of Mexico City, into the natural distribution of temperate montane cloud forest.  Through its 40 years, the Garden has become one of the most important in Mexico. ;  ;  Native tropical montane cloud forests are considered among the most biodiverse and endangered ecosystems of the planet, and the Clavijero Garden is the only one in Mexico situated in this highlighted ecosystem. This unique vegetation cover approximately 1.5 Ha. into the Garden. It consists of large native trees (Ulmus mexicana, Ostrya virginiana, Quercus spp.), shrubs, tree ferns (Alsophila firma), undergrowth palms (Chamaedorea spp.) and many species of epiphytes, mainly bromeliads (Tillandsia spp), orchids, epiphytic ferns, and peperomias among others.;  ;  Began in the late 1970s, the Mexican National Cycad Collection consists of the 56 species described to date for Mexico, like Dioon spp, Zamia spp. and  Ceratozamia spp. . It includes at least one species from each of the other world genera, except Chigua. It supports various fields of scientific research, as DNA bar-coding. Cultivation experiments are carried out to improve propagation methods. It is considered the most important cycad collection in Latin America.;  ;  Developed on past five years, the Mexican National Bamboo Collection is currently well established and comprehensive. It includes 54 native species of genera Aulonemia, Guadua, Chusquea, Rhipidocladum, Olmeca and Otatea, and supports research in plant anatomy, horticulture and ethnobotany. Part of both collections are on exhibition and are used for educational purposes at all levels. Besides, the Garden’s experts assesses sustainable management nurseries of these groups.;  ;  An outstanding Chinese tree species at the Garden is Metasequoia glyptostroboides reported to be the southernmost specimen of this species under cultivation in North America, including Central America.;  ;  Aimed to children and families, our educational programme “Todos al Jardín Botánico” includes activities of popular science, arts and other recreational events. It is the starting point for approaching themes about nature conservation to the people of Xalapa. Besides being a beautiful place for leisure and relaxation, the Garden is recognized as an outstanding environmental educational center, notable for its living collections and public educational events. The Garden receives approximately 40,000 visitors a year.;  ;  The Garden holds a documented living collection, consisting of 6,035 specimens among 1,013 species, distributed among pinetum, arboretum, palmetum, native cloud forest, pond and research greenhouses. There is also an exhibition of a traditional shade coffee plantation, a feature of the Veracruz cloud mountain landscape. 40% of its collections are endangered species.;  ;  All collections in the grounds are mapped on coordinates using a botanic gardens data base system (BG-Base and BG-Map) and the living collections in greenhouses are in the process of micro-chipping, especially the more valuable and rare ones.;                        Main Address:;         Jardín Botánico Francisco Javier Clavijero;         Instituto de Ecologia, Km 2.5 Carretera antigua a Coatepec No 351, Congregación El Haya;        P.O. Box 63, 91000;        Xalapa;        Veracruz 91073 Mexico;        ;                 Telephone: 52 (228) 842 18 27;         Fax: 52 (228) 818 78 09;         URL: jbclavijero.blogspot.com;         Primary Email: jardinbotanico@inecol.mx       ;              
+2-Plant Records Officer's Name: Víctor E. Luna Monterrojo
+2-Research Staff Number: 2
+3-Altitude: 1300.00 Metres
+3-Annual Rainfall: 1514 mm
+3-Date founded: 1977
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 19.514460
+3-Local Address: Km. 2.5 carretera antigua a Coatepec # 351
+3-Locality: Information
+3-Longitude: -96.936439
+3-Natural Vegetation Area: Yes
+3-Total Area: 38 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 2
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 40000
+4-Open to public: Yes
+5-Accession Number: 6222
+5-Cultivation Taxa Num: 1009
+5-Special Collections: National collection of Cycads, National collection of native Mexican bamboo species, Temperate mountain cloud forest, Palmetum, Arboretum, Pinetum, Coffee plantation, ethnobotanic collection currently under construction.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: Yes
+7-Plant Breeding: Yes
+7-Restoration Ecology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-">Passive restoration plot, dominated by exotic grass <p style="text-align: justify
+9-">The tropical montane cloud forest has been considered as a priority for conservation since it occurs in less than 1% of the Mexican territory and harbors more than 10% of the plant species that exist in Mexico. <p style="text-align: justify
+9-<img style="display: block
+9-<p style="text-align: center
+9-ArbNet Accredited: Level I
+9-BGCI Member: Yes
+9-Fax: 52 (228) 818 78 09
+9-Institution Code: XAL
+9-International Agenda Registration: Yes
+9-Primary Email: jardinbotanico@inecol.mx
+9-Telephone: 52 (228) 842 18 27
+9-The area will be open soon and be part of the permanent and dynamic exhibitions of the CBG with the long term goal (50 years) of recover and establish a peri-urban cloud forest patch. <p style="text-align: justify
+9-URL: jbclavijero.blogspot.com
+9-a natural protected area that has 30 ha of preserved forest and young and old-secondary forest. The CBG and the Sanctuary goals are focused on conservation efforts through environmental education and ecological restoration. There have been propagation programmes for threatened cloud-forest trees such as <em>Symplocos coccinea</em>, <em>Podocarpus guatemalensis</em> and <em>Styrax glabrescens</em> since 1990. Rescue and propagation of two endangered species <em>Magnolia dealbata</em> and <em>Talauma mexicana</em> has been a success story for the garden. Seed storage and propagation techniques for these species were developed and the species established in cultivation for the first time. Seedlings have been re-introduced into the adjoining ecological park as well as distributed to state and municipal nurseries as future seed trees for the propagation of the species. <p style="text-align: justify
+9-margin-left: auto
+9-margin-right: auto

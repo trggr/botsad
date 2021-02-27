@@ -1,15 +1,21 @@
-ID:	47
-Name:	University of Bristol Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr D. Gledhill
-Info:	  United Kingdom - Bristol  ;Garden Information;  Institution Code: BRIST; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; University of Bristol Botanic Garden; Hollybush Lane,; Stoke Bishop; Bristol; BS9 1JB United Kingdom; ;  Telephone: 0117 331 4906; Fax: 0117 973 3682; URL: <a target="_blank" href="http://www.bristol.ac.uk/botanic-garden/">http://www.bristol.ac.uk/botanic-garden/; Primary Email: botanic-gardens@bristol.ac.uk ; 
-Plant Records Officer's Name:	Nicholas Wray
-Altitude:	0.00 Metres
-Date founded:	1822
-Institution Type:	Botanic Garden
-Latitude:	51.477419
-Longitude:	-2.625977
-Total Area:	2 Hectares
-Total area of glasshouses:	200 Metres
-Special Collections:	Crassulaceae, Labiatae, Cistaceae, Scrophulariaceae, Geraniaceae, Proteaceae, Bromeliaceae, Rosaceae. Sempervivum, Pelargonium, Hebe, Aeonium, Salvia, Cistus, Protea, Banksia, Fascicularia, Sorbus. Northern Europe, Southern Africa, New Zealand. Threatened
-Conservation Programme:	Yes
+0-ID: 47
+1-Name: University of Bristol Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1822
+2-Info:              Institution Code: BRIST;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         University of Bristol Botanic Garden;         Hollybush Lane,;        Stoke Bishop;        Bristol;        BS9 1JB United Kingdom;        ;                 Telephone: 0117 331 4906;         Fax: 0117 973 3682;         URL: http://www.bristol.ac.uk/botanic-garden/;         Primary Email: botanic-gardens@bristol.ac.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.477419
+2-Longitude: -2.625977
+2-Total Area: 2 Hectares
+2-Total area of glasshouses: 200 Metres
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=47">Please click here if you can update us</a>
+4-Special Collections: Crassulaceae, Labiatae, Cistaceae, Scrophulariaceae, Geraniaceae, Proteaceae, Bromeliaceae, Rosaceae. Sempervivum, Pelargonium, Hebe, Aeonium, Salvia, Cistus, Protea, Banksia, Fascicularia, Sorbus. Northern Europe, Southern Africa, New Zealand. Threatened
+5-Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=47">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=47">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 0117 973 3682
+9-Institution Code: BRIST
+9-International Agenda Registration: No
+9-Primary Email: botanic-gardens@bristol.ac.uk
+9-Telephone: 0117 331 4906

@@ -1,11 +1,19 @@
-ID:	3196
-Name:	Fredericton Botanic Garden 
-Curator's Name:	Richard Tarn, Garden Association
-Director's Name:	Nora Davidson-Wright, Board President
-Info:	  Canada - New Brunswick - Fredericton  ;Garden Information;  Institution Code: FRED; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fredericton Botanic Garden; P.O. Box 57, Station A; Fredericton; New Brunswick E3B 4Y2 Canada; ;  Telephone: (506) 452-9269; Fax: ; URL: <a target="_blank" href="http://www.frederictonbotanicgarden.com">www.frederictonbotanicgarden.com; Primary Email: fbga@nb.aibn.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	45.95052
-Longitude:	-66.67665
-Special Collections:	Rhodendrons
+0-ID: 3196
+1-Name: Fredericton Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: FRED;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Fredericton Botanic Garden;         P.O. Box 57, Station A;                Fredericton;        New Brunswick E3B 4Y2 Canada;        ;                 Telephone: (506) 452-9269;         Fax: ;         URL: www.frederictonbotanicgarden.com;         Primary Email: fbga@nb.aibn.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.95052
+2-Longitude: -66.67665
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3196">Please click here if you can update us</a>
+4-Special Collections: Rhodendrons
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3196">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3196">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3196">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FRED
+9-International Agenda Registration: No
+9-Primary Email: fbga@nb.aibn.com
+9-Telephone: (506) 452-9269
+9-URL: www.frederictonbotanicgarden.com

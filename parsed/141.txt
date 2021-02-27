@@ -1,11 +1,19 @@
-ID:	141
-Name:	The Botanic Garden 
-Curator's Name:	
-Director's Name:	A.F. Rasulov
-Info:	  Tajikistan - Leninabad  ;Garden Information;  Institution Code: LBDG; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanic Garden; Tadjik Academy of Sciences, Syr Darjinskaya 26, 735714 LENINABAD, Tajikistan; Leninabad; Tajikistan; ;  Telephone: 5 16 82; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1955
-Institution Type:	Botanic Garden
-Latitude:	40.2150
-Longitude:	69.6949
-Special Collections:	Collections - South-eastern Asia, North America, Eurosiberian, native flora.
+0-ID: 141
+1-Name: The Botanic Garden 
+2-Date founded: 1955
+2-Info:              Institution Code: LBDG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Botanic Garden;         Tadjik Academy of Sciences,  Syr Darjinskaya 26,  735714 LENINABAD,  Tajikistan;                Leninabad;        Tajikistan;        ;                 Telephone: 5 16 82;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.2150
+2-Longitude: 69.6949
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=141">Please click here if you can update us</a>
+4-Special Collections: Collections - South-eastern Asia, North America, Eurosiberian, native flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=141">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=141">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=141">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LBDG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 5 16 82
+9-URL: 

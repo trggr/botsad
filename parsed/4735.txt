@@ -1,9 +1,19 @@
-ID:	4735
-Name:	Montpelier Foundation 
-Curator's Name:	Sandy Mudrinich, Horticulturist
-Director's Name:	Joe Grills, Board Chairman
-Info:	  United States of America - Virginia - Montpelier Station  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Montpelier Foundation; 11395 Constitution Highway; Mailing: P.O. Box 67; Montpelier Station; Virginia 22957 United States of America; ;  Telephone: (540) 661-3510; Fax: ; URL: <a target="_blank" href="http://www.montpelier.org">www.montpelier.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.2240229
-Longitude:	-78.1849819
+0-ID: 4735
+1-Name: Montpelier Foundation 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Montpelier Foundation;         11395 Constitution Highway;        Mailing: P.O. Box 67;        Montpelier Station;        Virginia 22957 United States of America;        ;                 Telephone: (540) 661-3510;         Fax: ;         URL: www.montpelier.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.2240229
+2-Longitude: -78.1849819
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4735">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4735">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4735">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4735">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4735">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 67
+9-Primary Email: 
+9-Telephone: (540) 661-3510
+9-URL: www.montpelier.org

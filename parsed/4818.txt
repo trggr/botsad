@@ -1,16 +1,21 @@
-ID:	4818
-Name:	Hardwick Hall 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Mike Calnan
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Info:	  United Kingdom - Derbyshire - Chesterfield  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Hardwick Hall Only walls and gazebos remain of Bess of Hardwick's late 16th-century garden. The present layout of South Garden dates from the 1870s: grass alleys flanked by yew and hornbeam hedges planted by Lady Louisa Egerton, daughter of the 7th Duke of Devonshire, divide the garden into quadrants. Orchards, lawns, nuttery and herb garden (culinary, medicinal and dye-plants) occupy these four sections, conveying the spirit of an Elizabethan garden. West Courtyard laid out c.1920 by Blanche, daughter of the 9th Duke. Her mother, the Duchess Evelyn sank the pond in the East Court to provide water for fire-fighting. She also planted the double avenue called "The Wineglass" that closes the eastern vista. Lead statues in yew alcoves, holly domes to the western entrance to the herb garden, grass walks, mulberry avenue. Garden history exhibition in the south-east gazebo shows the garden's development over 400 years.;  Main Address:; Hardwick Hall; Doe Lea; Chesterfield; Derbyshire S44 5QJ United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/hardwick/">www.nationaltrust.org.uk/hardwick/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	53.16883443
-Longitude:	-1.308773829
-Total Area:	3 Hectares
-Number of Visitors:	85000
+0-ID: 4818
+1-Name: Hardwick Hall 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Hardwick Hall        Only walls and gazebos remain of Bess of Hardwick's late 16th-century garden. The present layout of South Garden dates from the 1870s: grass alleys flanked by yew and hornbeam hedges planted by Lady Louisa Egerton, daughter of the 7th Duke of Devonshire, divide the garden into quadrants. Orchards, lawns, nuttery and herb garden (culinary, medicinal and dye-plants) occupy these four sections, conveying the spirit of an Elizabethan garden. West Courtyard laid out c.1920 by Blanche, daughter of the 9th Duke. Her mother, the Duchess Evelyn sank the pond in the East Court to provide water for fire-fighting. She also planted the double avenue called "The Wineglass" that closes the eastern vista. Lead statues in yew alcoves, holly domes to the western entrance to the herb garden, grass walks, mulberry avenue. Garden history exhibition in the south-east gazebo shows the garden's development over 400 years.;                        Main Address:;         Hardwick Hall;         Doe Lea;                Chesterfield;        Derbyshire S44 5QJ United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/hardwick/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 53.16883443
+2-Longitude: -1.308773829
+2-Total Area: 3 Hectares
+3-Number of Visitors: 85000
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4818">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4818">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4818">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4818">Please click here if you can update us</a>
+9-About the Hardwick Hall        Only walls and gazebos remain of Bess of Hardwick's late 16th-century garden. The present layout of South Garden dates from the 1870s: grass alleys flanked by yew and hornbeam hedges planted by Lady Louisa Egerton, daughter of the 7th Duke of Devonshire, divide the garden into quadrants. Orchards, lawns, nuttery and herb garden (culinary, medicinal and dye-plants) occupy these four sections, conveying the spirit of an Elizabethan garden. West Courtyard laid out c.1920 by Blanche, daughter of the 9th Duke. Her mother, the Duchess Evelyn sank the pond in the East Court to provide water for fire-fighting. She also planted the double avenue called "The Wineglass" that closes the eastern vista. Lead statues in yew alcoves, holly domes to the western entrance to the herb garden, grass walks, mulberry avenue. Garden history exhibition in the south-east gazebo shows the garden's development over 400 years.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/hardwick/

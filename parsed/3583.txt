@@ -1,12 +1,21 @@
-ID:	3583
-Name:	Xinglong Tropical Flowers Garden (Hainan) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hainan - Wanning  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Xinglong Tropical Flowers Garden (Hainan); Huaqiao Farm, Xinglong, Wanning City, Hainan, 571500, China; Wanning; Hainan China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	51.7673
-Local Address:	中国海南省万宁市兴隆华侨农场，邮编 571500
-Locality:	Information
-Longitude:	125.8981
+0-ID: 3583
+1-Name: Xinglong Tropical Flowers Garden (Hainan) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Xinglong Tropical Flowers Garden (Hainan);         Huaqiao Farm, Xinglong, Wanning City, Hainan, 571500, China;                Wanning;        Hainan China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.7673
+2-Local Address: 中国海南省万宁市兴隆华侨农场，邮编 571500
+2-Locality: Information
+2-Longitude: 125.8981
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3583">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3583">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3583">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3583">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3583">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

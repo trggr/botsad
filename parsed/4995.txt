@@ -1,12 +1,21 @@
-ID:	4995
-Name:	Halifax Public Gardens 
-Curator's Name:	Tracey Jessen, Horticulturist
-Director's Name:	-
-Info:	  Canada - Nova Scotia - Halifax  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Halifax Public Gardens The Halifax Public Gardens are a 16-acre oasis in the heart of downtown Halifax.; ; Officially opened in 1867, The Halifax Public Gardens have retained much of their original Victorian character thanks to a series of talented superintendents, chief horticulturists, and gardeners. Through their efforts, the Public Gardens were designated a National Historic Site of Canada in 1984.; ; In true Victorian fashion, the Gardens boast ornate fountains, a bandstand, statues, urns and a magnificent wrought iron entrance. Also among their treasures are over 100 different species of trees, including unusual or rare species and some centenarians. Their serpentine, scroll and carpet beds guarantee a bounty of colour and fragrance throughout the season.;  Main Address:; Halifax Public Gardens; 5665 Spring Garden Road; Mailing: P.O. Box 36013; Halifax; Nova Scotia B3J 3S9 Canada; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.halifaxpublicgardens.ca/">http://www.halifaxpublicgardens.ca/; Primary Email: info@halifaxpublicgardens.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1867
-Institution Type:	Botanic Garden
-Latitude:	44.642384
-Longitude:	-63.580116
-Total Area:	7 Hectares
+0-ID: 4995
+1-Name: Halifax Public Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1867
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Halifax Public Gardens        The Halifax Public Gardens are a 16-acre oasis in the heart of downtown Halifax.;  ;  Officially opened in 1867, The Halifax Public Gardens have retained much of their original Victorian character thanks to a series of talented superintendents, chief horticulturists, and gardeners. Through their efforts, the Public Gardens were designated a National Historic Site of Canada in 1984.;  ;  In true Victorian fashion, the Gardens boast ornate fountains, a bandstand, statues, urns and a magnificent wrought iron entrance. Also among their treasures are over 100 different species of trees, including unusual or rare species and some centenarians. Their serpentine, scroll and carpet beds guarantee a bounty of colour and fragrance throughout the season.;                        Main Address:;         Halifax Public Gardens;         5665 Spring Garden Road;        Mailing: P.O. Box 36013;        Halifax;        Nova Scotia B3J 3S9 Canada;        ;                 Telephone: ;         Fax: ;         URL: http://www.halifaxpublicgardens.ca/;         Primary Email: info@halifaxpublicgardens.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.642384
+2-Longitude: -63.580116
+2-Total Area: 7 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4995">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4995">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4995">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4995">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4995">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 36013
+9-Primary Email: info@halifaxpublicgardens.ca
+9-Telephone: 

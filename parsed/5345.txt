@@ -1,9 +1,17 @@
-ID:	5345
-Name:	Ogród Botaniczny w Niegoszczy 
-Curator's Name:	
-Director's Name:	
-Info:	  Poland - Mielno  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ogród Botaniczny w Niegoszczy; Fundacja Regnum vegetabile, ul. Generała Stanisława Maczka 21; 76-032 Mielno; Mielno; Poland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://regnumvegetabile.pl/">http://regnumvegetabile.pl/; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	54.240948
-Longitude:	16.00971
+0-ID: 5345
+1-Name: Ogród Botaniczny w Niegoszczy 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ogród Botaniczny w Niegoszczy;         Fundacja Regnum vegetabile, ul. Generała Stanisława Maczka 21;        76-032 Mielno;        Mielno;        Poland;        ;                 Telephone: ;         Fax: ;         URL: http://regnumvegetabile.pl/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 54.240948
+2-Longitude: 16.00971
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5345">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5345">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5345">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5345">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5345">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

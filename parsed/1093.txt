@@ -1,11 +1,19 @@
-ID:	1093
-Name:	Gradina Botanica Targu Mures 
-Curator's Name:	
-Director's Name:	Dr Silvia Oroian
-Info:	  Romania - Targu-Mures  ;Garden Information;  Institution Code: TIRGM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gradina Botanica Targu Mures; Universitatea de Medicina si Farmacie, Str. GH Marinescu 38, 4300 TIRGU-MURES, Romania.; Targu-Mures; Romania; ;  Telephone: +(40) 65 215 551; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: agbr_sarbu@yahoo.com ; 
-Plant Records Officer's Name:	
-Date founded:	1952
-Institution Type:	Botanic Garden
-Latitude:	46.5362
-Longitude:	24.5559
-Special Collections:	Trees including Carya ovota, Cupressus arizonica, Rhododendron kotschyi, Taxodium distichum and Sequoiadendron giganteum. Begonia, Canna, Dianthus, Iris, Paeonia. Bromeliaceae, Begoniaceae, Cactaceae, Liliaceae, Moraceae, Nympheaceae, Orchidaceaef. Cycads
+0-ID: 1093
+1-Name: Gradina Botanica Targu Mures 
+2-Date founded: 1952
+2-Info:              Institution Code: TIRGM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gradina Botanica Targu Mures;         Universitatea de Medicina si Farmacie, Str. GH Marinescu  38, 4300 TIRGU-MURES, Romania.;                Targu-Mures;        Romania;        ;                 Telephone: +(40) 65 215 551;         Fax: ;         URL: ;         Primary Email: agbr_sarbu@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.5362
+2-Longitude: 24.5559
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1093">Please click here if you can update us</a>
+4-Special Collections: Trees including Carya ovota, Cupressus arizonica, Rhododendron kotschyi, Taxodium distichum and Sequoiadendron giganteum. Begonia, Canna, Dianthus, Iris, Paeonia. Bromeliaceae, Begoniaceae, Cactaceae, Liliaceae, Moraceae, Nympheaceae, Orchidaceaef. Cycads
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1093">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1093">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1093">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TIRGM
+9-International Agenda Registration: No
+9-Primary Email: agbr_sarbu@yahoo.com
+9-Telephone: +(40) 65 215 551
+9-URL: 

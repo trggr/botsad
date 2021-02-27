@@ -1,10 +1,18 @@
-ID:	4855
-Name:	Wimpole Hall 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Cambridgeshire - Royston  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Wimpole Hall The formal parterre to the north of the hall is laid out in Union flag style, best in May for tulips and in July for pelargoniums. Excellent displays of daffodils and narcissus from March to May can be seen throughout the gardens. The Pleasure Grounds contain an informal collection of ornamental trees and shrubs from North America, Europe and the Far East and a National Collection of walnut trees (Juglans sp.). Serpentine paths lead to the restored walled garden which contains the rebuilt 1790s glasshouses by Sir John Soane. There is a full hectare of walled vegetable garden, the produce of which is used in the restaurant.;  Main Address:; Wimpole Hall; Arrington; Royston; Cambridgeshire SG8 0BW United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/wimpole-estate/">http://www.nationaltrust.org.uk/wimpole-estate/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	52.140772
-Longitude:	-0.049924
+0-ID: 4855
+1-Name: Wimpole Hall 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Wimpole Hall        The formal parterre to the north of the hall is laid out in Union flag style, best in May for tulips and in July for pelargoniums. Excellent displays of daffodils and narcissus from March to May can be seen throughout the gardens. The Pleasure Grounds contain an informal collection of ornamental trees and shrubs from North America, Europe and the Far East and a National Collection of walnut trees (Juglans sp.).  Serpentine paths lead to the restored walled garden which contains the rebuilt 1790s glasshouses by Sir John Soane. There is a full hectare of walled vegetable garden, the produce of which is used in the restaurant.;                        Main Address:;         Wimpole Hall;         Arrington;                Royston;        Cambridgeshire SG8 0BW United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: http://www.nationaltrust.org.uk/wimpole-estate/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 52.140772
+2-Longitude: -0.049924
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4855">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4855">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4855">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4855">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4855">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602

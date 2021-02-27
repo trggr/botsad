@@ -1,9 +1,18 @@
-ID:	4769
-Name:	Arboretum of The Wilds 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Ohio - Cumberland  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of The Wilds; 14000 International Road; Cumberland; Ohio 43732 United States of America; ;  Telephone: (740) 638-5030; Fax: ; URL: <a target="_blank" href="http://www.thewilds.org">www.thewilds.org; Primary Email: information@thewilds.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.8249100
-Longitude:	-81.7493800
+0-ID: 4769
+1-Name: Arboretum of The Wilds 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of The Wilds;         14000 International Road;                Cumberland;        Ohio 43732 United States of America;        ;                 Telephone: (740) 638-5030;         Fax: ;         URL: www.thewilds.org;         Primary Email: information@thewilds.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.8249100
+2-Longitude: -81.7493800
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4769">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4769">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4769">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4769">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4769">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: information@thewilds.org
+9-Telephone: (740) 638-5030
+9-URL: www.thewilds.org

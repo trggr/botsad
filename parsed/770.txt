@@ -1,19 +1,24 @@
-ID:	770
-Name:	Clark Botanic Garden 
-Curator's Name:	
-Director's Name:	-
-Info:	  United States of America - New York - Albertson  ;Garden Information;  Institution Code: BKL; International Agenda Registration: No; BGCI Member: No; About the Clark Botanic Garden Founded in 1969, Clark Botanic Garden is a 12-acre living museum and educational facility. We are dedicated to understanding and appreciating the world's plant life through horticulture, education and research. Collections at the garden include native spring wildflowers, conifers, roses, perennials, daylilies, wetland plants, rock garden plants, herbs, butterfly plants, medicinal plants and over a dozen collections of particular plant families.;  Main Address:; Clark Botanic Garden; Town of North Hempstead; 193 I.U. Willets Road; Albertson; New York 11507 United States of America; ;  Telephone: (516) 484-8600; Fax: (516) 625-3718; URL: <a target="_blank" href="http://clarkbotanic.org/">http://clarkbotanic.org/; Primary Email: info@clarkgardens.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	40.7696660
-Longitude:	-73.6567870
-Total Area:	5 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Rosa, Rhododendron, herbs, wildflowers, ferns, marsh plants and day lilies.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
+0-ID: 770
+1-Name: Clark Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1969
+2-Info:              Institution Code: BKL;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Clark Botanic Garden        Founded in 1969, Clark Botanic Garden is a 12-acre living museum and educational facility. We are dedicated to understanding and appreciating the world's plant life through horticulture, education and research. Collections at the garden include native spring wildflowers, conifers, roses, perennials, daylilies, wetland plants, rock garden plants, herbs, butterfly plants, medicinal plants and over a dozen collections of particular plant families.;                        Main Address:;         Clark Botanic Garden;         Town of North Hempstead;        193 I.U. Willets Road;        Albertson;        New York 11507 United States of America;        ;                 Telephone: (516) 484-8600;         Fax: (516) 625-3718;         URL: http://clarkbotanic.org/;         Primary Email: info@clarkgardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.7696660
+2-Longitude: -73.6567870
+2-Total Area: 5 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Rosa, Rhododendron, herbs, wildflowers, ferns, marsh plants and day lilies.
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=770">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=770">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (516) 625-3718
+9-Institution Code: BKL
+9-International Agenda Registration: No
+9-Primary Email: info@clarkgardens.org
+9-Telephone: (516) 484-8600

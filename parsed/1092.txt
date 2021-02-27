@@ -1,11 +1,19 @@
-ID:	1092
-Name:	Gradina Botanica 
-Curator's Name:	
-Director's Name:	Dr Vasile Fati
-Info:	  Romania - Jibou  ;Garden Information;  Institution Code: JIBOS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gradina Botanica; Institutului de Cercetari Biologice din Jibou str. Parcului nr 14 4675 - JIBOU, Salaj, Romania.; Jibou; Romania; ;  Telephone: +(40) 60 641 617; Fax: +(40) 60 640 950; URL: <a target="_blank" href="http://">; Primary Email: ccb@rovena.ro ; 
-Plant Records Officer's Name:	
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	47.2650
-Longitude:	23.2614
-Special Collections:	Trees including Carya ovota, Cupressus arizonica, Rhododendron kotschyi, Taxodium distichum and Sequoiadendron giganteum. Begonia, Canna, Dianthus, Iris, Paeonia. Bromeliaceae, Begoniaceae, Cactaceae, Liliaceae, Moraceae, Nympheaceae, Orchidaceaef. Cycads
+0-ID: 1092
+1-Name: Gradina Botanica 
+2-Date founded: 1968
+2-Info:              Institution Code: JIBOS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gradina Botanica;         Institutului de Cercetari Biologice din Jibou str. Parcului nr 14 4675 -  JIBOU,  Salaj,  Romania.;                Jibou;        Romania;        ;                 Telephone: +(40) 60 641 617;         Fax: +(40)  60 640 950;         URL: ;         Primary Email: ccb@rovena.ro       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.2650
+2-Longitude: 23.2614
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1092">Please click here if you can update us</a>
+4-Special Collections: Trees including Carya ovota, Cupressus arizonica, Rhododendron kotschyi, Taxodium distichum and Sequoiadendron giganteum. Begonia, Canna, Dianthus, Iris, Paeonia. Bromeliaceae, Begoniaceae, Cactaceae, Liliaceae, Moraceae, Nympheaceae, Orchidaceaef. Cycads
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1092">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1092">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1092">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +(40)  60 640 950
+9-Institution Code: JIBOS
+9-International Agenda Registration: No
+9-Primary Email: ccb@rovena.ro
+9-Telephone: +(40) 60 641 617
+9-URL: 

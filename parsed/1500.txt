@@ -1,10 +1,19 @@
-ID:	1500
-Name:	Fukuoka Municipal Botanical Garden 
-Curator's Name:	Yugo Oda
-Director's Name:	Kinnosuke Yoshihara
-Info:	  Japan - Fukuoka  ;Garden Information;  Institution Code: FUKUO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fukuoka Municipal Botanical Garden; 1-1 Ozasa 5 Chome, Chuo-ku, Fukuoka City, Japan.; Fukuoka; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1980
-Institution Type:	Botanic Garden
-Latitude:	33.5860
-Longitude:	130.4007
+0-ID: 1500
+1-Name: Fukuoka Municipal Botanical Garden 
+2-Date founded: 1980
+2-Info:              Institution Code: FUKUO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Fukuoka Municipal Botanical Garden;         1-1 Ozasa 5 Chome, Chuo-ku,  Fukuoka City, Japan.;                Fukuoka;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.5860
+2-Longitude: 130.4007
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1500">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1500">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1500">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1500">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1500">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FUKUO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

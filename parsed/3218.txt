@@ -1,10 +1,18 @@
-ID:	3218
-Name:	Allan Gardens 
-Curator's Name:	Garth Armour, Manager of Horticulture, Conservatories and Greenhouses
-Director's Name:	-
-Info:	  Canada - Ontario - Toronto  ;Garden Information;  Institution Code: ALLAN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Allan Gardens; Department of Parks and Recreation; 19 Horticultural Avenue; Toronto; Ontario M5A 2P2 Canada; ;  Telephone: (416) 392-7288; Fax: ; URL: <a target="_blank" href="https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b2a9dada600f0410VgnVCM10000071d60f89RCRD">https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b2a9dada600f0410VgnVCM10000071d60f89RCRD; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	43.66203
-Longitude:	-79.37401
+0-ID: 3218
+1-Name: Allan Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ALLAN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Allan Gardens;         Department of Parks and Recreation;        19 Horticultural Avenue;        Toronto;        Ontario M5A 2P2 Canada;        ;                 Telephone: (416) 392-7288;         Fax: ;         URL: https://www1.toronto.ca/wps/portal/contentonly?vgnextoid=b2a9dada600f0410VgnVCM10000071d60f89RCRD;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.66203
+2-Longitude: -79.37401
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3218">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3218">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3218">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3218">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3218">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ALLAN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (416) 392-7288

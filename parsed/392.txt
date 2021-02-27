@@ -1,11 +1,25 @@
-ID:	392
-Name:	Jardin Botanique de la Ville de RENNES ( Jardin Botanique "Le Thabor" ) 
-Curator's Name:	
-Director's Name:	J.Le Rudulier
-Info:	  France - Rennes  ;Garden Information;  Institution Code: RENLT; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de la Ville de RENNES ( Jardin Botanique "Le Thabor" ) Location: RENNES; Founded: 1868 ; Garden Name: Jardin Botanique de la Ville de Rennes (Jardin Botanique "Le Thabor"); Address: Service des Jardins de la Ville de Rennes, 5 Boulevard de la Duchesse Anne, F-35000 RENNES.; Status: Municipal; Herbarium: Yes A;  Main Address:; Jardin Botanique de la Ville de RENNES ( Jardin Botanique "Le Thabor" ); Service des Jardins de la Ville de RENNES; 5 Boulevard de la Duchesse Anne; Rennes; F-35000 France; ;  Telephone: 33 2 99 28 55 55; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	48.1120
-Longitude:	-1.6884
-Special Collections:	Trees (129 spp.), shrubs (373) and herbaceous plants. Food plants, dye plants, ornamentals, oil plants. A systematic plant collection. Conifers (34 spp.).
+0-ID: 392
+1-Name: Jardin Botanique de la Ville de RENNES ( Jardin Botanique "Le Thabor" ) 
+2-Date founded: 
+2-Info:              Institution Code: RENLT;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique de la Ville de RENNES ( Jardin Botanique "Le Thabor" )        Location: RENNES; Founded: 1868 ; Garden Name: Jardin Botanique de la Ville de Rennes (Jardin Botanique "Le Thabor"); Address: Service des Jardins de la Ville de Rennes, 5 Boulevard de la Duchesse Anne, F-35000 RENNES.; Status: Municipal; Herbarium: Yes A;                        Main Address:;         Jardin Botanique de la Ville de RENNES ( Jardin Botanique "Le Thabor" );         Service des Jardins de la Ville de RENNES;        5 Boulevard de la Duchesse Anne;        Rennes;        F-35000 France;        ;                 Telephone: 33 2 99 28 55 55;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.1120
+2-Longitude: -1.6884
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=392">Please click here if you can update us</a>
+4-Special Collections: Trees (129 spp.), shrubs (373) and herbaceous plants. Food plants, dye plants, ornamentals, oil plants. A systematic plant collection. Conifers (34 spp.).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=392">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=392">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=392">Please click here if you can update us</a>
+9-About the Jardin Botanique de la Ville de RENNES ( Jardin Botanique "Le Thabor" )        Location: RENNES
+9-Address: Service des Jardins de la Ville de Rennes, 5 Boulevard de la Duchesse Anne, F-35000 RENNES.
+9-BGCI Member: No
+9-Fax: 
+9-Founded: 1868
+9-Garden Name: Jardin Botanique de la Ville de Rennes (Jardin Botanique "Le Thabor")
+9-Herbarium: Yes A
+9-Institution Code: RENLT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: Municipal
+9-Telephone: 33 2 99 28 55 55
+9-URL: 

@@ -1,13 +1,18 @@
-ID:	4136
-Name:	Sunshine Coast Botanical Garden 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Lori Pickering, President
-Educational Staff Number:	1
-Horticultural Staff Number:	
-Info:	  Canada - British Columbia - Sechelt  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Sunshine Coast Botanical Garden; Sunshine Coast Botanical Garden Society; P.O. Box 1518; Sechelt; British Columbia BC VON 3AO Canada; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.coastbotanicalgarden.org">www.coastbotanicalgarden.org; Primary Email: info@coastbotanicalgarden.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Institution Type:	Botanic Garden
-Latitude:	49.486583
-Longitude:	-123.802181
+0-ID: 4136
+1-Name: Sunshine Coast Botanical Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Sunshine Coast Botanical Garden;         Sunshine Coast Botanical Garden Society;        P.O. Box 1518;        Sechelt;        British Columbia BC VON 3AO Canada;        ;                 Telephone: ;         Fax: ;         URL: www.coastbotanicalgarden.org;         Primary Email: info@coastbotanicalgarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.486583
+2-Longitude: -123.802181
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4136">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4136">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4136">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4136">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4136">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: info@coastbotanicalgarden.org
+9-Telephone: 
+9-URL: www.coastbotanicalgarden.org

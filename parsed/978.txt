@@ -1,65 +1,69 @@
-ID:	978
-Name:	Botanic Garden of Petrozavodsk State University 
-Fax:	(8142) 789448
-Info:	  Russian Federation - Karelia - Petrozavodsk  ;Garden Information;  Institution Code: PZV; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	alpro@onego.ru
-Telephone:	(8142) 765482
-Administration Staff Number:	3
-Curator's Name:	Alexei Falin
-Director's Name:	Dr Alexei A. Prokhorov
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	Elena Platonova, Ph.D.
-Research Staff Number:	10
-Altitude:	0.00 Metres
-Date founded:	1951
-Institution Type:	Botanic Garden
-Latitude:	61.7822
-Longitude:	34.3620
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Cultivation Taxa Num:	1200
-Special Collections:	Arboretum is the oldest picturesque part of
-largest number of cultivars:	34, 25, 30 and 16 accordingly.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 978
+1-Name: Botanic Garden of Petrozavodsk State University 
+2-Administration Staff Number: 3
+2-Curator's Name: Alexei Falin
+2-Director's Name: Dr Alexei A. Prokhorov
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: PZV;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/978/bgpetrsu.JPG" alt="The famous place of Botanic Garden called «Devil’s Chair» is the shore outcrops and rock terraces with the abruption of volcanic formations of Suysar volcanic complex aged  approximately 1900 million." />         The famous place of Botanic Garden called «Devil’s Chair» is the shore outcrops and rock terraces with the abruption of volcanic formations of Suysar volcanic complex aged  approximately 1900 million.</div>        </div>                                    Main Address:;         Botanic Garden of Petrozavodsk State University;         Lenina av., 33;                Petrozavodsk;        Karelia 185910 Russian Federation;        ;                 Telephone: (8142) 765482;         Fax: (8142) 789448;         URL: hortus.karelia.ru;         Primary Email: alpro@onego.ru       ;              
+2-Plant Records Officer's Name: Elena Platonova, Ph.D.
+2-Research Staff Number: 10
+3-Altitude: 0.00 Metres
+3-Date founded: 1951
+3-Institution Type: Botanic Garden
+3-Latitude: 61.7822
+3-Longitude: 34.3620
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-Cultivation Taxa Num: 1200
+5-Special Collections: Arboretum is the oldest picturesque part of
+5-largest number of cultivars: 34, 25, 30 and 16 accordingly.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Agriculture: Yes
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: No
+7-Floristics: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: Yes
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Urban Environments: Yes
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: (8142) 789448
+9-Institution Code: PZV
+9-International Agenda Registration: Yes
+9-Primary Email: alpro@onego.ru
+9-Telephone: (8142) 765482
+9-URL: hortus.karelia.ru

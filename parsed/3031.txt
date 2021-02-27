@@ -1,11 +1,19 @@
-ID:	3031
-Name:	Jardim Botânico Amália HermanoTeixera 
-Curator's Name:	
-Director's Name:	Paulo Cesar Fornazier
-Info:	  Brazil - Goiás - Goiânia  ;Garden Information;  Institution Code: AGOI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico Amália HermanoTeixera; Alameda Botafogo s/no,Setor Pedro Ludovico; Goiânia; Goiás 74.820-010 Brazil; ;  Telephone: +55.62. 3524 3757; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jbgoiania@hotmail.com ; 
-Plant Records Officer's Name:	
-Date founded:	1997
-Institution Type:	Botanic Garden
-Latitude:	-16.6799
-Longitude:	-49.2550
-Special Collections:	Species of native cerrado vegetation.
+0-ID: 3031
+1-Name: Jardim Botânico Amália HermanoTeixera 
+2-Date founded: 1997
+2-Info:              Institution Code: AGOI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico Amália HermanoTeixera;         Alameda Botafogo s/no,Setor Pedro Ludovico;                Goiânia;        Goiás 74.820-010 Brazil;        ;                 Telephone: +55.62. 3524 3757;         Fax: ;         URL: ;         Primary Email: jbgoiania@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -16.6799
+2-Longitude: -49.2550
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3031">Please click here if you can update us</a>
+4-Special Collections: Species of native cerrado vegetation.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3031">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3031">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3031">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AGOI
+9-International Agenda Registration: No
+9-Primary Email: jbgoiania@hotmail.com
+9-Telephone: +55.62. 3524 3757
+9-URL: 

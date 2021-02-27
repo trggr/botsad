@@ -1,15 +1,20 @@
-ID:	3629
-Name:	Carib Territory Botanic Garden 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	The Director
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Info:	  Dominica - Carib Territory  ;Garden Information;  Institution Code: CARIB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Carib Territory Botanic Garden; Crayfish River; Carib Council; Carib Territory Dominica; ;  Telephone: 4457336; Fax: 4458849; URL: <a target="_blank" href="http://">; Primary Email: caribcouncil@hotmail.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	15.4149
-Longitude:	-61.3709
-Natural Vegetation Area:	No
+0-ID: 3629
+1-Name: Carib Territory Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: CARIB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Carib Territory Botanic Garden;         Crayfish River;        Carib Council;                Carib Territory Dominica;        ;                 Telephone: 4457336;         Fax: 4458849;         URL: ;         Primary Email: caribcouncil@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 15.4149
+2-Longitude: -61.3709
+2-Natural Vegetation Area: No
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3629">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3629">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3629">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3629">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3629">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 4458849
+9-Institution Code: CARIB
+9-International Agenda Registration: No
+9-Primary Email: caribcouncil@hotmail.com
+9-Telephone: 4457336
+9-URL: 

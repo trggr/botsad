@@ -1,19 +1,27 @@
-ID:	4786
-Name:	Brenthurst 
-Curator's Name:	
-Director's Name:	Strilli Oppenheimer
-Info:	  South Africa - Gauteng - Johannesburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Brenthurst; P.O. Box 1050, Houghton; Johannesburg; Gauteng 2041 South Africa; ;  Telephone: +27(0)11-646 4122; Fax: +27(0)11-646 1529; URL: <a target="_blank" href="http://www.brenthurstgardens.co.za">www.brenthurstgardens.co.za; Primary Email: thegarden@brenthurstgardens.co.za ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	-26.171587
-Longitude:	28.043894
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
+0-ID: 4786
+1-Name: Brenthurst 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Brenthurst;         P.O. Box 1050, Houghton;                Johannesburg;        Gauteng 2041 South Africa;        ;                 Telephone: +27(0)11-646 4122;         Fax: +27(0)11-646 1529;         URL: www.brenthurstgardens.co.za;         Primary Email: thegarden@brenthurstgardens.co.za       ;              
+2-Institution Type: Other
+2-Latitude: -26.171587
+2-Longitude: 28.043894
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Disabled access: No
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4786">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4786">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4786">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4786">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +27(0)11-646 1529
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: thegarden@brenthurstgardens.co.za
+9-Telephone: +27(0)11-646 4122
+9-URL: www.brenthurstgardens.co.za

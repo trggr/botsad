@@ -1,70 +1,74 @@
-ID:	2042
-Name:	Fairy Lake Botanical Garden, Shenzhen & Chinese Academy of Sciences 
-Fax:	86 (0)755 2570 4480
-Info:	  China - Guangdong - Shenzhen  ;Garden Information;  Institution Code: SHENZ; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	donghui@szbg.ac.cn
-Telephone:	86 (0)755 2570 4480
-Curator's Name:	Zhang Li
-Director's Name:	Mr. Yang Yi-Bao
-Plant Records Officer's Name:	JIN Hong
-Altitude:	300.00 Metres
-Annual Rainfall:	1933 mm
-Date founded:	1983
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	22.57
-Local Address:	中国广东省深圳市莲塘仙湖路160号，邮编 518004
-Locality:	Information
-Longitude:	114.01
-Natural Vegetation Area:	Yes
-Total Area:	546 Hectares
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	4000000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	8600
-Invasive Species Monitoring:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	Yes
-Pharmacology:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2042
+1-Name: Fairy Lake Botanical Garden, Shenzhen & Chinese Academy of Sciences 
+2-Curator's Name: Zhang Li
+2-Director's Name: Mr. Yang Yi-Bao
+2-Info:              Institution Code: SHENZ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/2042/Fig.jpg" alt="" />         </div>        </div>                           About the Fairy Lake Botanical Garden, Shenzhen & Chinese Academy of Sciences        Fairy Lake Botanical Garden was started to build in 1983 and opened to the public on May 1, 1988, with Wutong Mountain in the east and Shenzhen Reservoir in the west, occupying 546 hectares of land area. It serves multiple functions, including botanical research, scientific education, ex situ conservation, exhibition, and tourism. It is also the only integrated organization for botanical research, conservation and utilization in Shenzhen.;  The missions of SZBG are to preserve tropical and subtropical plants ex situ, to carry out both basic and applied research, to provide insights about urban greening and landscape, and to supply innovative environmental education. We strive to satisfy visitors to the Garden by providing both a picturesque landscape and exceptional service. We have archieved a series of academic accomplishments in basic research, with special reference to certain groups such as cycads, magnolias, bryophytes, ferns, African violet family (Gesneriaceae), and the study of plant genomes. To serve the rapidly growing city of Shenzhen, we have developed core technologies and products in applied research on urban gardening and landscapes, vertical greening, and the utilization of medicinal and ornamental plants. We supply exhibitions and courses in novel ways for the general public, with a special focus on children and teenagers.;                        Main Address:;         Fairy Lake Botanical Garden, Shenzhen & Chinese Academy of Sciences;         160 Xianhu Road;        Liantang, Luohu District;        Shenzhen;        Guangdong 518004 China;        ;                 Telephone: 86 (0)755 2570 4480;         Fax: 86 (0)755 2570 4480;         URL: www.szbg.ac.cn;         Primary Email: donghui@szbg.ac.cn       ;              
+2-Plant Records Officer's Name: JIN Hong
+3-Altitude: 300.00 Metres
+3-Annual Rainfall: 1933 mm
+3-Date founded: 1983
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 22.57
+3-Local Address: 中国广东省深圳市莲塘仙湖路160号，邮编 518004
+3-Locality: Information
+3-Longitude: 114.01
+3-Natural Vegetation Area: Yes
+3-Total Area: 546 Hectares
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 4000000
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Cultivation Taxa Num: 8600
+5-Invasive Species Monitoring: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: Yes
+7-Pharmacology: Yes
+7-Plant Breeding: Yes
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 86 (0)755 2570 4480
+9-Institution Code: SHENZ
+9-International Agenda Registration: Yes
+9-Primary Email: donghui@szbg.ac.cn
+9-Telephone: 86 (0)755 2570 4480
+9-URL: www.szbg.ac.cn

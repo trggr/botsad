@@ -1,39 +1,43 @@
-ID:	3129
-Name:	The Mediterranean Agronomic Institute of Chania 
-Fax:	+30 28210 35001
-Info:	  Greece - Crete - Chania  ;Garden Information;  Institution Code: CHAN; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	flora@maich.gr
-Telephone:	+30 28210 35000 (553)
-Administration Staff Number:	2
-Curator's Name:	Christini Fournaraki
-Director's Name:	Alkinoos Nikolaidis
-Educational Staff Number:	
-Horticultural Staff Number:	3
-Plant Records Officer's Name:	Polyxeni Galani
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Date founded:	2000
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	35.5090
-Local Address:	Makedonias str, Alsyllio Agrokypiou, P.O. Box 85
-Locality:	Information
-Longitude:	24.0253
-Natural Vegetation Area:	No
-Computer Plant Record System:	No
-Herbarium:	Yes
-Number of Visitors:	1000
-Seed Bank:	Yes
-Accession Number:	510
-Cultivation Taxa Num:	137
-Special Collections:	collection of 137 species of endemic, rare and endangered plants of Crete
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	No
-Conservation - Biology:	Yes
-Ecology:	Yes
-Seed/Spore Biology:	Yes
-Courses for School Children:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 3129
+1-Name: The Mediterranean Agronomic Institute of Chania 
+2-Administration Staff Number: 2
+2-Curator's Name: Christini Fournaraki
+2-Director's Name: Alkinoos Nikolaidis
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 3
+2-Info:              Institution Code: CHAN;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/3129/nikos.jpg" alt="Botanical Garden at MAICh" />         Botanical Garden at MAICh</div>        </div>                                    Main Address:;         The Mediterranean Agronomic Institute of Chania;         Alsyllio Agrokepiou, P.O.Box 85,;        Makedonias str;        Chania;        Crete 73100 Greece;        ;                 Telephone: +30 28210 35000 (553);         Fax: +30 28210 35001;         URL: www.maich.gr;         Primary Email: flora@maich.gr       ;              
+2-Plant Records Officer's Name: Polyxeni Galani
+2-Research Staff Number: 3
+3-Altitude: 0.00 Metres
+3-Date founded: 2000
+3-Institution Type: Botanic Garden
+3-Landscaped Area: No
+3-Latitude: 35.5090
+3-Local Address: Makedonias str, Alsyllio Agrokypiou, P.O. Box 85
+3-Locality: Information
+3-Longitude: 24.0253
+3-Natural Vegetation Area: No
+4-Computer Plant Record System: No
+4-Herbarium: Yes
+4-Number of Visitors: 1000
+4-Seed Bank: Yes
+5-Accession Number: 510
+5-Cultivation Taxa Num: 137
+5-Special Collections: collection of 137 species of endemic, rare and endangered plants of Crete
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Reintroduction Programme: No
+7-Conservation - Biology: Yes
+7-Ecology: Yes
+7-Seed/Spore Biology: Yes
+8-Courses for School Children: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: +30 28210 35001
+9-Institution Code: CHAN
+9-International Agenda Registration: No
+9-Primary Email: flora@maich.gr
+9-Telephone: +30 28210 35000 (553)
+9-URL: www.maich.gr

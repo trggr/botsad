@@ -1,29 +1,30 @@
-ID:	371
-Name:	Royal Veterinary and Agricultural University Arboretum 
-Administration Staff Number:	2
-Curator's Name:	Jerry Leverenz
-Director's Name:	
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Info:	  Denmark - Hørsholm  ;Garden Information;  Institution Code: HORSH; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Royal Veterinary and Agricultural University Arboretum; Kirkegardsvej 3A; Hørsholm; DK-2970 Denmark; ;  Telephone: 3528 1502; Fax: 3528 1511; URL: <a target="_blank" href="http://www.arboretet.dk">www.arboretet.dk; Primary Email: jwl@kvl.dk ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	40.00 Metres
-Date founded:	1936
-Institution Type:	Botanic Garden
-Latitude:	55.8666
-Longitude:	12.5000
-Satellite Garden Names:	Forstboanisk Have, Charlottenlund
-Total Area:	25 Hectares
-Arboretum Size:	25
-Computer Plant Record System:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Accession Number:	13000
-Cultivation Taxa Num:	2200
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
+0-ID: 371
+1-Name: Royal Veterinary and Agricultural University Arboretum 
+2-Altitude: 40.00 Metres
+2-Date founded: 1936
+2-Info:              Institution Code: HORSH;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Royal Veterinary and Agricultural University Arboretum;         Kirkegardsvej 3A;                Hørsholm;        DK-2970 Denmark;        ;                 Telephone: 3528 1502;         Fax: 3528 1511;         URL: www.arboretet.dk;         Primary Email: jwl@kvl.dk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.8666
+2-Longitude: 12.5000
+2-Satellite Garden Names: Forstboanisk Have, Charlottenlund
+2-Total Area: 25 Hectares
+3-Arboretum Size: 25
+3-Computer Plant Record System: Yes
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-Accession Number: 13000
+4-Cultivation Taxa Num: 2200
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=371">Please click here if you can update us</a>
+6-Conservation - Genetics: Yes
+6-Ecology: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+9-BGCI Member: No
+9-Fax: 3528 1511
+9-Institution Code: HORSH
+9-International Agenda Registration: Yes
+9-Primary Email: jwl@kvl.dk
+9-Telephone: 3528 1502
+9-URL: www.arboretet.dk

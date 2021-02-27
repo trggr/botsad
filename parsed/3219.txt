@@ -1,10 +1,19 @@
-ID:	3219
-Name:	Appleby College Campus 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Canada - Ontario - Oakville  ;Garden Information;  Institution Code: APPLE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Appleby College Campus; 540 Lakeshore Road West; Oakville; Ontario L6P 3P1 Canada; ;  Telephone: (905) 845-4681; Fax: ; URL: <a target="_blank" href="http://www.appleby.on.ca">www.appleby.on.ca; Primary Email: info@appleby.on.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	43.42647
-Longitude:	-79.68549
+0-ID: 3219
+1-Name: Appleby College Campus 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: APPLE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Appleby College Campus;         540 Lakeshore Road West;                Oakville;        Ontario L6P 3P1 Canada;        ;                 Telephone: (905) 845-4681;         Fax: ;         URL: www.appleby.on.ca;         Primary Email: info@appleby.on.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.42647
+2-Longitude: -79.68549
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3219">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3219">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3219">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3219">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3219">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: APPLE
+9-International Agenda Registration: No
+9-Primary Email: info@appleby.on.ca
+9-Telephone: (905) 845-4681
+9-URL: www.appleby.on.ca

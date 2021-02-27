@@ -1,11 +1,19 @@
-ID:	735
-Name:	Water Isle Botanical Garden Inc. 
-Curator's Name:	
-Director's Name:	Dr. Walter H. Phillips
-Info:	  Virgin Islands (U.S.) - Virgin Islands  ;Garden Information;  Institution Code: WATER; International Agenda Registration: No; BGCI Member: No;  Main Address:; Water Isle Botanical Garden Inc.; Water Island, St THOMAS, U.S Virgin Islands 00801; Virgin Islands; Virgin Islands (U.S.); ;  Telephone: 809 774 0646; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1966
-Institution Type:	Botanic Garden
-Latitude:	18.31721
-Longitude:	-64.9547
-Special Collections:	Orchidaceae, Bromeliaceae, Cactaceae, Asclepiadaceae, native Virgin Island plants.
+0-ID: 735
+1-Name: Water Isle Botanical Garden Inc. 
+2-Date founded: 1966
+2-Info:              Institution Code: WATER;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Water Isle Botanical Garden Inc.;         Water Island, St THOMAS, U.S Virgin Islands 00801;                Virgin Islands;        Virgin Islands (U.S.);        ;                 Telephone: 809 774 0646;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.31721
+2-Longitude: -64.9547
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=735">Please click here if you can update us</a>
+4-Special Collections: Orchidaceae, Bromeliaceae, Cactaceae, Asclepiadaceae, native Virgin Island plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=735">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=735">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=735">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WATER
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 809 774 0646
+9-URL: 

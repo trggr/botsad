@@ -1,11 +1,19 @@
-ID:	81
-Name:	Botanischer Garten der Universität Freiburg 
-Curator's Name:	
-Director's Name:	Prof. Dr. T. Speck
-Info:	  Germany - Deutschland - Freiburg  ;Garden Information;  Institution Code: FB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Universität Freiburg; Schaenzlestrasse 1, D-79104 FREIBURG IM BREISGAU, Germany.; Freiburg; Germany - Deutschland; ;  Telephone: 0761 12032707; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	48.0103
-Longitude:	7.8865
-Special Collections:	Pteridophyta, conifera, flora of the Tertiary
+0-ID: 81
+1-Name: Botanischer Garten der Universität Freiburg 
+2-Date founded: 
+2-Info:              Institution Code: FB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanischer Garten der Universität Freiburg;         Schaenzlestrasse 1, D-79104 FREIBURG IM BREISGAU, Germany.;                Freiburg;        Germany - Deutschland;        ;                 Telephone: 0761 12032707;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.0103
+2-Longitude: 7.8865
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=81">Please click here if you can update us</a>
+4-Special Collections: Pteridophyta, conifera, flora of the Tertiary
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=81">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=81">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=81">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0761 12032707
+9-URL: 

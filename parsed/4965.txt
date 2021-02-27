@@ -1,22 +1,26 @@
-ID:	4965
-Name:	Lovett Pinetum 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Nick Baker
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Info:	  United States of America - Missouri - Strafford  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Lovett Pinetum Lovett Pinetum was established in 1997 to gain practical knowledge of the best methods for growing many species of pine trees under defined soil and climate conditions. Our mission has expanded to include all conifer species and multiple regions. At present the pinetum is comprised of 188 acres at three different sites in Missouri (Pearson Creek), Texas (Angelina) and California (Alder Springs). Our conifer collection contains over 3500 trees covering more than 500 varieties.;  Main Address:; Lovett Pinetum; 2706 North Pearson Valley Drive; Strafford; Missouri 65757 United States of America; ;  Telephone: (417) 868-8995; Fax: ; URL: <a target="_blank" href="http://www.lovettpinetum.org">www.lovettpinetum.org; Primary Email: info@lovettpinetum.org ; 
-Plant Records Officer's Name:	Daniel Baird
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1997
-Institution Type:	Botanic Garden
-Latitude:	37.24176
-Longitude:	-93.15161
-Satellite Garden Names:	Angelina (TX) Alder Springs (CA)
-Total Area:	76 Hectares
-Computer Plant Record System:	Yes
-Accession Number:	3999
-Cultivation Taxa Num:	534
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
+0-ID: 4965
+1-Name: Lovett Pinetum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1997
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level II       ;                                          About the Lovett Pinetum        Lovett Pinetum was established in 1997 to gain practical knowledge of the best methods for growing many species of pine trees under defined soil and climate conditions.  Our mission has expanded to include all conifer species and multiple regions.  At present the pinetum is comprised of 188 acres at three different sites in Missouri (Pearson Creek), Texas (Angelina) and California (Alder Springs).  Our conifer collection contains over 3500 trees covering more than 500 varieties.;                        Main Address:;         Lovett Pinetum;         2706 North Pearson Valley Drive;                Strafford;        Missouri 65757 United States of America;        ;                 Telephone: (417) 868-8995;         Fax: ;         URL: www.lovettpinetum.org;         Primary Email: info@lovettpinetum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.24176
+2-Longitude: -93.15161
+2-Satellite Garden Names: Angelina (TX) Alder Springs (CA)
+2-Total Area: 76 Hectares
+3-Computer Plant Record System: Yes
+4-Accession Number: 3999
+4-Cultivation Taxa Num: 534
+4-Invasive Species Monitoring: Yes
+4-Plant Collection Policy: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4965">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4965">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4965">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@lovettpinetum.org
+9-Telephone: (417) 868-8995
+9-URL: www.lovettpinetum.org

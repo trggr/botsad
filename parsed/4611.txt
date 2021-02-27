@@ -1,9 +1,18 @@
-ID:	4611
-Name:	Horticultural Arts & Park Institute, Inc. 
-Curator's Name:	
-Director's Name:	Kenneth Colen, Trustee
-Info:	  United States of America - Florida - Ocala  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Horticultural Arts & Park Institute, Inc.; Sholom Park; 6840 SW 80th Avenue; Ocala; Florida 34481 United States of America; ;  Telephone: (352) 854-0805; Fax: ; URL: <a target="_blank" href="http://www.hapi-info.org">www.hapi-info.org; Primary Email: sholomparkocala@yahoo.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	29.1155950
-Longitude:	-82.2542300
+0-ID: 4611
+1-Name: Horticultural Arts & Park Institute, Inc. 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Horticultural Arts & Park Institute, Inc.;         Sholom Park;        6840 SW 80th Avenue;        Ocala;        Florida 34481 United States of America;        ;                 Telephone: (352) 854-0805;         Fax: ;         URL: www.hapi-info.org;         Primary Email: sholomparkocala@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.1155950
+2-Longitude: -82.2542300
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4611">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4611">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4611">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4611">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4611">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: sholomparkocala@yahoo.com
+9-Telephone: (352) 854-0805
+9-URL: www.hapi-info.org

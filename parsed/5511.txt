@@ -1,9 +1,18 @@
-ID:	5511
-Name:	National Academy of Sciences, Kyrgyzstan SEED BANK 
-Curator's Name:	
-Director's Name:	
-Info:	  Kyrgyzstan - Bishkek  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; National Academy of Sciences, Kyrgyzstan SEED BANK; 1-a Akhunbaeva str.; Bishkek; 720064 Kyrgyzstan; ;  Telephone: +996(312)517355, 517932; Fax: ; URL: <a target="_blank" href="http://www.botanica.kg">www.botanica.kg; Primary Email: umralina@mail.ru ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	42.90
-Longitude:	74.60
+0-ID: 5511
+1-Name: National Academy of Sciences, Kyrgyzstan SEED BANK 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         National Academy of Sciences, Kyrgyzstan SEED BANK;         1-a  Akhunbaeva str.;                Bishkek;        720064 Kyrgyzstan;        ;                 Telephone: +996(312)517355, 517932;         Fax: ;         URL: www.botanica.kg;         Primary Email: umralina@mail.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.90
+2-Longitude: 74.60
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5511">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5511">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5511">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5511">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5511">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: umralina@mail.ru
+9-Telephone: +996(312)517355, 517932
+9-URL: www.botanica.kg

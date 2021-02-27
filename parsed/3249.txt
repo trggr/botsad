@@ -1,11 +1,19 @@
-ID:	3249
-Name:	Jardin Botanico de Cordoba 
-Curator's Name:	
-Director's Name:	NK
-Info:	  Colombia - Monteria  ;Garden Information;  Institution Code: CMCO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Cordoba; Universidad de Cordoba, MONTERIA,Colombia; Monteria; 14004 Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	8.7597
-Longitude:	-75.8873
-Special Collections:	Germplasm bank of Andalusian plants (including +3,000 accessions, representing 1,500 taxa), ethnobotanical plants and a museum of ethnobotanical artefacts, greenhouse collections including ornamental plants, economic plants, Agavaceae and Cactaceae, plant
+0-ID: 3249
+1-Name: Jardin Botanico de Cordoba 
+2-Date founded: 
+2-Info:              Institution Code: CMCO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico de Cordoba;         Universidad de Cordoba, MONTERIA,Colombia;                Monteria;        14004 Colombia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 8.7597
+2-Longitude: -75.8873
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3249">Please click here if you can update us</a>
+4-Special Collections: Germplasm bank of Andalusian plants (including +3,000 accessions, representing 1,500 taxa), ethnobotanical plants and a museum of ethnobotanical artefacts, greenhouse collections including ornamental plants, economic plants, Agavaceae and Cactaceae, plant
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3249">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3249">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3249">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CMCO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

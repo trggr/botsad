@@ -1,11 +1,19 @@
-ID:	427
-Name:	Botanischer Garten Ernst-Moritz-Arndt-Universitat 
-Curator's Name:	Dr.Peter Konig
-Director's Name:	Prof.Dr.sc.nat.Franz Fukarek
-Info:	  Germany - Deutschland - Greifswald  ;Garden Information;  Institution Code: GFW; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten Ernst-Moritz-Arndt-Universitat; Grimmer Strasse 88, D-17489 GREIFSWALD, Germany; Greifswald; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	54.0842
-Longitude:	13.3717
-Special Collections:	Orchids, Rhododendron (350 spp. and hybrids), woody plants
+0-ID: 427
+1-Name: Botanischer Garten Ernst-Moritz-Arndt-Universitat 
+2-Date founded: 
+2-Info:              Institution Code: GFW;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanischer Garten Ernst-Moritz-Arndt-Universitat;         Grimmer Strasse 88,  D-17489 GREIFSWALD,  Germany;                Greifswald;        Germany - Deutschland;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 54.0842
+2-Longitude: 13.3717
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=427">Please click here if you can update us</a>
+4-Special Collections: Orchids, Rhododendron (350 spp. and hybrids), woody plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=427">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=427">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=427">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: GFW
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

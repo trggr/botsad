@@ -1,12 +1,20 @@
-ID:	988
-Name:	The V.I. Lenin State University Botanical Garden 
-Curator's Name:	
-Director's Name:	Dr. Kh. A. Azimov
-Info:	  Uzbekistan - Tashkent  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The V.I. Lenin State University Botanical Garden; Farady 402, TASHKENT 700 000, Uzbekistan, RETURNED 1994; Tashkent; Uzbekistan; ;  Telephone: 46 54 09; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1960
-Institution Type:	Botanic Garden
-Latitude:	47.67
-Longitude:	64.91
-Special Collections:	Rosarium, ornamental, medicinal, vineyard, pomology garden.
+0-ID: 988
+1-Name: The V.I. Lenin State University Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1960
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The V.I. Lenin State University Botanical Garden;         Farady 402,  TASHKENT 700 000, Uzbekistan,   RETURNED 1994;                Tashkent;        Uzbekistan;        ;                 Telephone: 46 54 09;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.67
+2-Longitude: 64.91
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=988">Please click here if you can update us</a>
+4-Special Collections: Rosarium, ornamental, medicinal, vineyard, pomology garden.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=988">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=988">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=988">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 46 54 09
+9-URL: 

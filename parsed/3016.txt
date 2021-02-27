@@ -1,11 +1,19 @@
-ID:	3016
-Name:	Blumeninsel Mainau GmbH 
-Curator's Name:	
-Director's Name:	
-Info:	  Germany - Deutschland - Insel Mainau  ;Garden Information;  Institution Code: MAINA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Blumeninsel Mainau GmbH; D-78465 Insel Mainau; Insel Mainau; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.bolsasecologicasmexico.com">www.bolsasecologicasmexico.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	47.7278
-Longitude:	9.1450
-Special Collections:	Tress and shrubs in a 150 year old arboretum, orchids (260 spp. And 4,000 hybrids), subtropical palms (25 spp.)
+0-ID: 3016
+1-Name: Blumeninsel Mainau GmbH 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MAINA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Blumeninsel Mainau GmbH;         D-78465 Insel Mainau;                Insel Mainau;        Germany - Deutschland;        ;                 Telephone: ;         Fax: ;         URL: www.bolsasecologicasmexico.com;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 47.7278
+2-Longitude: 9.1450
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3016">Please click here if you can update us</a>
+4-Special Collections: Tress and shrubs in a 150 year old arboretum, orchids (260 spp. And 4,000 hybrids), subtropical palms (25 spp.)
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3016">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3016">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3016">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MAINA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.bolsasecologicasmexico.com

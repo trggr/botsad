@@ -1,11 +1,19 @@
-ID:	458
-Name:	Horticultural Experiment and Training Centre 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Saharanpur  ;Garden Information;  Institution Code: SAHRP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Horticultural Experiment and Training Centre; SAHARANPUR 247 001, Uttar Pradesh, India.; Saharanpur; India; ;  Telephone: 3126; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	29.9670
-Longitude:	77.5445
-Special Collections:	Tropical and subtropical fruits and ornamental plants. Economic plants (such as Ilex paraguensis, Macademia ternifolia, Ficus retusa, Gleditschia ferox, Haematoxylon campechianum, Koelreuteria paniculata, Pithecelobium saman, Schotia brachyptala and Zamia
+0-ID: 458
+1-Name: Horticultural Experiment and Training Centre 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SAHRP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Horticultural Experiment and Training Centre;         SAHARANPUR 247 001,  Uttar Pradesh,  India.;                Saharanpur;        India;        ;                 Telephone: 3126;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 29.9670
+2-Longitude: 77.5445
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=458">Please click here if you can update us</a>
+4-Special Collections: Tropical and subtropical fruits and ornamental plants. Economic plants (such as Ilex paraguensis, Macademia ternifolia, Ficus retusa, Gleditschia ferox, Haematoxylon campechianum, Koelreuteria paniculata, Pithecelobium saman, Schotia brachyptala and Zamia
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=458">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=458">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=458">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SAHRP
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 3126
+9-URL: 

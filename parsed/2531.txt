@@ -1,20 +1,27 @@
-ID:	2531
-Name:	Mounts Botanical Garden 
-Curator's Name:	Michael Page, Horticulture Supervisor
-Director's Name:	Rochelle Wolberg, Interim Operations Manager/Director of Programs
-Info:	  United States of America - Florida - West Palm Beach  ;Garden Information;  Institution Code: WPB; International Agenda Registration: No; BGCI Member: No; About the Mounts Botanical Garden MOUNTS Botanical Garden promotes gardens and gardening unique to the subtropics. The Garden exhibits and evaluates materials environmentally suitable for home, commercial and public landscapes while providing opportunities for people of all ages and backgrounds to learn the art, science and joy of gardening.;  Main Address:; Mounts Botanical Garden; 559 North Military Trail; West Palm Beach; Florida 33415-1395 United States of America; ;  Telephone: (561) 233-1751; Fax: (561) 233-1763; URL: <a target="_blank" href="http://www.mounts.org">www.mounts.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	7.62 Metres
-Annual Rainfall:	1557 mm
-Date founded:	1983
-Institution Type:	Botanic Garden
-Latitude:	26.6856690
-Longitude:	-80.1149230
-Total Area:	5 Hectares
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	50000
-Open to public:	Yes
-Courses for General Public:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2531
+1-Name: Mounts Botanical Garden 
+2-Altitude: 7.62 Metres
+2-Annual Rainfall: 1557 mm
+2-Date founded: 1983
+2-Info:              Institution Code: WPB;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Mounts Botanical Garden        MOUNTS Botanical Garden promotes gardens and gardening unique to the subtropics.  The Garden exhibits and evaluates materials environmentally suitable for home, commercial and public landscapes while providing opportunities for people of all ages and backgrounds to learn the art, science and joy of gardening.;                        Main Address:;         Mounts Botanical Garden;         559 North Military Trail;                West Palm Beach;        Florida 33415-1395 United States of America;        ;                 Telephone: (561) 233-1751;         Fax: (561) 233-1763;         URL: www.mounts.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 26.6856690
+2-Longitude: -80.1149230
+2-Total Area: 5 Hectares
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 50000
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2531">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2531">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2531">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Guided Tours: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (561) 233-1763
+9-Institution Code: WPB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (561) 233-1751
+9-URL: www.mounts.org

@@ -1,12 +1,20 @@
-ID:	79
-Name:	Botanische Tuin Elsloo 
-Curator's Name:	P.J.Habets
-Director's Name:	
-Info:	  Netherlands - Elsloo  ;Garden Information;  Institution Code: ELSL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanische Tuin Elsloo; PO Box 575, NL-6180 NB ELSLOO, The Netherlands.; Elsloo; Netherlands; ;  Telephone: 04490 74870; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1972
-Institution Type:	Botanic Garden
-Latitude:	50.9474
-Longitude:	5.7743
-Special Collections:	Medicinal plants, ferns, Aconitum
+0-ID: 79
+1-Name: Botanische Tuin Elsloo 
+2-Altitude: 0.00 Metres
+2-Date founded: 1972
+2-Info:              Institution Code: ELSL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanische Tuin Elsloo;         PO Box 575,  NL-6180 NB ELSLOO,  The Netherlands.;                Elsloo;        Netherlands;        ;                 Telephone: 04490 74870;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.9474
+2-Longitude: 5.7743
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=79">Please click here if you can update us</a>
+4-Special Collections: Medicinal plants, ferns, Aconitum
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=79">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=79">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=79">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ELSL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 04490 74870
+9-URL: 

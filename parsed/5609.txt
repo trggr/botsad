@@ -1,9 +1,18 @@
-ID:	5609
-Name:	Parque Histórico Guayaquil 
-Curator's Name:	
-Director's Name:	Pilar Alvarado Delgado
-Info:	  Ecuador - Guayas - Samborondón  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parque Histórico Guayaquil; Av. Central y Av. Río Esmeraldas; Samborondón; Guayas Ecuador; ;  Telephone: 593 (04) 283-2958; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: pilar.alvarado@guayaquilturismoep.gob.ec ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-2.14442
-Longitude:	-79.8695
+0-ID: 5609
+1-Name: Parque Histórico Guayaquil 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Parque Histórico Guayaquil;         Av. Central y Av. Río Esmeraldas;                Samborondón;        Guayas Ecuador;        ;                 Telephone: 593 (04) 283-2958;         Fax: ;         URL: ;         Primary Email: pilar.alvarado@guayaquilturismoep.gob.ec       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -2.14442
+2-Longitude: -79.8695
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5609">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5609">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5609">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5609">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5609">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: pilar.alvarado@guayaquilturismoep.gob.ec
+9-Telephone: 593 (04) 283-2958
+9-URL: 

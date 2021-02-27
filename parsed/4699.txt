@@ -1,9 +1,17 @@
-ID:	4699
-Name:	North Carolina Museum of Natural Sciences 
-Curator's Name:	William Hasse, Coordinator, Conservatory & Tropical Education
-Director's Name:	Harry Warren, Director of Forestry
-Info:	  United States of America - North Carolina - Raleigh  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; North Carolina Museum of Natural Sciences; 11 West Jones Street; Raleigh; North Carolina 27601 United States of America; ;  Telephone: (919) 733-7450; Fax: ; URL: <a target="_blank" href="http://naturalsciences.org/">http://naturalsciences.org/; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	35.7824290
-Longitude:	-78.6394980
+0-ID: 4699
+1-Name: North Carolina Museum of Natural Sciences 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         North Carolina Museum of Natural Sciences;         11 West Jones Street;                Raleigh;        North Carolina 27601 United States of America;        ;                 Telephone: (919) 733-7450;         Fax: ;         URL: http://naturalsciences.org/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.7824290
+2-Longitude: -78.6394980
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4699">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4699">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4699">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4699">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4699">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (919) 733-7450

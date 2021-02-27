@@ -1,11 +1,19 @@
-ID:	2104
-Name:	Jardim Botânico de Caxias do Sul 
-Curator's Name:	
-Director's Name:	Ronaldo Wasum
-Info:	  Brazil - CAXIAS DO SUL  ;Garden Information;  Institution Code: CAXSU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico de Caxias do Sul; Campus Universitario, R. Francisco Getulio Vargas 1130,; B. Petropolis, C.P. 1352-95001,; CAXIAS DO SUL; 95070 Brazil; ;  Telephone: 55 (0)54 222 4133; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	-29.1678
-Longitude:	-51.1793
-Special Collections:	Araucaria forest species.
+0-ID: 2104
+1-Name: Jardim Botânico de Caxias do Sul 
+2-Date founded: 1990
+2-Info:              Institution Code: CAXSU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico de Caxias do Sul;         Campus Universitario, R. Francisco Getulio Vargas 1130,;        B. Petropolis, C.P. 1352-95001,;        CAXIAS DO SUL;        95070 Brazil;        ;                 Telephone: 55 (0)54 222 4133;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -29.1678
+2-Longitude: -51.1793
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2104">Please click here if you can update us</a>
+4-Special Collections: Araucaria forest species.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2104">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2104">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2104">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CAXSU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 55 (0)54 222 4133
+9-URL: 

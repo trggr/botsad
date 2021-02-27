@@ -1,9 +1,17 @@
-ID:	4749
-Name:	DeBolt Gardens 
-Curator's Name:	
-Director's Name:	Lindsay Manuel, President, Foundation Board
-Info:	  United States of America - Hawaii - Piiholo, Maui  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; DeBolt Gardens; Piiholo, Maui; Hawaii United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://m.facebook.com/DeboltGardensFoundation?id=120185814808332&_rdr">https://m.facebook.com/DeboltGardensFoundation?id=120185814808332&_rdr; Primary Email: deboltgardensfoundation@yahoo.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	20.83286
-Longitude:	-156.28548
+0-ID: 4749
+1-Name: DeBolt Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         DeBolt Gardens;                         Piiholo, Maui;        Hawaii United States of America;        ;                 Telephone: ;         Fax: ;         URL: https://m.facebook.com/DeboltGardensFoundation?id=120185814808332&_rdr;         Primary Email: deboltgardensfoundation@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.83286
+2-Longitude: -156.28548
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4749">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4749">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4749">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4749">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4749">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: deboltgardensfoundation@yahoo.com
+9-Telephone: 

@@ -1,75 +1,80 @@
-ID:	5220
-Name:	Grigadale Arboretum 
-Fax:	
-Info:	  Argentina - Buenos Aires - Loberia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
-Primary Email:	roderick@grigadale.org
-Telephone:	+59 899 239 338
-Curator's Name:	Roderick Cameron, Curator
-Director's Name:	Roderick Cameron, Curator
-Plant Records Officer's Name:	
-Altitude:	45.00 Metres
-Annual Rainfall:	900 mm
-Date founded:	1992
-Institution Type:	Private Collection
-Landscaped Area:	Yes
-Latitude:	-38.355720
-Local Address:	
-Locality:	Information
-Longitude:	-58.681341
-Natural Vegetation Area:	No
-Total Area:	5 Hectares
-Arboretum:	Yes
-Arboretum Size:	3
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	169
-Cultivation Taxa Num:	139
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	Plant collections consists of species, hybrids and cultivars of the genus Quercus.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	No
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 5220
+1-Name: Grigadale Arboretum 
+2-Curator's Name: Roderick Cameron, Curator
+2-Director's Name: Roderick Cameron, Curator
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level I       ;                                       <img src="/photos/5220/32-P1030288 - Copy.jpg" alt="Quercus texana, autumn colour" />         Quercus texana, autumn colour</div>        </div>                           About the Grigadale Arboretum        Private arboretum featuring a collection of Quercus (species, hybrids, cultivars).;                        Main Address:;         Grigadale Arboretum;         Ruta 55, km 5, Pieres, C. C. 169;                Loberia;        Buenos Aires 7635 Argentina;        ;                 Telephone: +59 899 239 338;         Fax: ;         URL: www.grigadale.org;         Primary Email: roderick@grigadale.org       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 45.00 Metres
+3-Annual Rainfall: 900 mm
+3-Date founded: 1992
+3-Institution Type: Private Collection
+3-Landscaped Area: Yes
+3-Latitude: -38.355720
+3-Local Address: 
+3-Locality: Information
+3-Longitude: -58.681341
+3-Natural Vegetation Area: No
+3-Total Area: 5 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 3
+4-Computer Plant Record System: No
+4-Disabled access: No
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: No
+5-Accession Number: 169
+5-Cultivation Taxa Num: 139
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+5-Special Collections: Plant collections consists of species, hybrids and cultivars of the genus Quercus.
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: No
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-ArbNet Accredited: Level I
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: roderick@grigadale.org
+9-Telephone: +59 899 239 338
+9-URL: www.grigadale.org

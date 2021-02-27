@@ -1,9 +1,18 @@
-ID:	4569
-Name:	John R. Rodman Arboretum 
-Curator's Name:	
-Director's Name:	Joe Clements, Arboretum & Grounds Manager
-Info:	  United States of America - California - Claremont  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; John R. Rodman Arboretum; Pitzer College; 1050 North Mills Avenue; Claremont; California 91711 United States of America; ;  Telephone: (909) 607-3608; Fax: ; URL: <a target="_blank" href="http://www.pitzer.edu/offices/arboretum">www.pitzer.edu/offices/arboretum; Primary Email: joe_clements@pitzer.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	34.1041294
-Longitude:	-117.7063608
+0-ID: 4569
+1-Name: John R. Rodman Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         John R. Rodman Arboretum;         Pitzer College;        1050 North Mills Avenue;        Claremont;        California 91711 United States of America;        ;                 Telephone: (909) 607-3608;         Fax: ;         URL: www.pitzer.edu/offices/arboretum;         Primary Email: joe_clements@pitzer.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.1041294
+2-Longitude: -117.7063608
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4569">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4569">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4569">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4569">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4569">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: joe_clements@pitzer.edu
+9-Telephone: (909) 607-3608
+9-URL: www.pitzer.edu/offices/arboretum

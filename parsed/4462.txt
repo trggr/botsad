@@ -1,14 +1,18 @@
-ID:	4462
-Name:	Wing Haven Gardens 
-Administration Staff Number:	4
-Curator's Name:	Jeffrey Drum, Garden Curator
-Director's Name:	Heather Seifert, Executive Director
-Educational Staff Number:	2
-Horticultural Staff Number:	4
-Info:	  United States of America - North Carolina - Charlotte  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wing Haven Gardens; 248 Ridgewood Avenue; Charlotte; North Carolina 28209 United States of America; ;  Telephone: (704) 331-0664; Fax: (704) 331-9368; URL: <a target="_blank" href="http://www.winghavengardens.com">www.winghavengardens.com; Primary Email: winghavengardens@carolina.rr.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Institution Type:	Botanic Garden
-Latitude:	35.1789860
-Longitude:	-80.8408780
-Number of Volunteers:	300
+0-ID: 4462
+1-Name: Wing Haven Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wing Haven Gardens;         248 Ridgewood Avenue;                Charlotte;        North Carolina 28209 United States of America;        ;                 Telephone: (704) 331-0664;         Fax: (704) 331-9368;         URL: www.winghavengardens.com;         Primary Email: winghavengardens@carolina.rr.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.1789860
+2-Longitude: -80.8408780
+3-Number of Volunteers: 300
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4462">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4462">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4462">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4462">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (704) 331-9368
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: winghavengardens@carolina.rr.com
+9-Telephone: (704) 331-0664
+9-URL: www.winghavengardens.com

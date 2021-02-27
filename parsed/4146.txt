@@ -1,9 +1,18 @@
-ID:	4146
-Name:	Medicinal Plant Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Tokyo - Shinagawa ku  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Medicinal Plant Garden; Hoshi University; 2-4-41, Ebara,; Shinagawa ku; Tokyo 142-8501 Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: nagumo@hoshi.ac.jp ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	36.3037
-Longitude:	136.3148
+0-ID: 4146
+1-Name: Medicinal Plant Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Medicinal Plant Garden;         Hoshi University;        2-4-41, Ebara,;        Shinagawa ku;        Tokyo 142-8501 Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: nagumo@hoshi.ac.jp       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.3037
+2-Longitude: 136.3148
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4146">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4146">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4146">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4146">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4146">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: nagumo@hoshi.ac.jp
+9-Telephone: 
+9-URL: 

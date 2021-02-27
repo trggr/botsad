@@ -1,10 +1,19 @@
-ID:	849
-Name:	Jardin Botanique de Universite d‘Alger 
-Curator's Name:	
-Director's Name:	The Director
-Info:	  Algeria - Alger  ;Garden Information;  Institution Code: ALGER; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique de Universite d‘Alger; Universite d' Alger; 2 rue Didouche Mourad; Alger; Algeria; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	36.7755
-Longitude:	3.0597
+0-ID: 849
+1-Name: Jardin Botanique de Universite d‘Alger 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ALGER;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanique de Universite d‘Alger;         Universite d' Alger;        2 rue Didouche Mourad;        Alger;        Algeria;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.7755
+2-Longitude: 3.0597
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=849">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=849">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=849">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=849">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=849">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ALGER
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,12 +1,19 @@
-ID:	3473
-Name:	Arboretum at Arizona State University, The 
-Curator's Name:	Ellen Newell, Assistant Director, Arboretum/Grounds Services
-Director's Name:	Polly Pinney, Executive Director of Facilities Management Administration
-Info:	  United States of America - Arizona - Tempe  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum at Arizona State University, The; Facilities Management/Department Grounds; Tempe; Arizona 85287 United States of America; ;  Telephone: (480) 965-8467; Fax: (480) 965-9470; URL: <a target="_blank" href="http://cfo.asu.edu/fdm-arboretum">http://cfo.asu.edu/fdm-arboretum; Primary Email: ellen.newell@asu.edu ; 
-Plant Records Officer's Name:	Deborah Thirkhill
-Altitude:	0.00 Metres
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	33.4198600
-Longitude:	-111.9361250
-Reintroduction Programme:	No
+0-ID: 3473
+1-Name: Arboretum at Arizona State University, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 1990
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum at Arizona State University, The;         Facilities Management/Department Grounds;                Tempe;        Arizona 85287 United States of America;        ;                 Telephone: (480) 965-8467;         Fax: (480) 965-9470;         URL: http://cfo.asu.edu/fdm-arboretum;         Primary Email: ellen.newell@asu.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.4198600
+2-Longitude: -111.9361250
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3473">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3473">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3473">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3473">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (480) 965-9470
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ellen.newell@asu.edu
+9-Telephone: (480) 965-8467

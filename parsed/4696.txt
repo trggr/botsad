@@ -1,10 +1,19 @@
-ID:	4696
-Name:	Elon University 
-Curator's Name:	Dawn Hensley, Lead Gardener
-Director's Name:	Thomas Flood, ASLA, Director of Landscaping and Grounds
-Info:	  United States of America - North Carolina - Elon College  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Elon University; Campus Box 2000; Elon College; North Carolina 27244 United States of America; ;  Telephone: (336) 278-6549; Fax: ; URL: <a target="_blank" href="http://www.elon.edu">www.elon.edu; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	36.1054800
-Longitude:	-79.5034900
+0-ID: 4696
+1-Name: Elon University 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Elon University;         Campus Box 2000;                Elon College;        North Carolina 27244 United States of America;        ;                 Telephone: (336) 278-6549;         Fax: ;         URL: www.elon.edu;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 36.1054800
+2-Longitude: -79.5034900
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4696">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4696">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4696">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4696">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4696">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (336) 278-6549
+9-URL: www.elon.edu

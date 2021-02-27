@@ -1,10 +1,19 @@
-ID:	4547
-Name:	Hohhot Landscape Research Institute Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Inner Mongolia Autonomous Region - Hohhot  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hohhot Landscape Research Institute Botanical Garden; Hohhot; Inner Mongolia Autonomous Region China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.yuajn.com/html/59/n-10459.html">www.yuajn.com/html/59/n-10459.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.81223
-Longitude:	111.64525
+0-ID: 4547
+1-Name: Hohhot Landscape Research Institute Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hohhot Landscape Research Institute Botanical Garden;                         Hohhot;        Inner Mongolia Autonomous Region China;        ;                 Telephone: ;         Fax: ;         URL: www.yuajn.com/html/59/n-10459.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.81223
+2-Longitude: 111.64525
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4547">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4547">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4547">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4547">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4547">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.yuajn.com/html/59/n-10459.html

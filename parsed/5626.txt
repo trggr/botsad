@@ -1,41 +1,40 @@
-ID:	5626
-Name:	Gold Coast Regional Botanic Garden 
-Administration Staff Number:	
-Curator's Name:	Paul Cockbain
-Director's Name:	Ross Greenwood
-Educational Staff Number:	
-Horticultural Staff Number:	8
-Info:	  Australia - Queensland - Gold Coast  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gold Coast Regional Botanic Garden; 230 Ashmore Rd, Benowa; Gold Coast; Queensland 4217 Australia; ;  Telephone: 0755829361; Fax: ; URL: <a target="_blank" href="https://www.goldcoast.qld.gov.au/thegoldcoast/botanical-gardens-24658.html">https://www.goldcoast.qld.gov.au/thegoldcoast/botanical-gardens-24658.html; Primary Email: ; 
-Plant Records Officer's Name:	Paul Cockbain
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-28.00900
-Local Address:	230 Ashmore Rd, Benowa
-Locality:	Information
-Longitude:	153.38822
-Total area of shadehouses:	40 Metres
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5626
+1-Name: Gold Coast Regional Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gold Coast Regional Botanic Garden;         230 Ashmore Rd, Benowa;                Gold Coast;        Queensland 4217 Australia;        ;                 Telephone: 0755829361;         Fax: ;         URL: https://www.goldcoast.qld.gov.au/thegoldcoast/botanical-gardens-24658.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -28.00900
+2-Local Address: 230 Ashmore Rd, Benowa
+2-Locality: Information
+2-Longitude: 153.38822
+2-Total area of shadehouses: 40 Metres
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+5-Conservation Programme: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0755829361

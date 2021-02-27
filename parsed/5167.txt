@@ -1,11 +1,18 @@
-ID:	5167
-Name:	Jawaharlal Nehru Tropical Botanic Garden and Research Institute-Seed Bank 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Kerala - Thiruvananthapuram  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jawaharlal Nehru Tropical Botanic Garden and Research Institute-Seed Bank; Pacha Palode; Thiruvananthapuram; Kerala 695 562 India; ;  Telephone: 91 (0)472 2869626, 2869628; Fax: 91 (0)472 2869646; URL: <a target="_blank" href="http://www.jntbgri.res.in/">http://www.jntbgri.res.in/; Primary Email: canildeepa@yahoo.co.in ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	8.5036
-Longitude:	76.9521
-Seed Bank:	Yes
+0-ID: 5167
+1-Name: Jawaharlal Nehru Tropical Botanic Garden and Research Institute-Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jawaharlal Nehru Tropical Botanic Garden and Research Institute-Seed Bank;         Pacha Palode;                Thiruvananthapuram;        Kerala 695 562 India;        ;                 Telephone: 91 (0)472 2869626,  2869628;         Fax: 91 (0)472 2869646;         URL: http://www.jntbgri.res.in/;         Primary Email: canildeepa@yahoo.co.in       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 8.5036
+2-Longitude: 76.9521
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5167">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5167">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5167">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5167">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 (0)472 2869646
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: canildeepa@yahoo.co.in
+9-Telephone: 91 (0)472 2869626,  2869628

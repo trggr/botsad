@@ -1,10 +1,18 @@
-ID:	4491
-Name:	Patterson Park 
-Curator's Name:	Amanda Holloway, Park Stewardship Coordinator
-Director's Name:	Kathy Harget, Executive Director, Friends of Patterson Park
-Info:	  United States of America - Maryland - Baltimore  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Patterson Park; 27 South Patterson Park Avenue; Baltimore; Maryland 21231 United States of America; ;  Telephone: (410) 276-3676; Fax: (410) 327-7592; URL: <a target="_blank" href="http://pattersonpark.com">http://pattersonpark.com; Primary Email: Friends@PattersonPark.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	39.2912630
-Longitude:	-76.5846440
+0-ID: 4491
+1-Name: Patterson Park 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Patterson Park;         27 South Patterson Park Avenue;                Baltimore;        Maryland 21231 United States of America;        ;                 Telephone: (410) 276-3676;         Fax: (410) 327-7592;         URL: http://pattersonpark.com;         Primary Email: Friends@PattersonPark.com       ;              
+2-Institution Type: Other
+2-Latitude: 39.2912630
+2-Longitude: -76.5846440
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4491">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4491">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4491">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4491">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4491">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (410) 327-7592
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Friends@PattersonPark.com
+9-Telephone: (410) 276-3676

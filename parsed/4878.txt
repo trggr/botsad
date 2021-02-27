@@ -1,12 +1,20 @@
-ID:	4878
-Name:	Bucheon Botanical Garden 
-Curator's Name:	Hee-Soo Kim
-Director's Name:	Man-Soo Kim
-Info:	  South Korea - Gyeonggi-do - Bucheon-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bucheon Botanical Garden; 660 Gilju-ro, Wonmi-gu; Bucheon-si; Gyeonggi-do 420-859 South Korea; ;  Telephone: 031-625-2810; Fax: 032-625-2789; URL: <a target="_blank" href="http://conn.bucheon.go.kr/green/index.jsp">http://conn.bucheon.go.kr/green/index.jsp; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.50512
-Local Address:	원미구 길주로 660
-Locality:	Information
-Longitude:	126.81568
+0-ID: 4878
+1-Name: Bucheon Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bucheon Botanical Garden;         660 Gilju-ro, Wonmi-gu;                Bucheon-si;        Gyeonggi-do 420-859 South Korea;        ;                 Telephone: 031-625-2810;         Fax: 032-625-2789;         URL: http://conn.bucheon.go.kr/green/index.jsp;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.50512
+2-Local Address: 원미구 길주로 660
+2-Locality: Information
+2-Longitude: 126.81568
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4878">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4878">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4878">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4878">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4878">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 032-625-2789
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 031-625-2810

@@ -1,11 +1,19 @@
-ID:	2280
-Name:	Jardín Botánico 'Juan Williamson' 
-Curator's Name:	Ing.RRNNy MA Gisela López
-Director's Name:	Ing.RRNNy MA Mónica Álvarez Redondo
-Info:	  Argentina - La Pampa - Santa Rosa  ;Garden Information;  Institution Code: SRFA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico 'Juan Williamson'; Universidad Nacional de La Pampa; Ruta 35 km. 334; Santa Rosa; La Pampa 6300 Argentina; ;  Telephone: 54 (0) 2954 451600 ext. 5010/5613; Fax: 54 (0) 2954-433094; URL: <a target="_blank" href="http://">; Primary Email: m_alvarezredondo@yahoo.com.ar ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-36.620411
-Longitude:	-64.289909
-Special Collections:	No information available
+0-ID: 2280
+1-Name: Jardín Botánico 'Juan Williamson' 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SRFA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico 'Juan Williamson';         Universidad Nacional de La Pampa;        Ruta 35 km. 334;        Santa Rosa;        La Pampa 6300 Argentina;        ;                 Telephone: 54 (0) 2954 451600 ext. 5010/5613;         Fax: 54 (0) 2954-433094;         URL: ;         Primary Email: m_alvarezredondo@yahoo.com.ar       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -36.620411
+2-Longitude: -64.289909
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2280">Please click here if you can update us</a>
+4-Special Collections: No information available
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2280">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2280">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2280">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 54 (0) 2954-433094
+9-Institution Code: SRFA
+9-International Agenda Registration: No
+9-Primary Email: m_alvarezredondo@yahoo.com.ar
+9-Telephone: 54 (0) 2954 451600 ext. 5010/5613
+9-URL: 

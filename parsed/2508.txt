@@ -1,75 +1,79 @@
-ID:	2508
-Name:	High Beeches Gardens Conservation Trust 
-Fax:	+44 (0) 1444 401543
-Info:	  United Kingdom - West Sussex  ;Garden Information;  Institution Code: HBGC; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	gardens@highbeeches.com
-Telephone:	+44 (0) 1444 400589
-Administration Staff Number:	1
-Curator's Name:	Sarah Bray
-Director's Name:	Sarah Bray
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	Sarah Bray
-Research Staff Number:	
-Altitude:	150.00 Metres
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	51.063722
-Local Address:	High Beeches, High Beeches Lane, Handcross
-Locality:	Information
-Longitude:	-0.182318
-Natural Vegetation Area:	Yes
-Arboretum:	Yes
-Arboretum Size:	10
-Computer Plant Record System:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	7000
-Number of Volunteers:	1
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	Large collection of temperate trees and shrubs.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 2508
+1-Name: High Beeches Gardens Conservation Trust 
+2-Administration Staff Number: 1
+2-Curator's Name: Sarah Bray
+2-Director's Name: Sarah Bray
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: HBGC;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/2508/High Beeches Garden.jpg" alt="High Beeches Woodland and Water Garden" />         High Beeches Woodland and Water Garden</div>        </div>                                    Main Address:;         High Beeches Gardens Conservation Trust;         High Beeches Handcross West Sussex RH17 6HQ U.K.;                West Sussex;        United Kingdom;        ;                 Telephone: +44 (0) 1444 400589;         Fax: +44 (0) 1444 401543;         URL: www.highbeeches.com;         Primary Email: gardens@highbeeches.com       ;              
+2-Plant Records Officer's Name: Sarah Bray
+2-Research Staff Number: 
+3-Altitude: 150.00 Metres
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 51.063722
+3-Local Address: High Beeches, High Beeches Lane, Handcross
+3-Locality: Information
+3-Longitude: -0.182318
+3-Natural Vegetation Area: Yes
+4-Arboretum: Yes
+4-Arboretum Size: 10
+4-Computer Plant Record System: Yes
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 7000
+4-Number of Volunteers: 1
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: No
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+5-Special Collections: Large collection of temperate trees and shrubs.
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: +44 (0) 1444 401543
+9-Institution Code: HBGC
+9-International Agenda Registration: No
+9-Primary Email: gardens@highbeeches.com
+9-Telephone: +44 (0) 1444 400589
+9-URL: www.highbeeches.com

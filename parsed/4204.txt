@@ -1,15 +1,23 @@
-ID:	4204
-Name:	Florida Botanical Gardens 
-Curator's Name:	
-Director's Name:	Vernon Bryant, Executive Director
-Info:	  United States of America - Florida - Largo  ;Garden Information;  Institution Code: LARG; International Agenda Registration: No; BGCI Member: No; About the Florida Botanical Gardens The Florida Botanical Gardens inspires and educates visitors by showcasing flora, fauna and natural resources in motivational surroundings that promote environmentally friendly techniques.; ; Bring the family and spend a day. The Gardens are open every day of the year and admission is free!;  Main Address:; Florida Botanical Gardens; 12520 Ulmerton Road; Largo; Florida 33774 United States of America; ;  Telephone: (727) 582-2100; Fax: ; URL: <a target="_blank" href="http://www.flbg.org">www.flbg.org; Primary Email: flbgfoundation@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2000
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	27.8830540
-Longitude:	-82.8105440
-Natural Vegetation Area:	Yes
-Total Area:	48 Hectares
-Open to public:	Yes
+0-ID: 4204
+1-Name: Florida Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 2000
+2-Info:              Institution Code: LARG;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Florida Botanical Gardens        The Florida Botanical Gardens inspires and educates visitors by showcasing flora, fauna and natural resources in motivational surroundings that promote environmentally friendly techniques.;  ;  Bring the family and spend a day. The Gardens are open every day of the year and admission is free!;                        Main Address:;         Florida Botanical Gardens;         12520 Ulmerton Road;                Largo;        Florida 33774 United States of America;        ;                 Telephone: (727) 582-2100;         Fax: ;         URL: www.flbg.org;         Primary Email: flbgfoundation@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 27.8830540
+2-Longitude: -82.8105440
+2-Natural Vegetation Area: Yes
+2-Total Area: 48 Hectares
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4204">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4204">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4204">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4204">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LARG
+9-International Agenda Registration: No
+9-Primary Email: flbgfoundation@gmail.com
+9-Telephone: (727) 582-2100
+9-URL: www.flbg.org

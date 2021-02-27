@@ -1,46 +1,51 @@
-ID:	5487
-Name:	Amorepacific Botanic Garden 
-Curator's Name:	Sungmin Kim
-Director's Name:	Kweonyoung Han
-Info:	  South Korea - Gyeonggi-do - Osan-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Amorepacific Botanic Garden; 37, Gajangsaneopdongro; Osan-si; Gyeonggi-do 18103 South Korea; ;  Telephone: +82 31 8047 1451; Fax: +82 31 8047 1459; URL: <a target="_blank" href="http://www.amorepacific.com">http://www.amorepacific.com; Primary Email: kyhan@amorepacific.com ; 
-Plant Records Officer's Name:	Songi Jeon
-Altitude:	0.00 Metres
-Date founded:	2019
-Institution Type:	Botanic Garden
-Latitude:	37.1491369
-Longitude:	127.0464445
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	No
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	Yes
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Guided Tours:	Yes
+0-ID: 5487
+1-Name: Amorepacific Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 2019
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Amorepacific Botanic Garden;         37, Gajangsaneopdongro;                Osan-si;        Gyeonggi-do 18103 South Korea;        ;                 Telephone: +82 31 8047 1451;         Fax: +82 31 8047 1459;         URL: http://www.amorepacific.com;         Primary Email: kyhan@amorepacific.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.1491369
+2-Longitude: 127.0464445
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5487">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5487">Please click here if you can update us</a>
+6-Agriculture: Yes
+6-Biotechnology: Yes
+6-Conservation - Biology: No
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: Yes
+6-Horticulture: No
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: Yes
+6-Plant Breeding: Yes
+6-Pollination Biology: Yes
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: Yes
+6-Sustainability: Yes
+6-Systematics and Taxonomy: No
+6-Urban Environments: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Guided Tours: Yes
+9-BGCI Member: Yes
+9-Fax: +82 31 8047 1459
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: kyhan@amorepacific.com
+9-Telephone: +82 31 8047 1451

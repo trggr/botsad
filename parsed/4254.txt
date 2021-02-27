@@ -1,11 +1,20 @@
-ID:	4254
-Name:	Kaskey Gardens 
-Curator's Name:	
-Director's Name:	Tracy Byford, Manager
-Info:	  United States of America - Pennsylvania - Philadelphia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kaskey Gardens; University of Pennsylvania; 415 South University Avenue; Philadelphia; Pennsylvania 19104 United States of America; ;  Telephone: (215) 898-7175; Fax: ; URL: <a target="_blank" href="http://www.bio.upenn.edu/facilities/greenhouse/biopond/">www.bio.upenn.edu/facilities/greenhouse/biopond/; Primary Email: biopond@sas.upenn.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1897
-Institution Type:	Botanic Garden
-Latitude:	39.9491800
-Longitude:	-75.1992830
+0-ID: 4254
+1-Name: Kaskey Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1897
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kaskey Gardens;         University of Pennsylvania;        415 South University Avenue;        Philadelphia;        Pennsylvania 19104 United States of America;        ;                 Telephone: (215) 898-7175;         Fax: ;         URL: www.bio.upenn.edu/facilities/greenhouse/biopond/;         Primary Email: biopond@sas.upenn.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.9491800
+2-Longitude: -75.1992830
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4254">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4254">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4254">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4254">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4254">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: biopond@sas.upenn.edu
+9-Telephone: (215) 898-7175
+9-URL: www.bio.upenn.edu/facilities/greenhouse/biopond/

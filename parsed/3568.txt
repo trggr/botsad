@@ -1,12 +1,21 @@
-ID:	3568
-Name:	Donghu Lake Moshan Landscape Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hubei - Wuhan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Donghu Lake Moshan Landscape Garden; Guangshan Street, Hongshan, Wuhan, Hubei, 430074, China; Wuhan; Hubei China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	30.5777
-Local Address:	中国湖北省武汉市洪山区关山街，邮编 430074
-Locality:	Information
-Longitude:	114.2791
+0-ID: 3568
+1-Name: Donghu Lake Moshan Landscape Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Donghu Lake Moshan Landscape Garden;         Guangshan Street, Hongshan, Wuhan, Hubei, 430074, China;                Wuhan;        Hubei China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 30.5777
+2-Local Address: 中国湖北省武汉市洪山区关山街，邮编 430074
+2-Locality: Information
+2-Longitude: 114.2791
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3568">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3568">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3568">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3568">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3568">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

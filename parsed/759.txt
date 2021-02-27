@@ -1,11 +1,19 @@
-ID:	759
-Name:	Jardin Botanique des Parcs Forestier et Zoologique de Hann 
-Curator's Name:	
-Director's Name:	Mon Papa Alassane Diop
-Info:	  Senegal - Dakar  ;Garden Information;  Institution Code: DPFZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique des Parcs Forestier et Zoologique de Hann; Direction des Parcs Forestier et Zoologique de Hann B.P. 1831, DAKAR, Senegal.; Dakar; Senegal; ;  Telephone: 00 221 822 38 75 (unsure); Fax: 00 221 832 04 26/832 38 80; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1903
-Institution Type:	Botanic Garden
-Latitude:	14.6953
-Longitude:	-17.4439
-Special Collections:	Demonstration garden for plants of the Niaoulis zone. Material for the scientific evaluation of native plants for germination, seed storage and commecial production, particularly looking at forest species.
+0-ID: 759
+1-Name: Jardin Botanique des Parcs Forestier et Zoologique de Hann 
+2-Date founded: 1903
+2-Info:              Institution Code: DPFZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanique des Parcs Forestier et Zoologique de Hann;         Direction des Parcs Forestier et Zoologique de Hann B.P. 1831,  DAKAR,  Senegal.;                Dakar;        Senegal;        ;                 Telephone: 00 221 822 38 75 (unsure);         Fax: 00 221 832 04 26/832 38 80;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 14.6953
+2-Longitude: -17.4439
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=759">Please click here if you can update us</a>
+4-Special Collections: Demonstration garden for plants of the Niaoulis zone. Material for the scientific evaluation of native plants for germination, seed storage and commecial production, particularly looking at forest species.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=759">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=759">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=759">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 00 221 832 04 26/832 38 80
+9-Institution Code: DPFZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 00 221 822 38 75 (unsure)
+9-URL: 

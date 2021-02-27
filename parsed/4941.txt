@@ -1,12 +1,20 @@
-ID:	4941
-Name:	Joan of Arc Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Canada - Quebec - Quebec  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Joan of Arc Garden The year 2013 marks the 75th anniversary of the Joan of Arc Garden, the Battlefields Park’s gem. Created in 1938 by landscape architect Louis Perron, this garden combines French classic style with English-style mixed borders. More than 150 species can be admired: annual flowers and bulbous plants but most of all, perennials. Under the charm of Quebec City, a couple of Americans, including the sculptress herself Anna Hyatt Huntington, donated the Joan of Arc statue “A tribute to the patriotism and courage of the heroes of 1759-1760”, according to the inscription on the monument.;  Main Address:; Joan of Arc Garden; 380 Avenue de Bernières; Quebec; Quebec G1R 2L7 Canada; ;  Telephone: (418) 649-6157; Fax: (418) 648-3809; URL: <a target="_blank" href="http://www.lesplainesdabraham.ca/index.html">http://www.lesplainesdabraham.ca/index.html; Primary Email: information@ccbn-nbc.gc.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1938
-Institution Type:	Botanic Garden
-Latitude:	46.80192
-Longitude:	-71.22066
-Cultivation Taxa Num:	150
+0-ID: 4941
+1-Name: Joan of Arc Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1938
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Joan of Arc Garden        The year 2013 marks the 75th anniversary of the Joan of Arc Garden, the Battlefields Park’s gem. Created in 1938 by landscape architect Louis Perron, this garden combines French classic style with English-style mixed borders. More than 150 species can be admired: annual flowers and bulbous plants but most of all, perennials. Under the charm of Quebec City, a couple of Americans, including the sculptress herself Anna Hyatt Huntington, donated the Joan of Arc statue “A tribute to the patriotism and courage of the heroes of 1759-1760”, according to the inscription on the monument.;                        Main Address:;         Joan of Arc Garden;         380 Avenue de Bernières;                Quebec;        Quebec G1R 2L7 Canada;        ;                 Telephone: (418) 649-6157;         Fax: (418) 648-3809;         URL: http://www.lesplainesdabraham.ca/index.html;         Primary Email: information@ccbn-nbc.gc.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.80192
+2-Longitude: -71.22066
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4941">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 150
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4941">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4941">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4941">Please click here if you can update us</a>
+9-About the Joan of Arc Garden        The year 2013 marks the 75th anniversary of the Joan of Arc Garden, the Battlefields Park’s gem. Created in 1938 by landscape architect Louis Perron, this garden combines French classic style with English-style mixed borders. More than 150 species can be admired: annual flowers and bulbous plants but most of all, perennials. Under the charm of Quebec City, a couple of Americans, including the sculptress herself Anna Hyatt Huntington, donated the Joan of Arc statue “A tribute to the patriotism and courage of the heroes of 1759-1760”, according to the inscription on the monument.
+9-BGCI Member: No
+9-Fax: (418) 648-3809
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: information@ccbn-nbc.gc.ca
+9-Telephone: (418) 649-6157

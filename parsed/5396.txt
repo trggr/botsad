@@ -1,9 +1,17 @@
-ID:	5396
-Name:	The Arboretum at Columbus Academy 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Ohio - Gahanna  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Arboretum at Columbus Academy; 4300 Cherry Bottom Road; Gahanna; Ohio 43230 United States of America; ;  Telephone: 614-475-2311; Fax: ; URL: <a target="_blank" href="https://www.columbusacademy.org/">https://www.columbusacademy.org/; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.048996
-Longitude:	-82.874100
+0-ID: 5396
+1-Name: The Arboretum at Columbus Academy 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Arboretum at Columbus Academy;         4300 Cherry Bottom Road;                Gahanna;        Ohio 43230 United States of America;        ;                 Telephone: 614-475-2311;         Fax: ;         URL: https://www.columbusacademy.org/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.048996
+2-Longitude: -82.874100
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5396">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5396">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5396">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5396">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5396">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 614-475-2311

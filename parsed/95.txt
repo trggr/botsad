@@ -1,10 +1,18 @@
-ID:	95
-Name:	Hortus Haren 
-Curator's Name:	Ir. M. Drenth-de Ridder
-Director's Name:	Dr M.W.J.M Drissen
-Info:	  Netherlands - Haren  ;Garden Information;  Institution Code: GRO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hortus Haren; P.O. Box 179,; Haren; Netherlands; ;  Telephone: 31 (0)50 537 0053; Fax: 31 (0)50534 2994; URL: <a target="_blank" href="http://www.hortusharen.nl">www.hortusharen.nl; Primary Email: hortusha@inn.nl ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	53.1731
-Longitude:	6.6029
+0-ID: 95
+1-Name: Hortus Haren 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: GRO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hortus Haren;         P.O. Box 179,;                Haren;        Netherlands;        ;                 Telephone: 31 (0)50 537 0053;         Fax: 31 (0)50534 2994;         URL: www.hortusharen.nl;         Primary Email: hortusha@inn.nl       ;              
+2-Institution Type: Other
+2-Latitude: 53.1731
+2-Longitude: 6.6029
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=95">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=95">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=95">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=95">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 31 (0)50534 2994
+9-Institution Code: GRO
+9-International Agenda Registration: No
+9-Primary Email: hortusha@inn.nl
+9-Telephone: 31 (0)50 537 0053
+9-URL: www.hortusharen.nl

@@ -1,13 +1,20 @@
-ID:	686
-Name:	International Friendship Gardens 
-Curator's Name:	
-Director's Name:	Marti Pizzini, Executive Director
-Info:	  United States of America - Indiana - Michigan City  ;Garden Information;  Institution Code: FRIEN; International Agenda Registration: No; BGCI Member: No; About the International Friendship Gardens Imagine a beautiful valley, surrounded by forested hills. Imagine it dotted with gardens, spreading lawns, towering trees and divided by a rushing creek. Imagine silence, punctuated by the calls of birds, the laughter of children and the ringing of bells. This is Friendship Gardens, a sheltered treasure nestled on the eastern edge of Michigan City, Indiana.; ; These are historic gardens, inspired by the 1936 Century of Progress in Chicago and created on land traced with trails used for centuries by Native Americans. The gardens are open to welcome you the second weekend of May through the last weekend of October. They are open daily 10 AM – 4 PM, except Mondays. Admission is $4 with a limit of $10 per family and children under 12, free. They are accessed by walking earthen trails and lawns. A golf cart is available to transport those with mobility limitations.; ; The gardens are available for rental for weddings and other events. A variety of concerts and other cultural activities are scheduled. The gardens are owned and managed by a not for profit board. Volunteers and donors are the lifeblood of this public garden, which depends on contributions of time and resources for their continued growth.;  Main Address:; International Friendship Gardens; P.O. Box 8834; 2055 E. Highway 12; Michigan City; Indiana 46360 United States of America; ;  Telephone: (219) 878-9885; Fax: ; URL: <a target="_blank" href="http://www.friendshipgardens.org">www.friendshipgardens.org; Primary Email: internationalfriendshipgardens@yahoo.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1936
-Institution Type:	Botanic Garden
-Latitude:	41.7271340
-Longitude:	-86.8707880
-Open to public:	Yes
-Special Collections:	Narcissus, Paeonia, Papaver, Rosa, Tulipa.
+0-ID: 686
+1-Name: International Friendship Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1936
+2-Info:              Institution Code: FRIEN;             International Agenda Registration: No;        BGCI Member: No;                                                  About the International Friendship Gardens        Imagine a beautiful valley, surrounded by forested hills.  Imagine it dotted with gardens, spreading lawns, towering trees and divided by a rushing creek.  Imagine silence, punctuated by the calls of birds, the laughter of children and the ringing of bells.  This is Friendship Gardens, a sheltered treasure nestled on the eastern edge of Michigan City, Indiana.;  ;  These are historic gardens, inspired by the 1936 Century of Progress in Chicago and created on land traced with trails used for centuries by Native Americans.  The gardens are open to welcome you the second weekend of May through the last weekend of October.  They are open daily 10 AM – 4 PM, except Mondays.  Admission is $4 with a limit of $10 per family and children under 12, free.   They are accessed by walking earthen trails and lawns.  A golf cart is available to transport those with mobility limitations.;  ;  The gardens are available for rental for weddings and other  events.  A variety of concerts and other cultural activities are scheduled.   The gardens are owned and managed by a not for profit board. Volunteers and donors are the lifeblood of this public garden, which depends on contributions of time and resources for their continued growth.;                        Main Address:;         International Friendship Gardens;         P.O. Box 8834;        2055 E. Highway 12;        Michigan City;        Indiana 46360 United States of America;        ;                 Telephone: (219) 878-9885;         Fax: ;         URL: www.friendshipgardens.org;         Primary Email: internationalfriendshipgardens@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.7271340
+2-Longitude: -86.8707880
+3-Open to public: Yes
+4-Special Collections: Narcissus, Paeonia, Papaver, Rosa, Tulipa.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=686">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=686">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=686">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FRIEN
+9-International Agenda Registration: No
+9-Primary Email: internationalfriendshipgardens@yahoo.com
+9-Telephone: (219) 878-9885
+9-URL: www.friendshipgardens.org

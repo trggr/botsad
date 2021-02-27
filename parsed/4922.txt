@@ -1,10 +1,18 @@
-ID:	4922
-Name:	University of Nigeria Botanic Garden 
-Curator's Name:	
-Director's Name:	Professor (Mrs.) May Nwosu
-Info:	  Nigeria - Nsukka - Ihe Nsukka  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the University of Nigeria Botanic Garden A large old botanic garden that is part of the Department of Botany.;  Main Address:; University of Nigeria Botanic Garden; University of Nigeria; Ihe Nsukka; Nsukka Nigeria; ;  Telephone: +234 08032265244 / 08061578097; Fax: ; URL: <a target="_blank" href="http://unn.edu.ng/">http://unn.edu.ng/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	6.86763
-Longitude:	7.40854
+0-ID: 4922
+1-Name: University of Nigeria Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the University of Nigeria Botanic Garden        A large old botanic garden that is part of the Department of Botany.;                        Main Address:;         University of Nigeria Botanic Garden;         University of Nigeria;                Ihe Nsukka;        Nsukka Nigeria;        ;                 Telephone: +234 08032265244 / 08061578097;         Fax: ;         URL: http://unn.edu.ng/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 6.86763
+2-Longitude: 7.40854
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4922">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4922">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4922">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4922">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4922">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +234 08032265244 / 08061578097

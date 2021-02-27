@@ -1,25 +1,27 @@
-ID:	1490
-Name:	Navajo Nation Zoological and Botanical Park 
-Administration Staff Number:	10
-Curator's Name:	David Mikesic, Zoo Curator
-Director's Name:	Gloria Tom, Director
-Educational Staff Number:	
-Horticultural Staff Number:	
-Info:	  United States of America - Arizona - Window Rock  ;Garden Information;  Institution Code: NAVAJ; International Agenda Registration: No; BGCI Member: No; About the Navajo Nation Zoological and Botanical Park Conserve, protect, enhance and restore the Navajo Nation's fish, wildlife and plants through aggressive management programs for the spiritual, cultural and material benefit of present and future generations of the Navajo Nation.;  Main Address:; Navajo Nation Zoological and Botanical Park; P.O.Box 9000, Navajo Nation; Hwy. 264, Building 36A; Window Rock; Arizona 86515-9000 United States of America; ;  Telephone: 602 871 6573; Fax: 602 871 6637; URL: <a target="_blank" href="http://www.navajofishandwildlife.org/nnzoo.htm">www.navajofishandwildlife.org/nnzoo.htm; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	289 mm
-Date founded:	1962
-Institution Type:	Zoological Institution
-Latitude:	35.6647000
-Longitude:	-109.0497200
-Arboretum:	No
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Special Collections:	Native plants of Arizona, ethnobotanical collections.
-Conservation - Biology:	Yes
-Ethnobotany:	Yes
-Systematics and Taxonomy:	Yes
+0-ID: 1490
+1-Name: Navajo Nation Zoological and Botanical Park 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 289 mm
+2-Date founded: 1962
+2-Info:              Institution Code: NAVAJ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Navajo Nation Zoological and Botanical Park        Conserve, protect, enhance and restore the Navajo Nation's fish, wildlife and plants through aggressive management programs for the spiritual, cultural and material benefit of present and future generations of the Navajo Nation.;                        Main Address:;         Navajo Nation Zoological and Botanical Park;         P.O.Box 9000, Navajo Nation;        Hwy. 264, Building 36A;        Window Rock;        Arizona 86515-9000 United States of America;        ;                 Telephone: 602 871 6573;         Fax: 602 871 6637;         URL: www.navajofishandwildlife.org/nnzoo.htm;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 35.6647000
+2-Longitude: -109.0497200
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-Special Collections: Native plants of Arizona, ethnobotanical collections.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1490">Please click here if you can update us</a>
+6-Conservation - Biology: Yes
+6-Ethnobotany: Yes
+6-Systematics and Taxonomy: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1490">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 602 871 6637
+9-Institution Code: NAVAJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 602 871 6573
+9-URL: www.navajofishandwildlife.org/nnzoo.htm

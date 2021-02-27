@@ -1,9 +1,17 @@
-ID:	4743
-Name:	Arbor View Gardens 
-Curator's Name:	
-Director's Name:	Any Gleisner, Executive Director
-Info:	  United States of America - Wisconsin - Clintonville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arbor View Gardens; E10540 County Road C; Clintonville; Wisconsin 54929 United States of America; ;  Telephone: (810) 233-3031; Fax: ; URL: <a target="_blank" href="http://arborviewgardens.dot5hosting.com/">http://arborviewgardens.dot5hosting.com/; Primary Email: arborvw@frontiernet.net ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	44.6196270
-Longitude:	-88.7651350
+0-ID: 4743
+1-Name: Arbor View Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arbor View Gardens;         E10540 County Road C;                Clintonville;        Wisconsin 54929 United States of America;        ;                 Telephone: (810) 233-3031;         Fax: ;         URL: http://arborviewgardens.dot5hosting.com/;         Primary Email: arborvw@frontiernet.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.6196270
+2-Longitude: -88.7651350
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4743">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4743">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4743">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4743">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4743">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: arborvw@frontiernet.net
+9-Telephone: (810) 233-3031

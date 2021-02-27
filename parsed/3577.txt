@@ -1,12 +1,21 @@
-ID:	3577
-Name:	Shabotou Botanical Garden (Ningxia) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Ningxia - Zhongwei  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Shabotou Botanical Garden (Ningxia); Zhongwei County, Ningxia Hui Autonomous Region, 751700, China; Zhongwei; Ningxia China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	37.5144
-Local Address:	中国宁夏回族自治区中卫县，邮编 751700
-Locality:	Information
-Longitude:	105.1745
+0-ID: 3577
+1-Name: Shabotou Botanical Garden (Ningxia) 
+2-Date founded: 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Shabotou Botanical Garden (Ningxia);         Zhongwei County, Ningxia Hui Autonomous Region, 751700, China;                Zhongwei;        Ningxia China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.5144
+2-Local Address: 中国宁夏回族自治区中卫县，邮编 751700
+2-Locality: Information
+2-Longitude: 105.1745
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3577">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3577">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3577">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3577">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3577">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

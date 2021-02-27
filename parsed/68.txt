@@ -1,79 +1,83 @@
-ID:	68
-Name:	Botanic Garden, Delft University of Technology 
-Current Applied Research Programs:	
-Current Other Research:	
-Fax:	+31 15 2782355
-Gate:	Poortlandplein 6
-Info:	  Netherlands - Delft  ;Garden Information;  Institution Code: DELF; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	Botanischetuin@TUDelft.nl
-Telephone:	+31 15 2782356/2789396
-Administration Staff Number:	1
-Curator's Name:	Dr. James W. Byng
-Director's Name:	Drs.ing. W.N.J. Ursem (Bob)
-Educational Staff Number:	2
-Horticultural Staff Number:	7
-Plant Records Officer's Name:	Dr. James W. Byng
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Annual Rainfall:	780 mm
-Date founded:	1917
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	51.9984
-Local Address:	Poortlandplein 6, 2628 BM Delft
-Locality:	Information
-Longitude:	4.3759
-Natural Vegetation Area:	No
-Total Area:	3 Hectares
-Total area of glasshouses:	710 Metres
-Total area of shadehouses:	300 Metres
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	43000
-Number of Volunteers:	45
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-*Families and genera that are part of the Dutch National Plant Collection, a national list of complementary special collections in botanic gardens. Other families and applied plants are part of the decentralized Dutch Plant Collection.Myristicaceae:	all species of wild origin and a complete as possible genetic set of M. fragrans Houtt.
-Accession Number:	6000
-Cannaceae:	1 genus, 8 species, 38 cultivars
-Cercidiphyllaceae*:	1 genus, 2 species, 1 cultivar
-Costaceae:	10 living type specimens, at least two endangered species
-Cultivation Taxa Num:	3507
-Eucommiaceae*:	1 genus, 1 species
-Genus Lavandula:	1 genus, 14 species, 23 Cultivars
-Hamamelidaceae:	15 genera,44 species,28 cultivars
-Heliconiaceae:	1 genus, 5 species, 3 cultivars
-Marantaceae:	16 genera, 96 species, 38 cultivars
-Menispermaceae:	6 genera, 13 species
-Musaceae:	4 genera, 34 species, 4 cultivars
-Myristicaceae*:	4 genera, 39 species, 60 cultivars
-Platanaceae*:	1 genus, 4 species, 6 cultivars
-Special Collections:	The collection focus is on useful plants.
-Strelitziaceae:	1 genus, 6 species
-Theaceae*:	7 genera, 23 species, 1 cultivar
-Thymelaeaceae:	1 genus, 16 species, 4 cultivars
-Zingiberaceae:	20 genera,104 species, 15 cultivars
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 68
+1-Name: Botanic Garden, Delft University of Technology 
+2-Administration Staff Number: 1
+2-Curator's Name: Dr. James W. Byng
+2-Director's Name: Drs.ing. W.N.J. Ursem (Bob)
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 7
+2-Info:              Institution Code: DELF;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/68/delft.jpg" alt="" />         </div>        </div>                           About the Botanic Garden, Delft University of Technology        The Botanic Garden Delft University of Technology was founded on its present location in 1917. During the first decades the garden was involved mainly in education of students who specialized for positions in tropical countries, especially the Dutch East Indies, now Indonesia.;  ;  The 'Applied Botanic Garden'has expanded its collection of 'useful'plants and covers now over 6000 taxa. Nowadays, the garden still retains applied plants as a major topic. Many applied research programs are based on the plant collection. All applications of plants comprise the core business of the garden and put the garden as a centre of expertise of applied sciences in the Netherlands.                                         ;  ;  Current Applied Research Programs: ;  1. Electrospraying of <i>Taxus baccata</i>. Electrostatic hydrodynamic atomisation (EDHA) induces the formation of aerosols from liquid plant components such as the precursors of Taxol and Taxotere.;  2. Plants as biofilter. Removal of heavy metals in water from tropical mining. <i>Cyperus papyrus</i>, <i>Pistia stratiotes</i> and <i>Eichornia crassipes</i> can absorb and survive high concentrations of heavy metals. Research concentrates on plant deposits and optimalization.;  3. Drought resistance research with <i>Aloe vera</i> in order to restore plant growth and the water table in extremely arid areas. ;  4. Study of wave patterns and wave characteristics in various mangrove forests in Vietnam in order to understand and to use mangrove as a natural coastal defence.;  5. High-performance (bio)composites reinforced with natural fibres. ;  6. UV protection based on cuticular plant waxes. ;  7. Improve the stability of dikes in the tropics with <i>Vetiveria zizanoides</i> (matrix roots)and <i>Cuperus rotundus</i> (mat roots).;  8. Development of a new type of "green" noise barrier. ;  ;  Current Other Research: ;  9. Phenology of plants in greenhouses. ;  10. Design of a new public park in Sao Paulo (Brazil), includes a halophyte filter, an aeration system of water and furthermore displays of rare local trees and useful trees as an educational target.;  11. The garden host research of purification of harbour mud (Department of Biotechnology TU Delft). Modified, enzymatically active bacteria purify mud from harbours of Belgium,Germany, France and The Netherlands. Algae are applied to revitalize the resulting waste water.;                        Main Address:;         Botanic Garden, Delft University of Technology;         Poortlandplein 6;        Gate: Poortlandplein 6;        Delft;        NL- 2628 BM Netherlands;        ;                 Telephone: +31 15 2782356/2789396;         Fax: +31 15 2782355;         URL: www.botanischetuin.tudelft.nl;         Primary Email: Botanischetuin@TUDelft.nl       ;              
+2-Plant Records Officer's Name: Dr. James W. Byng
+2-Research Staff Number: 2
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 780 mm
+3-Date founded: 1917
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 51.9984
+3-Local Address: Poortlandplein 6, 2628 BM Delft
+3-Locality: Information
+3-Longitude: 4.3759
+3-Natural Vegetation Area: No
+3-Total Area: 3 Hectares
+3-Total area of glasshouses: 710 Metres
+3-Total area of shadehouses: 300 Metres
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 43000
+4-Number of Volunteers: 45
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: Yes
+5-*Families and genera that are part of the Dutch National Plant Collection, a national list of complementary special collections in botanic gardens. Other families and applied plants are part of the decentralized Dutch Plant Collection.Myristicaceae: all species of wild origin and a complete as possible genetic set of M. fragrans Houtt.
+5-Accession Number: 6000
+5-Cannaceae: 1 genus, 8 species, 38 cultivars
+5-Cercidiphyllaceae*: 1 genus, 2 species, 1 cultivar
+5-Costaceae: 10 living type specimens, at least two endangered species
+5-Cultivation Taxa Num: 3507
+5-Eucommiaceae*: 1 genus, 1 species
+5-Genus Lavandula: 1 genus, 14 species, 23 Cultivars
+5-Hamamelidaceae: 15 genera,44 species,28 cultivars
+5-Heliconiaceae: 1 genus, 5 species, 3 cultivars
+5-Marantaceae: 16 genera, 96 species, 38 cultivars
+5-Menispermaceae: 6 genera, 13 species
+5-Musaceae: 4 genera, 34 species, 4 cultivars
+5-Myristicaceae*: 4 genera, 39 species, 60 cultivars
+5-Platanaceae*: 1 genus, 4 species, 6 cultivars
+5-Special Collections: The collection focus is on useful plants.
+5-Strelitziaceae: 1 genus, 6 species
+5-Theaceae*: 7 genera, 23 species, 1 cultivar
+5-Thymelaeaceae: 1 genus, 16 species, 4 cultivars
+5-Zingiberaceae: 20 genera,104 species, 15 cultivars
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+9-BGCI Member: Yes
+9-Current Applied Research Programs: 
+9-Current Other Research: 
+9-Fax: +31 15 2782355
+9-Gate: Poortlandplein 6
+9-Institution Code: DELF
+9-International Agenda Registration: Yes
+9-Primary Email: Botanischetuin@TUDelft.nl
+9-Telephone: +31 15 2782356/2789396
+9-URL: www.botanischetuin.tudelft.nl

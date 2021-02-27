@@ -1,10 +1,19 @@
-ID:	4706
-Name:	Columbus Zoo & Aquarium 
-Curator's Name:	Ann Lokai-Owens, Horticulturist
-Director's Name:	Unknown
-Info:	  United States of America - Ohio - Powell  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Columbus Zoo & Aquarium; P.O. Box 400; Powell; Ohio 43065 United States of America; ;  Telephone: (614) 645-3465; Fax: ; URL: <a target="_blank" href="http://www.columbuszoo.org">www.columbuszoo.org; Primary Email: info@columbuszoo.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Latitude:	40.1561900
-Longitude:	-83.1177100
+0-ID: 4706
+1-Name: Columbus Zoo & Aquarium 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Columbus Zoo & Aquarium;         P.O. Box 400;                Powell;        Ohio 43065 United States of America;        ;                 Telephone: (614) 645-3465;         Fax: ;         URL: www.columbuszoo.org;         Primary Email: info@columbuszoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 40.1561900
+2-Longitude: -83.1177100
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4706">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4706">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4706">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4706">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4706">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@columbuszoo.org
+9-Telephone: (614) 645-3465
+9-URL: www.columbuszoo.org

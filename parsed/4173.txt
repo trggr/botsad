@@ -1,35 +1,39 @@
-ID:	4173
-Name:	Tooro Botanical Gardens 
--" src="https:	//www.bgci.org/files/ERABG/project_images/Tooro%20Botanical%20Gardens%20/Seven-year-old%20restoration%20site%20managed%20by%20Tooro%20Botanical%20Gardens.jpg" alt="" width="700" height="525" />
--">For more information on this project please contact <a href="mailto:	gmruyonga@gmail.com">Godfrey Ruyonga.&nbsp
--</h6> <p style="text-align:	justify
--<h6 style="text-align:	center
--<img style="display:	block
--<p style="text-align:	justify
--margin-left:	auto
--margin-right:	auto
-Fax:	
-Info:	  Uganda - Fort Portal  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	tooboga@yahoo.com
-Telephone:	
-Curator's Name:	Edward Rugumayo
-Director's Name:	Godfrey Ruyonga
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2001
-Institution Type:	Botanic Garden
-Latitude:	0.6605
-Longitude:	30.2783
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Open to public:	Yes
-Special Collections:	Focus on indigenous and medicinal species
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Ecosystem Conservation:	Yes
-Land Restoration:	Yes
-Restoration Ecology:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
+0-ID: 4173
+1-Name: Tooro Botanical Gardens 
+2-Curator's Name: Edward Rugumayo
+2-Director's Name: Godfrey Ruyonga
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/4173/1364228564_tmp_TBG_sign_1.jpg" alt="" />         </div>        </div>                           About the Tooro Botanical Gardens        Located in Western Uganda, this botanic garden undertakes reforestation using indigenous tree species in collaboration with local partners. ;  Staff at Tooro botanical gardens are experienced in the propagation of many indigenous species, maintain a medicinal plant garden and undertake education programs.;                        Main Address:;         Tooro Botanical Gardens;         P.O. Box 840;                Fort Portal;        Uganda;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: tooboga@yahoo.com       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Date founded: 2001
+3-Institution Type: Botanic Garden
+3-Latitude: 0.6605
+3-Longitude: 30.2783
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Open to public: Yes
+5-Special Collections: Focus on indigenous and medicinal species
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Ecosystem Conservation: Yes
+7-Land Restoration: Yes
+7-Restoration Ecology: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+9-"><strong>Tooro Botanical Gardens in Fort Portal, Uganda was established in 2004 on a former forest reserve is restoring 52 ha of natural forest with native tree species collected within the vicinity of Kibale National Park, and works closely with local communities on livelihood issues.</strong> <p style="text-align: justify
+9-">For more information on this project please contact <a href="mailto: gmruyonga@gmail.com">Godfrey Ruyonga</a>.&nbsp
+9-</h6> <p style="text-align: justify
+9-</strong> <p style="text-align: justify
+9-<img style="display: block
+9-<p style="text-align: justify
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: tooboga@yahoo.com
+9-Telephone: 
+9-URL: 
+9-margin-left: auto
+9-margin-right: auto

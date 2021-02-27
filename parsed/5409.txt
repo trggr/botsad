@@ -1,9 +1,18 @@
-ID:	5409
-Name:	Pabellón de las Orquídeas Ye'Tsil ITVO 
-Curator's Name:	
-Director's Name:	
-Info:	  Mexico - Oaxaca - Santa Cruz Xoxocotlán  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Pabellón de las Orquídeas Ye'Tsil ITVO; Ex Hacienda de Nazareno s/n; San Jesús Nazareno; Santa Cruz Xoxocotlán; Oaxaca C. P. 71230 Mexico; ;  Telephone: +52(951)5170788 and 5170444 ext. 10205; Fax: ; URL: <a target="_blank" href="http://NA">NA; Primary Email: maya801031@hotmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	17°01'11.39"
-Longitude:	96°45'49.62"
+0-ID: 5409
+1-Name: Pabellón de las Orquídeas Ye'Tsil ITVO 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Pabellón de las Orquídeas Ye'Tsil ITVO;         Ex Hacienda de Nazareno s/n;        San Jesús Nazareno;        Santa Cruz Xoxocotlán;        Oaxaca C. P. 71230 Mexico;        ;                 Telephone: +52(951)5170788 and 5170444 ext. 10205;         Fax: ;         URL: NA;         Primary Email: maya801031@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 17°01'11.39"
+2-Longitude: 96°45'49.62"
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5409">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5409">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5409">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5409">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5409">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: maya801031@hotmail.com
+9-Telephone: +52(951)5170788 and 5170444 ext. 10205
+9-URL: NA

@@ -1,13 +1,22 @@
-ID:	4843
-Name:	Sissinghurst Castle Garden 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Kent - Cranbrook  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Sissinghurst Castle Garden The magical creation of Vita Sackville-West and Harold Nicolson, who moved here in 1930 and transformed the ruins of an Elizabethan mansion and its surroundings. The garden was divided into a series of compartments and each "room" filled with an inspired and informal arrangement of plants around a theme: the White Garden, the Purple Border, the Rose Garden, the Herb Garden, the Lime Walk and the Cottage Garden. The White Garden shows Vita Sackville-West's sensitivity to colour and has inspired countless imitations. Rosa mulliganii erupts into a cascade of white flowers in summer, surrounded by numerous other plants with grey foliage and white blossoms. Other areas show the same ingenuity of planting. This combination of formal design and romantic planting has provided a major influence on garden design.;  Main Address:; Sissinghurst Castle Garden; Sissinghurst; Cranbrook; Kent TN17 2AB United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/sissinghurst-castle/">www.nationaltrust.org.uk/sissinghurst-castle/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Date founded:	1930
-Institution Type:	Other
-Latitude:	51.11567353
-Longitude:	0.581502914
-Total Area:	2 Hectares
-Number of Visitors:	175000
+0-ID: 4843
+1-Name: Sissinghurst Castle Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1930
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Sissinghurst Castle Garden        The magical creation of Vita Sackville-West and Harold Nicolson, who moved here in 1930 and transformed the ruins of an Elizabethan mansion and its surroundings. The garden was divided into a series of compartments and each "room" filled with an inspired and informal arrangement of plants around a theme: the White Garden, the Purple Border, the Rose Garden, the Herb Garden, the Lime Walk and the Cottage Garden. The White Garden shows Vita Sackville-West's sensitivity to colour and has inspired countless imitations. Rosa mulliganii erupts into a cascade of white flowers in summer, surrounded by numerous other plants with grey foliage and white blossoms. Other areas show the same ingenuity of planting. This combination of formal design and romantic planting has provided a major influence on garden design.;                        Main Address:;         Sissinghurst Castle Garden;         Sissinghurst;                Cranbrook;        Kent TN17 2AB United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/sissinghurst-castle/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 51.11567353
+2-Longitude: 0.581502914
+2-Total Area: 2 Hectares
+3-Number of Visitors: 175000
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4843">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4843">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4843">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4843">Please click here if you can update us</a>
+9-About the Sissinghurst Castle Garden        The magical creation of Vita Sackville-West and Harold Nicolson, who moved here in 1930 and transformed the ruins of an Elizabethan mansion and its surroundings. The garden was divided into a series of compartments and each "room" filled with an inspired and informal arrangement of plants around a theme: the White Garden, the Purple Border, the Rose Garden, the Herb Garden, the Lime Walk and the Cottage Garden. The White Garden shows Vita Sackville-West's sensitivity to colour and has inspired countless imitations. Rosa mulliganii erupts into a cascade of white flowers in summer, surrounded by numerous other plants with grey foliage and white blossoms. Other areas show the same ingenuity of planting. This combination of formal design and romantic planting has provided a major influence on garden design.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/sissinghurst-castle/

@@ -1,20 +1,24 @@
-ID:	3243
-Name:	Jardin Botanico de Cali 
-Administration Staff Number:	3
-Curator's Name:	
-Director's Name:	Jorge Enrique Orejuela-Gartner
-Educational Staff Number:	2
-Horticultural Staff Number:	4
-Info:	  Colombia - Cali  ;Garden Information;  Institution Code: BCAL; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanico de Cali; Av8N #24-118Cali Colombia; Cali; Colombia; ;  Telephone: 57 2 8921687; Fax: ; URL: <a target="_blank" href="http://jardinbotanicodecali.org">jardinbotanicodecali.org; Primary Email: jbc.informacion@gmail.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Date founded:	2001
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	3.4233
-Longitude:	-76.5245
-Natural Vegetation Area:	Yes
-Total Area:	12 Hectares
-Number of Visitors:	10000
-Open to public:	Yes
+0-ID: 3243
+1-Name: Jardin Botanico de Cali 
+2-Altitude: 0.00 Metres
+2-Date founded: 2001
+2-Info:              Institution Code: BCAL;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico de Cali;         Av8N #24-118Cali Colombia;                Cali;        Colombia;        ;                 Telephone: 57 2 8921687;         Fax: ;         URL: jardinbotanicodecali.org;         Primary Email: jbc.informacion@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 3.4233
+2-Longitude: -76.5245
+2-Natural Vegetation Area: Yes
+2-Total Area: 12 Hectares
+3-Number of Visitors: 10000
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3243">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3243">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3243">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3243">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BCAL
+9-International Agenda Registration: Yes
+9-Primary Email: jbc.informacion@gmail.com
+9-Telephone: 57 2 8921687
+9-URL: jardinbotanicodecali.org

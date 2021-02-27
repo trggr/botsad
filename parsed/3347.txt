@@ -1,11 +1,19 @@
-ID:	3347
-Name:	Samsung Everland Botanic Garden 
-Curator's Name:	Kunso Kim
-Director's Name:	Bong-Young KIm
-Info:	  South Korea - Gyeonggi-do - Yongin-si  ;Garden Information;  Institution Code: YIYG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Samsung Everland Botanic Garden; 310 Jeundai-Ri, Pokog-eup, Cheoyin-gu; Yongin-si; Gyeonggi-do 499-810 South Korea; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	Wonsoon Park
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	36.0000
-Longitude:	128.0000
-Special Collections:	Paeonia, medicinal plants, aromatic plants, Hibiscus, native plant, exotics, Acer, Actinidia, Angelica, Begonia, Bromeliaceae, Weigelia, Cornus, Juniperus, Rhododendron, Castanea, Quercus, Ginkgo, Hydranga, Philadelphus, Juglans, Iris, Magnolia, Hibiscus,
+0-ID: 3347
+1-Name: Samsung Everland Botanic Garden 
+2-Date founded: 1976
+2-Info:              Institution Code: YIYG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Samsung Everland Botanic Garden;         310 Jeundai-Ri, Pokog-eup, Cheoyin-gu;                Yongin-si;        Gyeonggi-do 499-810 South Korea;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.0000
+2-Longitude: 128.0000
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3347">Please click here if you can update us</a>
+4-Special Collections: Paeonia, medicinal plants, aromatic plants, Hibiscus, native plant, exotics, Acer, Actinidia, Angelica, Begonia, Bromeliaceae, Weigelia, Cornus, Juniperus, Rhododendron, Castanea, Quercus, Ginkgo, Hydranga, Philadelphus, Juglans, Iris, Magnolia, Hibiscus,
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3347">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3347">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3347">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: YIYG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

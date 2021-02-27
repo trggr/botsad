@@ -1,68 +1,71 @@
-ID:	2519
-Name:	Jardin Botanique de la Faculte des Sciences Pharmaceutiques, Universté de Lille 2 
-"garden-photo"> <img src="/photos/2519/Copie de Plates bandes systématique JB Fac Lille-59 30 mai 2002.JPG" alt="Systematic display and Pharmacy students" /> Systematic display and Pharmacy students  About the Jardin Botanique de la Faculte des Sciences Pharmaceutiques, Universté de Lille 2 Location:	LILLE
-Address:	3 rue du Professeur Laguesse, BP 83,59006, LILLE Cedex.FRANCE
-Fax:	+00 32 3 20 95 90 09
-Founded:	1970
-Garden Name:	Jardin Botanique de la Faculte des Sciences Pharmaceutiques
-Herbarium:	Angiosperms 10 000 parts(curator Pr. F. Dupont), Bryophyta 2 000 (curator Dr. B. de Foucault) Lichens 4 500 (curatoir Pr. C. Van Haluwyn)Fungi 60 000 parts curator Pr. R. Courtecuisse)
-Info:	  France - Lille  ;Garden Information;  Institution Code: LILL; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	frederic.dupont@univ-lille2.fr
-Status:	University
-Telephone:	+00 32 320 96 40 40
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Pr Frederic Dupont
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	Pr Frederic Dupont
-Research Staff Number:	
-Altitude:	20.00 Metres
-Annual Rainfall:	650 mm
-Date founded:	1970
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	50.6371
-Local Address:	3, rue du professeur Laguesse
-Locality:	Information
-Longitude:	3.0630
-Natural Vegetation Area:	Yes
-Total Area:	3 Hectares
-Total area of glasshouses:	120 Metres
-Arboretum:	Yes
-Arboretum Size:	1
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	500
-Number of Volunteers:	1
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-ABS Policy:	No
-Accession Number:	800
-Cultivation Taxa Num:	600
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	Trees and shrubs, gymnosperms (20 spp.), ornamental plants, medicinals, perfume plants, herbaceous plants (117 spp.)
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Data Management Systems and Information Technology:	Yes
-Ethnobotany:	Yes
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	No
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 2519
+1-Name: Jardin Botanique de la Faculte des Sciences Pharmaceutiques, Universté de Lille 2 
+2-Administration Staff Number: 
+2-Curator's Name: 
+2-Director's Name: Pr Frederic Dupont
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: LILL;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/2519/Copie de Plates bandes systématique JB Fac Lille-59 30 mai 2002.JPG" alt="Systematic display and Pharmacy students" />         Systematic display and Pharmacy students</div>        </div>                           About the Jardin Botanique de la Faculte des Sciences Pharmaceutiques, Universté de Lille 2        Location: LILLE;  Founded: 1970;  Garden Name: Jardin Botanique de la Faculte des Sciences Pharmaceutiques;  Address: 3 rue du Professeur Laguesse, BP 83,59006, LILLE Cedex.FRANCE;  Status: University;  Herbarium: Angiosperms 10 000 parts(curator Pr. F. Dupont), Bryophyta 2 000 (curator Dr. B. de Foucault) Lichens 4 500 (curatoir Pr. C. Van Haluwyn)Fungi 60 000 parts curator Pr. R. Courtecuisse);  Ex situ Collections:;  Trees and shrubs, gymno;                        Main Address:;         Jardin Botanique de la Faculte des Sciences Pharmaceutiques, Universté de Lille 2;         3 rue du Professeur LaguesseBP 83  59006 Lille Ced;                Lille;        France;        ;                 Telephone: +00 32 320 96 40 40;         Fax: +00 32 3 20 95 90 09;         URL: http://botanique.univ-lille2.fr/fr/le-jardin-botanique.html;         Primary Email: frederic.dupont@univ-lille2.fr       ;              
+2-Plant Records Officer's Name: Pr Frederic Dupont
+2-Research Staff Number: 
+3-Altitude: 20.00 Metres
+3-Annual Rainfall: 650 mm
+3-Date founded: 1970
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 50.6371
+3-Local Address: 3, rue du professeur Laguesse
+3-Locality: Information
+3-Longitude: 3.0630
+3-Natural Vegetation Area: Yes
+3-Total Area: 3 Hectares
+3-Total area of glasshouses: 120 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 1
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 500
+4-Number of Volunteers: 1
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: Yes
+5-ABS Policy: No
+5-Accession Number: 800
+5-Cultivation Taxa Num: 600
+5-Invasive Species Monitoring: No
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+5-Special Collections: Trees and shrubs, gymnosperms (20 spp.), ornamental plants, medicinals, perfume plants, herbaceous plants (117 spp.)
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Data Management Systems and Information Technology: Yes
+7-Ethnobotany: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: No
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-<img src="/photos/2519/Copie de Plates bandes systématique JB Fac Lille-59 30 mai 2002.JPG" alt="Systematic display and Pharmacy students" />         Systematic display and Pharmacy students</div>        </div>                           About the Jardin Botanique de la Faculte des Sciences Pharmaceutiques, Universté de Lille 2        Location: LILLE
+9-Address: 3 rue du Professeur Laguesse, BP 83,59006, LILLE Cedex.FRANCE
+9-BGCI Member: No
+9-Fax: +00 32 3 20 95 90 09
+9-Founded: 1970
+9-Garden Name: Jardin Botanique de la Faculte des Sciences Pharmaceutiques
+9-Herbarium: Angiosperms 10 000 parts(curator Pr. F. Dupont), Bryophyta 2 000 (curator Dr. B. de Foucault) Lichens 4 500 (curatoir Pr. C. Van Haluwyn)Fungi 60 000 parts curator Pr. R. Courtecuisse)
+9-Institution Code: LILL
+9-International Agenda Registration: No
+9-Primary Email: frederic.dupont@univ-lille2.fr
+9-Status: University
+9-Telephone: +00 32 320 96 40 40

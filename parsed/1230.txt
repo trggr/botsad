@@ -1,18 +1,25 @@
-ID:	1230
-Name:	Hofstra University Arboretum 
-Curator's Name:	
-Director's Name:	Frederick Soviero, Director
-Info:	  United States of America - New York - Hempstead  ;Garden Information;  Institution Code: HOFST; International Agenda Registration: No; BGCI Member: No; About the Hofstra University Arboretum Hofstra's 240 acres provide a beautiful campus setting that inspires and motivates its students. The Hofstra campus is a member in good standing of the American Public Gardens Association, one of only 430 arboreta in the United States. Today, more than 12,000 evergreen and deciduous trees represent 625 species and varieties, and the number is increasing every year.;  Main Address:; Hofstra University Arboretum; 129 Hofstra University; Hempstead; New York 11549 United States of America; ;  Telephone: (516) 463-6623; Fax: (516) 463-5302; URL: <a target="_blank" href="http://www.hofstra.edu/Community/Arbor/">www.hofstra.edu/Community/Arbor/; Primary Email: Frederick.B.Soviero@hofstra.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1939
-Institution Type:	Botanic Garden
-Latitude:	40.7141000
-Longitude:	-73.6003000
-Total Area:	97 Hectares
-Arboretum:	Yes
-Arboretum Size:	97
-Friends society:	Yes
-Open to public:	Yes
-Accession Number:	12000
-Special Collections:	evergreen and deciduous trees
+0-ID: 1230
+1-Name: Hofstra University Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1939
+2-Info:              Institution Code: HOFST;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Hofstra University Arboretum        Hofstra's 240 acres provide a beautiful campus setting that inspires and motivates its students. The Hofstra campus is a member in good standing of the American Public Gardens Association, one of only 430 arboreta in the United States. Today, more than 12,000 evergreen and deciduous trees represent 625 species and varieties, and the number is increasing every year.;                        Main Address:;         Hofstra University Arboretum;         129 Hofstra University;                Hempstead;        New York 11549 United States of America;        ;                 Telephone: (516) 463-6623;         Fax: (516) 463-5302;         URL: www.hofstra.edu/Community/Arbor/;         Primary Email: Frederick.B.Soviero@hofstra.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.7141000
+2-Longitude: -73.6003000
+2-Total Area: 97 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 97
+3-Friends society: Yes
+3-Open to public: Yes
+4-Accession Number: 12000
+4-Special Collections: evergreen and deciduous trees
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1230">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1230">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1230">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (516) 463-5302
+9-Institution Code: HOFST
+9-International Agenda Registration: No
+9-Primary Email: Frederick.B.Soviero@hofstra.edu
+9-Telephone: (516) 463-6623
+9-URL: www.hofstra.edu/Community/Arbor/

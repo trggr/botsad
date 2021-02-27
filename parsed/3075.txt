@@ -1,10 +1,19 @@
-ID:	3075
-Name:	Jardin Botanico "Pena del Olivar" 
-Curator's Name:	
-Director's Name:	
-Info:	  Spain - Siles  ;Garden Information;  Institution Code: SILES; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico "Pena del Olivar"; P.P. ierra de Czorla, Segura y Las Villas, 23380 Siles. Jaen, Spain; Siles; Spain; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	38.3962
-Longitude:	-2.6446
+0-ID: 3075
+1-Name: Jardin Botanico "Pena del Olivar" 
+2-Date founded: 
+2-Info:              Institution Code: SILES;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico "Pena del Olivar";         P.P. ierra de Czorla, Segura y Las Villas,  23380 Siles. Jaen,  Spain;                Siles;        Spain;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.3962
+2-Longitude: -2.6446
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3075">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3075">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3075">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3075">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3075">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SILES
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

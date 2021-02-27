@@ -1,9 +1,18 @@
-ID:	5159
-Name:	Mount Stuart Trust 
-Curator's Name:	
-Director's Name:	
-Info:	  United Kingdom - Isle of Bute  ;Garden Information;  Institution Code: MST; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Mount Stuart Trust; Mount Stuart; Isle of Bute; PA20 9LR United Kingdom; ;  Telephone: 01700 503877 ext 225; Fax: ; URL: <a target="_blank" href="http://www.mountstuart.com">www.mountstuart.com; Primary Email: don@mountstuart.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	55.791664
-Longitude:	-5.0213737
+0-ID: 5159
+1-Name: Mount Stuart Trust 
+2-Info:              Institution Code: MST;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Mount Stuart Trust;         Mount Stuart;                Isle of Bute;        PA20 9LR United Kingdom;        ;                 Telephone: 01700 503877 ext 225;         Fax: ;         URL: www.mountstuart.com;         Primary Email: don@mountstuart.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.791664
+2-Longitude: -5.0213737
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5159">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5159">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5159">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5159">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5159">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: MST
+9-International Agenda Registration: No
+9-Primary Email: don@mountstuart.com
+9-Telephone: 01700 503877 ext 225
+9-URL: www.mountstuart.com

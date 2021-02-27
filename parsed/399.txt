@@ -1,11 +1,19 @@
-ID:	399
-Name:	Arboretum d'Amance 
-Curator's Name:	
-Director's Name:	Eric Quinton
-Info:	  France - Nancy  ;Garden Information;  Institution Code: NANAF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum d'Amance; Station d'Amelioration des Arbres Forestieres, Centre National de Recherches Forestieres, Champeno; Nancy; France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1901
-Institution Type:	Botanic Garden
-Latitude:	48.6880
-Longitude:	6.1734
-Special Collections:	Forest trees, especially conifers
+0-ID: 399
+1-Name: Arboretum d'Amance 
+2-Date founded: 1901
+2-Info:              Institution Code: NANAF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum d'Amance;         Station d'Amelioration des Arbres Forestieres,  Centre National de Recherches Forestieres,  Champeno;                Nancy;        France;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.6880
+2-Longitude: 6.1734
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=399">Please click here if you can update us</a>
+4-Special Collections: Forest trees, especially conifers
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=399">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=399">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=399">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NANAF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

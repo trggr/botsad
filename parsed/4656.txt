@@ -1,9 +1,18 @@
-ID:	4656
-Name:	Cylburn Arboretum 
-Curator's Name:	Melissa Grim, Chief Horticulturist
-Director's Name:	Gregory Bayor, Director of BRP
-Info:	  United States of America - Maryland - Baltimore  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cylburn Arboretum; 4915 Greenspring Avenue; Baltimore; Maryland 21209 United States of America; ;  Telephone: (410) 396-0180; Fax: ; URL: <a target="_blank" href="http://www.baltimorecity.gov/Government/AgenciesDepartments/RecreationandParks/SpecialFacilities/CylburnArboretum.aspx">www.baltimorecity.gov/Government/AgenciesDepartments/RecreationandParks/SpecialFacilities/CylburnArboretum.aspx; Primary Email: BCRPGenInfo1@baltimorecity.gov ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.3499601
-Longitude:	-76.6593934
+0-ID: 4656
+1-Name: Cylburn Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Cylburn Arboretum;         4915 Greenspring Avenue;                Baltimore;        Maryland 21209 United States of America;        ;                 Telephone: (410) 396-0180;         Fax: ;         URL: www.baltimorecity.gov/Government/AgenciesDepartments/RecreationandParks/SpecialFacilities/CylburnArboretum.aspx;         Primary Email: BCRPGenInfo1@baltimorecity.gov       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.3499601
+2-Longitude: -76.6593934
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4656">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4656">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4656">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4656">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4656">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: BCRPGenInfo1@baltimorecity.gov
+9-Telephone: (410) 396-0180
+9-URL: www.baltimorecity.gov/Government/AgenciesDepartments/RecreationandParks/SpecialFacilities/CylburnArboretum.aspx

@@ -1,12 +1,20 @@
-ID:	2241
-Name:	George Tindale Memorial Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Sherbrooke  ;Garden Information;  Institution Code: GETIN; International Agenda Registration: No; BGCI Member: No;  Main Address:; George Tindale Memorial Gardens; Sherbrooke Road, SHERBROOKE, VIC 3789, Australia; Sherbrooke; Australia; ;  Telephone: 61 (0)3-9755 2912; Fax: 61 (0)3-9755 2908; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1981
-Institution Type:	Other
-Latitude:	-37.8802887
-Longitude:	145.3658588
-Special Collections:	20 % of collection is Australian flora.
+0-ID: 2241
+1-Name: George Tindale Memorial Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1981
+2-Info:              Institution Code: GETIN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         George Tindale Memorial Gardens;         Sherbrooke Road,  SHERBROOKE,  VIC 3789,  Australia;                Sherbrooke;        Australia;        ;                 Telephone: 61 (0)3-9755 2912;         Fax: 61 (0)3-9755 2908;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: -37.8802887
+2-Longitude: 145.3658588
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2241">Please click here if you can update us</a>
+4-Special Collections: 20 % of collection is Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2241">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2241">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2241">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3-9755 2908
+9-Institution Code: GETIN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)3-9755 2912
+9-URL: 

@@ -1,12 +1,20 @@
-ID:	3620
-Name:	Botanische Tuin De Kruidhof 
-Curator's Name:	
-Director's Name:	J.W. Zwart
-Info:	  Netherlands - Buitenpost  ;Garden Information;  Institution Code: BUITP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanische Tuin De Kruidhof; Schoolstraat 29b; Buitenpost; 9285 NE Netherlands; ;  Telephone: +31511 541253; Fax: ; URL: <a target="_blank" href="http://www.dekruidhof.nl">www.dekruidhof.nl; Primary Email: info@dekruidhof.nl ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1930
-Institution Type:	Botanic Garden
-Latitude:	53.2431
-Longitude:	6.1447
-Open to public:	Yes
+0-ID: 3620
+1-Name: Botanische Tuin De Kruidhof 
+2-Altitude: 0.00 Metres
+2-Date founded: 1930
+2-Info:              Institution Code: BUITP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanische Tuin De Kruidhof;         Schoolstraat 29b;                Buitenpost;        9285 NE Netherlands;        ;                 Telephone: +31511  541253;         Fax: ;         URL: www.dekruidhof.nl;         Primary Email: info@dekruidhof.nl       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 53.2431
+2-Longitude: 6.1447
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3620">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3620">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3620">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3620">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BUITP
+9-International Agenda Registration: No
+9-Primary Email: info@dekruidhof.nl
+9-Telephone: +31511  541253
+9-URL: www.dekruidhof.nl

@@ -1,11 +1,20 @@
-ID:	1039
-Name:	Comenius University Faculty of Pharmacy, Garden of Medicinal Plants 
-Curator's Name:	Viktor Toth
-Director's Name:	Dr. Daniela Tekelova
-Info:	  Slovakia - Bratislava  ;Garden Information;  Institution Code: BRATS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Comenius University Faculty of Pharmacy, Garden of Medicinal Plants; Odbojarov 10, 83232 BRATISLAVA, Slovakia; Bratislava; Slovakia; ;  Telephone: Nat.Bratislava 60651; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1967
-Institution Type:	Botanic Garden
-Latitude:	48.1483
-Longitude:	17.1073
+0-ID: 1039
+1-Name: Comenius University Faculty of Pharmacy, Garden of Medicinal Plants 
+2-Altitude: 0.00 Metres
+2-Date founded: 1967
+2-Info:              Institution Code: BRATS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Comenius University Faculty of Pharmacy, Garden of Medicinal Plants;         Odbojarov 10,   83232 BRATISLAVA,   Slovakia;                Bratislava;        Slovakia;        ;                 Telephone: Nat.Bratislava 60651;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.1483
+2-Longitude: 17.1073
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1039">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1039">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1039">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1039">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1039">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BRATS
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: Nat.Bratislava 60651
+9-URL: 

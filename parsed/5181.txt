@@ -1,9 +1,18 @@
-ID:	5181
-Name:	Università di Cagliari 
-Curator's Name:	
-Director's Name:	Gianluigi Bacchetta
-Info:	  Italy - Sardegna - Cagliari  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Università di Cagliari; Centro Servizi di Ateneo HBK; Via S. Ignazio da Laconi 9-11; Cagliari; Sardegna 09123 Italy; ;  Telephone: 070-675-6401; Fax: 070-675-6402; URL: <a target="_blank" href="http://">; Primary Email: cirem@unica.it ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.5983734
-Longitude:	9.181808
+0-ID: 5181
+1-Name: Università di Cagliari 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Università di Cagliari;         Centro Servizi di Ateneo HBK;        Via S. Ignazio da Laconi 9-11;        Cagliari;        Sardegna 09123 Italy;        ;                 Telephone: 070-675-6401;         Fax: 070-675-6402;         URL: ;         Primary Email: cirem@unica.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.5983734
+2-Longitude: 9.181808
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5181">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5181">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5181">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5181">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5181">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 070-675-6402
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cirem@unica.it
+9-Telephone: 070-675-6401
+9-URL: 

@@ -1,10 +1,17 @@
-ID:	4750
-Name:	Redlands Indigiscape Centre 
-Curator's Name:	
-Director's Name:	The Director
-Info:	  Australia - QLD - Capalaba  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Redlands Indigiscape Centre; 17 Runnymede Road; Capalaba; QLD 4157 Australia; ;  Telephone: (07) 3824 8611; Fax: ; URL: <a target="_blank" href="http://indigiscapes.redland.qld.gov.au">http://indigiscapes.redland.qld.gov.au; Primary Email: indigiscapes@redland.qld.gov.au ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-27.5476844
-Longitude:	153.2172087
-Reintroduction Programme:	Yes
+0-ID: 4750
+1-Name: Redlands Indigiscape Centre 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Redlands Indigiscape Centre;         17 Runnymede Road;                Capalaba;        QLD 4157 Australia;        ;                 Telephone: (07) 3824 8611;         Fax: ;         URL: http://indigiscapes.redland.qld.gov.au;         Primary Email: indigiscapes@redland.qld.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -27.5476844
+2-Longitude: 153.2172087
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4750">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4750">Please click here if you can update us</a>
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4750">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4750">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: indigiscapes@redland.qld.gov.au
+9-Telephone: (07) 3824 8611

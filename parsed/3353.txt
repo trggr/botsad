@@ -1,11 +1,19 @@
-ID:	3353
-Name:	Monastir Medicinal Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Tunisia - Monastir  ;Garden Information;  Institution Code: MOTU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Monastir Medicinal Botanic Garden; Faculty of Pharmacy MONASTIR; Monastir; Tunisia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	35.7678
-Longitude:	10.8225
-Special Collections:	The Garden is currently under development. Its collections include medicinal plants, Mediterranean, ornamental and som native trees, such as Olea europea, Schinus molle, Jacaranda mimosifolia, Myoporum insular, Hibiscus mutabilis, Nerium oleander, Pittors
+0-ID: 3353
+1-Name: Monastir Medicinal Botanic Garden 
+2-Date founded: 1990
+2-Info:              Institution Code: MOTU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Monastir Medicinal Botanic Garden;         Faculty of Pharmacy MONASTIR;                Monastir;        Tunisia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.7678
+2-Longitude: 10.8225
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3353">Please click here if you can update us</a>
+4-Special Collections: The Garden is currently under development. Its collections include medicinal plants, Mediterranean, ornamental and som native trees, such as Olea europea, Schinus molle, Jacaranda mimosifolia, Myoporum insular, Hibiscus mutabilis, Nerium oleander, Pittors
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3353">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3353">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3353">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MOTU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

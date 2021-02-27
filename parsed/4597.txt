@@ -1,9 +1,18 @@
-ID:	4597
-Name:	Nemours Mansion and Gardens 
-Curator's Name:	
-Director's Name:	Grace Cary, Executive Director
-Info:	  United States of America - Delaware - Wilmington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Nemours Mansion and Gardens; 1600 Rockland Road; Wilmington; Delaware 19803 United States of America; ;  Telephone: (302) 651-5012; Fax: ; URL: <a target="_blank" href="http://www.nemoursmansion.org">www.nemoursmansion.org; Primary Email: tours@nemours.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.7793465
-Longitude:	-75.5552234
+0-ID: 4597
+1-Name: Nemours Mansion and Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Nemours Mansion and Gardens;         1600 Rockland Road;                Wilmington;        Delaware 19803 United States of America;        ;                 Telephone: (302) 651-5012;         Fax: ;         URL: www.nemoursmansion.org;         Primary Email: tours@nemours.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.7793465
+2-Longitude: -75.5552234
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4597">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4597">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4597">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4597">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4597">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: tours@nemours.org
+9-Telephone: (302) 651-5012
+9-URL: www.nemoursmansion.org

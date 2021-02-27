@@ -1,11 +1,19 @@
-ID:	543
-Name:	Waipahihi Botanical Society (Incorporated) 
-Curator's Name:	
-Director's Name:	R.H.Clere
-Info:	  New Zealand - Taupo  ;Garden Information;  Institution Code: TAUPO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Waipahihi Botanical Society (Incorporated); Shepherd Road, TAUPO, New Zealand.; Taupo; New Zealand; ;  Telephone: 85315; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1966
-Institution Type:	Botanic Garden
-Latitude:	-38.708883
-Longitude:	176.095928
-Special Collections:	New Zealand native flora, flaxes, ferns, alpines, Rhododendron, azaleas, Camellia.
+0-ID: 543
+1-Name: Waipahihi Botanical Society (Incorporated) 
+2-Date founded: 1966
+2-Info:              Institution Code: TAUPO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Waipahihi Botanical Society (Incorporated);         Shepherd Road,  TAUPO,  New Zealand.;                Taupo;        New Zealand;        ;                 Telephone: 85315;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -38.708883
+2-Longitude: 176.095928
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=543">Please click here if you can update us</a>
+4-Special Collections: New Zealand native flora, flaxes, ferns, alpines, Rhododendron, azaleas, Camellia.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=543">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=543">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=543">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TAUPO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 85315
+9-URL: 

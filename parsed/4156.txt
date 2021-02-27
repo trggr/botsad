@@ -1,22 +1,25 @@
-ID:	4156
-Name:	Jardín Botánico ISIMA-UJED 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	M.C.Federico Esparza Alcalde
-Educational Staff Number:	1
-Horticultural Staff Number:	5
-Info:	  Mexico - Durango - Durango  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico ISIMA-UJED; Universidad Juárez del Estado de Durango, Instituto de Silvicultura e Industria de la Madera; Blvd. Del Guadiana 501. Cd. Universitaria; Durango; Durango Dgo. 34160 Mexico; ;  Telephone: (618) 825-18-86; Fax: (618) 825-18-86; URL: <a target="_blank" href="http://portal.ujed.mx">http://portal.ujed.mx; Primary Email: jb_isima@ujed.mx ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	2002
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	32.2473
-Local Address:	Blvd. Del Guadiana 501 Cd. Universitaria 34160
-Locality:	Information
-Longitude:	-115.2550
-Natural Vegetation Area:	No
-Total Area:	2 Hectares
-Total area of glasshouses:	235 Metres
-Herbarium:	No
+0-ID: 4156
+1-Name: Jardín Botánico ISIMA-UJED 
+2-Altitude: 0.00 Metres
+2-Date founded: 2002
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico ISIMA-UJED;         Universidad Juárez del Estado de Durango, Instituto de Silvicultura e Industria de la Madera;        Blvd. Del Guadiana 501. Cd. Universitaria;        Durango;        Durango Dgo. 34160 Mexico;        ;                 Telephone: (618) 825-18-86;         Fax: (618) 825-18-86;         URL: http://portal.ujed.mx;         Primary Email: jb_isima@ujed.mx       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 32.2473
+2-Local Address: Blvd. Del Guadiana 501 Cd. Universitaria 34160
+2-Locality: Information
+2-Longitude: -115.2550
+2-Natural Vegetation Area: No
+2-Total Area: 2 Hectares
+2-Total area of glasshouses: 235 Metres
+3-Herbarium: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4156">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4156">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4156">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4156">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (618) 825-18-86
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: jb_isima@ujed.mx
+9-Telephone: (618) 825-18-86

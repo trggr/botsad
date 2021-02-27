@@ -1,74 +1,75 @@
-ID:	2070
-Name:	Huntsville Botanical Garden 
-Administration Staff Number:	3
-Curator's Name:	Niki Sothers, Director of Horticulture
-Director's Name:	Sue Wagner, President/CEO
-Educational Staff Number:	3
-Horticultural Staff Number:	17
-Info:	  United States of America - Alabama - Huntsville  ;Garden Information;  Institution Code: HUNTS; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Huntsville Botanical Garden In this dynamic young garden you will find inviting woodland paths, stunning floral collections and exhibits to delight visitors of all ages.; ; Paths meander through the shady woodlands of the Dogwood Trail and the lush fern glade, while native wildflowers quietly populate the Nature Trail. Daylily and herb gardens rival or surpass those of older, more mature botanical gardens. The demonstration vegetable garden showcases varieties of produce and inspires home gardeners.; ; The 5-acre Central Corridor Gardens, featuring aquatic, perennial, and annual displays are ablaze with color from early spring through fall. The Garden of Hope celebrates life and affords a place for quiet contemplation and observation of nature.;  Main Address:; Huntsville Botanical Garden; 4747 Bob Wallace Avenue; Huntsville; Alabama 35805 United States of America; ;  Telephone: (256) 830-4447; Fax: (256) 830-5314; URL: <a target="_blank" href="http://www.hsvbg.org">www.hsvbg.org; Primary Email: nsothers@hsvbg.org ; 
-Plant Records Officer's Name:	Tracy Cook, Curator
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1988
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	34.7128520
-Local Address:	4747 Bob Wallace Ave
-Locality:	Information
-Longitude:	-86.6356770
-Natural Vegetation Area:	Yes
-Total Area:	54 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	300000
-Number of Volunteers:	2500
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	4466
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2070
+1-Name: Huntsville Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1988
+2-Info:              Institution Code: HUNTS;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                          About the Huntsville Botanical Garden        In this dynamic young garden you will find inviting woodland paths, stunning floral collections and exhibits to delight visitors of all ages.;  ;  Paths meander through the shady woodlands of the Dogwood Trail and the lush fern glade, while native wildflowers quietly populate the Nature Trail. Daylily and herb gardens rival or surpass those of older, more mature botanical gardens. The demonstration vegetable garden showcases varieties of produce and inspires home gardeners.;  ;  The 5-acre Central Corridor Gardens, featuring aquatic, perennial, and annual displays are ablaze with color from early spring through fall. The Garden of Hope celebrates life and affords a place for quiet contemplation and observation of nature.;                        Main Address:;         Huntsville Botanical Garden;         4747 Bob Wallace Avenue;                Huntsville;        Alabama 35805 United States of America;        ;                 Telephone: (256) 830-4447;         Fax: (256) 830-5314;         URL: www.hsvbg.org;         Primary Email: nsothers@hsvbg.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 34.7128520
+2-Local Address: 4747 Bob Wallace Ave
+2-Locality: Information
+2-Longitude: -86.6356770
+2-Natural Vegetation Area: Yes
+2-Total Area: 54 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 300000
+3-Number of Volunteers: 2500
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: Yes
+4-Accession Number: 4466
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: Yes
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: Yes
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: Yes
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: (256) 830-5314
+9-Institution Code: HUNTS
+9-International Agenda Registration: No
+9-Primary Email: nsothers@hsvbg.org
+9-Telephone: (256) 830-4447
+9-URL: www.hsvbg.org

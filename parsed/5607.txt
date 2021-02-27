@@ -1,9 +1,18 @@
-ID:	5607
-Name:	Jardín Botánico Huertos La Macarena 
-Curator's Name:	
-Director's Name:	Julio Meneses
-Info:	  Ecuador - Azuay - Matriz  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Huertos La Macarena; Carretera Paute-Guarumales; Matriz; Azuay Ecuador; ;  Telephone: 593 0996893586; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jardinbotanico_macarena@hotmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-2.76438
-Longitude:	-78.717
+0-ID: 5607
+1-Name: Jardín Botánico Huertos La Macarena 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Huertos La Macarena;         Carretera Paute-Guarumales;                Matriz;        Azuay Ecuador;        ;                 Telephone: 593  0996893586;         Fax: ;         URL: ;         Primary Email: jardinbotanico_macarena@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -2.76438
+2-Longitude: -78.717
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5607">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5607">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5607">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5607">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5607">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jardinbotanico_macarena@hotmail.com
+9-Telephone: 593  0996893586
+9-URL: 

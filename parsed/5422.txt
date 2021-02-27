@@ -1,41 +1,45 @@
-ID:	5422
-Name:	The Arboretum, Bergen 
-Fax:	004755587276
-Info:	  Norway - Bergen  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	
-Telephone:	004755587250
-Curator's Name:	Per Harald Salvesen / Michael Pirie
-Director's Name:	John-Arvid Grytnes
-Plant Records Officer's Name:	Reidun Samuelsen
-Altitude:	0.00 Metres
-Annual Rainfall:	2250 mm
-Date founded:	1971
-Institution Type:	Botanic Garden
-Latitude:	60.256
-Longitude:	5.272
-Total Area:	50 Hectares
-Arboretum:	Yes
-Arboretum Size:	50
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Systematics and Taxonomy:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 5422
+1-Name: The Arboretum, Bergen 
+2-Curator's Name: Per Harald Salvesen / Michael Pirie
+2-Director's Name: John-Arvid Grytnes
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/5422/IMG_20190606_174958_resize.jpg" alt="Mørkevatnet at the Arboretum, Milde" />         Mørkevatnet at the Arboretum, Milde</div>        </div>                           About the The Arboretum, Bergen        The Arboretum is one of three Gardens under the auspices of the University Museum of Bergen, Norway. It houses the largest collection of Rhododendrons in Scandinavia, Norway's largest collection of roses, and is home to Blondehuset, "The Lace House".;                        Main Address:;         The Arboretum, Bergen;         Mildevegen 240;                Bergen;        5259 Hjellestad Norway;        ;                 Telephone: 004755587250;         Fax: 004755587276;         URL: https://www.uib.no/arboretet;         Primary Email:        ;              
+2-Plant Records Officer's Name: Reidun Samuelsen
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 2250 mm
+3-Date founded: 1971
+3-Institution Type: Botanic Garden
+3-Latitude: 60.256
+3-Longitude: 5.272
+3-Total Area: 50 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 50
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5422">Please click here if you can update us</a>
+7-Systematics and Taxonomy: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: No
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: 004755587276
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 004755587250

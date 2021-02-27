@@ -1,11 +1,19 @@
-ID:	413
-Name:	Botanischer Garten der Universitat Karlsruhe (TH) 
-Curator's Name:	None
-Director's Name:	Prof.Dr.M.H.Weisenseel
-Info:	  Germany - Deutschland - Karlsruhe  ;Garden Information;  Institution Code: UNKAR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Universitat Karlsruhe (TH); Kaiserstrasse 12,; Karlsruhe; Germany - Deutschland; ;  Telephone: 0721 608 2145; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	49.0080
-Longitude:	8.4037
-Special Collections:	Succulents, orchids. Maintains a seed bank with medium-term storage capacity, containing 400 accessions, representing 400 species (1994 figures).
+0-ID: 413
+1-Name: Botanischer Garten der Universitat Karlsruhe (TH) 
+2-Date founded: 
+2-Info:              Institution Code: UNKAR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanischer Garten der Universitat Karlsruhe (TH);         Kaiserstrasse 12,;                Karlsruhe;        Germany - Deutschland;        ;                 Telephone: 0721 608 2145;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.0080
+2-Longitude: 8.4037
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=413">Please click here if you can update us</a>
+4-Special Collections: Succulents, orchids. Maintains a seed bank with medium-term storage capacity, containing 400 accessions, representing 400 species (1994 figures).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=413">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=413">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=413">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: UNKAR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0721 608 2145
+9-URL: 

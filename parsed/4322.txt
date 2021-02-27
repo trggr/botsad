@@ -1,10 +1,18 @@
-ID:	4322
-Name:	Mount Congreve 
-Curator's Name:	
-Director's Name:	
-Info:	  Ireland - Co. Waterford - Kilmeaden  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Mount Congreve; Kilmeaden; Co. Waterford Ireland; ;  Telephone: +353 (0) 51 384715; Fax: ; URL: <a target="_blank" href="http://mountcongreve.com/">http://mountcongreve.com/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	52.2757204
-Longitude:	-6.7902374
+0-ID: 4322
+1-Name: Mount Congreve 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Mount Congreve;                         Kilmeaden;        Co. Waterford Ireland;        ;                 Telephone: +353 (0) 51 384715;         Fax: ;         URL: http://mountcongreve.com/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.2757204
+2-Longitude: -6.7902374
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4322">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4322">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4322">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4322">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4322">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +353 (0) 51 384715

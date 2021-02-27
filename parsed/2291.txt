@@ -1,10 +1,19 @@
-ID:	2291
-Name:	Ravindra Bharti University Department of Botany and Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Bolpur  ;Garden Information;  Institution Code: RAVI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ravindra Bharti University Department of Botany and Botanic Garden; Ravindra Bharti University, SANTINIKETAN - 731 235, Bolpur, Dist. Birbhum, West Bengal, India.; Bolpur; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	23.6624
-Longitude:	87.7041
+0-ID: 2291
+1-Name: Ravindra Bharti University Department of Botany and Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: RAVI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ravindra Bharti University Department of Botany and Botanic Garden;         Ravindra Bharti University, SANTINIKETAN - 731 235, Bolpur, Dist. Birbhum, West Bengal, India.;                Bolpur;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 23.6624
+2-Longitude: 87.7041
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2291">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2291">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2291">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2291">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2291">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: RAVI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

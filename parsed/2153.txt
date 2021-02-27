@@ -1,12 +1,20 @@
-ID:	2153
-Name:	Botany Garden 
-Curator's Name:	
-Director's Name:	Prof. A. Ramalingam
-Info:	  India - Dharwad  ;Garden Information;  Institution Code: KARNA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botany Garden; Botany Department, Karnatak University, DHARWAD - 580 003, Karnataka, India.; Dharwad; India; ;  Telephone: 91 (0)836 42 121; Fax: 91 (0)836 42 464; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1963
-Institution Type:	Botanic Garden
-Latitude:	15.4603
-Longitude:	74.9976
-Special Collections:	Plants representing the Western Ghats and other exotic collections.
+0-ID: 2153
+1-Name: Botany Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1963
+2-Info:              Institution Code: KARNA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botany Garden;         Botany Department,  Karnatak University,  DHARWAD - 580 003,  Karnataka,  India.;                Dharwad;        India;        ;                 Telephone: 91 (0)836 42 121;         Fax: 91 (0)836 42 464;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 15.4603
+2-Longitude: 74.9976
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2153">Please click here if you can update us</a>
+4-Special Collections: Plants representing the Western Ghats and other exotic collections.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2153">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2153">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2153">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 (0)836 42 464
+9-Institution Code: KARNA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 91 (0)836 42 121
+9-URL: 

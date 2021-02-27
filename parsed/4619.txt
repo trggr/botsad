@@ -1,9 +1,18 @@
-ID:	4619
-Name:	Atlanta History Center Gardens 
-Curator's Name:	
-Director's Name:	Travis Spiker, Gardens Director
-Info:	  United States of America - Georgia - Atlanta  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Atlanta History Center Gardens; Atlanta Historical Society, Inc.; 130 West Paces Ferry Road, NW; Atlanta; Georgia 30305-1366 United States of America; ;  Telephone: (404) 814-4000; Fax: ; URL: <a target="_blank" href="http://www.atlantahistorycenter.com/cms/Gardens/7.html">www.atlantahistorycenter.com/cms/Gardens/7.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	33.8418226
-Longitude:	-84.3862688
+0-ID: 4619
+1-Name: Atlanta History Center Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Atlanta History Center Gardens;         Atlanta Historical Society, Inc.;        130 West Paces Ferry Road, NW;        Atlanta;        Georgia 30305-1366 United States of America;        ;                 Telephone: (404) 814-4000;         Fax: ;         URL: www.atlantahistorycenter.com/cms/Gardens/7.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.8418226
+2-Longitude: -84.3862688
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4619">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4619">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4619">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4619">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4619">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (404) 814-4000
+9-URL: www.atlantahistorycenter.com/cms/Gardens/7.html

@@ -1,10 +1,20 @@
-ID:	4795
-Name:	Belton House 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Lincolnshire - Grantham  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Belton House When Sir John Brownlow built the house in the 1680s, he may well have commissioned Captain William Winde, a military man turned architect, to lay out the formal gardens. A devastating flood and the new fashion for "natural" landscape combined to sweep away this scheme, leaving only a small canal to the north-east of the house. But later generations of Brownlows were to return to the original formal idea: the sunken Italian garden, designed by Jeffry Wyatville at the beginning of the 19th century, and the Dutch garden commissioned by the 3rd Earl Brownlow in 1880 to harmonise with the north front of the house. Recently the gardens have benefited from extensive work - Wyatville's orangery restored, walls and garden features repaired, shrubberies replanted, and the recreation of the statue walk and box maze.;  Main Address:; Belton House; Grantham; Lincolnshire NG32 2LS United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/belton-house/">www.nationaltrust.org.uk/belton-house/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	52.9432074
-Longitude:	-0.617895126
+0-ID: 4795
+1-Name: Belton House 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Belton House        When Sir John Brownlow built the house in the 1680s, he may well have commissioned Captain William Winde, a military man turned architect, to lay out the formal gardens. A devastating flood and  the new fashion for "natural" landscape combined to sweep away this scheme, leaving only a small canal to the north-east of the house. But later generations of Brownlows were to return to the original formal idea: the sunken Italian garden, designed by Jeffry Wyatville at the beginning of the 19th century, and the Dutch garden commissioned by the 3rd Earl Brownlow in 1880 to harmonise with the north front of the house. Recently the gardens have benefited from extensive work - Wyatville's orangery restored, walls and garden features repaired, shrubberies replanted, and the recreation of the statue walk and box maze.;                        Main Address:;         Belton House;                         Grantham;        Lincolnshire NG32 2LS United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/belton-house/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 52.9432074
+2-Longitude: -0.617895126
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4795">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4795">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4795">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4795">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4795">Please click here if you can update us</a>
+9-About the Belton House        When Sir John Brownlow built the house in the 1680s, he may well have commissioned Captain William Winde, a military man turned architect, to lay out the formal gardens. A devastating flood and  the new fashion for "natural" landscape combined to sweep away this scheme, leaving only a small canal to the north-east of the house. But later generations of Brownlows were to return to the original formal idea: the sunken Italian garden, designed by Jeffry Wyatville at the beginning of the 19th century, and the Dutch garden commissioned by the 3rd Earl Brownlow in 1880 to harmonise with the north front of the house. Recently the gardens have benefited from extensive work - Wyatville's orangery restored, walls and garden features repaired, shrubberies replanted, and the recreation of the statue walk and box maze.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/belton-house/

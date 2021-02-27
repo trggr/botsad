@@ -1,11 +1,20 @@
-ID:	1251
-Name:	Lake Esmond Reserve 
-Curator's Name:	
-Director's Name:	R.J.Whitehead
-Info:	  Australia - Ballarat  ;Garden Information;  Institution Code: LEGNF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lake Esmond Reserve; c/o Director of Parks and Gardens, City of Ballarat, PO Box 655, BALLARAT, VIC 3350, Australia.; Ballarat; Australia; ;  Telephone: 61 (0)3 5333 8647; Fax: 61 (0)3 5339 5470; URL: <a target="_blank" href="http://">; Primary Email: info@begonia.ballarat.net.au ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1984
-Institution Type:	Other
-Latitude:	-37.57503
-Longitude:	143.87464
+0-ID: 1251
+1-Name: Lake Esmond Reserve 
+2-Altitude: 0.00 Metres
+2-Date founded: 1984
+2-Info:              Institution Code: LEGNF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Lake Esmond Reserve;         c/o Director of Parks and Gardens, City of Ballarat,  PO Box 655,  BALLARAT,  VIC 3350,  Australia.;                Ballarat;        Australia;        ;                 Telephone: 61 (0)3 5333 8647;         Fax: 61 (0)3 5339 5470;         URL: ;         Primary Email: info@begonia.ballarat.net.au       ;              
+2-Institution Type: Other
+2-Latitude: -37.57503
+2-Longitude: 143.87464
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1251">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1251">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1251">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1251">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1251">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5339 5470
+9-Institution Code: LEGNF
+9-International Agenda Registration: No
+9-Primary Email: info@begonia.ballarat.net.au
+9-Telephone: 61 (0)3 5333 8647
+9-URL: 

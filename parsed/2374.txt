@@ -1,10 +1,19 @@
-ID:	2374
-Name:	Bukavu Arboretum/Garden 
-Curator's Name:	
-Director's Name:	Ndela Musafiri
-Info:	  Rwanda - Cyangugu  ;Garden Information;  Institution Code: BUKAV; International Agenda Registration: No; BGCI Member: No; About the Bukavu Arboretum/Garden The current status of this garden is uncertain.;  Main Address:; Bukavu Arboretum/Garden; B.P. 222, CYANGUGU, Rwanda, Africa; Cyangugu; Rwanda; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-2.4854
-Longitude:	28.9103
+0-ID: 2374
+1-Name: Bukavu Arboretum/Garden 
+2-Date founded: 
+2-Info:              Institution Code: BUKAV;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Bukavu Arboretum/Garden        The current status of this garden is uncertain.;                        Main Address:;         Bukavu Arboretum/Garden;         B.P. 222, CYANGUGU,  Rwanda,  Africa;                Cyangugu;        Rwanda;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -2.4854
+2-Longitude: 28.9103
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2374">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2374">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2374">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2374">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2374">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BUKAV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

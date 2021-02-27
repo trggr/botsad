@@ -1,34 +1,39 @@
-ID:	1412
-Name:	Hunter Region Botanic Gardens 
-Curator's Name:	Patricia Shearston
-Director's Name:	Kevin Stokes
-Info:	  Australia - NSW - Heatherbrae  ;Garden Information;  Institution Code: HUNRGN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hunter Region Botanic Gardens; 2100 Pacific Highway,.; Heatherbrae; NSW 2324 Australia; ;  Telephone: 61 (0)2 4987 1655; Fax: 61 (0)2 4987 1440; URL: <a target="_blank" href="http://www.huntergardens.org.au">www.huntergardens.org.au; Primary Email: admin@huntergardens.org.au ; 
-Plant Records Officer's Name:	Tim Parsons
-Altitude:	0.00 Metres
-Date founded:	1986
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-32.802378
-Longitude:	151.719564
-Natural Vegetation Area:	Yes
-Total Area:	133 Hectares
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Herbarium:	Yes
-Number of Volunteers:	100
-Open to public:	Yes
-Accession Number:	3000
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Predominately Australian plants with an emphasis on plants of the Hunter Region.Gardens include Proteaceae, Myrtaceae, Lamiaceae,rare and endangered,acacias, palms, Australian rainforest,conifers, orchids ,succulents.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1412
+1-Name: Hunter Region Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1986
+2-Info:              Institution Code: HUNRGN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hunter Region Botanic Gardens;         2100 Pacific Highway,.;                Heatherbrae;        NSW 2324 Australia;        ;                 Telephone: 61 (0)2 4987 1655;         Fax: 61 (0)2 4987 1440;         URL: www.huntergardens.org.au;         Primary Email: admin@huntergardens.org.au       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: -32.802378
+2-Longitude: 151.719564
+2-Natural Vegetation Area: Yes
+2-Total Area: 133 Hectares
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Herbarium: Yes
+3-Number of Volunteers: 100
+3-Open to public: Yes
+4-Accession Number: 3000
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Predominately Australian plants with an emphasis on plants of the Hunter Region.Gardens include Proteaceae, Myrtaceae, Lamiaceae,rare and endangered,acacias, palms, Australian rainforest,conifers, orchids ,succulents.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1412">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 61 (0)2 4987 1440
+9-Institution Code: HUNRGN
+9-International Agenda Registration: No
+9-Primary Email: admin@huntergardens.org.au
+9-Telephone: 61 (0)2 4987 1655
+9-URL: www.huntergardens.org.au

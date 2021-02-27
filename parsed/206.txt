@@ -1,28 +1,29 @@
-ID:	206
-Name:	Jardin de Aclimatacion de la Orotava 
-Administration Staff Number:	1
-Curator's Name:	J.A.Rodriguez Perez
-Director's Name:	A.Arroyo Hodgson
-Educational Staff Number:	1
-Horticultural Staff Number:	17
-Info:	  Spain - Tenerife  ;Garden Information;  Institution Code: ORT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin de Aclimatacion de la Orotava; La Paz, 38400 Puerto de la Cruz, TENERIFE, Canary Islands, Spain.; Tenerife; Spain; ;  Telephone: ; Fax: 922 - 384751; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	1788
-Institution Type:	Botanic Garden
-Latitude:	28.4060
-Longitude:	-16.5439
-Total Area:	3 Hectares
-Arboretum:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	188729
-Open to public:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	944
-Special Collections:	Palms, Aroids, Bromeliads
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Education:	Yes
+0-ID: 206
+1-Name: Jardin de Aclimatacion de la Orotava 
+2-Altitude: 0.00 Metres
+2-Date founded: 1788
+2-Info:              Institution Code: ORT;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Jardin de Aclimatacion de la Orotava;         La Paz, 38400 Puerto de la Cruz, TENERIFE, Canary Islands, Spain.;                Tenerife;        Spain;        ;                 Telephone: ;         Fax: 922 - 384751;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.4060
+2-Longitude: -16.5439
+2-Total Area: 3 Hectares
+3-Arboretum: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 188729
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 944
+4-Special Collections: Palms, Aroids, Bromeliads
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+6-Education: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=206">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 922 - 384751
+9-Institution Code: ORT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

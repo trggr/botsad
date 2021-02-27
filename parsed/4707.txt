@@ -1,9 +1,19 @@
-ID:	4707
-Name:	Historic Woodlawn Cemetery Association 
-Curator's Name:	Jim Sneigowski, Grounds Supervisor
-Director's Name:	Robert E. Harden, Executive Director & CEO
-Info:	  United States of America - Ohio - Toledo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Historic Woodlawn Cemetery Association; 1502 West Central Avenue; Toledo; Ohio 43606 United States of America; ;  Telephone: (419) 472-2186; Fax: ; URL: <a target="_blank" href="http://www.historic-woodlawn.com">www.historic-woodlawn.com; Primary Email: website.request@historic-woodlawn.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.6816020
-Longitude:	-83.5795570
+0-ID: 4707
+1-Name: Historic Woodlawn Cemetery Association 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Historic Woodlawn Cemetery Association;         1502 West Central Avenue;                Toledo;        Ohio 43606 United States of America;        ;                 Telephone: (419) 472-2186;         Fax: ;         URL: www.historic-woodlawn.com;         Primary Email: website.request@historic-woodlawn.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.6816020
+2-Longitude: -83.5795570
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4707">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4707">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4707">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4707">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4707">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: website.request@historic-woodlawn.com
+9-Telephone: (419) 472-2186
+9-URL: www.historic-woodlawn.com

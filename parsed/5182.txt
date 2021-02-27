@@ -1,9 +1,18 @@
-ID:	5182
-Name:	Crater Valley Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Panama - Coclé  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Crater Valley Gardens; Calle Capirita y Ranita de Oro; Calle Capirita y Ranita de Oro; Coclé; Panama; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	8.6069848
-Longitude:	-80.135456
+0-ID: 5182
+1-Name: Crater Valley Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Crater Valley Gardens;         Calle Capirita y Ranita de Oro;        Calle Capirita y Ranita de Oro;        Coclé;        Panama;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 8.6069848
+2-Longitude: -80.135456
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5182">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5182">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5182">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5182">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5182">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

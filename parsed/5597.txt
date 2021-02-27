@@ -1,9 +1,18 @@
-ID:	5597
-Name:	Jardín Botánico El Potrero 
-Curator's Name:	Susana Melo
-Director's Name:	Dr. Ricardo La Barba
-Info:	  Argentina - Entre Rios - Victoria  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico El Potrero; Acceso Dr. Joaquín Vivanco y Ruta Nº 26 Éjido de Victoria; 3 de febrero Nº 77 de Victoria; Victoria; Entre Rios 3153 Argentina; ;  Telephone: +54 3436 424899; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ricardolabarba1@gmail.com ; 
-Plant Records Officer's Name:	Leila Busato
-Institution Type:	Botanic Garden
-Latitude:	-32.606780
-Longitude:	-60.119261
+0-ID: 5597
+1-Name: Jardín Botánico El Potrero 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico El Potrero;         Acceso Dr. Joaquín Vivanco y Ruta Nº 26 Éjido de Victoria;        3 de febrero Nº 77 de Victoria;        Victoria;        Entre Rios 3153 Argentina;        ;                 Telephone: +54 3436 424899;         Fax: ;         URL: ;         Primary Email: ricardolabarba1@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -32.606780
+2-Longitude: -60.119261
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5597">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5597">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5597">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5597">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5597">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ricardolabarba1@gmail.com
+9-Telephone: +54 3436 424899
+9-URL: 

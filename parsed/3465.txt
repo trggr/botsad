@@ -1,15 +1,22 @@
-ID:	3465
-Name:	Quad City Botanical Center 
-Curator's Name:	Dave Searl, Gardener
-Director's Name:	Ami Jenkins, Executive Director
-Info:	  United States of America - Illinois - Rock Island  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Quad City Botanical Center; 2525 4th Avenue; Rock Island; Illinois 61201 United States of America; ;  Telephone: (309) 794-0991; Fax: (309) 794-1572; URL: <a target="_blank" href="http://www.qcgardens.com">www.qcgardens.com; Primary Email: gardens@qcgardens.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1998
-Institution Type:	Botanic Garden
-Latitude:	41.5096390
-Longitude:	-90.5640710
-Total area of glasshouses:	599 Metres
-Friends society:	Yes
-Open to public:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 3465
+1-Name: Quad City Botanical Center 
+2-Altitude: 0.00 Metres
+2-Date founded: 1998
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Quad City Botanical Center;         2525 4th Avenue;                Rock Island;        Illinois 61201 United States of America;        ;                 Telephone: (309) 794-0991;         Fax: (309) 794-1572;         URL: www.qcgardens.com;         Primary Email: gardens@qcgardens.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.5096390
+2-Longitude: -90.5640710
+2-Total area of glasshouses: 599 Metres
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3465">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3465">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3465">Please click here if you can update us</a>
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (309) 794-1572
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: gardens@qcgardens.com
+9-Telephone: (309) 794-0991
+9-URL: www.qcgardens.com

@@ -1,11 +1,19 @@
-ID:	746
-Name:	Botanic Garden Botany Department 
-Curator's Name:	
-Director's Name:	Dr Malak R. Rezk
-Info:	  Egypt - Alexandria  ;Garden Information;  Institution Code: ALEX; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden Botany Department; Faculty of Science University of Alexandria Moharram Bey, Alexandria Egypt; Alexandria; Egypt; ;  Telephone: 0203 492299; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1942
-Institution Type:	Botanic Garden
-Latitude:	31.2135
-Longitude:	29.9443
-Special Collections:	Cactus, palms, begonias, crotons, ferns, Dieffenbachias, Calathea, Pandanus
+0-ID: 746
+1-Name: Botanic Garden Botany Department 
+2-Date founded: 1942
+2-Info:              Institution Code: ALEX;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanic Garden Botany Department;         Faculty of Science University of Alexandria Moharram Bey, Alexandria Egypt;                Alexandria;        Egypt;        ;                 Telephone: 0203 492299;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.2135
+2-Longitude: 29.9443
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=746">Please click here if you can update us</a>
+4-Special Collections: Cactus, palms, begonias, crotons, ferns, Dieffenbachias, Calathea, Pandanus
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=746">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=746">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=746">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ALEX
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0203 492299
+9-URL: 

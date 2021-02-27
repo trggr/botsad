@@ -1,53 +1,53 @@
-ID:	3558
-Name:	Else Kientzler Botanical Garden 
-Administration Staff Number:	3
-Curator's Name:	Alejandro Barrantes (director)
-Director's Name:	Mr Ludwig Kientzler (cia, president)
-Educational Staff Number:	
-Horticultural Staff Number:	18
-Info:	  Costa Rica - Sarchí Norte  ;Garden Information;  Institution Code: EVITA; International Agenda Registration: No; BGCI Member: No; About the Else Kientzler Botanical Garden The Else Kientzler Botanical Garden is a private garden that attempts to have a collection of tropical plants from around the world, making landscaping and available to the public for studies, recreation and education.;  Main Address:; Else Kientzler Botanical Garden; Innovaplant de Costa Rica S.A.,; sarchí del estadio 400 m norte; Sarchí Norte; 9-4150, innovaplant. Costa Rica; ;  Telephone: (506) 2454 2070; Fax: (506) 24542070; URL: <a target="_blank" href="http://www.elsegarden.com">www.elsegarden.com; Primary Email: info@elsegarden.com ; 
-Plant Records Officer's Name:	Alejandro Barrantes
-Research Staff Number:	
-Altitude:	1250.00 Metres
-Annual Rainfall:	3034 mm
-Date founded:	2006
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	10.0912
-Local Address:	Sarchi, del estadio 400 m norte.ubicado dentro de las instalaciones de los viveros de innovaplant.
-Locality:	Information
-Longitude:	-84.3504
-Natural Vegetation Area:	Yes
-Total Area:	7 Hectares
-Total area of shadehouses:	5500 Metres
-Arboretum:	Yes
-Arboretum Size:	2
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	10000
-Number of Volunteers:	1
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Special Collections:	palmtrees, acuatic plants, zingiberals, bromeliads, nursery, fruits trees, tropical woods, children garden, forest, Succulents, orquids.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Land Restoration:	Yes
-Restoration Ecology:	Yes
-Courses for General Public:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 3558
+1-Name: Else Kientzler Botanical Garden 
+2-Altitude: 1250.00 Metres
+2-Annual Rainfall: 3034 mm
+2-Date founded: 2006
+2-Info:              Institution Code: EVITA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Else Kientzler Botanical Garden        The Else Kientzler Botanical Garden is a private garden that attempts to have a collection of tropical plants from around the world, making landscaping and available to the public for studies, recreation and education.;                        Main Address:;         Else Kientzler Botanical Garden;         Innovaplant de Costa Rica S.A.,;        sarchí del estadio 400 m norte;        Sarchí Norte;        9-4150, innovaplant. Costa Rica;        ;                 Telephone: (506) 2454 2070;         Fax: (506) 24542070;         URL: www.elsegarden.com;         Primary Email: info@elsegarden.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 10.0912
+2-Local Address: Sarchi, del estadio 400 m norte.ubicado dentro de las instalaciones de los viveros de innovaplant.
+2-Locality: Information
+2-Longitude: -84.3504
+2-Natural Vegetation Area: Yes
+2-Total Area: 7 Hectares
+2-Total area of shadehouses: 5500 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 2
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 10000
+3-Number of Volunteers: 1
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Special Collections: palmtrees, acuatic plants, zingiberals, bromeliads, nursery, fruits trees, tropical woods, children garden, forest, Succulents, orquids.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Land Restoration: Yes
+6-Restoration Ecology: Yes
+7-Courses for General Public: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: (506) 24542070
+9-Institution Code: EVITA
+9-International Agenda Registration: No
+9-Primary Email: info@elsegarden.com
+9-Telephone: (506) 2454 2070
+9-URL: www.elsegarden.com

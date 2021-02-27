@@ -1,13 +1,20 @@
-ID:	32
-Name:	Bath Botanical Gardens 
-Curator's Name:	
-Director's Name:	S.D. Hitt
-Info:	  United Kingdom - Bath  ;Garden Information;  Institution Code: BHBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bath Botanical Gardens; Bath City Council, Department of Leisure, Pump Room,BATH, BA1 1LZ, U.K.; Bath; United Kingdom; ;  Telephone: 0225 61111; Fax: ; URL: <a target="_blank" href="http://visitbath.co.uk/things-to-do/attractions/the-botanical-gardens-p26041">http://visitbath.co.uk/things-to-do/attractions/the-botanical-gardens-p26041; Primary Email: tourism@bathtourism.co.uk ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1779
-Institution Type:	Botanic Garden
-Latitude:	51.387423
-Longitude:	-2.37809
-Total Area:	2 Hectares
-Special Collections:	Plants growing in alkaline conditions. Tropical trees and shrubs, including an ancient Barringtonia speciosa. Early introductions.
+0-ID: 32
+1-Name: Bath Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1779
+2-Info:              Institution Code: BHBG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bath Botanical Gardens;         Bath City Council, Department of Leisure, Pump Room,BATH, BA1 1LZ, U.K.;                Bath;        United Kingdom;        ;                 Telephone: 0225 61111;         Fax: ;         URL: http://visitbath.co.uk/things-to-do/attractions/the-botanical-gardens-p26041;         Primary Email: tourism@bathtourism.co.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.387423
+2-Longitude: -2.37809
+2-Total Area: 2 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=32">Please click here if you can update us</a>
+4-Special Collections: Plants growing in alkaline conditions. Tropical trees and shrubs, including an ancient Barringtonia speciosa. Early introductions.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=32">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=32">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=32">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BHBG
+9-International Agenda Registration: No
+9-Primary Email: tourism@bathtourism.co.uk
+9-Telephone: 0225 61111

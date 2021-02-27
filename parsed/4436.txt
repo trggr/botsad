@@ -1,10 +1,19 @@
-ID:	4436
-Name:	National Aquarium - Baltimore 
-Curator's Name:	Horticulture Curator
-Director's Name:	David Pittenger, Executive Director
-Info:	  United States of America - Maryland - Baltimore  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Aquarium - Baltimore; 501 East Pratt Street; Baltimore; Maryland 21202 United States of America; ;  Telephone: (410) 576-3800; Fax: ; URL: <a target="_blank" href="http://www.aqua.org">www.aqua.org; Primary Email: conserve@aqua.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Latitude:	39.2854980
-Longitude:	-76.6083310
+0-ID: 4436
+1-Name: National Aquarium - Baltimore 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Aquarium - Baltimore;         501 East Pratt Street;                Baltimore;        Maryland 21202 United States of America;        ;                 Telephone: (410) 576-3800;         Fax: ;         URL: www.aqua.org;         Primary Email: conserve@aqua.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 39.2854980
+2-Longitude: -76.6083310
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4436">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4436">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4436">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4436">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4436">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: conserve@aqua.org
+9-Telephone: (410) 576-3800
+9-URL: www.aqua.org

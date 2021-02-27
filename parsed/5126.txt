@@ -1,11 +1,19 @@
-ID:	5126
-Name:	Jardi Botanic de Soller- Seed Bank 
-Curator's Name:	
-Director's Name:	J.l. Gradaille Tortella
-Info:	  Spain - Mallorca - Soller  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardi Botanic de Soller- Seed Bank; Ctra. Palma - Port de Soller Km. 30,5; Apartat de correus 44,; Soller; Mallorca 07100 Spain; ;  Telephone: 971634014; Fax: 971634781; URL: <a target="_blank" href="http://www.jardibotanicdesoller.org/">www.jardibotanicdesoller.org/; Primary Email: jbs@jardibotanicdesoller.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	39.7791
-Longitude:	2.7102
-Seed Bank:	Yes
+0-ID: 5126
+1-Name: Jardi Botanic de Soller- Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardi Botanic de Soller- Seed Bank;         Ctra. Palma - Port de Soller Km. 30,5;        Apartat de correus 44,;        Soller;        Mallorca 07100 Spain;        ;                 Telephone: 971634014;         Fax: 971634781;         URL: www.jardibotanicdesoller.org/;         Primary Email: jbs@jardibotanicdesoller.org       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 39.7791
+2-Longitude: 2.7102
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5126">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5126">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5126">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5126">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 971634781
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jbs@jardibotanicdesoller.org
+9-Telephone: 971634014
+9-URL: www.jardibotanicdesoller.org/

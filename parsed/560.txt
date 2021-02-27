@@ -1,45 +1,49 @@
-ID:	560
-Name:	Ogród Roslin Leczniczych Instytutu Włókien Naturalnych i Roślin Zielarskich w Plewiskach 
-Fax:	0048 61 65 17 192
-Info:	  Poland - wielkopolskie - Poznan  ;Garden Information;  Institution Code: POZNM; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	
-Telephone:	0048 61 65 17 190
-Administration Staff Number:	
-Curator's Name:	dr hab. Waldemar Buchwald
-Director's Name:	Prof.dr hab. Grzegorz Spychalski
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Plant Records Officer's Name:	mgr Sława Kitkowska, mgr Elżbieta Bilińska
-Research Staff Number:	4
-Altitude:	84.00 Metres
-Annual Rainfall:	530 mm
-Date founded:	1947
-Institution Type:	Gene/Seed Bank
-Latitude:	52.4063
-Local Address:	Kolejowa 2 62-064 Plewiska Poland
-Locality:	Information
-Longitude:	16.9251
-Total Area:	3 Hectares
-Total area of glasshouses:	200 Metres
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	1000
-Number of Volunteers:	1
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	100
-Cultivation Taxa Num:	1200
-Special Collections:	Collections include about 500 taxa of medicinal plants, about 300 taxa of trees and shrubs and about 300 taxa of ornamental plants in the garden and in the greenhouse.Monitoring in situ of medicinal plants under law preservation in Poland and their cultivation is carried out e.g. Adonis vernalis, Arctostaphylos uva ursi, Arnica montana, Asperula odorata, Asarum europaeum, Colchicum autumnale, Convallaria majalis and Helichrysum arenarium.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Conservation - Biology:	Yes
-Education:	Yes
-Seed/Spore Biology:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 560
+1-Name: Ogród Roslin Leczniczych Instytutu Włókien Naturalnych i Roślin Zielarskich w Plewiskach 
+2-Administration Staff Number: 
+2-Curator's Name: dr hab. Waldemar Buchwald
+2-Director's Name: Prof.dr hab. Grzegorz Spychalski
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 4
+2-Info:              Institution Code: POZNM;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/560/Ogród Roślin Leczniczych IWNiRZ.JPG" alt="" />         </div>        </div>                           About the Ogród Roslin Leczniczych Instytutu Włókien Naturalnych i Roślin Zielarskich w Plewiskach        The Garden of Medicinal Plants is the part of the Research Institute of Medicinal Plants.;                        Main Address:;         Ogród Roslin Leczniczych Instytutu Włókien Naturalnych i Roślin Zielarskich w Plewiskach;         ul. Wojska Polskiego 71b Poznań;                Poznan;        wielkopolskie 60-630 Poland;        ;                 Telephone: 0048 61 65 17 190;         Fax: 0048 61 65 17 192;         URL: ;         Primary Email:        ;              
+2-Plant Records Officer's Name: mgr Sława Kitkowska, mgr Elżbieta Bilińska
+2-Research Staff Number: 4
+3-Altitude: 84.00 Metres
+3-Annual Rainfall: 530 mm
+3-Date founded: 1947
+3-Institution Type: Gene/Seed Bank
+3-Latitude: 52.4063
+3-Local Address: Kolejowa 2 62-064 Plewiska Poland
+3-Locality: Information
+3-Longitude: 16.9251
+3-Total Area: 3 Hectares
+3-Total area of glasshouses: 200 Metres
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 1000
+4-Number of Volunteers: 1
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Accession Number: 100
+5-Cultivation Taxa Num: 1200
+5-Special Collections: Collections include about 500 taxa of medicinal plants, about 300 taxa of trees and shrubs and about 300 taxa of ornamental plants in the garden and in the greenhouse.Monitoring in situ of medicinal plants under law preservation in Poland and their cultivation is carried out e.g. Adonis vernalis, Arctostaphylos uva ursi, Arnica montana, Asperula odorata, Asarum europaeum, Colchicum autumnale, Convallaria majalis and Helichrysum arenarium.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Conservation - Biology: Yes
+7-Education: Yes
+7-Seed/Spore Biology: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: 0048 61 65 17 192
+9-Institution Code: POZNM
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 0048 61 65 17 190
+9-URL: 

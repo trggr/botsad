@@ -1,20 +1,23 @@
-ID:	4601
-Name:	Smithsonian National Zoological Park 
-Administration Staff Number:	
-Curator's Name:	Teresa Vetick, Horticulture Supervisor
-Director's Name:	Dennis W. Kelly, Director
-Educational Staff Number:	
-Horticultural Staff Number:	13
-Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Smithsonian National Zoological Park; P.O. Box 37012 MRC 5516; Washington; District of Columbia 20013-7012 United States of America; ;  Telephone: (202) 633-3298; Fax: ; URL: <a target="_blank" href="http://www.nationalzoo.si.edu">www.nationalzoo.si.edu; Primary Email: ; 
-Plant Records Officer's Name:	Gene Stano, Horticulturist/Arborist
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Latitude:	38.9299650
-Longitude:	-77.0550950
-Number of Visitors:	2000000
-ABS Policy:	No
-Accession Number:	6343
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	No
+0-ID: 4601
+1-Name: Smithsonian National Zoological Park 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Smithsonian National Zoological Park;         P.O. Box 37012 MRC 5516;                Washington;        District of Columbia 20013-7012 United States of America;        ;                 Telephone: (202) 633-3298;         Fax: ;         URL: www.nationalzoo.si.edu;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 38.9299650
+2-Longitude: -77.0550950
+3-Number of Visitors: 2000000
+4-ABS Policy: No
+4-Accession Number: 6343
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: No
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4601">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4601">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4601">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (202) 633-3298
+9-URL: www.nationalzoo.si.edu

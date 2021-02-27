@@ -1,11 +1,18 @@
-ID:	5131
-Name:	Centre of the Region Haná for Biotechnological and Agricultural Research 
-Curator's Name:	
-Director's Name:	-
-Info:	  Czech Republic - Olomouc  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Centre of the Region Haná for Biotechnological and Agricultural Research; Faculty of Science, Palacký University; Šlechtitelů 27; Olomouc; 78371 Czech Republic; ;  Telephone: +420 585 634 971, +420 585 634 979; Fax: ; URL: <a target="_blank" href="http://www.cr-hana.eu/en">http://www.cr-hana.eu/en; Primary Email: projekty_eu@upol.cz ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	49.594840
-Longitude:	17.259649
-Seed Bank:	Yes
+0-ID: 5131
+1-Name: Centre of the Region Haná for Biotechnological and Agricultural Research 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Centre of the Region Haná for Biotechnological and Agricultural Research;         Faculty of Science, Palacký University;        Šlechtitelů 27;        Olomouc;        78371 Czech Republic;        ;                 Telephone: +420 585 634 971, +420 585 634 979;         Fax: ;         URL: http://www.cr-hana.eu/en;         Primary Email: projekty_eu@upol.cz       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 49.594840
+2-Longitude: 17.259649
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5131">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5131">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5131">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5131">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: projekty_eu@upol.cz
+9-Telephone: +420 585 634 971, +420 585 634 979

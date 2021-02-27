@@ -1,13 +1,21 @@
-ID:	1259
-Name:	Sichuan Medicinal Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Sichuan - Nanchuan  ;Garden Information;  Institution Code: NANCH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sichuan Medicinal Botanical Garden; Institute of Medicinal Plant Cultivation, Sichuan Academy of Traditional Chinese Medicine and Pharmacy, Jinfoshan, Nanchuan County, Sichuan, 648408, China; Nanchuan; Sichuan China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1947
-Institution Type:	Botanic Garden
-Latitude:	29.1670
-Local Address:	中国四川省南川县金佛山四川省中医药研究院药物种植研究所，邮编 648408
-Locality:	Information
-Longitude:	107.0954
-Special Collections:	Dianthus, Iris, Berberis, Clemaits, Carthamnus, Coptis, Malu, Angelicas, Roses, Lilies, Hostas, paeonies, liquorice
+0-ID: 1259
+1-Name: Sichuan Medicinal Botanical Garden 
+2-Date founded: 1947
+2-Info:              Institution Code: NANCH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sichuan Medicinal Botanical Garden;         Institute of Medicinal Plant Cultivation, Sichuan Academy of Traditional Chinese Medicine and Pharmacy, Jinfoshan, Nanchuan County, Sichuan, 648408, China;                Nanchuan;        Sichuan China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.1670
+2-Local Address: 中国四川省南川县金佛山四川省中医药研究院药物种植研究所，邮编 648408
+2-Locality: Information
+2-Longitude: 107.0954
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1259">Please click here if you can update us</a>
+4-Special Collections: Dianthus, Iris, Berberis, Clemaits, Carthamnus, Coptis, Malu, Angelicas, Roses, Lilies, Hostas, paeonies, liquorice
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1259">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1259">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1259">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NANCH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

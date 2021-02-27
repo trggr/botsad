@@ -1,13 +1,21 @@
-ID:	5093
-Name:	Podlaski Ogród Ziołowy 
-Fax:	
-Info:	  Poland - podlaskie - Grodzisk  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	edukacja@ziolowyzakatek.pl
-Telephone:	0048 856568669
-Curator's Name:	
-Director's Name:	Mirosław Angielczyk phD
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	51.17
-Longitude:	17.16
+0-ID: 5093
+1-Name: Podlaski Ogród Ziołowy 
+2-Curator's Name: 
+2-Director's Name: Mirosław Angielczyk phD
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/5093/Podlaski Ogród Botaniczny „Ziołowy Zakątek”.jpg" alt="" />         </div>        </div>                           About the Podlaski Ogród Ziołowy        The Podlaski Herbal Garden was founded in 2007, although preparations for its creation were begun in the early 90s of the last century. In 2011, he was granted the status of Botanical Garden and member of the Council of Botanic Gardens and Arboretums in Poland. The garden is primarily gathering medicinal and aromatic plants. Currently, it has about 1,500 taxa, including 85 species with strict and 13 partial statutory protection. Collection material is collected both in systematic order, according to belonging to botanical families, and taking into account habitat requirements (plants of arid lands, forests, meadows, wetlands and water areas).;  ;  The specifics of the Garden are collections of populations of wild growing medicinal plants obtained from the area of ​​Eastern Poland, being research material used, among others by scientific institutions cooperating with the Garden. The garden regularly publishes the Index Seminum and conducts exchange of seed material with 45 national and foreign institutions. In 2012, the Garden of Nature Education was established at the Garden, conducting classes for children, school youth and university students. In the Podlaski Herbal Garden, plants used by people in the past and present in the kitchen, medicine, hair-dressing, construction, weaving, as well as for protection and magic were collected.;                        Main Address:;         Podlaski Ogród Ziołowy;         Koryciny 73B;        PL 17-315 Grodzisk;        Grodzisk;        podlaskie Poland;        ;                 Telephone: 0048  856568669;         Fax: ;         URL: http://www.podlaskiogrod.pl/;         Primary Email: edukacja@ziolowyzakatek.pl       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Institution Type: Botanic Garden
+3-Latitude: 51.17
+3-Longitude: 17.16
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5093">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5093">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5093">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5093">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=5093">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: edukacja@ziolowyzakatek.pl
+9-Telephone: 0048  856568669

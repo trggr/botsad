@@ -1,14 +1,21 @@
-ID:	3191
-Name:	Dr. Sun Yat-Sen Classical Chinese Garden 
-Curator's Name:	
-Director's Name:	Kathy Gibler, Executive Director
-Info:	  Canada - British Columbia - Vancouver  ;Garden Information;  Institution Code: SUNY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dr. Sun Yat-Sen Classical Chinese Garden; 578 Carrall Street; Vancouver; British Columbia V6B 5K2 Canada; ;  Telephone: (604) 662-3207 ext 201; Fax: (604) 682-4008; URL: <a target="_blank" href="http://www.vancouverchinesegarden.com">www.vancouverchinesegarden.com; Primary Email: director@vancouverchinesegarden.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	49.27979
-Local Address:	578 Carrall Street Vancouver, BC, Canada V6B 5K2
-Locality:	Information
-Longitude:	-123.103888
-Special Collections:	No information available.
-Reintroduction Programme:	No
+0-ID: 3191
+1-Name: Dr. Sun Yat-Sen Classical Chinese Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SUNY;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dr. Sun Yat-Sen Classical Chinese Garden;         578 Carrall Street;                Vancouver;        British Columbia V6B 5K2 Canada;        ;                 Telephone: (604) 662-3207 ext 201;         Fax: (604) 682-4008;         URL: www.vancouverchinesegarden.com;         Primary Email: director@vancouverchinesegarden.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.27979
+2-Local Address: 578 Carrall Street Vancouver, BC, Canada V6B 5K2
+2-Locality: Information
+2-Longitude: -123.103888
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3191">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3191">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3191">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (604) 682-4008
+9-Institution Code: SUNY
+9-International Agenda Registration: No
+9-Primary Email: director@vancouverchinesegarden.com
+9-Telephone: (604) 662-3207 ext 201
+9-URL: www.vancouverchinesegarden.com

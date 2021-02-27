@@ -1,77 +1,80 @@
-ID:	277
-Name:	Core Facility Botanical Garden 
-Fax:	43 (0)1 4277 9541
-Info:	  Austria - Vienna  ;Garden Information;  Institution Code: WU; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	botanik@univie.ac.at
-Telephone:	43 (0)1 4277 54100
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	ao Prof. Dr. Michael Kiehn
-Educational Staff Number:	1
-Horticultural Staff Number:	40
-Plant Records Officer's Name:	Barbara Knickmann
-Research Staff Number:	1
-Altitude:	190.00 Metres
-Annual Rainfall:	600 mm
-Date founded:	1754
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	48.2000
-Local Address:	Rennweg 14 1030 Wien
-Locality:	Information
-Longitude:	16.3833
-Natural Vegetation Area:	Yes
-Total Area:	8 Hectares
-Total area of glasshouses:	1200 Metres
-Arboretum:	Yes
-Arboretum Size:	6
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	150000
-Number of Volunteers:	4
-Open to public:	Yes
-ABS Policy:	Yes
-Accession Number:	30000
-Cultivation Taxa Num:	10500
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Special Collections:	Bromeliaceae, Bulbophyllum (Orchidaceae), Gesneriaceae, Pannonian dry area plants, Rubiaceae, Rutaceae, tropical and subtropical woody plants
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	Yes
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 277
+1-Name: Core Facility Botanical Garden 
+2-Administration Staff Number: 1
+2-Curator's Name: 
+2-Director's Name: ao Prof. Dr. Michael Kiehn
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 40
+2-Info:              Institution Code: WU;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/277/123.jpg" alt="Caryopteris incana" />         Caryopteris incana</div>        </div>                           About the Core Facility Botanical Garden        In 1754 Archduchess (Empress) Maria Theresia of Austria founded a Pharmaceutical Garden in baroque style for the Medical Faculty of Vienna University. Already at its present location in Vienna's third district, this formed the basis for today's Botanical Garden attached to the Institute of Botany at the Faculty of Natural Sciences. ;  After several changes, the Botanical Garden now presents a synthesis between a 19th century landscape garden and a display of plants in systematic and plant-geographical arrangement. Several smaller areas in the garden are devoted to specific topics, such as useful plants, succulents, alpine floras, vegetation types of Austria, plant genetics and evolution etc.;  Today, the Garden covers an area of ca. 8 ha.;  It is open to the public all year long free of charge.;  The greenhouses (ca. 1.500 m2), originally built between 1890 - 1893, were severely damaged during World Wars I and II, and are now renovated or rebuilt. Because of space problems, most of the greenhouses are used for scientific purposes only and not open to the public. However, a permanent "rainforest-exhibition" for visitors has been established in one greenhouse.;                        Main Address:;         Core Facility Botanical Garden;         University of Vienna;        Rennweg 14;        Vienna;        1030 Austria;        ;                 Telephone: 43 (0)1 4277 54100;         Fax: 43 (0)1 4277 9541;         URL: https://botanischergarten.univie.ac.at/;         Primary Email: botanik@univie.ac.at       ;              
+2-Plant Records Officer's Name: Barbara Knickmann
+2-Research Staff Number: 1
+3-Altitude: 190.00 Metres
+3-Annual Rainfall: 600 mm
+3-Date founded: 1754
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 48.2000
+3-Local Address: Rennweg 14 1030 Wien
+3-Locality: Information
+3-Longitude: 16.3833
+3-Natural Vegetation Area: Yes
+3-Total Area: 8 Hectares
+3-Total area of glasshouses: 1200 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 6
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Number of Visitors: 150000
+4-Number of Volunteers: 4
+4-Open to public: Yes
+5-ABS Policy: Yes
+5-Accession Number: 30000
+5-Cultivation Taxa Num: 10500
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Special Collections: Bromeliaceae, Bulbophyllum (Orchidaceae), Gesneriaceae, Pannonian dry area plants, Rubiaceae, Rutaceae, tropical and subtropical woody plants
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: No
+7-Molecular Genetics: Yes
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: 43 (0)1 4277 9541
+9-Institution Code: WU
+9-International Agenda Registration: Yes
+9-Primary Email: botanik@univie.ac.at
+9-Telephone: 43 (0)1 4277 54100

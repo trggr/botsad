@@ -1,80 +1,84 @@
-ID:	404
-Name:	Die Flora, der Botanische Garten Köln 
-"garden-photo"> <img src="/photos/404/kinderevents_klein.jpg" alt="in the FLORA in Cologne - plant life remarkable" /> in the FLORA in Cologne - plant life remarkable  About the Die Flora, der Botanische Garten Köln As indicated by the name, the Botanic Garden of Cologne consists of two historical parts:	the "Flora" (southern part, 6 acres) and the Botanic Garden (northern part, 6 acres). While the "Flora" displays different garden styles over the ages (french baroque, italian renaissance, english garden), the Botanic Garden offers you the chance of a journey around the world's plant life within several hours. Being the most beautiful garden of Cologne and an outstanding one in Germany, Flora and Botanic Garden of Cologne serve as an important center for nature experience, botanical education, science and recreation for more than 750.000 visitors per year.
-Fax:	49 221 56089 26
-Info:	  Germany - Deutschland - NRW - Koeln  ;Garden Information;  Institution Code: KOLN; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	botanischer-garten@stadt-koeln.de
-Telephone:	49 221 56089 0
-Administration Staff Number:	1
-Curator's Name:	Dr. Stephan Anhalt
-Director's Name:	Dr. Stephan Anhalt
-Educational Staff Number:	3
-Horticultural Staff Number:	24
-Plant Records Officer's Name:	Dr. Stephan Anhalt
-Research Staff Number:	1
-Altitude:	50.00 Metres
-Annual Rainfall:	750 mm
-Date founded:	1864
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	50.9887
-Longitude:	6.9605
-Natural Vegetation Area:	No
-Total Area:	12 Hectares
-Total area of glasshouses:	4000 Metres
-Arboretum:	Yes
-Arboretum Size:	4
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	1300000
-Number of Volunteers:	30
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	25000
-Cultivation Taxa Num:	12000
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	cycadaceae, aloes, cactaceae, succulents, camellia, acer
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 404
+1-Name: Die Flora, der Botanische Garten Köln 
+2-Administration Staff Number: 1
+2-Curator's Name: Dr. Stephan Anhalt
+2-Director's Name: Dr. Stephan Anhalt
+2-Educational Staff Number: 3
+2-Horticultural Staff Number: 24
+2-Info:              Institution Code: KOLN;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/404/kinderevents_klein.jpg" alt="in the FLORA in Cologne - plant life remarkable" />         in the FLORA in Cologne - plant life remarkable</div>        </div>                           About the Die Flora, der Botanische Garten Köln        As indicated by the name, the Botanic Garden of Cologne consists of two historical parts: the "Flora" (southern part, 6 acres) and the Botanic Garden (northern part, 6 acres). While the "Flora" displays different garden styles over the ages (french baroque, italian renaissance, english garden), the Botanic Garden offers you the chance of a journey around the world's plant life within several hours. Being the most beautiful garden of Cologne and an outstanding one in Germany, Flora and Botanic Garden of Cologne serve as an important center for nature experience, botanical education, science and recreation for more than 750.000 visitors per year.;  The "Flora" was founded in 1863 as a private company; it was planned by Peter Josef Lenné and had a winter garden with a glass roof and restaurant, modelled after the London Crystal Palace. Opened in 1864, the "Flora" became a famous attraction for weekend trips and dance balls.;  A scientific botanic garden was founded in 1890 in the south of Cologne city, but as well had to give way to traffic needs. In 1914 a new area, north of the "Flora", could be opened as the new Botanic Garden. In 1920 the "Flora" was transferred to the authority of the township and was united with the Botanic Garden.;  The Botanic Garden has more than 12.000 plant species from all climates and vegetation types in cultivation. Outdoors you will find collections of maples, witchnuts, buttercups, irises, lilies, poppies and saxifrages in systematically arranged plantings. Summer annuals, decorative frutescents for the home gardener are special garden parts as well as the old farmer’s garden, the medicinal plant garden, the fern garden, the marshes and wetlands, the ponds and the species-rich area of the alpinum, where appr. 1.500 species of mountain plants from all over the world are cultivated.;  In the succulent house a very nice collection of cactus and succulents is shown; specialities are our collections of palmferns as well as aloes. A temperate house displays all non-hardy plants from mediterranean to Australia and New Zealand, the small tropical greenhouse contains usefrul tropical crops such as coffee, cacao, papaya, vanilla, sugarcane, pineapple and many more, as well as epiphytes and orchids. Finally, the great tropical house introduces you to the vegetation of the rainforests with all it’s special adaptions. New greenhouses are in planning for 2019.;  The Botanic Garden has for 30 years it's own "Green School", where appr. 5.000 students per year of all levels as well as teachers are introduced to the different aspects of plant life and plant ecology in half-day excursions.;  ;  Come and join us for a trip around the world, with all your senses, and all for free ...;                        Main Address:;         Die Flora, der Botanische Garten Köln;         Amsterdamer Strasse 34, D- 50735 Koeln / Germany.;                Koeln;        NRW Germany - Deutschland;        ;                 Telephone: 49 221 56089 0;         Fax: 49 221 56089 26;         URL: www.botanischergarten-koeln.de;         Primary Email: botanischer-garten@stadt-koeln.de       ;              
+2-Plant Records Officer's Name: Dr. Stephan Anhalt
+2-Research Staff Number: 1
+3-Altitude: 50.00 Metres
+3-Annual Rainfall: 750 mm
+3-Date founded: 1864
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 50.9887
+3-Longitude: 6.9605
+3-Natural Vegetation Area: No
+3-Total Area: 12 Hectares
+3-Total area of glasshouses: 4000 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 4
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 1300000
+4-Number of Volunteers: 30
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Accession Number: 25000
+5-Cultivation Taxa Num: 12000
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: cycadaceae, aloes, cactaceae, succulents, camellia, acer
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: No
+9-<img src="/photos/404/kinderevents_klein.jpg" alt="in the FLORA in Cologne - plant life remarkable" />         in the FLORA in Cologne - plant life remarkable</div>        </div>                           About the Die Flora, der Botanische Garten Köln        As indicated by the name, the Botanic Garden of Cologne consists of two historical parts: the "Flora" (southern part, 6 acres) and the Botanic Garden (northern part, 6 acres). While the "Flora" displays different garden styles over the ages (french baroque, italian renaissance, english garden), the Botanic Garden offers you the chance of a journey around the world's plant life within several hours. Being the most beautiful garden of Cologne and an outstanding one in Germany, Flora and Botanic Garden of Cologne serve as an important center for nature experience, botanical education, science and recreation for more than 750.000 visitors per year.
+9-BGCI Member: Yes
+9-Fax: 49 221 56089 26
+9-Institution Code: KOLN
+9-International Agenda Registration: No
+9-Primary Email: botanischer-garten@stadt-koeln.de
+9-Telephone: 49 221 56089 0
+9-URL: www.botanischergarten-koeln.de

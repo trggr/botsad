@@ -1,11 +1,19 @@
-ID:	504
-Name:	The Rokko Alpine Botanical Garden 
-Curator's Name:	
-Director's Name:	Hitoshi Veda
-Info:	  Japan - Kobe  ;Garden Information;  Institution Code: KOBEA; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Rokko Alpine Botanical Garden; Mt Rokko, KOBE, Japan.; Kobe; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1933
-Institution Type:	Botanic Garden
-Latitude:	34.6922
-Longitude:	135.1649
-Special Collections:	Alpine plants of Japan and Himalayan plants.
+0-ID: 504
+1-Name: The Rokko Alpine Botanical Garden 
+2-Date founded: 1933
+2-Info:              Institution Code: KOBEA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Rokko Alpine Botanical Garden;         Mt Rokko,  KOBE, Japan.;                Kobe;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.6922
+2-Longitude: 135.1649
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=504">Please click here if you can update us</a>
+4-Special Collections: Alpine plants of Japan and Himalayan plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=504">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=504">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=504">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KOBEA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

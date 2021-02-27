@@ -1,17 +1,23 @@
-ID:	1173
-Name:	Harry P. Leu Gardens 
-Curator's Name:	Linda Schmidt, Education Supervisor
-Director's Name:	Robert Bowden, Director
-Info:	  United States of America - Florida - Orlando  ;Garden Information;  Institution Code: ORLEU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Harry P. Leu Gardens; 1920 North Forest Avenue; Orlando; Florida 32803-1537 United States of America; ;  Telephone: (407) 246-2620; Fax: (407) 246-2849; URL: <a target="_blank" href="http://www.leugardens.org">www.leugardens.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1962
-Institution Type:	Botanic Garden
-Latitude:	28.5676000
-Longitude:	-81.3553800
-Total Area:	20 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Arecaceae, Bromeliaceae, Cycadales, Fabaceae, Orchidaceae, Camellia (33 spp., 131 taxa), Hemerocallis, Iris, palms.
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 1173
+1-Name: Harry P. Leu Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1962
+2-Info:              Institution Code: ORLEU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Harry P. Leu Gardens;         1920 North Forest Avenue;                Orlando;        Florida 32803-1537 United States of America;        ;                 Telephone: (407) 246-2620;         Fax: (407) 246-2849;         URL: www.leugardens.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.5676000
+2-Longitude: -81.3553800
+2-Total Area: 20 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Arecaceae, Bromeliaceae, Cycadales, Fabaceae, Orchidaceae, Camellia (33 spp., 131 taxa), Hemerocallis, Iris, palms.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1173">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1173">Please click here if you can update us</a>
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (407) 246-2849
+9-Institution Code: ORLEU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (407) 246-2620
+9-URL: www.leugardens.org

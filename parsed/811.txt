@@ -1,11 +1,19 @@
-ID:	811
-Name:	Giardino Botanico Alpino di Pietra Corva 
-Curator's Name:	Emanuela Piaggi
-Director's Name:	Adriano Bernini
-Info:	  Italy - Lombardia - Romagnese (PV)  ;Garden Information;  Institution Code: ROMAG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Botanico Alpino di Pietra Corva; c/o Municipio di Romagnese; Romagnese (PV); Lombardia 27050 Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1967
-Institution Type:	Botanic Garden
-Latitude:	44.9009
-Longitude:	9.1242
-Special Collections:	Acorus calamus, Polemonium coeruleum, Epilobium hirsutum, Osmunda regalis, Nymphaea alba, Sagittaria sagittifolia, Menianthes trifoliata, Trapa natans, Polygonum bistorta, Viola palustris, Calluna vulgaris, Vaccinium oxycoccos, Drosera rotundifolia, Sarra
+0-ID: 811
+1-Name: Giardino Botanico Alpino di Pietra Corva 
+2-Date founded: 1967
+2-Info:              Institution Code: ROMAG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino Botanico Alpino di Pietra Corva;         c/o Municipio di Romagnese;                Romagnese (PV);        Lombardia 27050 Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.9009
+2-Longitude: 9.1242
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=811">Please click here if you can update us</a>
+4-Special Collections: Acorus calamus, Polemonium coeruleum, Epilobium hirsutum, Osmunda regalis, Nymphaea alba, Sagittaria sagittifolia, Menianthes trifoliata, Trapa natans, Polygonum bistorta, Viola palustris, Calluna vulgaris, Vaccinium oxycoccos, Drosera rotundifolia, Sarra
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=811">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=811">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=811">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ROMAG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

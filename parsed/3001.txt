@@ -1,11 +1,19 @@
-ID:	3001
-Name:	Santa Maria Federal University Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Brazil - Santa Maria  ;Garden Information;  Institution Code: SMFU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Santa Maria Federal University Botanic Gardens; UFSM - CCNE - Campus Camobi km 9, SANTA MARIA - RS Brazil; Santa Maria; Brazil; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-29.6914
-Longitude:	-53.8007
-Special Collections:	No information available.
+0-ID: 3001
+1-Name: Santa Maria Federal University Botanic Gardens 
+2-Date founded: 
+2-Info:              Institution Code: SMFU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Santa Maria Federal University Botanic Gardens;         UFSM - CCNE - Campus Camobi km 9, SANTA MARIA - RS Brazil;                Santa Maria;        Brazil;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -29.6914
+2-Longitude: -53.8007
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3001">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3001">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3001">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3001">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SMFU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

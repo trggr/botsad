@@ -1,11 +1,19 @@
-ID:	2219
-Name:	Port Fairy Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Port Fairy  ;Garden Information;  Institution Code: FAIRY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Port Fairy Botanic Gardens; Borough of Port Fairy, 10 Cox St., PORT FAIRY, VIC 3284, Australia; Port Fairy; Australia; ;  Telephone: 61 (0)3 5568 2600; Fax: 61 (0)3 5568 2515; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-38.3886
-Longitude:	142.24356
-Special Collections:	10 % of collection is Australian flora.
+0-ID: 2219
+1-Name: Port Fairy Botanic Gardens 
+2-Date founded: 
+2-Info:              Institution Code: FAIRY;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Port Fairy Botanic Gardens;         Borough of Port Fairy, 10 Cox St.,  PORT FAIRY,  VIC 3284,  Australia;                Port Fairy;        Australia;        ;                 Telephone: 61 (0)3 5568 2600;         Fax: 61 (0)3 5568 2515;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -38.3886
+2-Longitude: 142.24356
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2219">Please click here if you can update us</a>
+4-Special Collections: 10 % of collection is Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2219">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2219">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2219">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5568 2515
+9-Institution Code: FAIRY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)3 5568 2600
+9-URL: 

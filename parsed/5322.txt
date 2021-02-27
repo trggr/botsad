@@ -1,9 +1,17 @@
-ID:	5322
-Name:	Miami University Belk Greenhouse 
-Curator's Name:	
-Director's Name:	Jack Keegan
-Info:	  United States of America - Ohio - Oxford  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Miami University Belk Greenhouse; Western College Drive; Oxford; Ohio 45056 United States of America; ;  Telephone: 529-5848; Fax: ; URL: <a target="_blank" href="http://miamioh.edu/news/top-stories/2017/02/belk-greenhouse.html">http://miamioh.edu/news/top-stories/2017/02/belk-greenhouse.html; Primary Email: keeganjf@miamioh.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.503322
-Longitude:	-84.725287
+0-ID: 5322
+1-Name: Miami University Belk Greenhouse 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Miami University Belk Greenhouse;         Western College Drive;                Oxford;        Ohio 45056 United States of America;        ;                 Telephone: 529-5848;         Fax: ;         URL: http://miamioh.edu/news/top-stories/2017/02/belk-greenhouse.html;         Primary Email: keeganjf@miamioh.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.503322
+2-Longitude: -84.725287
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5322">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5322">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5322">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5322">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5322">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: keeganjf@miamioh.edu
+9-Telephone: 529-5848

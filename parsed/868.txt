@@ -1,13 +1,21 @@
-ID:	868
-Name:	Institute of Applied Ecology, Shenyang Arboretum 
-Curator's Name:	Wang Yun
-Director's Name:	Shidong Zhao
-Info:	  China - Liaoning - Shenyang  ;Garden Information;  Institution Code: SHENI; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Institute of Applied Ecology, Shenyang Arboretum; No. 52, Wanliutang Road; Shenhe District; Shenyang; Liaoning 110015 China; ;  Telephone: (86-24) 4811558; Fax: (86-24) 3843313; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1955
-Institution Type:	Botanic Garden
-Latitude:	41.8055
-Local Address:	中国辽宁省沈阳市东陵区柳塘路52号，邮编 110015
-Locality:	Information
-Longitude:	123.4333
-Special Collections:	Collections of Populus, Salix, Picea, non-leguminous N-fixing trees and other temperate trees.
+0-ID: 868
+1-Name: Institute of Applied Ecology, Shenyang Arboretum 
+2-Date founded: 1955
+2-Info:              Institution Code: SHENI;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Institute of Applied Ecology, Shenyang Arboretum;         No. 52, Wanliutang Road;        Shenhe District;        Shenyang;        Liaoning 110015 China;        ;                 Telephone: (86-24) 4811558;         Fax: (86-24) 3843313;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.8055
+2-Local Address: 中国辽宁省沈阳市东陵区柳塘路52号，邮编 110015
+2-Locality: Information
+2-Longitude: 123.4333
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=868">Please click here if you can update us</a>
+4-Special Collections: Collections of Populus, Salix, Picea, non-leguminous N-fixing trees and other temperate trees.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=868">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=868">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=868">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (86-24) 3843313
+9-Institution Code: SHENI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (86-24) 4811558
+9-URL: 

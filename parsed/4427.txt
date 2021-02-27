@@ -1,9 +1,18 @@
-ID:	4427
-Name:	Crop Diversification Centre South 
-Curator's Name:	
-Director's Name:	
-Info:	  Canada - Alberta - Brooks  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Crop Diversification Centre South; South 301 Horticultural Station Road East; Brooks; Alberta T1R 1E6 Canada; ;  Telephone: (403) 362-1350; Fax: (403) 362-1306; URL: <a target="_blank" href="http://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/opp4386">www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/opp4386; Primary Email: shelley.barkley@gov.ab.ca ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	50.55189
-Longitude:	-111.85208
+0-ID: 4427
+1-Name: Crop Diversification Centre South 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Crop Diversification Centre South;         South 301 Horticultural Station Road East;                Brooks;        Alberta T1R 1E6 Canada;        ;                 Telephone: (403) 362-1350;         Fax: (403) 362-1306;         URL: www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/opp4386;         Primary Email: shelley.barkley@gov.ab.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.55189
+2-Longitude: -111.85208
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4427">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4427">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4427">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4427">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4427">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (403) 362-1306
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: shelley.barkley@gov.ab.ca
+9-Telephone: (403) 362-1350
+9-URL: www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/opp4386

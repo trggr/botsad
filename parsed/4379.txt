@@ -1,9 +1,17 @@
-ID:	4379
-Name:	Wild Arboretum Khotmujipulmuji 
-Curator's Name:	Hye-Ok Kim
-Director's Name:	Hye-Ok Kim
-Info:	  South Korea - Gyeonggi-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wild Arboretum Khotmujipulmuji; 143 Daebo-ri, Ha-myeon, Gapyeong-gun; Gyeonggi-do 477-831 South Korea; ;  Telephone: 031-585-4875; Fax: 031-585-4876; URL: <a target="_blank" href="http://www.mujimuji.co.kr">http://www.mujimuji.co.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	37.801
-Longitude:	127.3824
+0-ID: 4379
+1-Name: Wild Arboretum Khotmujipulmuji 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wild Arboretum Khotmujipulmuji;         143 Daebo-ri, Ha-myeon, Gapyeong-gun;                        Gyeonggi-do 477-831 South Korea;        ;                 Telephone: 031-585-4875;         Fax: 031-585-4876;         URL: http://www.mujimuji.co.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.801
+2-Longitude: 127.3824
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4379">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4379">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4379">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4379">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4379">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 031-585-4876
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 031-585-4875

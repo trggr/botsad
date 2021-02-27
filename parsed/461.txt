@@ -1,11 +1,19 @@
-ID:	461
-Name:	Za'faraniyah Botanical Garden 
-Curator's Name:	
-Director's Name:	Dr.A.H.Al-Khayat
-Info:	  Iraq - Baghdad  ;Garden Information;  Institution Code: BAGHD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Za'faraniyah Botanical Garden; Horticultural Experiment Station, Abu-Ghraib, BAGHDAD, Iraq.; Baghdad; Iraq; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1944
-Institution Type:	Botanic Garden
-Latitude:	33.3157
-Longitude:	44.3922
-Special Collections:	Acacia, Eucalyptus, Callistemon, Phoenix, Nerium, Platanus, Fraxinus, Schinus, Sabal, Populus, Catalpa, Rosa, Morus, Lantana, Vitex and Washingtonia. The current status of this garden and its collections are unknown.
+0-ID: 461
+1-Name: Za'faraniyah Botanical Garden 
+2-Date founded: 1944
+2-Info:              Institution Code: BAGHD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Za'faraniyah Botanical Garden;         Horticultural Experiment Station,  Abu-Ghraib,  BAGHDAD,  Iraq.;                Baghdad;        Iraq;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.3157
+2-Longitude: 44.3922
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=461">Please click here if you can update us</a>
+4-Special Collections: Acacia, Eucalyptus, Callistemon, Phoenix, Nerium, Platanus, Fraxinus, Schinus, Sabal, Populus, Catalpa, Rosa, Morus, Lantana, Vitex and Washingtonia. The current status of this garden and its collections are unknown.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=461">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=461">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=461">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BAGHD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

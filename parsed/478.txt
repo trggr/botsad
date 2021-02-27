@@ -1,11 +1,19 @@
-ID:	478
-Name:	Orto Botanico dell' Universita 
-Curator's Name:	Daniele Dallai
-Director's Name:	.
-Info:	  Italy - Emilia Romagna - Modena  ;Garden Information;  Institution Code: MOD; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Orto Botanico dell' Universita; Viale Caduti in Guerra 127; Modena; Emilia Romagna 4110 Italy; ;  Telephone: 39 (0)59 2056004 - (Mobile +39 033386853335); Fax: 39 (0)59 2056005; URL: <a target="_blank" href="http://www.unimo.it/ortobot/start.htm">www.unimo.it/ortobot/start.htm; Primary Email: ortobot@unimore.it ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	44.6447
-Longitude:	10.8969
-Special Collections:	Approx. 700 herbaceous specimens, aquatic plants, Nymphaea, Nuphar, Eichornia crassipes, Pistia stratiotes, Cyperus papyrus, Amaryllis, Clivia, Agapanthus, Crinus, Ficus, Ficus macrophylla, Cephalocereus euphorbioides, Euphorbia cactus, Agave victoriae-re
+0-ID: 478
+1-Name: Orto Botanico dell' Universita 
+2-Date founded: 
+2-Info:              Institution Code: MOD;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Orto Botanico dell' Universita;         Viale Caduti in Guerra 127;                Modena;        Emilia Romagna 4110 Italy;        ;                 Telephone: 39 (0)59 2056004 - (Mobile +39 033386853335);         Fax: 39 (0)59 2056005;         URL: www.unimo.it/ortobot/start.htm;         Primary Email: ortobot@unimore.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.6447
+2-Longitude: 10.8969
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=478">Please click here if you can update us</a>
+4-Special Collections: Approx. 700 herbaceous specimens, aquatic plants, Nymphaea, Nuphar, Eichornia crassipes, Pistia stratiotes, Cyperus papyrus, Amaryllis, Clivia, Agapanthus, Crinus, Ficus, Ficus macrophylla, Cephalocereus euphorbioides, Euphorbia cactus, Agave victoriae-re
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=478">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=478">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=478">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 39 (0)59 2056005
+9-Institution Code: MOD
+9-International Agenda Registration: Yes
+9-Primary Email: ortobot@unimore.it
+9-Telephone: 39 (0)59 2056004 - (Mobile +39 033386853335)
+9-URL: www.unimo.it/ortobot/start.htm

@@ -1,9 +1,18 @@
-ID:	4741
-Name:	Huntington Museum of Art - Conservatory 
-Curator's Name:	
-Director's Name:	Mike Beck, Ph.D., Conservatory Director
-Info:	  United States of America - West Virginia - Huntington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Huntington Museum of Art - Conservatory; 2033 McCoy Road; Huntington; West Virginia 25701-4999 United States of America; ;  Telephone: (304) 529-2701; Fax: ; URL: <a target="_blank" href="http://www.hmoa.org/nature/conservatory/">www.hmoa.org/nature/conservatory/; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.3927520
-Longitude:	-82.4344730
+0-ID: 4741
+1-Name: Huntington Museum of Art - Conservatory 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Huntington Museum of Art - Conservatory;         2033 McCoy Road;                Huntington;        West Virginia 25701-4999 United States of America;        ;                 Telephone: (304) 529-2701;         Fax: ;         URL: www.hmoa.org/nature/conservatory/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.3927520
+2-Longitude: -82.4344730
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4741">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4741">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4741">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4741">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4741">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (304) 529-2701
+9-URL: www.hmoa.org/nature/conservatory/

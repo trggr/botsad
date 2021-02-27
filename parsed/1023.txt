@@ -1,11 +1,19 @@
-ID:	1023
-Name:	Wail Arboretum 
-Curator's Name:	Lynn Wolfe
-Director's Name:	
-Info:	  Australia - Dimboola  ;Garden Information;  Institution Code: WAIL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wail Arboretum; National Resources & Conservation League, PO Box 117 DIMBOOLA, VIC 3414, Australia; Dimboola; Australia; ;  Telephone: 61 (0)3 5389 1733; Fax: 61 (0)3 5389 8965; URL: <a target="_blank" href="http://">; Primary Email: native@netconnect.com.au ; 
-Plant Records Officer's Name:	Lynn Wolfe
-Date founded:	1946
-Institution Type:	Botanic Garden
-Latitude:	-36.50804
-Longitude:	142.09093
-Special Collections:	90 % of collection if Australian flora.
+0-ID: 1023
+1-Name: Wail Arboretum 
+2-Date founded: 1946
+2-Info:              Institution Code: WAIL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wail Arboretum;         National Resources & Conservation League, PO Box 117 DIMBOOLA, VIC 3414, Australia;                Dimboola;        Australia;        ;                 Telephone: 61 (0)3 5389 1733;         Fax: 61 (0)3 5389 8965;         URL: ;         Primary Email: native@netconnect.com.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -36.50804
+2-Longitude: 142.09093
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1023">Please click here if you can update us</a>
+4-Special Collections: 90 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1023">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1023">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1023">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5389 8965
+9-Institution Code: WAIL
+9-International Agenda Registration: No
+9-Primary Email: native@netconnect.com.au
+9-Telephone: 61 (0)3 5389 1733
+9-URL: 

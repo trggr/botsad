@@ -1,14 +1,26 @@
-ID:	1063
-Name:	L'Arboretum de Chevreloup 
-Curator's Name:	
-Director's Name:	G. Callen
-Info:	  France - F-78150 LE CHESNAY - Roquencourt  ;Garden Information;  Institution Code: P-CHEV; International Agenda Registration: Yes; BGCI Member: Yes; About the L'Arboretum de Chevreloup Location: ROCQUENCOURT; Founded: 1924; Garden Name: L'Arboretum de Chevreloup.; Address: Museum National d'Histoire Naturelle, 57, rue Cuvier, 75005 PARIS; Situated: 30, route de Versailles, 78150 ROCQUENCOURT; Status: State; Herbarium: No;  Main Address:; L'Arboretum de Chevreloup; Museum National d'Histoire Naturelle; 1 rue de Chevreloup; Roquencourt; F-78150 LE CHESNAY France; ;  Telephone: (1) 39 55 53 80; Fax: ; URL: <a target="_blank" href="http://www.arboretumdeversailleschevreloup.fr/fr">http://www.arboretumdeversailleschevreloup.fr/fr; Primary Email: chevreloup@mnhn.fr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1924
-Institution Type:	Botanic Garden
-Latitude:	48.830278
-Longitude:	2.112222
-Open to public:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
+0-ID: 1063
+1-Name: L'Arboretum de Chevreloup 
+2-Altitude: 0.00 Metres
+2-Date founded: 1924
+2-Info:              Institution Code: P-CHEV;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the L'Arboretum de Chevreloup        Location: ROCQUENCOURT;  Founded: 1924;  Garden Name: L'Arboretum de Chevreloup.;  Address: Museum National d'Histoire Naturelle, 57, rue Cuvier, 75005 PARIS;  Situated: 30, route de Versailles, 78150 ROCQUENCOURT;  Status: State;  Herbarium: No;                        Main Address:;         L'Arboretum de Chevreloup;         Museum National d'Histoire Naturelle;        1 rue de Chevreloup;        Roquencourt;        F-78150 LE CHESNAY France;        ;                 Telephone: (1) 39 55 53 80;         Fax: ;         URL: http://www.arboretumdeversailleschevreloup.fr/fr;         Primary Email: chevreloup@mnhn.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.830278
+2-Longitude: 2.112222
+3-Open to public: Yes
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1063">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1063">Please click here if you can update us</a>
+9-About the L'Arboretum de Chevreloup        Location: ROCQUENCOURT
+9-Address: Museum National d'Histoire Naturelle, 57, rue Cuvier, 75005 PARIS
+9-BGCI Member: Yes
+9-Fax: 
+9-Founded: 1924
+9-Garden Name: L'Arboretum de Chevreloup.
+9-Herbarium: No
+9-Institution Code: P-CHEV
+9-International Agenda Registration: Yes
+9-Primary Email: chevreloup@mnhn.fr
+9-Situated: 30, route de Versailles, 78150 ROCQUENCOURT
+9-Status: State
+9-Telephone: (1) 39 55 53 80

@@ -1,9 +1,17 @@
-ID:	5206
-Name:	Heliconia Society of Puerto Rico - multisite collection 
-Curator's Name:	
-Director's Name:	
-Info:	  Puerto Rico - PR - Carolina  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Heliconia Society of Puerto Rico - multisite collection; Co-operative HSI Conservation Center of Puerto Rico; Urb. Atlantic View, 44 Calle Venus; Carolina; PR 00979-4806 Puerto Rico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.heliconiasocietypr.org/">http://www.heliconiasocietypr.org/; Primary Email: skinnerd@nettally.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	18.448057
-Longitude:	-66.036723
+0-ID: 5206
+1-Name: Heliconia Society of Puerto Rico - multisite collection 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Heliconia Society of Puerto Rico - multisite collection;         Co-operative HSI Conservation Center of Puerto Rico;        Urb. Atlantic View, 44 Calle Venus;        Carolina;        PR 00979-4806 Puerto Rico;        ;                 Telephone: ;         Fax: ;         URL: http://www.heliconiasocietypr.org/;         Primary Email: skinnerd@nettally.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.448057
+2-Longitude: -66.036723
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5206">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5206">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5206">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5206">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5206">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: skinnerd@nettally.com
+9-Telephone: 

@@ -1,16 +1,23 @@
-ID:	2410
-Name:	Arboretum at the University of California, Santa Cruz 
-Curator's Name:	Brett Hall, California Native Plant Program Director
-Director's Name:	Martin Quigley, Executive Director
-Info:	  United States of America - California - Santa Cruz  ;Garden Information;  Institution Code: SACRZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum at the University of California, Santa Cruz; University of California; 1156 High Street; Santa Cruz; California 95064 United States of America; ;  Telephone: (831) 427-2998; Fax: (831) 427-1524; URL: <a target="_blank" href="http://arboretum.ucsc.edu/">http://arboretum.ucsc.edu/; Primary Email: arboretum@cats.ucsc.edu ; 
-Plant Records Officer's Name:	Samantha Spurlin, Plant Inventory Specialist
-Altitude:	0.00 Metres
-Date founded:	1964
-Institution Type:	Botanic Garden
-Latitude:	36.9775000
-Longitude:	-122.0534422
-Arboretum:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Seed Bank:	Yes
+0-ID: 2410
+1-Name: Arboretum at the University of California, Santa Cruz 
+2-Altitude: 0.00 Metres
+2-Date founded: 1964
+2-Info:              Institution Code: SACRZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum at the University of California, Santa Cruz;         University of California;        1156 High Street;        Santa Cruz;        California 95064 United States of America;        ;                 Telephone: (831) 427-2998;         Fax: (831) 427-1524;         URL: http://arboretum.ucsc.edu/;         Primary Email: arboretum@cats.ucsc.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.9775000
+2-Longitude: -122.0534422
+3-Arboretum: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2410">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2410">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2410">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2410">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (831) 427-1524
+9-Institution Code: SACRZ
+9-International Agenda Registration: No
+9-Primary Email: arboretum@cats.ucsc.edu
+9-Telephone: (831) 427-2998

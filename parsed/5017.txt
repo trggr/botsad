@@ -1,9 +1,17 @@
-ID:	5017
-Name:	Turks and Caicos Botanical and Cultural Garden 
-Curator's Name:	
-Director's Name:	Patricia Saxton
-Info:	  Turks and Caicos Islands - Grand Turk  ;Garden Information;  Institution Code: TCB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Turks and Caicos Botanical and Cultural Garden; Guinep House; Box 188, Front Street; Grand Turk; BWI Turks and Caicos Islands; ;  Telephone: 649-231-1891; Fax: ; URL: <a target="_blank" href="http://tcmuseum.org/nature-environment/botanical-and-cultural-garden/">http://tcmuseum.org/nature-environment/botanical-and-cultural-garden/; Primary Email: pat.saxton@tcmuseum.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	21.461138
-Longitude:	-71.1426199
+0-ID: 5017
+1-Name: Turks and Caicos Botanical and Cultural Garden 
+2-Info:              Institution Code: TCB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Turks and Caicos Botanical and Cultural Garden;         Guinep House;        Box 188, Front Street;        Grand Turk;        BWI Turks and Caicos Islands;        ;                 Telephone: 649-231-1891;         Fax: ;         URL: http://tcmuseum.org/nature-environment/botanical-and-cultural-garden/;         Primary Email: pat.saxton@tcmuseum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.461138
+2-Longitude: -71.1426199
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5017">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5017">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5017">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5017">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5017">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TCB
+9-International Agenda Registration: No
+9-Primary Email: pat.saxton@tcmuseum.org
+9-Telephone: 649-231-1891

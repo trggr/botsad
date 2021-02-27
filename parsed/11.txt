@@ -1,81 +1,85 @@
-ID:	11
-Name:	Dendropark of the Northern Research Institute of Forestry 
-Fax:	7 (8182)412-578
-Info:	  Russian Federation - Arkhangelsk  ;Garden Information;  Institution Code: ARKH; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	forestry@sevniilh-arh.ru
-Telephone:	7 (8182)412-679
-the first candidates for local cultures were proposed.  About the Dendropark of the Northern Research Institute of Forestry Taxa:	603 species (75 genera of 31 families, including 1,166 samples totaling 6 879 plants of different geographical origin (Europe, Siberia, the Far East, Central Asia, North America).
-Administration Staff Number:	
-Curator's Name:	Tatyana Durkina
-Director's Name:	Natalia Demidova
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Annual Rainfall:	606 mm
-Date founded:	1960
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	64.2945
-Local Address:	ул. Никитова, 13
-Locality:	Information
-Longitude:	40.4641
-Natural Vegetation Area:	Yes
-Total Area:	45 Hectares
-Arboretum:	Yes
-Arboretum Size:	12
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	100
-Open to public:	No
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	No
-Accession Number:	6879
-Cultivation Taxa Num:	709
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	N. American flora, European flora, Manchurian flora,Central Asian flora. European representatives total 26,7%, Siberia – 7,4%, Far East – 30,5%, Middle Asia – 4,8%, North America – 24,7, and representatives of different origin (hybrids) – 5,9%.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	Yes
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	No
-Guided Tours:	No
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 11
+1-Name: Dendropark of the Northern Research Institute of Forestry 
+2-Administration Staff Number: 
+2-Curator's Name: Tatyana Durkina
+2-Director's Name: Natalia Demidova
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: ARKH;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/11/sea buckthorn2.jpg" alt="A breeding fund of sea buckthorn (Hippophae rhamnoides L.) and rosehip (Rosa majalis Hermm.) was created in the European North of Russia; the first candidates for local cultures were proposed." />         A breeding fund of sea buckthorn (Hippophae rhamnoides L.) and rosehip (Rosa majalis Hermm.) was created in the European North of Russia; the first candidates for local cultures were proposed.</div>        </div>                           About the Dendropark of the Northern Research Institute of Forestry        Taxa: 603 species (75 genera of 31 families, including 1,166 samples totaling 6 879 plants of different geographical origin (Europe, Siberia, the Far East, Central Asia, North America).;                        Main Address:;         Dendropark of the Northern Research Institute of Forestry;         Nikitova st., 13;                Arkhangelsk;        163062 Russian Federation;        ;                 Telephone: 7 (8182)412-679;         Fax: 7 (8182)412-578;         URL: ;         Primary Email: forestry@sevniilh-arh.ru       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 2
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 606 mm
+3-Date founded: 1960
+3-Institution Type: Botanic Garden
+3-Landscaped Area: No
+3-Latitude: 64.2945
+3-Local Address: ул. Никитова, 13
+3-Locality: Information
+3-Longitude: 40.4641
+3-Natural Vegetation Area: Yes
+3-Total Area: 45 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 12
+4-Computer Plant Record System: No
+4-Disabled access: No
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 100
+4-Open to public: No
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: No
+5-Accession Number: 6879
+5-Cultivation Taxa Num: 709
+5-Invasive Species Monitoring: No
+5-Invasive Species Policy: No
+5-Plant Collection Policy: Yes
+5-Special Collections: N. American flora, European flora, Manchurian flora,Central Asian flora. European representatives total 26,7%, Siberia – 7,4%, Far East – 30,5%, Middle Asia – 4,8%, North America – 24,7, and representatives of different origin (hybrids) – 5,9%.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: Yes
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: Yes
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: Yes
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: No
+8-Guided Tours: No
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 7 (8182)412-578
+9-Institution Code: ARKH
+9-International Agenda Registration: Yes
+9-Primary Email: forestry@sevniilh-arh.ru
+9-Telephone: 7 (8182)412-679
+9-URL: 
+9-the first candidates for local cultures were proposed.</div>        </div>                           About the Dendropark of the Northern Research Institute of Forestry        Taxa: 603 species (75 genera of 31 families, including 1,166 samples totaling 6 879 plants of different geographical origin (Europe, Siberia, the Far East, Central Asia, North America).

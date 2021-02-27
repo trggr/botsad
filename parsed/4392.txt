@@ -1,12 +1,20 @@
-ID:	4392
-Name:	Hanbat Arboretum 
-Curator's Name:	Seon-Ah Kim
-Director's Name:	Joong-Yin Ko
-Info:	  South Korea - Daejeon-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hanbat Arboretum; 111, Dunsandaero, Seo-gu; Daejeon-si; 302-834 South Korea; ;  Telephone: 042-4724972; Fax: 042-472-4975; URL: <a target="_blank" href="http://www.daejeon.go.kr/treegarden">http://www.daejeon.go.kr/treegarden; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	35.80264
-Local Address:	서구 만년동 396번지
-Locality:	Information
-Longitude:	128.52064
+0-ID: 4392
+1-Name: Hanbat Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hanbat Arboretum;         111, Dunsandaero, Seo-gu;                Daejeon-si;        302-834 South Korea;        ;                 Telephone: 042-4724972;         Fax: 042-472-4975;         URL: http://www.daejeon.go.kr/treegarden;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.80264
+2-Local Address: 서구 만년동 396번지
+2-Locality: Information
+2-Longitude: 128.52064
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4392">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4392">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4392">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4392">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4392">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 042-472-4975
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 042-4724972

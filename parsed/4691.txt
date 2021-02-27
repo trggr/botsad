@@ -1,9 +1,18 @@
-ID:	4691
-Name:	Historic Hudson Valley 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  United States of America - New York - Tarrytown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Historic Hudson Valley; 150 White Plains Road; Tarrytown; New York 10591 United States of America; ;  Telephone: (845) 758-5461; Fax: ; URL: <a target="_blank" href="http://www.hudsonvalley.org">www.hudsonvalley.org; Primary Email: info@hudsonvalley.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.0638940
-Longitude:	-73.8559880
+0-ID: 4691
+1-Name: Historic Hudson Valley 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Historic Hudson Valley;         150 White Plains Road;                Tarrytown;        New York 10591 United States of America;        ;                 Telephone: (845) 758-5461;         Fax: ;         URL: www.hudsonvalley.org;         Primary Email: info@hudsonvalley.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.0638940
+2-Longitude: -73.8559880
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4691">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4691">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4691">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4691">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4691">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@hudsonvalley.org
+9-Telephone: (845) 758-5461
+9-URL: www.hudsonvalley.org

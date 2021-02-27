@@ -1,7 +1,17 @@
-ID:	5437
-Name:	Bo Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  Sierra Leone - Bo City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Bo Arboretum; 213 Koribondo Highway; Bo City; Sierra Leone; ;  Telephone: 232 76 639755; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: bo.arborteum@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5437
+1-Name: Bo Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Bo Arboretum;         213 Koribondo Highway;                Bo City;        Sierra Leone;        ;                 Telephone: 232 76 639755;         Fax: ;         URL: ;         Primary Email: bo.arborteum@gmail.com       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5437">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5437">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5437">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5437">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5437">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: bo.arborteum@gmail.com
+9-Telephone: 232 76 639755
+9-URL: 

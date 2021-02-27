@@ -1,10 +1,19 @@
-ID:	3068
-Name:	Jardin Botanico "El Robledo" 
-Curator's Name:	
-Director's Name:	
-Info:	  Spain - Constantina  ;Garden Information;  Institution Code: RCS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico "El Robledo"; P.N. Sierra Norte de Sevilla, Constantina, Sevilla, Spain; Constantina; Spain; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	37.8430
-Longitude:	-5.5839
+0-ID: 3068
+1-Name: Jardin Botanico "El Robledo" 
+2-Date founded: 
+2-Info:              Institution Code: RCS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico "El Robledo";         P.N. Sierra Norte de Sevilla,  Constantina,  Sevilla, Spain;                Constantina;        Spain;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.8430
+2-Longitude: -5.5839
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3068">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3068">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3068">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3068">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3068">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: RCS
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

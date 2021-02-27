@@ -1,10 +1,19 @@
-ID:	3136
-Name:	Earth University 
-Curator's Name:	
-Director's Name:	
-Info:	  Costa Rica - San Jose  ;Garden Information;  Institution Code: EARTH; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Earth University; 4442-1000 San JoseCosta Rica; San Jose; Costa Rica; ;  Telephone: + 506 713 0000; Fax: + 506 713 0001; URL: <a target="_blank" href="http://www.earth.ac.cr">www.earth.ac.cr; Primary Email: jrarce@earth.ac.cr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	9.9402
-Longitude:	-84.1001
+0-ID: 3136
+1-Name: Earth University 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: EARTH;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Earth University;         4442-1000 San JoseCosta Rica;                San Jose;        Costa Rica;        ;                 Telephone: + 506 713 0000;         Fax: + 506 713 0001;         URL: www.earth.ac.cr;         Primary Email: jrarce@earth.ac.cr       ;              
+2-Institution Type: Other
+2-Latitude: 9.9402
+2-Longitude: -84.1001
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3136">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3136">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3136">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3136">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3136">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: + 506 713 0001
+9-Institution Code: EARTH
+9-International Agenda Registration: Yes
+9-Primary Email: jrarce@earth.ac.cr
+9-Telephone: + 506 713 0000
+9-URL: www.earth.ac.cr

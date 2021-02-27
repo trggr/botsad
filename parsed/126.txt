@@ -1,11 +1,19 @@
-ID:	126
-Name:	O.V. Fomin Botanical Garden / Ботанічний сад імені акад. О.В. Фоміна 
-Curator's Name:	
-Director's Name:	A. A. Senchilo
-Info:	  Ukraine - Kiev oblast - Kiev  ;Garden Information;  Institution Code: KIEV; International Agenda Registration: No; BGCI Member: No;  Main Address:; O.V. Fomin Botanical Garden / Ботанічний сад імені акад. О.В. Фоміна; Taras Schevchenko National University of Kiev; Komintern Street, 1; Kiev; Kiev oblast 01032 Ukraine; ;  Telephone: 38 (044) 239 31 90; Fax: 38 (044) 239 31 90; URL: <a target="_blank" href="http://www.botanic.kiev.ua">www.botanic.kiev.ua; Primary Email: botsad_fomin@ukr.net ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	50.44279
-Longitude:	30.50355
-Special Collections:	Cactaceae, Crassulaceae, Bromeliaceae, Araceae, Palmae.
+0-ID: 126
+1-Name: O.V. Fomin Botanical Garden / Ботанічний сад імені акад. О.В. Фоміна 
+2-Date founded: 
+2-Info:              Institution Code: KIEV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         O.V. Fomin Botanical Garden / Ботанічний сад імені акад. О.В. Фоміна;         Taras Schevchenko National University of Kiev;        Komintern Street, 1;        Kiev;        Kiev oblast 01032 Ukraine;        ;                 Telephone: 38 (044) 239 31 90;         Fax: 38 (044) 239 31 90;         URL: www.botanic.kiev.ua;         Primary Email: botsad_fomin@ukr.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.44279
+2-Longitude: 30.50355
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=126">Please click here if you can update us</a>
+4-Special Collections: Cactaceae, Crassulaceae, Bromeliaceae, Araceae, Palmae.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=126">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=126">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=126">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 38 (044) 239 31 90
+9-Institution Code: KIEV
+9-International Agenda Registration: No
+9-Primary Email: botsad_fomin@ukr.net
+9-Telephone: 38 (044) 239 31 90
+9-URL: www.botanic.kiev.ua

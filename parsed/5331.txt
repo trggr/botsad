@@ -1,9 +1,17 @@
-ID:	5331
-Name:	University of Illinois Plant Biology Greenhouses 
-Curator's Name:	
-Director's Name:	Debbie Black, Greenhouse Manager
-Info:	  United States of America - Illinois - Urbana  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Illinois Plant Biology Greenhouses; 1201 S. Dorner Drive; Urbana; Illinois 61801 United States of America; ;  Telephone: 217-333-7857; Fax: ; URL: <a target="_blank" href="http://www.life.illinois.edu/plantbio/greenhouse/">http://www.life.illinois.edu/plantbio/greenhouse/; Primary Email: black3@life.illinois.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.102386
-Longitude:	-88.222421
+0-ID: 5331
+1-Name: University of Illinois Plant Biology Greenhouses 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Illinois Plant Biology Greenhouses;         1201 S. Dorner Drive;                Urbana;        Illinois 61801 United States of America;        ;                 Telephone: 217-333-7857;         Fax: ;         URL: http://www.life.illinois.edu/plantbio/greenhouse/;         Primary Email: black3@life.illinois.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.102386
+2-Longitude: -88.222421
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5331">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5331">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5331">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5331">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5331">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: black3@life.illinois.edu
+9-Telephone: 217-333-7857

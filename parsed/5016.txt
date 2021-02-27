@@ -1,11 +1,20 @@
-ID:	5016
-Name:	Meadowburn Farm 
-Curator's Name:	
-Director's Name:	Quill Teal-Sullivan, Garden Manager
-Info:	  United States of America - New Jersey - Vernon Township  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Meadowburn Farm Garden Mission: To restore, preserve, and celebrate the gardens of Helena Rutherfurd Ely at Meadowburn Farm for the enjoyment and education of the public, and to preserve the existing heirloom cultivars through propagation and distribution.; ; Meadowburn was once the country place of Helena Rutherfurd Ely (1858-1920), a pioneering figure in American horticulture at the turn of the 20th century and founding member of the Garden Club of America. Ely built her gardens surrounding the main residence at Meadowburn over the course of a forty-year period with the help of her loyal gardener, Albert Furman. Through trial and error she developed the practical hands-on horticultural knowledge that informed and inspired her three widely influential books on hardy gardening. In her day, Helena Rutherfurd Ely was considered one of the premier garden experts in America and her gardens at Meadowburn were recognized as among the finest in the country.; ; The gardens today provide a unique opportunity for the public to learn from Helena Rutherfurd Ely’s design and practices as an important living artifact in America’s gardening narrative.;  Main Address:; Meadowburn Farm; 42 Meadow Burn Road; Vernon Township; New Jersey 07462 United States of America; ;  Telephone: (206) 788-5607; Fax: ; URL: <a target="_blank" href="http://www. MeadowburnFarm.com">www. MeadowburnFarm.com; Primary Email: quillts@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	41.238179
-Longitude:	-74.440593
-Special Collections:	Dahlia collection
+0-ID: 5016
+1-Name: Meadowburn Farm 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Meadowburn Farm        Garden Mission: To restore, preserve, and celebrate the gardens of Helena Rutherfurd Ely at Meadowburn Farm for the enjoyment and education of the public, and to preserve the existing heirloom cultivars through propagation and distribution.;  ;  Meadowburn was once the country place of Helena Rutherfurd Ely (1858-1920), a pioneering figure in American horticulture at the turn of the 20th century and founding member of the Garden Club of America.  Ely built her gardens surrounding the main residence at Meadowburn over the course of a forty-year period with the help of her loyal gardener, Albert Furman. Through trial and error she developed the practical hands-on horticultural knowledge that informed and inspired  her three widely influential books on hardy gardening. In her day, Helena Rutherfurd Ely was considered one of the premier garden experts in America and her gardens at Meadowburn were recognized as among the finest in the country.;  ;  The gardens today provide a unique opportunity for the public to learn from Helena Rutherfurd Ely’s design and practices as an important living artifact in America’s gardening narrative.;                        Main Address:;         Meadowburn Farm;         42 Meadow Burn Road;                Vernon Township;        New Jersey 07462 United States of America;        ;                 Telephone: (206) 788-5607;         Fax: ;         URL: www. MeadowburnFarm.com;         Primary Email: quillts@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.238179
+2-Longitude: -74.440593
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5016">Please click here if you can update us</a>
+4-Special Collections: Dahlia collection
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5016">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5016">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5016">Please click here if you can update us</a>
+9-About the Meadowburn Farm        Garden Mission: To restore, preserve, and celebrate the gardens of Helena Rutherfurd Ely at Meadowburn Farm for the enjoyment and education of the public, and to preserve the existing heirloom cultivars through propagation and distribution.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: quillts@gmail.com
+9-Telephone: (206) 788-5607
+9-URL: www. MeadowburnFarm.com

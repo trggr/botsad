@@ -1,13 +1,20 @@
-ID:	663
-Name:	Tropical Research and Education Center, The 
-Curator's Name:	
-Director's Name:	Van Waddill
-Info:	  United States of America - Florida - Homestead  ;Garden Information;  Institution Code: HOMES; International Agenda Registration: No; BGCI Member: No; About the Tropical Research and Education Center, The The Tropical Research and Education Center of the Institute of Food and Agricultural Sciences (IFAS), University of Florida is located in Homestead , Florida about 30 miles south of Miami. The Center was established in 1929 by an act of the state legislature in what is now Miami-Dade County on land donated by the Krome family and Mr. Charles E. Schaff.; ; Research, teaching, and extension programs focus on tropical and subtropical fruit crops, tropical and temperate vegetable crops, and ornamental crops of southern Florida. The agricultural industry served by the center has an annual farm gate value of $834 million. Multiplier effects make agriculture's impact on the local economy worth over $1 billion annually. ; ; Due to the region's humid subtropical climate, TREC is the only state university research center in the continental U.S. focusing on a large number of tropical and subtropical crops. Also, the area's oolitic limestone soil is unique to extreme southern Florida. In addition, the Center addresses water and environmental issues that impact crop production over a shallow aquifer and in proximity to Everglades National Park, Biscayne National Marine Park, Florida Bay and major well fields which provide drinking water to the several million people in neighboring urban areas. ; ; The center's 160 acres consist of offices, laboratories, greenhouses, vegetable fields, and fruit orchards. There are sixteen faculty members and about 45 support staff.;  Main Address:; Tropical Research and Education Center, The; University of Florida; 18905 SW 280 Street; Homestead; Florida 33031 United States of America; ;  Telephone: (305) 246-7000; Fax: (305) 246-7003; URL: <a target="_blank" href="http://trec.ifas.ufl.edu/index.shtml">http://trec.ifas.ufl.edu/index.shtml; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1929
-Institution Type:	Botanic Garden
-Latitude:	25.5063600
-Longitude:	-80.4999370
-Total Area:	64 Hectares
-Special Collections:	tropical and subtropical fruit crops, tropical and temperate vegetable crops, and ornamental crops of southern Florida
+0-ID: 663
+1-Name: Tropical Research and Education Center, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 1929
+2-Info:              Institution Code: HOMES;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Tropical Research and Education Center, The        The Tropical Research and Education Center of the Institute of Food and Agricultural Sciences (IFAS), University of Florida is located in Homestead , Florida about 30 miles south of Miami. The Center was established in 1929 by an act of the state legislature in what is now Miami-Dade County on land donated by the Krome family and Mr. Charles E. Schaff.;  ;  Research, teaching, and extension programs focus on tropical and subtropical fruit crops, tropical and temperate vegetable crops, and ornamental crops of southern Florida. The agricultural industry served by the center has an annual farm gate value of $834 million.  Multiplier effects make agriculture's impact on the local economy worth over $1 billion annually. ;  ;  Due to the region's humid subtropical climate, TREC is the only state university research center in the continental U.S. focusing on a large number of tropical and subtropical crops. Also, the area's oolitic limestone soil is unique to extreme southern Florida.  In addition, the Center addresses water and environmental issues that impact crop production over a shallow aquifer and in proximity to Everglades National Park, Biscayne National Marine Park, Florida Bay and major well fields which provide drinking water to the several million people in neighboring urban areas. ;  ;  The center's 160 acres consist of offices, laboratories, greenhouses, vegetable fields, and fruit orchards. There are sixteen faculty members and about 45 support staff.;                        Main Address:;         Tropical Research and Education Center, The;         University of Florida;        18905 SW 280 Street;        Homestead;        Florida 33031 United States of America;        ;                 Telephone: (305) 246-7000;         Fax: (305) 246-7003;         URL: http://trec.ifas.ufl.edu/index.shtml;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.5063600
+2-Longitude: -80.4999370
+2-Total Area: 64 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=663">Please click here if you can update us</a>
+4-Special Collections: tropical and subtropical fruit crops, tropical and temperate vegetable crops, and ornamental crops of southern Florida
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=663">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=663">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=663">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (305) 246-7003
+9-Institution Code: HOMES
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (305) 246-7000

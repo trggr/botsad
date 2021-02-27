@@ -1,13 +1,21 @@
-ID:	3053
-Name:	Arboretum of Shandong College of Forestry (Shangdong) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Shandong - Taian  ;Garden Information;  Institution Code: TAIAN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of Shandong College of Forestry (Shangdong); Forestry Department of Shandong Province, Northern Gate, Taian, Shandong, 271000, China; Taian; Shandong China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1956
-Institution Type:	Botanic Garden
-Latitude:	36.1916
-Local Address:	中国山东省泰安市北关山东省林业厅，邮编 271000
-Locality:	Information
-Longitude:	117.1291
-Special Collections:	Pinetum, Paeonies, bamboos, economic trees, ornamentals, air-pollution resistant plants, aquatic plants
+0-ID: 3053
+1-Name: Arboretum of Shandong College of Forestry (Shangdong) 
+2-Date founded: 1956
+2-Info:              Institution Code: TAIAN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of Shandong College of Forestry (Shangdong);         Forestry Department of Shandong Province, Northern Gate, Taian, Shandong, 271000, China;                Taian;        Shandong China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.1916
+2-Local Address: 中国山东省泰安市北关山东省林业厅，邮编 271000
+2-Locality: Information
+2-Longitude: 117.1291
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3053">Please click here if you can update us</a>
+4-Special Collections: Pinetum, Paeonies, bamboos, economic trees, ornamentals, air-pollution resistant plants, aquatic plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3053">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3053">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3053">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TAIAN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

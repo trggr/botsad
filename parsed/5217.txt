@@ -1,14 +1,21 @@
-ID:	5217
-Name:	University of Hawai'i Campus Arboretum 
-Curator's Name:	Nōweo Kai
-Director's Name:	Roxanne Adams
-Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Hawai'i Campus Arboretum; Landscape Services; 2002 East-West Road; Honolulu; Hawaii 96822 United States of America; ;  Telephone: (808) 956-4626; Fax: (808) 956-4075; URL: <a target="_blank" href="http://manoa.hawaii.edu/landscaping/plants/campusarboretum.php">http://manoa.hawaii.edu/landscaping/plants/campusarboretum.php; Primary Email: uhmtrees@hawaii.edu ; 
-Plant Records Officer's Name:	
-Altitude:	30.00 Metres
-Annual Rainfall:	1000 mm
-Institution Type:	Botanic Garden
-Latitude:	21.304351
-Longitude:	-157.813313
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Open to public:	Yes
+0-ID: 5217
+1-Name: University of Hawai'i Campus Arboretum 
+2-Altitude: 30.00 Metres
+2-Annual Rainfall: 1000 mm
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Hawai'i Campus Arboretum;         Landscape Services;        2002 East-West Road;        Honolulu;        Hawaii 96822 United States of America;        ;                 Telephone: (808) 956-4626;         Fax: (808) 956-4075;         URL: http://manoa.hawaii.edu/landscaping/plants/campusarboretum.php;         Primary Email: uhmtrees@hawaii.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.304351
+2-Longitude: -157.813313
+3-Arboretum: Yes
+3-Computer Plant Record System: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5217">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5217">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5217">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5217">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (808) 956-4075
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: uhmtrees@hawaii.edu
+9-Telephone: (808) 956-4626

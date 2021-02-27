@@ -1,9 +1,18 @@
-ID:	4642
-Name:	Cosley Zoo 
-Curator's Name:	Susan Wahlgren, Manager
-Director's Name:	Unknown
-Info:	  United States of America - Illinois - Wheaton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cosley Zoo; 1356 N. Gary Avenue; Wheaton; Illinois 60187 United States of America; ;  Telephone: (630) 665-5534; Fax: ; URL: <a target="_blank" href="http://www.wheatonparkdistrict.com/pgs/parks/cosley/default.html">www.wheatonparkdistrict.com/pgs/parks/cosley/default.html; Primary Email: cosleyzoo@wheatonparks.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	41.8778993
-Longitude:	-88.1196218
+0-ID: 4642
+1-Name: Cosley Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Cosley Zoo;         1356 N. Gary Avenue;                Wheaton;        Illinois 60187 United States of America;        ;                 Telephone: (630) 665-5534;         Fax: ;         URL: www.wheatonparkdistrict.com/pgs/parks/cosley/default.html;         Primary Email: cosleyzoo@wheatonparks.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 41.8778993
+2-Longitude: -88.1196218
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4642">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4642">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4642">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4642">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4642">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cosleyzoo@wheatonparks.org
+9-Telephone: (630) 665-5534
+9-URL: www.wheatonparkdistrict.com/pgs/parks/cosley/default.html

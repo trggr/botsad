@@ -1,9 +1,17 @@
-ID:	5484
-Name:	Botanic Garden of the National and Kapodistrian University of Athens 
-Curator's Name:	
-Director's Name:	
-Info:	  Greece - Athens  ;Garden Information;  Institution Code: ATHU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden of the National and Kapodistrian University of Athens; Department of Biology, Division of Ecology and Taxonomy,; National and Kapodistrian University of Athens, Panepistimiopolis; Athens; 157 84 Greece; ;  Telephone: +30 210 7274240, +30 210 7274258; Fax: +30 210 7274885; URL: <a target="_blank" href="http://en.uoa.gr/about-us/museums/botanical-garden.html">http://en.uoa.gr/about-us/museums/botanical-garden.html; Primary Email: ibazos@biol.uoa.gr ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	37.9894
-Longitude:	23.7444
+0-ID: 5484
+1-Name: Botanic Garden of the National and Kapodistrian University of Athens 
+2-Info:              Institution Code: ATHU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanic Garden of the National and Kapodistrian University of Athens;         Department of Biology, Division of Ecology and Taxonomy,;        National and Kapodistrian University of Athens, Panepistimiopolis;        Athens;        157 84 Greece;        ;                 Telephone: +30 210 7274240, +30 210 7274258;         Fax: +30 210 7274885;         URL: http://en.uoa.gr/about-us/museums/botanical-garden.html;         Primary Email: ibazos@biol.uoa.gr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.9894
+2-Longitude: 23.7444
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5484">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5484">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5484">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5484">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5484">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +30 210 7274885
+9-Institution Code: ATHU
+9-International Agenda Registration: No
+9-Primary Email: ibazos@biol.uoa.gr
+9-Telephone: +30 210 7274240, +30 210 7274258

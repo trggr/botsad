@@ -1,13 +1,20 @@
-ID:	719
-Name:	Hayes Arboretum 
-Curator's Name:	
-Director's Name:	Steve Hayes, Jr., Director
-Info:	  United States of America - Indiana - Richmond  ;Garden Information;  Institution Code: SWHRF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hayes Arboretum; 801 Elks Road; Richmond; Indiana 47374 United States of America; ;  Telephone: (765) 962-3745; Fax: ; URL: <a target="_blank" href="http://www.hayesarboretum.org">www.hayesarboretum.org; Primary Email: stephenhayes13@yahoo.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1959
-Institution Type:	Botanic Garden
-Latitude:	39.8380200
-Longitude:	-84.8514310
-Open to public:	Yes
-Special Collections:	Native ferns, 181 native woody plants.
+0-ID: 719
+1-Name: Hayes Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1959
+2-Info:              Institution Code: SWHRF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hayes Arboretum;         801 Elks Road;                Richmond;        Indiana 47374 United States of America;        ;                 Telephone: (765) 962-3745;         Fax: ;         URL: www.hayesarboretum.org;         Primary Email: stephenhayes13@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.8380200
+2-Longitude: -84.8514310
+3-Open to public: Yes
+4-Special Collections: Native ferns, 181 native woody plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=719">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=719">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=719">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SWHRF
+9-International Agenda Registration: No
+9-Primary Email: stephenhayes13@yahoo.com
+9-Telephone: (765) 962-3745
+9-URL: www.hayesarboretum.org

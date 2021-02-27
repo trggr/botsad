@@ -1,12 +1,20 @@
-ID:	4279
-Name:	Lake Erie Arboretum at Frontier Park 
-Curator's Name:	Dan Dahlkemper, President
-Director's Name:	Kathy Dahlkemper, Vice President
-Info:	  United States of America - Pennsylvania - Erie  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lake Erie Arboretum at Frontier Park; 1650 Norcross Road; Erie; Pennsylvania 16510 United States of America; ;  Telephone: (814) 825-1700; Fax: (814) 825-0775; URL: <a target="_blank" href="http://www.leaferie.org">www.leaferie.org; Primary Email: leaf@velocity.net ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	42.1050840
-Longitude:	-80.0258670
-Friends society:	Yes
-Open to public:	Yes
+0-ID: 4279
+1-Name: Lake Erie Arboretum at Frontier Park 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Lake Erie Arboretum at Frontier Park;         1650 Norcross Road;                Erie;        Pennsylvania 16510 United States of America;        ;                 Telephone: (814) 825-1700;         Fax: (814) 825-0775;         URL: www.leaferie.org;         Primary Email: leaf@velocity.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.1050840
+2-Longitude: -80.0258670
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4279">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4279">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4279">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4279">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (814) 825-0775
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: leaf@velocity.net
+9-Telephone: (814) 825-1700
+9-URL: www.leaferie.org

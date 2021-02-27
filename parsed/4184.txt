@@ -1,75 +1,75 @@
-ID:	4184
-Name:	Fundação Jardim Botânico de Pocos de Caldas 
-Administration Staff Number:	3
-Curator's Name:	Silvana Vieira
-Director's Name:	João Neves Toledo
-Educational Staff Number:	1
-Horticultural Staff Number:	3
-Info:	  Brazil - Minas Gerais - Poços de Caldas  ;Garden Information;  Institution Code: CALDAS; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Fundação Jardim Botânico de Pocos de Caldas; Rua Paulo de Oliveira, 320; Parque Véu das Noivas; Poços de Caldas; Minas Gerais 37704-377 Brazil; ;  Telephone: 55 35 3715 6054; Fax: ; URL: <a target="_blank" href="http://www.jardimbotanicopocos.org">www.jardimbotanicopocos.org; Primary Email: fjbpc@yahoo.com.br ; 
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	1400.00 Metres
-Date founded:	2003
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-21.7882
-Local Address:	Rua Paulo de Oliveira 320
-Locality:	Information
-Longitude:	-46.5625
-Natural Vegetation Area:	Yes
-Total Area:	305 Hectares
-Arboretum:	Yes
-Arboretum Size:	40
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	150
-Number of Volunteers:	25
-Open to public:	No
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	2500
-Cultivation Taxa Num:	1500
-Invasive Species Monitoring:	No
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	No
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	Yes
+0-ID: 4184
+1-Name: Fundação Jardim Botânico de Pocos de Caldas 
+2-Altitude: 1400.00 Metres
+2-Date founded: 2003
+2-Info:              Institution Code: CALDAS;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Fundação Jardim Botânico de Pocos de Caldas;         Rua Paulo de Oliveira, 320;        Parque Véu das Noivas;        Poços de Caldas;        Minas Gerais 37704-377 Brazil;        ;                 Telephone: 55 35 3715 6054;         Fax: ;         URL: www.jardimbotanicopocos.org;         Primary Email: fjbpc@yahoo.com.br       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: -21.7882
+2-Local Address: Rua Paulo de Oliveira 320
+2-Locality: Information
+2-Longitude: -46.5625
+2-Natural Vegetation Area: Yes
+2-Total Area: 305 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 40
+3-Computer Plant Record System: Yes
+3-Disabled access: No
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 150
+3-Number of Volunteers: 25
+3-Open to public: No
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 2500
+4-Cultivation Taxa Num: 1500
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: No
+6-Land Restoration: Yes
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: No
+6-Sustainability: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: No
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: No
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CALDAS
+9-International Agenda Registration: Yes
+9-Primary Email: fjbpc@yahoo.com.br
+9-Telephone: 55 35 3715 6054
+9-URL: www.jardimbotanicopocos.org

@@ -1,11 +1,18 @@
-ID:	5125
-Name:	Plant Production Research Institute 
-Curator's Name:	
-Director's Name:	Hauptvogel Pavol Ing., PhD.
-Info:	  Slovakia - Pieštany  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Plant Production Research Institute; Bratislavská cesta 122; Pieštany; 921 68 Slovakia; ;  Telephone: +421-33-7722330; Fax: +421-33-7726306; URL: <a target="_blank" href="http://www.vurv.sk/en/workplaces/">http://www.vurv.sk/en/workplaces/; Primary Email: vurv@vurv.sk ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	48.5858
-Longitude:	17.8156
-Seed Bank:	Yes
+0-ID: 5125
+1-Name: Plant Production Research Institute 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Plant Production Research Institute;         Bratislavská cesta 122;                Pieštany;        921 68 Slovakia;        ;                 Telephone: +421-33-7722330;         Fax: +421-33-7726306;         URL: http://www.vurv.sk/en/workplaces/;         Primary Email: vurv@vurv.sk       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 48.5858
+2-Longitude: 17.8156
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5125">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5125">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5125">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5125">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +421-33-7726306
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: vurv@vurv.sk
+9-Telephone: +421-33-7722330

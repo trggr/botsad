@@ -1,11 +1,19 @@
-ID:	3208
-Name:	J. J. Neilson Arboretum 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Canada - Ontario - Ridgetown  ;Garden Information;  Institution Code: NEIL; International Agenda Registration: No; BGCI Member: No; About the J. J. Neilson Arboretum Over 700 species of trees and shrubs;  Main Address:; J. J. Neilson Arboretum; Ridgetown College, University of Guelph; Ridgetown; Ontario NOP 2CO Canada; ;  Telephone: (519) 674-1628; Fax: (519) 674-1600; URL: <a target="_blank" href="http://www.ridgetownc.uoguelph.ca">www.ridgetownc.uoguelph.ca; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	42.44726
-Longitude:	-81.87561
-Special Collections:	No information available.
+0-ID: 3208
+1-Name: J. J. Neilson Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: NEIL;             International Agenda Registration: No;        BGCI Member: No;                                                  About the J. J. Neilson Arboretum        Over 700 species of trees and shrubs;                        Main Address:;         J. J. Neilson Arboretum;         Ridgetown College, University of Guelph;                Ridgetown;        Ontario NOP 2CO Canada;        ;                 Telephone: (519) 674-1628;         Fax: (519) 674-1600;         URL: www.ridgetownc.uoguelph.ca;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.44726
+2-Longitude: -81.87561
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3208">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3208">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3208">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3208">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (519) 674-1600
+9-Institution Code: NEIL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (519) 674-1628
+9-URL: www.ridgetownc.uoguelph.ca

@@ -1,10 +1,19 @@
-ID:	436
-Name:	Staatliche Schlosser und Garten Worlitz 
-Curator's Name:	
-Director's Name:	
-Info:	  Germany - Deutschland - Worlitz  ;Garden Information;  Institution Code: WORLZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Staatliche Schlosser und Garten Worlitz; Oranienbaum und Luisium in Worlitz, 4414 WORLITZ, Germany; Worlitz; Germany - Deutschland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	51.8428
-Longitude:	12.4185
+0-ID: 436
+1-Name: Staatliche Schlosser und Garten Worlitz 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: WORLZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Staatliche Schlosser und Garten Worlitz;         Oranienbaum und Luisium in Worlitz,  4414 WORLITZ,  Germany;                Worlitz;        Germany - Deutschland;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 51.8428
+2-Longitude: 12.4185
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=436">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=436">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=436">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=436">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=436">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WORLZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

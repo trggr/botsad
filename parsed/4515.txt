@@ -1,16 +1,23 @@
-ID:	4515
-Name:	Missouri Botanical Garden - Seed Bank 
-Curator's Name:	Meg Engelhardt, Seed Bank Manager
-Director's Name:	Peter Wyse-Jackson, President
-Info:	  United States of America - Missouri - St. Louis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Missouri Botanical Garden - Seed Bank; 4344 Shaw Boulevard; St. Louis; Missouri 63110 United States of America; ;  Telephone: (314) 577-5100; Fax: (314) 577-9521; URL: <a target="_blank" href="http://www.mobot.org">www.mobot.org; Primary Email: Matthew.Albrecht@mobot.org ; 
-Plant Records Officer's Name:	Rebecca Sucher
-Altitude:	0.00 Metres
-Date founded:	2013
-Institution Type:	Gene/Seed Bank
-Latitude:	38.6167030
-Longitude:	-90.2579640
-Satellite Garden Names:	Missouri Botanical Garden
-Computer Plant Record System:	Yes
-Seed Bank:	Yes
-Land Restoration:	Yes
-Restoration Ecology:	Yes
+0-ID: 4515
+1-Name: Missouri Botanical Garden - Seed Bank 
+2-Altitude: 0.00 Metres
+2-Date founded: 2013
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Missouri Botanical Garden - Seed Bank;         4344 Shaw Boulevard;                St. Louis;        Missouri 63110 United States of America;        ;                 Telephone: (314) 577-5100;         Fax: (314) 577-9521;         URL: www.mobot.org;         Primary Email: Matthew.Albrecht@mobot.org       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 38.6167030
+2-Longitude: -90.2579640
+2-Satellite Garden Names: Missouri Botanical Garden
+3-Computer Plant Record System: Yes
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4515">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4515">Please click here if you can update us</a>
+6-Land Restoration: Yes
+6-Restoration Ecology: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4515">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (314) 577-9521
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Matthew.Albrecht@mobot.org
+9-Telephone: (314) 577-5100
+9-URL: www.mobot.org

@@ -1,9 +1,18 @@
-ID:	4634
-Name:	Illinois Central College Arboretum 
-Curator's Name:	
-Director's Name:	Randey Wall, Instructor
-Info:	  United States of America - Illinois - East Peoria  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Illinois Central College Arboretum; Horticulture Department; 1 College Drive; East Peoria; Illinois 61635 United States of America; ;  Telephone: (309) 694-8446; Fax: ; URL: <a target="_blank" href="http://www.icc.edu/ait/horticulture/arboretum.asp">www.icc.edu/ait/horticulture/arboretum.asp; Primary Email: rwall@icc.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.7103089
-Longitude:	-89.5165151
+0-ID: 4634
+1-Name: Illinois Central College Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Illinois Central College Arboretum;         Horticulture Department;        1 College Drive;        East Peoria;        Illinois 61635 United States of America;        ;                 Telephone: (309) 694-8446;         Fax: ;         URL: www.icc.edu/ait/horticulture/arboretum.asp;         Primary Email: rwall@icc.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.7103089
+2-Longitude: -89.5165151
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4634">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4634">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4634">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4634">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4634">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: rwall@icc.edu
+9-Telephone: (309) 694-8446
+9-URL: www.icc.edu/ait/horticulture/arboretum.asp

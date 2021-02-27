@@ -1,10 +1,19 @@
-ID:	3259
-Name:	Larkwhistle Garden 
-Curator's Name:	
-Director's Name:	Patrick Lima and John Scanlan
-Info:	  Canada - Ontario - Dyers Bay  ;Garden Information;  Institution Code: LML; International Agenda Registration: No; BGCI Member: No;  Main Address:; Larkwhistle Garden; 191 Lindsay Road 40; Dyers Bay; Ontario NOH 1Z0 Canada; ;  Telephone: (519) 795-7763; Fax: ; URL: <a target="_blank" href="http://www.getawaystoontario.ca/gardens/larkwhistle">www.getawaystoontario.ca/gardens/larkwhistle; Primary Email: larkwhistle@amtelecom.net ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	45.18187
-Longitude:	-81.36624
+0-ID: 3259
+1-Name: Larkwhistle Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: LML;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Larkwhistle Garden;         191 Lindsay Road 40;                Dyers Bay;        Ontario NOH 1Z0 Canada;        ;                 Telephone: (519) 795-7763;         Fax: ;         URL: www.getawaystoontario.ca/gardens/larkwhistle;         Primary Email: larkwhistle@amtelecom.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.18187
+2-Longitude: -81.36624
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3259">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3259">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3259">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3259">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3259">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LML
+9-International Agenda Registration: No
+9-Primary Email: larkwhistle@amtelecom.net
+9-Telephone: (519) 795-7763
+9-URL: www.getawaystoontario.ca/gardens/larkwhistle

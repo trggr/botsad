@@ -1,11 +1,19 @@
-ID:	1140
-Name:	Botanical Garden of the Institute of Medicine 
-Curator's Name:	
-Director's Name:	
-Info:	  Belarus - Vitebsk  ;Garden Information;  Institution Code: VITIM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of the Institute of Medicine; Ulanoviczi Olgovo 211320 VITEBSK Belarus; Vitebsk; Belarus; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	55.2025
-Longitude:	28.7091
-Special Collections:	Medicinal plants.
+0-ID: 1140
+1-Name: Botanical Garden of the Institute of Medicine 
+2-Date founded: 
+2-Info:              Institution Code: VITIM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden of the Institute of Medicine;         Ulanoviczi Olgovo 211320 VITEBSK  Belarus;                Vitebsk;        Belarus;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.2025
+2-Longitude: 28.7091
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1140">Please click here if you can update us</a>
+4-Special Collections: Medicinal plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1140">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1140">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1140">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: VITIM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,18 +1,24 @@
-ID:	728
-Name:	University of Washington Medicinal Herb Garden and Tree Collection 
-Curator's Name:	Keith Possee, Gardener and Curator
-Director's Name:	N/A
-Info:	  United States of America - Washington - Seattle  ;Garden Information;  Institution Code: WTU; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Washington Medicinal Herb Garden and Tree Collection; UW Biology; Box 351800; Seattle; Washington 98195-1800 United States of America; ;  Telephone: (206) 543-0436; Fax: (206) 616-2011; URL: <a target="_blank" href="http://www.biology.washington.edu/mhg/index.html">www.biology.washington.edu/mhg/index.html; Primary Email: kpossee@u.washington.edu ; 
-Plant Records Officer's Name:	Sara Shores
-Altitude:	0.00 Metres
-Date founded:	1911
-Institution Type:	Botanic Garden
-Latitude:	47.6529110
-Longitude:	-122.3090000
-Total Area:	260 Hectares
-Computer Plant Record System:	Yes
-Open to public:	Yes
-Accession Number:	11000
-Invasive Species Monitoring:	Yes
-Special Collections:	Trees and medicinal plants.
-Guided Tours:	Yes
+0-ID: 728
+1-Name: University of Washington Medicinal Herb Garden and Tree Collection 
+2-Altitude: 0.00 Metres
+2-Date founded: 1911
+2-Info:              Institution Code: WTU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Washington Medicinal Herb Garden and Tree Collection;         UW Biology;        Box 351800;        Seattle;        Washington 98195-1800 United States of America;        ;                 Telephone: (206) 543-0436;         Fax: (206) 616-2011;         URL: www.biology.washington.edu/mhg/index.html;         Primary Email: kpossee@u.washington.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.6529110
+2-Longitude: -122.3090000
+2-Total Area: 260 Hectares
+3-Computer Plant Record System: Yes
+3-Open to public: Yes
+4-Accession Number: 11000
+4-Invasive Species Monitoring: Yes
+4-Special Collections: Trees and medicinal plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=728">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=728">Please click here if you can update us</a>
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: (206) 616-2011
+9-Institution Code: WTU
+9-International Agenda Registration: No
+9-Primary Email: kpossee@u.washington.edu
+9-Telephone: (206) 543-0436
+9-URL: www.biology.washington.edu/mhg/index.html

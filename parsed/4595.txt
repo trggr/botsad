@@ -1,9 +1,18 @@
-ID:	4595
-Name:	Connecticut's Beardsley Zoo 
-Curator's Name:	Jeanne Yuckienuz, Associate Curator
-Director's Name:	Unknown
-Info:	  United States of America - Connecticut - Bridgeport  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Connecticut's Beardsley Zoo; 1875 Noble Avenue; Bridgeport; Connecticut 06610 United States of America; ;  Telephone: (203) 394-6567; Fax: ; URL: <a target="_blank" href="http://www.beardsleyzoo.org">www.beardsleyzoo.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	41.2073235
-Longitude:	-73.1835383
+0-ID: 4595
+1-Name: Connecticut's Beardsley Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Connecticut's Beardsley Zoo;         1875 Noble Avenue;                Bridgeport;        Connecticut 06610 United States of America;        ;                 Telephone: (203) 394-6567;         Fax: ;         URL: www.beardsleyzoo.org;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 41.2073235
+2-Longitude: -73.1835383
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4595">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4595">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4595">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4595">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4595">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (203) 394-6567
+9-URL: www.beardsleyzoo.org

@@ -1,9 +1,19 @@
-ID:	5283
-Name:	Moraine Valley Community College 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Illinois - Palos Hills  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Moraine Valley Community College; 9000 W. College Parkway; Palos Hills; Illinois 60465 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.morainevalley.edu">www.morainevalley.edu; Primary Email: Brennanr@morainevalley.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.691748
-Longitude:	-87.836639
+0-ID: 5283
+1-Name: Moraine Valley Community College 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Moraine Valley Community College;         9000 W. College Parkway;                Palos Hills;        Illinois 60465 United States of America;        ;                 Telephone: ;         Fax: ;         URL: www.morainevalley.edu;         Primary Email: Brennanr@morainevalley.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.691748
+2-Longitude: -87.836639
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5283">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5283">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5283">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5283">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5283">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Brennanr@morainevalley.edu
+9-Telephone: 
+9-URL: www.morainevalley.edu

@@ -1,11 +1,19 @@
-ID:	2196
-Name:	Colac Botanical Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Colac  ;Garden Information;  Institution Code: COLAC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Colac Botanical Gardens; Colac-Otway Shire, PO Box 283, COLAC, VIC 3250, Australia; Colac; Australia; ;  Telephone: 61 (0)3 5232 9400; Fax: 61 (0)3 5232 1046; URL: <a target="_blank" href="http://">; Primary Email: colacshire@bbs.chatnet.net.au ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-38.33258
-Longitude:	143.59025
-Special Collections:	10 % of collection if Australian flora.
+0-ID: 2196
+1-Name: Colac Botanical Gardens 
+2-Date founded: 
+2-Info:              Institution Code: COLAC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Colac Botanical Gardens;         Colac-Otway Shire,  PO Box 283,  COLAC,  VIC 3250,  Australia;                Colac;        Australia;        ;                 Telephone: 61 (0)3 5232 9400;         Fax: 61 (0)3 5232 1046;         URL: ;         Primary Email: colacshire@bbs.chatnet.net.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -38.33258
+2-Longitude: 143.59025
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2196">Please click here if you can update us</a>
+4-Special Collections: 10 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2196">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2196">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2196">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5232 1046
+9-Institution Code: COLAC
+9-International Agenda Registration: No
+9-Primary Email: colacshire@bbs.chatnet.net.au
+9-Telephone: 61 (0)3 5232 9400
+9-URL: 

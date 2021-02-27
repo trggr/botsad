@@ -1,12 +1,20 @@
-ID:	3113
-Name:	Giardino di flora appenninica 
-Curator's Name:	
-Director's Name:	
-Info:	  Italy - Isernia  ;Garden Information;  Institution Code: ISER; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino di flora appenninica; 86082 Capracotta, Isernia (IS), Itlay; Isernia; Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1980
-Institution Type:	Other
-Latitude:	41.8239
-Longitude:	14.2873
-Special Collections:	medicinal plants, rare plant of the Appennines, lilies and orchids,
+0-ID: 3113
+1-Name: Giardino di flora appenninica 
+2-Altitude: 0.00 Metres
+2-Date founded: 1980
+2-Info:              Institution Code: ISER;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino di flora appenninica;         86082 Capracotta,  Isernia (IS),  Itlay;                Isernia;        Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 41.8239
+2-Longitude: 14.2873
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3113">Please click here if you can update us</a>
+4-Special Collections: medicinal plants, rare plant of the Appennines, lilies and orchids,
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3113">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3113">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3113">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ISER
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

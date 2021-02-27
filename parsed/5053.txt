@@ -1,21 +1,28 @@
-ID:	5053
-Name:	Taylor Conservatory Foundation 
-Curator's Name:	
-Director's Name:	Patricia L. Donahue, Executive Director
-Info:	  United States of America - Michigan - Taylor  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Taylor Conservatory Foundation The Taylor Conservatory Foundation has it’s roots in the community. The original exploratory committee as well as the current board of directors consists of talented and hard-working volunteers. These individuals bring a wide array of skills and diversity to TCF to strengthen and build our capacity as an organization for good in the community.;  Main Address:; Taylor Conservatory Foundation; Mailing: Box 1903; Physical: 22314 Northline Road; Taylor; Michigan 48180 United States of America; ;  Telephone: 734-383-5871; Fax: ; URL: <a target="_blank" href="http://www.taylorconservatory.org">www.taylorconservatory.org; Primary Email: taylorconservatory@sbcglobal.net ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2001
-Institution Type:	Botanic Garden
-Latitude:	42.213308
-Local Address:	
-Locality:	Information
-Longitude:	-83.252112
-Total Area:	6 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Conservation Programme:	Yes
-Education:	Yes
-Horticulture:	Yes
-Land Restoration:	Yes
-Courses for School Children:	Yes
+0-ID: 5053
+1-Name: Taylor Conservatory Foundation 
+2-Altitude: 0.00 Metres
+2-Date founded: 2001
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Taylor Conservatory Foundation        The Taylor Conservatory Foundation has it’s roots in the community. The original exploratory committee as well as the current board of directors consists of talented and hard-working volunteers. These individuals bring a wide array of skills and diversity to TCF to strengthen and build our capacity as an organization for good in the community.;                        Main Address:;         Taylor Conservatory Foundation;         Mailing: Box 1903;        Physical: 22314 Northline Road;        Taylor;        Michigan 48180 United States of America;        ;                 Telephone: 734-383-5871;         Fax: ;         URL: www.taylorconservatory.org;         Primary Email: taylorconservatory@sbcglobal.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.213308
+2-Local Address: 
+2-Locality: Information
+2-Longitude: -83.252112
+2-Total Area: 6 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5053">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+6-Education: Yes
+6-Horticulture: Yes
+6-Land Restoration: Yes
+7-Courses for School Children: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: Box 1903
+9-Physical: 22314 Northline Road
+9-Primary Email: taylorconservatory@sbcglobal.net
+9-Telephone: 734-383-5871
+9-URL: www.taylorconservatory.org

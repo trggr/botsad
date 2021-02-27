@@ -1,14 +1,20 @@
-ID:	4989
-Name:	Inverness Botanic Gardens 
-Curator's Name:	
-Director's Name:	Pamela Sutherland, Head Gardener
-Info:	  United Kingdom - Inverness  ;Garden Information;  Institution Code: BG5751; International Agenda Registration: No; BGCI Member: Yes; About the Inverness Botanic Gardens Inverness Botanic Gardens, formerly Inverness Floral Hall, is a unique visitor attraction that offers a tranquil break amidst beautiful floral displays. It was opened in 1993 by Prince Edward and has been inspiring local gardeners and visitors from all over the world ever since.; ; Our climatically controlled glass house features winding pathways along which you can discover a superb array of subtropical plants, a cascading waterfall and a pool full of friendly Koi Carp.; ; The adjoining cactus house shows an award winning range of succulents from all over the world with many of the specimens provided and maintained by experts from the Inverness Cactus & Succulent Society.;  Main Address:; Inverness Botanic Gardens; Bught Lane; Inverness; IV3 5SS United Kingdom; ;  Telephone: +44(0) 1463 713553; Fax: ; URL: <a target="_blank" href="http://www.highlifehighland.com/inverness-botanic-gardens/">www.highlifehighland.com/inverness-botanic-gardens/; Primary Email: inverness.botanics@highlifehighland.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1993
-Institution Type:	Botanic Garden
-Latitude:	57.463514
-Longitude:	-4.239096
-Open to public:	Yes
-Education:	Yes
-Guided Tours:	Yes
+0-ID: 4989
+1-Name: Inverness Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1993
+2-Info:              Institution Code: BG5751;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Inverness Botanic Gardens        Inverness Botanic Gardens, formerly Inverness Floral Hall, is a unique visitor attraction that offers a tranquil break amidst beautiful floral displays. It was opened in 1993 by Prince Edward and has been inspiring local gardeners and visitors from all over the world ever since.;  ;  Our climatically controlled glass house features winding pathways along which you can discover a superb array of subtropical plants, a cascading waterfall and a pool full of friendly Koi Carp.;  ;  The adjoining cactus house shows an award winning range of succulents from all over the world with many of the specimens provided and maintained by experts from the Inverness Cactus & Succulent Society.;                        Main Address:;         Inverness Botanic Gardens;         Bught Lane;                Inverness;        IV3 5SS United Kingdom;        ;                 Telephone: +44(0) 1463 713553;         Fax: ;         URL: www.highlifehighland.com/inverness-botanic-gardens/;         Primary Email: inverness.botanics@highlifehighland.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 57.463514
+2-Longitude: -4.239096
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4989">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4989">Please click here if you can update us</a>
+6-Education: Yes
+7-Guided Tours: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: BG5751
+9-International Agenda Registration: No
+9-Primary Email: inverness.botanics@highlifehighland.com
+9-Telephone: +44(0) 1463 713553
+9-URL: www.highlifehighland.com/inverness-botanic-gardens/

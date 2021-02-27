@@ -1,15 +1,21 @@
-ID:	3488
-Name:	One World Conservation Center (formerly New England Tropical Conservatory) 
-Curator's Name:	
-Director's Name:	Holly Betit, Director
-Info:	  United States of America - Vermont - Bennington  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; About the One World Conservation Center (formerly New England Tropical Conservatory) NETC serves the botanical research community, students, and the general public in New England and adjacent states. Its home base, Bennington, Vermont, is well situated to reach this public. Fifteen colleges are located within 60 miles of Bennington. As the “Gateway to Vermont,” Bennington is easily accessible to visitors from the south and west. Vermont is also a good place for environmental education. Its woodlands and fields and its policies for land conservation are consistent with our mission.;  Main Address:; One World Conservation Center (formerly New England Tropical Conservatory); 413 South Street; P.O. Box 4715; Bennington; Vermont 05201 United States of America; ;  Telephone: (802) 447-7419; Fax: (802) 447-1101; URL: <a target="_blank" href="http://oneworldconservationcenter.org/">http://oneworldconservationcenter.org/; Primary Email: info@oneworldconservationcenter.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1991
-Institution Type:	Botanic Garden
-Latitude:	42.9157300
-Longitude:	-73.2462620
-Total Area:	39 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Tropical plants, ornamentals.
+0-ID: 3488
+1-Name: One World Conservation Center (formerly New England Tropical Conservatory) 
+2-Altitude: 0.00 Metres
+2-Date founded: 1991
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the One World Conservation Center (formerly New England Tropical Conservatory)        NETC serves the botanical research community, students, and the general public in New England and adjacent states. Its home base, Bennington, Vermont, is well situated to reach this public. Fifteen colleges are located within 60 miles of Bennington. As the “Gateway to Vermont,” Bennington is easily accessible to visitors from the south and west. Vermont is also a good place for environmental education. Its woodlands and fields and its policies for land conservation are consistent with our mission.;                        Main Address:;         One World Conservation Center (formerly New England Tropical Conservatory);         413 South Street;        P.O. Box 4715;        Bennington;        Vermont 05201 United States of America;        ;                 Telephone: (802) 447-7419;         Fax: (802) 447-1101;         URL: http://oneworldconservationcenter.org/;         Primary Email: info@oneworldconservationcenter.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.9157300
+2-Longitude: -73.2462620
+2-Total Area: 39 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Tropical plants, ornamentals.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3488">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3488">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3488">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (802) 447-1101
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: info@oneworldconservationcenter.org
+9-Telephone: (802) 447-7419

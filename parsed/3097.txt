@@ -1,17 +1,24 @@
-ID:	3097
-Name:	Giardino Aplino "Antonio Segni" 
-"garden-photo"> <img src="/photos/3097/Sign Giardino Alpino Antonio Segni - sm.jpg" alt="" />   About the Giardino Aplino "Antonio Segni" http:	//win.caiconegliano.it/Esp/Giardino_Alpino/Rinnovato%20il%20Giardino.htm
-Fax:	
-Info:	  Italy - Veneto - Taibon Agordino  ;Garden Information;  Institution Code: ASV; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Telephone:	
-Curator's Name:	
-Director's Name:	-
-Plant Records Officer's Name:	
-Altitude:	1714.00 Metres
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	46.352397
-Longitude:	12.033633
-Total Area:	1 Hectares
-Special Collections:	alpines, Picea abies, Larix decidua, Epilobium angustifolium
+0-ID: 3097
+1-Name: Giardino Aplino "Antonio Segni" 
+2-Curator's Name: 
+2-Director's Name: -
+2-Info:              Institution Code: ASV;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/3097/Sign Giardino Alpino Antonio Segni - sm.jpg" alt="" />         </div>        </div>                           About the Giardino Aplino "Antonio Segni"        http://win.caiconegliano.it/Esp/Giardino_Alpino/Rinnovato%20il%20Giardino.htm;                        Main Address:;         Giardino Aplino "Antonio Segni";         Col Negro di Pelsa;                Taibon Agordino;        Veneto 32027 Italy;        ;                 Telephone: ;         Fax: ;         URL: http://win.caiconegliano.it/TAM/Vazzoler_Giardino_Depliant.pdf;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 1714.00 Metres
+3-Date founded: 1968
+3-Institution Type: Botanic Garden
+3-Latitude: 46.352397
+3-Longitude: 12.033633
+3-Total Area: 1 Hectares
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3097">Please click here if you can update us</a>
+5-Special Collections: alpines, Picea abies, Larix decidua, Epilobium angustifolium
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3097">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3097">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=3097">Please click here if you can update us</a>
+9-<img src="/photos/3097/Sign Giardino Alpino Antonio Segni - sm.jpg" alt="" />         </div>        </div>                           About the Giardino Aplino "Antonio Segni"        http: //win.caiconegliano.it/Esp/Giardino_Alpino/Rinnovato%20il%20Giardino.htm
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ASV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

@@ -1,10 +1,18 @@
-ID:	4937
-Name:	Parkwood National Historic Site 
-Curator's Name:	
-Director's Name:	
-Info:	  Canada - Ontario - Oshawa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parkwood National Historic Site; 270 Simcoe Street N.; Oshawa; Ontario L1G 4T5 Canada; ;  Telephone: (905) 433-4311; Fax: ; URL: <a target="_blank" href="http://www.parkwoodestate.com">www.parkwoodestate.com; Primary Email: info@parkwoodestate.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	43.90489
-Longitude:	-78.8669
-Reintroduction Programme:	No
+0-ID: 4937
+1-Name: Parkwood National Historic Site 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Parkwood National Historic Site;         270 Simcoe Street N.;                Oshawa;        Ontario L1G 4T5 Canada;        ;                 Telephone: (905) 433-4311;         Fax: ;         URL: www.parkwoodestate.com;         Primary Email: info@parkwoodestate.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.90489
+2-Longitude: -78.8669
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4937">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4937">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4937">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4937">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@parkwoodestate.com
+9-Telephone: (905) 433-4311
+9-URL: www.parkwoodestate.com

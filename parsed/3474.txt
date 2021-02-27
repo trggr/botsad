@@ -1,15 +1,22 @@
-ID:	3474
-Name:	Tohono Chul Park 
-Curator's Name:	Russ Buhrow, Curator of Plants
-Director's Name:	Lisa Phillips, Acting Executive Director
-Info:	  United States of America - Arizona - Tucson  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tohono Chul Park; 7366 North Paseo del Norte; Tucson; Arizona 85704 United States of America; ;  Telephone: (520) 742-6455; Fax: (520) 797-1213; URL: <a target="_blank" href="http://www.tohonochulpark.org">www.tohonochulpark.org; Primary Email: admin@tohonochulpark.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1985
-Institution Type:	Botanic Garden
-Latitude:	32.3400150
-Longitude:	-110.9807100
-Total Area:	15 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Education Programme:	Yes
+0-ID: 3474
+1-Name: Tohono Chul Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 1985
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Tohono Chul Park;         7366 North Paseo del Norte;                Tucson;        Arizona 85704 United States of America;        ;                 Telephone: (520) 742-6455;         Fax: (520) 797-1213;         URL: www.tohonochulpark.org;         Primary Email: admin@tohonochulpark.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.3400150
+2-Longitude: -110.9807100
+2-Total Area: 15 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3474">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3474">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3474">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-BGCI Member: No
+9-Fax: (520) 797-1213
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: admin@tohonochulpark.org
+9-Telephone: (520) 742-6455
+9-URL: www.tohonochulpark.org

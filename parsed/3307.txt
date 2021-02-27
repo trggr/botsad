@@ -1,56 +1,57 @@
-ID:	3307
-Name:	Oxford University Harcourt Arboretum 
-Administration Staff Number:	3
-Curator's Name:	Ben Jones
-Director's Name:	Dr. Stephen Harrris (Acting Director)
-Educational Staff Number:	2
-Horticultural Staff Number:	3
-Info:	  United Kingdom - Oxford  ;Garden Information;  Institution Code: HNOX; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Oxford University Harcourt Arboretum Harcourt Arboretum has been part of the University of Oxford since 1963. The site comprises 130 acres containing the best collection of trees in Oxfordshire with some of the oldest redwoods in the UK. Seasonal highlights include wildflower meadows, rhododendrons and bluebell woods. It is open through the year.;  Main Address:; Oxford University Harcourt Arboretum; Nunham Courtenay; Oxford; OX44 98X United Kingdom; ;  Telephone: 01865 341576; Fax: ; URL: <a target="_blank" href="http://www.harcourt-arboretum.ox.ac.uk">www.harcourt-arboretum.ox.ac.uk; Primary Email: postmaster@obg.ox.ac.uk ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	108.00 Metres
-Annual Rainfall:	612 mm
-Date founded:	1835
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	51.684509
-Local Address:	Rose Lane, Oxford OX1 4AZ
-Locality:	Information
-Longitude:	-1.19847
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Oxford University Botanic Garden
-Total Area:	32 Hectares
-Arboretum:	Yes
-Arboretum Size:	57
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	35000
-Number of Volunteers:	35
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-ABS Policy:	Yes
-Accession Number:	1976
-Cultivation Taxa Num:	250
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	The University of Harcourt Arboretum contains a diverse collection of plants which are not only grown for their amenity or structural value, but are also used for
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Land Restoration:	Yes
-Restoration Ecology:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 3307
+1-Name: Oxford University Harcourt Arboretum 
+2-Altitude: 108.00 Metres
+2-Annual Rainfall: 612 mm
+2-Date founded: 1835
+2-Info:              Institution Code: HNOX;             International Agenda Registration: Yes;        BGCI Member: Yes;                       ArbNet Accredited:          Level IV       ;                                          About the Oxford University Harcourt Arboretum        Harcourt Arboretum has been part of the University of Oxford since 1963. The site comprises 130 acres containing the best collection of trees in Oxfordshire with some of the oldest redwoods in the UK. Seasonal highlights include wildflower meadows, rhododendrons and bluebell woods. It is open through the year.;                        Main Address:;         Oxford University Harcourt Arboretum;         Nunham Courtenay;                Oxford;        OX44 98X United Kingdom;        ;                 Telephone: 01865 341576;         Fax: ;         URL: www.harcourt-arboretum.ox.ac.uk;         Primary Email: postmaster@obg.ox.ac.uk       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 51.684509
+2-Local Address: Rose Lane, Oxford OX1 4AZ
+2-Locality: Information
+2-Longitude: -1.19847
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Oxford University Botanic Garden
+2-Total Area: 32 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 57
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 35000
+3-Number of Volunteers: 35
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-ABS Policy: Yes
+4-Accession Number: 1976
+4-Cultivation Taxa Num: 250
+4-Invasive Species Monitoring: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: The University of Harcourt Arboretum contains a diverse collection of plants which are not only grown for their amenity or structural value, but are also used for
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Land Restoration: Yes
+6-Restoration Ecology: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+9-ArbNet Accredited: Level IV
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: HNOX
+9-International Agenda Registration: Yes
+9-Primary Email: postmaster@obg.ox.ac.uk
+9-Telephone: 01865 341576
+9-URL: www.harcourt-arboretum.ox.ac.uk

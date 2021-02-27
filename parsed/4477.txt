@@ -1,28 +1,35 @@
-ID:	4477
-Name:	Ontario Forest Research Institute Arboretum 
-Fax:	(705) 946-2030
-Info:	  Canada - Ontario - Sault Ste Marie  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	information.ofri@ontario.ca
-Telephone:	(705) 946-2981
-Curator's Name:	
-Director's Name:	Manager - Forest Research and Monitoring Section
-Plant Records Officer's Name:	
-Altitude:	230.00 Metres
-Date founded:	1990
-Institution Type:	Other
-Latitude:	46.504465
-Longitude:	-84.303329
-Arboretum:	Yes
-Arboretum Size:	94
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	No
-Published Plant Catalogue:	No
-Seed Bank:	No
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Invasive Species Biology and Control:	Yes
-Plant Breeding:	Yes
+0-ID: 4477
+1-Name: Ontario Forest Research Institute Arboretum 
+2-Curator's Name: 
+2-Director's Name: Manager - Forest Research and Monitoring Section
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4477/MNR 3 Third line West 001 200 px wide.jpg" alt="Ontario Forest Research Institute Arboretum" />         Ontario Forest Research Institute Arboretum</div>        </div>                           About the Ontario Forest Research Institute Arboretum        Ontario Forest Research Institute;  Research Arboretum;                        Main Address:;         Ontario Forest Research Institute Arboretum;         1235 Queen Street East;                Sault Ste Marie;        Ontario P6A 2E5 Canada;        ;                 Telephone: (705) 946-2981;         Fax: (705) 946-2030;         URL: www.mnr.gov.on.ca/en/Business/OFRI/;         Primary Email: information.ofri@ontario.ca       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 230.00 Metres
+3-Date founded: 1990
+3-Institution Type: Other
+3-Latitude: 46.504465
+3-Longitude: -84.303329
+4-Arboretum: Yes
+4-Arboretum Size: 94
+4-Computer Plant Record System: No
+4-Disabled access: No
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: No
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4477">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4477">Please click here if you can update us</a>
+7-Conservation - Genetics: Yes
+7-Ecology: Yes
+7-Invasive Species Biology and Control: Yes
+7-Plant Breeding: Yes
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=4477">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (705) 946-2030
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: information.ofri@ontario.ca
+9-Telephone: (705) 946-2981
+9-URL: www.mnr.gov.on.ca/en/Business/OFRI/

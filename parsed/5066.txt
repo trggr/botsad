@@ -1,34 +1,39 @@
-ID:	5066
-Name:	Plant Paradise Country Gardens 
-Fax:	
-Info:	  Canada - Ontario - Caledon  ;Garden Information;  Institution Code: PPCG; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	
-Telephone:	905-880-9090
-• Annual Delphinium Days Festival http:	//plantparadisecountrygardens.ca/delphinium-days/
-• Educational Course Listings http:	//plantparadisecountrygardens.ca/garden-workshops/
-Curator's Name:	
-Director's Name:	L. Roberts
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2005
-Institution Type:	Botanic Garden
-Latitude:	43.912168
-Local Address:	16258 Humber Station Road
-Locality:	Information
-Longitude:	-79.830877
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Open to public:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Courses for General Public:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5066
+1-Name: Plant Paradise Country Gardens 
+2-Curator's Name: 
+2-Director's Name: L. Roberts
+2-Info:              Institution Code: PPCG;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/5066/Plant_Paradise_Country_Gardens.jpg" alt="Plant Paradise Country Gardens" />         Plant Paradise Country Gardens</div>        </div>                           About the Plant Paradise Country Gardens        Plant Paradise Country Gardens ;  ;  Plant Paradise Country Gardens is an award-winning botanical garden and organic perennial nursery located in Caledon, Ontario Canada. You’ll find botanical gardens of continuous bloom and spectacular plant combinations for sun and shade. Tour stunning perennial gardens, wildflower, pond and creek gardens, woodland trails, set amid 24 scenic acres of managed forest.;  ;  Plant Paradise Country Gardens passionately promotes environmental sustainability for the purpose of conservation, display, enjoyment and education. Our educational programming allows us to share our knowledge and communicate to the public environmentally sustainable gardening practices and the importance of plant conservation and diversity. The botanical gardens provide “on-site” conservation with a diversity of plant species within natural habitats and different ecosystems. Our horticultural skills allow us to grow plants that may be disappearing in nature.;  ;  The botanical gardens at Plant Paradise Country Gardens are a testament that you can have a beautiful garden without pesticides, herbicides and synthetic fertilizers. ;  ;  Highlights;  ;  • Annual Delphinium Days Festival http://plantparadisecountrygardens.ca/delphinium-days/;  • Educational Course Listings http://plantparadisecountrygardens.ca/garden-workshops/;                        Main Address:;         Plant Paradise Country Gardens;         16258 Humber Station Road;                Caledon;        Ontario L7E OY9 Canada;        ;                 Telephone: 905-880-9090;         Fax: ;         URL: www.plantparadisecountrygardens.ca;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Date founded: 2005
+3-Institution Type: Botanic Garden
+3-Latitude: 43.912168
+3-Local Address: 16258 Humber Station Road
+3-Locality: Information
+3-Longitude: -79.830877
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Open to public: Yes
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Reintroduction Programme: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5066">Please click here if you can update us</a>
+8-Courses for General Public: Yes
+8-Education Programme: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PPCG
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 905-880-9090
+9-URL: www.plantparadisecountrygardens.ca
+9-• Annual Delphinium Days Festival http: //plantparadisecountrygardens.ca/delphinium-days/
+9-• Educational Course Listings http: //plantparadisecountrygardens.ca/garden-workshops/

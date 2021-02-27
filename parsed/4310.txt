@@ -1,14 +1,23 @@
-ID:	4310
-Name:	West Virginia Botanic Garden 
-Curator's Name:	
-Director's Name:	George W. Longenecker, Executive Director
-Info:	  United States of America - West Virginia - Morgantown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the West Virginia Botanic Garden Mission: The West Virginia Botanic Garden (WVBG), in harmony with nature, seeks to enhance the quality of life through public enjoyment and education involving inspirational landscapes and displays of a rich variety of ornamental plants appropriate to the region.;  Main Address:; West Virginia Botanic Garden; PMB #121; 714 Venture Drive; Morgantown; West Virginia 26508-7306 United States of America; ;  Telephone: (304) 376-2717; Fax: (304) 594-1933; URL: <a target="_blank" href="http://www.wvbg.org">www.wvbg.org; Primary Email: george@wvbg.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2000
-Institution Type:	Botanic Garden
-Latitude:	39.6488430
-Longitude:	-79.8959590
-Total Area:	6 Hectares
-Friends society:	Yes
-Open to public:	Yes
+0-ID: 4310
+1-Name: West Virginia Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 2000
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the West Virginia Botanic Garden        Mission: The West Virginia Botanic Garden (WVBG), in harmony with nature, seeks to enhance the quality of life through public enjoyment and education involving inspirational landscapes and displays of a rich variety of ornamental plants appropriate to the region.;                        Main Address:;         West Virginia Botanic Garden;         PMB #121;        714 Venture Drive;        Morgantown;        West Virginia 26508-7306 United States of America;        ;                 Telephone: (304) 376-2717;         Fax: (304) 594-1933;         URL: www.wvbg.org;         Primary Email: george@wvbg.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.6488430
+2-Longitude: -79.8959590
+2-Total Area: 6 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4310">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4310">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4310">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4310">Please click here if you can update us</a>
+9-About the West Virginia Botanic Garden        Mission: The West Virginia Botanic Garden (WVBG), in harmony with nature, seeks to enhance the quality of life through public enjoyment and education involving inspirational landscapes and displays of a rich variety of ornamental plants appropriate to the region.
+9-BGCI Member: No
+9-Fax: (304) 594-1933
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: george@wvbg.org
+9-Telephone: (304) 376-2717
+9-URL: www.wvbg.org

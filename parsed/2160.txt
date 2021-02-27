@@ -1,12 +1,18 @@
-ID:	2160
-Name:	Jardín Botánico 'Ingeniero Lucas D. Roic' 
-Curator's Name:	Ing. Agr. Manuel Oscar Palacio
-Director's Name:	Ing. Agr. Manuel Oscar Palacio
-Info:	  Argentina - Santiago del Estero - Santiago del Estero  ;Garden Information;  Institution Code: ESTER; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico 'Ingeniero Lucas D. Roic'; Universidad Nacional de Santiago del Estero; Avda. Núñez del Prado 1553; Santiago del Estero; Santiago del Estero 4200 Argentina; ;  Telephone: 54 (0) 385-4240332; Fax: 54 (0) 385-4240332; URL: <a target="_blank" href="http://fcf.unse.edu.ar/jardin-botanico.html">http://fcf.unse.edu.ar/jardin-botanico.html; Primary Email: jardinbotanico@unse.edu.ar ; 
-Plant Records Officer's Name:	Ing. Agr. Manuel Oscar Palacio
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-27.769
-Longitude:	-64.26783
-Open to public:	Yes
-Special Collections:	No information available
+0-ID: 2160
+1-Name: Jardín Botánico 'Ingeniero Lucas D. Roic' 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ESTER;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico 'Ingeniero Lucas D. Roic';         Universidad Nacional de Santiago del Estero;        Avda. Núñez del Prado 1553;        Santiago del Estero;        Santiago del Estero 4200 Argentina;        ;                 Telephone: 54 (0) 385-4240332;         Fax: 54 (0) 385-4240332;         URL: http://fcf.unse.edu.ar/jardin-botanico.html;         Primary Email: jardinbotanico@unse.edu.ar       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -27.769
+2-Longitude: -64.26783
+3-Open to public: Yes
+4-Special Collections: No information available
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2160">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2160">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2160">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 54 (0) 385-4240332
+9-Institution Code: ESTER
+9-International Agenda Registration: Yes
+9-Primary Email: jardinbotanico@unse.edu.ar
+9-Telephone: 54 (0) 385-4240332

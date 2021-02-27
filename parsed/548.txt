@@ -1,23 +1,26 @@
-ID:	548
-Name:	Makiling Botanic Gardens 
-Administration Staff Number:	9
-Curator's Name:	Edwino S. Fernando
-Director's Name:	Roberto G. Visco
-Educational Staff Number:	2
-Horticultural Staff Number:	2
-Info:	  Philippines - Government - Los Baños  ;Garden Information;  Institution Code: PNHM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Makiling Botanic Gardens; College of Forestry and Natural Resources, University of the Philippines Los Baños, College, Los Baños, LAGUNA 4031, Philippin; College, Los Baños, Laguna, Philippines; Los Baños; Government 4030 Philippines; ;  Telephone: 0495362637; Fax: 63 49 536 3572; URL: <a target="_blank" href="http://www.makiling.center">www.makiling.center; Primary Email: lacastillo@up.edu.ph ; 
-Plant Records Officer's Name:	Leilani Castillo
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Date founded:	1963
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	14.3866
-Longitude:	121.2410
-Natural Vegetation Area:	Yes
-Total Area:	300 Hectares
-Arboretum:	Yes
-Disabled access:	Yes
-Number of Visitors:	200000
-Open to public:	Yes
-Special Collections:	Bamboos, palms, Dipterocarps.
+0-ID: 548
+1-Name: Makiling Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1963
+2-Info:              Institution Code: PNHM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Makiling Botanic Gardens;         College of Forestry and Natural Resources, University of the Philippines Los Baños, College, Los Baños, LAGUNA 4031, Philippin;        College, Los Baños, Laguna, Philippines;        Los Baños;        Government 4030 Philippines;        ;                 Telephone: 0495362637;         Fax: 63 49 536 3572;         URL: www.makiling.center;         Primary Email: lacastillo@up.edu.ph       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 14.3866
+2-Longitude: 121.2410
+2-Natural Vegetation Area: Yes
+2-Total Area: 300 Hectares
+3-Arboretum: Yes
+3-Disabled access: Yes
+3-Number of Visitors: 200000
+3-Open to public: Yes
+4-Special Collections: Bamboos, palms, Dipterocarps.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=548">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=548">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=548">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 63 49 536 3572
+9-Institution Code: PNHM
+9-International Agenda Registration: No
+9-Primary Email: lacastillo@up.edu.ph
+9-Telephone: 0495362637
+9-URL: www.makiling.center

@@ -1,39 +1,43 @@
-ID:	2525
-Name:	Cleveland Botanical Garden 
-Fax:	(216) 721-2056
-Info:	  United States of America - Ohio - Cleveland  ;Garden Information;  Institution Code: CLEV; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	info@cbgarden.org
-Telephone:	(216) 721-1600
-Administration Staff Number:	6
-Curator's Name:	Roger Gettig, Director of Horticulture and Conservation
-Director's Name:	Clement Hamilton, President and CEO
-Educational Staff Number:	8
-Horticultural Staff Number:	11
-Plant Records Officer's Name:	Mark Bir, Glasshouse Manager
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1930
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	41.5104730
-Longitude:	-81.6101790
-Total Area:	4 Hectares
-Total area of glasshouses:	5486 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Seed Bank:	No
-Special Collections:	Central American (Costa Rican) tropical biome under glass, comprised of woody and herbaceous species, including orchids and epiphytes.
-Reintroduction Programme:	No
-Urban Environments:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2525
+1-Name: Cleveland Botanical Garden 
+2-Administration Staff Number: 6
+2-Curator's Name: Roger Gettig, Director of Horticulture and Conservation
+2-Director's Name: Clement Hamilton, President and CEO
+2-Educational Staff Number: 8
+2-Horticultural Staff Number: 11
+2-Info:              Institution Code: CLEV;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/2525/Cleveland Botanical Garden.jpg" alt="Cleveland Botanical Garden front entry" />         Cleveland Botanical Garden front entry</div>        </div>                           About the Cleveland Botanical Garden        For seventy-five years, Cleveland Botanical Garden has been one of Northeast Ohio’s treasures. With beautiful facilities and innovative programming, the Garden reaches out to every segment of the community. It is a sanctuary for those who live and work in the city; a source of inspiration and information for gardeners; a living laboratory for students, teachers and researchers; a healing presence for those with special needs; and a catalyst for urban revitalization. In recent years, Cleveland Botanical Garden has extended its reach far beyond Northeast Ohio, becoming a national leader in urban horticulture, horticultural therapy and environmental education. ;  ;  Cleveland Botanical Garden was founded in 1930 as the Garden Center of Greater Cleveland, the first such organization in an American city. Originally housed in a converted boat house on Wade Park Lagoon, the center served as a horticultural library, offering classes and workshops for gardeners and spearheading beautification projects in the community. In 1966, having outgrown its original home, the Garden Center moved to its present location in the heart of University Circle, the site of the old Cleveland Zoo.;  ;  In 1994, the organization’s Board of Trustees changed the name to Cleveland Botanical Garden to reflect a dramatically expanded mission and launched an ambitious capital campaign to develop a facility that would support the enhanced program agenda. The magnificently expanded and renovated building, designed by Graham Gund Architects of Cambridge, MA, opened to the public in July, 2003.;                        Main Address:;         Cleveland Botanical Garden;         11030 East Boulevard;                Cleveland;        Ohio 44106 United States of America;        ;                 Telephone: (216) 721-1600;         Fax: (216) 721-2056;         URL: www.cbgarden.org;         Primary Email: info@cbgarden.org       ;              
+2-Plant Records Officer's Name: Mark Bir, Glasshouse Manager
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1930
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 41.5104730
+3-Longitude: -81.6101790
+3-Total Area: 4 Hectares
+3-Total area of glasshouses: 5486 Metres
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Seed Bank: No
+5-Special Collections: Central American (Costa Rican) tropical biome under glass, comprised of woody and herbaceous species, including orchids and epiphytes.
+6-Reintroduction Programme: No
+7-Urban Environments: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (216) 721-2056
+9-Institution Code: CLEV
+9-International Agenda Registration: No
+9-Primary Email: info@cbgarden.org
+9-Telephone: (216) 721-1600
+9-URL: www.cbgarden.org

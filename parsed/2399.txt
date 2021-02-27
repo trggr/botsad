@@ -1,49 +1,53 @@
-ID:	2399
-Name:	National Rhododendron Garden 
-Fax:	61 (0)3 9619 0817
-Info:	  Australia - Victoria - Olinda  ;Garden Information;  Institution Code: OLIND; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	gmaskell@parks.vic.gov.au
-Telephone:	61 (0)3 97577303
-Administration Staff Number:	3
-Curator's Name:	Glenn Maskell
-Director's Name:	Glenn Maskell, Manager
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	450.00 Metres
-Annual Rainfall:	1200 mm
-Date founded:	1961
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-37.846136
-Longitude:	145.3731211
-Natural Vegetation Area:	Yes
-Total Area:	40 Hectares
-Total area of glasshouses:	90 Metres
-Total area of shadehouses:	100 Metres
-Arboretum:	Yes
-Arboretum Size:	300
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	100000
-Number of Volunteers:	25
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	30000
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	Rhododendron are the main focus but other smaller collection are growing in the garden.
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Horticulture:	Yes
-Plant Breeding:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2399
+1-Name: National Rhododendron Garden 
+2-Administration Staff Number: 3
+2-Curator's Name: Glenn Maskell
+2-Director's Name: Glenn Maskell, Manager
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: OLIND;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/2399/Rhody pic.jpg" alt="" />         </div>        </div>                           About the National Rhododendron Garden        The Rhododendron Garden holds a significant collection of species and hybrid Rhododendron set in a backdrop of towering native Mountain Ash Forest. While the garden concentrates on the genus Rhododendron the garden is an all year round botanic garden containing many other exotic and native species on a 40 hectare property close to Melbourne.;                        Main Address:;         National Rhododendron Garden;         The Georgian Rd;                Olinda;        Victoria 3788 Australia;        ;                 Telephone: 61 (0)3 97577303;         Fax: 61 (0)3 9619 0817;         URL: http://parkweb.vic.gov.au/explore/parks/national-rhododendron-garden;         Primary Email: gmaskell@parks.vic.gov.au       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 450.00 Metres
+3-Annual Rainfall: 1200 mm
+3-Date founded: 1961
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -37.846136
+3-Longitude: 145.3731211
+3-Natural Vegetation Area: Yes
+3-Total Area: 40 Hectares
+3-Total area of glasshouses: 90 Metres
+3-Total area of shadehouses: 100 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 300
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 100000
+4-Number of Volunteers: 25
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: No
+5-Accession Number: 30000
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: Yes
+5-Special Collections: Rhododendron are the main focus but other smaller collection are growing in the garden.
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2399">Please click here if you can update us</a>
+7-Conservation - Biology: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Horticulture: Yes
+7-Plant Breeding: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 61 (0)3 9619 0817
+9-Institution Code: OLIND
+9-International Agenda Registration: No
+9-Primary Email: gmaskell@parks.vic.gov.au
+9-Telephone: 61 (0)3 97577303

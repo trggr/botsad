@@ -1,10 +1,19 @@
-ID:	963
-Name:	Carpathian Forest Research Station 
-Curator's Name:	
-Director's Name:	Vasyl I. Parpan, Prof., Dr. Biol., Director
-Info:	  Ukraine - Mukachenko  ;Garden Information;  Institution Code: CARP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Carpathian Forest Research Station; Duchovicza 105; Mukachenko; 295400 Ukraine; ;  Telephone: 380 3131 2 15 20/2 32 18; Fax: 380 3131 2 15 20; URL: <a target="_blank" href="http://">; Primary Email: kolesnyk@hades.univ.uzhgorod.uq ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	48.441925
-Longitude:	22.730907
+0-ID: 963
+1-Name: Carpathian Forest Research Station 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: CARP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Carpathian Forest Research Station;         Duchovicza 105;                Mukachenko;        295400 Ukraine;        ;                 Telephone: 380 3131 2 15 20/2 32 18;         Fax: 380  3131 2 15 20;         URL: ;         Primary Email: kolesnyk@hades.univ.uzhgorod.uq       ;              
+2-Institution Type: Other
+2-Latitude: 48.441925
+2-Longitude: 22.730907
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=963">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=963">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=963">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=963">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=963">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 380  3131 2 15 20
+9-Institution Code: CARP
+9-International Agenda Registration: No
+9-Primary Email: kolesnyk@hades.univ.uzhgorod.uq
+9-Telephone: 380 3131 2 15 20/2 32 18
+9-URL: 

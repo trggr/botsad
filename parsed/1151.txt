@@ -1,46 +1,51 @@
-ID:	1151
-Name:	Brookside Gardens 
-Fax:	(301) 962-7878
-Info:	  United States of America - Maryland - Wheaton  ;Garden Information;  Institution Code: BRKSG; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	stephanie.oberle@mncppc-mc.org
-Telephone:	(301) 962-1411
-Administration Staff Number:	4
-Curator's Name:	Philip M. Normandy, Plant Collections Manager
-Director's Name:	Stephanie Oberle, Director
-Educational Staff Number:	6
-Horticultural Staff Number:	14
-Plant Records Officer's Name:	Philip M. Normandy
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	1092 mm
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	39.0596720
-Local Address:	6910 Greentree Road
-Locality:	Information
-Longitude:	-77.0350380
-Satellite Garden Names:	McCrillis Gardens
-Total Area:	20 Hectares
-Total area of shadehouses:	1000 Metres
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Number of Visitors:	400000
-Number of Volunteers:	502
-Open to public:	Yes
-Accession Number:	8693
-Cultivation Taxa Num:	4413
-Special Collections:	Hamamelis, Pieris, Rhododendron, Rosa, Viburnum, conservatory plants, rare plants from the Orient (especially from Japan and Korea - 1,000 taxa).
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1151
+1-Name: Brookside Gardens 
+2-Administration Staff Number: 4
+2-Curator's Name: Philip M. Normandy, Plant Collections Manager
+2-Director's Name: Stephanie Oberle, Director
+2-Educational Staff Number: 6
+2-Horticultural Staff Number: 14
+2-Info:              Institution Code: BRKSG;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/1151/Thumbs.db" alt="" />         </div>        </div>                           About the Brookside Gardens        Brookside Gardens' mission, as a public garden, is to foster appreciation for the art of gardening and the science of horticulture through plant collections and displays, learning opportunities and special events.;                        Main Address:;         Brookside Gardens;         1800 Glenallan Avenue;                Wheaton;        Maryland 20902 United States of America;        ;                 Telephone: (301) 962-1411;         Fax: (301) 962-7878;         URL: www.brooksidegardens.org;         Primary Email: stephanie.oberle@mncppc-mc.org       ;              
+2-Plant Records Officer's Name: Philip M. Normandy
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 1092 mm
+3-Date founded: 1969
+3-Institution Type: Botanic Garden
+3-Latitude: 39.0596720
+3-Local Address: 6910 Greentree Road
+3-Locality: Information
+3-Longitude: -77.0350380
+3-Satellite Garden Names: McCrillis Gardens
+3-Total Area: 20 Hectares
+3-Total area of shadehouses: 1000 Metres
+4-Computer Plant Record System: Yes
+4-Friends society: Yes
+4-Number of Visitors: 400000
+4-Number of Volunteers: 502
+4-Open to public: Yes
+5-Accession Number: 8693
+5-Cultivation Taxa Num: 4413
+5-Special Collections: Hamamelis, Pieris, Rhododendron, Rosa, Viburnum, conservatory plants, rare plants from the Orient (especially from Japan and Korea - 1,000 taxa).
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1151">Please click here if you can update us</a>
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (301) 962-7878
+9-Institution Code: BRKSG
+9-International Agenda Registration: No
+9-Primary Email: stephanie.oberle@mncppc-mc.org
+9-Telephone: (301) 962-1411
+9-URL: www.brooksidegardens.org

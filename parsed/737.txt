@@ -1,65 +1,65 @@
-ID:	737
-Name:	United States National Arboretum 
-Administration Staff Number:	9
-Curator's Name:	Scott Aker, Gardens Unit Leader
-Director's Name:	Dr. Richard T. Olsen, Director
-Educational Staff Number:	15
-Horticultural Staff Number:	34
-Info:	  United States of America - District Of Columbia - Washington  ;Garden Information;  Institution Code: USNAR; International Agenda Registration: No; BGCI Member: No; About the United States National Arboretum To serve the public need for scientific research, education, and gardens that conserve and showcase plants to enhance the environment.;  Main Address:; United States National Arboretum; 3501 New York Avenue, NE; Washington; District Of Columbia 20002-1958 United States of America; ;  Telephone: (202) 245-4539; Fax: (202) 245-4574; URL: <a target="_blank" href="http://www.usna.usda.gov">www.usna.usda.gov; Primary Email: ramon.jordan@ars.usda.gov ; 
-Plant Records Officer's Name:	Kevin Tunison, Plant Records Officer
-Research Staff Number:	43
-Altitude:	0.00 Metres
-Annual Rainfall:	998 mm
-Date founded:	1927
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	38.9167420
-Longitude:	-76.9649330
-Natural Vegetation Area:	Yes
-Total Area:	181 Hectares
-Arboretum:	Yes
-Arboretum Size:	180
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	500000
-Number of Volunteers:	150
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	725000
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Abies, Acer, Buxus, Cornus, Hamamelis, Hemerocallis, Hibiscus, Ilex, Iris, Lagerstroemia, Magnolia, Malus, Narcissus, Paeonia, Picea, Prunus, Pyracantha, Quercus, Rhododendron (Azalea), Vuburnum, dwarf conifers, bonsai, herbs, ornamental grasses, perennia
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Exploration:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Courses for General Public:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 737
+1-Name: United States National Arboretum 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 998 mm
+2-Date founded: 1927
+2-Info:              Institution Code: USNAR;             International Agenda Registration: No;        BGCI Member: No;                                                  About the United States National Arboretum        To serve the public need for scientific research, education, and gardens that conserve and showcase plants to enhance the environment.;                        Main Address:;         United States National Arboretum;         3501 New York Avenue, NE;                Washington;        District Of Columbia 20002-1958 United States of America;        ;                 Telephone: (202) 245-4539;         Fax: (202) 245-4574;         URL: www.usna.usda.gov;         Primary Email: ramon.jordan@ars.usda.gov       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 38.9167420
+2-Longitude: -76.9649330
+2-Natural Vegetation Area: Yes
+2-Total Area: 181 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 180
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 500000
+3-Number of Volunteers: 150
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 725000
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Abies, Acer, Buxus, Cornus, Hamamelis, Hemerocallis, Hibiscus, Ilex, Iris, Lagerstroemia, Magnolia, Malus, Narcissus, Paeonia, Picea, Prunus, Pyracantha, Quercus, Rhododendron (Azalea), Vuburnum, dwarf conifers, bonsai, herbs, ornamental grasses, perennia
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Biotechnology: Yes
+6-Conservation - Genetics: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Exploration: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: Yes
+6-Plant Breeding: Yes
+6-Pollination Biology: Yes
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: Yes
+6-Sustainability: Yes
+7-Courses for General Public: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (202) 245-4574
+9-Institution Code: USNAR
+9-International Agenda Registration: No
+9-Primary Email: ramon.jordan@ars.usda.gov
+9-Telephone: (202) 245-4539
+9-URL: www.usna.usda.gov

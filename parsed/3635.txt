@@ -1,67 +1,70 @@
-ID:	3635
-Name:	Regina Plain Native Plant Nursery 
-Fax:	(306) 787-0780
-Info:	  Canada - Saskatchewan - Regina  ;Garden Information;  Institution Code: REGIN; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	jennifer.lohmeyer@swa.ca
-Telephone:	(306) 787-8707
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Jennifer Lohmeyer, Program Coordinator
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	577.00 Metres
-Annual Rainfall:	304 mm
-Date founded:	1999
-Institution Type:	Botanic Garden
-Latitude:	50.42436
-Longitude:	-104.56515
-Natural Vegetation Area:	Yes
-Arboretum:	No
-Computer Plant Record System:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	89
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 3635
+1-Name: Regina Plain Native Plant Nursery 
+2-Administration Staff Number: 
+2-Curator's Name: 
+2-Director's Name: Jennifer Lohmeyer, Program Coordinator
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: REGIN;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/3635/100220.jpg" alt="Forb plots in the Regina Plain Native Prairie Nursery" />         Forb plots in the Regina Plain Native Prairie Nursery</div>        </div>                           About the Regina Plain Native Plant Nursery        The Regina Plain Landscape is a level to very gently undulating glacial lake plain, associated for the most part with dark brown clay soils. For this reason, it is ideal for annual crop production, and nearly all the area is cultivated. Field surveys conducted by the Saskatchewan Watershed Authority have indicated that less than 0.1% of the 1.1 million acre Regina Plain Landscape Area remains as native prairie.;  ;  Because differences in topography, soils, and geographic location may lead to differences in species composition and genetic characteristics, restoring native prairie on the Regina Plain using seed from plants found within the landscape should conserve species and genetic diversity.;  ;   ;  The nursery allows the multiplication of the small amount of wild seed that is available. It is also increases the ease of harvesting and protects remnant sites from being harmed by repeated removal of seeds. By putting the nursery in the city, it will not only conserve species and genetic biodiversity, but provide opportunities for research, education, and urban awareness.;  ;  The nursery presently contains 56 species of forbs, 25 species of grass, 3 sedges, and 4 woody species for a total of 89 species.;                        Main Address:;         Regina Plain Native Plant Nursery;         Riverside Memorial Park;        815 Assiniboine Avenue E.;        Regina;        Saskatchewan S4P 3C8 Canada;        ;                 Telephone: (306) 787-8707;         Fax: (306) 787-0780;         URL: www.swa.ca/Stewardship/PrairieStewardship/Default.asp?type=Nursery  or  http://www.cwf-fcf.org/en/what-we-do/habitat/gardening-gab/feature-nurseries/regina-plain-native-prairie-seed-nursery.html;         Primary Email: jennifer.lohmeyer@swa.ca       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 577.00 Metres
+3-Annual Rainfall: 304 mm
+3-Date founded: 1999
+3-Institution Type: Botanic Garden
+3-Latitude: 50.42436
+3-Longitude: -104.56515
+3-Natural Vegetation Area: Yes
+4-Arboretum: No
+4-Computer Plant Record System: No
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Cultivation Taxa Num: 89
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: (306) 787-0780
+9-Institution Code: REGIN
+9-International Agenda Registration: No
+9-Primary Email: jennifer.lohmeyer@swa.ca
+9-Telephone: (306) 787-8707

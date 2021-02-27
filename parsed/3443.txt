@@ -1,43 +1,43 @@
-ID:	3443
-Name:	Sharjah Botanic Garden 
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	Dr Dave Aplin
-Educational Staff Number:	
-Horticultural Staff Number:	
-Info:	  United Arab Emirates - Sharjah  ;Garden Information;  Institution Code: SHARJ; International Agenda Registration: No; BGCI Member: Yes; About the Sharjah Botanic Garden His Highness Sheikh Dr Sultan bin Mohamed al Qasimi, Member of the Supreme Council of the United Arab Emirates and Ruler of Sharjah has authorised the Sharjah Research Academy to launch an exciting project to design and develop the Sharjah Botanic Garden (SBG).; ; The project began in 2018, but is associated with the Sharjah Seed Bank & Herbarium that established in 2018.;  Main Address:; Sharjah Botanic Garden; Sharjah Research Academy; Sharjah; 60999 United Arab Emirates; ;  Telephone: +971 5 506 2260; Fax: +971 6 506 2201; URL: <a target="_blank" href="http://www.botanicgarden.ae">www.botanicgarden.ae; Primary Email: daveaplin@sra.ae ; 
-Plant Records Officer's Name:	
-Research Staff Number:	6
-Altitude:	0.00 Metres
-Annual Rainfall:	116 mm
-Date founded:	2018
-Institution Type:	Botanic Garden
-Latitude:	22.142267
-Local Address:	
-Locality:	Information
-Longitude:	55.343360
-Natural Vegetation Area:	Yes
-Total Area:	60 Hectares
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Open to public:	No
-Seed Bank:	Yes
-Special Collections:	Plant collections to be developed
-Ex Situ Conservation Programme:	Yes
-Biotechnology:	Yes
-Conservation - Genetics:	Yes
-Seed/Spore Biology:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	No
-Guided Tours:	No
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 3443
+1-Name: Sharjah Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 116 mm
+2-Date founded: 2018
+2-Info:              Institution Code: SHARJ;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Sharjah Botanic Garden        His Highness Sheikh Dr Sultan bin Mohamed al Qasimi, Member of the Supreme Council of the United Arab Emirates and Ruler of Sharjah has authorised the Sharjah Research Academy to launch an exciting project to design and develop the Sharjah Botanic Garden (SBG).;  ;  The project began in 2018, but is associated with the Sharjah Seed Bank & Herbarium that established in 2018.;                        Main Address:;         Sharjah Botanic Garden;         Sharjah Research Academy;                Sharjah;        60999 United Arab Emirates;        ;                 Telephone: +971 5 506 2260;         Fax: +971 6 506 2201;         URL: www.botanicgarden.ae;         Primary Email: daveaplin@sra.ae       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.142267
+2-Local Address: 
+2-Locality: Information
+2-Longitude: 55.343360
+2-Natural Vegetation Area: Yes
+2-Total Area: 60 Hectares
+3-Computer Plant Record System: Yes
+3-Disabled access: No
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Open to public: No
+3-Seed Bank: Yes
+4-Special Collections: Plant collections to be developed
+5-Ex Situ Conservation Programme: Yes
+6-Biotechnology: Yes
+6-Conservation - Genetics: Yes
+6-Seed/Spore Biology: Yes
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: No
+7-Guided Tours: No
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: No
+7-Special Exhibitions: No
+7-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: +971 6 506 2201
+9-Institution Code: SHARJ
+9-International Agenda Registration: No
+9-Primary Email: daveaplin@sra.ae
+9-Telephone: +971 5 506 2260
+9-URL: www.botanicgarden.ae

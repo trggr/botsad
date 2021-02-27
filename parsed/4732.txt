@@ -1,9 +1,18 @@
-ID:	4732
-Name:	Carleen Bright Arboretum 
-Curator's Name:	
-Director's Name:	Janet Schaffer, Arboretum Manager
-Info:	  United States of America - Texas - Woodway  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Carleen Bright Arboretum; 9001 Bosque Boulevard; Woodway; Texas 76712 United States of America; ;  Telephone: (254) 399-9204; Fax: (254) 399-9216; URL: <a target="_blank" href="http://www.woodway-texas.com/lev1.cfm/9">www.woodway-texas.com/lev1.cfm/9; Primary Email: arboretum@woodwaymail.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	31.5100180
-Longitude:	-97.2305880
+0-ID: 4732
+1-Name: Carleen Bright Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Carleen Bright Arboretum;         9001 Bosque Boulevard;                Woodway;        Texas 76712 United States of America;        ;                 Telephone: (254) 399-9204;         Fax: (254) 399-9216;         URL: www.woodway-texas.com/lev1.cfm/9;         Primary Email: arboretum@woodwaymail.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.5100180
+2-Longitude: -97.2305880
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4732">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4732">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4732">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4732">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4732">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (254) 399-9216
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: arboretum@woodwaymail.org
+9-Telephone: (254) 399-9204
+9-URL: www.woodway-texas.com/lev1.cfm/9

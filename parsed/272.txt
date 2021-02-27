@@ -1,76 +1,91 @@
-ID:	272
-Name:	Westonbirt, The National Arboretum 
--" border="0" width="513" align="center"> <tbody> <tr> <td style="text-align:	center
--" width="82"> <tbody> <tr style="text-align:	center
--" width="90"> <tbody> <tr style="text-align:	center
--"> <td> <table style="height:	30px
--"> <td><img src="/files/Community_projects/Westonbirt_photo_exhibition.gif" alt="" width="388" height="250" border="0" /></td> </tr> <tr style="text-align:	center
--"><img src="/files/Community_projects/westonbirt_logo_cropped.gif" alt="" width="133" height="110" border="0" /></td> </tr> </tbody> </table> <p style="text-align:	left
--"><strong>ABOUT</strong> <p style="text-align:	justify
--</td> <td style="text-align:	center
--<h3 style="text-align:	justify
--<img src="/files/Community_projects/westonbirt_coppicing.gif" alt="" width="454" height="278" border="0" /></td> </tr> <tr style="text-align:	center
--<img src="/files/Community_projects/westonbirt_trailer.gif" alt="" width="400" height="261" border="0" /></td> </tr> <tr style="text-align:	center
--<p style="text-align:	left
--<strong>Project end date:	</strong> Oct 2012
--<strong>Project start date:	</strong> Feb 2012&nbsp
--<table style="height:	51px
--IMPACT</strong> <p style="text-align:	justify
--S NEXT?</strong> <p style="text-align:	justify
--The following community partners were selected:	&nbsp
--Westonbirt Arboretum</h5> </td> </tr> </tbody> </table> <h3 style="text-align:	justify
--Westonbirt Arboretum</h5> </td> </tr> </tbody> </table> <p style="text-align:	justify
--float:	left
--margin-left:	auto
--margin-right:	auto
-Fax:	
-Info:	  United Kingdom - Gloucestershire - Tetbury  ;Garden Information;<a href="#tabs-2">Community Projects;  Institution Code: WESB; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; 
-Primary Email:	westonbirt@forestryengland.uk
-Telephone:	0300 067 4890
-Administration Staff Number:	10
-Curator's Name:	Mark Ballard
-Director's Name:	Andrew Smith
-Educational Staff Number:	3
-Horticultural Staff Number:	10
-Plant Records Officer's Name:	Alison Vry
-Research Staff Number:	
-Altitude:	130.00 Metres
-Annual Rainfall:	900 mm
-Date founded:	1829
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	51.60733
-Longitude:	-2.21997
-Natural Vegetation Area:	Yes
-Total Area:	240 Hectares
-Arboretum:	Yes
-Arboretum Size:	240
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	400000
-Number of Volunteers:	250
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Accession Number:	6436
-Cultivation Taxa Num:	2716
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Well represented genera of:	Pinaceae, Betula, Cornus, Fagus, Ilex, Magnolia, Abies, Fraxinus, Prunus, Rhododendron, Picea. Autumn colouring species
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 272
+1-Name: Westonbirt, The National Arboretum 
+2-Administration Staff Number: 10
+2-Curator's Name: Mark Ballard
+2-Director's Name: Andrew Smith
+2-Educational Staff Number: 3
+2-Horticultural Staff Number: 10
+2-Info:              Institution Code: WESB;             International Agenda Registration: Yes;        BGCI Member: Yes;                       ArbNet Accredited:          Level IV       ;                                       <img src="/photos/272/WEBAutumn-ForestryCommission for BGCI.jpg" alt="Autumn colour at Westonbirt, The National Arboretum" />         Autumn colour at Westonbirt, The National Arboretum</div>        </div>                           About the Westonbirt, The National Arboretum        TAXA 2776 (297 genera, 1,860 spp., 15,013 plants);                        Main Address:;         Westonbirt, The National Arboretum;         Forestry Commission;        Westonbirt;        Tetbury;        Gloucestershire GL8 8QS United Kingdom;        ;                 Telephone: 0300 067 4890;         Fax: ;         URL: forestryengland.uk/Westonbirt;         Primary Email: westonbirt@forestryengland.uk       ;              
+2-Plant Records Officer's Name: Alison Vry
+2-Research Staff Number: 
+3-Altitude: 130.00 Metres
+3-Annual Rainfall: 900 mm
+3-Date founded: 1829
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 51.60733
+3-Longitude: -2.21997
+3-Natural Vegetation Area: Yes
+3-Total Area: 240 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 240
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 400000
+4-Number of Volunteers: 250
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-Accession Number: 6436
+5-Cultivation Taxa Num: 2716
+5-Invasive Species Monitoring: Yes
+5-Plant Collection Policy: Yes
+5-Well represented genera of: Pinaceae, Betula, Cornus, Fagus, Ilex, Magnolia, Abies, Fraxinus, Prunus, Rhododendron, Picea. Autumn colouring species
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=272">Please click here if you can update us</a>
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-" border="0" width="513" align="center"> <tbody> <tr> <td style="text-align: center
+9-" width="82"> <tbody> <tr style="text-align: center
+9-" width="90"> <tbody> <tr style="text-align: center
+9-"> <img src="/files/Community_projects/Fowa_logo.gif" alt="" width="149" height="85" border="0" /> </td> <td style="text-align: center
+9-"> <td> <table style="height: 30px
+9-"> <td><img src="/files/Community_projects/Westonbirt_photo_exhibition.gif" alt="" width="388" height="250" border="0" /></td> </tr> <tr style="text-align: center
+9-"><img src="/files/Community_projects/westonbirt_logo_cropped.gif" alt="" width="133" height="110" border="0" /></td> </tr> </tbody> </table> <p style="text-align: left
+9-"><strong>ABOUT</strong> <p style="text-align: justify
+9-">All three organisations are visiting again this year and have an interest in continuing to develop the partnership through HLF funding opportunities over the next four years. Bristol Drugs Project participants plan to use skills gained during the project within their Haven, a reflective space. The project has allowed the further development of a community coppice area. <h3 style="text-align: justify
+9-">The project delivered 21 group visits by a total of approximately 112 individuals. It has facilitated a huge amount of learning about the specific needs of different audiences and the process of managing community projects. <p style="text-align: justify
+9-<h3 style="text-align: justify
+9-<img src="/files/Community_projects/calouste_gulenkian_foundation_logo.gif" alt="" width="201" height="85" border="0" /> </td> <td style="text-align: center
+9-<img src="/files/Community_projects/westonbirt_coppicing.gif" alt="" width="454" height="278" border="0" /></td> </tr> <tr style="text-align: center
+9-<img src="/files/Community_projects/westonbirt_trailer.gif" alt="" width="400" height="261" border="0" /></td> </tr> <tr style="text-align: center
+9-<p style="text-align: left
+9-<strong>Project start date: </strong> Feb 2012&nbsp
+9-<table style="height: 51px
+9-ArbNet Accredited: Level IV
+9-BGCI Member: Yes
+9-Fax: 
+9-Funding for transport to reduce the cost of visits was also a fundamental part of the project. Each group visited monthly for, six months followed by a final celebration. <table style="height: 99px
+9-Green woodwork <table style="height: 51px
+9-IMPACT</strong> <p style="text-align: justify
+9-Institution Code: WESB
+9-International Agenda Registration: Yes
+9-Primary Email: westonbirt@forestryengland.uk
+9-S NEXT?</strong> <p style="text-align: justify
+9-Telephone: 0300 067 4890
+9-The following community partners were selected: &nbsp
+9-URL: forestryengland.uk/Westonbirt
+9-Westonbirt Arboretum</h5> </td> </tr> </tbody> </table> <h3 style="text-align: justify
+9-Westonbirt Arboretum</h5> </td> </tr> </tbody> </table> <p style="text-align: justify
+9-creative writing, paper making, book making <p style="text-align: justify
+9-float: left
+9-margin-left: auto
+9-margin-right: auto
+9-s South Asian communities to tackle issues such as community segregation and isolation. <p style="text-align: justify
+9-s ongoing care and management. The Guided activity walks lead to the creation of an audio trail for visually impaired visitors, based on trees selected by the group for their sensory exploration and interesting stories. Other creative outputs are shared with visitors, this includes a recipe book and a photography exhibition. <table style="height: 99px
+9-shared understanding of trees and what they mean to society. <p style="text-align: justify
+9-working with disadvantaged adults - an independent agency that works with drug users, their relatives and friends to reduce drug and alcohol-related harm. <p style="text-align: justify

@@ -1,11 +1,19 @@
-ID:	1122
-Name:	Dendrological Garden VNIILM 
-Curator's Name:	
-Director's Name:	Dr. Iliodor V. Rutkovsky
-Info:	  Russian Federation - Ivanteyevka  ;Garden Information;  Institution Code: IVANT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dendrological Garden VNIILM; 13. Nadsonovskaja Street, Pushkinski District, Moskow Region 141200 IVANTEYEVKA, Russian Federation; Ivanteyevka; Russian Federation; ;  Telephone: (253)65679; Fax: ; URL: <a target="_blank" href="http://www.mgul.ac.ru/sad/lesopitomnik/">www.mgul.ac.ru/sad/lesopitomnik/; Primary Email: postmaster@lessem.msk.ru ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	55.9869
-Longitude:	37.9695
-Special Collections:	No information available.
+0-ID: 1122
+1-Name: Dendrological Garden VNIILM 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: IVANT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dendrological Garden VNIILM;         13. Nadsonovskaja Street, Pushkinski District, Moskow Region 141200 IVANTEYEVKA,  Russian Federation;                Ivanteyevka;        Russian Federation;        ;                 Telephone: (253)65679;         Fax: ;         URL: www.mgul.ac.ru/sad/lesopitomnik/;         Primary Email: postmaster@lessem.msk.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.9869
+2-Longitude: 37.9695
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1122">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1122">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1122">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1122">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: IVANT
+9-International Agenda Registration: No
+9-Primary Email: postmaster@lessem.msk.ru
+9-Telephone: (253)65679
+9-URL: www.mgul.ac.ru/sad/lesopitomnik/

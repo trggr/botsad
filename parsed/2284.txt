@@ -1,10 +1,19 @@
-ID:	2284
-Name:	Rhododendron Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Gangtok  ;Garden Information;  Institution Code: BSHC; International Agenda Registration: No; BGCI Member: No; About the Rhododendron Arboretum Raj Bhavan Garden, in GANGTOK attached to the Governor’s Palace, contains a collection of 50 species and an orchid collection.;  Main Address:; Rhododendron Arboretum; G.B. Plant Institute of Himalayan Environment and Development,,Sikkim Unit Tadong, GANGTOK - 737 10; Gangtok; India; ;  Telephone: 91 3592 31090/31673; Fax: 91 3592 31090; URL: <a target="_blank" href="http://">; Primary Email: gbp.sk@sikkim.org ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	27.3291
-Longitude:	88.6169
+0-ID: 2284
+1-Name: Rhododendron Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: BSHC;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Rhododendron Arboretum        Raj Bhavan Garden, in GANGTOK attached to the Governor’s Palace, contains a collection of 50 species and an orchid collection.;                        Main Address:;         Rhododendron Arboretum;         G.B. Plant Institute of Himalayan Environment and Development,,Sikkim Unit Tadong,  GANGTOK - 737 10;                Gangtok;        India;        ;                 Telephone: 91 3592 31090/31673;         Fax: 91 3592 31090;         URL: ;         Primary Email: gbp.sk@sikkim.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 27.3291
+2-Longitude: 88.6169
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2284">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2284">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2284">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2284">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2284">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 3592 31090
+9-Institution Code: BSHC
+9-International Agenda Registration: No
+9-Primary Email: gbp.sk@sikkim.org
+9-Telephone: 91 3592 31090/31673
+9-URL: 

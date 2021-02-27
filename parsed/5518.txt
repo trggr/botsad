@@ -1,9 +1,17 @@
-ID:	5518
-Name:	Usina de Arte 
-Curator's Name:	
-Director's Name:	
-Info:	  Brazil - Pernambuco - Agua Preta  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Usina de Arte; Rodovia PE 99 Km 10; Distrito Santa Terezinha; Agua Preta; Pernambuco 55.550-000 Brazil; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.usinadearte.org">http://www.usinadearte.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-7.3747033
-Longitude:	-37.4835196
+0-ID: 5518
+1-Name: Usina de Arte 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Usina de Arte;         Rodovia PE 99 Km 10;        Distrito Santa Terezinha;        Agua Preta;        Pernambuco 55.550-000 Brazil;        ;                 Telephone: ;         Fax: ;         URL: http://www.usinadearte.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -7.3747033
+2-Longitude: -37.4835196
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5518">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5518">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5518">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5518">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5518">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

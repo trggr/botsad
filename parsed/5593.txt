@@ -1,9 +1,17 @@
-ID:	5593
-Name:	Namib Trees Desert Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Namibia - Khomas - Windhoek  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Namib Trees Desert Botanic Garden; P.O. Box 20; Windhoek; Khomas 9000 Namibia; ;  Telephone: +264811271219; Fax: ; URL: <a target="_blank" href="http://namibtrees.com.na">http://namibtrees.com.na; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-22.5897248
-Longitude:	17.0697856
+0-ID: 5593
+1-Name: Namib Trees Desert Botanic Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Namib Trees Desert Botanic Garden;         P.O. Box 20;                Windhoek;        Khomas 9000 Namibia;        ;                 Telephone: +264811271219;         Fax: ;         URL: http://namibtrees.com.na;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -22.5897248
+2-Longitude: 17.0697856
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5593">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5593">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5593">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5593">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5593">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +264811271219

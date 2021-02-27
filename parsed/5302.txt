@@ -1,9 +1,20 @@
-ID:	5302
-Name:	Greenwich Town Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Connecticut - Greenwich  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Greenwich Town Arboretum; Mailing: P.O.Box 4215; Greenwich; Connecticut 06831 United States of America; ;  Telephone: 3477682451; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: treeconserv@optonline.net ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	41.023363
-Longitude:	-73.611551
+0-ID: 5302
+1-Name: Greenwich Town Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Greenwich Town Arboretum;                 Mailing: P.O.Box 4215;        Greenwich;        Connecticut 06831 United States of America;        ;                 Telephone: 3477682451;         Fax: ;         URL: ;         Primary Email: treeconserv@optonline.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.023363
+2-Longitude: -73.611551
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5302">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5302">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5302">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5302">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5302">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O.Box 4215
+9-Primary Email: treeconserv@optonline.net
+9-Telephone: 3477682451
+9-URL: 

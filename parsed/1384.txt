@@ -1,11 +1,19 @@
-ID:	1384
-Name:	Usambaras Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  Tanzania - Usambaras  ;Garden Information;  Institution Code: USAMB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Usambaras Arboretum; Silviculturist's Headquarters, Forest Division, Lushoto, P.O. Box 95 USAMBARAS, Tanzania.; Usambaras; Tanzania; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-6.3690
-Longitude:	34.8888
-Special Collections:	Softwood tree species.
+0-ID: 1384
+1-Name: Usambaras Arboretum 
+2-Date founded: 
+2-Info:              Institution Code: USAMB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Usambaras Arboretum;         Silviculturist's Headquarters,  Forest Division, Lushoto,  P.O. Box 95 USAMBARAS,  Tanzania.;                Usambaras;        Tanzania;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -6.3690
+2-Longitude: 34.8888
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1384">Please click here if you can update us</a>
+4-Special Collections: Softwood tree species.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1384">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1384">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1384">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: USAMB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

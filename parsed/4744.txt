@@ -1,9 +1,18 @@
-ID:	4744
-Name:	Northeastern Wisconsin Zoo 
-Curator's Name:	
-Director's Name:	Neil Anderson, Zoo Director
-Info:	  United States of America - Wisconsin - Green Bay   ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Northeastern Wisconsin Zoo; 4418 Reforestation Road; Green Bay ; Wisconsin 54313 United States of America; ;  Telephone: (920) 434-8597; Fax: ; URL: <a target="_blank" href="http://www.newzoo.org">www.newzoo.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	44.6608770
-Longitude:	-88.0877760
+0-ID: 4744
+1-Name: Northeastern Wisconsin Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Northeastern Wisconsin Zoo;         4418 Reforestation Road;                Green Bay ;        Wisconsin 54313 United States of America;        ;                 Telephone: (920) 434-8597;         Fax: ;         URL: www.newzoo.org;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 44.6608770
+2-Longitude: -88.0877760
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4744">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4744">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4744">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4744">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4744">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (920) 434-8597
+9-URL: www.newzoo.org

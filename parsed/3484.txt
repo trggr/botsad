@@ -1,16 +1,23 @@
-ID:	3484
-Name:	Chester M. Alter Arboretum 
-Curator's Name:	Marc Hathaway
-Director's Name:	Patrick Martin, Arboretum Director
-Info:	  United States of America - Colorado - Denver  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Chester M. Alter Arboretum; University of Denver; 2190 East Iliff Avenue, Room 102; Denver; Colorado 80208 United States of America; ;  Telephone: (303) 871-7736; Fax: ; URL: <a target="_blank" href="http://www.du.edu/arboretum/index.html">www.du.edu/arboretum/index.html; Primary Email: Arboretum-L@du.edu ; 
-Plant Records Officer's Name:	Marc Hathaway
-Altitude:	1609.00 Metres
-Annual Rainfall:	391 mm
-Date founded:	1999
-Institution Type:	Botanic Garden
-Latitude:	39.6748190
-Longitude:	-104.9617900
-Arboretum:	Yes
-Open to public:	Yes
-Accession Number:	2238
-Cultivation Taxa Num:	427
+0-ID: 3484
+1-Name: Chester M. Alter Arboretum 
+2-Altitude: 1609.00 Metres
+2-Annual Rainfall: 391 mm
+2-Date founded: 1999
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Chester M. Alter Arboretum;         University of Denver;        2190 East Iliff Avenue, Room 102;        Denver;        Colorado 80208 United States of America;        ;                 Telephone: (303) 871-7736;         Fax: ;         URL: www.du.edu/arboretum/index.html;         Primary Email: Arboretum-L@du.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.6748190
+2-Longitude: -104.9617900
+3-Arboretum: Yes
+3-Open to public: Yes
+4-Accession Number: 2238
+4-Cultivation Taxa Num: 427
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3484">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3484">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3484">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Arboretum-L@du.edu
+9-Telephone: (303) 871-7736
+9-URL: www.du.edu/arboretum/index.html

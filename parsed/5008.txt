@@ -1,13 +1,20 @@
-ID:	5008
-Name:	Jardin Conservatoire des Plantes Tinctoriales 
-Curator's Name:	
-Director's Name:	Martine Grégoire, President of Board of Directors
-Info:	  France - Provence-Alpes-Côte d'Azur - Lauris  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Jardin Conservatoire des Plantes Tinctoriales Situé sur les terrasses du château de Lauris (XVIIIème) en surplomb de la vallée de la Durance, ce jardin pédagogique unique en Europe est entièrement consacré aux plantes tinctoriales : plus de 250 espèces de plantes dont on extrait des colorants pour la teinture, la peinture, les encres, l'alimentation et la cosmétique.; Il a obtenu le Label Jardin Remarquable en 2011;  Main Address:; Jardin Conservatoire des Plantes Tinctoriales; l'association Couleur Garance; Maison Aubert - La Calade; Lauris; Provence-Alpes-Côte d'Azur 84360 France; ;  Telephone: 04 90 08 40 48; Fax: ; URL: <a target="_blank" href="http://www.couleur-garance.com/index.php/qui">http://www.couleur-garance.com/index.php/qui; Primary Email: contact@couleur-garance.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2002
-Institution Type:	Other
-Latitude:	43.745533
-Longitude:	5.312536
-Open to public:	Yes
-Cultivation Taxa Num:	250
+0-ID: 5008
+1-Name: Jardin Conservatoire des Plantes Tinctoriales 
+2-Altitude: 0.00 Metres
+2-Date founded: 2002
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Conservatoire des Plantes Tinctoriales        Situé sur les terrasses du château de Lauris (XVIIIème) en surplomb de la vallée de la Durance, ce jardin pédagogique unique en Europe est entièrement consacré aux plantes tinctoriales : plus de 250 espèces de plantes dont on extrait des colorants pour la teinture, la peinture, les encres, l'alimentation et la cosmétique.;  Il a obtenu le Label Jardin Remarquable en 2011;                        Main Address:;         Jardin Conservatoire des Plantes Tinctoriales;         l'association Couleur Garance;        Maison Aubert - La Calade;        Lauris;        Provence-Alpes-Côte d'Azur 84360 France;        ;                 Telephone: 04 90 08 40 48;         Fax: ;         URL: http://www.couleur-garance.com/index.php/qui;         Primary Email: contact@couleur-garance.com       ;              
+2-Institution Type: Other
+2-Latitude: 43.745533
+2-Longitude: 5.312536
+3-Open to public: Yes
+4-Cultivation Taxa Num: 250
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5008">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5008">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5008">Please click here if you can update us</a>
+9-About the Jardin Conservatoire des Plantes Tinctoriales        Situé sur les terrasses du château de Lauris (XVIIIème) en surplomb de la vallée de la Durance, ce jardin pédagogique unique en Europe est entièrement consacré aux plantes tinctoriales: plus de 250 espèces de plantes dont on extrait des colorants pour la teinture, la peinture, les encres, l'alimentation et la cosmétique.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: contact@couleur-garance.com
+9-Telephone: 04 90 08 40 48

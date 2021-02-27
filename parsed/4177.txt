@@ -1,78 +1,82 @@
-ID:	4177
-Name:	Naples Botanical Garden 
-Fax:	(239) 649-7306
-Info:	  United States of America - Florida - Naples  ;Garden Information;  Institution Code: NAPFL; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	info@naplesgarden.org
-Telephone:	(239) 643-7275
-Administration Staff Number:	5
-Curator's Name:	Chad Washburn, Vice President of Conservation
-Director's Name:	Donna McGinnis, President and CEO
-Educational Staff Number:	10
-Horticultural Staff Number:	22
-Plant Records Officer's Name:	Liz Chehayl, Curator of Collections
-Research Staff Number:	3
-Altitude:	0.00 Metres
-Date founded:	1995
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	26.1085160
-Local Address:	4820 Bayshore Drive
-Locality:	Information
-Longitude:	-81.7714080
-Natural Vegetation Area:	Yes
-Total Area:	64 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	220000
-Number of Volunteers:	750
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	10367
-Cultivation Taxa Num:	6227
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4177
+1-Name: Naples Botanical Garden 
+2-Administration Staff Number: 5
+2-Curator's Name: Chad Washburn, Vice President of Conservation
+2-Director's Name: Donna McGinnis, President and CEO
+2-Educational Staff Number: 10
+2-Horticultural Staff Number: 22
+2-Info:              Institution Code: NAPFL;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/4177/Burle Marx Mosaic in Kapnick Brazilian Garden200.jpg" alt="Burle Marx Mosaic in the Kapnick Brazilian Garden at Naples Botanical Garden" />         Burle Marx Mosaic in the Kapnick Brazilian Garden at Naples Botanical Garden</div>        </div>                           About the Naples Botanical Garden        Naples Botanical Garden is a 170-acre world-class garden paradise that features the plants and cultures of the tropics and subtropics between the latitudes of 26 degrees North and 26 degrees South including Brazil, the Caribbean, Southeast Asia and Florida. A hands-on interactive Children’s Garden along with 90 acres of beautifully restored natural habitats, walking trails and a Butterfly Garden offer educational entertainment and enjoyment for people of all ages.;                        Main Address:;         Naples Botanical Garden;         4820 Bayshore Drive;                Naples;        Florida 34112-7337 United States of America;        ;                 Telephone: (239) 643-7275;         Fax: (239) 649-7306;         URL: www.naplesgarden.org;         Primary Email: info@naplesgarden.org       ;              
+2-Plant Records Officer's Name: Liz Chehayl, Curator of Collections
+2-Research Staff Number: 3
+3-Altitude: 0.00 Metres
+3-Date founded: 1995
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 26.1085160
+3-Local Address: 4820 Bayshore Drive
+3-Locality: Information
+3-Longitude: -81.7714080
+3-Natural Vegetation Area: Yes
+3-Total Area: 64 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 220000
+4-Number of Volunteers: 750
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: No
+5-Accession Number: 10367
+5-Cultivation Taxa Num: 6227
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: No
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: (239) 649-7306
+9-Institution Code: NAPFL
+9-International Agenda Registration: No
+9-Primary Email: info@naplesgarden.org
+9-Telephone: (239) 643-7275
+9-URL: www.naplesgarden.org

@@ -1,11 +1,19 @@
-ID:	925
-Name:	The Botanical Garden Gandhi Krishi Vignana Kendra 
-Curator's Name:	
-Director's Name:	Dr.R.Narayana
-Info:	  India - Bangalore  ;Garden Information;  Institution Code: BANGL; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanical Garden Gandhi Krishi Vignana Kendra; College of Basic Sciences and Humanities, GKVK Campus, University of Agricultural Sciences, BANGALO; Bangalore; India; ;  Telephone: 30422; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1973
-Institution Type:	Botanic Garden
-Latitude:	12.9716
-Longitude:	77.5943
-Special Collections:	Native and exotic trees and shrubs, medicinal plants (+600 species), weeds. Produces a regular seed list.
+0-ID: 925
+1-Name: The Botanical Garden Gandhi Krishi Vignana Kendra 
+2-Date founded: 1973
+2-Info:              Institution Code: BANGL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Botanical Garden Gandhi Krishi Vignana Kendra;         College of Basic Sciences and Humanities, GKVK Campus, University of Agricultural Sciences, BANGALO;                Bangalore;        India;        ;                 Telephone: 30422;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 12.9716
+2-Longitude: 77.5943
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=925">Please click here if you can update us</a>
+4-Special Collections: Native and exotic trees and shrubs, medicinal plants (+600 species), weeds. Produces a regular seed list.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=925">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=925">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=925">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BANGL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 30422
+9-URL: 

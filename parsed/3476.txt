@@ -1,15 +1,23 @@
-ID:	3476
-Name:	Rio Grande Botanic Garden 
-Curator's Name:	Jon Stewart
-Director's Name:	Catherine Hubbard, Botanic Garden Director
-Info:	  United States of America - New Mexico - Albuquerque  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Rio Grande Botanic Garden Located across the plaza from the Albuquerque Aquarium and bordered on the west by the famed Rio Grande and the largest cottonwood gallery forest in the world, the lush and peaceful Rio Grande Botanic Garden is an oasis in the desert. The Rio Grande Botanic Garden is a facility of the Albuquerque Biological Park.; ; The Garden currently encompasses 36 developed acres, including a 10,000 square foot glass conservatory housing native and exotic plants from desert and Mediterranean climate zones, the whimsical Children's Fantasy Garden, the award-winning Rio Grande Heritage Farm, the all new Sasebo Japanese Garden and the seasonal PNM Butterfly Pavilion featuring hundreds of free-flying North American butterflies and moths.;  Main Address:; Rio Grande Botanic Garden; 2601 Central Avenue NW; Albuquerque; New Mexico 87104 United States of America; ;  Telephone: (505) 848-7181; Fax: (505) 848-7192; URL: <a target="_blank" href="http://www.cabq.gov/biopark/garden/">www.cabq.gov/biopark/garden/; Primary Email: biopark@cabq.gov ; 
-Plant Records Officer's Name:	Maria Thomas, Assistant Curator
-Altitude:	0.00 Metres
-Date founded:	1996
-Institution Type:	Botanic Garden
-Latitude:	35.0924440
-Longitude:	-106.6788330
-Total Area:	21 Hectares
-Total area of glasshouses:	929 Metres
-Disabled access:	Yes
-Open to public:	Yes
+0-ID: 3476
+1-Name: Rio Grande Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1996
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Rio Grande Botanic Garden        Located across the plaza from the Albuquerque Aquarium and bordered on the west by the famed Rio Grande and the largest cottonwood gallery forest in the world, the lush and peaceful Rio Grande Botanic Garden is an oasis in the desert. The Rio Grande Botanic Garden is a facility of the Albuquerque Biological Park.;  ;  The Garden currently encompasses 36 developed acres, including a 10,000 square foot glass conservatory housing native and exotic plants from desert and Mediterranean climate zones, the whimsical Children's Fantasy Garden, the award-winning Rio Grande Heritage Farm, the all new Sasebo Japanese Garden and the seasonal PNM Butterfly Pavilion featuring hundreds of free-flying North American butterflies and moths.;                        Main Address:;         Rio Grande Botanic Garden;         2601 Central Avenue NW;                Albuquerque;        New Mexico 87104 United States of America;        ;                 Telephone: (505) 848-7181;         Fax: (505) 848-7192;         URL: www.cabq.gov/biopark/garden/;         Primary Email: biopark@cabq.gov       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.0924440
+2-Longitude: -106.6788330
+2-Total Area: 21 Hectares
+2-Total area of glasshouses: 929 Metres
+3-Disabled access: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3476">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3476">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3476">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3476">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (505) 848-7192
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: biopark@cabq.gov
+9-Telephone: (505) 848-7181
+9-URL: www.cabq.gov/biopark/garden/

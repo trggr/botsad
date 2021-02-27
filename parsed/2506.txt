@@ -1,12 +1,20 @@
-ID:	2506
-Name:	American Orchid Society 
-Curator's Name:	
-Director's Name:	Naya Marcano, Director of Administration and Member Services
-Info:	  United States of America - Florida - Coral Gables  ;Garden Information;  Institution Code: AOS; International Agenda Registration: No; BGCI Member: No; About the American Orchid Society From our founding in 1921, the AOS has been the go-to resource for orchid growers of all stripes. To promote the appreciation of orchids, the American Orchid Society delivers the most up-to-date, accurate, educational information about orchid culture and sponsors research and conservation initiatives to improve the outlook for orchids around the globe.;  Main Address:; American Orchid Society; at Fairchild Tropical Botanic Garden; 10901 Old Cutler Rd; Coral Gables; Florida 33156 United States of America; ;  Telephone: (305) 740-2010; Fax: (305) 747-7154; URL: <a target="_blank" href="http://www.aos.org">www.aos.org; Primary Email: theaos@aos.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1921
-Institution Type:	Other
-Latitude:	25.678790
-Longitude:	-80.274263
-Special Collections:	Orchids
+0-ID: 2506
+1-Name: American Orchid Society 
+2-Altitude: 0.00 Metres
+2-Date founded: 1921
+2-Info:              Institution Code: AOS;             International Agenda Registration: No;        BGCI Member: No;                                                  About the American Orchid Society        From our founding in 1921, the AOS has been the go-to resource for orchid growers of all stripes.  To promote the appreciation of orchids, the American Orchid Society delivers the most up-to-date, accurate, educational information about orchid culture and sponsors research and conservation initiatives to improve the outlook for orchids around the globe.;                        Main Address:;         American Orchid Society;         at Fairchild Tropical Botanic Garden;        10901 Old Cutler Rd;        Coral Gables;        Florida 33156 United States of America;        ;                 Telephone: (305) 740-2010;         Fax: (305) 747-7154;         URL: www.aos.org;         Primary Email: theaos@aos.org       ;              
+2-Institution Type: Other
+2-Latitude: 25.678790
+2-Longitude: -80.274263
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2506">Please click here if you can update us</a>
+4-Special Collections: Orchids
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2506">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2506">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2506">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (305) 747-7154
+9-Institution Code: AOS
+9-International Agenda Registration: No
+9-Primary Email: theaos@aos.org
+9-Telephone: (305) 740-2010
+9-URL: www.aos.org

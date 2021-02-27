@@ -1,78 +1,81 @@
-ID:	473
-Name:	Orto Botanico dell`Universita di Ferrara 
-Fax:	+39 0532 208561
-Info:	  Italy - Emilia Romagna - Ferrara  ;Garden Information;  Institution Code: FER; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	ortobotanico@unife.it
-Telephone:	+39 0532 293782
-Administration Staff Number:	1
-Curator's Name:	Dr. Fabrizio Negrini
-Director's Name:	Prof. Renato Gerdol
-Educational Staff Number:	1
-Horticultural Staff Number:	3
-Plant Records Officer's Name:	Fabrizio Negrini
-Research Staff Number:	
-Altitude:	8.00 Metres
-Annual Rainfall:	700 mm
-Date founded:	1771
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	44.8060
-Local Address:	Corso Ercole I d'Este, 32
-Locality:	Information
-Longitude:	11.6700
-Natural Vegetation Area:	No
-Total area of glasshouses:	135 Metres
-Total area of shadehouses:	1000 Metres
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	8000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Accession Number:	2500
-Cultivation Taxa Num:	1962
-In this section the plants are grouped according to the usefulness to humans. The section includes the following sectors:	“Orchard garden”, “Plants for industry”, “Aromatic plants”, “Medicinal Plants”.
-Special Collections:	A brief description of collections and sectors is reported.
-This section collects protected plants of the Italian flora originating, in large part, the territory of Ferrara. The section is divided into two areas:	“Halophilous and terrestrial plants”, “Aquatic and hygrophilous plants”.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	No
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 473
+1-Name: Orto Botanico dell`Universita di Ferrara 
+2-Administration Staff Number: 1
+2-Curator's Name: Dr. Fabrizio Negrini
+2-Director's Name: Prof. Renato Gerdol
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 3
+2-Info:              Institution Code: FER;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/473/webcam.jpg" alt="Botanical Garden from webcam" />         Botanical Garden from webcam</div>        </div>                           About the Orto Botanico dell`Universita di Ferrara        Botanical Garden area is almost in the shape of a rectangle and its surface is divided into irregular flowerbeds. A long path, winding among trees and lawns surrounded by low evergreen hedges, allows visitors who follow the suggested route to observe all exhibition areas. Garden flowerbeds cover 4500 square meters and host about 700 species divided into four thematic sections: Systematics, Theme gardens, Useful plants, Protected flora. The greenhouses, located on the eastern edge of the Botanical Garden, are divided into three areas: Cold House, Temperate House and Hothouse. Greenhouse plants are about 1300 species coming from equatorial, tropical and subtropical regions and making very interesting collections. In spring and summer many greenhouse plants are carried outdoor on special structures so as to constitute a fifth section: Exotic plants.;                        Main Address:;         Orto Botanico dell`Universita di Ferrara;         Universita degli Studi di Ferrara;        Dipartimento di Biologia ed Evoluzione - Orto Botanico;        Ferrara;        Emilia Romagna 44121 Italy;        ;                 Telephone: +39 0532 293782;         Fax: +39 0532 208561;         URL: http://www.unife.it/dipartimento/biologia-evoluzione/strutture/orto-botanico;         Primary Email: ortobotanico@unife.it       ;              
+2-Plant Records Officer's Name: Fabrizio Negrini
+2-Research Staff Number: 
+3-Altitude: 8.00 Metres
+3-Annual Rainfall: 700 mm
+3-Date founded: 1771
+3-Institution Type: Botanic Garden
+3-Landscaped Area: No
+3-Latitude: 44.8060
+3-Local Address: Corso Ercole I d'Este, 32
+3-Locality: Information
+3-Longitude: 11.6700
+3-Natural Vegetation Area: No
+3-Total area of glasshouses: 135 Metres
+3-Total area of shadehouses: 1000 Metres
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 8000
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-Accession Number: 2500
+5-Cultivation Taxa Num: 1962
+5-In this section the plants are grouped according to the usefulness to humans. The section includes the following sectors: “Orchard garden”, “Plants for industry”, “Aromatic plants”, “Medicinal Plants”.
+5-Special Collections: A brief description of collections and sectors is reported.
+5-This section collects protected plants of the Italian flora originating, in large part, the territory of Ferrara. The section is divided into two areas: “Halophilous and terrestrial plants”, “Aquatic and hygrophilous plants”.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Ecosystem Conservation: No
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: No
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: No
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: +39 0532 208561
+9-Institution Code: FER
+9-International Agenda Registration: No
+9-Primary Email: ortobotanico@unife.it
+9-Telephone: +39 0532 293782

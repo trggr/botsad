@@ -1,10 +1,18 @@
-ID:	3535
-Name:	Jardín Didáctico de Especies Nativas 
-Curator's Name:	Prof. Marcela Huerta de la Rocha
-Director's Name:	Dra. Patricia Perelman
-Info:	  Argentina - Buenos Aires - Buenos Aires  ;Garden Information;  Institution Code: BA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Didáctico de Especies Nativas; Museo Argentino de Ciencias Naturales "Bernardino Rivadavia"; Av. Angel Gallardo 470; Buenos Aires; Buenos Aires 1405 Argentina; ;  Telephone: 54 (0) 11-49824791/8797/8370, ext. 237; Fax: 54 (0) 4982-5243/4494; URL: <a target="_blank" href="http://www.macn.secyt.gov.ar">http://www.macn.secyt.gov.ar; Primary Email: patriperelman@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-34.60514
-Longitude:	-58.43769
+0-ID: 3535
+1-Name: Jardín Didáctico de Especies Nativas 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardín Didáctico de Especies Nativas;         Museo Argentino de Ciencias Naturales "Bernardino Rivadavia";        Av. Angel Gallardo 470;        Buenos Aires;        Buenos Aires 1405 Argentina;        ;                 Telephone: 54 (0) 11-49824791/8797/8370, ext. 237;         Fax: 54 (0) 4982-5243/4494;         URL: http://www.macn.secyt.gov.ar;         Primary Email: patriperelman@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -34.60514
+2-Longitude: -58.43769
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3535">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3535">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3535">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3535">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3535">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 54 (0) 4982-5243/4494
+9-Institution Code: BA
+9-International Agenda Registration: Yes
+9-Primary Email: patriperelman@gmail.com
+9-Telephone: 54 (0) 11-49824791/8797/8370, ext. 237

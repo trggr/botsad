@@ -1,11 +1,19 @@
-ID:	49
-Name:	Experimental Botanical Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Pune  ;Garden Information;  Institution Code: BSI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Experimental Botanical Gardens; Botanical Survey of India (Western Circle), 7 Koregaon Road, PUNE 411 001, Maharashtra, India.; Pune; India; ;  Telephone: 22125; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1958
-Institution Type:	Botanic Garden
-Latitude:	18.5204
-Longitude:	73.8566
-Special Collections:	Medicinal plants, orchids, trees and shrubs, economic plants.
+0-ID: 49
+1-Name: Experimental Botanical Gardens 
+2-Date founded: 1958
+2-Info:              Institution Code: BSI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Experimental Botanical Gardens;         Botanical Survey of India (Western Circle), 7 Koregaon Road, PUNE 411 001, Maharashtra, India.;                Pune;        India;        ;                 Telephone: 22125;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.5204
+2-Longitude: 73.8566
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=49">Please click here if you can update us</a>
+4-Special Collections: Medicinal plants, orchids, trees and shrubs, economic plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=49">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=49">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=49">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BSI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 22125
+9-URL: 

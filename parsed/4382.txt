@@ -1,12 +1,20 @@
-ID:	4382
-Name:	Yumyeong-san Botanical Garden 
-Curator's Name:	Min-Hee Jo
-Director's Name:	Goo-Hyeon Ahn
-Info:	  South Korea - Gyeonggi-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Yumyeong-san Botanical Garden; San 35, Gail-ri, Seorak-myeon, Gapyeong-gun; Gyeonggi-do 477-851 South Korea; ;  Telephone: 031-585-9643; Fax: 031-585-4657; URL: <a target="_blank" href="http://www.huyang-go.kr">http://www.huyang-go.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.59265
-Local Address:	가평군 설악면 가일리 산35번지
-Locality:	Information
-Longitude:	127.49222
+0-ID: 4382
+1-Name: Yumyeong-san Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Yumyeong-san Botanical Garden;         San 35, Gail-ri, Seorak-myeon, Gapyeong-gun;                        Gyeonggi-do 477-851 South Korea;        ;                 Telephone: 031-585-9643;         Fax: 031-585-4657;         URL: http://www.huyang-go.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.59265
+2-Local Address: 가평군 설악면 가일리 산35번지
+2-Locality: Information
+2-Longitude: 127.49222
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4382">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4382">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4382">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4382">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4382">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 031-585-4657
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 031-585-9643

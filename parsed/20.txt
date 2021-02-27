@@ -1,91 +1,93 @@
-ID:	20
-Name:	Jardín Botánico de la ciudad de Buenos Aires "Carlos Thays" 
--" src="https:	//images.bgci.org/HeuPeqRXuUbFYNaqyn7jrAbn1tE=/fit-in/1024x/https%3A%2F%2Fwww.bgci.org%2Fwp%2Fwp-content%2Fuploads%2F2019%2F05%2FDSCN0398.jpg" alt="" width="700" />
--</li> <li style="text-align:	justify
--<img style="display:	block
--<p style="text-align:	center
--<ul> <li style="text-align:	justify
--and</li> <li style="text-align:	justify
--margin-left:	auto
--margin-right:	auto
--nico Carlos Thays. For more information about the project please contact <a href="mailto:	gmbarreiro@gmail.com">Graciela Barreiro.
-Fax:	
-Info:	  Argentina - Buenos Aires - Buenos Aires  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: BAJ; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level III ; 
-Primary Email:	buenosairesjardin@buenosaires.gob.ar
-Telephone:	54 11 4833-3748
-Administration Staff Number:	20
-Curator's Name:	Ing. Agr. Gabriela Benito
-Director's Name:	Ing. Agr. Graciela Barreiro
-Educational Staff Number:	10
-Horticultural Staff Number:	20
-Plant Records Officer's Name:	Ing. Fernando Cano
-Research Staff Number:	10
-Altitude:	25.00 Metres
-Annual Rainfall:	1300 mm
-Date founded:	1898
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-34.5828
-Local Address:	Santa Fe 3951
-Locality:	Information
-Longitude:	-58.4190
-Natural Vegetation Area:	No
-Total Area:	8 Hectares
-Total area of glasshouses:	700 Metres
-Arboretum:	Yes
-Arboretum Size:	5
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	400000
-Number of Volunteers:	85
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	5100
-Cultivation Taxa Num:	1500
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Plants of the template region of Argentina
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 20
+1-Name: Jardín Botánico de la ciudad de Buenos Aires "Carlos Thays" 
+2-Administration Staff Number: 20
+2-Curator's Name: Ing. Agr. Gabriela Benito
+2-Director's Name: Ing. Agr. Graciela Barreiro
+2-Educational Staff Number: 10
+2-Horticultural Staff Number: 20
+2-Info:              Institution Code: BAJ;             International Agenda Registration: Yes;        BGCI Member: Yes;                       ArbNet Accredited:          Level III       ;                                       <img src="/photos/20/DSC07653_b.jpg" alt="Main building" />         Main building</div>        </div>                                    Main Address:;         Jardín Botánico de la ciudad de Buenos Aires "Carlos Thays";         Av. Santa Fe 3951;                Buenos Aires;        Buenos Aires 1425 Argentina;        ;                 Telephone: 54 11 4833-3748;         Fax: ;         URL: www.buenosaires.gob.ar/jardinbotanico;         Primary Email: buenosairesjardin@buenosaires.gob.ar       ;              
+2-Plant Records Officer's Name: Ing. Fernando Cano
+2-Research Staff Number: 10
+3-Altitude: 25.00 Metres
+3-Annual Rainfall: 1300 mm
+3-Date founded: 1898
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -34.5828
+3-Local Address: Santa Fe 3951
+3-Locality: Information
+3-Longitude: -58.4190
+3-Natural Vegetation Area: No
+3-Total Area: 8 Hectares
+3-Total area of glasshouses: 700 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 5
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 400000
+4-Number of Volunteers: 85
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: Yes
+5-ABS Policy: Yes
+5-Accession Number: 5100
+5-Cultivation Taxa Num: 1500
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Plants of the template region of Argentina
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: Yes
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: No
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-</li> <li style="text-align: justify
+9-</strong> <p style="text-align: justify
+9-<p style="text-align: justify
+9-ArbNet Accredited: Level III
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: BAJ
+9-International Agenda Registration: Yes
+9-Primary Email: buenosairesjardin@buenosaires.gob.ar
+9-Telephone: 54 11 4833-3748
+9-URL: www.buenosaires.gob.ar/jardinbotanico
+9-and</li> <li style="text-align: justify
+9-margin-left: auto
+9-margin-right: auto

@@ -1,11 +1,18 @@
-ID:	568
-Name:	Jardin Botanico de la Universidad de Puerto Rico 
-Curator's Name:	
-Director's Name:	Dr. Fred C. Schaffner
-Info:	  Puerto Rico - PR - San Juan  ;Garden Information;  Institution Code: UPR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de la Universidad de Puerto Rico; Central Administration, Universidad de Puerto Rico; P.O. Box 364984; San Juan; PR 00936-4984 Puerto Rico; ;  Telephone: (787) 763 4408; Fax: (787) 751 6808; URL: <a target="_blank" href="http://www.upr.edu/jardin-botanico/">http://www.upr.edu/jardin-botanico/; Primary Email: exalumnos@upr.edu ; 
-Plant Records Officer's Name:	
-Date founded:	1971
-Institution Type:	Botanic Garden
-Latitude:	18.3871
-Longitude:	-66.0555
-Special Collections:	Cattleva, Palms.
+0-ID: 568
+1-Name: Jardin Botanico de la Universidad de Puerto Rico 
+2-Date founded: 1971
+2-Info:              Institution Code: UPR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico de la Universidad de Puerto Rico;         Central Administration, Universidad de Puerto Rico;        P.O. Box 364984;        San Juan;        PR 00936-4984 Puerto Rico;        ;                 Telephone: (787) 763 4408;         Fax: (787) 751 6808;         URL: http://www.upr.edu/jardin-botanico/;         Primary Email: exalumnos@upr.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.3871
+2-Longitude: -66.0555
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=568">Please click here if you can update us</a>
+4-Special Collections: Cattleva, Palms.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=568">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=568">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=568">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (787) 751 6808
+9-Institution Code: UPR
+9-International Agenda Registration: No
+9-Primary Email: exalumnos@upr.edu
+9-Telephone: (787) 763 4408

@@ -1,7 +1,16 @@
-ID:	5440
-Name:	Cedar Valley Arboretum and Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Iowa - Waterloo  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Cedar Valley Arboretum and Botanic Gardens; Hawkeye Community College; Waterloo; Iowa 50704 United States of America; ;  Telephone: 319-226-4966; Fax: ; URL: <a target="_blank" href="http://www.cedarvalleyarboretum.org">http://www.cedarvalleyarboretum.org; Primary Email: director@cedarvalleyarboretum.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5440
+1-Name: Cedar Valley Arboretum and Botanic Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Cedar Valley Arboretum and Botanic Gardens;         Hawkeye Community College;                Waterloo;        Iowa 50704 United States of America;        ;                 Telephone: 319-226-4966;         Fax: ;         URL: http://www.cedarvalleyarboretum.org;         Primary Email: director@cedarvalleyarboretum.org       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5440">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5440">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5440">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5440">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5440">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: director@cedarvalleyarboretum.org
+9-Telephone: 319-226-4966

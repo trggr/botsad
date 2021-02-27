@@ -1,50 +1,50 @@
-ID:	2074
-Name:	Jardi Botanic de Soller 
-Administration Staff Number:	1
-Curator's Name:	Magdalena Vicens
-Director's Name:	J.l. Gradaille Tortella
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Info:	  Spain - Mallorca - Soller  ;Garden Information;  Institution Code: SOLLE; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Jardi Botanic de Soller; Ctra. Palma - Port de Soller Km. 30,5; Apartat de correus 44,; Soller; Mallorca 07100 Spain; ;  Telephone: 971634014; Fax: 971634781; URL: <a target="_blank" href="http://www.jardibotanicdesoller.org/">www.jardibotanicdesoller.org/; Primary Email: jbs@jardibotanicdesoller.org ; 
-Plant Records Officer's Name:	Magdalena Vicens
-Research Staff Number:	2
-Altitude:	50.00 Metres
-Annual Rainfall:	800 mm
-Date founded:	1992
-Institution Type:	Botanic Garden
-Latitude:	39.7791
-Local Address:	Ctra. Palma-Port de Sóller Km 30,5
-Locality:	Information
-Longitude:	2.7102
-Natural Vegetation Area:	No
-Total Area:	1 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	15000
-Number of Volunteers:	3
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Cultivation Taxa Num:	2426
-Special Collections:	Flora of Mediterranean region and in particular, the flora of Balearic Islands. But as well flora from other Mediterranean islands as Corsica, Sardinia, Creta, Sicily...
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	Yes
-Conservation - Biology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
-Land Restoration:	Yes
-Plant Breeding:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
+0-ID: 2074
+1-Name: Jardi Botanic de Soller 
+2-Altitude: 50.00 Metres
+2-Annual Rainfall: 800 mm
+2-Date founded: 1992
+2-Info:              Institution Code: SOLLE;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Jardi Botanic de Soller;         Ctra. Palma - Port de Soller Km. 30,5;        Apartat de correus 44,;        Soller;        Mallorca 07100 Spain;        ;                 Telephone: 971634014;         Fax: 971634781;         URL: www.jardibotanicdesoller.org/;         Primary Email: jbs@jardibotanicdesoller.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.7791
+2-Local Address: Ctra. Palma-Port de Sóller Km 30,5
+2-Locality: Information
+2-Longitude: 2.7102
+2-Natural Vegetation Area: No
+2-Total Area: 1 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 15000
+3-Number of Volunteers: 3
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 2426
+4-Special Collections: Flora of Mediterranean region and in particular, the flora of Balearic Islands. But as well flora from other Mediterranean islands as Corsica, Sardinia, Creta, Sicily...
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Agriculture: Yes
+6-Conservation - Biology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Horticulture: Yes
+6-Land Restoration: Yes
+6-Plant Breeding: Yes
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: Yes
+7-Courses for School Children: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Guided Tours: Yes
+9-BGCI Member: Yes
+9-Fax: 971634781
+9-Institution Code: SOLLE
+9-International Agenda Registration: Yes
+9-Primary Email: jbs@jardibotanicdesoller.org
+9-Telephone: 971634014
+9-URL: www.jardibotanicdesoller.org/

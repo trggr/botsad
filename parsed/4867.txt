@@ -1,9 +1,18 @@
-ID:	4867
-Name:	D.T. Fleming Arboretum at Pu'u Mahoe 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Hawaii - Makawao  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; D.T. Fleming Arboretum at Pu'u Mahoe; Mailing: P.O.Box 101; Makawao; Hawaii 96768 United States of America; ;  Telephone: (808) 878-3240; Fax: ; URL: <a target="_blank" href="http://flemingarboretum.org">http://flemingarboretum.org; Primary Email: info@flemingarboretum.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	20.63341
-Longitude:	-156.38507
+0-ID: 4867
+1-Name: D.T. Fleming Arboretum at Pu'u Mahoe 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         D.T. Fleming Arboretum at Pu'u Mahoe;                 Mailing: P.O.Box 101;        Makawao;        Hawaii 96768 United States of America;        ;                 Telephone: (808) 878-3240;         Fax: ;         URL: http://flemingarboretum.org;         Primary Email: info@flemingarboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.63341
+2-Longitude: -156.38507
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4867">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4867">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4867">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4867">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4867">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O.Box 101
+9-Primary Email: info@flemingarboretum.org
+9-Telephone: (808) 878-3240

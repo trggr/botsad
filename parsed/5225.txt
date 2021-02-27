@@ -1,69 +1,70 @@
-ID:	5225
-Name:	Bidoup Nuiba Botanic Garden 
-Administration Staff Number:	2
-Curator's Name:	Truong Quang Cuong
-Director's Name:	Le Van Huong
-Educational Staff Number:	10
-Horticultural Staff Number:	10
-Info:	  Viet Nam - Lam Dong Province - Dalat  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Bidoup Nuiba Botanic Garden Being the core zone of the world Langbiang Biosphere Reserve, Bidoup-Nuiba national park is located in Da Lat plateau of the central highland area of Vietnam. The park is evaluated as one of four biodiversity centers of the country with forest ecosystems considered as standard models of sub-tropical moist rain evergreen forests and typical forests of low montane sub-tropical areas of Vietnam, as well. Its forests hold high values of natural landscapes, biodiversity with valuable and rare species and genetic resources.; Since the establishment of 2004, from Vietnamese goverment budget, the activities of the park mainly concentrate on ex situ conservation of its important forest ecosystems, and endemic, patrimonial and national and international high valuable plant species. However, under negative impacts of population growth, infrastructure construction around and inside the core zone of the park as well as climate change, the danger of habitat fragmentation and the loss of these species are increasing. Therefore, beside the efforts of in situ conservation activities, since 2010, the park has built a plan to establish a botanic garden for the purpose of ex situ conservation these valuable species. In 2014, from the support of experts of Australia Royal Botanic Gardens and Domain Trust, a master plan of a botanic garden of the park has been formulated and until now, initial infrastructure of the botanic garden has been constructed. The purposes of the park’s botanic garden are for ex situ conservation of endemic, patrimonial and national and international high valuable plant species, for scientific research, environmental education and scientific information exchange with other botanic gardens in the world.;  Main Address:; Bidoup Nuiba Botanic Garden; Bidoup Nui Ba National Park; 5E Tran Hung Dao; Dalat; Lam Dong Province 670000 Viet Nam; ;  Telephone: +84633502061; Fax: +84633813654; URL: <a target="_blank" href="http://bidoupnuiba.gov.vn/">http://bidoupnuiba.gov.vn/; Primary Email: icther.vqgbidoup@gmail.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	4
-Altitude:	1560.00 Metres
-Annual Rainfall:	2000 mm
-Date founded:	2015
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	12.1359
-Local Address:	Block 97, Da Nhim commune, Lac Duong district, Lam Dong province
-Locality:	Information
-Longitude:	108.5309
-Natural Vegetation Area:	Yes
-Total Area:	15 Hectares
-Total area of glasshouses:	3 Metres
-Total area of shadehouses:	12 Metres
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	10
-Number of Volunteers:	1
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	1000
-Cultivation Taxa Num:	150
-Function:	This interpretive node will provide the introduction to the main ecosystem
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Stories:	Identify the major family groups known to exist in BDNBNP e.g. Magnolia,
-Title:	The Forest Botanic Garden
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	No
+0-ID: 5225
+1-Name: Bidoup Nuiba Botanic Garden 
+2-Altitude: 1560.00 Metres
+2-Annual Rainfall: 2000 mm
+2-Date founded: 2015
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level I       ;                                          About the Bidoup Nuiba Botanic Garden        Being the core zone of the world Langbiang Biosphere Reserve, Bidoup-Nuiba national park is located in Da Lat plateau of the central highland area of Vietnam. The park is evaluated as one of four biodiversity centers of the country with forest ecosystems considered as standard models of sub-tropical moist rain evergreen forests and typical forests of low montane sub-tropical areas of Vietnam, as well. Its forests hold high values of natural landscapes, biodiversity with valuable and rare species and genetic resources.;  Since the establishment of 2004, from Vietnamese goverment budget, the activities of the park mainly concentrate on ex situ conservation of its important forest ecosystems, and endemic, patrimonial and national and international high valuable plant species. However, under negative impacts of population growth, infrastructure construction around and inside the core zone of the park as well as climate change, the danger of habitat fragmentation and the loss of these species are increasing. Therefore, beside the efforts of in situ conservation activities, since 2010, the park has built a plan to establish a botanic garden for the purpose of ex situ conservation these valuable species.  In 2014, from the support of experts of Australia Royal Botanic Gardens and Domain Trust,  a master plan of a botanic garden of the park has been formulated and until now, initial infrastructure of the botanic garden has been constructed. The purposes of the park’s botanic garden are for ex situ conservation of endemic, patrimonial and national and international high valuable plant species, for scientific research, environmental education and scientific information exchange with other botanic gardens in the world.;                        Main Address:;         Bidoup Nuiba Botanic Garden;         Bidoup Nui Ba National Park;        5E Tran Hung Dao;        Dalat;        Lam Dong Province 670000 Viet Nam;        ;                 Telephone: +84633502061;         Fax: +84633813654;         URL: http://bidoupnuiba.gov.vn/;         Primary Email: icther.vqgbidoup@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 12.1359
+2-Local Address: Block 97, Da Nhim commune, Lac Duong district, Lam Dong province
+2-Locality: Information
+2-Longitude: 108.5309
+2-Natural Vegetation Area: Yes
+2-Total Area: 15 Hectares
+2-Total area of glasshouses: 3 Metres
+2-Total area of shadehouses: 12 Metres
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Disabled access: No
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 10
+3-Number of Volunteers: 1
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: Yes
+4-Accession Number: 1000
+4-Cultivation Taxa Num: 150
+4-Function: This interpretive node will provide the introduction to the main ecosystem
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Stories: Identify the major family groups known to exist in BDNBNP e.g. Magnolia,
+4-Title: The Forest Botanic Garden
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: No
+6-Biotechnology: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: Yes
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: No
+6-Sustainability: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: No
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5225">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: Yes
+9-Fax: +84633813654
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: icther.vqgbidoup@gmail.com
+9-Telephone: +84633502061

@@ -1,12 +1,21 @@
-ID:	3034
-Name:	Beijing Teaching Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Beijing - Chongwen  ;Garden Information;  Institution Code: BTLB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Beijing Teaching Botanical Garden; Education Bureau of Beijing, No. 3 Baiguoyuan, Longtanhu, Chongwen District, Beijing, 100061, China; Chongwen; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	39.9055
-Local Address:	中国北京市崇文区龙潭湖百果园3号北京市教育局，邮编 100061
-Locality:	Information
-Longitude:	116.3958
+0-ID: 3034
+1-Name: Beijing Teaching Botanical Garden 
+2-Date founded: 
+2-Info:              Institution Code: BTLB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Beijing Teaching Botanical Garden;         Education Bureau of Beijing, No. 3 Baiguoyuan, Longtanhu, Chongwen District, Beijing, 100061, China;                Chongwen;        Beijing China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.9055
+2-Local Address: 中国北京市崇文区龙潭湖百果园3号北京市教育局，邮编 100061
+2-Locality: Information
+2-Longitude: 116.3958
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3034">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3034">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3034">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3034">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3034">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BTLB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,30 +1,34 @@
-ID:	1034
-Name:	Botanical Garden Balcik 
-Fax:	0359 579 76 338
-Info:	  Bulgaria - Sofia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	ubg_sofia@abv.bg
-Telephone:	0359 579 72 058
-Administration Staff Number:	4
-Curator's Name:	
-Director's Name:	Dr. Krasimir Kosev
-Educational Staff Number:	1
-Horticultural Staff Number:	35
-Plant Records Officer's Name:	
-Research Staff Number:	4
-Altitude:	0.00 Metres
-Date founded:	1955
-Institution Type:	Botanic Garden
-Latitude:	42.7105
-Longitude:	23.3238
-Total Area:	20 Hectares
-Total area of glasshouses:	1332 Metres
-Arboretum:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	400000
-Seed Bank:	Yes
-Cultivation Taxa Num:	3800
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Education:	Yes
+0-ID: 1034
+1-Name: Botanical Garden Balcik 
+2-Administration Staff Number: 4
+2-Curator's Name: 
+2-Director's Name: Dr. Krasimir Kosev
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 35
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/1034/balcik.gif" alt="" />         </div>        </div>                           About the Botanical Garden Balcik        The chief attraction in Balcik is the wonderful Botanical Garden. Its ten hectares surround the small summer palace of the Romanian Queen Marie. (The area was part of Romania between 1913 and 1940). The attractive villa has the unusual addition of a minaret. The gardens are set on a steep hillside, and descend in six terraces to the sea - supposedly one for each of the Queen's children. There are over three thousand varieties of shrubs, roses and flowers, set among streams, waterfalls, and ornamental channels. There is a rock garden, a formal French one with clipped box cones and geometric beds, and an astonishing collection of cacti. Interspersed are stone thrones, seats, pillars and ornaments collected by the Queen.;  ;  The Botanical garden forms part of the teaching facilities of the University of Sofia.;                        Main Address:;         Botanical Garden Balcik;         P.O. Box 834;        1000 SOFIA;        Sofia;        Bulgaria;        ;                 Telephone: 0359 579 72 058;         Fax: 0359 579 76 338;         URL: http://www.uni-sofia.bg/resources/botan/index.html;         Primary Email: ubg_sofia@abv.bg       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 4
+3-Altitude: 0.00 Metres
+3-Date founded: 1955
+3-Institution Type: Botanic Garden
+3-Latitude: 42.7105
+3-Longitude: 23.3238
+3-Total Area: 20 Hectares
+3-Total area of glasshouses: 1332 Metres
+4-Arboretum: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 400000
+4-Seed Bank: Yes
+5-Cultivation Taxa Num: 3800
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Education: Yes
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=1034">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0359 579 76 338
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ubg_sofia@abv.bg
+9-Telephone: 0359 579 72 058

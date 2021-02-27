@@ -1,9 +1,17 @@
-ID:	5407
-Name:	Jardín Botánico CEPE-Taxco UNAM 
-Curator's Name:	
-Director's Name:	
-Info:	  Mexico - Guerrero - Taxco de Alarcón,  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico CEPE-Taxco UNAM; Ex Hacienda de "El Chorrillo"; Barrio de "El Chorrillo"; Taxco de Alarcón,; Guerrero S/N. C.P.40220 Mexico; ;  Telephone: +52(762)6220124 and 6223410; Fax: ; URL: <a target="_blank" href="http://www.cepetaxco.unam.mx/jardin-botanico/">http://www.cepetaxco.unam.mx/jardin-botanico/; Primary Email: biol.edgardo.m.c@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	18°34'07.19"
-Longitude:	99°36'15.17"
+0-ID: 5407
+1-Name: Jardín Botánico CEPE-Taxco UNAM 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico CEPE-Taxco UNAM;         Ex Hacienda de "El Chorrillo";        Barrio de "El Chorrillo";        Taxco de Alarcón,;        Guerrero S/N. C.P.40220 Mexico;        ;                 Telephone: +52(762)6220124 and 6223410;         Fax: ;         URL: http://www.cepetaxco.unam.mx/jardin-botanico/;         Primary Email: biol.edgardo.m.c@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18°34'07.19"
+2-Longitude: 99°36'15.17"
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5407">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5407">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5407">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5407">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5407">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: biol.edgardo.m.c@gmail.com
+9-Telephone: +52(762)6220124 and 6223410

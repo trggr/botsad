@@ -1,12 +1,20 @@
-ID:	1363
-Name:	Botanische Tuin Odulphushof 
-Curator's Name:	
-Director's Name:	
-Info:	  Netherlands - Best  ;Garden Information;  Institution Code: BEST; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanische Tuin Odulphushof; Hoofdstraat 35, 5683 AC BEST, The Netherlands.; Best; Netherlands; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.bolsasecologicasmexico.com">www.bolsasecologicasmexico.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1980
-Institution Type:	Botanic Garden
-Latitude:	51.5121
-Longitude:	5.3928
-Special Collections:	Collection of about 2,000 species for the dutch climate (trees, but more annual flowers and perennial flowers and bulbs
+0-ID: 1363
+1-Name: Botanische Tuin Odulphushof 
+2-Altitude: 0.00 Metres
+2-Date founded: 1980
+2-Info:              Institution Code: BEST;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanische Tuin Odulphushof;         Hoofdstraat 35, 5683 AC BEST, The Netherlands.;                Best;        Netherlands;        ;                 Telephone: ;         Fax: ;         URL: www.bolsasecologicasmexico.com;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.5121
+2-Longitude: 5.3928
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1363">Please click here if you can update us</a>
+4-Special Collections: Collection of about 2,000 species for the dutch climate (trees, but more annual flowers and perennial flowers and bulbs
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1363">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1363">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1363">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BEST
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.bolsasecologicasmexico.com

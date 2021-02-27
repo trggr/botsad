@@ -1,23 +1,23 @@
-ID:	4465
-Name:	Harold L. Lyon Arboretum - Seed Conservation Laboratory 
-Administration Staff Number:	1
-Curator's Name:	Dr. Anna Sugiyama, Seed Conservation Laboratory Manager
-Director's Name:	Dr. Rakan (Zak) Zahawi, Director
-Educational Staff Number:	
-Horticultural Staff Number:	
-Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Harold L. Lyon Arboretum - Seed Conservation Laboratory; University of Hawai`i at Manoa; 3860 Manoa Road; Honolulu; Hawaii 96822-1180 United States of America; ;  Telephone: (808) 988-0469; Fax: ; URL: <a target="_blank" href="https://manoa.hawaii.edu/lyon/research/hrpp/">https://manoa.hawaii.edu/lyon/research/hrpp/; Primary Email: asugi@hawaii.edu ; 
-Plant Records Officer's Name:	Nate Kingsley, Seed Conservation Laboratory Technician
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Date founded:	1995
-Institution Type:	Gene/Seed Bank
-Latitude:	21.3304548
-Longitude:	-157.8008789
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Seed Bank:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Conservation - Biology:	Yes
-Seed/Spore Biology:	Yes
-Guided Tours:	Yes
+0-ID: 4465
+1-Name: Harold L. Lyon Arboretum - Seed Conservation Laboratory 
+2-Altitude: 0.00 Metres
+2-Date founded: 1995
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Harold L. Lyon Arboretum - Seed Conservation Laboratory;         University of Hawai`i at Manoa;        3860 Manoa Road;        Honolulu;        Hawaii 96822-1180 United States of America;        ;                 Telephone: (808) 988-0469;         Fax: ;         URL: https://manoa.hawaii.edu/lyon/research/hrpp/;         Primary Email: asugi@hawaii.edu       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 21.3304548
+2-Longitude: -157.8008789
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4465">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-Conservation - Biology: Yes
+6-Seed/Spore Biology: Yes
+7-Guided Tours: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: asugi@hawaii.edu
+9-Telephone: (808) 988-0469

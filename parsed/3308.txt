@@ -1,12 +1,19 @@
-ID:	3308
-Name:	Mount Stewart Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  United Kingdom - Newtownards  ;Garden Information;  Institution Code: MSNT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Mount Stewart Gardens; Grey AbbeyNEWTOWNARDSCo DownBT22 2AD; Newtownards; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	54.5572
-Longitude:	-5.59469
-Total Area:	32 Hectares
-Number of Visitors:	100000
+0-ID: 3308
+1-Name: Mount Stewart Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MSNT;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Mount Stewart Gardens;         Grey AbbeyNEWTOWNARDSCo DownBT22 2AD;                Newtownards;        United Kingdom;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 54.5572
+2-Longitude: -5.59469
+2-Total Area: 32 Hectares
+3-Number of Visitors: 100000
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3308">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3308">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3308">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: MSNT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

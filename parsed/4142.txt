@@ -1,9 +1,18 @@
-ID:	4142
-Name:	Jardín Botánico de Villa Clara 
-Curator's Name:	
-Director's Name:	
-Info:	  Cuba - Villa Clara - 54830 Santa Clara  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico de Villa Clara; Universidad Central de Las Villas; Carretera a Camajuani km 5½; 54830 Santa Clara; Villa Clara Cuba; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: crios@agronet.uclv.edu.cu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	22.4136
-Longitude:	-79.9656
+0-ID: 4142
+1-Name: Jardín Botánico de Villa Clara 
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico de Villa Clara;         Universidad Central de Las Villas;        Carretera a Camajuani km 5½;        54830 Santa Clara;        Villa Clara Cuba;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: crios@agronet.uclv.edu.cu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.4136
+2-Longitude: -79.9656
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4142">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4142">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4142">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4142">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4142">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: crios@agronet.uclv.edu.cu
+9-Telephone: 
+9-URL: 

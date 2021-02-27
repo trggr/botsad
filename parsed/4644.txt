@@ -1,9 +1,18 @@
-ID:	4644
-Name:	Fort Wayne Children's Zoo 
-Curator's Name:	Mark Weldon, General Curator
-Director's Name:	Unknown
-Info:	  United States of America - Indiana - Ft. Wayne  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fort Wayne Children's Zoo; 3411 Sherman Boulevard; Ft. Wayne; Indiana 46808 United States of America; ;  Telephone: (260) 427-6800; Fax: ; URL: <a target="_blank" href="http://www.kidszoo.com">www.kidszoo.com; Primary Email: mark@kidszoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	41.1055082
-Longitude:	-85.1526780
+0-ID: 4644
+1-Name: Fort Wayne Children's Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Fort Wayne Children's Zoo;         3411 Sherman Boulevard;                Ft. Wayne;        Indiana 46808 United States of America;        ;                 Telephone: (260) 427-6800;         Fax: ;         URL: www.kidszoo.com;         Primary Email: mark@kidszoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 41.1055082
+2-Longitude: -85.1526780
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4644">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4644">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4644">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4644">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4644">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: mark@kidszoo.org
+9-Telephone: (260) 427-6800
+9-URL: www.kidszoo.com

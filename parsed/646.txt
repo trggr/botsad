@@ -1,31 +1,36 @@
-ID:	646
-Name:	Sherman Library and Gardens 
-Curator's Name:	
-Director's Name:	Scott LaFleur, Garden Director
-Info:	  United States of America - California - Corona Del Mar  ;Garden Information;  Institution Code: SHERL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sherman Library and Gardens; 2647 East Coast Highway; Corona Del Mar; California 92625 United States of America; ;  Telephone: (949) 673-2261; Fax: (949) 675-5458; URL: <a target="_blank" href="http://www.slgardens.org">www.slgardens.org; Primary Email: scott@slgardens.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1965
-Institution Type:	Botanic Garden
-Latitude:	33.6020190
-Longitude:	-117.8730690
-Total Area:	1 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	150
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Special Collections:	Bromeliads, succulents, orchids, begonias, bulbs, herbs, ferns, seasonal floral display.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Courses for General Public:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 646
+1-Name: Sherman Library and Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1965
+2-Info:              Institution Code: SHERL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sherman Library and Gardens;         2647 East Coast Highway;                Corona Del Mar;        California 92625 United States of America;        ;                 Telephone: (949) 673-2261;         Fax: (949) 675-5458;         URL: www.slgardens.org;         Primary Email: scott@slgardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.6020190
+2-Longitude: -117.8730690
+2-Total Area: 1 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Volunteers: 150
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Special Collections: Bromeliads, succulents, orchids, begonias, bulbs, herbs, ferns, seasonal floral display.
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=646">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (949) 675-5458
+9-Institution Code: SHERL
+9-International Agenda Registration: No
+9-Primary Email: scott@slgardens.org
+9-Telephone: (949) 673-2261
+9-URL: www.slgardens.org

@@ -1,10 +1,19 @@
-ID:	3264
-Name:	Mendel Gallery and Conservatory Corporation 
-Curator's Name:	
-Director's Name:	Vincent Varga, Executive Director and CEO
-Info:	  Canada - Saskatchewan - Saskatoon  ;Garden Information;  Institution Code: SASME; International Agenda Registration: No; BGCI Member: No;  Main Address:; Mendel Gallery and Conservatory Corporation; 950 Spadina Crescent East; P.O. Box 569; Saskatoon; Saskatchewan S7K 3L6 Canada; ;  Telephone: (306) 975-7610; Fax: (306) 975-7670; URL: <a target="_blank" href="http://www.mendel.ca/ags">www.mendel.ca/ags; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	52.134858
-Longitude:	-106.649368
+0-ID: 3264
+1-Name: Mendel Gallery and Conservatory Corporation 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SASME;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Mendel Gallery and Conservatory Corporation;         950 Spadina Crescent East;        P.O. Box 569;        Saskatoon;        Saskatchewan S7K 3L6 Canada;        ;                 Telephone: (306) 975-7610;         Fax: (306) 975-7670;         URL: www.mendel.ca/ags;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.134858
+2-Longitude: -106.649368
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3264">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3264">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3264">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3264">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3264">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (306) 975-7670
+9-Institution Code: SASME
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (306) 975-7610
+9-URL: www.mendel.ca/ags

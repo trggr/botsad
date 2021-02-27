@@ -1,10 +1,19 @@
-ID:	3285
-Name:	The Cambridge Physic Garden 
-Curator's Name:	
-Director's Name:	Dr Malcolm Stuart
-Info:	  United Kingdom - Cambridge  ;Garden Information;  Institution Code: CPG; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Cambridge Physic Garden; PO Box 18Cambridge CB3 7PDUK; Cambridge; United Kingdom; ;  Telephone: 01954 210077; Fax: 01954 210517; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	52.195
-Longitude:	-0.0147
+0-ID: 3285
+1-Name: The Cambridge Physic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: CPG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Cambridge Physic Garden;         PO Box 18Cambridge CB3 7PDUK;                Cambridge;        United Kingdom;        ;                 Telephone: 01954 210077;         Fax: 01954 210517;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.195
+2-Longitude: -0.0147
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3285">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3285">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3285">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3285">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3285">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 01954 210517
+9-Institution Code: CPG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 01954 210077
+9-URL: 

@@ -1,10 +1,18 @@
-ID:	4723
-Name:	Memphis Zoo 
-Curator's Name:	
-Director's Name:	Sally Harper, Director of Operations
-Info:	  United States of America - Tennessee - Memphis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Memphis Zoo; 2000 Prentiss Place; Memphis; Tennessee 38112 United States of America; ;  Telephone: (901) 333-6700; Fax: ; URL: <a target="_blank" href="http://www.memphiszoo.org">www.memphiszoo.org; Primary Email: zooinfo@memphiszoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	35.1485802
-Longitude:	-89.9943641
-Reintroduction Programme:	No
+0-ID: 4723
+1-Name: Memphis Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Memphis Zoo;         2000 Prentiss Place;                Memphis;        Tennessee 38112 United States of America;        ;                 Telephone: (901) 333-6700;         Fax: ;         URL: www.memphiszoo.org;         Primary Email: zooinfo@memphiszoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 35.1485802
+2-Longitude: -89.9943641
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4723">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4723">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4723">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4723">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: zooinfo@memphiszoo.org
+9-Telephone: (901) 333-6700
+9-URL: www.memphiszoo.org

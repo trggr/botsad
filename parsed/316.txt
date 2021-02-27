@@ -1,10 +1,19 @@
-ID:	316
-Name:	Botanic Gardens of Grenada 
-Curator's Name:	
-Director's Name:	Director
-Info:	  Grenada - ST GEORGE'S  ;Garden Information;  Institution Code: SGEOR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Gardens of Grenada; Ministry of Agriculture Forestry Department,ST GEORGE'S, Grenada, Caribbean Islands.; ST GEORGE'S; Grenada; ;  Telephone: 473 440 293; Fax: 473 440 6187; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	12.0539
-Longitude:	-61.7486
+0-ID: 316
+1-Name: Botanic Gardens of Grenada 
+2-Date founded: 
+2-Info:              Institution Code: SGEOR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanic Gardens of Grenada;         Ministry of Agriculture Forestry Department,ST GEORGE'S, Grenada, Caribbean Islands.;                ST GEORGE'S;        Grenada;        ;                 Telephone: 473 440 293;         Fax: 473 440 6187;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 12.0539
+2-Longitude: -61.7486
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=316">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=316">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=316">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=316">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=316">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 473 440 6187
+9-Institution Code: SGEOR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 473 440 293
+9-URL: 

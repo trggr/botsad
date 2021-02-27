@@ -1,10 +1,19 @@
-ID:	4485
-Name:	Mount Pleasant Cemetery 
-Curator's Name:	Jeff McMann, Arborist
-Director's Name:	Gary Linton, Director Property Management
-Info:	  Canada - Ontario - Toronto  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Mount Pleasant Cemetery; 375 Mt Pleasant Road; Toronto; Ontario M4T 2C8 Canada; ;  Telephone: (416) 696-0049; Fax: ; URL: <a target="_blank" href="http://friends.mountpleasantgroup.com/">http://friends.mountpleasantgroup.com/; Primary Email: jmcmann@mountpleasantgroup.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	43.695837
-Longitude:	-79.385251
+0-ID: 4485
+1-Name: Mount Pleasant Cemetery 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Mount Pleasant Cemetery;         375 Mt Pleasant Road;                Toronto;        Ontario M4T 2C8 Canada;        ;                 Telephone: (416) 696-0049;         Fax: ;         URL: http://friends.mountpleasantgroup.com/;         Primary Email: jmcmann@mountpleasantgroup.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.695837
+2-Longitude: -79.385251
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4485">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4485">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4485">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4485">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4485">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jmcmann@mountpleasantgroup.com
+9-Telephone: (416) 696-0049

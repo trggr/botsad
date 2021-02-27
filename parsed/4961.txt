@@ -1,18 +1,20 @@
-ID:	4961
-Name:	Conservancy of Southwest Florida 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Rob Moher
-Educational Staff Number:	7
-Horticultural Staff Number:	
-Info:	  United States of America - Florida - Naples  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Conservancy of Southwest Florida; 1450 Merrihue Drive; Naples; Florida 34102 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.conservancy.org">http://www.conservancy.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1964
-Institution Type:	Botanic Garden
-Latitude:	26.166
-Longitude:	-81.789
-Natural Vegetation Area:	Yes
-Open to public:	Yes
-Conservation Programme:	Yes
+0-ID: 4961
+1-Name: Conservancy of Southwest Florida 
+2-Altitude: 0.00 Metres
+2-Date founded: 1964
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Conservancy  of Southwest Florida;         1450 Merrihue Drive;                Naples;        Florida 34102 United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://www.conservancy.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 26.166
+2-Longitude: -81.789
+2-Natural Vegetation Area: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4961">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4961">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4961">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

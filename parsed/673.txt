@@ -1,64 +1,66 @@
-ID:	673
-Name:	Morton Arboretum, The 
-Administration Staff Number:	135
-Curator's Name:	Matt Lobdell, Head of Collections and Curator
-Director's Name:	Gerard T Donnelly PhD, President and CEO
-Educational Staff Number:	35
-Horticultural Staff Number:	45
-Info:	  United States of America - Illinois - Lisle  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: MOR; International Agenda Registration: Yes; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Morton Arboretum, The The mission of The Morton Arboretum is to collect and study trees, shrubs, and other plants from around the world, to display them across naturally beautiful landscapes for people to study and enjoy, and to learn how to grow them in ways that enhance our environment. Our goal is to encourage the planting and conservation of trees and other plants for a greener, healthier, and more beautiful world.;  Main Address:; Morton Arboretum, The; 4100 Illinois Route 53; Lisle; Illinois 60532-1293 United States of America; ;  Telephone: (630) 968-0074; Fax: (630) 719-2434; URL: <a target="_blank" href="http://www.mortonarb.org">www.mortonarb.org; Primary Email: trees@mortonarb.org ; 
-Plant Records Officer's Name:	Ed Hedborn, Manager of Plant Records
-Research Staff Number:	30
-Altitude:	201.00 Metres
-Annual Rainfall:	902 mm
-Date founded:	1922
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	41.8078175
-Longitude:	-88.0761409
-Natural Vegetation Area:	Yes
-Total Area:	690 Hectares
-Arboretum:	Yes
-Arboretum Size:	690
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	1056000
-Number of Volunteers:	1300
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Accession Number:	9045
-Cultivation Taxa Num:	4114
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Temperate trees and shrubs, elms (especially Asiatic species), North American species of Malus, crabapples, oaks, maples, northern Illinois taxa, Pinaceae & Cupressaceae, wild collected taxa from China, United States (Midwest, Ozarks and Appalachians), Europe and Caucasus. Schulenberg Prairie and Savannah, and Rare and Endangered Plant Collections
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Invasive Species Biology and Control:	Yes
-Plant Breeding:	Yes
-Restoration Ecology:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
-" src="https:	//www.bgci.org/files/ERABG/project_images/The%20Morton%20Arboretum/Schulenberg_website.png" alt="" width="500" height="332" />
-"><img style="display:	block
-<p style="text-align:	center
-margin-left:	auto
-margin-right:	auto
+0-ID: 673
+1-Name: Morton Arboretum, The 
+2-Altitude: 201.00 Metres
+2-Annual Rainfall: 902 mm
+2-Date founded: 1922
+2-Info:              Institution Code: MOR;             International Agenda Registration: Yes;        BGCI Member: Yes;                       ArbNet Accredited:          Level IV       ;                                          About the Morton Arboretum, The        The mission of The Morton Arboretum is to collect and study trees, shrubs, and other plants from around the world, to display them across naturally beautiful landscapes for people to study and enjoy, and to learn how to grow them in ways that enhance our environment.  Our goal is to encourage the planting and conservation of trees and other plants for a greener, healthier, and more beautiful world.;                        Main Address:;         Morton Arboretum, The;         4100 Illinois Route 53;                Lisle;        Illinois 60532-1293 United States of America;        ;                 Telephone: (630) 968-0074;         Fax: (630) 719-2434;         URL: www.mortonarb.org;         Primary Email: trees@mortonarb.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 41.8078175
+2-Longitude: -88.0761409
+2-Natural Vegetation Area: Yes
+2-Total Area: 690 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 690
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 1056000
+3-Number of Volunteers: 1300
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+4-Accession Number: 9045
+4-Cultivation Taxa Num: 4114
+4-Invasive Species Monitoring: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Temperate trees and shrubs, elms (especially Asiatic species), North American species of Malus, crabapples, oaks, maples, northern Illinois taxa, Pinaceae & Cupressaceae, wild collected taxa from China, United States (Midwest, Ozarks and Appalachians), Europe and Caucasus. Schulenberg Prairie and Savannah, and Rare and Endangered Plant Collections
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Invasive Species Biology and Control: Yes
+6-Plant Breeding: Yes
+6-Restoration Ecology: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+8-"><img style="display: block
+8-">Oak Savanna woodland <p style="text-align: justify
+8-">The Morton Arboretum is the site of numerous restoration projects. This includes the restoration of a 40 hectare tallgrass prairie and savanna which is one of the oldest tallgrass restoration projects in the United States. The Schulenberg Prairie and Savanna was established in 1962 and has developed over the decades to include over 500 plant species, including the introduction of 9 endangered species. The propagule sources for this restoration all came from within 80 kilometres of the restoration site, many of which have been subsequently demolished due to development and urban sprawl. The high species richness of this restoration also ranks similarly to local prairie remnants, a feat which is incredibly difficult to attain in tallgrass prairie restorations. <p style="text-align: center
+8-margin-left: auto
+8-margin-right: auto
+8-s natural areas has recently fostered more ecological restoration projects within wetlands and along 6 kilometres of streams. <p style="text-align: justify
+9-ArbNet Accredited: Level IV
+9-BGCI Member: Yes
+9-Fax: (630) 719-2434
+9-Institution Code: MOR
+9-International Agenda Registration: Yes
+9-Primary Email: trees@mortonarb.org
+9-Telephone: (630) 968-0074
+9-URL: www.mortonarb.org

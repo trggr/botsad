@@ -1,10 +1,19 @@
-ID:	2314
-Name:	N‚ot Kdomim Biblical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Israel - Ben Shemen  ;Garden Information;  Institution Code: BSHEM; International Agenda Registration: No; BGCI Member: No;  Main Address:; N‚ot Kdomim Biblical Garden; Ben Shemen; Israel; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	31.8028
-Longitude:	35.0024
+0-ID: 2314
+1-Name: N‚ot Kdomim Biblical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BSHEM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         N‚ot Kdomim Biblical Garden;                         Ben Shemen;        Israel;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 31.8028
+2-Longitude: 35.0024
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2314">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2314">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2314">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2314">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2314">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BSHEM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

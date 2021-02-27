@@ -1,11 +1,19 @@
-ID:	235
-Name:	Sukhumi Botanical Garden 
-Curator's Name:	
-Director's Name:	Prof. G. G. Aiba
-Info:	  Georgia - Sukhumi  ;Garden Information;  Institution Code: SUCH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sukhumi Botanical Garden; Georgian Academy of Sciences, Chavchavadze Street 20, 384933 SUKHUMI, Abkhazia, Georgia; Sukhumi; Georgia; ;  Telephone: 2 57 81; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	43.0073
-Longitude:	40.9891
-Special Collections:	Rosa, Iris, Chrysanthemum, Gladiolus, Gerbera, Magnolia, Cupressus, Acer, Ilex, Eucalyptus, Pinus, aquatic plants, flora of Abkhaza region, tropical and succulent plants
+0-ID: 235
+1-Name: Sukhumi Botanical Garden 
+2-Date founded: 
+2-Info:              Institution Code: SUCH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sukhumi Botanical Garden;         Georgian Academy of Sciences,  Chavchavadze Street 20,  384933 SUKHUMI,  Abkhazia,  Georgia;                Sukhumi;        Georgia;        ;                 Telephone: 2 57 81;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.0073
+2-Longitude: 40.9891
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=235">Please click here if you can update us</a>
+4-Special Collections: Rosa, Iris, Chrysanthemum, Gladiolus, Gerbera, Magnolia, Cupressus, Acer, Ilex, Eucalyptus, Pinus, aquatic plants, flora of Abkhaza region, tropical and succulent plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=235">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=235">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=235">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SUCH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 2 57 81
+9-URL: 

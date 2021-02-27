@@ -1,13 +1,21 @@
-ID:	1001
-Name:	Wahiawa Botanical Garden 
-Curator's Name:	
-Director's Name:	Winifred Singeo, Director of Honolulu Botanical Gardens
-Info:	  United States of America - Hawaii - Wahiawa  ;Garden Information;  Institution Code: HWG; International Agenda Registration: No; BGCI Member: Yes; About the Wahiawa Botanical Garden One of five botanic gardens located on the island of Oahu that are part of the Honolulu Botanical Gardens System.;  Main Address:; Wahiawa Botanical Garden; 1396 California Avenue; Wahiawa; Hawaii 96786 United States of America; ;  Telephone: (808) 522-7060; Fax: ; URL: <a target="_blank" href="http://www.co.honolulu.hi.us/parks/hbg/wbg.htm">www.co.honolulu.hi.us/parks/hbg/wbg.htm; Primary Email: hbg@honolulu.gov ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1957
-Institution Type:	Botanic Garden
-Latitude:	21.5022960
-Longitude:	-158.0180660
-Total Area:	11 Hectares
-Open to public:	Yes
+0-ID: 1001
+1-Name: Wahiawa Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1957
+2-Info:              Institution Code: HWG;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Wahiawa Botanical Garden        One of five botanic gardens located on the island of Oahu that are part of the Honolulu Botanical Gardens System.;                        Main Address:;         Wahiawa Botanical Garden;         1396 California Avenue;                Wahiawa;        Hawaii 96786 United States of America;        ;                 Telephone: (808) 522-7060;         Fax: ;         URL: www.co.honolulu.hi.us/parks/hbg/wbg.htm;         Primary Email: hbg@honolulu.gov       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.5022960
+2-Longitude: -158.0180660
+2-Total Area: 11 Hectares
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1001">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1001">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1001">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1001">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: HWG
+9-International Agenda Registration: No
+9-Primary Email: hbg@honolulu.gov
+9-Telephone: (808) 522-7060
+9-URL: www.co.honolulu.hi.us/parks/hbg/wbg.htm

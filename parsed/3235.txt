@@ -1,10 +1,19 @@
-ID:	3235
-Name:	Centre National des Semences Forestieres 
-Curator's Name:	
-Director's Name:	
-Info:	  Burkina Faso - Ougadougou  ;Garden Information;  Institution Code: OUGAF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Centre National des Semences Forestieres; 01 BP 2682 Ouagadougou Kassodo Burkina Faso; Ougadougou; Burkina Faso; ;  Telephone: ; Fax: (22) 358013/356111; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	12.3569
-Longitude:	-1.5351
+0-ID: 3235
+1-Name: Centre National des Semences Forestieres 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: OUGAF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Centre National des Semences Forestieres;         01 BP 2682 Ouagadougou Kassodo Burkina Faso;                Ougadougou;        Burkina Faso;        ;                 Telephone: ;         Fax: (22) 358013/356111;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 12.3569
+2-Longitude: -1.5351
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3235">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3235">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3235">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3235">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3235">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (22) 358013/356111
+9-Institution Code: OUGAF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

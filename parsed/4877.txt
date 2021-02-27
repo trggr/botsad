@@ -1,14 +1,21 @@
-ID:	4877
-Name:	Hwanghaksan Arboretum 
-Curator's Name:	Soo-Jung Kim
-Director's Name:	Ki-Soo Lee
-Info:	  South Korea - Gyeonggi-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hwanghaksan Arboretum; San 14-1, Maereung-ri, Yeoju-eup, Yeoju-gun; Gyeonggi-do 469-704 South Korea; ;  Telephone: 031-887-2741; Fax: 031-887-2742; URL: <a target="_blank" href="http://www.yj21.net/kor/culture/tour/mountain.jsp?cid=155">http://www.yj21.net/kor/culture/tour/mountain.jsp?cid=155; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.27792
-Local Address:	여주군 여주읍 매릉리 산 14-1
-Locality:	Information
-Longitude:	127.64855
-Total Area:	27 Hectares
-Cultivation Taxa Num:	1100
+0-ID: 4877
+1-Name: Hwanghaksan Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hwanghaksan Arboretum;         San 14-1, Maereung-ri, Yeoju-eup, Yeoju-gun;                        Gyeonggi-do 469-704 South Korea;        ;                 Telephone: 031-887-2741;         Fax: 031-887-2742;         URL: http://www.yj21.net/kor/culture/tour/mountain.jsp?cid=155;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.27792
+2-Local Address: 여주군 여주읍 매릉리 산 14-1
+2-Locality: Information
+2-Longitude: 127.64855
+2-Total Area: 27 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4877">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 1100
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4877">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4877">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4877">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 031-887-2742
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 031-887-2741

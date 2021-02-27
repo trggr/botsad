@@ -1,12 +1,21 @@
-ID:	1256
-Name:	Xishuangbanna Tropical Medicinal Garden (Yunnan) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Yunnan - Jinghong  ;Garden Information;  Institution Code: JINGH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Xishuangbanna Tropical Medicinal Garden (Yunnan); No. 33, Hongshi West Road, Jinghong, Yunnan, 666100, China; Jinghong; Yunnan China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	22.2083
-Local Address:	中国云南省景洪市西路33号，邮编 666100
-Locality:	Information
-Longitude:	100.9375
+0-ID: 1256
+1-Name: Xishuangbanna Tropical Medicinal Garden (Yunnan) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: JINGH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Xishuangbanna Tropical Medicinal Garden (Yunnan);         No. 33, Hongshi West Road, Jinghong, Yunnan, 666100, China;                Jinghong;        Yunnan China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.2083
+2-Local Address: 中国云南省景洪市西路33号，邮编 666100
+2-Locality: Information
+2-Longitude: 100.9375
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1256">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1256">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1256">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1256">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1256">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: JINGH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

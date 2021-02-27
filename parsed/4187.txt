@@ -1,9 +1,18 @@
-ID:	4187
-Name:	Jardín Botánico Naguanagua y Herbario de Carabobo 
-Curator's Name:	
-Director's Name:	
-Info:	  Venezuela - Carabobo - Carabobo  ;Garden Information;  Institution Code: CARAB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Naguanagua y Herbario de Carabobo; Universidad de Carabobo; Apartado Postal es 5143 Valencia; Carabobo; Carabobo Venezuela; ;  Telephone: 58 241 8687378; Fax: 58 241 8687378; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	10.2124
-Longitude:	-67.9304
+0-ID: 4187
+1-Name: Jardín Botánico Naguanagua y Herbario de Carabobo 
+2-Info:              Institution Code: CARAB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Naguanagua y Herbario de Carabobo;         Universidad de Carabobo;        Apartado Postal es 5143 Valencia;        Carabobo;        Carabobo Venezuela;        ;                 Telephone: 58 241 8687378;         Fax: 58 241 8687378;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 10.2124
+2-Longitude: -67.9304
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4187">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4187">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4187">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4187">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4187">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 58 241 8687378
+9-Institution Code: CARAB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 58 241 8687378
+9-URL: 

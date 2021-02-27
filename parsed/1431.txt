@@ -1,11 +1,19 @@
-ID:	1431
-Name:	Jardin Botanico Sancti Spiritus 
-Curator's Name:	
-Director's Name:	
-Info:	  Cuba - Sancti Spiritus  ;Garden Information;  Institution Code: SSPIR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Sancti Spiritus; Apartado (52), Zona Postal 2, Sancti Spiritus, CP 60200, Cuba; Sancti Spiritus; Cuba; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1996
-Institution Type:	Botanic Garden
-Latitude:	22.0000
-Longitude:	-79.2500
-Special Collections:	Native plants of the Sancti Spiritus region. Palms (eg Copernicia), ornamentals, medicinal plants, gallery forest plants, economic plants, fruit trees.
+0-ID: 1431
+1-Name: Jardin Botanico Sancti Spiritus 
+2-Date founded: 1996
+2-Info:              Institution Code: SSPIR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico Sancti Spiritus;         Apartado (52), Zona Postal 2,  Sancti Spiritus, CP 60200,  Cuba;                Sancti Spiritus;        Cuba;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.0000
+2-Longitude: -79.2500
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1431">Please click here if you can update us</a>
+4-Special Collections: Native plants of the Sancti Spiritus region. Palms (eg Copernicia), ornamentals, medicinal plants, gallery forest plants, economic plants, fruit trees.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1431">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1431">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1431">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SSPIR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

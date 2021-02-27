@@ -1,11 +1,19 @@
-ID:	2393
-Name:	Emu Creek Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Strathfieldsaye  ;Garden Information;  Institution Code: EMUC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Emu Creek Arboretum; PO Box 117, STRATHFIELDSAYE, VIC 3551, Australia; Strathfieldsaye; Australia; ;  Telephone: 61 (0)3 5439 6359; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	-36.86755
-Longitude:	144.34983
-Special Collections:	100 % of collection is Australian flora.
+0-ID: 2393
+1-Name: Emu Creek Arboretum 
+2-Date founded: 1976
+2-Info:              Institution Code: EMUC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Emu Creek Arboretum;         PO Box 117,  STRATHFIELDSAYE,  VIC 3551,  Australia;                Strathfieldsaye;        Australia;        ;                 Telephone: 61 (0)3 5439 6359;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -36.86755
+2-Longitude: 144.34983
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2393">Please click here if you can update us</a>
+4-Special Collections: 100 % of collection is Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2393">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2393">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2393">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: EMUC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)3 5439 6359
+9-URL: 

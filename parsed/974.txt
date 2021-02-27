@@ -1,11 +1,20 @@
-ID:	974
-Name:	Botanic Gardens of Experimental Forestry 
-Curator's Name:	
-Director's Name:	Z.G.Ekaterinicheva
-Info:	  Russian Federation - Novosibirsk  ;Garden Information;  Institution Code: NOVF; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanic Gardens of Experimental Forestry; st: Zukovskogo, 630082 NOVOSIBIRSK, Russian Federation; Novosibirsk; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1953
-Institution Type:	Botanic Garden
-Latitude:	55.0392
-Longitude:	82.9278
-Special Collections:	Populus, Betula, Salix, Larix and other tree species
+0-ID: 974
+1-Name: Botanic Gardens of Experimental Forestry 
+2-Date founded: 1953
+2-Info:              Institution Code: NOVF;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Botanic Gardens of Experimental Forestry;         st: Zukovskogo,  630082 NOVOSIBIRSK,  Russian Federation;                Novosibirsk;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.0392
+2-Longitude: 82.9278
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=974">Please click here if you can update us</a>
+4-Special Collections: Populus, Betula, Salix, Larix and other tree species
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=974">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=974">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=974">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NOVF
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 
+9-st: Zukovskogo,  630082 NOVOSIBIRSK,  Russian Federation

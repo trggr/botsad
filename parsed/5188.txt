@@ -1,9 +1,18 @@
-ID:	5188
-Name:	Summit Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Florida - Miami  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Summit Gardens; PTY 23007, 2250 NW 114th Ave. UNIT 1P; Miami; Florida United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	25.7939483
-Longitude:	-80.3827444
+0-ID: 5188
+1-Name: Summit Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Summit Gardens;         PTY 23007, 2250 NW 114th Ave. UNIT 1P;                Miami;        Florida United States of America;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.7939483
+2-Longitude: -80.3827444
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5188">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5188">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5188">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5188">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5188">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

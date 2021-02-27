@@ -1,11 +1,19 @@
-ID:	331
-Name:	Departamento de Silvicultura, Arboretum Rinconada 
-Curator's Name:	
-Director's Name:	Prof. Rodolfo Gajardo
-Info:	  Chile - Santiago  ;Garden Information;  Institution Code: EIF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Departamento de Silvicultura, Arboretum Rinconada; Facultad de Ciencias Forestales, Casilla 9206, SANTIAGO, Chile.; Santiago; Chile; ;  Telephone: 5587042; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1956
-Institution Type:	Botanic Garden
-Latitude:	-33.4253
-Longitude:	-70.5664
-Special Collections:	Trees and shrubs of arid lands
+0-ID: 331
+1-Name: Departamento de Silvicultura, Arboretum Rinconada 
+2-Date founded: 1956
+2-Info:              Institution Code: EIF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Departamento de Silvicultura,  Arboretum Rinconada;         Facultad de Ciencias Forestales,  Casilla 9206,  SANTIAGO,  Chile.;                Santiago;        Chile;        ;                 Telephone: 5587042;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -33.4253
+2-Longitude: -70.5664
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=331">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs of arid lands
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=331">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=331">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=331">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: EIF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 5587042
+9-URL: 

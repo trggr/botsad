@@ -1,11 +1,19 @@
-ID:	3352
-Name:	Migombani Botanical Garden 
-Curator's Name:	John Ndege
-Director's Name:	John Ndege
-Info:	  Tanzania - Zanzibar  ;Garden Information;  Institution Code: SAZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Migombani Botanical Garden; c/o Sustainable Advancement of Zanzibar (SAZ)P.O. Box 4204ZANZIBARTanzania; Zanzibar; Tanzania; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-6.0974
-Longitude:	39.3822
-Special Collections:	A small but historic collection of native and exotic trees.
+0-ID: 3352
+1-Name: Migombani Botanical Garden 
+2-Date founded: 
+2-Info:              Institution Code: SAZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Migombani Botanical Garden;         c/o Sustainable Advancement of Zanzibar (SAZ)P.O. Box 4204ZANZIBARTanzania;                Zanzibar;        Tanzania;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -6.0974
+2-Longitude: 39.3822
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3352">Please click here if you can update us</a>
+4-Special Collections: A small but historic collection of native and exotic trees.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3352">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3352">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3352">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SAZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

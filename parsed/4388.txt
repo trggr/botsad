@@ -1,12 +1,20 @@
-ID:	4388
-Name:	Gallery in the Garden 
-Curator's Name:	Jin-ho Lim
-Director's Name:	Jin-ho Lim
-Info:	  South Korea - Choongcheongnam-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gallery in the Garden; 459-1 Maehyun-ri, Gwangchun-eup; Hongsung-gun; Choongcheongnam-do 350-904 South Korea; ;  Telephone: 041-641-1477; Fax: 041-641-1476; URL: <a target="_blank" href="http://www.gallerygarden.co.kr">http://www.gallerygarden.co.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	36.51891
-Local Address:	홍성군 광천읍 매현리 459-1
-Locality:	Information
-Longitude:	126.62859
+0-ID: 4388
+1-Name: Gallery in the Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gallery in the Garden;         459-1 Maehyun-ri, Gwangchun-eup;        Hongsung-gun;                Choongcheongnam-do 350-904 South Korea;        ;                 Telephone: 041-641-1477;         Fax: 041-641-1476;         URL: http://www.gallerygarden.co.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.51891
+2-Local Address: 홍성군 광천읍 매현리 459-1
+2-Locality: Information
+2-Longitude: 126.62859
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4388">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4388">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4388">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4388">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4388">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 041-641-1476
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 041-641-1477

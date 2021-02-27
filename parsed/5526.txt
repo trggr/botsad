@@ -1,74 +1,85 @@
-ID:	5526
-Name:	King Abdullah International Gardens (KAIG) 
-Curator's Name:	
-Director's Name:	
-Info:	  Saudi Arabia - Riyadh  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the King Abdullah International Gardens (KAIG) King Abdullah International Gardens is a major new Botanical Garden scheme that is being developed on the outskirts of the capital city of Riyadh in central Saudi Arabia. The scheme is proposed to occupy a site of 220 hectares (480 acres) and will form a cornerstone of the Green Riyadh strategy which is itself an element of the Kingdom’s 2030 Vision, whose objectives include significant improvements to the health and well being of citizens. ; ; The KAIG masterplan presents an opportunity for visitors to enjoy all of the educational and leisure advantages of a botanical garden whilst also offering a truly unique experience in the form of the central Paleobotanic collections, a sequence of climate-controlled gardens on a scale previously unseen, to explore and explain all of the pre-existing ecotopes that were once capable of existing on this precise place, from the primitive mosses of the Devonian period some 400 million years ago to the explosion of the age of flowering plants during the Cretaceous and Cenozoic periods and the more recent Pliocene. Each of the great paleobotanic eras is represented in a sequence of great interior gardens, protected from the harsh summer heat and the winter frosts that occur from time to time in the region. Visitors can experience the history of the evolution of plants on a journey through the gardens. This sequence is brought together in a 24 acre Crescent building that occupies the heart of the site, culminating with the Garden of Choices, a glimpse into the future where the relevance of plants and botany is explored in scientific terms to help visitors to better understand the context of the Climate Emergency that now threatens the stability of the planet; ; In this way, KAIG aims to contribute to the scientific debate and to serve as an educational device whilst also providing an exciting and fulfilling leisure resource that is much needed in a growing city. The broader attractions of; the scheme include water gardens, walled gardens, watchtowers, art installations, picnic sites and walkways that are segregated from traffic and parking areas. Electric buggies will be available to visitors and a clear signing, lighting and information systems provided within the broader Native planting proposals that will frame the site. ; ; The KAIG Initiative will join a network of botanical gardens and scientific institutions that are increasingly important in conveying the value of the natural world to mankind at this critical time. The scheme will serve as a unique educational device, a centre of knowledge and a platform for a better understanding of our world.; ; ; Summary of key facts:; • Client: Municipality of Riyadh; • Designer: Situ Plan Ltd (formerly BWI) and Buro Happold Consulting Engineers; • Contributors: Eden Project and Natural History Museum; • Location: South-western perimeter of Riyadh, Capital of Saudi Arabia; • Site area: 220 hectares; • Theme: Native Botanical Garden including central Paleobotanic collections within the Crescent building; • The Crescent building comprises a 100,000 m2 complex including the following:; - Visitor Reception, retail and Food & Beverage facilities; - An Auditorium, VIP Reception facility and conference halls; - Administrative offices, educational space and related functions; - 1 large Friday mosque and 2 smaller mosques; - A Family Garden incorporating retail units and play equipment; - The Paleobotanic science gardens, displaying collections from the Devonian, Carboniferous, Jurassic, Cretaceous, Cenozoic and Pliocene periods; - The Forest Garden, a large scale representation of tropical Rainforest; - The Garden of Choices, a garden displaying relevant scientific initiatives following botanical themes relating to the climate change response; - The Wadi Garden (enclosed by the crescent building), a garden celebrating the botany of the region; • Further gardens throughout the site including the following, generally presented as walled gardens with an educational theme:; - The Water Gardens (a celebration iof the relevance of water to the region, coupled with a play experience); - The Discovery Garden (a garden dedicated to evolution in the animal world); - The Butterfly Garden (a combination of external Native and internal Exotic butterfly exhibits); - The Maze Garden (a garden of exploration and discovery); - The Physic Garden (a shaded garden displaying plants related to medicine); • Public transport provision through a new Metro station to connect to the broader transport network; • An on-site electrically powered Land Train and electric buggy service for visitors; • Parking for 5000 vehicles including bus and coach drop-off points; • A site Nursery complex of 14,000 m2 including acclimatisation for specimen material, service and storage facilities and a visitor reception area; • A site Administration complex to include all site-wide management and maintenance requirements; • A Sewage Treatment/Reverse Osmosis plant to recycle grey water for irrigation purposes; • Extensive walkways, picnic and seating areas throughout the site; • A Wadi edge walk including watchtowers overlooking the broader wadi setting to the south of the site; • Project timescale: Currently under construction and due for completion in September 2022 with a view to opening to the public in 2023; • Project budget: $500 million;  Main Address:; King Abdullah International Gardens (KAIG); Jeddah Road; Riyadh; Saudi Arabia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="https://www.kaig.net/">https://www.kaig.net/; Primary Email: nick.sweet@situplan.com ; 
-Plant Records Officer's Name:	
-Altitude:	865.00 Metres
-Date founded:	2023
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	24.536535
-Local Address:	Jeddah Road
-Locality:	Information
-Longitude:	46.459969
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	N/A
-Total Area:	220 Hectares
-Total area of glasshouses:	85000 Metres
-Total area of shadehouses:	25000 Metres
-Arboretum:	Yes
-Arboretum Size:	40
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	3000000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	No
-Cultivation Taxa Num:	1350
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	The centrepiece of the scheme is the Crescent biome building, containing the central Paleobotanic collections, a sequence of climate-controlled gardens on a scale previously unseen, to explore and explain all of the pre-existing ecotopes that were once capable of existing on this precise place, from the primitive mosses of the Devonian period some 400 million years ago to the explosion of the age of flowering plants during the Cretaceous and Cenozoic periods and the more recent Pliocene. Each of the great paleobotanic eras is represented in a sequence of great interior gardens, protected from the harsh summer heat and the winter frosts that occur from time to time in the region. Visitors can experience the history of the evolution of plants on a journey through the gardens. This sequence is brought together in a 24 acre Crescent building that occupies the heart of the site, culminating with the Garden of Choices, a glimpse into the future where the relevance of plants and botany is explored in scientific terms to help visitors to better understand the context of the Climate Emergency that now threatens the stability of the planet
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5526
+1-Name: King Abdullah International Gardens (KAIG) 
+2-Altitude: 865.00 Metres
+2-Date founded: 2023
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the King Abdullah International Gardens (KAIG)        King Abdullah International Gardens is a major new Botanical Garden scheme that is being developed on the outskirts of the capital city of Riyadh in central Saudi Arabia. The scheme is proposed to occupy a site of 220 hectares (480 acres) and will form a cornerstone of the Green Riyadh strategy which is itself an element of the Kingdom’s 2030 Vision, whose objectives include significant improvements to the health and well being of citizens. ;  ;  The KAIG masterplan presents an opportunity for visitors to enjoy all of the educational and leisure advantages of a botanical garden whilst also offering a truly unique experience in the form of the central Paleobotanic collections, a sequence of climate-controlled gardens on a scale previously unseen, to explore and explain all of the pre-existing ecotopes that were once capable of existing on this precise place, from the primitive mosses of the Devonian period some 400 million years ago to the explosion of the age of flowering plants during the Cretaceous and Cenozoic periods and the more recent Pliocene. Each of the great paleobotanic eras is represented in a sequence of great interior gardens, protected from the harsh summer heat and the winter frosts that occur from time to time in the region. Visitors can experience the history of the evolution of plants on a journey through the gardens. This sequence is brought together in a 24 acre Crescent building that occupies the heart of the site, culminating with the Garden of Choices, a glimpse into the future where the relevance of plants and botany is explored in scientific terms to help visitors to better understand the context of the Climate Emergency that now threatens the stability of the planet;  ;  In this way, KAIG aims to contribute to the scientific debate and to serve as an educational device whilst also providing an exciting and fulfilling leisure resource that is much needed in a growing city. The broader attractions of;  the scheme include water gardens, walled gardens, watchtowers, art installations, picnic sites and walkways that are segregated from traffic and parking areas. Electric buggies will be available to visitors and a clear signing, lighting and information systems provided within the broader Native planting proposals that will frame the site. ;  ;  The KAIG Initiative will join a network of botanical gardens and scientific institutions that are increasingly important in conveying the value of the natural world to mankind at this critical time. The scheme will serve as a unique educational device, a centre of knowledge and a platform for a better understanding of our world.;  ;  ;  Summary of key facts:;  • Client: Municipality of Riyadh;  • Designer: Situ Plan Ltd (formerly BWI) and Buro Happold Consulting Engineers;  • Contributors: Eden Project and Natural History Museum;  • Location: South-western perimeter of Riyadh, Capital of Saudi Arabia;  • Site area: 220 hectares;  • Theme: Native Botanical Garden including central Paleobotanic collections within the Crescent building;  • The Crescent building comprises a 100,000 m2 complex including the following:;  - Visitor Reception, retail and Food & Beverage facilities;  - An Auditorium, VIP Reception facility and conference halls;  - Administrative offices, educational space and related functions;  - 1 large Friday mosque and 2 smaller mosques;  - A Family Garden incorporating retail units and play equipment;  - The Paleobotanic science gardens, displaying collections from the Devonian, Carboniferous, Jurassic, Cretaceous, Cenozoic and Pliocene periods;  - The Forest Garden, a large scale representation of tropical Rainforest;  - The Garden of Choices, a garden displaying relevant scientific initiatives following botanical themes relating to the climate change response;  - The Wadi Garden (enclosed by the crescent building), a garden celebrating the botany of the region;  • Further gardens throughout the site including the following, generally presented as walled gardens with an educational theme:;  - The Water Gardens (a celebration iof the relevance of water to the region, coupled with a play experience);  - The Discovery Garden (a garden dedicated to evolution in the animal world);  - The Butterfly Garden (a combination of external Native and internal Exotic butterfly exhibits);  - The Maze Garden (a garden of exploration and discovery);  - The Physic Garden (a shaded garden displaying plants related to medicine);  • Public transport provision through a new Metro station to connect to the broader transport network;  • An on-site electrically powered Land Train and electric buggy service for visitors;  • Parking for 5000 vehicles including bus and coach drop-off points;  • A site Nursery complex of 14,000 m2 including acclimatisation for specimen material, service and storage facilities and a visitor reception area;  • A site Administration complex to include all site-wide management and maintenance requirements;  • A Sewage Treatment/Reverse Osmosis plant to recycle grey water for irrigation purposes;  • Extensive walkways, picnic and seating areas throughout the site;  • A Wadi edge walk including watchtowers overlooking the broader wadi setting to the south of the site;  • Project timescale: Currently under construction and due for completion in September 2022 with a view to opening to the public in 2023;  • Project budget: $500 million;                        Main Address:;         King Abdullah International Gardens (KAIG);         Jeddah Road;                Riyadh;        Saudi Arabia;        ;                 Telephone: ;         Fax: ;         URL: https://www.kaig.net/;         Primary Email: nick.sweet@situplan.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 24.536535
+2-Local Address: Jeddah Road
+2-Locality: Information
+2-Longitude: 46.459969
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: N/A
+2-Total Area: 220 Hectares
+2-Total area of glasshouses: 85000 Metres
+2-Total area of shadehouses: 25000 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 40
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 3000000
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: No
+4-Cultivation Taxa Num: 1350
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+4-Special Collections: The centrepiece of the scheme is the Crescent biome building, containing the central Paleobotanic collections, a sequence of climate-controlled gardens on a scale previously unseen, to explore and explain all of the pre-existing ecotopes that were once capable of existing on this precise place, from the primitive mosses of the Devonian period some 400 million years ago to the explosion of the age of flowering plants during the Cretaceous and Cenozoic periods and the more recent Pliocene. Each of the great paleobotanic eras is represented in a sequence of great interior gardens, protected from the harsh summer heat and the winter frosts that occur from time to time in the region. Visitors can experience the history of the evolution of plants on a journey through the gardens. This sequence is brought together in a 24 acre Crescent building that occupies the heart of the site, culminating with the Garden of Choices, a glimpse into the future where the relevance of plants and botany is explored in scientific terms to help visitors to better understand the context of the Climate Emergency that now threatens the stability of the planet
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: No
+6-Sustainability: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: nick.sweet@situplan.com
+9-Telephone: 
+9-• Client: Municipality of Riyadh
+9-• Contributors: Eden Project and Natural History Museum
+9-• Designer: Situ Plan Ltd (formerly BWI) and Buro Happold Consulting Engineers
+9-• Location: South-western perimeter of Riyadh, Capital of Saudi Arabia
+9-• Project budget: $500 million
+9-• Project timescale: Currently under construction and due for completion in September 2022 with a view to opening to the public in 2023
+9-• Site area: 220 hectares
+9-• Theme: Native Botanical Garden including central Paleobotanic collections within the Crescent building

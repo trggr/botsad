@@ -1,10 +1,19 @@
-ID:	3189
-Name:	Crown Zellerbach Arboretum and Museum 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Canada - British Columbia - Ladysmith  ;Garden Information;  Institution Code: ZELL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Crown Zellerbach Arboretum and Museum; Ladysmith; British Columbia VOR 2EO Canada; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.zelmeroz.com/timber/resource/cz_comox.pdf">www.zelmeroz.com/timber/resource/cz_comox.pdf; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	48.9904834
-Longitude:	-123.8210343
+0-ID: 3189
+1-Name: Crown Zellerbach Arboretum and Museum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ZELL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Crown Zellerbach Arboretum and Museum;                         Ladysmith;        British Columbia VOR 2EO Canada;        ;                 Telephone: ;         Fax: ;         URL: www.zelmeroz.com/timber/resource/cz_comox.pdf;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.9904834
+2-Longitude: -123.8210343
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3189">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3189">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3189">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3189">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3189">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ZELL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.zelmeroz.com/timber/resource/cz_comox.pdf

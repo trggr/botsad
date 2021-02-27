@@ -1,11 +1,18 @@
-ID:	4757
-Name:	Lady Bird Johnson Wildflower Center - seed bank 
-Curator's Name:	Michael Eason, MSB Project Coordinator
-Director's Name:	Flo Oxley, Director of Plant Conservation and Education
-Info:	  United States of America - Texas - Austin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lady Bird Johnson Wildflower Center - seed bank; 4801 La Crosse Avenue; Austin; Texas 78739 United States of America; ;  Telephone: (512) 232-0100; Fax: (512) 232-0156; URL: <a target="_blank" href="http://www.wildflower.org/msb/">http://www.wildflower.org/msb/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	30.1863910
-Longitude:	-97.8742180
-Seed Bank:	Yes
+0-ID: 4757
+1-Name: Lady Bird Johnson Wildflower Center - seed bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Lady Bird Johnson Wildflower Center - seed bank;         4801 La Crosse Avenue;                Austin;        Texas 78739 United States of America;        ;                 Telephone: (512) 232-0100;         Fax: (512) 232-0156;         URL: http://www.wildflower.org/msb/;         Primary Email:        ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 30.1863910
+2-Longitude: -97.8742180
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4757">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4757">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4757">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4757">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (512) 232-0156
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (512) 232-0100

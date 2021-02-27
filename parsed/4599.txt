@@ -1,9 +1,18 @@
-ID:	4599
-Name:	Dumbarton Oaks 
-Curator's Name:	
-Director's Name:	Gail Griffin, Director of Gardens and Grounds
-Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dumbarton Oaks; 1703 32nd Street, NW; Washington; District of Columbia 20007 United States of America; ;  Telephone: (202) 339-6453; Fax: ; URL: <a target="_blank" href="http://www.doaks.org">www.doaks.org; Primary Email: Landscape@doaks.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.9146439
-Longitude:	-77.0642100
+0-ID: 4599
+1-Name: Dumbarton Oaks 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dumbarton Oaks;         1703 32nd Street, NW;                Washington;        District of Columbia 20007 United States of America;        ;                 Telephone: (202) 339-6453;         Fax: ;         URL: www.doaks.org;         Primary Email: Landscape@doaks.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.9146439
+2-Longitude: -77.0642100
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4599">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4599">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4599">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4599">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4599">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Landscape@doaks.org
+9-Telephone: (202) 339-6453
+9-URL: www.doaks.org

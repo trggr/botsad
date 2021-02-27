@@ -1,20 +1,26 @@
-ID:	4887
-Name:	Huay Kaew Arboretum 
-Fax:	
-Info:	  Thailand - Chiang Mai - Chiang Mai  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Telephone:	+66 823849778
-Curator's Name:	
-Director's Name:	Mr. Aphantree Chuechom, Head of Garden
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1953
-Institution Type:	Botanic Garden
-Latitude:	18.810006
-Longitude:	98.950122
-Total Area:	10 Hectares
-Arboretum:	Yes
-Arboretum Size:	10
-Herbarium:	Yes
-Open to public:	Yes
-Special Collections:	Species in Huai Kaew Arboretum-grown plants, mainly grown by a Forestry Class 1946-47.
+0-ID: 4887
+1-Name: Huay Kaew Arboretum 
+2-Curator's Name: 
+2-Director's Name: Mr. Aphantree Chuechom, Head of Garden
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4887/Huay Kaew Arb.jpg" alt="" />         </div>        </div>                                    Main Address:;         Huay Kaew Arboretum;         Muang;                Chiang Mai;        Chiang Mai 50000 Thailand;        ;                 Telephone: +66 823849778;         Fax: ;         URL: http://web3.dnp.go.th/botany/gardetail.aspx?garden=0050;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1953
+3-Institution Type: Botanic Garden
+3-Latitude: 18.810006
+3-Longitude: 98.950122
+3-Total Area: 10 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 10
+4-Herbarium: Yes
+4-Open to public: Yes
+5-Special Collections: Species in Huai Kaew Arboretum-grown plants, mainly grown by a Forestry Class 1946-47.
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4887">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4887">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=4887">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +66 823849778

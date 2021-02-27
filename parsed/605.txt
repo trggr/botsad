@@ -1,42 +1,42 @@
-ID:	605
-Name:	Entebbe Botanic Gardens 
-Administration Staff Number:	3
-Curator's Name:	John Mulumba-Wasswa
-Director's Name:	Dr.Ambrose Agona
-Educational Staff Number:	1
-Horticultural Staff Number:	3
-Info:	  Uganda - Entebbe  ;Garden Information;  Institution Code: KAW; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Entebbe Botanic Gardens; National Agricultural Research Organization, P.O. Box 40, ENTEBBE, Uganda.; National Agricultural Research Laboratories; Entebbe; 256 Uganda; ;  Telephone: +256414320638; Fax: 256 41 321070; URL: <a target="_blank" href="http://www.narl.go.ug/">http://www.narl.go.ug/; Primary Email: ddgr@infocom.co.ug ; 
-Plant Records Officer's Name:	Komukama Susan
-Research Staff Number:	7
-Altitude:	0.00 Metres
-Date founded:	1898
-Institution Type:	Botanic Garden
-Latitude:	0.0869
-Local Address:	P.O.Box 40
-Locality:	Information
-Longitude:	32.4692
-Natural Vegetation Area:	Yes
-Total Area:	40 Hectares
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	A general collection of tropical plants, including trees, shrubs and herbaceous perennials. Notable collections include Acanthospermum hispidum, Ageratum conyzoides, Bidens pilosa, Chenopodium murale, Commelina benghalensis, Conyza bonariensis, Crassoceph
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Data Management Systems and Information Technology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Horticulture:	Yes
-Molecular Genetics:	Yes
+0-ID: 605
+1-Name: Entebbe Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1898
+2-Info:              Institution Code: KAW;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Entebbe Botanic Gardens;         National Agricultural Research Organization, P.O. Box 40, ENTEBBE, Uganda.;        National Agricultural Research Laboratories;        Entebbe;        256 Uganda;        ;                 Telephone: +256414320638;         Fax: 256 41 321070;         URL: http://www.narl.go.ug/;         Primary Email: ddgr@infocom.co.ug       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 0.0869
+2-Local Address: P.O.Box 40
+2-Locality: Information
+2-Longitude: 32.4692
+2-Natural Vegetation Area: Yes
+2-Total Area: 40 Hectares
+3-Arboretum: Yes
+3-Computer Plant Record System: Yes
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: A general collection of tropical plants, including trees, shrubs and herbaceous perennials. Notable collections include Acanthospermum hispidum, Ageratum conyzoides, Bidens pilosa, Chenopodium murale, Commelina benghalensis, Conyza bonariensis, Crassoceph
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Data Management Systems and Information Technology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Horticulture: Yes
+6-Molecular Genetics: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=605">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 256 41 321070
+9-Institution Code: KAW
+9-International Agenda Registration: Yes
+9-Primary Email: ddgr@infocom.co.ug
+9-Telephone: +256414320638

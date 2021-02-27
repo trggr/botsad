@@ -1,10 +1,19 @@
-ID:	3205
-Name:	Fogolar Furlan Gardens 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Canada - Ontario - Windsor  ;Garden Information;  Institution Code: FOGO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fogolar Furlan Gardens; Fogolar Furlan Club; 1800 North Service Road; Windsor; Ontario N8W 1Y3 Canada; ;  Telephone: (519) 966-2230; Fax: (519) 966-2237; URL: <a target="_blank" href="http://www.fogolar.com">www.fogolar.com; Primary Email: info@fogolar.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	42.28471
-Longitude:	-82.98847
+0-ID: 3205
+1-Name: Fogolar Furlan Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: FOGO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Fogolar Furlan Gardens;         Fogolar Furlan Club;        1800 North Service Road;        Windsor;        Ontario N8W 1Y3 Canada;        ;                 Telephone: (519) 966-2230;         Fax: (519) 966-2237;         URL: www.fogolar.com;         Primary Email: info@fogolar.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.28471
+2-Longitude: -82.98847
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3205">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3205">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3205">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3205">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3205">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (519) 966-2237
+9-Institution Code: FOGO
+9-International Agenda Registration: No
+9-Primary Email: info@fogolar.com
+9-Telephone: (519) 966-2230
+9-URL: www.fogolar.com

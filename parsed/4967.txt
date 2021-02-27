@@ -1,12 +1,19 @@
-ID:	4967
-Name:	Botanical Garden - Tabigat balalary 
-Curator's Name:	
-Director's Name:	Ravil Hasanovich Ryazapov
-Info:	  Kazakhstan - The North Kazakh Region - Petropavlovsk  ;Garden Information;  Institution Code: BG5729; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden - Tabigat balalary; t. Petropavlovsk; 41, U. Medvedev Street; Petropavlovsk; The North Kazakh Region Kazakhstan; ;  Telephone: +7 (715 2) 3365 12; Fax: ; URL: <a target="_blank" href="http://www.botanical-garden.kz">http://www.botanical-garden.kz; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1912
-Institution Type:	Botanic Garden
-Latitude:	54.87964
-Longitude:	69.17278
-Cultivation Taxa Num:	3000
+0-ID: 4967
+1-Name: Botanical Garden - Tabigat balalary 
+2-Altitude: 0.00 Metres
+2-Date founded: 1912
+2-Info:              Institution Code: BG5729;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden - Tabigat balalary;         t. Petropavlovsk;        41, U. Medvedev Street;        Petropavlovsk;        The North Kazakh Region Kazakhstan;        ;                 Telephone: +7 (715 2) 3365 12;         Fax: ;         URL: http://www.botanical-garden.kz;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 54.87964
+2-Longitude: 69.17278
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4967">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 3000
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4967">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4967">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4967">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BG5729
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +7 (715 2) 3365 12

@@ -1,60 +1,64 @@
-ID:	4131
-Name:	Mackay Regional Botanic Gardens 
-Fax:	07 - 4952 7333
-Info:	  Australia - QLD - Mackay  ;Garden Information;  Institution Code: MACKAY; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	botanic@mackay.qld.gov.au
-Telephone:	07 - 4952 7300
-Administration Staff Number:	1
-Curator's Name:	Vacant
-Director's Name:	-
-Educational Staff Number:	1
-Horticultural Staff Number:	6
-Plant Records Officer's Name:	Ross Demuth
-Research Staff Number:	
-Altitude:	12.00 Metres
-Annual Rainfall:	1850 mm
-Date founded:	2003
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-21.157346
-Local Address:	Lagoon Street
-Locality:	Information
-Longitude:	149.158928
-Natural Vegetation Area:	Yes
-Total Area:	51 Hectares
-Total area of shadehouses:	50 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	30000
-Number of Volunteers:	75
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Accession Number:	1
-Cultivation Taxa Num:	900
-Invasive Species Monitoring:	Yes
-Special Collections:	Focussing on the Flora of the Central Queensland Coast bioregion, collections site specific from Mackay's natural environment including Eungella National Park, Crediton - Finch Hatton Gorge section, Reliance Creek National Park, Pioneer Peaks National Park, surrounding environs and vegetation ecotone representations including Sclerophyll, Monsoon, Riverine etc. Trial plantings include bioregional species for hedging and as shade trees, species typical of creeklines in the adjacent Brigalow Belt bioregion for use in Mackay due to climate change, warm season turf grasses.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Urban Environments:	Yes
-Courses for General Public:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4131
+1-Name: Mackay Regional Botanic Gardens 
+2-Administration Staff Number: 1
+2-Curator's Name: Vacant
+2-Director's Name: -
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 6
+2-Info:              Institution Code: MACKAY;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/4131/1 for web.jpg" alt="Mackay Regional Botanic Gardens Visitor's Centre and the Lagoons" />         Mackay Regional Botanic Gardens Visitor's Centre and the Lagoons</div>        </div>                           About the Mackay Regional Botanic Gardens        The Mackay Regional Botanic Gardens is one of Australia's youngest, opening to the public in May 2003. Covering 51.4 ha, the Gardens are being developed over a stage by stage 20 year development plan.;  The botanic gardens focus on flora from the Central Queensland Coast bioregion of Queensland for amenity horticulture, research and conservation whilst revegetating the Lagoons Reserve site.;                        Main Address:;         Mackay Regional Botanic Gardens;         PO Box 41;        Lagoon Street, West Mackay;        Mackay;        QLD 4740 Australia;        ;                 Telephone: 07 - 4952 7300;         Fax: 07 - 4952 7333;         URL: www.mackayregionalbotanicgardens.com.au;         Primary Email: botanic@mackay.qld.gov.au       ;              
+2-Plant Records Officer's Name: Ross Demuth
+2-Research Staff Number: 
+3-Altitude: 12.00 Metres
+3-Annual Rainfall: 1850 mm
+3-Date founded: 2003
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -21.157346
+3-Local Address: Lagoon Street
+3-Locality: Information
+3-Longitude: 149.158928
+3-Natural Vegetation Area: Yes
+3-Total Area: 51 Hectares
+3-Total area of shadehouses: 50 Metres
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 30000
+4-Number of Volunteers: 75
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Accession Number: 1
+5-Cultivation Taxa Num: 900
+5-Invasive Species Monitoring: Yes
+5-Special Collections: Focussing on the Flora of the Central Queensland Coast bioregion, collections site specific from Mackay's natural environment including Eungella National Park, Crediton - Finch Hatton Gorge section, Reliance Creek National Park, Pioneer Peaks National Park, surrounding environs and vegetation ecotone representations including Sclerophyll, Monsoon, Riverine etc. Trial plantings include bioregional species for hedging and as shade trees, species typical of creeklines in the adjacent Brigalow Belt bioregion for use in Mackay due to climate change, warm season turf grasses.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: No
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 07 - 4952 7333
+9-Institution Code: MACKAY
+9-International Agenda Registration: No
+9-Primary Email: botanic@mackay.qld.gov.au
+9-Telephone: 07 - 4952 7300
+9-URL: www.mackayregionalbotanicgardens.com.au

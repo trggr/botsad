@@ -1,12 +1,20 @@
-ID:	2263
-Name:	Jardín Botánico Oro Verde 
-Curator's Name:	
-Director's Name:	The Director
-Info:	  Argentina - Entre Ríos - Oro Verde  ;Garden Information;  Institution Code: ERA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico Oro Verde; Facultad de Ciencias Agropecuarias; Ruta provincial 11, km 10,5, CC 24; Oro Verde; Entre Ríos 3101 Argentina; ;  Telephone: 54 (0) 343-4975083 Ext. 150; Fax: 54 (0) 343-4975096; URL: <a target="_blank" href="http://www.overde.com.ar/jardin/">www.overde.com.ar/jardin/; Primary Email: jardinbotanico@fca.uner.edu.ar ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1995
-Institution Type:	Botanic Garden
-Latitude:	-31.8293
-Longitude:	-60.5243
-Special Collections:	Undergoing development, but includes native trees, shrubs and herbaceous plants, medicinal plants, plants used for botanical teaching and research.
+0-ID: 2263
+1-Name: Jardín Botánico Oro Verde 
+2-Altitude: 0.00 Metres
+2-Date founded: 1995
+2-Info:              Institution Code: ERA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Oro Verde;         Facultad de Ciencias Agropecuarias;        Ruta provincial 11,  km 10,5, CC 24;        Oro Verde;        Entre Ríos 3101 Argentina;        ;                 Telephone: 54 (0) 343-4975083 Ext. 150;         Fax: 54 (0) 343-4975096;         URL: www.overde.com.ar/jardin/;         Primary Email: jardinbotanico@fca.uner.edu.ar       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -31.8293
+2-Longitude: -60.5243
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2263">Please click here if you can update us</a>
+4-Special Collections: Undergoing development, but includes native trees, shrubs and herbaceous plants, medicinal plants, plants used for botanical teaching and research.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2263">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2263">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2263">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 54 (0) 343-4975096
+9-Institution Code: ERA
+9-International Agenda Registration: Yes
+9-Primary Email: jardinbotanico@fca.uner.edu.ar
+9-Telephone: 54 (0) 343-4975083 Ext. 150
+9-URL: www.overde.com.ar/jardin/

@@ -1,7 +1,16 @@
-ID:	5450
-Name:	Hazel Crest Openlands 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Illinois - Hazel Crest  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; Hazel Crest Openlands; 3000 W. 170th Place; Hazel Crest; Illinois 60429 United States of America; ;  Telephone: 708-220-8506; Fax: ; URL: <a target="_blank" href="http://www.villageofhazelcrest.com">http://www.villageofhazelcrest.com; Primary Email: kjpersons@ameritech.net ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5450
+1-Name: Hazel Crest Openlands 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         Hazel Crest Openlands;         3000 W. 170th Place;                Hazel Crest;        Illinois 60429 United States of America;        ;                 Telephone: 708-220-8506;         Fax: ;         URL: http://www.villageofhazelcrest.com;         Primary Email: kjpersons@ameritech.net       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5450">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5450">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5450">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5450">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5450">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: kjpersons@ameritech.net
+9-Telephone: 708-220-8506

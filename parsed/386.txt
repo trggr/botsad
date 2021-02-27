@@ -1,12 +1,25 @@
-ID:	386
-Name:	Jardin des Plantes 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Lille  ;Garden Information;  Institution Code: LILLE; International Agenda Registration: No; BGCI Member: No; About the Jardin des Plantes Location: LILLE; Founded: 1948 ; Garden Name: Jardin des Plantes; Address: 39 Bd. Vauban, F-59000 LILLE.; Status: Municipal; Herbarium: Yes Approx. no. of herbarium specimens: 10,000; Ex situ Collections:; Orchids, succulents, aroids, bromeliads.; No. of;  Main Address:; Jardin des Plantes; 39 Bd. Vauban, F-59000 LILLE, France.; Lille; France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1948
-Institution Type:	Botanic Garden
-Latitude:	50.6198
-Longitude:	3.0540
-Special Collections:	Orchids, succulents, aroids, bromeliads.
+0-ID: 386
+1-Name: Jardin des Plantes 
+2-Altitude: 0.00 Metres
+2-Date founded: 1948
+2-Info:              Institution Code: LILLE;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin des Plantes        Location: LILLE;  Founded: 1948 ;  Garden Name: Jardin des Plantes;  Address: 39 Bd. Vauban, F-59000 LILLE.;  Status: Municipal;  Herbarium: Yes Approx. no. of herbarium specimens: 10,000;  Ex situ Collections:;  Orchids, succulents, aroids, bromeliads.;  No. of;                        Main Address:;         Jardin des Plantes;         39 Bd. Vauban, F-59000 LILLE,  France.;                Lille;        France;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.6198
+2-Longitude: 3.0540
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=386">Please click here if you can update us</a>
+4-Special Collections: Orchids, succulents, aroids, bromeliads.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=386">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=386">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=386">Please click here if you can update us</a>
+9-About the Jardin des Plantes        Location: LILLE
+9-Address: 39 Bd. Vauban, F-59000 LILLE.
+9-BGCI Member: No
+9-Fax: 
+9-Founded: 1948
+9-Garden Name: Jardin des Plantes
+9-Institution Code: LILLE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: Municipal
+9-Telephone: 
+9-URL: 

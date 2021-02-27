@@ -1,24 +1,29 @@
-ID:	1326
-Name:	Juliana Alpine Botanical Garden 
-Fax:	386 12 410 953
-Info:	  Slovenia - Trenta  ;Garden Information;  Institution Code: ALPJU; International Agenda Registration: No; BGCI Member: No; 
-Mailing:	Slovenian Museum of Natural History, Presernova 20, Ljubljana 1000
-Primary Email:	uprava@pms-lj.si
-Telephone:	386 12 410 940
-Curator's Name:	Klemen Završnik, Curator
-Director's Name:	Špela Pungaršek, Biologist
-Plant Records Officer's Name:	Marija Završnik, Gardener
-Altitude:	800.00 Metres
-Date founded:	1926
-Institution Type:	Botanic Garden
-Latitude:	46.3812
-Local Address:	Trenta
-Locality:	Information
-Longitude:	13.7517
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Seed Bank:	Yes
-Accession Number:	600
-Education Programme:	Yes
-Guided Tours:	Yes
+0-ID: 1326
+1-Name: Juliana Alpine Botanical Garden 
+2-Curator's Name: Klemen Završnik, Curator
+2-Director's Name: Špela Pungaršek, Biologist
+2-Info:              Institution Code: ALPJU;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/1326/Juliana location.jpg" alt="" />         </div>        </div>                           About the Juliana Alpine Botanical Garden        The rich and varied plant life of the Slovene mountains has evoked the interest of natural scientists from the very first pioneering days of research into Slovene flora. In the southwestern Apennine Alps, Alpine, Central European, Illyrian, and submediterranean floras intermingle, and one can even find some eumediterranean plants, while Eastern European or Pannonian plants are almost completely absent.;  ;  It was the founding of the Juliana Botanical Garden in 1926, approximately the time as the Alpine Conservation Park in the Valley of the Triglav Lakes was being planned, that led to the first alpine botanical garden located in a natural environment in Slovenia.;                        Main Address:;         Juliana Alpine Botanical Garden;         Trenta valley;        Mailing: Slovenian Museum of Natural History, Presernova 20, Ljubljana 1000;        Trenta;        5232 Slovenia;        ;                 Telephone: 386 12 410 940;         Fax: 386 12 410 953;         URL: http://www.pms-lj.si/juliana/en/;         Primary Email: uprava@pms-lj.si       ;              
+2-Plant Records Officer's Name: Marija Završnik, Gardener
+3-Altitude: 800.00 Metres
+3-Date founded: 1926
+3-Institution Type: Botanic Garden
+3-Latitude: 46.3812
+3-Local Address: Trenta
+3-Locality: Information
+3-Longitude: 13.7517
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Seed Bank: Yes
+5-Accession Number: 600
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1326">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1326">Please click here if you can update us</a>
+8-Education Programme: Yes
+8-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: 386 12 410 953
+9-Institution Code: ALPJU
+9-International Agenda Registration: No
+9-Mailing: Slovenian Museum of Natural History, Presernova 20, Ljubljana 1000
+9-Primary Email: uprava@pms-lj.si
+9-Telephone: 386 12 410 940

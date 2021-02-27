@@ -1,68 +1,68 @@
-ID:	892
-Name:	Queen Sirikit Botanic Garden 
-Administration Staff Number:	20
-Curator's Name:	Dr. Wattana Tanming
-Director's Name:	Ronnarong Sengiam
-Educational Staff Number:	2
-Horticultural Staff Number:	10
-Info:	  Thailand - Chiang Mai province - Chiang Mai  ;Garden Information;  Institution Code: QSBG; International Agenda Registration: Yes; BGCI Member: No; About the Queen Sirikit Botanic Garden Queen Sirikit Botanic Garden (QSBG) is located in the mountainous area of Mae Rim District, Chiang Mai Province. The garden was established in 1992 by the Botanical Garden Organization (BGO) under the administration of the Ministry of Natural Resources and Environment. In April 1994, The BGO received a great honor from Her Majesty Queen Sirikit to grant her royal permission for Her Majesty's name to be the title of the garden as " Queen Sirikit Botanic Garden" (QSBG).; ; QSBG has 4 satellite gardens, The Rayong Botanic Garden, Rayong Province; Ban Romklao Botanic Garden, Phitsanulok Province; Khon Kaen Botanic Garden, Khon Kaen Province and Phra Mae Ya Botanic Garden, Sukhothai Province.; ; The main objectives of the Garden are to serve as a center of Thai flora for botanical study and research, to render services concerning biodiversity and environmental conservation, as well as to provide an aesthetic place for the general public.; ; The Queen Sirikit Botanic Garden Herbarium (QBG) contains over 100,000 specimens and 53 type specimens, mainly from Thailand and also from other neighboring countries through donating, giving and exchanging, including 113,939 specimens of plant, 6,131 specimens of Bryophytes (Lichens), 44 specimens of algae and 1 specimen of mushroom. (13,717 taxa of plant specimens, 9,097 taxa of vascular plants in Thailand, 962 taxa of Orchidaceae, 330 taxa of Zingiberaceae and 763 taxa of Rare & Threatened plant of Thailand; data at 31 Mar 2020). ; ; Our Plant collection containing 3,225 taxa, this includes 814 taxa of Orchidaceae, 230 taxa of Zingiberaceae, 384 taxa of Rare & Threatened plant of Thailand, and 311 taxa of Medicinal Plant (data at 31 Mar 2020).;  Main Address:; Queen Sirikit Botanic Garden; Box 7; Mae Rim; Chiang Mai; Chiang Mai province 50180 Thailand; ;  Telephone: 66 53 841 234; Fax: ; URL: <a target="_blank" href="http://www.qsbg.org">www.qsbg.org; Primary Email: document@qsbg.mail.go.th ; 
-Plant Records Officer's Name:	Dr. Wattana Tanming
-Research Staff Number:	16
-Altitude:	800.00 Metres
-Annual Rainfall:	1300 mm
-Date founded:	1992
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	18.6949
-Local Address:	100 หมู่ 9 ตำบลแม่แรม
-Locality:	Information
-Longitude:	98.7897
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Rayong Botanic Garden Ban Romklao Botanic Garden Khon Kaen Botanic Garden Phra Mae Ya Botanic Garden
-Total Area:	1000 Hectares
-Total area of glasshouses:	900 Metres
-Total area of shadehouses:	16000 Metres
-Arboretum:	Yes
-Arboretum Size:	55
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	450000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	12000
-Cultivation Taxa Num:	3325
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Special collections of Ericaceae, Magnolia, limestone plants, medicinal plants, Gesneriads, Hoya, gingers, native gymnosperms, Musaceae, ferns, orchids, bromeliads and bamboo
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Plant Breeding:	Yes
-Systematics and Taxonomy:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 892
+1-Name: Queen Sirikit Botanic Garden 
+2-Altitude: 800.00 Metres
+2-Annual Rainfall: 1300 mm
+2-Date founded: 1992
+2-Info:              Institution Code: QSBG;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Queen Sirikit Botanic Garden        Queen Sirikit Botanic Garden (QSBG) is located in the mountainous area of Mae Rim District, Chiang Mai Province. The garden was established in 1992 by the Botanical Garden Organization (BGO) under the administration of the Ministry of Natural Resources and Environment. In April 1994, The BGO received a great honor from Her Majesty Queen Sirikit to grant her royal permission for Her Majesty's name to be the title of the garden as " Queen Sirikit Botanic Garden"  (QSBG).;  ;   QSBG has 4 satellite gardens, The Rayong Botanic Garden, Rayong Province; Ban Romklao Botanic Garden, Phitsanulok Province; Khon Kaen Botanic Garden, Khon Kaen Province and Phra Mae Ya Botanic Garden, Sukhothai Province.;   ;          The main objectives of the Garden are to serve as a center of Thai flora for botanical study and research, to render services concerning biodiversity and environmental conservation, as well as to provide an aesthetic place for the general public.;          ;          The Queen Sirikit Botanic Garden Herbarium (QBG) contains over 100,000 specimens and 53 type specimens, mainly from Thailand and also from other neighboring countries through donating, giving and exchanging, including 113,939 specimens of plant, 6,131 specimens of Bryophytes (Lichens), 44 specimens of algae and 1 specimen of mushroom. (13,717 taxa of plant specimens, 9,097 taxa of vascular plants in Thailand, 962 taxa of Orchidaceae, 330 taxa of Zingiberaceae and 763 taxa of Rare & Threatened plant of Thailand; data at 31 Mar 2020). ;  ;          Our Plant collection containing 3,225 taxa, this includes 814 taxa of Orchidaceae, 230 taxa of Zingiberaceae, 384 taxa of Rare & Threatened plant of Thailand, and 311 taxa of Medicinal Plant (data at 31 Mar 2020).;                        Main Address:;         Queen Sirikit Botanic Garden;         Box 7;        Mae Rim;        Chiang Mai;        Chiang Mai province 50180 Thailand;        ;                 Telephone: 66 53 841 234;         Fax: ;         URL: www.qsbg.org;         Primary Email: document@qsbg.mail.go.th       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 18.6949
+2-Local Address: 100 หมู่ 9 ตำบลแม่แรม
+2-Locality: Information
+2-Longitude: 98.7897
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Rayong Botanic Garden Ban Romklao Botanic Garden Khon Kaen Botanic Garden Phra Mae Ya Botanic Garden
+2-Total Area: 1000 Hectares
+2-Total area of glasshouses: 900 Metres
+2-Total area of shadehouses: 16000 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 55
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 450000
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 12000
+4-Cultivation Taxa Num: 3325
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Special collections of Ericaceae, Magnolia, limestone plants, medicinal plants, Gesneriads, Hoya, gingers, native gymnosperms, Musaceae, ferns, orchids, bromeliads and bamboo
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Biotechnology: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Plant Breeding: Yes
+6-Systematics and Taxonomy: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: QSBG
+9-International Agenda Registration: Yes
+9-Primary Email: document@qsbg.mail.go.th
+9-Telephone: 66 53 841 234
+9-URL: www.qsbg.org

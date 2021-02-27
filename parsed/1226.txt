@@ -1,11 +1,19 @@
-ID:	1226
-Name:	Botanical Garden for Native Flora of Israel 
-Curator's Name:	Prof. Clara Chen
-Director's Name:	Meyer Chaouat
-Info:	  Israel - Jerusalem  ;Garden Information;  Institution Code: HUJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden for Native Flora of Israel; Hebrew University, Mount Scopus, JERUSALEM, 91905 Israel.; Jerusalem; Israel; ;  Telephone: 972 0288 2596; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1933
-Institution Type:	Botanic Garden
-Latitude:	31.7857
-Longitude:	35.2007
-Special Collections:	Geophytes of Israel, Bible flora, origin of cultivated plants.
+0-ID: 1226
+1-Name: Botanical Garden for Native Flora of Israel 
+2-Date founded: 1933
+2-Info:              Institution Code: HUJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden for Native Flora of Israel;         Hebrew University,  Mount Scopus,  JERUSALEM, 91905  Israel.;                Jerusalem;        Israel;        ;                 Telephone: 972 0288 2596;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.7857
+2-Longitude: 35.2007
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1226">Please click here if you can update us</a>
+4-Special Collections: Geophytes of Israel, Bible flora, origin of cultivated plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1226">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1226">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1226">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HUJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 972 0288 2596
+9-URL: 

@@ -1,10 +1,19 @@
-ID:	912
-Name:	Jardin Botanico Octavio Velarde 
-Curator's Name:	Graciela Vilcapoma
-Director's Name:	Carlos A. Alvarez
-Info:	  Peru - Lima - Lima  ;Garden Information;  Institution Code: MOL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Octavio Velarde; Universidad Nacional Agraria; Dpto. de Biologia Casilla Postal 456, Av. La Universidad S/N La Molina; Lima; Lima Peru; ;  Telephone: 51 14 3495647 ext 273; Fax: 51 14 3496015; URL: <a target="_blank" href="http://">; Primary Email: acalderon@lamolina.edu.pe ; 
-Plant Records Officer's Name:	
-Date founded:	1933
-Institution Type:	Botanic Garden
-Latitude:	-12.0930
-Longitude:	-77.0464
+0-ID: 912
+1-Name: Jardin Botanico Octavio Velarde 
+2-Date founded: 1933
+2-Info:              Institution Code: MOL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico Octavio Velarde;         Universidad Nacional Agraria;        Dpto. de Biologia Casilla Postal 456, Av. La Universidad S/N La Molina;        Lima;        Lima Peru;        ;                 Telephone: 51 14 3495647 ext 273;         Fax: 51 14 3496015;         URL: ;         Primary Email: acalderon@lamolina.edu.pe       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -12.0930
+2-Longitude: -77.0464
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=912">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=912">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=912">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=912">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=912">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 51 14 3496015
+9-Institution Code: MOL
+9-International Agenda Registration: No
+9-Primary Email: acalderon@lamolina.edu.pe
+9-Telephone: 51 14 3495647 ext 273
+9-URL: 

@@ -1,11 +1,19 @@
-ID:	2230
-Name:	Warrnambool Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Warrnambool  ;Garden Information;  Institution Code: WARRN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Warrnambool Botanic Gardens; PO Box 198, WARRNAMBOOL, VIC 3280, Australia; Warrnambool; Australia; ;  Telephone: 61 (0)3 5564 7800; Fax: 61 (0)3 5562 6670; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-38.37394
-Longitude:	142.48454
-Special Collections:	50 % of collection is Australian flora.
+0-ID: 2230
+1-Name: Warrnambool Botanic Gardens 
+2-Date founded: 
+2-Info:              Institution Code: WARRN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Warrnambool Botanic Gardens;         PO Box 198,  WARRNAMBOOL,  VIC 3280,  Australia;                Warrnambool;        Australia;        ;                 Telephone: 61 (0)3 5564 7800;         Fax: 61 (0)3 5562 6670;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -38.37394
+2-Longitude: 142.48454
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2230">Please click here if you can update us</a>
+4-Special Collections: 50 % of collection is Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2230">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2230">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2230">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5562 6670
+9-Institution Code: WARRN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)3 5564 7800
+9-URL: 

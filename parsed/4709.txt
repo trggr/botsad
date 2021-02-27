@@ -1,10 +1,18 @@
-ID:	4709
-Name:	Tulsa Zoo 
-Curator's Name:	Jay Ross, Horticulture Curator
-Director's Name:	-
-Info:	  United States of America - Oklahoma - Tulsa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tulsa Zoo; 5701 East 36th Street North; Tulsa; Oklahoma 74115 United States of America; ;  Telephone: (918) 669-6600; Fax: ; URL: <a target="_blank" href="http://www.tulsazoo.org">www.tulsazoo.org; Primary Email: info@tulsazoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	36.2061281
-Longitude:	-95.9127647
-Reintroduction Programme:	No
+0-ID: 4709
+1-Name: Tulsa Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Tulsa Zoo;         5701 East 36th Street North;                Tulsa;        Oklahoma 74115 United States of America;        ;                 Telephone: (918) 669-6600;         Fax: ;         URL: www.tulsazoo.org;         Primary Email: info@tulsazoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 36.2061281
+2-Longitude: -95.9127647
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4709">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4709">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4709">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4709">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@tulsazoo.org
+9-Telephone: (918) 669-6600
+9-URL: www.tulsazoo.org

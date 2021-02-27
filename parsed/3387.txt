@@ -1,18 +1,25 @@
-ID:	3387
-Name:	McCrory Gardens and South Dakota State Arboretum 
-Curator's Name:	Martin Maca, Professor
-Director's Name:	David Graper, Director, Professor/Department Head
-Info:	  United States of America - South Dakota - Brookings  ;Garden Information;  Institution Code: SDC; International Agenda Registration: No; BGCI Member: No; About the McCrory Gardens and South Dakota State Arboretum Beauty is its own excuse for being. However, the Gardens serve a more practical purpose. Ongoing research continues to provide new information to the scientific community and the public on the introduction, cultivation, and arrangement of native and domesticated plants. The testing and evaluation of new woody plant selections and varieties in the climate of the northern Great Plains, initiated by Dr. N.E. Hansen almost three-quarters of a century ago, remains an integral part of our research mission as demonstrated by two 1990 introductions: 'Nugget' ninebark (used for the hedge plantings in the Maze Garden) and 'Homestead' Buckeye. ; ; Research has expanded into four other areas, including the testing of new turfgrass varieties to lower inputs of fertilizer, water and maintenance, and demonstrating the effectiveness of native plant horticulture in the northern Great Plains. ; ; The Gardens also serve as an outdoor teaching laboratory for undergraduate and graduate students at SDSU. Use of the Gardens by primary and secondary school children and students from other regional colleges and universities is encouraged.;  Main Address:; McCrory Gardens and South Dakota State Arboretum; 6th Street of South Dakota State University; SDSU Foundation Box 525; Brookings; South Dakota 57007 United States of America; ;  Telephone: (605) 688-6253; Fax: ; URL: <a target="_blank" href="http://www3.sdstate.edu/Academics/CollegeOfAgricultureAndBiologicalSciences/HorticultureForestryLandscapeandParks/McCroryGardens">www3.sdstate.edu/Academics/CollegeOfAgricultureAndBiologicalSciences/HorticultureForestryLandscapeandParks/McCroryGardens; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1966
-Institution Type:	Botanic Garden
-Latitude:	44.3113570
-Longitude:	-96.7983880
-Total Area:	26 Hectares
-Arboretum:	Yes
-Arboretum Size:	18
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Ornamental plants adapted to South Dakota.
-Reintroduction Programme:	No
+0-ID: 3387
+1-Name: McCrory Gardens and South Dakota State Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1966
+2-Info:              Institution Code: SDC;             International Agenda Registration: No;        BGCI Member: No;                                                  About the McCrory Gardens and South Dakota State Arboretum        Beauty is its own excuse for being. However, the Gardens serve a more practical purpose. Ongoing research continues to provide new information to the scientific community and the public on the introduction, cultivation, and arrangement of native and domesticated plants. The testing and evaluation of new woody plant selections and varieties in the climate of the northern Great Plains, initiated by Dr. N.E. Hansen almost three-quarters of a century ago, remains an integral part of our research mission as demonstrated by two 1990 introductions: 'Nugget' ninebark (used for the hedge plantings in the Maze Garden) and 'Homestead' Buckeye. ;  ;  Research has expanded into four other areas, including the testing of new turfgrass varieties to lower inputs of fertilizer, water and maintenance, and demonstrating the effectiveness of native plant horticulture in the northern Great Plains. ;  ;  The Gardens also serve as an outdoor teaching laboratory for undergraduate and graduate students at SDSU. Use of the Gardens by primary and secondary school children and students from other regional colleges and universities is encouraged.;                        Main Address:;         McCrory Gardens and South Dakota State Arboretum;         6th Street of South Dakota State University;        SDSU Foundation Box 525;        Brookings;        South Dakota 57007 United States of America;        ;                 Telephone: (605) 688-6253;         Fax: ;         URL: www3.sdstate.edu/Academics/CollegeOfAgricultureAndBiologicalSciences/HorticultureForestryLandscapeandParks/McCroryGardens;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.3113570
+2-Longitude: -96.7983880
+2-Total Area: 26 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 18
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Ornamental plants adapted to South Dakota.
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3387">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3387">Please click here if you can update us</a>
+9-About the McCrory Gardens and South Dakota State Arboretum        Beauty is its own excuse for being. However, the Gardens serve a more practical purpose. Ongoing research continues to provide new information to the scientific community and the public on the introduction, cultivation, and arrangement of native and domesticated plants. The testing and evaluation of new woody plant selections and varieties in the climate of the northern Great Plains, initiated by Dr. N.E. Hansen almost three-quarters of a century ago, remains an integral part of our research mission as demonstrated by two 1990 introductions: 'Nugget' ninebark (used for the hedge plantings in the Maze Garden) and 'Homestead' Buckeye.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SDC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (605) 688-6253
+9-URL: www3.sdstate.edu/Academics/CollegeOfAgricultureAndBiologicalSciences/HorticultureForestryLandscapeandParks/McCroryGardens

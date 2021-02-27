@@ -1,7 +1,16 @@
-ID:	5455
-Name:	Lubbock Memorial Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Texas - Lubbock  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Lubbock Memorial Arboretum; 4111 University Avenue; P.O. Box 93446; Lubbock; Texas 79413 United States of America; ;  Telephone: 806-797-4520; Fax: ; URL: <a target="_blank" href="http://www.lubbockarboretum.org">http://www.lubbockarboretum.org; Primary Email: lubarbo@lubbockarboretum.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
+0-ID: 5455
+1-Name: Lubbock Memorial Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Lubbock Memorial Arboretum;         4111 University Avenue;        P.O. Box 93446;        Lubbock;        Texas 79413 United States of America;        ;                 Telephone: 806-797-4520;         Fax: ;         URL: http://www.lubbockarboretum.org;         Primary Email: lubarbo@lubbockarboretum.org       ;              
+2-Institution Type: Botanic Garden
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5455">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5455">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5455">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5455">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5455">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: lubarbo@lubbockarboretum.org
+9-Telephone: 806-797-4520

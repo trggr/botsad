@@ -1,9 +1,18 @@
-ID:	5315
-Name:	Botanical Research Foundation of Idaho 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Idaho - Boise  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Botanical Research Foundation of Idaho; 637 East Warm Springs Avenue; Boise; Idaho 83712 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: cdavidson@floraoftheworld.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	43.6078771
-Longitude:	-116.1914925
+0-ID: 5315
+1-Name: Botanical Research Foundation of Idaho 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Botanical Research Foundation of Idaho;         637 East Warm Springs Avenue;                Boise;        Idaho 83712 United States of America;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: cdavidson@floraoftheworld.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.6078771
+2-Longitude: -116.1914925
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5315">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5315">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5315">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5315">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5315">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cdavidson@floraoftheworld.org
+9-Telephone: 
+9-URL: 

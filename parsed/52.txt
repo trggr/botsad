@@ -1,53 +1,53 @@
-ID:	52
-Name:	The Cairns Botanic Gardens 
-Administration Staff Number:	
-Curator's Name:	David Warmington
-Director's Name:	David Warmington
-Educational Staff Number:	
-Horticultural Staff Number:	10
-Info:	  Australia - Queensland - Cairns  ;Garden Information;  Institution Code: CAIR; International Agenda Registration: Yes; BGCI Member: Yes; About the The Cairns Botanic Gardens Collection of exotic wet tropicals and regional native flora; Collections of primitive angiosperms and aboriginal food plants; Large area of naturally occuring Lowland Swamp forest. Also estuarine habitat ; Joins 300 HA of Conservation park consiting of mainly rainforest;  Main Address:; The Cairns Botanic Gardens; Cairns Regional Council, PO Box 359.; Cairns; Queensland 4870 Australia; ;  Telephone: 61 (0)7 40326650; Fax: 61 (0)7 40443852; URL: <a target="_blank" href="http://www.cairnsbotanicgardens.com.au">www.cairnsbotanicgardens.com.au; Primary Email: gardens@cairns.qld.gov.au ; 
-Plant Records Officer's Name:	David Warmington
-Research Staff Number:	
-Altitude:	20.00 Metres
-Annual Rainfall:	2000 mm
-Date founded:	1887
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-16.8989865
-Longitude:	145.7477678
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Jack Barnes Bicentennial Mangrove Boardwalk Sugarworld Gardens
-Total Area:	345 Hectares
-Arboretum:	Yes
-Arboretum Size:	10
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	290000
-Number of Volunteers:	30
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Accession Number:	5174
-Cultivation Taxa Num:	4409
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Plant Breeding:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 52
+1-Name: The Cairns Botanic Gardens 
+2-Altitude: 20.00 Metres
+2-Annual Rainfall: 2000 mm
+2-Date founded: 1887
+2-Info:              Institution Code: CAIR;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the The Cairns Botanic Gardens        Collection of exotic wet tropicals and regional native flora;  Collections of primitive angiosperms and aboriginal food plants;  Large area of naturally occuring Lowland Swamp forest. Also estuarine habitat ;  Joins 300 HA of Conservation park consiting of mainly rainforest;                        Main Address:;         The Cairns Botanic Gardens;         Cairns Regional Council, PO Box 359.;                Cairns;        Queensland 4870 Australia;        ;                 Telephone: 61 (0)7 40326650;         Fax: 61 (0)7 40443852;         URL: www.cairnsbotanicgardens.com.au;         Primary Email: gardens@cairns.qld.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: -16.8989865
+2-Longitude: 145.7477678
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Jack Barnes Bicentennial Mangrove Boardwalk Sugarworld Gardens
+2-Total Area: 345 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 10
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 290000
+3-Number of Volunteers: 30
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Accession Number: 5174
+4-Cultivation Taxa Num: 4409
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Plant Breeding: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 61 (0)7 40443852
+9-Institution Code: CAIR
+9-International Agenda Registration: Yes
+9-Primary Email: gardens@cairns.qld.gov.au
+9-Telephone: 61 (0)7 40326650
+9-URL: www.cairnsbotanicgardens.com.au

@@ -1,11 +1,25 @@
-ID:	1419
-Name:	Jardin Botanique 
-Curator's Name:	
-Director's Name:	M.le Directeur de l'Agric.et Foret
-Info:	  Guadeloupe - Basse-terre  ;Garden Information;  Institution Code: GUABT; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique Location: BASSE-TERRE; Founded: 1882 ; Garden Name: Jardin Botanique; Address: Direction de l'Agriculture et de la Foret, 97109 BASSE-TERRE; Status: State; Herbarium: No; Ex situ Collections:; 100 different species of trees - mostly exotics.; No. of taxa:;  Main Address:; Jardin Botanique; Direction de l'Agriculture et de la Foret, 97109 BASSE-TERRE, Guadeloupe.; Basse-terre; Guadeloupe; ;  Telephone: 0590 28 4302; Fax: 0590 28 5137; URL: <a target="_blank" href="http://info@jardin-botanique.com">info@jardin-botanique.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	15.9985
-Longitude:	-61.7220
-Special Collections:	Trees and shrubs (315 taxa), plants used for phytotherapy and other useful spp. (175 taxa), systematic plant collection (2,000 taxa), aromatic, perfume and spice plants (22 spp), greenhouse plants (250 spp.).
+0-ID: 1419
+1-Name: Jardin Botanique 
+2-Date founded: 
+2-Info:              Institution Code: GUABT;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique        Location: BASSE-TERRE; Founded: 1882 ; Garden Name: Jardin Botanique; Address: Direction de l'Agriculture et de la Foret, 97109 BASSE-TERRE; Status: State; Herbarium: No; Ex situ Collections:; 100 different species of trees - mostly exotics.; No. of taxa:;                        Main Address:;         Jardin Botanique;         Direction de l'Agriculture et de la Foret, 97109 BASSE-TERRE, Guadeloupe.;                Basse-terre;        Guadeloupe;        ;                 Telephone: 0590 28 4302;         Fax: 0590 28 5137;         URL: info@jardin-botanique.com;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 15.9985
+2-Longitude: -61.7220
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1419">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (315 taxa), plants used for phytotherapy and other useful spp. (175 taxa), systematic plant collection (2,000 taxa), aromatic, perfume and spice plants (22 spp), greenhouse plants (250 spp.).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1419">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1419">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1419">Please click here if you can update us</a>
+9-About the Jardin Botanique        Location: BASSE-TERRE
+9-Address: Direction de l'Agriculture et de la Foret, 97109 BASSE-TERRE
+9-BGCI Member: No
+9-Fax: 0590 28 5137
+9-Founded: 1882
+9-Garden Name: Jardin Botanique
+9-Herbarium: No
+9-Institution Code: GUABT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: State
+9-Telephone: 0590 28 4302
+9-URL: info@jardin-botanique.com

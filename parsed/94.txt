@@ -1,11 +1,18 @@
-ID:	94
-Name:	The Belorussian Agricultural Academy 
-Curator's Name:	M.S Kobyljanets
-Director's Name:	A.P. Gordeeva
-Info:	  Belarus - Gorky  ;Garden Information;  Institution Code: GRKI; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Belorussian Agricultural Academy; Botanical Garden Department of Botany Michurin str. 5 213410 GORKYMogilev RegionBelarus; Gorky; Belarus; ;  Telephone: (+3752233) 5 93 96; Fax: (+3752233) 5 93 96; URL: <a target="_blank" href="http://www.baa.by/ovuze/botanic/">http://www.baa.by/ovuze/botanic/; Primary Email: kancel@baa.by ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	53.6500
-Longitude:	28.6100
-Special Collections:	Abies, Picea, Pinus, Larix, Betula, Acer, Populus, Salix, Sorbus, Fraxinus, Quercus, Padus, Spiraea, Crataegus, Lonicera, Malus, Prunus, Syringa.
+0-ID: 94
+1-Name: The Belorussian Agricultural Academy 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: GRKI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Belorussian Agricultural Academy;         Botanical Garden Department of Botany Michurin str. 5 213410 GORKYMogilev RegionBelarus;                Gorky;        Belarus;        ;                 Telephone: (+3752233) 5 93 96;         Fax: (+3752233) 5 93 96;         URL: http://www.baa.by/ovuze/botanic/;         Primary Email: kancel@baa.by       ;              
+2-Institution Type: Other
+2-Latitude: 53.6500
+2-Longitude: 28.6100
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=94">Please click here if you can update us</a>
+4-Special Collections: Abies, Picea, Pinus, Larix, Betula, Acer, Populus, Salix, Sorbus, Fraxinus, Quercus, Padus, Spiraea, Crataegus, Lonicera, Malus, Prunus, Syringa.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=94">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=94">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=94">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (+3752233) 5 93 96
+9-Institution Code: GRKI
+9-International Agenda Registration: No
+9-Primary Email: kancel@baa.by
+9-Telephone: (+3752233) 5 93 96

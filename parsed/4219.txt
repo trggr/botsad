@@ -1,9 +1,17 @@
-ID:	4219
-Name:	Jardin Botanico Nacional 
-Curator's Name:	
-Director's Name:	
-Info:	  Guatemala - Ciudad de Guatemala  ;Garden Information;  Institution Code: GUFDN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Nacional; Fundacion Defensores de la Naturaleza; 7 Avenida 7-09 Zona 13; Ciudad de Guatemala; Guatemala; ;  Telephone: (502) 2440 8138; Fax: ; URL: <a target="_blank" href="http://www.defensores.org.gt">http://www.defensores.org.gt; Primary Email: cherold@defensores.org.gt ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	15.7834
-Longitude:	-90.2307
+0-ID: 4219
+1-Name: Jardin Botanico Nacional 
+2-Info:              Institution Code: GUFDN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico Nacional;         Fundacion Defensores de la Naturaleza;        7 Avenida 7-09 Zona 13;        Ciudad de Guatemala;        Guatemala;        ;                 Telephone: (502) 2440 8138;         Fax: ;         URL: http://www.defensores.org.gt;         Primary Email: cherold@defensores.org.gt       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 15.7834
+2-Longitude: -90.2307
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4219">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4219">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4219">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4219">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4219">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: GUFDN
+9-International Agenda Registration: No
+9-Primary Email: cherold@defensores.org.gt
+9-Telephone: (502) 2440 8138

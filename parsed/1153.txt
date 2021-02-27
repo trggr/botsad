@@ -1,52 +1,58 @@
-ID:	1153
-Name:	Toledo Botanical Garden 
-Fax:	(419) 536-5574
-Info:	  United States of America - Ohio - Toledo  ;Garden Information;  Institution Code: CRTOL; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	jonathan.milbrodt@toledogarden.org
-Telephone:	(419) 536-5566
-Administration Staff Number:	9
-Curator's Name:	
-Director's Name:	Karen Ranney Wolkins, Executive Director
-Educational Staff Number:	2
-Horticultural Staff Number:	7
-Plant Records Officer's Name:	Jonathan Milbrodt, Plant Records Curator
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1964
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	41.6688060
-Local Address:	5403 Elmer Drive
-Locality:	Information
-Longitude:	-83.6727380
-Natural Vegetation Area:	Yes
-Total Area:	24 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	120000
-Number of Volunteers:	300
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	8894
-Cultivation Taxa Num:	450
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	The Toledo Botanical Garden holds two nationally recognized plant collections
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1153
+1-Name: Toledo Botanical Garden 
+2-Administration Staff Number: 9
+2-Curator's Name: 
+2-Director's Name: Karen Ranney Wolkins, Executive Director
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 7
+2-Info:              Institution Code: CRTOL;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/1153/shade2.jpg" alt="The Shade Garden Gazebo" />         The Shade Garden Gazebo</div>        </div>                           About the Toledo Botanical Garden        A museum for plants, Toledo Botanical Garden offers visitors the opportunity to share, discover and enjoy nature's beauty. With over sixty acres of display gardens and relevant plant collections, TBG is full of beauty, tranquility and opportunities for exploration and reflection.;  ;  Toledo Botanical Garden is dedicated to enriching life through gardens, the arts and nature.;                        Main Address:;         Toledo Botanical Garden;         5403 Elmer Drive;                Toledo;        Ohio 43615 United States of America;        ;                 Telephone: (419) 536-5566;         Fax: (419) 536-5574;         URL: www.toledogarden.org;         Primary Email: jonathan.milbrodt@toledogarden.org       ;              
+2-Plant Records Officer's Name: Jonathan Milbrodt, Plant Records Curator
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1964
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 41.6688060
+3-Local Address: 5403 Elmer Drive
+3-Locality: Information
+3-Longitude: -83.6727380
+3-Natural Vegetation Area: Yes
+3-Total Area: 24 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 120000
+4-Number of Volunteers: 300
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: No
+5-Accession Number: 8894
+5-Cultivation Taxa Num: 450
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: The Toledo Botanical Garden holds two nationally recognized plant collections
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1153">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1153">Please click here if you can update us</a>
+8-Courses for General Public: Yes
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (419) 536-5574
+9-Institution Code: CRTOL
+9-International Agenda Registration: No
+9-Primary Email: jonathan.milbrodt@toledogarden.org
+9-Telephone: (419) 536-5566
+9-URL: www.toledogarden.org

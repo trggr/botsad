@@ -1,17 +1,21 @@
-ID:	5070
-Name:	Huntington Library, Art Museum and Botanical Gardens, The - Seed Bank 
-Administration Staff Number:	
-Curator's Name:	Sean Lahmeyer
-Director's Name:	-
-Educational Staff Number:	
-Horticultural Staff Number:	
-Info:	  United States of America - California - San Marino  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Huntington Library, Art Museum and Botanical Gardens, The - Seed Bank The Huntington Botanical Gardens seed bank is a cold storage repository of seed, both from the living collection and wild sources, that serves to augment the living plant collection. It targets plant groups with mostly orthodox seed storage behavior.;  Main Address:; Huntington Library, Art Museum and Botanical Gardens, The - Seed Bank; 1151 Oxford Road; San Marino; California 91108 United States of America; ;  Telephone: (626) 405-3505; Fax: (626) 405-3501; URL: <a target="_blank" href="http://www.huntington.org">www.huntington.org; Primary Email: slahmeyer@huntington.org ; 
-Plant Records Officer's Name:	Sean C Lahmeyer
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	2010
-Institution Type:	Gene/Seed Bank
-Latitude:	34.1277933
-Longitude:	-118.1094371
-Micropropagation/ Tissue Culture Facilities:	Yes
-Seed Bank:	Yes
+0-ID: 5070
+1-Name: Huntington Library, Art Museum and Botanical Gardens, The - Seed Bank 
+2-Altitude: 0.00 Metres
+2-Date founded: 2010
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Huntington Library, Art Museum and Botanical Gardens, The - Seed Bank        The Huntington Botanical Gardens seed bank is a cold storage repository of seed, both from the living collection and wild sources, that serves to augment the living plant collection.  It targets plant groups with mostly orthodox seed storage behavior.;                        Main Address:;         Huntington Library, Art Museum and Botanical Gardens, The - Seed Bank;         1151 Oxford Road;                San Marino;        California 91108 United States of America;        ;                 Telephone: (626) 405-3505;         Fax: (626) 405-3501;         URL: www.huntington.org;         Primary Email: slahmeyer@huntington.org       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 34.1277933
+2-Longitude: -118.1094371
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5070">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5070">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5070">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5070">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (626) 405-3501
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: slahmeyer@huntington.org
+9-Telephone: (626) 405-3505
+9-URL: www.huntington.org

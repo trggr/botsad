@@ -1,29 +1,34 @@
-ID:	4162
-Name:	Ogród Botaniczny "Arboretum Wirty" 
-Fax:	(0-69) 188-92-23
-Info:	  Poland - pomorskie - Kaliska  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	kaliska@gdansk.lasy.gov.pl
-Telephone:	(0-58) 84-810
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	mgr inż. Andrzej Przewłocki
-Educational Staff Number:	1
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	1875
-Institution Type:	Botanic Garden
-Latitude:	53.9281
-Longitude:	18.1838
-Total Area:	42 Hectares
-Arboretum:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	18000
-Seed Bank:	No
-Cultivation Taxa Num:	700
-Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Education:	Yes
+0-ID: 4162
+1-Name: Ogród Botaniczny "Arboretum Wirty" 
+2-Administration Staff Number: 2
+2-Curator's Name: 
+2-Director's Name: mgr inż. Andrzej Przewłocki
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/4162/Gołubieński Ogród Botaniczny.JPG" alt="" />         </div>        </div>                                    Main Address:;         Ogród Botaniczny "Arboretum Wirty";         Dendrological Garden and Nurseries Wirty, Forest District Kaliska;        ul. Długa 64;        Kaliska;        pomorskie 83-260 Poland;        ;                 Telephone: (0-58) 84-810;         Fax: (0-69) 188-92-23;         URL: www.gdansk.lasy.gov.pl/article/kaliska/;         Primary Email: kaliska@gdansk.lasy.gov.pl       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 1
+3-Altitude: 0.00 Metres
+3-Date founded: 1875
+3-Institution Type: Botanic Garden
+3-Latitude: 53.9281
+3-Longitude: 18.1838
+3-Total Area: 42 Hectares
+4-Arboretum: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 18000
+4-Seed Bank: No
+5-Cultivation Taxa Num: 700
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Education: Yes
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=4162">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (0-69) 188-92-23
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: kaliska@gdansk.lasy.gov.pl
+9-Telephone: (0-58) 84-810
+9-URL: www.gdansk.lasy.gov.pl/article/kaliska/

@@ -1,41 +1,45 @@
-ID:	785
-Name:	Vumba Botanical Garden 
-Fax:	
-Info:	  Zimbabwe - Mutare  ;Garden Information;  Institution Code: VUMB; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	mapangajohn@gmail.com
-Telephone:	00263774029712
-Administration Staff Number:	3
-Curator's Name:	john mapanga
-Director's Name:	chadenga
-Educational Staff Number:	2
-Horticultural Staff Number:	10
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1947
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-19.11996
-Local Address:	upper vumba mutare
-Locality:	Information
-Longitude:	32.77676
-Natural Vegetation Area:	Yes
-Total Area:	1801 Hectares
-Computer Plant Record System:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Special Collections:	Wide collection of temperate and subtropical species. The garden cultivates 62 species (1997) of cycad and is particularly interested in maintaining a range collection of cycads from Zimbabwe and Central Africa. This cycad collection was initiated in 1995.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Restoration Ecology:	Yes
-Courses for School Children:	Yes
-Guided Tours:	Yes
+0-ID: 785
+1-Name: Vumba Botanical Garden 
+2-Administration Staff Number: 3
+2-Curator's Name: john mapanga
+2-Director's Name: chadenga
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 10
+2-Info:              Institution Code: VUMB;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/785/IMG_20181112_124724_website.jpg" alt="" />         </div>        </div>                           About the Vumba Botanical Garden        Originally known by the name Manchester Gardens, the garden was developed by Mr and Mrs Taylor in the 1940s. Bought by the government in 1957, the name of the gardens was changed to Vumba Botanical Gardens in 1975. The garden encompasses an impressive 201 ha. Visitors can expect to see native trees, ferns and orchids, as well as an impressive collection of Cycads. Other highlights include displays of Azaleas and hydrangeas.;                        Main Address:;         Vumba Botanical Garden;         P/Bag V 7472, MUTARE, Zimbabwe.;                Mutare;        Zimbabwe;        ;                 Telephone: 00263774029712;         Fax: ;         URL: ;         Primary Email: mapangajohn@gmail.com       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1947
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -19.11996
+3-Local Address: upper vumba mutare
+3-Locality: Information
+3-Longitude: 32.77676
+3-Natural Vegetation Area: Yes
+3-Total Area: 1801 Hectares
+4-Computer Plant Record System: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-Special Collections: Wide collection of temperate and subtropical species. The garden cultivates 62 species (1997) of cycad and is particularly interested in maintaining a range collection of cycads from Zimbabwe and Central Africa. This cycad collection was initiated in 1995.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Restoration Ecology: Yes
+8-Courses for School Children: Yes
+8-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: VUMB
+9-International Agenda Registration: Yes
+9-Primary Email: mapangajohn@gmail.com
+9-Telephone: 00263774029712
+9-URL: 

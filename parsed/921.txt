@@ -1,11 +1,19 @@
-ID:	921
-Name:	Gujarat University USSC Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr.C.K.Shah
-Info:	  India - Ahmedabad  ;Garden Information;  Institution Code: AHMGU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gujarat University USSC Botanic Garden; Department of Botany, School of Sciences, Gujarat University, AHMEDABAD 380 009, Gujarat, India.; Ahmedabad; India; ;  Telephone: 442 578; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1964
-Institution Type:	Botanic Garden
-Latitude:	23.0395
-Longitude:	72.5660
-Special Collections:	Trees and shrubs, ferns, aquatics. Prepares a regular seed list.
+0-ID: 921
+1-Name: Gujarat University USSC Botanic Garden 
+2-Date founded: 1964
+2-Info:              Institution Code: AHMGU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gujarat University USSC Botanic Garden;         Department of Botany, School of Sciences,  Gujarat University,  AHMEDABAD  380 009, Gujarat,  India.;                Ahmedabad;        India;        ;                 Telephone: 442 578;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 23.0395
+2-Longitude: 72.5660
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=921">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs, ferns, aquatics. Prepares a regular seed list.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=921">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=921">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=921">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AHMGU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 442 578
+9-URL: 

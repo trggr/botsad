@@ -1,9 +1,17 @@
-ID:	5039
-Name:	Meredith College Grounds and Gardens 
-Curator's Name:	Aaron Schettler, Grounds Manager
-Director's Name:	-
-Info:	  United States of America - North Carolina - Raleigh  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Meredith College Grounds and Gardens; 3800 Hillsborough Street; Landscaping Barn; Raleigh; North Carolina 27607 United States of America; ;  Telephone: (919) 795-4476; Fax: ; URL: <a target="_blank" href="http://www.meredith.edu/on_campus_services/facilities_services/sustainability/grounds">http://www.meredith.edu/on_campus_services/facilities_services/sustainability/grounds; Primary Email: aaron@meredith.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	35.798631
-Longitude:	-78.688171
+0-ID: 5039
+1-Name: Meredith College Grounds and Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Meredith College Grounds and Gardens;         3800 Hillsborough Street;        Landscaping Barn;        Raleigh;        North Carolina 27607 United States of America;        ;                 Telephone: (919) 795-4476;         Fax: ;         URL: http://www.meredith.edu/on_campus_services/facilities_services/sustainability/grounds;         Primary Email: aaron@meredith.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.798631
+2-Longitude: -78.688171
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5039">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5039">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5039">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5039">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5039">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: aaron@meredith.edu
+9-Telephone: (919) 795-4476

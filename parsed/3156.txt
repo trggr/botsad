@@ -1,38 +1,43 @@
-ID:	3156
-Name:	Jardin Botanico Facultad de Estudios Superiores Cuautitlan UNAM 
-Curator's Name:	Madel Jimenez Romano
-Director's Name:	Abel Bonfil Campos
-Info:	  Mexico - Mexico - Cuautitlan Izcalli  ;Garden Information;  Institution Code: FES; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanico Facultad de Estudios Superiores Cuautitlan UNAM; Cuautitlan-UNAM; Km 2.5 Carr. Cuautitlan-Teoloyucan; Cuautitlan Izcalli; Mexico 54700 Mexico; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	2240.00 Metres
-Annual Rainfall:	650 mm
-Date founded:	1990
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	19.3253
-Local Address:	Km. 2.5 carr. Cuautitlán-Teoloyucan
-Locality:	Information
-Longitude:	-99.6045
-Natural Vegetation Area:	No
-Total Area:	1 Hectares
-Total area of shadehouses:	100 Metres
-Arboretum:	Yes
-Arboretum Size:	1
-Computer Plant Record System:	No
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	1000
-Number of Volunteers:	5
-Open to public:	No
-Published Plant Catalogue:	No
-Seed Bank:	No
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Pinaceae, Fagaceae, Cactaceae, Orchidaceae, medicinal plants.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
+0-ID: 3156
+1-Name: Jardin Botanico Facultad de Estudios Superiores Cuautitlan UNAM 
+2-Altitude: 2240.00 Metres
+2-Annual Rainfall: 650 mm
+2-Date founded: 1990
+2-Info:              Institution Code: FES;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico Facultad de Estudios Superiores Cuautitlan UNAM;         Cuautitlan-UNAM;        Km 2.5 Carr. Cuautitlan-Teoloyucan;        Cuautitlan Izcalli;        Mexico 54700 Mexico;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 19.3253
+2-Local Address: Km. 2.5 carr. Cuautitlán-Teoloyucan
+2-Locality: Information
+2-Longitude: -99.6045
+2-Natural Vegetation Area: No
+2-Total Area: 1 Hectares
+2-Total area of shadehouses: 100 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 1
+3-Computer Plant Record System: No
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 1000
+3-Number of Volunteers: 5
+3-Open to public: No
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Pinaceae, Fagaceae, Cactaceae, Orchidaceae, medicinal plants.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Horticulture: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3156">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FES
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,9 +1,18 @@
-ID:	5353
-Name:	Althouse Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - PA - Pottstown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Althouse Arboretum; 1794 Gilbertsville Rd.; Pottstown; PA 19464 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://althousearboretum.org/">http://althousearboretum.org/; Primary Email: ecoken11@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.290289
-Longitude:	-75.634247
+0-ID: 5353
+1-Name: Althouse Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Althouse Arboretum;         1794 Gilbertsville Rd.;                Pottstown;        PA 19464 United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://althousearboretum.org/;         Primary Email: ecoken11@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.290289
+2-Longitude: -75.634247
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5353">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5353">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5353">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5353">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5353">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ecoken11@gmail.com
+9-Telephone: 

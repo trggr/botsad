@@ -1,12 +1,20 @@
-ID:	416
-Name:	Alpengarten Pforzheim 
-Curator's Name:	M.Carl
-Director's Name:	J.Carl
-Info:	  Germany - Deutschland - Pforzheim-wurm  ;Garden Information;  Institution Code: PFALP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Alpengarten Pforzheim; Aufdem Berg 6, D-75181 PFORZHEIM-WURM, Germany.; Pforzheim-wurm; Germany - Deutschland; ;  Telephone: 07231 70590; Fax: 07231 788626; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1927
-Institution Type:	Botanic Garden
-Latitude:	48.8737
-Longitude:	8.7412
-Special Collections:	Alpine and rock plants, dwarf conifers and dwarf shrubs, Rhododendron, Azaleas
+0-ID: 416
+1-Name: Alpengarten Pforzheim 
+2-Altitude: 0.00 Metres
+2-Date founded: 1927
+2-Info:              Institution Code: PFALP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Alpengarten Pforzheim;         Aufdem Berg 6,  D-75181 PFORZHEIM-WURM,  Germany.;                Pforzheim-wurm;        Germany - Deutschland;        ;                 Telephone: 07231 70590;         Fax: 07231 788626;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.8737
+2-Longitude: 8.7412
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=416">Please click here if you can update us</a>
+4-Special Collections: Alpine and rock plants, dwarf conifers and dwarf shrubs, Rhododendron, Azaleas
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=416">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=416">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=416">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 07231 788626
+9-Institution Code: PFALP
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07231 70590
+9-URL: 

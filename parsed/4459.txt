@@ -1,11 +1,19 @@
-ID:	4459
-Name:	Bok Tower Gardens Conservation Program - Living Plants 
-Curator's Name:	Cheryl Peterson, Conservation Program Manager
-Director's Name:	David Price, President
-Info:	  United States of America - Florida - Lake Wales  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bok Tower Gardens Conservation Program - Living Plants; 1151 Tower Boulevard; Lake Wales; Florida 33853-3412 United States of America; ;  Telephone: (863) 734-1220; Fax: (813) 676-6770; URL: <a target="_blank" href="http://www.boktower.org">www.boktower.org; Primary Email: cpeterson@boktower.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	27.9175060
-Longitude:	-81.5659760
-Seed Bank:	Yes
+0-ID: 4459
+1-Name: Bok Tower Gardens Conservation Program - Living Plants 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bok Tower Gardens Conservation Program - Living Plants;         1151 Tower Boulevard;                Lake Wales;        Florida 33853-3412 United States of America;        ;                 Telephone: (863) 734-1220;         Fax: (813) 676-6770;         URL: www.boktower.org;         Primary Email: cpeterson@boktower.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 27.9175060
+2-Longitude: -81.5659760
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4459">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4459">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4459">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4459">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (813) 676-6770
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cpeterson@boktower.org
+9-Telephone: (863) 734-1220
+9-URL: www.boktower.org

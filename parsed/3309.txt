@@ -1,17 +1,21 @@
-ID:	3309
-Name:	Branklyn Garden 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Unknown
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Info:	  United Kingdom - Scotland - Perth Tayside  ;Garden Information;  Institution Code: BPT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Branklyn Garden; 116 Dundee Road; Perth Tayside; Scotland PH2 7BB United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.branklyngarden.org.uk">www.branklyngarden.org.uk; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1922
-Institution Type:	Botanic Garden
-Latitude:	56.386976
-Longitude:	-3.41965
-Total Area:	1 Hectares
-Special Collections:	7,000 plants, including Rhododendron, Meconopsis and rock garden plants.
+0-ID: 3309
+1-Name: Branklyn Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1922
+2-Info:              Institution Code: BPT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Branklyn Garden;         116 Dundee Road;                Perth Tayside;        Scotland PH2 7BB United Kingdom;        ;                 Telephone: ;         Fax: ;         URL: www.branklyngarden.org.uk;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 56.386976
+2-Longitude: -3.41965
+2-Total Area: 1 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3309">Please click here if you can update us</a>
+4-Special Collections: 7,000 plants, including Rhododendron, Meconopsis and rock garden plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3309">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3309">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3309">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BPT
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.branklyngarden.org.uk

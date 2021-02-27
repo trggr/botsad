@@ -1,10 +1,18 @@
-ID:	4323
-Name:	Niigata Prefectural Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Niigata City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Niigata Prefectural Botanical Garden; 186 Kanazu; Niigata City; 950-0845 Japan; ;  Telephone: 0250-24-6465; Fax: ; URL: <a target="_blank" href="http://botanical.greenery-niigata.or.jp/">http://botanical.greenery-niigata.or.jp/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.7614065
-Longitude:	139.112163
+0-ID: 4323
+1-Name: Niigata Prefectural Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Niigata Prefectural Botanical Garden;         186 Kanazu;                Niigata City;        950-0845 Japan;        ;                 Telephone: 0250-24-6465;         Fax: ;         URL: http://botanical.greenery-niigata.or.jp/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.7614065
+2-Longitude: 139.112163
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4323">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4323">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4323">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4323">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4323">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0250-24-6465

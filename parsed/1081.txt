@@ -1,11 +1,20 @@
-ID:	1081
-Name:	Wakayama Experimental Station of Medicinal Plants 
-Curator's Name:	
-Director's Name:	Dr. Mamoru Noguchi
-Info:	  Japan - Hidakagun  ;Garden Information;  Institution Code: TSUK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wakayama Experimental Station of Medicinal Plants; 1208 Habu, Kawabe-Cho, HIDAKAGUN, Wakayama-Ken, 649-13 Japan; Hidakagun; Japan; ;  Telephone: 81 0738 22 0497; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1939
-Institution Type:	Other
-Latitude:	34.0726
-Longitude:	134.5498
+0-ID: 1081
+1-Name: Wakayama Experimental Station of Medicinal Plants 
+2-Altitude: 0.00 Metres
+2-Date founded: 1939
+2-Info:              Institution Code: TSUK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wakayama Experimental Station of Medicinal Plants;         1208 Habu, Kawabe-Cho, HIDAKAGUN, Wakayama-Ken, 649-13  Japan;                Hidakagun;        Japan;        ;                 Telephone: 81 0738 22 0497;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 34.0726
+2-Longitude: 134.5498
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1081">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1081">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1081">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1081">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1081">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TSUK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 81 0738 22 0497
+9-URL: 

@@ -1,11 +1,18 @@
-ID:	4978
-Name:	Australian PlantBank - Mount Annan Botanic Garden 
-Curator's Name:	Wayne Cherry
-Director's Name:	Cathy Offord, Senior Research Scientist
-Info:	  Australia - New South Wales - Mount Annan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Australian PlantBank - Mount Annan Botanic Garden; Mount Annan Drive; Mount Annan; New South Wales 2567 Australia; ;  Telephone: +61-2-4634 7913; Fax: +61-2-4648 2465; URL: <a target="_blank" href="https://www.australianbotanicgarden.com.au/Science-Conservation/Australian-PlantBank">https://www.australianbotanicgarden.com.au/Science-Conservation/Australian-PlantBank; Primary Email: cathy.offord@rbgsyd.nsw.gov.au ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	-34.06262
-Longitude:	150.76717
-Seed Bank:	Yes
+0-ID: 4978
+1-Name: Australian PlantBank - Mount Annan Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Australian PlantBank - Mount Annan Botanic Garden;         Mount Annan Drive;                Mount Annan;        New South Wales 2567 Australia;        ;                 Telephone: +61-2-4634 7913;         Fax: +61-2-4648 2465;         URL: https://www.australianbotanicgarden.com.au/Science-Conservation/Australian-PlantBank;         Primary Email: cathy.offord@rbgsyd.nsw.gov.au       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: -34.06262
+2-Longitude: 150.76717
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4978">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4978">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4978">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4978">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +61-2-4648 2465
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cathy.offord@rbgsyd.nsw.gov.au
+9-Telephone: +61-2-4634 7913

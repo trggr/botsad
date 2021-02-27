@@ -1,26 +1,28 @@
-ID:	3429
-Name:	Dendrologial Park of the M.V. Frunze Sanatorium 
-Administration Staff Number:	1
-Curator's Name:	Marina Bladimirovna Novikova
-Director's Name:	Mihail Dmitrievich Hetagurov
-Educational Staff Number:	
-Horticultural Staff Number:	10
-Info:	  Russian Federation - Sochi  ;Garden Information;  Institution Code: SOCHD; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Dendrologial Park of the M.V. Frunze Sanatorium; 87 Kurortniy Avenue, 354019 SOCHI,Krasnodar Region Russian Federation; Sochi; Russian Federation; ;  Telephone: 8(095)234-37-03, 8(8622)97-53-15; Fax: 8(8622)97-58-93; URL: <a target="_blank" href="http://www.frunze.net">www.frunze.net; Primary Email: info@frunze.net; sanfrunze@mail.ru; sochimarim@yandex.ru ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	1500 mm
-Date founded:	1996
-Institution Type:	Botanic Garden
-Latitude:	43.6147
-Longitude:	39.7152
-Total Area:	3 Hectares
-Total area of glasshouses:	6 Metres
-Arboretum:	Yes
-Arboretum Size:	2
-Number of Visitors:	300
-Published Plant Catalogue:	Yes
-Cultivation Taxa Num:	600
-Special Collections:	Caucasian endemic flora species
-Floristics:	Yes
-Horticulture:	Yes
+0-ID: 3429
+1-Name: Dendrologial Park of the M.V. Frunze Sanatorium 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 1500 mm
+2-Date founded: 1996
+2-Info:              Institution Code: SOCHD;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Dendrologial Park of the M.V. Frunze Sanatorium;         87 Kurortniy Avenue, 354019 SOCHI,Krasnodar Region Russian Federation;                Sochi;        Russian Federation;        ;                 Telephone: 8(095)234-37-03, 8(8622)97-53-15;         Fax: 8(8622)97-58-93;         URL: www.frunze.net;         Primary Email: info@frunze.net; sanfrunze@mail.ru; sochimarim@yandex.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.6147
+2-Longitude: 39.7152
+2-Total Area: 3 Hectares
+2-Total area of glasshouses: 6 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 2
+3-Number of Visitors: 300
+3-Published Plant Catalogue: Yes
+4-Cultivation Taxa Num: 600
+4-Special Collections: Caucasian endemic flora species
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3429">Please click here if you can update us</a>
+6-Floristics: Yes
+6-Horticulture: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3429">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 8(8622)97-58-93
+9-Institution Code: SOCHD
+9-International Agenda Registration: Yes
+9-Primary Email: info@frunze.net
+9-Telephone: 8(095)234-37-03, 8(8622)97-53-15
+9-URL: www.frunze.net

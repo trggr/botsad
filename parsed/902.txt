@@ -1,11 +1,19 @@
-ID:	902
-Name:	Honiara Botanic Gardens 
-Curator's Name:	Richard Raomae/Patteson Tofu
-Director's Name:	Myknee Qusa Sirikolo, Jr.
-Info:	  Solomon Islands - Honiara  ;Garden Information;  Institution Code: HONRV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Honiara Botanic Gardens; c/o The National Forestry Herbarium, Ministry of Natural Resources, P.O. Box G 24, HONIARA, Solo; Honiara; Solomon Islands; ;  Telephone: (677) 22370; Fax: (677) 21245; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1965
-Institution Type:	Botanic Garden
-Latitude:	-9.4267
-Longitude:	159.9487
-Special Collections:	Developing a collection of traditional medicinal plants. Exotic plants, but recent plantings have been of natives.
+0-ID: 902
+1-Name: Honiara Botanic Gardens 
+2-Date founded: 1965
+2-Info:              Institution Code: HONRV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Honiara Botanic Gardens;         c/o The National Forestry Herbarium,  Ministry of Natural Resources,  P.O. Box G 24,  HONIARA,  Solo;                Honiara;        Solomon Islands;        ;                 Telephone: (677) 22370;         Fax: (677) 21245;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -9.4267
+2-Longitude: 159.9487
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=902">Please click here if you can update us</a>
+4-Special Collections: Developing a collection of traditional medicinal plants. Exotic plants, but recent plantings have been of natives.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=902">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=902">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=902">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (677) 21245
+9-Institution Code: HONRV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (677) 22370
+9-URL: 

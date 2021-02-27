@@ -1,9 +1,17 @@
-ID:	5046
-Name:	Golden Acre Park 
-Curator's Name:	
-Director's Name:	-
-Info:	  United Kingdom - Yorkshire - Leeds  ;Garden Information;  Institution Code: GAPL; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Golden Acre Park; Otley Road; Bramhope; Leeds; Yorkshire LS16 8BQ United Kingdom; ;  Telephone: 0113 3957400; Fax: ; URL: <a target="_blank" href="http://www.leeds.gov.uk/leisure/Pages/Golden-Acre-Park.aspx">http://www.leeds.gov.uk/leisure/Pages/Golden-Acre-Park.aspx; Primary Email: dean.lockwood@leeds.gov.uk ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	53.870572
-Longitude:	-1.5907
+0-ID: 5046
+1-Name: Golden Acre Park 
+2-Info:              Institution Code: GAPL;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Golden Acre Park;         Otley Road;        Bramhope;        Leeds;        Yorkshire LS16 8BQ United Kingdom;        ;                 Telephone: 0113 3957400;         Fax: ;         URL: http://www.leeds.gov.uk/leisure/Pages/Golden-Acre-Park.aspx;         Primary Email: dean.lockwood@leeds.gov.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 53.870572
+2-Longitude: -1.5907
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5046">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5046">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5046">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5046">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5046">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: GAPL
+9-International Agenda Registration: No
+9-Primary Email: dean.lockwood@leeds.gov.uk
+9-Telephone: 0113 3957400

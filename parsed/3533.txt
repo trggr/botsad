@@ -1,53 +1,53 @@
-ID:	3533
-Name:	Jardín Botánico Universidad Nacional de San Luis 
-Administration Staff Number:	
-Curator's Name:	Dr. Elisa M. Petenatti
-Director's Name:	Dr. Luis A. Del Vitto
-Educational Staff Number:	3
-Horticultural Staff Number:	2
-Info:	  Argentina - San Luis - San Luis  ;Garden Information;  Institution Code: UNSL; International Agenda Registration: Yes; BGCI Member: No; About the Jardín Botánico Universidad Nacional de San Luis It is a collection of living plants arranged in evolutionary order. Its objective is to improve the public understanding of plant diversity to inspire the necessary respect for life and the environment. It is used mainly for educational purposes at all levels of formal and informal education. It is also used in botanical research conducted in the herbarium of the Universidad Nacional de San Luis (acronym: UNSL) and extension and dissemination of botanical knowledge to the general public.;  Main Address:; Jardín Botánico Universidad Nacional de San Luis; Ejercito de Los Andes 950; San Luis; San Luis D5700HHW Argentina; ;  Telephone: +54 266 4520500 ext. 282; Fax: +54 2652 430224; URL: <a target="_blank" href="http://www.herbario.unsl.edu.ar">http://www.herbario.unsl.edu.ar; Primary Email: lvitto@unsl.edu.ar ; 
-Plant Records Officer's Name:	Dr. Elisa M. Petenatti
-Research Staff Number:	5
-Altitude:	740.00 Metres
-Annual Rainfall:	450 mm
-Date founded:	1999
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-33.29227
-Local Address:	Ejército de los Andes 950 - D5700HHW San Luis - Argentina
-Locality:	Information
-Longitude:	-66.34076
-Natural Vegetation Area:	No
-Satellite Garden Names:	none
-Total Area:	1 Hectares
-Total area of shadehouses:	20 Metres
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	1500
-Number of Volunteers:	3
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	1090
-Cultivation Taxa Num:	450
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Conservation - Biology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Land Restoration:	Yes
-Pharmacology:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
+0-ID: 3533
+1-Name: Jardín Botánico Universidad Nacional de San Luis 
+2-Altitude: 740.00 Metres
+2-Annual Rainfall: 450 mm
+2-Date founded: 1999
+2-Info:              Institution Code: UNSL;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Jardín Botánico Universidad Nacional de San Luis        It is a collection of living plants arranged in evolutionary order. Its objective is to improve the public understanding of plant diversity to inspire the necessary respect for life and the environment. It is used mainly for educational purposes at all levels of formal and informal education. It is also used in botanical research conducted in the herbarium of the Universidad Nacional de San Luis (acronym: UNSL) and extension and dissemination of botanical knowledge to the general public.;                        Main Address:;         Jardín Botánico Universidad Nacional de San Luis;         Ejercito de Los Andes 950;                San Luis;        San Luis D5700HHW Argentina;        ;                 Telephone: +54 266 4520500 ext. 282;         Fax: +54 2652 430224;         URL: http://www.herbario.unsl.edu.ar;         Primary Email: lvitto@unsl.edu.ar       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: -33.29227
+2-Local Address: Ejército de los Andes 950 - D5700HHW San Luis - Argentina
+2-Locality: Information
+2-Longitude: -66.34076
+2-Natural Vegetation Area: No
+2-Satellite Garden Names: none
+2-Total Area: 1 Hectares
+2-Total area of shadehouses: 20 Metres
+3-Arboretum: No
+3-Computer Plant Record System: No
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 1500
+3-Number of Volunteers: 3
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Accession Number: 1090
+4-Cultivation Taxa Num: 450
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+6-Conservation - Biology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Land Restoration: Yes
+6-Pharmacology: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Guided Tours: Yes
+7-Special Exhibitions: Yes
+9-About the Jardín Botánico Universidad Nacional de San Luis        It is a collection of living plants arranged in evolutionary order. Its objective is to improve the public understanding of plant diversity to inspire the necessary respect for life and the environment. It is used mainly for educational purposes at all levels of formal and informal education. It is also used in botanical research conducted in the herbarium of the Universidad Nacional de San Luis (acronym: UNSL) and extension and dissemination of botanical knowledge to the general public.
+9-BGCI Member: No
+9-Fax: +54 2652 430224
+9-Institution Code: UNSL
+9-International Agenda Registration: Yes
+9-Primary Email: lvitto@unsl.edu.ar
+9-Telephone: +54 266 4520500 ext. 282

@@ -1,9 +1,18 @@
-ID:	5358
-Name:	Colonial Williamsburg Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - VA - Williamsburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Colonial Williamsburg Arboretum; 314 North Botetourt Street; Williamsburg; VA 23185 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.history.org/history/CWLand/">http://www.history.org/history/CWLand/; Primary Email: Cgardner@cwf.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	37.276615
-Longitude:	-76.694618
+0-ID: 5358
+1-Name: Colonial Williamsburg Arboretum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Colonial Williamsburg Arboretum;         314 North Botetourt Street;                Williamsburg;        VA 23185 United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://www.history.org/history/CWLand/;         Primary Email: Cgardner@cwf.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.276615
+2-Longitude: -76.694618
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5358">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5358">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5358">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5358">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5358">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Cgardner@cwf.org
+9-Telephone: 

@@ -1,9 +1,19 @@
-ID:	4988
-Name:	Hamilton Gardens 
-Curator's Name:	
-Director's Name:	-
-Info:	  New Zealand - Waikato - Hamilton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hamilton Gardens; Hamilton East; Mailing: Private Bag 3010, Waikato Mail Centre; Hamilton; Waikato 3240 New Zealand; ;  Telephone: (+64) 07 838 6782; Fax: (+64) 07 838 6801; URL: <a target="_blank" href="http://www.hamiltongardens.co.nz">www.hamiltongardens.co.nz; Primary Email: hamilton.gardens@hcc.govt.nz ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-37.80663
-Longitude:	175.29919
+0-ID: 4988
+1-Name: Hamilton Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hamilton Gardens;         Hamilton East;        Mailing: Private Bag 3010, Waikato Mail Centre;        Hamilton;        Waikato 3240 New Zealand;        ;                 Telephone: (+64) 07 838 6782;         Fax: (+64) 07 838 6801;         URL: www.hamiltongardens.co.nz;         Primary Email: hamilton.gardens@hcc.govt.nz       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -37.80663
+2-Longitude: 175.29919
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4988">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4988">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4988">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4988">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4988">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (+64) 07 838 6801
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: Private Bag 3010, Waikato Mail Centre
+9-Primary Email: hamilton.gardens@hcc.govt.nz
+9-Telephone: (+64) 07 838 6782
+9-URL: www.hamiltongardens.co.nz

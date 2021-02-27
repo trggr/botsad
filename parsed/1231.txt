@@ -1,16 +1,22 @@
-ID:	1231
-Name:	Bloedel Reserve, The 
-Curator's Name:	Andy Navage, Horticulture Director
-Director's Name:	Edward Moydell, Executive Director
-Info:	  United States of America - Washington - Bainbridge Island  ;Garden Information;  Institution Code: BLOED; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bloedel Reserve, The; 7571 NE Dolphin Drive; Bainbridge Island; Washington 98110 United States of America; ;  Telephone: (206) 842-7631; Fax: (206) 842-8970; URL: <a target="_blank" href="http://www.bloedelreserve.org">www.bloedelreserve.org; Primary Email: email@bloedelreserve.org ; 
-Plant Records Officer's Name:	Jason Scott, Plant Collections Database Contractor
-Altitude:	0.00 Metres
-Date founded:	1970
-Institution Type:	Botanic Garden
-Latitude:	47.7081730
-Longitude:	-122.5471260
-Total Area:	34 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Rhododendron (200 spp., 400 taxa), conifers (300 taxa).
-Reintroduction Programme:	No
+0-ID: 1231
+1-Name: Bloedel Reserve, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 1970
+2-Info:              Institution Code: BLOED;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bloedel Reserve, The;         7571 NE Dolphin Drive;                Bainbridge Island;        Washington 98110 United States of America;        ;                 Telephone: (206) 842-7631;         Fax: (206) 842-8970;         URL: www.bloedelreserve.org;         Primary Email: email@bloedelreserve.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.7081730
+2-Longitude: -122.5471260
+2-Total Area: 34 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Rhododendron (200 spp., 400 taxa), conifers (300 taxa).
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1231">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1231">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (206) 842-8970
+9-Institution Code: BLOED
+9-International Agenda Registration: No
+9-Primary Email: email@bloedelreserve.org
+9-Telephone: (206) 842-7631
+9-URL: www.bloedelreserve.org

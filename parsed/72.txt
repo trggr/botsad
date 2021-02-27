@@ -1,11 +1,19 @@
-ID:	72
-Name:	The State University Botanical Garden 
-Curator's Name:	
-Director's Name:	S.P.Gindina
-Info:	  Ukraine - Dniepropetrovsk  ;Garden Information;  Institution Code: DSU; International Agenda Registration: No; BGCI Member: No;  Main Address:; The State University Botanical Garden; Gaganyna Street 72a; Dniepropetrovsk; 320600 Ukraine; ;  Telephone: 3 21 99; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1931
-Institution Type:	Botanic Garden
-Latitude:	48.43589
-Longitude:	35.04282
-Special Collections:	Ornamental shrubs, Chrysanthemums, Clematis, lawn grasses, Acer, Berberis, Lonicera.
+0-ID: 72
+1-Name: The State University Botanical Garden 
+2-Date founded: 1931
+2-Info:              Institution Code: DSU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The State University Botanical Garden;         Gaganyna Street 72a;                Dniepropetrovsk;        320600 Ukraine;        ;                 Telephone: 3 21 99;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.43589
+2-Longitude: 35.04282
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=72">Please click here if you can update us</a>
+4-Special Collections: Ornamental shrubs, Chrysanthemums, Clematis, lawn grasses, Acer, Berberis, Lonicera.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=72">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=72">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=72">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DSU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 3 21 99
+9-URL: 

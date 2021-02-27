@@ -1,12 +1,20 @@
-ID:	3195
-Name:	Island Park Arboretum 
-Curator's Name:	Jennifer Sarna, Executive Director, PRRA
-Director's Name:	Kelly Braden, Operations Director
-Info:	  Canada - Manitoba - Portage La Prairie  ;Garden Information;  Institution Code: ISPA; International Agenda Registration: No; BGCI Member: No; About the Island Park Arboretum The Arboretum is an educational collection of prairie hardy trees, shrubs and vines. A wheel chair access pathway joins a series of stations giving information on plants, horticulture, forestry and wildlife. The Arboretum is free to the public and is an ideal outdoor classroom to learn about plants and their importance to the environment. The Arboretum covers 4 acres and has over 300 different types of plants. With each visit you will have a new impression of the plants that contribute to the prairie landscape.;  Main Address:; Island Park Arboretum; Parks Department, Operations Building; 495 - 11th Street N.W.; Portage La Prairie; Manitoba R1N 0L5 Canada; ;  Telephone: (204) 239-8325; Fax: (204) 857-7275; URL: <a target="_blank" href="http://www.city.portage-la-prairie.mb.ca/preview/recreation.html#island">www.city.portage-la-prairie.mb.ca/preview/recreation.html#island; Primary Email: operations@city.portage-la-prairie.mb.ca ; 
-Plant Records Officer's Name:	Dave Green, Parks Manager
-Altitude:	0.00 Metres
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	49.96376
-Longitude:	-98.2896
-Special Collections:	No information available.
+0-ID: 3195
+1-Name: Island Park Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1990
+2-Info:              Institution Code: ISPA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Island Park Arboretum        The Arboretum is an educational collection of prairie hardy trees, shrubs and vines. A wheel chair access pathway joins a series of stations giving information on plants, horticulture, forestry and wildlife. The Arboretum is free to the public and is an ideal outdoor classroom to learn about plants and their importance to the environment. The Arboretum covers 4 acres and has over 300 different types of plants. With each visit you will have a new impression of the plants that contribute to the prairie landscape.;                        Main Address:;         Island Park Arboretum;         Parks Department, Operations Building;        495 - 11th Street N.W.;        Portage La Prairie;        Manitoba R1N 0L5 Canada;        ;                 Telephone: (204) 239-8325;         Fax: (204) 857-7275;         URL: www.city.portage-la-prairie.mb.ca/preview/recreation.html#island;         Primary Email: operations@city.portage-la-prairie.mb.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.96376
+2-Longitude: -98.2896
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3195">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3195">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3195">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3195">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (204) 857-7275
+9-Institution Code: ISPA
+9-International Agenda Registration: No
+9-Primary Email: operations@city.portage-la-prairie.mb.ca
+9-Telephone: (204) 239-8325
+9-URL: www.city.portage-la-prairie.mb.ca/preview/recreation.html#island

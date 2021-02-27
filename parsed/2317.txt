@@ -1,35 +1,40 @@
-ID:	2317
-Name:	Dnepropetrovsk National University Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr. Anatoliy Kabar
-Info:	  Ukraine - Dnepr (Dnepropetrovsk)  ;Garden Information;  Institution Code: DNEPR; International Agenda Registration: Yes; BGCI Member: Yes; About the Dnepropetrovsk National University Botanic Garden The Oles Honchar Dnepropetrovsk National University Botanic Garden was founded in 1930 as a city scientific-research establishment. In 1933 it became one of the structural subdivisions of Dnepropetrovsk National University. The founder and the first director of the Garden was Professor, Head of Plant Physiology Department, O.V. Reingard, under whose guidance the Garden was first planted. In 1963 according to the Order of the Council of Ministers of the USSR the Botanic Garden was declared a reserve protected by the state. After Ukraine gained independence that Order was confirmed by the Edict of President of Ukraine dated 1996. ; Dnepropetrovsk Botanic Garden is located in the upland part of the city on the right bank of the Dnipro River. At the moment the Garden collection fund comprises more than 3000 species, forms, and sorts of plants.; The main tasks of the Garden today are: preservation and increase of the collection of live plants, especially rare and unusual forms; educational and instructional work on problems of botany, ecology, nature preservation, plant-growing, decorative gardening for landscape architecture, as well as teaching and holding practical training for students of our University and for the students of other higher-educational establishments, colleges and schools.; The rich plant collection gives to visitors of the Garden an opportunity to get acquainted with a lot of vegetational representatives of various continents and geographical zones of the globe and to appreciate their original beauty.;  Main Address:; Dnepropetrovsk National University Botanic Garden; Gagarin avenue, 72; Bronetankova str. 1a; Dnepr (Dnepropetrovsk); 49010 Ukraine; ;  Telephone: +38(056)760-83-06; Fax: ; URL: <a target="_blank" href="http://botsad.dsu.dp.ua">botsad.dsu.dp.ua; Primary Email: botgarddnepr@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	98.00 Metres
-Annual Rainfall:	519 mm
-Date founded:	1930
-Institution Type:	Botanic Garden
-Latitude:	48.27
-Local Address:	Проспект Гагаріна, 72, Дніпропетровськ, Україна, 49010
-Locality:	Information
-Longitude:	35.03
-Total Area:	27 Hectares
-Total area of glasshouses:	1400 Metres
-Arboretum:	Yes
-Arboretum Size:	23
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Special Collections:	Collections of trees and shrubs,including over 1000 species
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Agriculture:	Yes
-Conservation - Biology:	Yes
-Ecology:	Yes
-Education:	Yes
-Horticulture:	Yes
-Plant Breeding:	Yes
-Urban Environments:	Yes
-Courses for University/College Students:	Yes
-Guided Tours:	Yes
+0-ID: 2317
+1-Name: Dnepropetrovsk National University Botanic Garden 
+2-Altitude: 98.00 Metres
+2-Annual Rainfall: 519 mm
+2-Date founded: 1930
+2-Info:              Institution Code: DNEPR;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Dnepropetrovsk National University Botanic Garden        The Oles Honchar Dnepropetrovsk  National University Botanic Garden was founded in 1930 as a city scientific-research establishment. In 1933 it became one of the structural subdivisions of Dnepropetrovsk National University. The founder and the first director of the Garden was Professor, Head of Plant Physiology Department, O.V. Reingard, under whose guidance the Garden was first planted. In 1963 according to the Order of the Council of Ministers of the USSR the Botanic Garden was declared a reserve protected by the state. After Ukraine gained independence that Order was confirmed by the Edict of President of Ukraine dated 1996. ;  Dnepropetrovsk Botanic Garden is located in the upland part of the city on the right bank of the Dnipro River. At the moment the Garden collection fund comprises more than 3000 species, forms, and sorts of plants.;  The main tasks of the Garden today are: preservation and increase of the collection of live plants, especially rare and unusual forms; educational and instructional work on problems of botany, ecology, nature preservation, plant-growing, decorative gardening for landscape architecture, as well as teaching and holding practical training for students of our University   and for the students of other higher-educational establishments, colleges and schools.;  The rich plant collection gives to visitors of the Garden an opportunity to get acquainted with  a lot of vegetational representatives of various continents and geographical zones of the globe and to appreciate their original beauty.;                        Main Address:;         Dnepropetrovsk National University Botanic Garden;         Gagarin avenue, 72;        Bronetankova str. 1a;        Dnepr (Dnepropetrovsk);        49010 Ukraine;        ;                 Telephone: +38(056)760-83-06;         Fax: ;         URL: botsad.dsu.dp.ua;         Primary Email: botgarddnepr@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.27
+2-Local Address: Проспект Гагаріна, 72, Дніпропетровськ, Україна, 49010
+2-Locality: Information
+2-Longitude: 35.03
+2-Total Area: 27 Hectares
+2-Total area of glasshouses: 1400 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 23
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: No
+4-Special Collections: Collections of trees and shrubs,including over 1000 species
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-Agriculture: Yes
+6-Conservation - Biology: Yes
+6-Ecology: Yes
+6-Education: Yes
+6-Horticulture: Yes
+6-Plant Breeding: Yes
+6-Urban Environments: Yes
+7-Courses for University/College Students: Yes
+7-Guided Tours: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: DNEPR
+9-International Agenda Registration: Yes
+9-Primary Email: botgarddnepr@gmail.com
+9-Telephone: +38(056)760-83-06
+9-The main tasks of the Garden today are: preservation and increase of the collection of live plants, especially rare and unusual forms
+9-URL: botsad.dsu.dp.ua

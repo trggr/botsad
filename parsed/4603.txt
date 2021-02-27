@@ -1,9 +1,18 @@
-ID:	4603
-Name:	Cummer Museum of Art & Gardens 
-Curator's Name:	Holly Keris, Curator
-Director's Name:	Hope McMath, Museum Director
-Info:	  United States of America - Florida - Jacksonville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cummer Museum of Art & Gardens; 829 Riverside Avenue; Jacksonville; Florida 32204 United States of America; ;  Telephone: (904) 356-6857; Fax: ; URL: <a target="_blank" href="http://www.cummer.org">www.cummer.org; Primary Email: hkeris@cummer.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	30.3154490
-Longitude:	-81.6762040
+0-ID: 4603
+1-Name: Cummer Museum of Art & Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Cummer Museum of Art & Gardens;         829 Riverside Avenue;                Jacksonville;        Florida 32204 United States of America;        ;                 Telephone: (904) 356-6857;         Fax: ;         URL: www.cummer.org;         Primary Email: hkeris@cummer.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.3154490
+2-Longitude: -81.6762040
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4603">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4603">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4603">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4603">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4603">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: hkeris@cummer.org
+9-Telephone: (904) 356-6857
+9-URL: www.cummer.org

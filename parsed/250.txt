@@ -1,26 +1,27 @@
-ID:	250
-Name:	Tresco Abbey Garden 
-Administration Staff Number:	1
-Curator's Name:	Mike Nelhams
-Director's Name:	Mr M. Nelhams
-Educational Staff Number:	
-Horticultural Staff Number:	9
-Info:	  United Kingdom  ;Garden Information;  Institution Code: TRES; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Tresco Abbey Garden; Tresco Abbey Garden Tresco Isles of Scilly TR24 0QQ; United Kingdom; ;  Telephone: 01720 424108; Fax: 01720 424105; URL: <a target="_blank" href="http://www.tresco.co.uk">www.tresco.co.uk; Primary Email: mikenelhams@tresco.co.uk ; 
-Plant Records Officer's Name:	Mike Nelhams
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1834
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	49.947777
-Longitude:	-6.332497
-Disabled access:	Yes
-Number of Visitors:	38000
-Number of Volunteers:	3
-Open to public:	Yes
-Cultivation Taxa Num:	3500
-Special Collections:	Proteacea, Acacia, Metrosideros, Eucalyptus, Mesembryanthemum, cacti and succulents of S. Africa, Puya of S. America, trees and shrubs af New Zealand, Aeonium, Aloe.
-Reintroduction Programme:	No
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 250
+1-Name: Tresco Abbey Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1834
+2-Info:              Institution Code: TRES;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Tresco Abbey Garden;         Tresco Abbey Garden Tresco Isles of Scilly TR24 0QQ;                        United Kingdom;        ;                 Telephone: 01720 424108;         Fax: 01720 424105;         URL: www.tresco.co.uk;         Primary Email: mikenelhams@tresco.co.uk       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 49.947777
+2-Longitude: -6.332497
+3-Disabled access: Yes
+3-Number of Visitors: 38000
+3-Number of Volunteers: 3
+3-Open to public: Yes
+4-Cultivation Taxa Num: 3500
+4-Special Collections: Proteacea, Acacia, Metrosideros, Eucalyptus, Mesembryanthemum, cacti and succulents of S. Africa, Puya of S. America, trees and shrubs af New Zealand, Aeonium, Aloe.
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=250">Please click here if you can update us</a>
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 01720 424105
+9-Institution Code: TRES
+9-International Agenda Registration: No
+9-Primary Email: mikenelhams@tresco.co.uk
+9-Telephone: 01720 424108
+9-URL: www.tresco.co.uk

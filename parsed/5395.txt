@@ -1,77 +1,78 @@
-ID:	5395
-Name:	Hortus Botanicus Třeboň 
-Administration Staff Number:	
-Curator's Name:	Jana Navrátilová
-Director's Name:	Jana Navrátilová
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Info:	  Czech Republic - Třeboň  ;Garden Information;  Institution Code: HBT; International Agenda Registration: No; BGCI Member: Yes; About the Hortus Botanicus Třeboň Department of Experimental Garden and Collection of Aquatic and Wetland Plants is part of the Institute of Botany, which is involved in research on taxonomy, biosystematics and evolution of plants and selected groups of fungi, ecology, ecophysiology, phytogeography, vegetation mapping, dendrochronology and palaeoecology, and karyology and population genetics studies, both nationally and internationally. The Institute carries on three departments suitable as botanic garden or park: the Pruhonice Park, the Pruhonice Botanic Garden and the Hortus Botanicus Třeboň (Collection of aquatic and wetland plants in Třeboň).; ; https://www.youtube.com/watch?v=S4BAipdQCqs; ; The Collection was being put together gradually since 1976 for scientific purposes in the first place. Today, the Collection is botanical garden and is open to students and public. It is actively involved in the activities of the Working group for the gene pools, which secures conservation of the critically endangered domestic flora in ex situ collections of the botanical gardens. The exposition of our botanical garden includes more than 700 species of aquatic and wetland plants. The majority come from Central Europe. Our collection contains common plants of our streams, rivers and ponds, and also rare species of plants, including the ones that have become extinct from our nature.;  Main Address:; Hortus Botanicus Třeboň; Department of Experimental Garden and Collection of Aquatic and Wetland Plants, Institute of Botany of Czech Academy of Sciences; Dukelská 135; Třeboň; CZ 37901 Czech Republic; ;  Telephone: +420384721156; Fax: ; URL: <a target="_blank" href="http://www.butbn.cas.cz/sbirkavk/?lang=en">http://www.butbn.cas.cz/sbirkavk/?lang=en; Primary Email: Jana.Navratilova@ibot.cas.cz ; 
-Plant Records Officer's Name:	Jana Navrátilová
-Research Staff Number:	1
-Altitude:	431.00 Metres
-Annual Rainfall:	607 mm
-Date founded:	1976
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	49.0055806
-Local Address:	Dukelská 135 CZ-37901 Třeboň Česká republika
-Locality:	Information
-Longitude:	14.7732347
-Natural Vegetation Area:	No
-Total Area:	2 Hectares
-Total area of glasshouses:	50 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	1400
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	867
-Cultivation Taxa Num:	800
-Invasive Species Monitoring:	No
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Collection of Potamogeton species
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 5395
+1-Name: Hortus Botanicus Třeboň 
+2-Altitude: 431.00 Metres
+2-Annual Rainfall: 607 mm
+2-Date founded: 1976
+2-Info:              Institution Code: HBT;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Hortus Botanicus Třeboň        Department of Experimental Garden and Collection of Aquatic and Wetland Plants is part of the Institute of Botany, which  is involved in research on taxonomy, biosystematics and evolution of plants and selected groups of fungi, ecology, ecophysiology, phytogeography, vegetation mapping, dendrochronology and palaeoecology, and karyology and population genetics studies, both nationally and internationally. The Institute carries on three departments suitable as botanic garden or park: the Pruhonice Park, the Pruhonice Botanic Garden and the Hortus Botanicus Třeboň (Collection of aquatic and wetland plants in Třeboň).;  ;  https://www.youtube.com/watch?v=S4BAipdQCqs;  ;  The Collection was being put together gradually since 1976 for scientific purposes in the first place. Today, the Collection is botanical garden and is open to students and public. It is actively involved in the activities of the Working group for the gene pools, which secures conservation of the critically endangered domestic flora in ex situ collections of the botanical gardens. The exposition of our botanical garden includes more than 700 species of aquatic and wetland plants. The majority come from Central Europe. Our collection contains common plants of our streams, rivers and ponds, and also rare species of plants, including the ones that have become extinct from our nature.;                        Main Address:;         Hortus Botanicus Třeboň;         Department of Experimental Garden and Collection of Aquatic and Wetland Plants, Institute of Botany of Czech Academy of Sciences;        Dukelská 135;        Třeboň;        CZ 37901 Czech Republic;        ;                 Telephone: +420384721156;         Fax: ;         URL: http://www.butbn.cas.cz/sbirkavk/?lang=en;         Primary Email: Jana.Navratilova@ibot.cas.cz       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 49.0055806
+2-Local Address: Dukelská 135 CZ-37901 Třeboň Česká republika
+2-Locality: Information
+2-Longitude: 14.7732347
+2-Natural Vegetation Area: No
+2-Total Area: 2 Hectares
+2-Total area of glasshouses: 50 Metres
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 1400
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 867
+4-Cultivation Taxa Num: 800
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Collection of Potamogeton species
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: Yes
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: No
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: No
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: No
+9-About the Hortus Botanicus Třeboň        Department of Experimental Garden and Collection of Aquatic and Wetland Plants is part of the Institute of Botany, which  is involved in research on taxonomy, biosystematics and evolution of plants and selected groups of fungi, ecology, ecophysiology, phytogeography, vegetation mapping, dendrochronology and palaeoecology, and karyology and population genetics studies, both nationally and internationally. The Institute carries on three departments suitable as botanic garden or park: the Pruhonice Park, the Pruhonice Botanic Garden and the Hortus Botanicus Třeboň (Collection of aquatic and wetland plants in Třeboň).
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: HBT
+9-International Agenda Registration: No
+9-Primary Email: Jana.Navratilova@ibot.cas.cz
+9-Telephone: +420384721156
+9-https: //www.youtube.com/watch?v=S4BAipdQCqs

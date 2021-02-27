@@ -1,11 +1,25 @@
-ID:	2556
-Name:	Arboretum du Poerop 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Huelgoat  ;Garden Information;  Institution Code: HUEL; International Agenda Registration: No; BGCI Member: No; About the Arboretum du Poerop Location: HUELGOAT; Founded: 1992; Garden Name: Arboretum du Poerop; Address: Centre hospitalier 29690 HUELGOAT; Situated: 55, rue des Cieux 29690 HUELGOAT; Status: Private.; Herbarium: No.; Ex situ Collections:; Plants from America, Oceania and Asia prin;  Main Address:; Arboretum du Poerop; Centre hospitalier 29690 HUELGOAT France; Huelgoat; France; ;  Telephone: 33 2 98 99 71 63; Fax: 33 2 98 99 76 26; URL: <a target="_blank" href="http://">; Primary Email: http ://www.arboretum-huelgoat.com ; 
-Plant Records Officer's Name:	
-Date founded:	1992
-Institution Type:	Botanic Garden
-Latitude:	48.3636
-Longitude:	-3.7467
-Special Collections:	Plants from America, Oceania and Asia principally. Notable plants include Salix sikkimensis, Actinidia callosa, Abies densa, Hypericum uralense, Mahonia nepalensis, Morus serrata. Greenhouse collections including 150 taxa, such as Leucocidea sericea, Samb
+0-ID: 2556
+1-Name: Arboretum du Poerop 
+2-Date founded: 1992
+2-Info:              Institution Code: HUEL;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Arboretum du Poerop        Location: HUELGOAT; Founded: 1992; Garden Name: Arboretum du Poerop; Address: Centre hospitalier 29690 HUELGOAT; Situated: 55, rue des Cieux 29690 HUELGOAT; Status: Private.; Herbarium: No.; Ex situ Collections:; Plants from America, Oceania and Asia prin;                        Main Address:;         Arboretum du Poerop;         Centre hospitalier 29690 HUELGOAT France;                Huelgoat;        France;        ;                 Telephone: 33 2 98 99 71 63;         Fax: 33 2 98 99 76 26;         URL: ;         Primary Email: http ://www.arboretum-huelgoat.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.3636
+2-Longitude: -3.7467
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2556">Please click here if you can update us</a>
+4-Special Collections: Plants from America, Oceania and Asia principally. Notable plants include Salix sikkimensis, Actinidia callosa, Abies densa, Hypericum uralense, Mahonia nepalensis, Morus serrata. Greenhouse collections including 150 taxa, such as Leucocidea sericea, Samb
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2556">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2556">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2556">Please click here if you can update us</a>
+9-About the Arboretum du Poerop        Location: HUELGOAT
+9-Address: Centre hospitalier 29690 HUELGOAT
+9-BGCI Member: No
+9-Fax: 33 2 98 99 76 26
+9-Founded: 1992
+9-Garden Name: Arboretum du Poerop
+9-Herbarium: No.
+9-Institution Code: HUEL
+9-International Agenda Registration: No
+9-Situated: 55, rue des Cieux 29690 HUELGOAT
+9-Status: Private.
+9-Telephone: 33 2 98 99 71 63
+9-URL: 

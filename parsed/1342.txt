@@ -1,12 +1,21 @@
-ID:	1342
-Name:	Arboretum of Nanjing Forestry University 
-Curator's Name:	
-Director's Name:	Chen Yong How
-Info:	  China - Jiangsu - Nanjing  ;Garden Information;  Institution Code: NANJU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of Nanjing Forestry University; Nanjing Forestry University, Longpan Road, Nanjing, Jiangsu, 210037, China; Nanjing; Jiangsu China; ;  Telephone: 643161 ->62; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1954
-Institution Type:	Botanic Garden
-Latitude:	32.0750
-Local Address:	中国江苏省南京市南京林大，邮编 210037
-Locality:	Information
-Longitude:	118.7958
+0-ID: 1342
+1-Name: Arboretum of Nanjing Forestry University 
+2-Date founded: 1954
+2-Info:              Institution Code: NANJU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of Nanjing Forestry University;         Nanjing Forestry University, Longpan Road, Nanjing, Jiangsu, 210037, China;                Nanjing;        Jiangsu China;        ;                 Telephone: 643161 ->62;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.0750
+2-Local Address: 中国江苏省南京市南京林大，邮编 210037
+2-Locality: Information
+2-Longitude: 118.7958
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1342">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1342">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1342">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1342">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1342">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NANJU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 643161 ->62
+9-URL: 

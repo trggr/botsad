@@ -1,12 +1,20 @@
-ID:	1088
-Name:	Hortus Pharmacognosticus 
-Curator's Name:	
-Director's Name:	Doc.Dr.Hab.Tadeusz Wolski
-Info:	  Poland - Lublin  ;Garden Information;  Institution Code: LUBLI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hortus Pharmacognosticus; Academiae Medicinalis, ul. Pstrowskiego 12, 20007 LUBLIN, Poland.; Lublin; Poland; ;  Telephone: 48 81 233 14; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1960
-Institution Type:	Other
-Latitude:	51.2464
-Longitude:	22.5684
-Special Collections:	Umbelliferous medicinal plants
+0-ID: 1088
+1-Name: Hortus Pharmacognosticus 
+2-Altitude: 0.00 Metres
+2-Date founded: 1960
+2-Info:              Institution Code: LUBLI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hortus Pharmacognosticus;         Academiae Medicinalis,  ul. Pstrowskiego 12,  20007 LUBLIN,  Poland.;                Lublin;        Poland;        ;                 Telephone: 48 81 233 14;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 51.2464
+2-Longitude: 22.5684
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1088">Please click here if you can update us</a>
+4-Special Collections: Umbelliferous medicinal plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1088">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1088">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1088">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LUBLI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 48 81 233 14
+9-URL: 

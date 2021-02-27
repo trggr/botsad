@@ -1,17 +1,25 @@
-ID:	694
-Name:	Naples Zoo at Caribbean Gardens 
-Curator's Name:	
-Director's Name:	David Tetzlaff
-Info:	  United States of America - Florida - Naples  ;Garden Information;  Institution Code: AFSAF; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Naples Zoo at Caribbean Gardens In Naples Zoo, you'll find exotic animals surrounded by the mature trees and exotic plants of a historic tropical garden founded in 1919. As the botanical collection was planted fifty years before the animals were introduced, the exhibits carefully maximize the space around decades old trees. Because of this special need to conserve space, you will be very close to the animals -- often just three or four steps away!;  Main Address:; Naples Zoo at Caribbean Gardens; 1590 Goodlette-Frank Road; Naples; Florida 34102 United States of America; ;  Telephone: (239) 262-5409 ext. 124; Fax: ; URL: <a target="_blank" href="http://www.napleszoo.com">www.napleszoo.com; Primary Email: info@napleszoo.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1917
-Institution Type:	Zoological Institution
-Latitude:	26.1686940
-Longitude:	-81.7911460
-Arboretum:	No
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Herbarium:	No
-Open to public:	Yes
-Special Collections:	Bromeliads, orchids, tropical foliage plants.
+0-ID: 694
+1-Name: Naples Zoo at Caribbean Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1917
+2-Info:              Institution Code: AFSAF;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                          About the Naples Zoo at Caribbean Gardens        In Naples Zoo, you'll find exotic animals surrounded by the mature trees and exotic plants of a historic tropical garden founded in 1919. As the botanical collection was planted fifty years before the animals were introduced, the exhibits carefully maximize the space around decades old trees. Because of this special need to conserve space, you will be very close to the animals -- often just three or four steps away!;                        Main Address:;         Naples Zoo at Caribbean Gardens;         1590 Goodlette-Frank Road;                Naples;        Florida 34102 United States of America;        ;                 Telephone: (239) 262-5409 ext. 124;         Fax: ;         URL: www.napleszoo.com;         Primary Email: info@napleszoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 26.1686940
+2-Longitude: -81.7911460
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Open to public: Yes
+4-Special Collections: Bromeliads, orchids, tropical foliage plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=694">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=694">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=694">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AFSAF
+9-International Agenda Registration: No
+9-Primary Email: info@napleszoo.org
+9-Telephone: (239) 262-5409 ext. 124
+9-URL: www.napleszoo.com

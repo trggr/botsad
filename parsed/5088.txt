@@ -1,13 +1,21 @@
-ID:	5088
-Name:	Uniwersytet Przyrodniczy w Poznaniu Zakład Doświadczalno-Dydaktyczny Arboretum Leśne w Zielonce 
-Fax:	
-Info:	  Poland - wielkopolskie - Murowana Goślina  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	arboretum@up.poznan.pl
-Telephone:	
-Curator's Name:	
-Director's Name:	mgr inż. Bartłomiej Meres
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	52.56
-Longitude:	17.03
+0-ID: 5088
+1-Name: Uniwersytet Przyrodniczy w Poznaniu Zakład Doświadczalno-Dydaktyczny Arboretum Leśne w Zielonce 
+2-Curator's Name: 
+2-Director's Name: mgr inż. Bartłomiej Meres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/5088/Arboretum Leśne w Zielonce.jpg" alt="" />         </div>        </div>                                    Main Address:;         Uniwersytet Przyrodniczy w Poznaniu Zakład Doświadczalno-Dydaktyczny Arboretum Leśne w Zielonce;         Zielonka 6;        PL 62-095 Murowana Goślina;        Murowana Goślina;        wielkopolskie Poland;        ;                 Telephone: ;         Fax: ;         URL: http://www1.up.poznan.pl/arboretum/;         Primary Email: arboretum@up.poznan.pl       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Institution Type: Botanic Garden
+3-Latitude: 52.56
+3-Longitude: 17.03
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5088">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5088">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5088">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5088">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=5088">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: arboretum@up.poznan.pl
+9-Telephone: 

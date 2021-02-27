@@ -1,9 +1,18 @@
-ID:	5080
-Name:	Escuela Agricola Panamericana 
-Curator's Name:	
-Director's Name:	-
-Info:	  Honduras - Tegucigalpa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Escuela Agricola Panamericana; Valle de Yeguare, San Antonio de Oriente; Francisco Morazan, Km 30 carretara hacia Danli; Tegucigalpa; 11207 Honduras; ;  Telephone: (504) 2287 2022; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: malvarado@zamorano.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	14.0839155
-Longitude:	-87.205376
+0-ID: 5080
+1-Name: Escuela Agricola Panamericana 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Escuela Agricola Panamericana;         Valle de Yeguare, San Antonio de Oriente;        Francisco Morazan, Km 30 carretara hacia Danli;        Tegucigalpa;        11207 Honduras;        ;                 Telephone: (504) 2287 2022;         Fax: ;         URL: ;         Primary Email: malvarado@zamorano.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 14.0839155
+2-Longitude: -87.205376
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5080">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5080">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5080">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5080">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5080">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: malvarado@zamorano.edu
+9-Telephone: (504) 2287 2022
+9-URL: 

@@ -1,74 +1,74 @@
-ID:	2
-Name:	Arnold Arboretum of Harvard University, The 
-Administration Staff Number:	19
-Curator's Name:	Michael Dosmann, Keeper of Living Collections
-Director's Name:	Ned Friedman, Director
-Educational Staff Number:	8
-Horticultural Staff Number:	27
-Info:	  United States of America - Massachusetts - Boston  ;Garden Information;  Institution Code: AAH; International Agenda Registration: No; BGCI Member: Yes; About the Arnold Arboretum of Harvard University, The The Arnold Arboretum of Harvard University discovers and disseminates knowledge of the plant kingdom to foster greater understanding, appreciation, and stewardship of the Earth’s botanical diversity and its essential value to humankind.; ; This is accomplished through three areas of activity:; ; Research; The Arnold Arboretum promotes research by its scientific staff and other scientists to increase our knowledge of the biology and evolutionary history of plants. ; ; Horticulture; The Arboretum is committed to attaining a leadership role in the management and presentation of botanical collections and landscapes.; ; Education; Education programs are based on the unique resources of the Arnold Arboretum. They utilize the living collections and the cultural landscape, as well as the information resources and expertise of the staff to educate in the life sciences, plant biology, horticulture, and related disciplines.; ; In addition to these primary activities that fulfill our mission, the Arboretum maintains library, archival, herbarium and web resources to provide information, materials and support for Arboretum scientists and visiting researchers, as well as students and the interested public. These resources hold significant value as historical and/or biological records, and are managed and conserved utilizing the best available preservation practices. Information technology is critical both to the management of these resources and to the services that facilitate and promote their active use.;  Main Address:; Arnold Arboretum of Harvard University, The; 125 Arborway; Boston; Massachusetts 02130-3500 United States of America; ;  Telephone: (617) 524-1718; Fax: (617) 524-1418; URL: <a target="_blank" href="http://www.arboretum.harvard.edu">www.arboretum.harvard.edu; Primary Email: arbweb@arnarb.harvard.edu ; 
-Plant Records Officer's Name:	Kathryn Richardson, Curatorial Assistant
-Research Staff Number:	27
-Altitude:	0.00 Metres
-Annual Rainfall:	984 mm
-Date founded:	1872
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	42.3077050
-Longitude:	-71.1199090
-Natural Vegetation Area:	Yes
-Total Area:	114 Hectares
-Arboretum:	Yes
-Arboretum Size:	114
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	250000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Accession Number:	14475
-Cultivation Taxa Num:	3926
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Catalpa, Celastrus, Celtis, Chamaecyparis, Clematis, Cornus, Corylus, Cotinus, Cotoneaster, Crataegus, Cytisus, Deutzia, Euonymus, Fagus, Forsythia, Fraxinus, Gleditsia, Hamamelis, Hedera, Hydrangea, Ilex, Juglans, Juniperus, Kamia, Ligustrum, Lonicera, Maackia, Magnolia, Mahonia, Malus, Morus, Paeonia, Philadelphus, Physocarpus, Picea, Pinus, Populus, Potentilla, Prunus, Pseudotsuga, Pterocarya, Pyrus, Quercus, Rhamnus, Rhododendron, Rhus, Ribes, Robinia, Rosa, Salix, Sambucus, Sorbaria, Sorbus, Spiraea, Symphoricarpos, Syringa, Taxus, Thuja, Tilia, Tsuga, Ulmus, Vaccinium, Viburnum, Vitis, Weigela.Threatened native plants, held as part of the Center for Plant Conservation National Collection.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	Yes
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	Yes
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2
+1-Name: Arnold Arboretum of Harvard University, The 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 984 mm
+2-Date founded: 1872
+2-Info:              Institution Code: AAH;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Arnold Arboretum of Harvard University, The        The Arnold Arboretum of Harvard University discovers and disseminates knowledge of the plant kingdom to foster greater understanding, appreciation, and stewardship of the Earth’s botanical diversity and its essential value to humankind.;   ;  This is accomplished through three areas of activity:;  ;      Research;      The Arnold Arboretum promotes research by its scientific staff and other scientists to increase our knowledge of the biology and evolutionary history of plants. ;  ;      Horticulture;      The Arboretum is committed to attaining a leadership role in the management and presentation of botanical collections and landscapes.;  ;      Education;      Education programs are based on the unique resources of the Arnold Arboretum.  They utilize the living collections and the cultural landscape, as well as the information resources and expertise of the staff to educate in the life sciences, plant biology, horticulture, and related disciplines.;  ;  In addition to these primary activities that fulfill our mission, the Arboretum maintains library, archival, herbarium and web resources to provide information, materials and support for Arboretum scientists and visiting researchers, as well as students and the interested public.  These resources hold significant value as historical and/or biological records, and are managed and conserved utilizing the best available preservation practices.  Information technology is critical both to the management of these resources and to the services that facilitate and promote their active use.;                        Main Address:;         Arnold Arboretum of Harvard University, The;         125 Arborway;                Boston;        Massachusetts 02130-3500 United States of America;        ;                 Telephone: (617) 524-1718;         Fax: (617) 524-1418;         URL: www.arboretum.harvard.edu;         Primary Email: arbweb@arnarb.harvard.edu       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 42.3077050
+2-Longitude: -71.1199090
+2-Natural Vegetation Area: Yes
+2-Total Area: 114 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 114
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 250000
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: No
+4-Accession Number: 14475
+4-Cultivation Taxa Num: 3926
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Catalpa, Celastrus, Celtis, Chamaecyparis, Clematis, Cornus, Corylus, Cotinus, Cotoneaster, Crataegus, Cytisus, Deutzia, Euonymus, Fagus, Forsythia, Fraxinus, Gleditsia, Hamamelis, Hedera, Hydrangea, Ilex, Juglans, Juniperus, Kamia, Ligustrum, Lonicera, Maackia, Magnolia, Mahonia, Malus, Morus, Paeonia, Philadelphus, Physocarpus, Picea, Pinus, Populus, Potentilla, Prunus, Pseudotsuga, Pterocarya, Pyrus, Quercus, Rhamnus, Rhododendron, Rhus, Ribes, Robinia, Rosa, Salix, Sambucus, Sorbaria, Sorbus, Spiraea, Symphoricarpos, Syringa, Taxus, Thuja, Tilia, Tsuga, Ulmus, Vaccinium, Viburnum, Vitis, Weigela.Threatened native plants, held as part of the Center for Plant Conservation National Collection.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: Yes
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: Yes
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: No
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: (617) 524-1418
+9-Institution Code: AAH
+9-International Agenda Registration: No
+9-Primary Email: arbweb@arnarb.harvard.edu
+9-Telephone: (617) 524-1718
+9-URL: www.arboretum.harvard.edu

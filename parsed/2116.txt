@@ -1,12 +1,20 @@
-ID:	2116
-Name:	Native Plant Experimental Garden 
-Curator's Name:	Maria do Carmo Both
-Director's Name:	Jose Truda Palazzo Jr.
-Info:	  Brazil - Florianopolis  ;Garden Information;  Institution Code: FLORI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Native Plant Experimental Garden; P.O. Box 5087, 88040-970 FLORIANOPOLIS, Brazil.; Florianopolis; Brazil; ;  Telephone: 55 (0)48 234 0021; Fax: 55 (0)48 234 1580; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1992
-Institution Type:	Other
-Latitude:	-27.5979
-Longitude:	-48.5481
-Special Collections:	Collections of cacti, orchids, bromeliads, native fruit trees, Myrtaceae.
+0-ID: 2116
+1-Name: Native Plant Experimental Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1992
+2-Info:              Institution Code: FLORI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Native Plant Experimental Garden;         P.O. Box 5087, 88040-970 FLORIANOPOLIS, Brazil.;                Florianopolis;        Brazil;        ;                 Telephone: 55 (0)48 234 0021;         Fax: 55 (0)48 234 1580;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: -27.5979
+2-Longitude: -48.5481
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2116">Please click here if you can update us</a>
+4-Special Collections: Collections of cacti, orchids, bromeliads, native fruit trees, Myrtaceae.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2116">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2116">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2116">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 55 (0)48 234 1580
+9-Institution Code: FLORI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 55 (0)48 234 0021
+9-URL: 

@@ -1,11 +1,19 @@
-ID:	2234
-Name:	Wilson Botanic Park 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Narre Warren  ;Garden Information;  Institution Code: WILBP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wilson Botanic Park; City of Casey, PO Box 1000, NARRE WARREN, VIC 3805, Australia; Narre Warren; Australia; ;  Telephone: 61 (0)3 9707 5818; Fax: 61 (0)3 9769 5726; URL: <a target="_blank" href="http://">; Primary Email: caseycc@vicnet.net.au ; 
-Plant Records Officer's Name:	
-Date founded:	1980
-Institution Type:	Botanic Garden
-Latitude:	-38.0256209
-Longitude:	145.3399273
-Special Collections:	30 % of collection if Australian flora.
+0-ID: 2234
+1-Name: Wilson Botanic Park 
+2-Date founded: 1980
+2-Info:              Institution Code: WILBP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wilson Botanic Park;         City of Casey,  PO Box 1000,  NARRE WARREN,  VIC 3805,  Australia;                Narre Warren;        Australia;        ;                 Telephone: 61 (0)3 9707 5818;         Fax: 61 (0)3 9769 5726;         URL: ;         Primary Email: caseycc@vicnet.net.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -38.0256209
+2-Longitude: 145.3399273
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2234">Please click here if you can update us</a>
+4-Special Collections: 30 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2234">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2234">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2234">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 9769 5726
+9-Institution Code: WILBP
+9-International Agenda Registration: No
+9-Primary Email: caseycc@vicnet.net.au
+9-Telephone: 61 (0)3 9707 5818
+9-URL: 

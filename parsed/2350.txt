@@ -1,14 +1,22 @@
-ID:	2350
-Name:	The Botanic Garden of the Royal Zoological Society, Antwerp 
-Curator's Name:	Karel Olbrechts
-Director's Name:	Hans De Beule
-Info:	  Belgium - Antwerp  ;Garden Information;  Institution Code: ANTPN; International Agenda Registration: No; BGCI Member: No; About the The Botanic Garden of the Royal Zoological Society, Antwerp The Antwerp Botanic Garden is a green oasis in the busy centre of Antwerp.; ; In the Garden you can find a substantial number of exceptional trees and shrubs. The herbal collection contains about 2.000 pieces, among which several are legally protected. In the greenhouse is a large collection of tropical and subtropical species.; ; The Garden has a history of more than 200 years. In the early years it was the medical garden of the nearby Saint Elisabeth hospital. About 125 years ago, important botanical and scientific research was done here. Since 1926, the garden is under the administration of the city council. In 1950, the garden was classified als a landscape of great value.;  Main Address:; The Botanic Garden of the Royal Zoological Society, Antwerp; Plantentuin Stad Antwerpen, Leopoldstraat 24, B-2000 Antwerpen; Antwerp; B-2000 Belgium; ;  Telephone: 32 (0)3 232 40 87; Fax: 32 (0)3 829 07 14; URL: <a target="_blank" href="http://www.zooantwerpen.be">www.zooantwerpen.be; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1804
-Institution Type:	Botanic Garden
-Latitude:	51.2187
-Local Address:	Leopoldstraat 24 B-2000 ANTWERPEN
-Locality:	Information
-Longitude:	4.3935
-Special Collections:	Tropical and subtropical plants, verwilderingsbolgewassen
+0-ID: 2350
+1-Name: The Botanic Garden of the Royal Zoological Society, Antwerp 
+2-Altitude: 0.00 Metres
+2-Date founded: 1804
+2-Info:              Institution Code: ANTPN;             International Agenda Registration: No;        BGCI Member: No;                                                  About the The Botanic Garden of the Royal Zoological Society, Antwerp        The Antwerp Botanic Garden is a green oasis in the busy centre of Antwerp.;  ;  In the Garden you can find a substantial number of exceptional trees and shrubs. The herbal collection contains about 2.000 pieces, among which several are legally protected. In the greenhouse is a large collection of tropical and subtropical species.;  ;  The Garden has a history of more than 200 years. In the early years it was the medical garden of the nearby Saint Elisabeth hospital. About 125 years ago, important botanical and scientific research was done here. Since 1926, the garden is under the administration of the city council. In 1950, the garden was classified als a landscape of great value.;                        Main Address:;         The Botanic Garden of the Royal Zoological Society, Antwerp;         Plantentuin Stad Antwerpen, Leopoldstraat 24, B-2000 Antwerpen;                Antwerp;        B-2000 Belgium;        ;                 Telephone: 32 (0)3 232 40 87;         Fax: 32 (0)3 829 07 14;         URL: www.zooantwerpen.be;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.2187
+2-Local Address: Leopoldstraat 24 B-2000 ANTWERPEN
+2-Locality: Information
+2-Longitude: 4.3935
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2350">Please click here if you can update us</a>
+4-Special Collections: Tropical and subtropical plants, verwilderingsbolgewassen
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2350">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2350">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2350">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 32 (0)3 829 07 14
+9-Institution Code: ANTPN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 32 (0)3 232 40 87
+9-URL: www.zooantwerpen.be

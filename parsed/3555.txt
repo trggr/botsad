@@ -1,9 +1,18 @@
-ID:	3555
-Name:	Budapest Zoo & Botanical Garden 
-Curator's Name:	Vince Zsigmond
-Director's Name:	-
-Info:	  Hungary - Budapest  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Budapest Zoo & Botanical Garden; Allatkerti krt. 6-12.; Budapest; H-1146 Hungary; ;  Telephone: 36-1-273-4946; Fax: 36-1-363-3706; URL: <a target="_blank" href="http://www.zoobudapest.com/">www.zoobudapest.com/; Primary Email: info@zoobudapest.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	47.5101
-Longitude:	19.0936
+0-ID: 3555
+1-Name: Budapest Zoo & Botanical Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Budapest Zoo & Botanical Garden;         Allatkerti krt. 6-12.;                Budapest;        H-1146 Hungary;        ;                 Telephone: 36-1-273-4946;         Fax: 36-1-363-3706;         URL: www.zoobudapest.com/;         Primary Email: info@zoobudapest.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.5101
+2-Longitude: 19.0936
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3555">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3555">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3555">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3555">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3555">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 36-1-363-3706
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: info@zoobudapest.com
+9-Telephone: 36-1-273-4946
+9-URL: www.zoobudapest.com/

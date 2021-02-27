@@ -1,36 +1,37 @@
-ID:	164
-Name:	Royal Botanic Gardens, Victoria - Melbourne Gardens 
-Administration Staff Number:	
-Curator's Name:	Chris Cole, Executive Director Melbourne Gardens
-Director's Name:	Dr. Tim Entwisle, Director and Chief Executive
-Educational Staff Number:	4
-Horticultural Staff Number:	25
-Info:	  Australia - Victoria - Melbourne  ;Garden Information;  Institution Code: MEL; International Agenda Registration: Yes; BGCI Member: Yes; About the Royal Botanic Gardens, Victoria - Melbourne Gardens Established in 1846, Melbourne's Royal Botanic Gardens is one of Australia's premier botanical institutions and an inner city landmark extending over 38 picturesque hectares. A recognised leader in horticultural science and research, the Gardens is also one of Melbourne’s most popular tourist attractions with annually over 1.6 million visitors viewing the 10,000 plant species on display and enjoying the range of year-round events and unique tours.;  Main Address:; Royal Botanic Gardens, Victoria - Melbourne Gardens; Birdwood Avenue, South Yarra; Private Bag 2000; Melbourne; Victoria 3141 Australia; ;  Telephone: 61 (0)3 9252 2300; Fax: 61 (0)3 9252 2442; URL: <a target="_blank" href="http://rbg.vic.gov.au">rbg.vic.gov.au; Primary Email: rbg@rbg.vic.gov.au ; 
-Plant Records Officer's Name:	David Cash, Gardens Information Officer
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1846
-Institution Type:	Botanic Garden
-Latitude:	-37.8291413
-Longitude:	144.9798453
-Satellite Garden Names:	Royal Botanic Gardens Cranbourne
-Total Area:	38 Hectares
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Number of Visitors:	1600000
-Open to public:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	10000
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	10 % of collection is Australian flora. Collections from Australia including rain forest spp., Norfolk and Lord Howe Islands, California, Canary Islands, collections of Rhododendron esp. genus Vireya, Borya, Camellia, Quercus, Orchidaceae, succulents, bro
-Reintroduction Programme:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 164
+1-Name: Royal Botanic Gardens, Victoria - Melbourne Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1846
+2-Info:              Institution Code: MEL;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Royal Botanic Gardens, Victoria - Melbourne Gardens        Established in 1846, Melbourne's Royal Botanic Gardens is one of Australia's premier botanical institutions and an inner city landmark extending over 38 picturesque hectares. A recognised leader in horticultural science and research, the Gardens is also one of Melbourne’s most popular tourist attractions with annually over 1.6 million visitors viewing the 10,000 plant species on display and enjoying the range of year-round events and unique tours.;                        Main Address:;         Royal Botanic Gardens, Victoria - Melbourne Gardens;         Birdwood Avenue, South Yarra;        Private Bag 2000;        Melbourne;        Victoria 3141 Australia;        ;                 Telephone: 61 (0)3 9252 2300;         Fax: 61 (0)3 9252 2442;         URL: rbg.vic.gov.au;         Primary Email: rbg@rbg.vic.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -37.8291413
+2-Longitude: 144.9798453
+2-Satellite Garden Names: Royal Botanic Gardens Cranbourne
+2-Total Area: 38 Hectares
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 1600000
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 10000
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: 10 % of collection is Australian flora. Collections from Australia including rain forest spp., Norfolk and Lord Howe Islands, California, Canary Islands, collections of Rhododendron esp. genus Vireya, Borya, Camellia, Quercus, Orchidaceae, succulents, bro
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=164">Please click here if you can update us</a>
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 61 (0)3 9252 2442
+9-Institution Code: MEL
+9-International Agenda Registration: Yes
+9-Primary Email: rbg@rbg.vic.gov.au
+9-Telephone: 61 (0)3 9252 2300
+9-URL: rbg.vic.gov.au

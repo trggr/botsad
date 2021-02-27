@@ -1,12 +1,20 @@
-ID:	1021
-Name:	Grevillea Study Group Collection 
-Curator's Name:	Mr. R. Brown
-Director's Name:	Mr P. Olde
-Info:	  Australia - Illawarra  ;Garden Information;  Institution Code: GREVL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Grevillea Study Group Collection; Illawarra Grevillea park Society Inc. Princes Highway BULLI NSW 2516 Australia; Illawarra; Australia; ;  Telephone: 02 543 2242; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1978
-Institution Type:	Other
-Latitude:	-34.329359
-Longitude:	150.908833
-Special Collections:	Grevillea
+0-ID: 1021
+1-Name: Grevillea Study Group Collection 
+2-Altitude: 0.00 Metres
+2-Date founded: 1978
+2-Info:              Institution Code: GREVL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Grevillea Study Group Collection;         Illawarra Grevillea park Society Inc. Princes Highway BULLI NSW 2516 Australia;                Illawarra;        Australia;        ;                 Telephone: 02 543 2242;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: -34.329359
+2-Longitude: 150.908833
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1021">Please click here if you can update us</a>
+4-Special Collections: Grevillea
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1021">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1021">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1021">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: GREVL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 02 543 2242
+9-URL: 

@@ -1,77 +1,80 @@
-ID:	58
-Name:	Chelsea Physic Garden 
-Fax:	
-Info:	  United Kingdom - London  ;Garden Information;  Institution Code: CHEL; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	enquiries@chelseaphysicgarden.co.uk
-Telephone:	44 (0)20 7352 5646
-Administration Staff Number:	10
-Curator's Name:	Nell Jones
-Director's Name:	Mrs Sue Medway
-Educational Staff Number:	2
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	Kevin Creed
-Research Staff Number:	
-Altitude:	5.00 Metres
-Annual Rainfall:	566 mm
-Date founded:	1673
-Institution Type:	Botanic Garden
-Latitude:	51.48451
-Local Address:	66 Royal Hospital Road
-Locality:	Information
-Longitude:	-0.162304
-Satellite Garden Names:	Elkstone Road Garden Oasis
-Total Area:	2 Hectares
-Total area of glasshouses:	405 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	55000
-Number of Volunteers:	75
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	6256
-Cultivation Taxa Num:	4171
-Special Collections:	Specialist collections
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 58
+1-Name: Chelsea Physic Garden 
+2-Administration Staff Number: 10
+2-Curator's Name: Nell Jones
+2-Director's Name: Mrs Sue Medway
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: CHEL;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/58/sloanespring.jpg" alt="Statue of Sir Hans Sloane, benefactor of Chelsea Physic Garden." />         Statue of Sir Hans Sloane, benefactor of Chelsea Physic Garden.</div>        </div>                           About the Chelsea Physic Garden        The Chelsea Physic Garden was founded by the Society of Apothecaries in 1673 in order to promote the study of botany in relation to medicine, then known as the "physic" or healing arts. As the second oldest botanic garden in England it still fulfills the traditional functions of scientific research and plant conservation and undertakes to educate and inform as well as to provide the amenity of a walled "secret" garden in the heart of London.;  ;  Its aims are:;  • to demonstrate through its plantings and publications the range of species named or introduced to cultivation by a succession of distinguished curators;;  ;  • to pursue horticultural excellence, especially in the cultivation of rare and tender plants;;  ;  • to demonstrate to all who visit the many uses of plants and particularly the heritage of the plant world as our common medicine chest;                        Main Address:;         Chelsea Physic Garden;         66 Royal Hospital Road;                London;        SW3 4HS United Kingdom;        ;                 Telephone: 44 (0)20 7352 5646;         Fax: ;         URL: http://www.chelseaphysicgarden.co.uk;         Primary Email: enquiries@chelseaphysicgarden.co.uk       ;              
+2-Plant Records Officer's Name: Kevin Creed
+2-Research Staff Number: 
+3-Altitude: 5.00 Metres
+3-Annual Rainfall: 566 mm
+3-Date founded: 1673
+3-Institution Type: Botanic Garden
+3-Latitude: 51.48451
+3-Local Address: 66 Royal Hospital Road
+3-Locality: Information
+3-Longitude: -0.162304
+3-Satellite Garden Names: Elkstone Road Garden Oasis
+3-Total Area: 2 Hectares
+3-Total area of glasshouses: 405 Metres
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 55000
+4-Number of Volunteers: 75
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: Yes
+5-ABS Policy: Yes
+5-Accession Number: 6256
+5-Cultivation Taxa Num: 4171
+5-Special Collections: Specialist collections
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: No
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: Yes
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: CHEL
+9-International Agenda Registration: Yes
+9-Primary Email: enquiries@chelseaphysicgarden.co.uk
+9-Telephone: 44 (0)20 7352 5646

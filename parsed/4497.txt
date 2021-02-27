@@ -1,10 +1,20 @@
-ID:	4497
-Name:	Knoxville Botanical Garden 
-Curator's Name:	Brian Campbell, Garden Manager
-Director's Name:	Vicki Baumgartner, Interim Director
-Info:	  United States of America - Tennessee - Knoxville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Knoxville Botanical Garden The Board of Directors for the Knoxville Botanical Gardens and Arboretum considers it important that this 44-acre “secret garden” in East Knoxville be preserved and ultimately restored for the benefit and enjoyment of the public. This site has potential significance for the cultural and horticultural history of Knoxville as well as historical data from Civil War and Native American activity on this property. We see the preservation and restoration of this site as a catalyst for the ongoing improvement and development of East Knoxville in addition to contributing to the revitalization of downtown Knoxville.; ; Our hope is to see this historic landscape preserved, restored and expanded as a public garden, a community resource and as a tourist destination. We envision: every tree native to this region displayed along with rare and exotic species already established, pleasure gardens designed by nationally noted garden designers to create a collection quite extraordinary and significant to Knoxville, a bird sanctuary, areas designated for plant cultivation, meditation, water features, sculpture and ultimately an amphitheater for plays, concerts and festivals.; ; The Knoxville Botanical Gardens and Arboretum will provide a new and much needed dedicated “green space” for the community that surrounds it as well as educational programs for children and adults throughout Knoxville. We see the arboretum serving as a catalyst for energizing and improving a long neglected neighborhood. We are in the process of building consensus with our neighbors so that they become involved with the dream. The residents of the area are extremely excited and proud of this project.;  Main Address:; Knoxville Botanical Garden; 2743 Wimpole Avenue; Knoxville; Tennessee 37914 United States of America; ;  Telephone: (865) 862-8717; Fax: (865) 862-8721; URL: <a target="_blank" href="http://www.knoxgarden.org">www.knoxgarden.org; Primary Email: info@knoxgarden.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	35.9832680
-Longitude:	-83.8824310
+0-ID: 4497
+1-Name: Knoxville Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Knoxville Botanical Garden        The Board of Directors for the Knoxville Botanical Gardens and Arboretum considers it important that this 44-acre “secret garden” in East Knoxville be preserved and ultimately restored for the benefit and enjoyment of the public. This site has potential significance for the cultural and horticultural history of Knoxville as well as historical data from Civil War and Native American activity on this property. We see the preservation and restoration of this site as a catalyst for the ongoing improvement and development of East Knoxville in addition to contributing to the revitalization of downtown Knoxville.;  ;  Our hope is to see this historic landscape preserved, restored and expanded as a public garden, a community resource and as a tourist destination. We envision: every tree native to this region displayed along with rare and exotic species already established, pleasure gardens designed by nationally noted garden designers to create a collection quite extraordinary and significant to Knoxville, a bird sanctuary, areas designated for plant cultivation, meditation, water features, sculpture and ultimately an amphitheater for plays, concerts and festivals.;  ;  The Knoxville Botanical Gardens and Arboretum will provide a new and much needed dedicated “green space” for the community that surrounds it as well as educational programs for children and adults throughout Knoxville. We see the arboretum serving as a catalyst for energizing and improving a long neglected neighborhood. We are in the process of building consensus with our neighbors so that they become involved with the dream. The residents of the area are extremely excited and proud of this project.;                        Main Address:;         Knoxville Botanical Garden;         2743 Wimpole Avenue;                Knoxville;        Tennessee 37914 United States of America;        ;                 Telephone: (865) 862-8717;         Fax: (865) 862-8721;         URL: www.knoxgarden.org;         Primary Email: info@knoxgarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.9832680
+2-Longitude: -83.8824310
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4497">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4497">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4497">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4497">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4497">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (865) 862-8721
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Our hope is to see this historic landscape preserved, restored and expanded as a public garden, a community resource and as a tourist destination. We envision: every tree native to this region displayed along with rare and exotic species already established, pleasure gardens designed by nationally noted garden designers to create a collection quite extraordinary and significant to Knoxville, a bird sanctuary, areas designated for plant cultivation, meditation, water features, sculpture and ultimately an amphitheater for plays, concerts and festivals.
+9-Primary Email: info@knoxgarden.org
+9-Telephone: (865) 862-8717
+9-URL: www.knoxgarden.org

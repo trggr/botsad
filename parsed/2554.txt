@@ -1,12 +1,26 @@
-ID:	2554
-Name:	Conservatoire Botanique National Alpin de Gap-Charance 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Gap-charance  ;Garden Information;  Institution Code: GAP; International Agenda Registration: No; BGCI Member: No; About the Conservatoire Botanique National Alpin de Gap-Charance Location: GAP-CHARANCE; Founded: 1986; Garden Name: Conservatoire Botanique National Alpin de Gap-Charance; Address: Domaine de Charance 05000 GAP; Status: State; Herbarium: Unknown; Ex situ Collections:; Apple and pear varieties (1,500 taxa), roses (1,35;  Main Address:; Conservatoire Botanique National Alpin de Gap-Charance; Domaine de Charance 05000 GAP France; Gap-charance; France; ;  Telephone: 33 4 92 53 56 82; Fax: 33 4 92 51 94 58; URL: <a target="_blank" href="http://">; Primary Email: cbn-gap@alpes-net.fr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1986
-Institution Type:	Other
-Latitude:	44.5644
-Longitude:	6.0671
-Special Collections:	Apple and pear varieties (1,500 taxa), roses (1,350 accessions, 1,000 taxa)), trees and shrubs, alpine plants, Sorbus and Crataegus (100 taxa),
+0-ID: 2554
+1-Name: Conservatoire Botanique National Alpin de Gap-Charance 
+2-Altitude: 0.00 Metres
+2-Date founded: 1986
+2-Info:              Institution Code: GAP;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Conservatoire Botanique National Alpin de Gap-Charance        Location: GAP-CHARANCE;  Founded: 1986;  Garden Name: Conservatoire Botanique National Alpin de Gap-Charance;  Address: Domaine de Charance 05000 GAP;  Status: State;  Herbarium: Unknown;  Ex situ Collections:;  Apple and pear varieties (1,500 taxa), roses (1,35;                        Main Address:;         Conservatoire Botanique National Alpin de Gap-Charance;         Domaine de Charance 05000 GAP France;                Gap-charance;        France;        ;                 Telephone: 33 4 92 53 56 82;         Fax: 33  4 92 51 94 58;         URL: ;         Primary Email: cbn-gap@alpes-net.fr       ;              
+2-Institution Type: Other
+2-Latitude: 44.5644
+2-Longitude: 6.0671
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2554">Please click here if you can update us</a>
+4-Special Collections: Apple and pear varieties (1,500 taxa), roses (1,350 accessions, 1,000 taxa)), trees and shrubs, alpine plants, Sorbus and Crataegus (100 taxa),
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2554">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2554">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2554">Please click here if you can update us</a>
+9-About the Conservatoire Botanique National Alpin de Gap-Charance        Location: GAP-CHARANCE
+9-Address: Domaine de Charance 05000 GAP
+9-BGCI Member: No
+9-Fax: 33  4 92 51 94 58
+9-Founded: 1986
+9-Garden Name: Conservatoire Botanique National Alpin de Gap-Charance
+9-Herbarium: Unknown
+9-Institution Code: GAP
+9-International Agenda Registration: No
+9-Primary Email: cbn-gap@alpes-net.fr
+9-Status: State
+9-Telephone: 33 4 92 53 56 82
+9-URL: 

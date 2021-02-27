@@ -1,54 +1,54 @@
-ID:	257
-Name:	University of California Botanical Garden at Berkeley 
-Administration Staff Number:	12
-Curator's Name:	Holly Forbes, Curator
-Director's Name:	Vanessa Handley, Director of Collections & Research
-Educational Staff Number:	3
-Horticultural Staff Number:	15
-Info:	  United States of America - California - Berkeley  ;Garden Information;  Institution Code: UC; International Agenda Registration: No; BGCI Member: Yes; About the University of California Botanical Garden at Berkeley The mission of the University of California Botanical Garden is to develop and maintain a diverse living collection of plants to support teaching and worldwide research in plant biology, further the conservation of plant diversity, and promote public understanding and appreciation of plants and the natural environment.; ; The Garden's plant collection of over 10,000 taxa features plants of documented wild origin from nearly every continent, with an emphasis on plants from Mediterranean climates (California, Mediterranean Basin, Australia, South Africa, and Chile). The arrangement of the outdoor collections is primarily geographic by continent of origin or by region including Asia, Australasia, California, Deserts of the Americas, Eastern North America, Mediterranean, Mexico/Central America, South America, and Southern Africa. The Garden holds one of the largest and most diverse collections in the United States. ; ; California native plants (over 2,750 accesssions) occupy approximately one-third of the Garden's area and are grouped by plant communities. These include over a quarter of the state's native species (according to The Jepson Manual: Higher Plants of California) and 201 taxa on the California Native Plant Society's list of rare and endangered species.;  Main Address:; University of California Botanical Garden at Berkeley; 200 Centennial Drive #5045; Berkeley; California 94720-5045 United States of America; ;  Telephone: (510) 643-2755; Fax: (510) 642-3012; URL: <a target="_blank" href="http://botanicalgarden.berkeley.edu">http://botanicalgarden.berkeley.edu; Primary Email: garden@berkeley.edu ; 
-Plant Records Officer's Name:	Holly Forbes
-Research Staff Number:	1
-Altitude:	210.00 Metres
-Annual Rainfall:	600 mm
-Date founded:	1890
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	37.8750040
-Longitude:	-122.2383690
-Natural Vegetation Area:	No
-Total Area:	14 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	80000
-Number of Volunteers:	340
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	17000
-Cultivation Taxa Num:	10800
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Amaryllidaceae, Cactaceae, Cupressaceae, Ericaceae, Fagaceae, Poaceae, Liliaceae, Orchidaceae, Pinaceae, Rhamnaceae, Zamiaceae, Arctostaphylos, Ceanothus, Magnolia, Pinus, Quercus, native Californian bulbs, succulents, orchids, rhododendrons, Pteridophyta, medicinal plants
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Horticulture:	Yes
-Molecular Genetics:	Yes
-Systematics and Taxonomy:	Yes
-Courses for General Public:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 257
+1-Name: University of California Botanical Garden at Berkeley 
+2-Altitude: 210.00 Metres
+2-Annual Rainfall: 600 mm
+2-Date founded: 1890
+2-Info:              Institution Code: UC;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the University of California Botanical Garden at Berkeley        The mission of the University of California Botanical Garden is to develop and maintain a diverse living collection of plants to support teaching and worldwide research in plant biology, further the conservation of plant diversity, and promote public understanding and appreciation of plants and the natural environment.;  ;  The Garden's plant collection of over 10,000 taxa features plants of documented wild origin from nearly every continent, with an emphasis on plants from Mediterranean climates (California, Mediterranean Basin, Australia, South Africa, and Chile). The arrangement of the outdoor collections is primarily geographic by continent of origin or by region including Asia, Australasia, California, Deserts of the Americas, Eastern North America, Mediterranean, Mexico/Central America, South America, and Southern Africa. The Garden holds one of the largest and most diverse collections in the United States. ;  ;  California native plants (over 2,750 accesssions) occupy approximately one-third of the Garden's area and are grouped by plant communities. These include over a quarter of the state's native species (according to The Jepson Manual: Higher Plants of California) and 201 taxa on the California Native Plant Society's list of rare and endangered species.;                        Main Address:;         University of California Botanical Garden at Berkeley;         200 Centennial Drive #5045;                Berkeley;        California 94720-5045 United States of America;        ;                 Telephone: (510) 643-2755;         Fax: (510) 642-3012;         URL: http://botanicalgarden.berkeley.edu;         Primary Email: garden@berkeley.edu       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 37.8750040
+2-Longitude: -122.2383690
+2-Natural Vegetation Area: No
+2-Total Area: 14 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 80000
+3-Number of Volunteers: 340
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Accession Number: 17000
+4-Cultivation Taxa Num: 10800
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Amaryllidaceae, Cactaceae, Cupressaceae, Ericaceae, Fagaceae, Poaceae, Liliaceae, Orchidaceae, Pinaceae, Rhamnaceae, Zamiaceae, Arctostaphylos, Ceanothus, Magnolia, Pinus, Quercus, native Californian bulbs, succulents, orchids, rhododendrons, Pteridophyta, medicinal plants
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Horticulture: Yes
+6-Molecular Genetics: Yes
+6-Systematics and Taxonomy: Yes
+7-Courses for General Public: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-California native plants (over 2,750 accesssions) occupy approximately one-third of the Garden's area and are grouped by plant communities. These include over a quarter of the state's native species (according to The Jepson Manual: Higher Plants of California) and 201 taxa on the California Native Plant Society's list of rare and endangered species.
+9-Fax: (510) 642-3012
+9-Institution Code: UC
+9-International Agenda Registration: No
+9-Primary Email: garden@berkeley.edu
+9-Telephone: (510) 643-2755

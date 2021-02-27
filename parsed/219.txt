@@ -1,34 +1,34 @@
-ID:	219
-Name:	The Harris Garden 
-Administration Staff Number:	
-Curator's Name:	Dr Alastair Culham
-Director's Name:	Rupert Taylor, Head of Grounds Maintenance
-Educational Staff Number:	
-Horticultural Staff Number:	6
-Info:	  United Kingdom - Reading  ;Garden Information;  Institution Code: RNG; International Agenda Registration: No; BGCI Member: No; About the The Harris Garden TAXA: 1,600 (5,000 accessions, 25,000 plants);  Main Address:; The Harris Garden; University of Reading; Whiteknights Campus; Reading; RG6 6UR United Kingdom; ;  Telephone: +44 (0)118 378 8312; Fax: ; URL: <a target="_blank" href="http://www.friendsoftheharrisgarden.org.uk">http://www.friendsoftheharrisgarden.org.uk; Primary Email: abqpitma@reading.ac.uk ; 
-Plant Records Officer's Name:	Trevor Pitman
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1972
-Institution Type:	Botanic Garden
-Latitude:	51.437512
-Longitude:	-0.938189
-Total Area:	3 Hectares
-Total area of glasshouses:	2000 Metres
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	500
-Number of Volunteers:	12
-Open to public:	Yes
-Special Collections:	Umbelliferae, Compositae of wild provenance, Iridaceae, Liliaceae, Amaryllidaceae, Geraniaceae, Crassulaceae, Labiatae, Fagaceae, Scrophulariaceae, Palmae, Asclepiadaceae, Droseraceae, Nepenthaceae, Sarraceniaceae, Lentibulariaceae, Leguminosae, Pinaceae.
-Medicinal Plant Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Pharmacology:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Guided Tours:	Yes
+0-ID: 219
+1-Name: The Harris Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1972
+2-Info:              Institution Code: RNG;             International Agenda Registration: No;        BGCI Member: No;                                                  About the The Harris Garden        TAXA: 1,600 (5,000 accessions, 25,000 plants);                        Main Address:;         The Harris Garden;         University of Reading;        Whiteknights Campus;        Reading;        RG6 6UR United Kingdom;        ;                 Telephone: +44 (0)118 378 8312;         Fax: ;         URL: http://www.friendsoftheharrisgarden.org.uk;         Primary Email: abqpitma@reading.ac.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.437512
+2-Longitude: -0.938189
+2-Total Area: 3 Hectares
+2-Total area of glasshouses: 2000 Metres
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 500
+3-Number of Volunteers: 12
+3-Open to public: Yes
+4-Special Collections: Umbelliferae, Compositae of wild provenance, Iridaceae, Liliaceae, Amaryllidaceae, Geraniaceae, Crassulaceae, Labiatae, Fagaceae, Scrophulariaceae, Palmae, Asclepiadaceae, Droseraceae, Nepenthaceae, Sarraceniaceae, Lentibulariaceae, Leguminosae, Pinaceae.
+5-Medicinal Plant Programme: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Pharmacology: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Guided Tours: Yes
+9-About the The Harris Garden        TAXA: 1,600 (5,000 accessions, 25,000 plants)
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: RNG
+9-International Agenda Registration: No
+9-Primary Email: abqpitma@reading.ac.uk
+9-Telephone: +44 (0)118 378 8312

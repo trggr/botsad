@@ -1,18 +1,25 @@
-ID:	3418
-Name:	Washington National Cathedral - Horticulture 
-Curator's Name:	
-Director's Name:	-
-Info:	  United States of America - District Of Columbia - Washington  ;Garden Information;  Institution Code: WDCNC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Washington National Cathedral - Horticulture; 3101 Wisconsin Avenue NW; Washington; District Of Columbia 20016 United States of America; ;  Telephone: (202) 537-6282; Fax: (202) 537-5633; URL: <a target="_blank" href="http://www.cathedral.org">www.cathedral.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Annual Rainfall:	998 mm
-Date founded:	1916
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	38.9296420
-Longitude:	-77.0697410
-Natural Vegetation Area:	Yes
-Total Area:	23 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Guided Tours:	Yes
+0-ID: 3418
+1-Name: Washington National Cathedral - Horticulture 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 998 mm
+2-Date founded: 1916
+2-Info:              Institution Code: WDCNC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Washington National Cathedral - Horticulture;         3101 Wisconsin Avenue NW;                Washington;        District Of Columbia 20016 United States of America;        ;                 Telephone: (202) 537-6282;         Fax: (202) 537-5633;         URL: www.cathedral.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 38.9296420
+2-Longitude: -77.0697410
+2-Natural Vegetation Area: Yes
+2-Total Area: 23 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3418">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3418">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3418">Please click here if you can update us</a>
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: (202) 537-5633
+9-Institution Code: WDCNC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (202) 537-6282
+9-URL: www.cathedral.org

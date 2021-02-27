@@ -1,12 +1,21 @@
-ID:	3035
-Name:	Beijing Forestry University Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Beijing - Beijing  ;Garden Information;  Institution Code: BFUC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Beijing Forestry University Botanic Garden; Landscape Architecture Department, Forest Resources College, Beijing Forestry University, Beijing, 100083, China; Beijing; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	39.9055
-Local Address:	中国北京市北京林业大学森林资源与环境学院园林系，邮编 100083
-Locality:	Information
-Longitude:	116.3958
+0-ID: 3035
+1-Name: Beijing Forestry University Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: BFUC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Beijing Forestry University Botanic Garden;         Landscape Architecture Department, Forest Resources College, Beijing Forestry University, Beijing, 100083, China;                Beijing;        Beijing China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.9055
+2-Local Address: 中国北京市北京林业大学森林资源与环境学院园林系，邮编 100083
+2-Locality: Information
+2-Longitude: 116.3958
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3035">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3035">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3035">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3035">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3035">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BFUC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

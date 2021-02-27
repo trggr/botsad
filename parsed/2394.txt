@@ -1,10 +1,19 @@
-ID:	2394
-Name:	Gayndah Botanical Gardens and Pioneer Place 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Gayndah  ;Garden Information;  Institution Code: GAYN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gayndah Botanical Gardens and Pioneer Place; Gayndah Shire Council, GAYNDAH, QLD 4625, Australia; Gayndah; Australia; ;  Telephone: 61 (0)7 4161 1377; Fax: 61 (0)7 4161 1934; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1998
-Institution Type:	Botanic Garden
-Latitude:	-25.62369
-Longitude:	151.63943
+0-ID: 2394
+1-Name: Gayndah Botanical Gardens and Pioneer Place 
+2-Date founded: 1998
+2-Info:              Institution Code: GAYN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gayndah Botanical Gardens and Pioneer Place;         Gayndah Shire Council,  GAYNDAH,  QLD 4625,  Australia;                Gayndah;        Australia;        ;                 Telephone: 61 (0)7 4161 1377;         Fax: 61 (0)7 4161 1934;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -25.62369
+2-Longitude: 151.63943
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2394">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2394">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2394">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2394">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2394">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)7 4161 1934
+9-Institution Code: GAYN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)7 4161 1377
+9-URL: 

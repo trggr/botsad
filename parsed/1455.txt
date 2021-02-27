@@ -1,11 +1,19 @@
-ID:	1455
-Name:	Big Brook Forest Arboretum 
-Curator's Name:	District Manager
-Director's Name:	Dr. S. Shea
-Info:	  Australia - Pemberton  ;Garden Information;  Institution Code: KALGO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Big Brook Forest Arboretum; Department of CALM, PEMBERTON, WA 6260, Australia; Pemberton; Australia; ;  Telephone: 61 (0)8 9776 1207; Fax: 61 (0)8 9776 1410; URL: <a target="_blank" href="http://">; Primary Email: harryh@calm.wa.gov.au ; 
-Plant Records Officer's Name:	
-Date founded:	1929
-Institution Type:	Botanic Garden
-Latitude:	-34.40519
-Longitude:	116.00407
-Special Collections:	80 % of collection is Australian flora. Sequoia sempervirens, mixed conifers, eucalyptus
+0-ID: 1455
+1-Name: Big Brook Forest Arboretum 
+2-Date founded: 1929
+2-Info:              Institution Code: KALGO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Big Brook Forest Arboretum;         Department of CALM,   PEMBERTON,   WA 6260,   Australia;                Pemberton;        Australia;        ;                 Telephone: 61 (0)8 9776 1207;         Fax: 61 (0)8 9776 1410;         URL: ;         Primary Email: harryh@calm.wa.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -34.40519
+2-Longitude: 116.00407
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1455">Please click here if you can update us</a>
+4-Special Collections: 80 % of collection is Australian flora. Sequoia sempervirens, mixed conifers, eucalyptus
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1455">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1455">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1455">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)8 9776 1410
+9-Institution Code: KALGO
+9-International Agenda Registration: No
+9-Primary Email: harryh@calm.wa.gov.au
+9-Telephone: 61 (0)8 9776 1207
+9-URL: 

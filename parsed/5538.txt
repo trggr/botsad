@@ -1,9 +1,18 @@
-ID:	5538
-Name:	Southwest Forestry University 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Yunnan - Kunming  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Southwest Forestry University; Yunnan Academy of Biodiversity; 300# Bailong Temple, Panlong District; Kunming; Yunnan China; ;  Telephone: 0871-63862218; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	25.0605567
-Longitude:	102.7497721
+0-ID: 5538
+1-Name: Southwest Forestry University 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Southwest Forestry University;         Yunnan Academy of  Biodiversity;        300# Bailong Temple, Panlong District;        Kunming;        Yunnan China;        ;                 Telephone: 0871-63862218;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.0605567
+2-Longitude: 102.7497721
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5538">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5538">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5538">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5538">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5538">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0871-63862218
+9-URL: 

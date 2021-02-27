@@ -1,76 +1,79 @@
-ID:	2381
-Name:	Eden Project, The 
-Administration Staff Number:	2
-Curator's Name:	Paul Stone, Head of Horticulture
-Director's Name:	n/a
-Educational Staff Number:	6
-Horticultural Staff Number:	33
-Info:	  United Kingdom - Bodelva, Cornwall  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: EDEN; International Agenda Registration: Yes; BGCI Member: Yes; About the Eden Project, The The Eden Project was established as one of the landmark Millennium projects in the UK to mark the year 2000 and is structured as an educational charitable trust. ; ; Eden's mission is 'To promote the understanding and responsible management of the vital relationship between plants, people and resources leading to a sustainable future for all'.; ; The Eden Project communicates its story in a ‘Living Theatre of Plants and People’ based in a large crater in which nestle two vast greenhouses (Biomes). ; ; Currently in possession of approximately 11,000 live taxa.;  Main Address:; Eden Project, The; Bodelva, Cornwall; PL24 2SG United Kingdom; ;  Telephone: +44 (0) 1726 811 911; Fax: +44 (0) 1726 811 912; URL: <a target="_blank" href="http://www.edenproject.com">www.edenproject.com; Primary Email: lmackinnon@edenproject.com ; 
-Plant Records Officer's Name:	Lorna MacKinnon
-Research Staff Number:	8
-Altitude:	0.00 Metres
-Date founded:	1997
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	50.361944
-Longitude:	-4.744719
-Satellite Garden Names:	Watering Lane Nursery
-Total Area:	50 Hectares
-Total area of glasshouses:	25130 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	1
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	7040
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Tropical plant collection under largest greenhouse in the world (1263 live taxa), consisting of global economically important crops (Coffee, Banana, Rice, and plant species found in Oceanic Islands, Malaysia, West Tropical Africa and the Amazon.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Restoration Ecology:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
-<p class="MsoNormal" style="text-align:	justify
-<table style="margin-left:	auto
-font-family:	"Calibri","sans-serif"
-font-size:	11.0pt
-line-height:	115%
-margin-right:	auto
-mso-ascii-font-family:	Calibri
-mso-ascii-theme-font:	minor-latin
-mso-fareast-font-family:	"Times New Roman"
-mso-fareast-theme-font:	minor-fareast
-mso-hansi-font-family:	Calibri
-mso-hansi-theme-font:	minor-latin
-mso-padding-alt:	0cm 5.4pt 0cm 5.4pt
-mso-pagination:	widow-orphan
-mso-para-margin-bottom:	10.0pt
-mso-para-margin-left:	0cm
-mso-para-margin-right:	0cm
-mso-para-margin-top:	0cm
-mso-style-noshow:	yes
-mso-style-parent:	""
-mso-style-priority:	99
-mso-style-qformat:	yes
-mso-tstyle-colband-size:	0
-mso-tstyle-rowband-size:	0
+0-ID: 2381
+1-Name: Eden Project, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 1997
+2-Info:              Institution Code: EDEN;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Eden Project, The        The Eden Project was established as one of the landmark Millennium projects in the UK to mark the year 2000 and is structured as an educational charitable trust. ;  ;  Eden's mission is  'To promote the understanding and responsible management of the vital relationship between plants, people and resources leading to a sustainable future for all'.;  ;  The Eden Project communicates its story in a ‘Living Theatre of Plants and People’ based in a large crater in which nestle two vast greenhouses (Biomes). ;  ;  Currently in possession of approximately 11,000 live taxa.;                        Main Address:;         Eden Project, The;                         Bodelva, Cornwall;        PL24 2SG United Kingdom;        ;                 Telephone: +44 (0) 1726 811 911;         Fax: +44 (0) 1726 811 912;         URL: www.edenproject.com;         Primary Email: lmackinnon@edenproject.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 50.361944
+2-Longitude: -4.744719
+2-Satellite Garden Names: Watering Lane Nursery
+2-Total Area: 50 Hectares
+2-Total area of glasshouses: 25130 Metres
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 1
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 7040
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Tropical plant collection under largest greenhouse in the world (1263 live taxa), consisting of global economically important crops (Coffee, Banana, Rice, and plant species found in Oceanic Islands, Malaysia, West Tropical Africa and the Amazon.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Restoration Ecology: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+8-">In contrast there are often situations where ecosystems have become degraded because of excessive nutrient pollution. This is an increasingly common problem in areas which have been temporarily used for farming or where there has been a history of certain forms of pollution. With high fertility the rarer and more complex plant and animal communities are outcompeted by aggressive species. <p class="MsoNormal" style="text-align: justify
+8-">To help develop more effective solutions we have been working in partnership with Landlife, based at the National Wildflower Centre, who have been looking at the potential for deep ploughing and soil inversion as a way of redistributing nutrient load in the soil profile and in particular creating a surface soil layer that is less likely to allow aggressive species to establish. <p class="MsoNormal" style="text-align: justify
+8-font-family: "Calibri","sans-serif"
+8-font-size: 11.0pt
+8-line-height: 115%
+8-margin-right: auto
+8-mso-ascii-font-family: Calibri
+8-mso-ascii-theme-font: minor-latin
+8-mso-fareast-font-family: "Times New Roman"
+8-mso-fareast-theme-font: minor-fareast
+8-mso-hansi-font-family: Calibri
+8-mso-hansi-theme-font: minor-latin
+8-mso-padding-alt: 0cm 5.4pt 0cm 5.4pt
+8-mso-pagination: widow-orphan
+8-mso-para-margin-bottom: 10.0pt
+8-mso-para-margin-left: 0cm
+8-mso-para-margin-right: 0cm
+8-mso-para-margin-top: 0cm
+8-mso-style-noshow: yes
+8-mso-style-parent: ""
+8-mso-style-priority: 99
+8-mso-style-qformat: yes
+8-mso-tstyle-colband-size: 0
+8-mso-tstyle-rowband-size: 0
+8-s own site is set within an extensive landscape of china clay extraction. This mining process has left behind spoil heaps that lack structure, organic matter and functioning biological and nutrient cycles. They are skeletal substrates that have much in common with exposed glacial moraines and a slow natural ecosystem process would take many years. To make it possible to restore vegetation cover different techniques are used for soil creation ranging from the acceleration of natural processes of nutrient and organic matter accumulation, using nitrogen-fixing species, through to the manufacture of starter substrates using a range of composted and recycled organic wastes. <p class="MsoNormal" style="text-align: justify
+8-s research and practice extends beyond the question of species propagation and re-introduction to focus on the question of the environmental conditions that exist, and the barriers that have to be overcome for successful habitat recovery to take place. <p class="MsoNormal" style="text-align: justify
+8-there can be an appearance of nutrient depletion for a few years but the underlying base load is unchanged and gradually the available nutrient supply returns to high levels. <p class="MsoNormal" style="text-align: justify
+9-BGCI Member: Yes
+9-Fax: +44 (0) 1726 811 912
+9-Institution Code: EDEN
+9-International Agenda Registration: Yes
+9-Primary Email: lmackinnon@edenproject.com
+9-Telephone: +44 (0) 1726 811 911
+9-URL: www.edenproject.com

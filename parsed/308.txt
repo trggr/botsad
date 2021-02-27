@@ -1,12 +1,18 @@
-ID:	308
-Name:	Jardim Botânico do Instituto de Biociências da UNESP- Botucatu 
-Curator's Name:	
-Director's Name:	Luis Roberto Hernandez Bicudo
-Info:	  Brazil - São Paulo - Botucatu  ;Garden Information;  Institution Code: BOTU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico do Instituto de Biociências da UNESP- Botucatu; Rubiao Junior s/no., Rubiao Junior; Botucatu; São Paulo 18.618-000 Brazil; ;  Telephone: + 55 14 3811 6053; Fax: ; URL: <a target="_blank" href="http://www.ibb.unesp.br/instituicao/jardimbotanico/principal.php">http://www.ibb.unesp.br/instituicao/jardimbotanico/principal.php; Primary Email: jb-ib@ibb.unesp.br ; 
-Plant Records Officer's Name:	
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	-22.8903
-Longitude:	-48.4553
-Number of Visitors:	3
-Special Collections:	Semi-deciduous mesophilic forest, ciliary forest.
+0-ID: 308
+1-Name: Jardim Botânico do Instituto de Biociências da UNESP- Botucatu 
+2-Date founded: 1974
+2-Info:              Institution Code: BOTU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico do Instituto de Biociências da UNESP- Botucatu;         Rubiao Junior s/no., Rubiao Junior;                Botucatu;        São Paulo 18.618-000 Brazil;        ;                 Telephone: + 55 14 3811 6053;         Fax: ;         URL: http://www.ibb.unesp.br/instituicao/jardimbotanico/principal.php;         Primary Email: jb-ib@ibb.unesp.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -22.8903
+2-Longitude: -48.4553
+3-Number of Visitors: 3
+4-Special Collections: Semi-deciduous mesophilic forest, ciliary forest.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=308">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=308">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=308">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BOTU
+9-International Agenda Registration: No
+9-Primary Email: jb-ib@ibb.unesp.br
+9-Telephone: + 55 14 3811 6053

@@ -1,11 +1,19 @@
-ID:	472
-Name:	Giardino Alpino Paradisia 
-Curator's Name:	Dr Laura Poggio
-Director's Name:	Dr Laura Poggio
-Info:	  Italy - Val d'Aosta - Cogne  ;Garden Information;  Institution Code: COGNE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Alpino Paradisia; Parco Nazionale Gran Paradiso, Valnontey; Cogne; Val d'Aosta 11012 Italy; ;  Telephone: +39 165 74147; Fax: +39 165 74147; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1955
-Institution Type:	Botanic Garden
-Latitude:	45.5886
-Longitude:	7.3817
+0-ID: 472
+1-Name: Giardino Alpino Paradisia 
+2-Altitude: 0.00 Metres
+2-Date founded: 1955
+2-Info:              Institution Code: COGNE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino Alpino Paradisia;         Parco Nazionale Gran Paradiso, Valnontey;                Cogne;        Val d'Aosta 11012 Italy;        ;                 Telephone: +39 165 74147;         Fax: +39 165 74147;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.5886
+2-Longitude: 7.3817
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=472">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=472">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=472">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=472">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +39 165 74147
+9-Institution Code: COGNE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +39 165 74147
+9-URL: 

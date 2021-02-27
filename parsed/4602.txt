@@ -1,55 +1,56 @@
-ID:	4602
-Name:	Lakes Park Botanic Garden 
-Administration Staff Number:	11
-Curator's Name:	Wesley Higgins
-Director's Name:	Vicki Baugh
-Educational Staff Number:	2
-Horticultural Staff Number:	25
-Info:	  United States of America - Florida - Fort Myers  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Lakes Park Botanic Garden Our Mission is to support Lee County Parks & Recreation through philanthropic and ; voluntary efforts promoting ongoing community awareness and support of the recreational; and educational value of Lakes Park and its continuing evolution, to include a botanic garden and; other enhancements, resulting in an even more attractive natural environment for the community to ; enjoy.;  Main Address:; Lakes Park Botanic Garden; 7330 Gladiolus Drive; Fort Myers; Florida 33908 United States of America; ;  Telephone: 239-533-7575; Fax: ; URL: <a target="_blank" href="http://www.lakesparkenrichmentfoundation.org">www.lakesparkenrichmentfoundation.org; Primary Email: Info@LakesParkEnrichmentFoundation.org ; 
-Plant Records Officer's Name:	Dave Bush
-Research Staff Number:	
-Altitude:	1.20 Metres
-Annual Rainfall:	1376 mm
-Date founded:	1984
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	26.5065138
-Local Address:	Lee County
-Locality:	Information
-Longitude:	-81.9894860
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Fragrance Garden, Succulent Garden, Rose Garden, Aquatic Garden
-Total Area:	120 Hectares
-Arboretum:	Yes
-Arboretum Size:	40
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	900000
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	220
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	No
-Special Collections:	Only display plants accessioned
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 4602
+1-Name: Lakes Park Botanic Garden 
+2-Altitude: 1.20 Metres
+2-Annual Rainfall: 1376 mm
+2-Date founded: 1984
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Lakes Park Botanic Garden        Our Mission is to support Lee County Parks & Recreation through philanthropic and ;  voluntary efforts promoting ongoing community awareness and support of the recreational;   and educational value of Lakes Park and its continuing evolution, to include a botanic garden and;   other enhancements, resulting in an even more attractive natural environment for the community to ;  enjoy.;                        Main Address:;         Lakes Park Botanic Garden;         7330 Gladiolus Drive;                Fort Myers;        Florida 33908 United States of America;        ;                 Telephone: 239-533-7575;         Fax: ;         URL: www.lakesparkenrichmentfoundation.org;         Primary Email: Info@LakesParkEnrichmentFoundation.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 26.5065138
+2-Local Address: Lee County
+2-Locality: Information
+2-Longitude: -81.9894860
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Fragrance Garden, Succulent Garden, Rose Garden, Aquatic Garden
+2-Total Area: 120 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 40
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 900000
+3-Number of Volunteers: 100
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: No
+4-Accession Number: 220
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: No
+4-Special Collections: Only display plants accessioned
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4602">Please click here if you can update us</a>
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: No
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: No
+7-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Info@LakesParkEnrichmentFoundation.org
+9-Telephone: 239-533-7575
+9-URL: www.lakesparkenrichmentfoundation.org

@@ -1,12 +1,21 @@
-ID:	3571
-Name:	Institute of Medicinal Plant Development (Beijing) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Beijing - Haidian  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Institute of Medicinal Plant Development (Beijing); Chinese Academy of Medical Sciences, Haidian District, Xibei Wang, Beijing, 100094, China; Haidian; Beijing China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	39.9833
-Local Address:	中国北京市西北旺海淀区中国医学科学院，邮编 100094
-Locality:	Information
-Longitude:	116.3000
+0-ID: 3571
+1-Name: Institute of Medicinal Plant Development (Beijing) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Institute of Medicinal Plant Development (Beijing);         Chinese Academy of Medical Sciences, Haidian District, Xibei Wang, Beijing, 100094, China;                Haidian;        Beijing China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 39.9833
+2-Local Address: 中国北京市西北旺海淀区中国医学科学院，邮编 100094
+2-Locality: Information
+2-Longitude: 116.3000
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3571">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3571">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3571">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3571">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3571">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

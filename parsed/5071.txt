@@ -1,11 +1,18 @@
-ID:	5071
-Name:	Jardin botanique de Paris - Seed Bank 
-Curator's Name:	
-Director's Name:	Laurent Bray
-Info:	  France - Paris  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardin botanique de Paris - Seed Bank; 103 avenue de France; Paris; 75639 Paris Cedex 13 France; ;  Telephone: + 33 01 71 28 53 36; Fax: + 33 01 71 28 53 52; URL: <a target="_blank" href="http://www.paris.fr/pratique/Portal.lut?page_id=8354">http://www.paris.fr/pratique/Portal.lut?page_id=8354; Primary Email: jardin.botanique@paris.fr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	48.8551
-Longitude:	2.2577
-Seed Bank:	Yes
+0-ID: 5071
+1-Name: Jardin botanique de Paris - Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Jardin botanique de Paris - Seed Bank;         103 avenue de France;                Paris;        75639 Paris Cedex 13 France;        ;                 Telephone: + 33 01 71 28 53 36;         Fax: + 33 01 71 28 53 52;         URL: http://www.paris.fr/pratique/Portal.lut?page_id=8354;         Primary Email: jardin.botanique@paris.fr       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 48.8551
+2-Longitude: 2.2577
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5071">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5071">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5071">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5071">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: + 33 01 71 28 53 52
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jardin.botanique@paris.fr
+9-Telephone: + 33 01 71 28 53 36

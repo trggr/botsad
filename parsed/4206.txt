@@ -1,9 +1,18 @@
-ID:	4206
-Name:	Arboretum Leslie R.Holdridge 
-Curator's Name:	
-Director's Name:	
-Info:	  Costa Rica - San Pedro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Leslie R.Holdridge; Apartado 676-2050; San Pedro; Costa Rica; ;  Telephone: (506) 524-0607; Fax: (506) 524-0608; URL: <a target="_blank" href="http://">; Primary Email: cro@ots.ac.cr ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	9.9303
-Longitude:	-84.0522
+0-ID: 4206
+1-Name: Arboretum Leslie R.Holdridge 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Leslie R.Holdridge;         Apartado 676-2050;                San Pedro;        Costa Rica;        ;                 Telephone: (506) 524-0607;         Fax: (506) 524-0608;         URL: ;         Primary Email: cro@ots.ac.cr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.9303
+2-Longitude: -84.0522
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4206">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4206">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4206">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4206">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4206">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (506) 524-0608
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cro@ots.ac.cr
+9-Telephone: (506) 524-0607
+9-URL: 

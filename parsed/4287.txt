@@ -1,10 +1,19 @@
-ID:	4287
-Name:	LongHouse Reserve 
-Curator's Name:	
-Director's Name:	Matko Tomicic, Executive Director
-Info:	  United States of America - New York - East Hampton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; LongHouse Reserve; 133 Hands Creek Road; East Hampton; New York 11937 United States of America; ;  Telephone: (631) 329-3568; Fax: ; URL: <a target="_blank" href="http://www.longhouse.org">www.longhouse.org; Primary Email: info@longhouse.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.9814270
-Longitude:	-72.2003770
+0-ID: 4287
+1-Name: LongHouse Reserve 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         LongHouse Reserve;         133 Hands Creek Road;                East Hampton;        New York 11937 United States of America;        ;                 Telephone: (631) 329-3568;         Fax: ;         URL: www.longhouse.org;         Primary Email: info@longhouse.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.9814270
+2-Longitude: -72.2003770
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4287">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4287">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4287">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4287">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4287">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@longhouse.org
+9-Telephone: (631) 329-3568
+9-URL: www.longhouse.org

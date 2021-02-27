@@ -1,11 +1,18 @@
-ID:	2180
-Name:	Jardim Botânico Municipal de Bauru 
-Curator's Name:	
-Director's Name:	Luiz Carlos de Almeida Neto
-Info:	  Brazil - São Paulo - Bauru  ;Garden Information;  Institution Code: BAURU; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardim Botânico Municipal de Bauru; Rodovia Comandante João Riberio de Barros Km 232, Tangaras; Bauru; São Paulo 17020-3100 Brazil; ;  Telephone: + 55 14 3281 3358; Fax: ; URL: <a target="_blank" href="http://jardimbotanicobauru.com.br/">http://jardimbotanicobauru.com.br/; Primary Email: jbbauru@ibest.com.br ; 
-Plant Records Officer's Name:	
-Date founded:	1994
-Institution Type:	Botanic Garden
-Latitude:	-22.3049
-Longitude:	-49.0709
-Special Collections:	Orchids, bromeliads, palms, medicinal plants, regional flora.
+0-ID: 2180
+1-Name: Jardim Botânico Municipal de Bauru 
+2-Date founded: 1994
+2-Info:              Institution Code: BAURU;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico Municipal de Bauru;         Rodovia Comandante João Riberio de Barros Km 232, Tangaras;                Bauru;        São Paulo 17020-3100 Brazil;        ;                 Telephone: + 55 14 3281 3358;         Fax: ;         URL: http://jardimbotanicobauru.com.br/;         Primary Email: jbbauru@ibest.com.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -22.3049
+2-Longitude: -49.0709
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2180">Please click here if you can update us</a>
+4-Special Collections: Orchids, bromeliads, palms, medicinal plants, regional flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2180">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2180">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2180">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BAURU
+9-International Agenda Registration: Yes
+9-Primary Email: jbbauru@ibest.com.br
+9-Telephone: + 55 14 3281 3358

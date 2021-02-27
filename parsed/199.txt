@@ -1,13 +1,20 @@
-ID:	199
-Name:	Pukekura Park 
-Curator's Name:	Kristian Davies, Curator
-Director's Name:	Stuart Robertson, Manager of Parks
-Info:	  New Zealand - New Plymouth  ;Garden Information;  Institution Code: NPNZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Pukekura Park; New Plymouth District Council, Parkscape Services; New Plymouth; 2025 New Zealand; ;  Telephone: (06) 759 6060; Fax: (06) 759 6072; URL: <a target="_blank" href="http://www.pukekura.org.nz/">http://www.pukekura.org.nz/; Primary Email: info@pukekura.org.nz ; 
-Plant Records Officer's Name:	Ian Hutchinson, Botanical Records Officer
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-39.06883
-Longitude:	174.08214
-Total Area:	52 Hectares
-Accession Number:	50000
-Special Collections:	Pukekura Park covers about 52ha (128 acres) and contains a diverse range of landscapes, including many plant collections, exotic specimen trees, formal gardens, lakes and walking trails through native bush.
+0-ID: 199
+1-Name: Pukekura Park 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: NPNZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Pukekura Park;         New Plymouth District Council, Parkscape Services;                New Plymouth;        2025 New Zealand;        ;                 Telephone: (06) 759 6060;         Fax: (06) 759 6072;         URL: http://www.pukekura.org.nz/;         Primary Email: info@pukekura.org.nz       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -39.06883
+2-Longitude: 174.08214
+2-Total Area: 52 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=199">Please click here if you can update us</a>
+4-Accession Number: 50000
+4-Special Collections: Pukekura Park covers about 52ha (128 acres) and contains a diverse range of landscapes, including many plant collections, exotic specimen trees, formal gardens, lakes and walking trails through native bush.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=199">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=199">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=199">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (06) 759 6072
+9-Institution Code: NPNZ
+9-International Agenda Registration: No
+9-Primary Email: info@pukekura.org.nz
+9-Telephone: (06) 759 6060

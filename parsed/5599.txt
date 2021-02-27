@@ -1,9 +1,18 @@
-ID:	5599
-Name:	Proyecto Jardín Botánico Municipal Yvy Porá 
-Curator's Name:	Gabriel Karpe
-Director's Name:	Eliana Sosula
-Info:	  Argentina - Misiones - San Vicente  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Proyecto Jardín Botánico Municipal Yvy Porá; Ruta Nacional 14 Kilómetro 975.5; Dirección de Turismo, Municipalidad de San Vicente, Calles El Ceibo y Picaflor; San Vicente; Misiones 3364 Argentina; ;  Telephone: +54 3755 467200; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: turismomunisv@hotmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-26.990995
-Longitude:	-54.490830
+0-ID: 5599
+1-Name: Proyecto Jardín Botánico Municipal Yvy Porá 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Proyecto Jardín Botánico Municipal Yvy Porá;         Ruta Nacional 14 Kilómetro 975.5;        Dirección de Turismo, Municipalidad de San Vicente, Calles El Ceibo y Picaflor;        San Vicente;        Misiones 3364 Argentina;        ;                 Telephone: +54 3755 467200;         Fax: ;         URL: ;         Primary Email: turismomunisv@hotmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -26.990995
+2-Longitude: -54.490830
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5599">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5599">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5599">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5599">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5599">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: turismomunisv@hotmail.com
+9-Telephone: +54 3755 467200
+9-URL: 

@@ -1,39 +1,43 @@
-ID:	4243
-Name:	Jardin Botanico Las Orquideas 
--"garden-project" style="margin-top:	1em"> Restoring pasture to rainforest in Ecuador <!-- <img src="/files/ERABG/project_images/Random.jpg" alt="" /> --> The Jardin Botanico Las Orquideas is a restored forest located in 6 ha of rainforest pasture. This area of the Amazon is particularly poor in soil fertility, and natural re-vegetation is often slow and dominated by few pioneer species. Traditional indigenous cultures used a shifting cultivation method involving clearing of 1-3 ha patches followed by 2-5 years of cultivation and then allowing natural re-vegetation. However, the last 50 years of development in the region is dominated by clearing, a few years of cultivation, followed by cattle grazing.&nbsp
-Fax:	
-Info:	  Ecuador - Pastaza - Puyo  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: PUJBO; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	jbl_orquideas@gmail.com
-Telephone:	(03) 253 0305
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Omar Tello
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	950.00 Metres
-Annual Rainfall:	4000 mm
-Date founded:	1980
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-1.494100
-Longitude:	-78.0000
-Natural Vegetation Area:	Yes
-Total Area:	7 Hectares
-Friends society:	No
-Number of Visitors:	60
-Number of Volunteers:	4
-Open to public:	Yes
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Land Restoration:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Education Programme:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4243
+1-Name: Jardin Botanico Las Orquideas 
+2-Administration Staff Number: 1
+2-Curator's Name: 
+2-Director's Name: Omar Tello
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: PUJBO;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4243/Heading.jpg" alt="The Orchid and Botanical Garden of Puyo, Ecuador (Maxillaria striata)" />         The Orchid and Botanical Garden of Puyo, Ecuador (Maxillaria striata)</div>        </div>                           About the Jardin Botanico Las Orquideas        The Jardin Botanico Las Orquideas is a 6.5 ha restored forest in the Ecuadorian Amazon, located outside of the city of Puyo at the foot of the Andes. For more than 30 years we have been restoring the garden with plants native to the region. The garden now serves as an educational opportunity and a model for restoration efforts in nearby communities.;                        Main Address:;         Jardin Botanico Las Orquideas;         Barrio Los Ángeles;                Puyo;        Pastaza Ecuador;        ;                 Telephone: (03) 253 0305;         Fax: ;         URL: http://jardinbotanicolasorquideas.com/;         Primary Email: jbl_orquideas@gmail.com       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 1
+3-Altitude: 950.00 Metres
+3-Annual Rainfall: 4000 mm
+3-Date founded: 1980
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -1.494100
+3-Longitude: -78.0000
+3-Natural Vegetation Area: Yes
+3-Total Area: 7 Hectares
+4-Friends society: No
+4-Number of Visitors: 60
+4-Number of Volunteers: 4
+4-Open to public: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4243">Please click here if you can update us</a>
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Conservation - Biology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Land Restoration: Yes
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+8-Education Programme: Yes
+8-Visitor/Education Centre: Yes
+9-"garden-project" style="margin-top: 1em"> Restoring pasture to rainforest in Ecuador <!-- <img src="/files/ERABG/project_images/Random.jpg" alt="" /> --> The Jardin Botanico Las Orquideas is a restored forest located in 6 ha of rainforest pasture. This area of the Amazon is particularly poor in soil fertility, and natural re-vegetation is often slow and dominated by few pioneer species. Traditional indigenous cultures used a shifting cultivation method involving clearing of 1-3 ha patches followed by 2-5 years of cultivation and then allowing natural re-vegetation. However, the last 50 years of development in the region is dominated by clearing, a few years of cultivation, followed by cattle grazing.&nbsp
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PUJBO
+9-International Agenda Registration: No
+9-Primary Email: jbl_orquideas@gmail.com
+9-Telephone: (03) 253 0305

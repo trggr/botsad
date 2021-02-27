@@ -1,9 +1,19 @@
-ID:	5276
-Name:	City of New Albany Arboretum at Swickard Woods 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Ohio - New Albany  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; City of New Albany Arboretum at Swickard Woods; Swickard Woods Blvd.; Wexner Community Park; New Albany; Ohio 43054 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: bmacchi@newalbanyohio.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.08932
-Longitude:	-82.816794
+0-ID: 5276
+1-Name: City of New Albany Arboretum at Swickard Woods 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         City of New Albany Arboretum at Swickard Woods;         Swickard Woods Blvd.;        Wexner Community Park;        New Albany;        Ohio 43054 United States of America;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: bmacchi@newalbanyohio.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.08932
+2-Longitude: -82.816794
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5276">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5276">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5276">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5276">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5276">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: bmacchi@newalbanyohio.org
+9-Telephone: 
+9-URL: 

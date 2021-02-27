@@ -1,12 +1,20 @@
-ID:	4393
-Name:	Midongsan Arboretum 
-Curator's Name:	Keun-Mook Lim
-Director's Name:	Kwang-Tae Ahn
-Info:	  South Korea - Chungcheongbuk-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Midongsan Arboretum; Miwon-ri 20, Miwon-myeon, Cheongwon-gun,; Chungcheongbuk-do 363-874 South Korea; ;  Telephone: 043-220-5500; Fax: 043-220-5489; URL: <a target="_blank" href="http://forest.cb21.net/home/sub.do?menu_key=54">http://forest.cb21.net/home/sub.do?menu_key=54; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	36.62596
-Local Address:	청원군 미원면 미원리 20번지 충청북도산림환경연구소
-Locality:	Information
-Longitude:	127.66719
+0-ID: 4393
+1-Name: Midongsan Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Midongsan Arboretum;         Miwon-ri 20, Miwon-myeon, Cheongwon-gun,;                        Chungcheongbuk-do 363-874 South Korea;        ;                 Telephone: 043-220-5500;         Fax: 043-220-5489;         URL: http://forest.cb21.net/home/sub.do?menu_key=54;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.62596
+2-Local Address: 청원군 미원면 미원리 20번지 충청북도산림환경연구소
+2-Locality: Information
+2-Longitude: 127.66719
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4393">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4393">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4393">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4393">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4393">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 043-220-5489
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 043-220-5500

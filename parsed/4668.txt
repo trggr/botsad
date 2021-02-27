@@ -1,9 +1,18 @@
-ID:	4668
-Name:	Binder Zoo 
-Curator's Name:	Frank Cummins
-Director's Name:	Unknown
-Info:	  United States of America - Michigan - Battle Creek  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Binder Zoo; 7400 Division Drive; Battle Creek; Michigan 49014 United States of America; ;  Telephone: (269) 979-1351; Fax: ; URL: <a target="_blank" href="http://www.binderparkzoo.org">www.binderparkzoo.org; Primary Email: info@binderparkzoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	42.2465244
-Longitude:	-85.1554149
+0-ID: 4668
+1-Name: Binder Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Binder Zoo;         7400 Division Drive;                Battle Creek;        Michigan 49014 United States of America;        ;                 Telephone: (269) 979-1351;         Fax: ;         URL: www.binderparkzoo.org;         Primary Email: info@binderparkzoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 42.2465244
+2-Longitude: -85.1554149
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4668">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4668">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4668">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4668">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4668">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@binderparkzoo.org
+9-Telephone: (269) 979-1351
+9-URL: www.binderparkzoo.org

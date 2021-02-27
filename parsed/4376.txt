@@ -1,16 +1,22 @@
-ID:	4376
-Name:	Seoul Grand Park 
-Curator's Name:	Hyojun Kim
-Director's Name:	Chun-hun Song
-Info:	  South Korea - Gyeonggi-do - Gwacheon-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Seoul Grand Park; Gwangmyeong-gil 42; Gwacheon-si; Gyeonggi-do South Korea; ;  Telephone: 02-500-7860; Fax: 02-500-7994; URL: <a target="_blank" href="http://grandpark.seoul.go.kr">http://grandpark.seoul.go.kr; Primary Email: aro88@seoul.go.kr ; 
-Plant Records Officer's Name:	JongHwa Seong
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Landscaped Area:	Yes
-Latitude:	37.4258
-Longitude:	127.02281
-Natural Vegetation Area:	Yes
-Total area of glasshouses:	2852 Metres
-Open to public:	Yes
-Cultivation Taxa Num:	1263
-Special Collections:	Exhibition hall, Greenhouse, and Botanical Gardens displaying
+0-ID: 4376
+1-Name: Seoul Grand Park 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Seoul Grand Park;         Gwangmyeong-gil 42;                Gwacheon-si;        Gyeonggi-do South Korea;        ;                 Telephone: 02-500-7860;         Fax: 02-500-7994;         URL: http://grandpark.seoul.go.kr;         Primary Email: aro88@seoul.go.kr       ;              
+2-Institution Type: Zoological Institution
+2-Landscaped Area: Yes
+2-Latitude: 37.4258
+2-Longitude: 127.02281
+2-Natural Vegetation Area: Yes
+2-Total area of glasshouses: 2852 Metres
+3-Open to public: Yes
+4-Cultivation Taxa Num: 1263
+4-Special Collections: Exhibition hall, Greenhouse, and Botanical Gardens displaying
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4376">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4376">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4376">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 02-500-7994
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: aro88@seoul.go.kr
+9-Telephone: 02-500-7860

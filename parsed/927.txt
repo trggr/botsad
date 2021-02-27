@@ -1,11 +1,19 @@
-ID:	927
-Name:	Magadh University Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Bodh Gaya  ;Garden Information;  Institution Code: BODHG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Magadh University Botanical Garden; P.G. Department of Botany, Magadh University, BODH GAYA 824 234, Bihar, India.; Bodh Gaya; India; ;  Telephone: 835; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1975
-Institution Type:	Botanic Garden
-Latitude:	24.7000
-Longitude:	84.9833
-Special Collections:	Trees and shrubs, botanical and horticultural interest.
+0-ID: 927
+1-Name: Magadh University Botanical Garden 
+2-Date founded: 1975
+2-Info:              Institution Code: BODHG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Magadh University Botanical Garden;         P.G. Department of Botany, Magadh University,  BODH GAYA 824 234,  Bihar,  India.;                Bodh Gaya;        India;        ;                 Telephone: 835;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 24.7000
+2-Longitude: 84.9833
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=927">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs, botanical and horticultural interest.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=927">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=927">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=927">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BODHG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 835
+9-URL: 

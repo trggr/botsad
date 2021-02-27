@@ -1,12 +1,22 @@
-ID:	4347
-Name:	Jardim Botânico de Londrina 
-Curator's Name:	
-Director's Name:	Angela Maria de Oliveira Carvalho
-Info:	  Brazil - Paraná - Londrina  ;Garden Information;  Institution Code: JBDLP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botânico de Londrina; Av. Expedicionário, s/n - Bairro: Gleba Cafezal; Londrina; Paraná 86000-000 Brazil; ;  Telephone: (43) 3324 5100; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: semaerlon@sema.pr.gov.br ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2004
-Institution Type:	Botanic Garden
-Latitude:	-23.31068
-Longitude:	-51.15886
-Total Area:	110 Hectares
+0-ID: 4347
+1-Name: Jardim Botânico de Londrina 
+2-Altitude: 0.00 Metres
+2-Date founded: 2004
+2-Info:              Institution Code: JBDLP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico de Londrina;         Av. Expedicionário, s/n - Bairro: Gleba Cafezal;                Londrina;        Paraná 86000-000 Brazil;        ;                 Telephone: (43) 3324 5100;         Fax: ;         URL: ;         Primary Email: semaerlon@sema.pr.gov.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -23.31068
+2-Longitude: -51.15886
+2-Total Area: 110 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4347">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4347">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4347">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4347">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4347">Please click here if you can update us</a>
+9-Av. Expedicionário, s/n - Bairro: Gleba Cafezal
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: JBDLP
+9-International Agenda Registration: No
+9-Primary Email: semaerlon@sema.pr.gov.br
+9-Telephone: (43) 3324 5100
+9-URL: 

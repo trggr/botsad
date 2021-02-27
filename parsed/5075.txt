@@ -1,11 +1,19 @@
-ID:	5075
-Name:	Mid-Atlantic Regional Seed Bank (MARSB) 
-Curator's Name:	Heather Liljengren Supervising Seed Collector/Field Taxono
-Director's Name:	Edward Toth Director
-Info:	  United States of America - New York - Staten Island  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Mid-Atlantic Regional Seed Bank (MARSB); Greenbelt Native Plant Center; 3808 Victory Boulevard; Staten Island; New York 10314 United States of America; ;  Telephone: (718) 370-9044; Fax: ; URL: <a target="_blank" href="http://www.marsb.org">www.marsb.org; Primary Email: edward.toth@parks.nyc.gov ; 
-Plant Records Officer's Name:	Clara Holmes, Seed Collection Coordinator
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	40.596448
-Longitude:	-74.181116
-Seed Bank:	Yes
+0-ID: 5075
+1-Name: Mid-Atlantic Regional Seed Bank (MARSB) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Mid-Atlantic Regional Seed Bank (MARSB);         Greenbelt Native Plant Center;        3808 Victory Boulevard;        Staten Island;        New York 10314 United States of America;        ;                 Telephone: (718) 370-9044;         Fax: ;         URL: www.marsb.org;         Primary Email: edward.toth@parks.nyc.gov       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 40.596448
+2-Longitude: -74.181116
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5075">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5075">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5075">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5075">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: edward.toth@parks.nyc.gov
+9-Telephone: (718) 370-9044
+9-URL: www.marsb.org

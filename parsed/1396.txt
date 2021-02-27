@@ -1,14 +1,23 @@
-ID:	1396
-Name:	Turpan Desert Botanic Garden 
-Curator's Name:	Zhao Zhendong
-Director's Name:	Pan Borong
-Info:	  China - Xinjiang - Turpan  ;Garden Information;  Institution Code: TURPA; International Agenda Registration: Yes; BGCI Member: Yes; About the Turpan Desert Botanic Garden Turpan Desert Botanical Garden was built in 1976, Botanical Garden, Chinese Academy of Sciences in 1982 to join the work of the Committee, in 1994, joined the League of Botanic Gardens Conservation International (BGCI); 1999, the China Association for Science named the "national popular science education base" and "National Youth Science and Technology Education Base "; 2006, granted by the National Tourism Administration National AAA-class tourist attractions; 2008, the State Forestry Administration of China Wild Plant Conservation Association awarded the" National Science Education Base Protection of Wild Plants "title.; ; The park is located southeast of Turpan Basin, the western sandy Cat Kale Township. Geographical coordinates: 40 ° 51'N, 89 ° 11'E, altitude -105 ~-76m.; ; Currently living plants into germplasm samples Desert Park, the National Medicinal Plant Garden, Desert economic fruit special garden, desert wild ornamental plant garden, desert rare and endangered endemic plant garden, salt desert plant garden, tamarisk plant garden, Calligonum plant garden, garden Calligonum germplasm, Junggar desert areas and arid landscape of grape germplasm resources garden area of 11 special garden (area). Shows a typical arid zone feature and unique characteristics of the temperate flora of wild desert landscape.; ; 2 research; ; Temperate desert plant germplasm collection and protection of the effective sampling strategy;; ; Desert situ conservation of rare and endangered plants of conservation biology principles;; ; Rare and endangered plants in arid areas and endangered biodiversity loss mechanism ;; ; Special strategic function of desert plant resources gene screening, discovery and utilization.;  Main Address:; Turpan Desert Botanic Garden; Turpan Desert Research Station, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences; Qiatkale Town; Turpan; Xinjiang 838008 China; ;  Telephone: (86 991) 3835294 (Institute), (86 995) 524643 (Garden); Fax: (86 991) 3835459; URL: <a target="_blank" href="http://www.egi.cas.cn/jgsz/kybm/jcsyxt/tlfsm/">www.egi.cas.cn/jgsz/kybm/jcsyxt/tlfsm/; Primary Email: ebg@ms.xjb.ac.cn ; 
-Plant Records Officer's Name:	Yin Linke, tlf@ms.xjb.ac.cn
-Altitude:	100.00 Metres
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	43.0055
-Local Address:	中国新疆吐鲁番市恰特卡勒乡中科院吐鲁番沙漠研究站，邮编 838008
-Locality:	Information
-Longitude:	89.2083
-Special Collections:	Desert plants (400 spp., representing 200 genera and 60 families), such as three genera of the Tamaricaceae, eg. Tamarix (17 spp.)
+0-ID: 1396
+1-Name: Turpan Desert Botanic Garden 
+2-Altitude: 100.00 Metres
+2-Date founded: 1976
+2-Info:              Institution Code: TURPA;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Turpan Desert Botanic Garden        Turpan Desert Botanical Garden was built in 1976, Botanical Garden, Chinese Academy of Sciences in 1982 to join the work of the Committee, in 1994, joined the League of Botanic Gardens Conservation International (BGCI); 1999, the China Association for Science named the "national popular science education base" and "National Youth Science and Technology Education Base "; 2006, granted by the National Tourism Administration National AAA-class tourist attractions; 2008, the State Forestry Administration of China Wild Plant Conservation Association awarded the" National Science Education Base Protection of Wild Plants "title.;  ;  The park is located southeast of Turpan Basin, the western sandy Cat Kale Township. Geographical coordinates: 40 ° 51'N, 89 ° 11'E, altitude -105 ~-76m.;  ;  Currently living plants into germplasm samples Desert Park, the National Medicinal Plant Garden, Desert economic fruit special garden, desert wild ornamental plant garden, desert rare and endangered endemic plant garden, salt desert plant garden, tamarisk plant garden, Calligonum plant garden, garden Calligonum germplasm, Junggar desert areas and arid landscape of grape germplasm resources garden area of 11 special garden (area). Shows a typical arid zone feature and unique characteristics of the temperate flora of wild desert landscape.;  ;  2 research;  ;  Temperate desert plant germplasm collection and protection of the effective sampling strategy;;  ;  Desert situ conservation of rare and endangered plants of conservation biology principles;;  ;  Rare and endangered plants in arid areas and endangered biodiversity loss mechanism ;;  ;  Special strategic function of desert plant resources gene screening, discovery and utilization.;                        Main Address:;         Turpan Desert Botanic Garden;         Turpan Desert Research Station, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences;        Qiatkale Town;        Turpan;        Xinjiang 838008 China;        ;                 Telephone: (86 991) 3835294 (Institute), (86 995) 524643 (Garden);         Fax: (86 991) 3835459;         URL: www.egi.cas.cn/jgsz/kybm/jcsyxt/tlfsm/;         Primary Email: ebg@ms.xjb.ac.cn       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.0055
+2-Local Address: 中国新疆吐鲁番市恰特卡勒乡中科院吐鲁番沙漠研究站，邮编 838008
+2-Locality: Information
+2-Longitude: 89.2083
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1396">Please click here if you can update us</a>
+4-Special Collections: Desert plants (400 spp., representing 200 genera and 60 families), such as three genera of the Tamaricaceae, eg. Tamarix (17 spp.)
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1396">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1396">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1396">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (86 991) 3835459
+9-Institution Code: TURPA
+9-International Agenda Registration: Yes
+9-Primary Email: ebg@ms.xjb.ac.cn
+9-Telephone: (86 991) 3835294 (Institute), (86 995) 524643 (Garden)
+9-The park is located southeast of Turpan Basin, the western sandy Cat Kale Township. Geographical coordinates: 40 ° 51'N, 89 ° 11'E, altitude -105 ~-76m.
+9-URL: www.egi.cas.cn/jgsz/kybm/jcsyxt/tlfsm/

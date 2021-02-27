@@ -1,13 +1,21 @@
-ID:	4948
-Name:	Whistling Gardens,‎ Ltd. 
-Curator's Name:	
-Director's Name:	Darren Heimbecker, Proprietor
-Info:	  Canada - Ontario - Wilsonville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Whistling Gardens,‎ Ltd. The gardens span some 18 acres, all connected with easy-to-walk paths to guide you on your adventure. Nearly every inch of soil has been moved in some way to build these gardens. Presently, the gardens are home to over 4,000 different plants including the world's largest public conifer collection. Many colours and textures heighten the senses. Most gardens are bordered with native plantings and/or a water feature. A man-made babbling brook and cascades can be found in the gardens. Our new pond is over 2 acres and provides a relaxing environment to enjoy the natural ambience. The gardens have increasingly become home to more bird species. At various times of the year, many migratory birds make an extended stay in the gardens. We have also seen a huge increase in the species of butterflies that frequent particularly, the perennial gardens.; ; The formal gardens include original designs as well as inspired designs from renaissance gardens and two gardens that once graced the grounds at the Palace of Versailles. Most formal gardens have statuary, fountains and extensive flower displays that show off their vivid colours all season long. The gardens offer interest all season long, making return visits a must.;  Main Address:; Whistling Gardens,‎ Ltd.; Botanic Garden and Garden Centre; 698 Concession 3 Townsend Road; Wilsonville; Ontario N0E 1Z0 Canada; ;  Telephone: (519) 443-5773; Fax: ; URL: <a target="_blank" href="http://www.whistlinggardens.ca‎">www.whistlinggardens.ca‎; Primary Email: info@whistlinggardens.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	42.99887
-Longitude:	-80.29718
-Total Area:	8 Hectares
-Cultivation Taxa Num:	4000
-Special Collections:	As of 2013, the conifer collection will surpass 2300 different species, hybrids and cultivars. This collection is the largest in the world on display for the public. Many specimens in the collection are the only ones in the country. The Conifer Garden has approximately 1,100 specimens but conifers are found in nearly every garden.
+0-ID: 4948
+1-Name: Whistling Gardens,‎ Ltd. 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Whistling Gardens,‎ Ltd.        The gardens span some 18 acres, all connected with easy-to-walk paths to guide you on your adventure. Nearly every inch of soil has been moved in some way to build these gardens. Presently, the gardens are home to over 4,000 different plants including the world's largest public conifer collection. Many colours and textures heighten the senses. Most gardens are bordered with native plantings and/or a water feature. A man-made babbling brook and cascades can be found in the gardens. Our new pond is over 2 acres and provides a relaxing environment to enjoy the natural ambience. The gardens have increasingly become home to more bird species. At various times of the year, many migratory birds make an extended stay in the gardens. We have also seen a huge increase in the species of butterflies that frequent particularly, the perennial gardens.;  ;  The formal gardens include original designs as well as inspired designs from renaissance gardens and two gardens that once graced the grounds at the Palace of Versailles. Most formal gardens have statuary, fountains and extensive flower displays that show off their vivid colours all season long. The gardens offer interest all season long, making return visits a must.;                        Main Address:;         Whistling Gardens,‎ Ltd.;         Botanic Garden and Garden Centre;        698 Concession 3 Townsend Road;        Wilsonville;        Ontario N0E 1Z0 Canada;        ;                 Telephone: (519) 443-5773;         Fax: ;         URL: www.whistlinggardens.ca‎;         Primary Email: info@whistlinggardens.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.99887
+2-Longitude: -80.29718
+2-Total Area: 8 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4948">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 4000
+4-Special Collections: As of 2013, the conifer collection will surpass 2300 different species, hybrids and cultivars. This collection is the largest in the world on display for the public. Many specimens in the collection are the only ones in the country. The Conifer Garden has approximately 1,100 specimens but conifers are found in nearly every garden.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4948">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4948">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4948">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@whistlinggardens.ca
+9-Telephone: (519) 443-5773
+9-URL: www.whistlinggardens.ca‎

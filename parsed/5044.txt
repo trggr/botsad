@@ -1,9 +1,17 @@
-ID:	5044
-Name:	Hangzhou Tianjing Aquatic Plant Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Zhejiang Province - Hangzhou City  ;Garden Information;  Institution Code: HTA; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Hangzhou Tianjing Aquatic Plant Garden; No. 2-103, Building 30, Xinxiang Community; Sandun Township, Xihu District; Hangzhou City; Zhejiang Province 310030 China; ;  Telephone: 0571-56301657; Fax: 0571-56301657; URL: <a target="_blank" href="http://www.tjss2003.com">http://www.tjss2003.com; Primary Email: xyzfu@126.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	30.2157127
-Longitude:	120.2584076
+0-ID: 5044
+1-Name: Hangzhou Tianjing Aquatic Plant Garden 
+2-Info:              Institution Code: HTA;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Hangzhou Tianjing Aquatic Plant Garden;         No. 2-103, Building 30, Xinxiang Community;        Sandun Township, Xihu District;        Hangzhou City;        Zhejiang Province 310030 China;        ;                 Telephone: 0571-56301657;         Fax: 0571-56301657;         URL: http://www.tjss2003.com;         Primary Email: xyzfu@126.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.2157127
+2-Longitude: 120.2584076
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5044">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5044">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5044">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5044">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5044">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 0571-56301657
+9-Institution Code: HTA
+9-International Agenda Registration: No
+9-Primary Email: xyzfu@126.com
+9-Telephone: 0571-56301657

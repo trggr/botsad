@@ -1,9 +1,18 @@
-ID:	4493
-Name:	Riverbanks Zoo and Botanical Garden 
-Curator's Name:	Andrew Cabe, Curator of Botanical Garden/Horticulture
-Director's Name:	Melodie Scott-Leach, Director of Zoo Horticulture
-Info:	  United States of America - South Carolina - Columbia  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Riverbanks Zoo and Botanical Garden; 1300 Botanical Parkway; P.O. Box 1060; Columbia; South Carolina 29210 United States of America; ;  Telephone: (803) 779-8717; Fax: (803) 253-6381; URL: <a target="_blank" href="http://www.riverbanks.org/garden/">www.riverbanks.org/garden/; Primary Email: acabe@riverbanks.org ; 
-Plant Records Officer's Name:	Elizabeth Owens, Registrar - Botanical Division
-Institution Type:	Botanic Garden
-Latitude:	34.0078620
-Longitude:	-81.0869660
+0-ID: 4493
+1-Name: Riverbanks Zoo and Botanical Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Riverbanks Zoo and Botanical Garden;         1300 Botanical Parkway;        P.O. Box 1060;        Columbia;        South Carolina 29210 United States of America;        ;                 Telephone: (803) 779-8717;         Fax: (803) 253-6381;         URL: www.riverbanks.org/garden/;         Primary Email: acabe@riverbanks.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.0078620
+2-Longitude: -81.0869660
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4493">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4493">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4493">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4493">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4493">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (803) 253-6381
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: acabe@riverbanks.org
+9-Telephone: (803) 779-8717
+9-URL: www.riverbanks.org/garden/

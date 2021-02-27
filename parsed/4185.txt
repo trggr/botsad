@@ -1,14 +1,22 @@
-ID:	4185
-Name:	University of Tennessee Gardens 
-Curator's Name:	James Newburn, Assistant Director
-Director's Name:	Dr. Susan Hamilton, Director
-Info:	  United States of America - Tennessee - Knoxville  ;Garden Information;  Institution Code: UTK; International Agenda Registration: No; BGCI Member: Yes; About the University of Tennessee Gardens The University of Tennessee (UT) Gardens have been established to foster appreciation, education, and stewardship of plants through horticultural gardens, displays, collections, educational programs, and research. The UT Gardens are a "living laboratory," a vital resource for the teaching, research, and public service missions of the University of Tennessee. The Gardens are an educational facility that supports and integrates teaching, research, and service relative to the needs of the Department of Plant Sciences, the University, green industry professionals, and the general public.;  Main Address:; University of Tennessee Gardens; Department of Plant Sciences, 252 Ellington Plant Sciences Building; 2431 Joe Johnson Drive; Knoxville; Tennessee 37996 United States of America; ;  Telephone: (865) 974-8265; Fax: (865) 974-1947; URL: <a target="_blank" href="http://utgardens.tennessee.edu">utgardens.tennessee.edu; Primary Email: utgardens@utk.edu ; 
-Plant Records Officer's Name:	Alexandria Smith, Plant Collections Curator
-Altitude:	0.00 Metres
-Date founded:	1983
-Institution Type:	Botanic Garden
-Latitude:	35.9473976
-Longitude:	-83.9400324
-Friends society:	Yes
-Number of Visitors:	50000
-Open to public:	Yes
+0-ID: 4185
+1-Name: University of Tennessee Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1983
+2-Info:              Institution Code: UTK;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the University of Tennessee Gardens        The University of Tennessee (UT) Gardens have been established to foster appreciation, education, and stewardship of plants through horticultural gardens, displays, collections, educational programs, and research. The UT Gardens are a "living laboratory," a vital resource for the teaching, research, and public service missions of the University of Tennessee. The Gardens are an educational facility that supports and integrates teaching, research, and service relative to the needs of the Department of Plant Sciences, the University, green industry professionals, and the general public.;                        Main Address:;         University of Tennessee Gardens;         Department of Plant Sciences, 252 Ellington Plant Sciences Building;        2431 Joe Johnson Drive;        Knoxville;        Tennessee 37996 United States of America;        ;                 Telephone: (865) 974-8265;         Fax: (865) 974-1947;         URL: utgardens.tennessee.edu;         Primary Email: utgardens@utk.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.9473976
+2-Longitude: -83.9400324
+3-Friends society: Yes
+3-Number of Visitors: 50000
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4185">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4185">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4185">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4185">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (865) 974-1947
+9-Institution Code: UTK
+9-International Agenda Registration: No
+9-Primary Email: utgardens@utk.edu
+9-Telephone: (865) 974-8265
+9-URL: utgardens.tennessee.edu

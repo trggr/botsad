@@ -1,17 +1,24 @@
-ID:	4231
-Name:	Botanical Garden of the Ozarks 
-Curator's Name:	Megan Lankford, Horticulture Supervisor
-Director's Name:	Charlotte Taylor, Executive Director
-Info:	  United States of America - Arkansas - Fayetteville  ;Garden Information;  Institution Code: BGOZA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of the Ozarks; P.O. Box 10407; Fayetteville; Arkansas 72703-0042 United States of America; ;  Telephone: (479) 750-2620; Fax: (479) 756-1920; URL: <a target="_blank" href="http://www.bgozarks.org">www.bgozarks.org; Primary Email: info@bgozarks.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1994
-Institution Type:	Botanic Garden
-Latitude:	36.1364300
-Longitude:	-94.1180600
-Total Area:	40 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Courses for School Children:	Yes
-Education Programme:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 4231
+1-Name: Botanical Garden of the Ozarks 
+2-Altitude: 0.00 Metres
+2-Date founded: 1994
+2-Info:              Institution Code: BGOZA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden of the Ozarks;         P.O. Box 10407;                Fayetteville;        Arkansas 72703-0042 United States of America;        ;                 Telephone: (479) 750-2620;         Fax: (479) 756-1920;         URL: www.bgozarks.org;         Primary Email: info@bgozarks.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.1364300
+2-Longitude: -94.1180600
+2-Total Area: 40 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4231">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4231">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4231">Please click here if you can update us</a>
+7-Courses for School Children: Yes
+7-Education Programme: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (479) 756-1920
+9-Institution Code: BGOZA
+9-International Agenda Registration: No
+9-Primary Email: info@bgozarks.org
+9-Telephone: (479) 750-2620
+9-URL: www.bgozarks.org

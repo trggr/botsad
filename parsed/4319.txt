@@ -1,10 +1,19 @@
-ID:	4319
-Name:	Fernhill Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Ireland - Dublin  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fernhill Garden; Stepaside; Sandyford; Dublin; 18 Ireland; ;  Telephone: +353 (0)87 264 6053; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	53.3411732
-Longitude:	-6.2600114
+0-ID: 4319
+1-Name: Fernhill Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Fernhill Garden;         Stepaside;        Sandyford;        Dublin;        18 Ireland;        ;                 Telephone: +353 (0)87 264 6053;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 53.3411732
+2-Longitude: -6.2600114
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4319">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4319">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4319">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4319">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4319">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +353 (0)87 264 6053
+9-URL: 

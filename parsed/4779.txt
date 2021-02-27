@@ -1,9 +1,18 @@
-ID:	4779
-Name:	Jardin Botanique Universitaire De Poitiers 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Poitiers  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanique Universitaire De Poitiers; 40 Avenue Recteur Pineau; BP 365; Poitiers; 86550 France; ;  Telephone: 05.49.36.61.26; Fax: 05.49.36.61.28; URL: <a target="_blank" href="http://">; Primary Email: jbu@univ-poitiers.fr ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	46.55755
-Longitude:	0.4091
+0-ID: 4779
+1-Name: Jardin Botanique Universitaire De Poitiers 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanique Universitaire De Poitiers;         40 Avenue Recteur Pineau;        BP 365;        Poitiers;        86550 France;        ;                 Telephone: 05.49.36.61.26;         Fax: 05.49.36.61.28;         URL: ;         Primary Email: jbu@univ-poitiers.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.55755
+2-Longitude: 0.4091
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4779">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4779">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4779">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4779">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4779">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 05.49.36.61.28
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jbu@univ-poitiers.fr
+9-Telephone: 05.49.36.61.26
+9-URL: 

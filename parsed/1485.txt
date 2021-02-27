@@ -1,16 +1,23 @@
-ID:	1485
-Name:	Arboretum of Haywood Community College 
-Curator's Name:	George Thomas
-Director's Name:	John Palmer, Founder
-Info:	  United States of America - North Carolina - Clyde  ;Garden Information;  Institution Code: CLYDE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of Haywood Community College; 185 Freedlander Drive; Clyde; North Carolina 28721 United States of America; ;  Telephone: 828.627.4640; Fax: 828.627.4690; URL: <a target="_blank" href="http://www.haywood.edu">www.haywood.edu; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1977
-Institution Type:	Botanic Garden
-Latitude:	35.5252540
-Longitude:	-82.9279040
-Total Area:	34 Hectares
-Arboretum:	Yes
-Arboretum Size:	34
-Open to public:	Yes
-Special Collections:	Fagaceae, Salicaceae, Magnolia (8 taxa), Pinus (18 taxa), Populus (8 taxa), Quercus (19 taxa), Rhododendron (112 taxa), Rosa (15 taxa), Tulipa (20 taxa), dwarf conifers (40 taxa), conservatory (50 taxa), Dahlia (150 taxa), fruit trees (10 taxa).
+0-ID: 1485
+1-Name: Arboretum of Haywood Community College 
+2-Altitude: 0.00 Metres
+2-Date founded: 1977
+2-Info:              Institution Code: CLYDE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of Haywood Community College;         185 Freedlander Drive;                Clyde;        North Carolina 28721 United States of America;        ;                 Telephone: 828.627.4640;         Fax: 828.627.4690;         URL: www.haywood.edu;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.5252540
+2-Longitude: -82.9279040
+2-Total Area: 34 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 34
+3-Open to public: Yes
+4-Special Collections: Fagaceae, Salicaceae, Magnolia (8 taxa), Pinus (18 taxa), Populus (8 taxa), Quercus (19 taxa), Rhododendron (112 taxa), Rosa (15 taxa), Tulipa (20 taxa), dwarf conifers (40 taxa), conservatory (50 taxa), Dahlia (150 taxa), fruit trees (10 taxa).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1485">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1485">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1485">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 828.627.4690
+9-Institution Code: CLYDE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 828.627.4640
+9-URL: www.haywood.edu

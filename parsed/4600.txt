@@ -1,9 +1,18 @@
-ID:	4600
-Name:	Hillwood Estate, Museum & Gardens 
-Curator's Name:	Jody Fetzer, Garden Supervisor
-Director's Name:	Brian Barr, Director of Horticulture
-Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hillwood Estate, Museum & Gardens; Department of Horticulture; 4155 Linnean Avenue, NW; Washington; District of Columbia 20008 United States of America; ;  Telephone: (202) 686-8500; Fax: ; URL: <a target="_blank" href="http://www.hillwoodmuseum.org">www.hillwoodmuseum.org; Primary Email: info@hillwoodmuseum.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.9436549
-Longitude:	-77.0543376
+0-ID: 4600
+1-Name: Hillwood Estate, Museum & Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hillwood Estate, Museum & Gardens;         Department of Horticulture;        4155 Linnean Avenue, NW;        Washington;        District of Columbia 20008 United States of America;        ;                 Telephone: (202) 686-8500;         Fax: ;         URL: www.hillwoodmuseum.org;         Primary Email: info@hillwoodmuseum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.9436549
+2-Longitude: -77.0543376
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4600">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4600">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4600">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4600">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4600">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@hillwoodmuseum.org
+9-Telephone: (202) 686-8500
+9-URL: www.hillwoodmuseum.org

@@ -1,45 +1,45 @@
-ID:	161
-Name:	Jardim Botanico da Madeira 
-Administration Staff Number:	5
-Curator's Name:	
-Director's Name:	Roberto José Abreu Jardim
-Educational Staff Number:	1
-Horticultural Staff Number:	33
-Info:	  Portugal - Madeira - Funchal  ;Garden Information;  Institution Code: MADJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardim Botanico da Madeira; Caminho do Meio - Bom Sucesso,; Funchal; Madeira 9064-512 Portugal; ;  Telephone: (+351) 291 211 200; Fax: (+351) 291 211 206; URL: <a target="_blank" href="http://www.sra.pt/jarbot/">www.sra.pt/jarbot/; Primary Email: jardimbotanico.sra@gov-madeira.pt ; 
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	150.00 Metres
-Annual Rainfall:	800 mm
-Date founded:	1960
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	32.646313
-Longitude:	-16.909706
-Natural Vegetation Area:	Yes
-Total Area:	8 Hectares
-Total area of glasshouses:	200 Metres
-Arboretum:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	340000
-Open to public:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	2000
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Molecular Genetics:	Yes
-Restoration Ecology:	Yes
-Systematics and Taxonomy:	Yes
-Education Booklets/Leaflets:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 161
+1-Name: Jardim Botanico da Madeira 
+2-Altitude: 150.00 Metres
+2-Annual Rainfall: 800 mm
+2-Date founded: 1960
+2-Info:              Institution Code: MADJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardim Botanico da Madeira;         Caminho do Meio - Bom Sucesso,;                Funchal;        Madeira 9064-512 Portugal;        ;                 Telephone: (+351) 291 211 200;         Fax: (+351) 291 211 206;         URL: www.sra.pt/jarbot/;         Primary Email: jardimbotanico.sra@gov-madeira.pt       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 32.646313
+2-Longitude: -16.909706
+2-Natural Vegetation Area: Yes
+2-Total Area: 8 Hectares
+2-Total area of glasshouses: 200 Metres
+3-Arboretum: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 340000
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 2000
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Molecular Genetics: Yes
+6-Restoration Ecology: Yes
+6-Systematics and Taxonomy: Yes
+7-Education Booklets/Leaflets: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (+351) 291 211 206
+9-Institution Code: MADJ
+9-International Agenda Registration: No
+9-Primary Email: jardimbotanico.sra@gov-madeira.pt
+9-Telephone: (+351) 291 211 200
+9-URL: www.sra.pt/jarbot/

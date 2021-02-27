@@ -1,11 +1,19 @@
-ID:	3132
-Name:	Hakone Botanical garden of Wetlands 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Hakone  ;Garden Information;  Institution Code: HAKO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hakone Botanical garden of Wetlands; K817 Sengokohara, HAKONEMACHI, Kanagawa 250-06, Japan; Hakone; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	35.2094
-Longitude:	139.0362
-Special Collections:	Woody and herbaceous wetland plants, including Primula, Hemerocallis, Lysichitum, Iris, Lilium and Habenaria. Alpines (c.120 spp.), spring flowers, aquatics, rock plants, deciduous trees such as Quercus, Cornus and Acer.
+0-ID: 3132
+1-Name: Hakone Botanical garden of Wetlands 
+2-Date founded: 1976
+2-Info:              Institution Code: HAKO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hakone Botanical garden of Wetlands;         K817 Sengokohara, HAKONEMACHI, Kanagawa 250-06, Japan;                Hakone;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.2094
+2-Longitude: 139.0362
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3132">Please click here if you can update us</a>
+4-Special Collections: Woody and herbaceous wetland plants, including Primula, Hemerocallis, Lysichitum, Iris, Lilium and Habenaria. Alpines (c.120 spp.), spring flowers, aquatics, rock plants, deciduous trees such as Quercus, Cornus and Acer.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3132">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3132">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3132">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HAKO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

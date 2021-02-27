@@ -1,13 +1,20 @@
-ID:	2086
-Name:	Jardin Botanico Tizatlan 
-Curator's Name:	Edith Paredes
-Director's Name:	Rosa Isela martinez Bonilla
-Info:	  Mexico - Tlaxcala - Santa Ana Chiautempan, Tlaxcala De Xicohtencatl  ;Garden Information;  Institution Code: TIZAT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico Tizatlan; Camino Real, Km 3 Carr.; Santa Ana Chiautempan, Tlaxcala De Xicohtencatl; Tlaxcala 90800 Mexico; ;  Telephone: (246) 2-23-13; Fax: (246) 2-11-67; URL: <a target="_blank" href="http://">; Primary Email: epre00@yahoo.com.mx ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1989
-Institution Type:	Botanic Garden
-Latitude:	19.3136
-Longitude:	-98.2394
-Arboretum:	Yes
-Special Collections:	Arboretum (Alnus, Salix, Quercus, Pinus), aquatic plants, xerophytes (succulents, Cactaceae), medicinal, fruits, other useful plants, ornamentals.
+0-ID: 2086
+1-Name: Jardin Botanico Tizatlan 
+2-Altitude: 0.00 Metres
+2-Date founded: 1989
+2-Info:              Institution Code: TIZAT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico Tizatlan;         Camino Real, Km 3 Carr.;                Santa Ana Chiautempan, Tlaxcala De Xicohtencatl;        Tlaxcala 90800 Mexico;        ;                 Telephone: (246) 2-23-13;         Fax: (246) 2-11-67;         URL: ;         Primary Email: epre00@yahoo.com.mx       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 19.3136
+2-Longitude: -98.2394
+3-Arboretum: Yes
+4-Special Collections: Arboretum (Alnus, Salix, Quercus, Pinus), aquatic plants, xerophytes (succulents, Cactaceae), medicinal, fruits, other useful plants, ornamentals.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2086">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2086">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2086">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (246) 2-11-67
+9-Institution Code: TIZAT
+9-International Agenda Registration: No
+9-Primary Email: epre00@yahoo.com.mx
+9-Telephone: (246) 2-23-13
+9-URL: 

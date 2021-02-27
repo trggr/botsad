@@ -1,10 +1,17 @@
-ID:	959
-Name:	The Botanical Garden of the Agricultural Institute 
-Curator's Name:	
-Director's Name:	V.T. Kharchishin
-Info:	  Ukraine - Zhitomir  ;Garden Information;  Institution Code: ZHIT; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Botanical Garden of the Agricultural Institute; Koroleva str, 39 ZHITOMIR, Ukraine.; Zhitomir; Ukraine; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.znau.edu.ua/">http://www.znau.edu.ua/; Primary Email: ecos@znau.edu.ua ; 
-Plant Records Officer's Name:	
-Date founded:	1933
-Institution Type:	Botanic Garden
-Latitude:	50.2515
-Longitude:	28.69721
+0-ID: 959
+1-Name: The Botanical Garden of the Agricultural Institute 
+2-Date founded: 1933
+2-Info:              Institution Code: ZHIT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Botanical Garden of the Agricultural Institute;         Koroleva str, 39  ZHITOMIR, Ukraine.;                Zhitomir;        Ukraine;        ;                 Telephone: ;         Fax: ;         URL: http://www.znau.edu.ua/;         Primary Email: ecos@znau.edu.ua       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.2515
+2-Longitude: 28.69721
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=959">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=959">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=959">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=959">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ZHIT
+9-International Agenda Registration: No
+9-Primary Email: ecos@znau.edu.ua
+9-Telephone: 

@@ -1,14 +1,22 @@
-ID:	862
-Name:	Baldah Garden 
-Fax:	
-Info:	  Bangladesh - Dhaka  ;Garden Information;  Institution Code: BALD; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Telephone:	
-Curator's Name:	
-Director's Name:	
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	23.7184
-Longitude:	90.4179
-Special Collections:	No information available.
+0-ID: 862
+1-Name: Baldah Garden 
+2-Curator's Name: 
+2-Director's Name: 
+2-Info:              Institution Code: BALD;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/862/images.php" alt="testtesttest" />         testtesttest</div>        </div>                                    Main Address:;         Baldah Garden;         Wari  DHAKA  Bangladesh;                Dhaka;        Bangladesh;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Institution Type: Botanic Garden
+3-Latitude: 23.7184
+3-Longitude: 90.4179
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=862">Please click here if you can update us</a>
+5-Special Collections: No information available.
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=862">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=862">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=862">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BALD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

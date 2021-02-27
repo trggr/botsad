@@ -1,31 +1,31 @@
-ID:	28
-Name:	Rae Selling Berry Seed Bank (formerly Berry Botanic Garden seed bank) 
-Administration Staff Number:	1
-Curator's Name:	Kris Freitag, Program Administrator
-Director's Name:	Ed Guerrant, PhD, Director
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Info:	  United States of America - Oregon - Portland  ;Garden Information;  Institution Code: BERR; International Agenda Registration: No; BGCI Member: No; About the Rae Selling Berry Seed Bank (formerly Berry Botanic Garden seed bank) The Rae Selling Berry Seed Bank & Plant Conservation Program was established at Portland State University in 2011. The Rae Selling Berry Seed Bank continues the work of The Berry Botanic Garden Seed Bank for Rare and Endangered Plants of the Pacific Northwest,which had been in operation for 28 years before moving to Portland State University. The brainchild of Molly McGuire Grothaus, ours is, as far as we know, the first seed bank in the USA and maybe even the first in the world dedicated exclusively to conserving rare native plants.; ; We currently hold more than 18,000 accessions, consisting of packets of seed, representing over 350 of our region's rarest and most vulnerable plants. These seeds constitute an 'insurance policy' against the extirpation in the wild of sampled populations or species. They are held primarily for use in reintroductions to the wild and rare plant research. Some seeds have been stored for over two decades!; ; Seed banking is one form of plant conservation. Because such efforts take place away from the plants' natural habitats, they are called off-site, or ex situ conservation.; ; The Berry Botanic Garden began as the personal collection of a remarkable plantswoman, Rae Selling Berry (1881-1976). We maintain and expand this extraordinary landscape in the service of education, conservation and horticulture. ; ; The Garden is a beautiful place to view flowers of the mountains and more. Plants from around the world mingle with those of the Pacific Northwest. You can stroll the native plant trail and learn about gardening for wildlife, or see trees, primula and rhododendrons from distant lands.; ; The Berry Botanic Garden is a also pioneer in saving seeds for the future. We maintain and continue to expand the Seed Bank for Rare and Endangered Plants of the Pacific Northwest, a regional resource since 1983, currently housing over 14,000 accessions representing more than 300 plants.;  Main Address:; Rae Selling Berry Seed Bank (formerly Berry Botanic Garden seed bank); Portland State University; SRTC B1-81; Portland; Oregon 97219-8309 United States of America; ;  Telephone: (503) 725-2456; Fax: ; URL: <a target="_blank" href="http://seedbank.pdx.edu">seedbank.pdx.edu; Primary Email: ed.guerrant@pdx.edu ; 
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	0.00 Metres
-Date founded:	1978
-Institution Type:	Gene/Seed Bank
-Landscaped Area:	Yes
-Latitude:	45.4424640
-Longitude:	-122.6620080
-Natural Vegetation Area:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Seed Bank:	Yes
-Special Collections:	Alpines, Primula species, Pacific Northwest native taxa, Rhododendron species. Maintains a seed bank with long-term storage capacity, containing over 14,000 accessions representing 300 species (2007 figures).
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Education:	Yes
-Exploration:	Yes
-Plant Breeding:	No
-Restoration Ecology:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 28
+1-Name: Rae Selling Berry Seed Bank (formerly Berry Botanic Garden seed bank) 
+2-Altitude: 0.00 Metres
+2-Date founded: 1978
+2-Info:              Institution Code: BERR;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Rae Selling Berry Seed Bank (formerly Berry Botanic Garden seed bank)        The Rae Selling Berry Seed Bank & Plant Conservation Program was established at Portland State University in 2011.  The Rae Selling Berry Seed Bank continues the work of The Berry Botanic Garden Seed Bank for Rare and Endangered Plants of the Pacific Northwest,which had been in operation for 28 years before moving to Portland State University. The brainchild of Molly McGuire Grothaus, ours is, as far as we know, the first seed bank in the USA and maybe even the first in the world dedicated exclusively to conserving rare native plants.;  ;  We currently hold more than 18,000 accessions, consisting of packets of seed, representing over 350 of our region's rarest and most vulnerable plants. These seeds constitute an 'insurance policy' against the extirpation in the wild of sampled populations or species. They are held primarily for use in reintroductions to the wild and rare plant research. Some seeds have been stored for over two decades!;  ;  Seed banking is one form of plant conservation. Because such efforts take place away from the plants' natural habitats, they are called off-site, or ex situ conservation.;  ;  The Berry Botanic Garden began as the personal collection of a remarkable plantswoman, Rae Selling Berry (1881-1976). We maintain and expand this extraordinary landscape in the service of education, conservation and horticulture. ;  ;  The Garden is a beautiful place to view flowers of the mountains and more. Plants from around the world mingle with those of the Pacific Northwest. You can stroll the native plant trail and learn about gardening for wildlife, or see trees, primula and rhododendrons from distant lands.;  ;  The Berry Botanic Garden is a also pioneer in saving seeds for the future. We maintain and continue to expand the Seed Bank for Rare and Endangered Plants of the Pacific Northwest, a regional resource since 1983, currently housing over 14,000 accessions representing more than 300 plants.;                        Main Address:;         Rae Selling Berry Seed Bank (formerly Berry Botanic Garden seed bank);         Portland State University;        SRTC B1-81;        Portland;        Oregon 97219-8309 United States of America;        ;                 Telephone: (503) 725-2456;         Fax: ;         URL: seedbank.pdx.edu;         Primary Email: ed.guerrant@pdx.edu       ;              
+2-Institution Type: Gene/Seed Bank
+2-Landscaped Area: Yes
+2-Latitude: 45.4424640
+2-Longitude: -122.6620080
+2-Natural Vegetation Area: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Special Collections: Alpines, Primula species, Pacific Northwest native taxa, Rhododendron species. Maintains a seed bank with long-term storage capacity, containing over 14,000 accessions representing 300 species (2007 figures).
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Education: Yes
+6-Exploration: Yes
+6-Plant Breeding: No
+6-Restoration Ecology: Yes
+7-Guided Tours: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BERR
+9-International Agenda Registration: No
+9-Primary Email: ed.guerrant@pdx.edu
+9-Telephone: (503) 725-2456
+9-URL: seedbank.pdx.edu

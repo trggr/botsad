@@ -1,11 +1,19 @@
-ID:	3214
-Name:	Belle Terre Botanic Garden and Arboretum 
-Curator's Name:	
-Director's Name:	Joyce Angelus-Keller & Wayne Keller
-Info:	  Canada - Quebec - Otter Lake  ;Garden Information;  Institution Code: BETE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Belle Terre Botanic Garden and Arboretum; 120 Milliken Road East; P.O. Box 215; Otter Lake; Quebec JOX 2PO Canada; ;  Telephone: (819) 453-7270; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	45.82342
-Longitude:	-76.43082
-Special Collections:	No information available.
+0-ID: 3214
+1-Name: Belle Terre Botanic Garden and Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BETE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Belle Terre Botanic Garden and Arboretum;         120 Milliken Road East;        P.O. Box 215;        Otter Lake;        Quebec JOX 2PO Canada;        ;                 Telephone: (819) 453-7270;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.82342
+2-Longitude: -76.43082
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3214">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3214">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3214">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3214">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BETE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (819) 453-7270
+9-URL: 

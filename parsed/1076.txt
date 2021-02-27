@@ -1,16 +1,22 @@
-ID:	1076
-Name:	Orto Botanico di Perugia 
-Curator's Name:	Marco Maovaz
-Director's Name:	Bruno Romano
-Info:	  Italy - Perugia  ;Garden Information;  Institution Code: PERU; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Orto Botanico di Perugia; Universita degli Studi di Perugia, Borgo XX Giugno, 74,; Perugia; I-06121 Italy; ;  Telephone: +39 (0)75 58 56073; Fax: +39 (0)75 58 56432; URL: <a target="_blank" href="http://www.ortobotanicoitalia.it/umbria/perugia/">http://www.ortobotanicoitalia.it/umbria/perugia/; Primary Email: ortbot@unipg.it ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1720
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	43.1107
-Longitude:	12.3891
-Natural Vegetation Area:	No
-Total Area:	3 Hectares
-Seed Bank:	Yes
-Special Collections:	Flora of Central Italy, Orchidaceae, Olea europaea, Libocedrus decurrens, Rosa rugosa, R. centifolia, R. moschata, R. gallica, Medicago, Trifolium, Dorycnium, Astragalus, Galega, Hedysarum, Onobrychis, Lotus, medicinal and aromatic plants for the pharmace
+0-ID: 1076
+1-Name: Orto Botanico di Perugia 
+2-Altitude: 0.00 Metres
+2-Date founded: 1720
+2-Info:              Institution Code: PERU;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Orto Botanico di Perugia;         Universita degli Studi di Perugia, Borgo XX Giugno, 74,;                Perugia;        I-06121 Italy;        ;                 Telephone: +39 (0)75 58 56073;         Fax: +39 (0)75 58 56432;         URL: http://www.ortobotanicoitalia.it/umbria/perugia/;         Primary Email: ortbot@unipg.it       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 43.1107
+2-Longitude: 12.3891
+2-Natural Vegetation Area: No
+2-Total Area: 3 Hectares
+3-Seed Bank: Yes
+4-Special Collections: Flora of Central Italy, Orchidaceae, Olea europaea, Libocedrus decurrens, Rosa rugosa, R. centifolia, R. moschata, R. gallica, Medicago, Trifolium, Dorycnium, Astragalus, Galega, Hedysarum, Onobrychis, Lotus, medicinal and aromatic plants for the pharmace
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1076">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1076">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1076">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +39 (0)75 58 56432
+9-Institution Code: PERU
+9-International Agenda Registration: No
+9-Primary Email: ortbot@unipg.it
+9-Telephone: +39 (0)75 58 56073

@@ -1,10 +1,18 @@
-ID:	3554
-Name:	ZSL London Zoo 
-Curator's Name:	
-Director's Name:	Sven Seiffert
-Info:	  United Kingdom - London  ;Garden Information;  Institution Code: ZSLON; International Agenda Registration: No; BGCI Member: No;  Main Address:; ZSL London Zoo; Regent Park, London, NW1 4RY, United Kingdom; London; United Kingdom; ;  Telephone: 0844 225 1826; Fax: ; URL: <a target="_blank" href="http://www.zsl.org/zsl-london-zoo/">http://www.zsl.org/zsl-london-zoo/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Latitude:	51.535276
-Longitude:	-0.155048
+0-ID: 3554
+1-Name: ZSL London Zoo 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ZSLON;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         ZSL London Zoo;         Regent Park, London, NW1 4RY, United Kingdom;                London;        United Kingdom;        ;                 Telephone: 0844 225 1826;         Fax: ;         URL: http://www.zsl.org/zsl-london-zoo/;         Primary Email:        ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 51.535276
+2-Longitude: -0.155048
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3554">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3554">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3554">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3554">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3554">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ZSLON
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0844 225 1826

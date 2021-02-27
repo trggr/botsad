@@ -1,11 +1,19 @@
-ID:	1461
-Name:	Arboretum de Ruhande 
-Curator's Name:	Mr.A. Twagirumugabe
-Director's Name:	Mr. Celestin Ahimana
-Info:	  Rwanda - Butare  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum de Ruhande; Departement de Foresterie, Institut des Sciences Agronomiques, B.P.617, BUTARE, Rwanda. returned; Butare; Rwanda; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1934
-Institution Type:	Botanic Garden
-Latitude:	-2.5920
-Longitude:	29.7431
-Special Collections:	Eucalyptus, native broadleaves, native resinous trees. The current status of this arboretum is uncertain.
+0-ID: 1461
+1-Name: Arboretum de Ruhande 
+2-Date founded: 1934
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum de Ruhande;         Departement de Foresterie, Institut des Sciences Agronomiques,  B.P.617, BUTARE,  Rwanda.  returned;                Butare;        Rwanda;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -2.5920
+2-Longitude: 29.7431
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1461">Please click here if you can update us</a>
+4-Special Collections: Eucalyptus, native broadleaves, native resinous trees. The current status of this arboretum is uncertain.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1461">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1461">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1461">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

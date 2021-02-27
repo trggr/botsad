@@ -1,10 +1,19 @@
-ID:	4335
-Name:	Emei Mountain Rare Botanical Garden 
-Curator's Name:	
-Director's Name:	-
-Info:	  China - Sichuan Province - Emei Mountain, Leshan  ;Garden Information;  Institution Code: EMEI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Emei Mountain Rare Botanical Garden; Emei Mountain Biological Resources Experimental Station; Emei Mountain, Leshan; Sichuan Province 614201 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	29.5921
-Longitude:	103.37937
+0-ID: 4335
+1-Name: Emei Mountain Rare Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: EMEI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Emei Mountain Rare Botanical Garden;         Emei Mountain Biological Resources Experimental Station;                Emei Mountain, Leshan;        Sichuan Province 614201 China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.5921
+2-Longitude: 103.37937
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4335">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4335">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4335">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4335">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4335">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: EMEI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

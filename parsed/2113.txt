@@ -1,17 +1,20 @@
-ID:	2113
-Name:	Batsford Arboretum 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	NK
-Educational Staff Number:	
-Horticultural Staff Number:	14
-Info:	  United Kingdom - Gloucestershire - Moreton-in-marsh  ;Garden Information;  Institution Code: BATSF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Batsford Arboretum; The Estate Office; Batsford; Moreton-in-marsh; Gloucestershire GL56 9QF United Kingdom; ;  Telephone: +44 (0)1386 701441; Fax: +44 (0) 1608 650290; URL: <a target="_blank" href="http://www.batsarb.co.uk/">http://www.batsarb.co.uk/; Primary Email: arboretum@batsfordfoundation.co.uk ; 
-Plant Records Officer's Name:	Mr Malcolm MacLachlan
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	52.001361
-Longitude:	-1.730806
-Total Area:	25 Hectares
-Cultivation Taxa Num:	1663
-Special Collections:	Pinaceae, Fagaceae, Rosaceae, Aceraceae, Magnoliaceae, Gramineae, Acer, Abies, Quercus, Magnolia, Picea, Pinus, Prunus and Japanese cherries, Sorbus (3,249 plants, representing 1,133 species and 229 genera).
+0-ID: 2113
+1-Name: Batsford Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BATSF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Batsford Arboretum;         The Estate Office;        Batsford;        Moreton-in-marsh;        Gloucestershire GL56 9QF United Kingdom;        ;                 Telephone: +44 (0)1386 701441;         Fax: +44 (0) 1608 650290;         URL: http://www.batsarb.co.uk/;         Primary Email: arboretum@batsfordfoundation.co.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.001361
+2-Longitude: -1.730806
+2-Total Area: 25 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2113">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 1663
+4-Special Collections: Pinaceae, Fagaceae, Rosaceae, Aceraceae, Magnoliaceae, Gramineae, Acer, Abies, Quercus, Magnolia, Picea, Pinus, Prunus and Japanese cherries, Sorbus (3,249 plants, representing 1,133 species and 229 genera).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2113">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2113">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2113">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +44 (0) 1608 650290
+9-Institution Code: BATSF
+9-International Agenda Registration: No
+9-Primary Email: arboretum@batsfordfoundation.co.uk
+9-Telephone: +44 (0)1386 701441

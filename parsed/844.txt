@@ -1,10 +1,19 @@
-ID:	844
-Name:	University of Jyväskylä Botanic Garden 
-Curator's Name:	
-Director's Name:	Veli Saari
-Info:	  Finland - Jyväskylä  ;Garden Information;  Institution Code: JYV; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of Jyväskylä Botanic Garden; P.O. Box 35, FI-40351 Jyväskylä, Finland.; Jyväskylä; FI-40351 Finland; ;  Telephone: 358-41-601211; Fax: 358-41-601201; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	62.2403
-Longitude:	25.7426
+0-ID: 844
+1-Name: University of Jyväskylä Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: JYV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of Jyväskylä Botanic Garden;         P.O. Box 35, FI-40351 Jyväskylä, Finland.;                Jyväskylä;        FI-40351 Finland;        ;                 Telephone: 358-41-601211;         Fax: 358-41-601201;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 62.2403
+2-Longitude: 25.7426
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=844">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=844">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=844">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=844">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=844">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 358-41-601201
+9-Institution Code: JYV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 358-41-601211
+9-URL: 

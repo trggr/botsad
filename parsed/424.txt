@@ -1,80 +1,84 @@
-ID:	424
-Name:	Späth-Arboretum der Humboldt-Universität zu Berlin 
-Fax:	+49 (0)30 6369446
-Info:	  Germany - Deutschland - Berlin  ;Garden Information;  Institution Code: BHU; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	arboretum@hu-berlin.de
-Telephone:	+49 (0)30 6366941
-Administration Staff Number:	
-Curator's Name:	Dr. Thomas Janßen
-Director's Name:	Prof. Dr. Kurt Zoglauer
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Plant Records Officer's Name:	
-Research Staff Number:	3
-Altitude:	35.00 Metres
-Annual Rainfall:	580 mm
-Date founded:	1879
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	52.5234
-Longitude:	13.4114
-Natural Vegetation Area:	No
-Total Area:	4 Hectares
-Total area of glasshouses:	100 Metres
-Arboretum:	Yes
-Arboretum Size:	3
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	5000
-Number of Volunteers:	4
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	4000
-Cultivation Taxa Num:	3900
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	woody plants (including many rare cultivars and hybrids
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	Yes
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	Yes
-Restoration Ecology:	No
-Seed/Spore Biology:	Yes
-Sustainability:	No
-Systematics and Taxonomy:	Yes
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 424
+1-Name: Späth-Arboretum der Humboldt-Universität zu Berlin 
+2-Administration Staff Number: 
+2-Curator's Name: Dr. Thomas Janßen
+2-Director's Name: Prof. Dr. Kurt Zoglauer
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 4
+2-Info:              Institution Code: BHU;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/424/10.10.2010 K 144_kl.jpg" alt="The former villa of F. Späth is now home of the systematic botany and water ecology working groups of Humboldt University's Institute of Biology." />         The former villa of F. Späth is now home of the systematic botany and water ecology working groups of Humboldt University's Institute of Biology.</div>        </div>                           About the Späth-Arboretum der Humboldt-Universität zu Berlin        Humboldt University's arboretum is named after Ludwig Späth, owner of what was once the world's largest tree nursery. It was founded by Franz Späth in 1879 and landscaped in the English style by Berlin's Garden director Gustav Meyer. Since 1961 the Späth-Arboretum is part of Berlin's Humboldt-University and provides plant material for research, academic teaching and public environmental education. Its roughly 4000 plant accessions include 1200 woody plants, among which there are many rare cultivars and hybrids. Reflecting its initial function as a presentation garden of Späth's tree nursery, the trees an shrubs are not arranged according to systematic or geographical relationship, but rather according to aesthetic principles. Both, its collection of woody plants and its landscaping earned the Späth-Arboretum in 1998 the International Dendrology Society's "Distinction for Merit".;                        Main Address:;         Späth-Arboretum der Humboldt-Universität zu Berlin;         Institut für Biologie, AG Botanik & Arboretum;        Späthstr. 80 / 81;        Berlin;        12437 Germany - Deutschland;        ;                 Telephone: +49 (0)30 6366941;         Fax: +49 (0)30 6369446;         URL: ;         Primary Email: arboretum@hu-berlin.de       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 3
+3-Altitude: 35.00 Metres
+3-Annual Rainfall: 580 mm
+3-Date founded: 1879
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 52.5234
+3-Longitude: 13.4114
+3-Natural Vegetation Area: No
+3-Total Area: 4 Hectares
+3-Total area of glasshouses: 100 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 3
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 5000
+4-Number of Volunteers: 4
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: No
+5-Accession Number: 4000
+5-Cultivation Taxa Num: 3900
+5-Invasive Species Monitoring: No
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+5-Special Collections: woody plants (including many rare cultivars and hybrids
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: Yes
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: Yes
+7-Restoration Ecology: No
+7-Seed/Spore Biology: Yes
+7-Sustainability: No
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: No
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: No
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: +49 (0)30 6369446
+9-Institution Code: BHU
+9-International Agenda Registration: No
+9-Primary Email: arboretum@hu-berlin.de
+9-Telephone: +49 (0)30 6366941
+9-URL: 

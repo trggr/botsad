@@ -1,11 +1,19 @@
-ID:	485
-Name:	REA Hortus Tranensis / Giardino Botanico Rea 
-Curator's Name:	Dr Rosa Camoletto
-Director's Name:	Giuseppe Giovanni Bellia
-Info:	  Italy - Piemonte - San Bernadino di Trana  ;Garden Information;  Institution Code: REA; International Agenda Registration: No; BGCI Member: No;  Main Address:; REA Hortus Tranensis / Giardino Botanico Rea; Via Giaveno 40, Fraz. San Bernardino; San Bernadino di Trana; Piemonte 10090 Italy; ;  Telephone: +39011 4324065 (MUSEUM) +39011 933150 (GARDEN); Fax: +39011 4323331; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1961
-Institution Type:	Botanic Garden
-Latitude:	45.2133
-Longitude:	7.6538
-Special Collections:	Local flora, alpines, herbaceous perennial plants, hardy shrubs (local), alnus viridis, Calluna, Carex, Festuca, Orchidaceae, Begoniaceae, Commelinaceae
+0-ID: 485
+1-Name: REA Hortus Tranensis / Giardino Botanico Rea 
+2-Date founded: 1961
+2-Info:              Institution Code: REA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         REA Hortus Tranensis / Giardino Botanico Rea;         Via  Giaveno 40, Fraz. San Bernardino;                San Bernadino di Trana;        Piemonte 10090 Italy;        ;                 Telephone: +39011 4324065 (MUSEUM) +39011 933150 (GARDEN);         Fax: +39011 4323331;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.2133
+2-Longitude: 7.6538
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=485">Please click here if you can update us</a>
+4-Special Collections: Local flora, alpines, herbaceous perennial plants, hardy shrubs (local), alnus viridis, Calluna, Carex, Festuca, Orchidaceae, Begoniaceae, Commelinaceae
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=485">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=485">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=485">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +39011 4323331
+9-Institution Code: REA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +39011 4324065 (MUSEUM) +39011 933150 (GARDEN)
+9-URL: 

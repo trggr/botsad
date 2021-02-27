@@ -1,13 +1,18 @@
-ID:	4183
-Name:	Parque Zoobotânico Arruda Câmara 
-Administration Staff Number:	8
-Curator's Name:	
-Director's Name:	Jair Azevedo
-Educational Staff Number:	6
-Horticultural Staff Number:	3
-Info:	  Brazil - Paraíba - João Pessoa  ;Garden Information;  Institution Code: CAMARA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Parque Zoobotânico Arruda Câmara; Av. Gouveia Nobrega,; s/n Tambia; João Pessoa; Paraíba CEP: 58.053.000 Brazil; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.joaopessoa.pb.gov.br/zoobica/">http://www.joaopessoa.pb.gov.br/zoobica/; Primary Email: parquezoobotanico@joaopessoa.pb.gov.br ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Institution Type:	Botanic Garden
-Latitude:	-7.1628
-Longitude:	-34.8631
+0-ID: 4183
+1-Name: Parque Zoobotânico Arruda Câmara 
+2-Info:              Institution Code: CAMARA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Parque Zoobotânico Arruda Câmara;         Av. Gouveia Nobrega,;        s/n Tambia;        João Pessoa;        Paraíba CEP: 58.053.000 Brazil;        ;                 Telephone: ;         Fax: ;         URL: http://www.joaopessoa.pb.gov.br/zoobica/;         Primary Email: parquezoobotanico@joaopessoa.pb.gov.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -7.1628
+2-Longitude: -34.8631
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4183">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4183">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4183">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4183">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4183">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CAMARA
+9-International Agenda Registration: Yes
+9-Paraíba CEP: 58.053.000 Brazil
+9-Primary Email: parquezoobotanico@joaopessoa.pb.gov.br
+9-Telephone: 

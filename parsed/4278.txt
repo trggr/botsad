@@ -1,13 +1,21 @@
-ID:	4278
-Name:	Kula Botanical Garden, Inc. 
-Curator's Name:	
-Director's Name:	Warren McCord, Board of Directors, Chairman
-Info:	  United States of America - Hawaii - Kula, Maui  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kula Botanical Garden, Inc.; 638 Kekaulike Avenue; Kula, Maui; Hawaii 96790 United States of America; ;  Telephone: (808) 878-1715; Fax: ; URL: <a target="_blank" href="http://www.kulabotanicalgarden.com">www.kulabotanicalgarden.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	20.7418090
-Longitude:	-156.3252300
-Total Area:	3 Hectares
-Open to public:	Yes
+0-ID: 4278
+1-Name: Kula Botanical Garden, Inc. 
+2-Altitude: 0.00 Metres
+2-Date founded: 1968
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kula Botanical Garden, Inc.;         638 Kekaulike Avenue;                Kula, Maui;        Hawaii 96790 United States of America;        ;                 Telephone: (808) 878-1715;         Fax: ;         URL: www.kulabotanicalgarden.com;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.7418090
+2-Longitude: -156.3252300
+2-Total Area: 3 Hectares
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4278">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4278">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4278">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4278">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (808) 878-1715
+9-URL: www.kulabotanicalgarden.com

@@ -1,12 +1,20 @@
-ID:	4847
-Name:	Tatton Park 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Cheshire - Knutsford  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Tatton Park Set in rolling parkland, the formal gardens are full of delightful surprises and are considered to be amongst the most important in England. Attractions include the famous Japanese Garden which underwent large-scale restoration during 2001 with funding from the Japanese Exposition Fund and the National Trust. Extensive research by Professor Fukuhara of Osaka University and the existence of glass-plate photographic records have enabled the garden to be restored to its original 1910 design. The restoration of the Walled Garden began in December 2000, a project that will provide a number of new facilities as well as restoring fig, tomato, orchid and pot-plant houses.;  Main Address:; Tatton Park; Knutsford; Cheshire WA16 6QN United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/tatton-park/">www.nationaltrust.org.uk/tatton-park/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	53.33024507
-Longitude:	-2.38517046
-Total Area:	20 Hectares
-Number of Visitors:	120000
+0-ID: 4847
+1-Name: Tatton Park 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Tatton Park        Set in rolling parkland, the formal gardens are full of delightful surprises and are considered to be amongst the most important in England. Attractions include the famous Japanese Garden which underwent large-scale restoration during 2001 with funding from the Japanese Exposition Fund and the National Trust. Extensive research by Professor Fukuhara of Osaka University and the existence of glass-plate photographic records have enabled the garden to be restored to its original 1910 design. The restoration of the Walled Garden began in December 2000, a project that will provide a number of new facilities as well as restoring fig, tomato, orchid and pot-plant houses.;                        Main Address:;         Tatton Park;                         Knutsford;        Cheshire WA16 6QN United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/tatton-park/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 53.33024507
+2-Longitude: -2.38517046
+2-Total Area: 20 Hectares
+3-Number of Visitors: 120000
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4847">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4847">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4847">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4847">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/tatton-park/

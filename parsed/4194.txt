@@ -1,75 +1,78 @@
-ID:	4194
-Name:	University of Peshawar Botanical Garden 
-Fax:	00-92-91-9222267
-Info:	  Pakistan - Khyber Pakhtunkhwa - Peshawar  ;Garden Information;  Institution Code: UPESH; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	asadbotanist@yahoo.com
-Telephone:	00-92-91-9222267
-Administration Staff Number:	22
-Curator's Name:	
-Director's Name:	Dr. Asad Ullah
-Educational Staff Number:	7
-Horticultural Staff Number:	60
-Plant Records Officer's Name:	
-Research Staff Number:	7
-Altitude:	290.00 Metres
-Annual Rainfall:	400 mm
-Date founded:	2005
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	34.15
-Local Address:	Director Centre of Plant Biodiversity/Botanical Garden University of Peshawar, 25120, Peshawar Khyber Pakhtunkhwa Pakistan
-Locality:	Information
-Longitude:	71.43
-Natural Vegetation Area:	Yes
-Total Area:	40 Hectares
-Arboretum:	No
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	1000000
-Number of Volunteers:	100
-Open to public:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Pharmacology:	Yes
-Plant Breeding:	No
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 4194
+1-Name: University of Peshawar Botanical Garden 
+2-Administration Staff Number: 22
+2-Curator's Name: 
+2-Director's Name: Dr. Asad Ullah
+2-Educational Staff Number: 7
+2-Horticultural Staff Number: 60
+2-Info:              Institution Code: UPESH;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/4194/Medicinal Garden-II.JPG" alt="Medicinal Garden in the University of Peshawar Botanical Garden" />         Medicinal Garden in the University of Peshawar Botanical Garden</div>        </div>                                    Main Address:;         University of Peshawar Botanical Garden;         Centre of Plant Biodiversity;        University of Peshawar;        Peshawar;        Khyber Pakhtunkhwa 25120 Pakistan;        ;                 Telephone: 00-92-91-9222267;         Fax: 00-92-91-9222267;         URL: http://bg.uop.edu.pk/;         Primary Email: asadbotanist@yahoo.com       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 7
+3-Altitude: 290.00 Metres
+3-Annual Rainfall: 400 mm
+3-Date founded: 2005
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 34.15
+3-Local Address: Director Centre of Plant Biodiversity/Botanical Garden University of Peshawar, 25120, Peshawar Khyber Pakhtunkhwa Pakistan
+3-Locality: Information
+3-Longitude: 71.43
+3-Natural Vegetation Area: Yes
+3-Total Area: 40 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: No
+4-Disabled access: No
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Number of Visitors: 1000000
+4-Number of Volunteers: 100
+4-Open to public: Yes
+4-Seed Bank: Yes
+5-ABS Policy: Yes
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: Yes
+7-Pharmacology: Yes
+7-Plant Breeding: No
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: No
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 00-92-91-9222267
+9-Institution Code: UPESH
+9-International Agenda Registration: Yes
+9-Primary Email: asadbotanist@yahoo.com
+9-Telephone: 00-92-91-9222267

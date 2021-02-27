@@ -1,43 +1,47 @@
-ID:	115
-Name:	Philodassiki Botanic Garden 
-Fax:	+30 210 7295628
-Info:	  Greece - Athens  ;Garden Information;  Institution Code: KAIS; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	gofas@philodassiki.org
-Telephone:	+30 210 7220866
-The Botanic Garden of Philodassiki displays many elements of the Mediterranean eco-systems:	it has a rich paeonia vegetation, consisting of large bushes and certain coniferous, which are mostly evergreens. Another important element of the Garden are its brush bushes, which are characteristic of the dry bush vegetation of the Mediterranean landscape. In these spaces, which at a first appear to be barren , grows a great number and variety of flora, which includes perennials, annuals and bulbs
-Administration Staff Number:	1
-Curator's Name:	Mr. G.Karetsos
-Director's Name:	Mr Michael G. Melas
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	Mr Nicholas Pangas
-Research Staff Number:	
-Altitude:	360.00 Metres
-Annual Rainfall:	400 mm
-Date founded:	1947
-Institution Type:	Botanic Garden
-Latitude:	37.9924
-Local Address:	Mount Hymettus by Kessariani Monastery
-Locality:	Information
-Longitude:	23.7378
-Total Area:	1 Hectares
-Computer Plant Record System:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Open to public:	No
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Special Collections:	Plant presentation
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Molecular Genetics:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Education Booklets/Leaflets:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	No
-Visitor/Education Centre:	No
+0-ID: 115
+1-Name: Philodassiki Botanic Garden 
+2-Administration Staff Number: 1
+2-Curator's Name: Mr. G.Karetsos
+2-Director's Name: Mr Michael G. Melas
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: KAIS;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/115/00010004.JPG" alt="Spring at Kaisariani Botanical Garden" />         Spring at Kaisariani Botanical Garden</div>        </div>                           About the Philodassiki Botanic Garden        The Botanic Garden which was established in 1947 within a site offered by the adjoining Monastery, had been collected initially 200 species of plants, a number which remained the same during the past years. The years went by, the priorities of PH.E.A. changed, mainly due to a lack of funds, and the Garden turned "wild" in a very specific way. This gives it today its particular charm and natural character. This natural character we are attempting to preserve in view of the Garden's improvement to be achieved with the addition of more plants.;  ;  The Botanic Garden of Philodassiki displays many elements of the Mediterranean eco-systems: it has a rich paeonia vegetation, consisting of large bushes and certain coniferous, which are mostly evergreens. Another important element of the Garden are its brush bushes, which are characteristic of the dry bush vegetation of the Mediterranean landscape. In these spaces, which at a first appear to be barren , grows a great number and variety of flora, which includes perennials, annuals and bulbs; these give a brief but striking floriferous look to the garden, mainly during Spring. ;  ;  In addition certain sites, with deeper and more humid soil, such as the ones in proximity of a small stream which crosses the Garden, encourage the growth of more mountain plants requiring increased humidity.;                        Main Address:;         Philodassiki Botanic Garden;         Herodotou 10;                Athens;        GR 106 75 Greece;        ;                 Telephone: +30 210 7220866;         Fax: +30 210 7295628;         URL: www.philodassiki.org;         Primary Email: gofas@philodassiki.org       ;              
+2-Plant Records Officer's Name: Mr Nicholas Pangas
+2-Research Staff Number: 
+3-Altitude: 360.00 Metres
+3-Annual Rainfall: 400 mm
+3-Date founded: 1947
+3-Institution Type: Botanic Garden
+3-Latitude: 37.9924
+3-Local Address: Mount Hymettus by Kessariani Monastery
+3-Locality: Information
+3-Longitude: 23.7378
+3-Total Area: 1 Hectares
+4-Computer Plant Record System: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Open to public: No
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-Special Collections: Plant presentation
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Molecular Genetics: No
+7-Plant Breeding: Yes
+7-Pollination Biology: No
+8-Education Booklets/Leaflets: No
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: No
+8-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: +30 210 7295628
+9-Institution Code: KAIS
+9-International Agenda Registration: No
+9-Primary Email: gofas@philodassiki.org
+9-Telephone: +30 210 7220866
+9-The Botanic Garden of Philodassiki displays many elements of the Mediterranean eco-systems: it has a rich paeonia vegetation, consisting of large bushes and certain coniferous, which are mostly evergreens. Another important element of the Garden are its brush bushes, which are characteristic of the dry bush vegetation of the Mediterranean landscape. In these spaces, which at a first appear to be barren , grows a great number and variety of flora, which includes perennials, annuals and bulbs
+9-URL: www.philodassiki.org

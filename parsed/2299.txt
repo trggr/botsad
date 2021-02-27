@@ -1,14 +1,19 @@
-ID:	2299
-Name:	The Kashmir University Botanical Garden (KUBG) 
-Administration Staff Number:	3
-Curator's Name:	Mr. Z.S.Khan
-Director's Name:	Prof. G.H.Dar, Officer Incharge
-Educational Staff Number:	3
-Horticultural Staff Number:	10
-Info:	  India - Jummu and Kashmir - Srinagar  ;Garden Information;  Institution Code: KASH; International Agenda Registration: Yes; BGCI Member: No; About the The Kashmir University Botanical Garden (KUBG) Also in Srinagar are the Shalimar Gardens, Nishat Bagh (3km. north of Shalimar) and Chashma-E-Shahi Garden, each with good collections of trees and shrubs.;  Main Address:; The Kashmir University Botanical Garden (KUBG); The University of Kashmir,; Hazratbal; Srinagar; Jummu and Kashmir 190 006 India; ;  Telephone: 0091-0194-2420078 Ext.2157; Fax: 0091-0194-2421357; URL: <a target="_blank" href="http://">; Primary Email: ghdar@kashmiruniversity.net ; 
-Plant Records Officer's Name:	Mr.Z.S.Khan
-Research Staff Number:	5
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	33.8780
-Longitude:	76.6637
+0-ID: 2299
+1-Name: The Kashmir University Botanical Garden (KUBG) 
+2-Date founded: 
+2-Info:              Institution Code: KASH;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the The Kashmir University Botanical Garden (KUBG)        Also in Srinagar are the Shalimar Gardens, Nishat Bagh (3km. north of Shalimar) and Chashma-E-Shahi Garden, each with good collections of trees and shrubs.;                        Main Address:;         The Kashmir University Botanical Garden (KUBG);         The University of Kashmir,;        Hazratbal;        Srinagar;        Jummu and Kashmir 190 006 India;        ;                 Telephone: 0091-0194-2420078     Ext.2157;         Fax: 0091-0194-2421357;         URL: ;         Primary Email: ghdar@kashmiruniversity.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.8780
+2-Longitude: 76.6637
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2299">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2299">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2299">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2299">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2299">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0091-0194-2421357
+9-Institution Code: KASH
+9-International Agenda Registration: Yes
+9-Primary Email: ghdar@kashmiruniversity.net
+9-Telephone: 0091-0194-2420078     Ext.2157
+9-URL: 

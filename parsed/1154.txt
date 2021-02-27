@@ -1,16 +1,23 @@
-ID:	1154
-Name:	Indianapolis Museum of Art 
-Curator's Name:	
-Director's Name:	Mark Zelonis, The Ruth Lilly Deputy Director of Environmental & Historic Preservation
-Info:	  United States of America - Indiana - IndIianapolis  ;Garden Information;  Institution Code: LILLY; International Agenda Registration: No; BGCI Member: No; About the Indianapolis Museum of Art The IMA's gardens and grounds are renowned for their beauty and history. The 152-acre complex includes: Oldfields, a 26-acre American Country Place estate that has been recognized as a National Historic Landmark, the Indianapolis Museum of Art's 26-acre main campus and the 100-acre Virginia B. Fairbanks Art & Nature Park, which is currently under development. The IMA's gardens and grounds are open daily from dawn until dusk. Admission is free.;  Main Address:; Indianapolis Museum of Art; Gardens & Grounds; 4000 Michigan Road; IndIianapolis; Indiana 46208 United States of America; ;  Telephone: (317) 923-1331; Fax: ; URL: <a target="_blank" href="http://www.imamuseum.org">www.imamuseum.org; Primary Email: greenhouse@imamuseum.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1978
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	39.8255492
-Longitude:	-86.1853981
-Total Area:	61 Hectares
-Open to public:	Yes
-Special Collections:	Historic garden plantings - otherwise unknown.
-Guided Tours:	Yes
+0-ID: 1154
+1-Name: Indianapolis Museum of Art 
+2-Altitude: 0.00 Metres
+2-Date founded: 1978
+2-Info:              Institution Code: LILLY;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Indianapolis Museum of Art        The IMA's gardens and grounds are renowned for their beauty and history. The 152-acre complex includes: Oldfields, a 26-acre American Country Place estate that has been recognized as a National Historic Landmark, the Indianapolis Museum of Art's 26-acre main campus and the 100-acre Virginia B. Fairbanks Art & Nature Park, which is currently under development. The IMA's gardens and grounds are open daily from dawn until dusk. Admission is free.;                        Main Address:;         Indianapolis Museum of Art;         Gardens & Grounds;        4000 Michigan Road;        IndIianapolis;        Indiana 46208 United States of America;        ;                 Telephone: (317) 923-1331;         Fax: ;         URL: www.imamuseum.org;         Primary Email: greenhouse@imamuseum.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 39.8255492
+2-Longitude: -86.1853981
+2-Total Area: 61 Hectares
+3-Open to public: Yes
+4-Special Collections: Historic garden plantings - otherwise unknown.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1154">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1154">Please click here if you can update us</a>
+7-Guided Tours: Yes
+9-About the Indianapolis Museum of Art        The IMA's gardens and grounds are renowned for their beauty and history. The 152-acre complex includes: Oldfields, a 26-acre American Country Place estate that has been recognized as a National Historic Landmark, the Indianapolis Museum of Art's 26-acre main campus and the 100-acre Virginia B. Fairbanks Art & Nature Park, which is currently under development. The IMA's gardens and grounds are open daily from dawn until dusk. Admission is free.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LILLY
+9-International Agenda Registration: No
+9-Primary Email: greenhouse@imamuseum.org
+9-Telephone: (317) 923-1331
+9-URL: www.imamuseum.org

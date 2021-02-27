@@ -1,11 +1,19 @@
-ID:	145
-Name:	Botanical Garden of St. Petersburg State University / ???????????? ??? ????? 
-Curator's Name:	Alexander V. Halling, Head of Greenhouses
-Director's Name:	Dr. V.N. Nikitina, Director
-Info:	  Russian Federation - Leningrad oblast - St. Petersburg  ;Garden Information;  Institution Code: LECB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of St. Petersburg State University / ???????????? ??? ?????; Universitetskaia nab. 7/9; St. Petersburg; Leningrad oblast 199164 Russian Federation; ;  Telephone: (812) 328-97-21 x. 397; Fax: ; URL: <a target="_blank" href="http://www.bio.spbu.ru/faculty/garden/">www.bio.spbu.ru/faculty/garden/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	59.9390
-Longitude:	30.3157
-Special Collections:	Decorative, medicinal and some rare plants of the St Petersburg district. Conifers, cacti,grasses, Ficus, Echinodorus, Tagetes, Callistephus, Dahlia.
+0-ID: 145
+1-Name: Botanical Garden of St. Petersburg State University / ???????????? ??? ????? 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: LECB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden of St. Petersburg State University / ???????????? ??? ?????;         Universitetskaia nab. 7/9;                St. Petersburg;        Leningrad oblast 199164 Russian Federation;        ;                 Telephone: (812) 328-97-21 x. 397;         Fax: ;         URL: www.bio.spbu.ru/faculty/garden/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 59.9390
+2-Longitude: 30.3157
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=145">Please click here if you can update us</a>
+4-Special Collections: Decorative, medicinal and some rare plants of the St Petersburg district. Conifers, cacti,grasses, Ficus, Echinodorus, Tagetes, Callistephus, Dahlia.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=145">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=145">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=145">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LECB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (812) 328-97-21 x. 397
+9-URL: www.bio.spbu.ru/faculty/garden/

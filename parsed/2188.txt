@@ -1,12 +1,20 @@
-ID:	2188
-Name:	Bongil Bongil Garden 
-Curator's Name:	
-Director's Name:	John W.Wrigley
-Info:	  Australia - Korora Basin  ;Garden Information;  Institution Code: BONG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Bongil Bongil Garden; 20 Hardy Close; PO Box 1639; Korora Basin; NSW 2450 Australia; ;  Telephone: 61 (0)2 6653 6791; Fax: 61 (0)2 6653 6791; URL: <a target="_blank" href="http://www.anbg.gov.au/chabg/bg-dir/016.html">www.anbg.gov.au/chabg/bg-dir/016.html; Primary Email: johnwrigley@tpgi.com.au ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1981
-Institution Type:	Other
-Latitude:	-30.3738617
-Longitude:	153.087739
-Special Collections:	70 % of collection if Australian flora.
+0-ID: 2188
+1-Name: Bongil Bongil Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1981
+2-Info:              Institution Code: BONG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Bongil Bongil Garden;         20 Hardy Close;        PO Box 1639;        Korora Basin;        NSW 2450 Australia;        ;                 Telephone: 61 (0)2 6653 6791;         Fax: 61 (0)2 6653 6791;         URL: www.anbg.gov.au/chabg/bg-dir/016.html;         Primary Email: johnwrigley@tpgi.com.au       ;              
+2-Institution Type: Other
+2-Latitude: -30.3738617
+2-Longitude: 153.087739
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2188">Please click here if you can update us</a>
+4-Special Collections: 70 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2188">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2188">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2188">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)2 6653 6791
+9-Institution Code: BONG
+9-International Agenda Registration: No
+9-Primary Email: johnwrigley@tpgi.com.au
+9-Telephone: 61 (0)2 6653 6791
+9-URL: www.anbg.gov.au/chabg/bg-dir/016.html

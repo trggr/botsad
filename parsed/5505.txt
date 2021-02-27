@@ -1,9 +1,16 @@
-ID:	5505
-Name:	National Botanical Conservatory of Corsica SEED BANK 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Corsica - Corte  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Botanical Conservatory of Corsica SEED BANK; Office de l’Environnement de la Corse; 14, Avenue Jean Nicoli; Corte; Corsica 20250 France; ;  Telephone: 04 95 45 04 00; Fax: 04 95 33 84 73; URL: <a target="_blank" href="http://cbnc.oec.fr/">http://cbnc.oec.fr/; Primary Email: cbnc@oec.fr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Seed Bank:	Yes
+0-ID: 5505
+1-Name: National Botanical Conservatory of Corsica SEED BANK 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Botanical Conservatory of Corsica SEED BANK;         Office de l’Environnement de la Corse;        14, Avenue Jean Nicoli;        Corte;        Corsica 20250 France;        ;                 Telephone: 04 95 45 04 00;         Fax: 04 95 33 84 73;         URL: http://cbnc.oec.fr/;         Primary Email: cbnc@oec.fr       ;              
+2-Institution Type: Gene/Seed Bank
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5505">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5505">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5505">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5505">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 04 95 33 84 73
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cbnc@oec.fr
+9-Telephone: 04 95 45 04 00

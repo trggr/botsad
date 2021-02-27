@@ -1,10 +1,19 @@
-ID:	3101
-Name:	Giardino Botanico "Michele Tenore" 
-Curator's Name:	
-Director's Name:	
-Info:	  Italy - Lama Dei Peligni  ;Garden Information;  Institution Code: MTLD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Botanico "Michele Tenore"; Via Colle Madonna, 66010 Lama dei Peligni (Chieti), Italy; Lama Dei Peligni; Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	42.1660
-Longitude:	14.2165
+0-ID: 3101
+1-Name: Giardino Botanico "Michele Tenore" 
+2-Date founded: 
+2-Info:              Institution Code: MTLD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino Botanico "Michele Tenore";         Via Colle Madonna, 66010 Lama dei Peligni (Chieti),  Italy;                Lama Dei Peligni;        Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.1660
+2-Longitude: 14.2165
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3101">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3101">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3101">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3101">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3101">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MTLD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

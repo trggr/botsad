@@ -1,11 +1,19 @@
-ID:	926
-Name:	Utkal University Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Bhubaneswar  ;Garden Information;  Institution Code: BHUBU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Utkal University Botanic Garden; Department of Botany, Utkal University, Vani Bihar, BHUBANESWAR 751 004, Orissa, India.; Bhubaneswar; India; ;  Telephone: 52520; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1971
-Institution Type:	Botanic Garden
-Latitude:	20.2635
-Longitude:	85.8351
-Special Collections:	Trees and shrubs (200 spp.), ornamentals.
+0-ID: 926
+1-Name: Utkal University Botanic Garden 
+2-Date founded: 1971
+2-Info:              Institution Code: BHUBU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Utkal University Botanic Garden;         Department of Botany, Utkal University,  Vani Bihar,  BHUBANESWAR 751 004,  Orissa, India.;                Bhubaneswar;        India;        ;                 Telephone: 52520;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.2635
+2-Longitude: 85.8351
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=926">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (200 spp.), ornamentals.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=926">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=926">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=926">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BHUBU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 52520
+9-URL: 

@@ -1,21 +1,23 @@
-ID:	18
-Name:	The Royal Zoological Society of Antwerp 
-Administration Staff Number:	1
-Curator's Name:	Tina Maes
-Director's Name:	Dries Herpoelaert
-Educational Staff Number:	
-Horticultural Staff Number:	18
-Info:	  Belgium - Belgium - Antwerp  ;Garden Information;  Institution Code: AWH; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Royal Zoological Society of Antwerp; Koningin Astridplein 26,; Antwerp; Belgium B-2018 Belgium; ;  Telephone: 32 (0)3 202 45 56; Fax: 32 (0)3 202 45 57; URL: <a target="_blank" href="http://www.zooantwerpen.be">www.zooantwerpen.be; Primary Email: tina.maes@kmda.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Zoological Institution
-Latitude:	51.2049
-Longitude:	4.4141
-Total area of glasshouses:	2000 Metres
-Disabled access:	Yes
-Open to public:	Yes
-Education:	Yes
-Courses for School Children:	Yes
-Guided Tours:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 18
+1-Name: The Royal Zoological Society of Antwerp 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: AWH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Royal Zoological Society of Antwerp;         Koningin Astridplein 26,;                Antwerp;        Belgium B-2018 Belgium;        ;                 Telephone: 32 (0)3 202 45 56;         Fax: 32 (0)3 202 45 57;         URL: www.zooantwerpen.be;         Primary Email: tina.maes@kmda.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 51.2049
+2-Longitude: 4.4141
+2-Total area of glasshouses: 2000 Metres
+3-Disabled access: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=18">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=18">Please click here if you can update us</a>
+6-Education: Yes
+7-Courses for School Children: Yes
+7-Guided Tours: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 32 (0)3 202 45 57
+9-Institution Code: AWH
+9-International Agenda Registration: No
+9-Primary Email: tina.maes@kmda.org
+9-Telephone: 32 (0)3 202 45 56
+9-URL: www.zooantwerpen.be

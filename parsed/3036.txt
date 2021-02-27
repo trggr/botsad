@@ -1,14 +1,22 @@
-ID:	3036
-Name:	Chongqing Ornamental Plant Garden 
-Curator's Name:	
-Director's Name:	N/A
-Info:	  China - Sichuan - Chongqing, Jiangbei County  ;Garden Information;  Institution Code: CHOQI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Chongqing Ornamental Plant Garden; Parks and Landscape Bureau of Chongqing; Longxi Town; Chongqing, Jiangbei County; Sichuan 631147 China; ;  Telephone: +86 23 6761 5502; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1989
-Institution Type:	Botanic Garden
-Latitude:	29.5527
-Local Address:	中国四川省南川县金佛山四川省中医药研究院药物种植研究所，邮编 648408
-Locality:	Information
-Longitude:	106.5458
-Special Collections:	Camellia, Malu, Chaenomeles, Meratla, Rhododendron, Lagerstroemia, Primula, Hosta, Begonia, Hmerocallis
+0-ID: 3036
+1-Name: Chongqing Ornamental Plant Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1989
+2-Info:              Institution Code: CHOQI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Chongqing Ornamental Plant Garden;         Parks and Landscape Bureau of Chongqing;        Longxi Town;        Chongqing, Jiangbei County;        Sichuan 631147 China;        ;                 Telephone: +86 23 6761 5502;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.5527
+2-Local Address: 中国四川省南川县金佛山四川省中医药研究院药物种植研究所，邮编 648408
+2-Locality: Information
+2-Longitude: 106.5458
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3036">Please click here if you can update us</a>
+4-Special Collections: Camellia, Malu, Chaenomeles, Meratla, Rhododendron, Lagerstroemia, Primula, Hosta, Begonia, Hmerocallis
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3036">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3036">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3036">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CHOQI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +86 23 6761 5502
+9-URL: 

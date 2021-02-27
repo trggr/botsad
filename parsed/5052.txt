@@ -1,18 +1,24 @@
-ID:	5052
-Name:	Edsel and Eleanor Ford House 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  United States of America - Michigan - Grosse Pointe Shores  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Edsel and Eleanor Ford House The Fords wanted a setting for their home that provided both wide-open and intimate outdoor spaces, with special places for sports, relaxation, nature and gatherings.; ; Jens Jensen, one of America's foremost landscape designers and conservationists, designed the Ford House garden landscape between 1926 - 1932. Known as the master of the naturalistic approach to landscaping, Jensen's design style combines woodlands, meadows and wetlands in such a natural way that guests are usually not conscious of any man-made design. Jensen was known for his use of native plants, the sense of vast open space, the play of light and shadow and the element of time and season's change.; ; His approach to landscape architecture sought to engage all five human senses- the sight of many colors and shapes, the sound of water running, the smell of flowers in bloom, the taste of berries, and the feeling of being surrounded by nature.;  Main Address:; Edsel and Eleanor Ford House; 1100 Lake Shore Road; Grosse Pointe Shores; Michigan MI 48236, United States of America; ;  Telephone: (313) 884-4222; Fax: (313) 884-5977; URL: <a target="_blank" href="http://www.fordhouse.org/">http://www.fordhouse.org/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1929
-Institution Type:	Other
-Landscaped Area:	Yes
-Latitude:	42.454326
-Local Address:	1100 Lake Shore Drive Grosse Pointe Shores, Michigan
-Locality:	Information
-Longitude:	-82.873728
-Open to public:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5052
+1-Name: Edsel and Eleanor Ford House 
+2-Altitude: 0.00 Metres
+2-Date founded: 1929
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Edsel and Eleanor Ford House        The Fords wanted a setting for their home that provided both wide-open and intimate outdoor spaces, with special places for sports, relaxation, nature and gatherings.;  ;  Jens Jensen, one of America's foremost landscape designers and conservationists, designed the Ford House garden landscape between 1926 - 1932. Known as the master of the naturalistic approach to landscaping, Jensen's design style combines woodlands, meadows and wetlands in such a natural way that guests are usually not conscious of any man-made design. Jensen was known for his use of native plants, the sense of vast open space, the play of light and shadow and the element of time and season's change.;  ;  His approach to landscape architecture sought to engage all five human senses- the sight of many colors and shapes, the sound of water running, the smell of flowers in bloom, the taste of berries, and the feeling of being surrounded by nature.;                        Main Address:;         Edsel and Eleanor Ford House;         1100 Lake Shore Road;                Grosse Pointe Shores;        Michigan MI 48236, United States of America;        ;                 Telephone: (313) 884-4222;         Fax: (313) 884-5977;         URL: http://www.fordhouse.org/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Landscaped Area: Yes
+2-Latitude: 42.454326
+2-Local Address: 1100 Lake Shore Drive Grosse Pointe Shores, Michigan
+2-Locality: Information
+2-Longitude: -82.873728
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5052">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5052">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5052">Please click here if you can update us</a>
+7-Guided Tours: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (313) 884-5977
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (313) 884-4222

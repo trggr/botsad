@@ -1,10 +1,19 @@
-ID:	4913
-Name:	Biltmore Estate 
-Curator's Name:	Parker Andes, Director of Horticulture
-Director's Name:	-
-Info:	  United States of America - North Carolina - Asheville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Biltmore Estate; 1 Lodge Street; Asheville; North Carolina 28803 United States of America; ;  Telephone: 800-411-3812; Fax: ; URL: <a target="_blank" href="http://www.biltmore.com">www.biltmore.com; Primary Email: pandes@biltmore.com ; 
-Plant Records Officer's Name:	Curtis Horn, grounds manager
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	35.540049
-Longitude:	-82.552131
+0-ID: 4913
+1-Name: Biltmore Estate 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Biltmore Estate;         1 Lodge Street;                Asheville;        North Carolina 28803 United States of America;        ;                 Telephone: 800-411-3812;         Fax: ;         URL: www.biltmore.com;         Primary Email: pandes@biltmore.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.540049
+2-Longitude: -82.552131
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4913">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4913">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4913">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4913">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4913">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: pandes@biltmore.com
+9-Telephone: 800-411-3812
+9-URL: www.biltmore.com

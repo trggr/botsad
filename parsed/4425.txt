@@ -1,9 +1,18 @@
-ID:	4425
-Name:	City of London Greenhouse and Civic Garden Complex 
-Curator's Name:	
-Director's Name:	
-Info:	  Canada - Ontario - London  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; City of London Greenhouse and Civic Garden Complex; 625 Springbank Drive; London; Ontario N6K4T1 Canada; ;  Telephone: (519) 471-4746 or 472-3553; Fax: ; URL: <a target="_blank" href="http://www.friendslcgc.com">www.friendslcgc.com; Primary Email: inquire@friendslcgc.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	42.96224
-Longitude:	-81.29599
+0-ID: 4425
+1-Name: City of London Greenhouse and Civic Garden Complex 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         City of London Greenhouse and Civic Garden Complex;         625 Springbank Drive;                London;        Ontario N6K4T1 Canada;        ;                 Telephone: (519) 471-4746 or 472-3553;         Fax: ;         URL: www.friendslcgc.com;         Primary Email: inquire@friendslcgc.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.96224
+2-Longitude: -81.29599
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4425">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4425">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4425">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4425">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4425">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: inquire@friendslcgc.com
+9-Telephone: (519) 471-4746 or 472-3553
+9-URL: www.friendslcgc.com

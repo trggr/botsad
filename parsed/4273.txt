@@ -1,12 +1,21 @@
-ID:	4273
-Name:	Highline SeaTac Botanical Garden 
-Curator's Name:	Michael Brown
-Director's Name:	Wendy Morgan
-Info:	  United States of America - Washington - SeaTac  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Highline SeaTac Botanical Garden; 13735 24th Avenue S; Mailing: P.O. Box 69384; SeaTac; Washington 98168 United States of America; ;  Telephone: (206) 391-4003; Fax: ; URL: <a target="_blank" href="http://www.highlinegarden.org">www.highlinegarden.org; Primary Email: WendyAM2@msn.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2002
-Institution Type:	Botanic Garden
-Latitude:	47.4813830
-Longitude:	-122.3024600
-Open to public:	Yes
+0-ID: 4273
+1-Name: Highline SeaTac Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 2002
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Highline SeaTac Botanical Garden;         13735 24th Avenue S;        Mailing: P.O. Box 69384;        SeaTac;        Washington 98168 United States of America;        ;                 Telephone: (206) 391-4003;         Fax: ;         URL: www.highlinegarden.org;         Primary Email: WendyAM2@msn.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.4813830
+2-Longitude: -122.3024600
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4273">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4273">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4273">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4273">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 69384
+9-Primary Email: WendyAM2@msn.com
+9-Telephone: (206) 391-4003
+9-URL: www.highlinegarden.org

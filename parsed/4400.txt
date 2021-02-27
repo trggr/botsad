@@ -1,12 +1,20 @@
-ID:	4400
-Name:	Oedo Botania 
-Curator's Name:	Kang-Hyeok Ju
-Director's Name:	Ho-Sook Choi
-Info:	  South Korea - Kyungsangnam-do - Geoje-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Oedo Botania; Wahyun-ri, San109; Irun-myeon; Geoje-si; Kyungsangnam-do 656-891 South Korea; ;  Telephone: 070-7715-3330; Fax: 02-6280-4244; URL: <a target="_blank" href="http://www.oedobotania.com">http://www.oedobotania.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	34.83382
-Local Address:	일운면 와현리 산109번지
-Locality:	Information
-Longitude:	128.70314
+0-ID: 4400
+1-Name: Oedo Botania 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Oedo Botania;         Wahyun-ri, San109;        Irun-myeon;        Geoje-si;        Kyungsangnam-do 656-891 South Korea;        ;                 Telephone: 070-7715-3330;         Fax: 02-6280-4244;         URL: http://www.oedobotania.com;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.83382
+2-Local Address: 일운면 와현리 산109번지
+2-Locality: Information
+2-Longitude: 128.70314
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4400">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4400">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4400">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4400">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4400">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 02-6280-4244
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 070-7715-3330

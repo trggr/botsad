@@ -1,15 +1,20 @@
-ID:	4985
-Name:	Western Australia Seed Technology Centre (WASTC) - Kings Park and Botanic Garden 
-Curator's Name:	Dr. David Merritt, Research Scientist
-Directors:	Dr Kingsley Dixon
-Info:	  Australia - Western Australia - West Perth  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Western Australia Seed Technology Centre (WASTC) - Kings Park and Botanic Garden; Botanic Gardens and Parks Authority; Fraser Avenue; West Perth; Western Australia 6005 Australia; ;  Telephone: 61 (0)8 9480 3600; Fax: 61 (0)8 9322 5064; URL: <a target="_blank" href="http://www.bgpa.wa.gov.au/horticulture/wa-seed-tech-centre">http://www.bgpa.wa.gov.au/horticulture/wa-seed-tech-centre; Primary Email: enquiries@bgpa.wa.gov.au ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1975
-Institution Type:	Gene/Seed Bank
-Latitude:	-31.964312
-Longitude:	115.831467
-Seed Bank:	Yes
-Cultivation Taxa Num:	3500
-Special Collections:	A key function of the Botanic Gardens and Parks Authority is to conserve, manage, display and undertake research into collections of Western Australian flora, and to promote the understanding of biodiversity. The WA Seed Technology Centre (WASTC) plays an integral role in enabling the Authority to deliver outcomes associated with the above functions through collecting and storing seed and plant material of Western Australian flora as a resource for the conservation, horticultural and research activities of the Botanic Gardens and Parks Authority.
-Conservation Programme:	Yes
+0-ID: 4985
+1-Name: Western Australia Seed Technology Centre (WASTC) - Kings Park and Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1975
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Western Australia Seed Technology Centre (WASTC) - Kings Park and Botanic Garden;         Botanic Gardens and Parks Authority;        Fraser Avenue;        West Perth;        Western Australia 6005 Australia;        ;                 Telephone: 61 (0)8 9480 3600;         Fax: 61 (0)8 9322 5064;         URL: http://www.bgpa.wa.gov.au/horticulture/wa-seed-tech-centre;         Primary Email: enquiries@bgpa.wa.gov.au       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: -31.964312
+2-Longitude: 115.831467
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 3500
+4-Special Collections: A key function of the Botanic Gardens and Parks Authority is to conserve, manage, display and undertake research into collections of Western Australian flora, and to promote the understanding of biodiversity. The WA Seed Technology Centre (WASTC) plays an integral role in enabling the Authority to deliver outcomes associated with the above functions through collecting and storing seed and plant material of Western Australian flora as a resource for the conservation, horticultural and research activities of the Botanic Gardens and Parks Authority.
+5-Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4985">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4985">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)8 9322 5064
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: enquiries@bgpa.wa.gov.au
+9-Telephone: 61 (0)8 9480 3600

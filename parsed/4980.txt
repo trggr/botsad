@@ -1,14 +1,20 @@
-ID:	4980
-Name:	National Seed Bank - Australian National Botanic Gardens 
-Curator's Name:	Tom North, Seed Bank Manager
-Director's Name:	Lydia Guja, Seed Conservation Biologist
-Info:	  Australia - Australian Capital Territory - Canberra  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the National Seed Bank - Australian National Botanic Gardens The Australian National Botanic Gardens National Seed Bank is home to a large and ever-increasing collection of Australian native seeds, and in particular holds significant collections from Australian alpine and Southern NSW tableland grassland communities.; ; The National Seed Bank is an integral part of the ex situ collections of the Gardens and holds both short and long term collections. Short term seed collections support the living collections and nursery with stock of new and replacement native plant species for display, while long term conservation collections are stored to assist in safeguarding Australian native plants. By conducting research the National Seed Bank team is also extending the breadth of knowledge on how to collect, process, store and germinate native seeds as we increase the number of different plant species held in our bank.; ; The National Seed Bank holds around 5,500 accessions (individual seed collections, normally stored in a single packet) from more than 3,000 different plant taxa, with a history of collections going back to the early 1960’s.; ; The National Seed Bank has focused seed collecting efforts on plant species endemic to the local alpine, subalpine and grasslands regions. Work has been fuelled by the increasing threat of climate change and human impact upon Australian alpine flora. Between 2007 and 2012, more than 451 alpine seed collections were successfully banked at the ANBG in partnership with researchers at the Australian National University (ANU), including approximately 148 species from 80+ genera ensuring we have future options for saving these species.;  Main Address:; National Seed Bank - Australian National Botanic Gardens; GPO Box 1777; Canberra; Australian Capital Territory 2601 Australia; ;  Telephone: (02) 6250 9450; Fax: (02) 6250 9599; URL: <a target="_blank" href="http://www.anbg.gov.au/gardens/living/seedbank/">http://www.anbg.gov.au/gardens/living/seedbank/; Primary Email: thomas.north@environment.gov.au ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1960
-Institution Type:	Gene/Seed Bank
-Latitude:	-35.278594
-Longitude:	149.108481
-Seed Bank:	Yes
-Accession Number:	5500
-Cultivation Taxa Num:	3000
+0-ID: 4980
+1-Name: National Seed Bank - Australian National Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1960
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the National Seed Bank - Australian National Botanic Gardens        The Australian National Botanic Gardens National Seed Bank is home to a large and ever-increasing collection of Australian native seeds, and in particular holds significant collections from Australian alpine and Southern NSW tableland  grassland communities.;  ;  The National Seed Bank is an integral part of the ex situ collections of the Gardens and holds both short and long term collections. Short term seed collections support the living collections and nursery with stock of new and replacement native plant species for display, while long term conservation collections are stored to assist in safeguarding Australian native plants. By conducting research the National Seed Bank team is also extending the breadth of knowledge on how to collect, process, store and germinate native seeds as we increase the number of different plant species held in our bank.;  ;  The National Seed Bank holds around 5,500 accessions (individual seed collections, normally stored in a single packet) from more than 3,000 different plant taxa, with a history of collections going back to the early 1960’s.;  ;  The National Seed Bank has focused seed collecting efforts on plant species endemic to the local alpine, subalpine and grasslands regions. Work has been fuelled by the increasing threat of climate change and human impact upon Australian alpine flora. Between 2007 and 2012, more than 451 alpine seed collections were successfully banked at the ANBG in partnership with researchers at the Australian National University (ANU), including approximately 148 species from 80+ genera ensuring we have future options for saving these species.;                        Main Address:;         National Seed Bank - Australian National Botanic Gardens;         GPO Box 1777;                Canberra;        Australian Capital Territory 2601 Australia;        ;                 Telephone: (02) 6250 9450;         Fax: (02) 6250 9599;         URL: http://www.anbg.gov.au/gardens/living/seedbank/;         Primary Email: thomas.north@environment.gov.au       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: -35.278594
+2-Longitude: 149.108481
+3-Seed Bank: Yes
+4-Accession Number: 5500
+4-Cultivation Taxa Num: 3000
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4980">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4980">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4980">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (02) 6250 9599
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: thomas.north@environment.gov.au
+9-Telephone: (02) 6250 9450

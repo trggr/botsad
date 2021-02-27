@@ -1,11 +1,19 @@
-ID:	455
-Name:	Genetics Division 
-Curator's Name:	
-Director's Name:	
-Info:	  India - New Delhi  ;Garden Information;  Institution Code: DELGD; International Agenda Registration: No; BGCI Member: No; About the Genetics Division Other gardens in New Delhi with good plant collections include Buddha Jayanti Park (with 160 spp. and in particular plants associated with the life of Lord Buddha), Lodi Garden (8,000 accessions), Nehru Park (+4,000 accessions), Rashtrapati Bhavan Garden;  Main Address:; Genetics Division; Indian Agricultural Research Institute, NEW DELHI 110012, India.; New Delhi; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	28.6353
-Longitude:	77.2249
-Seed Bank:	Yes
+0-ID: 455
+1-Name: Genetics Division 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: DELGD;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Genetics Division        Other gardens in New Delhi with good plant collections include Buddha Jayanti Park (with 160 spp. and in particular plants associated with the life of Lord Buddha), Lodi Garden (8,000 accessions), Nehru Park (+4,000 accessions), Rashtrapati Bhavan Garden;                        Main Address:;         Genetics Division;         Indian Agricultural Research Institute,  NEW DELHI 110012,  India.;                New Delhi;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 28.6353
+2-Longitude: 77.2249
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=455">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=455">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=455">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=455">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: DELGD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

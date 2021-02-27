@@ -1,51 +1,55 @@
-ID:	357
-Name:	Zoological and Botanical Garden of the Plzen Town (Zoologicka a Botanicka zahrada mesta Plzne) 
-Fax:	+420 37 803 8302
-Info:	  Czech Republic - Plzen  ;Garden Information;  Institution Code: PLZEN; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	zoo@plzen.eu
-Telephone:	+420 37 803 8301
-Administration Staff Number:	7
-Curator's Name:	Tomas Pes
-Director's Name:	Ing. Jiri Travnicek
-Educational Staff Number:	3
-Horticultural Staff Number:	14
-Plant Records Officer's Name:	Tomas Pes
-Research Staff Number:	3
-Altitude:	330.00 Metres
-Annual Rainfall:	512 mm
-Date founded:	1961
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	49.7333
-Longitude:	13.3833
-Total Area:	21 Hectares
-Total area of glasshouses:	750 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	430000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	10000
-Cultivation Taxa Num:	12000
-Educational exhibits:	plant biology, ecology, useful plants, evolution
-Special Collections:	Biogeographic exhibits
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Horticulture:	Yes
-Plant Breeding:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 357
+1-Name: Zoological and Botanical Garden of the Plzen Town (Zoologicka a Botanicka zahrada mesta Plzne) 
+2-Administration Staff Number: 7
+2-Curator's Name: Tomas Pes
+2-Director's Name: Ing. Jiri Travnicek
+2-Educational Staff Number: 3
+2-Horticultural Staff Number: 14
+2-Info:              Institution Code: PLZEN;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/357/1-BZ Plzeň expozice NZ_2.6.2014   x-001.jpg" alt="New Zealand Flora exhibit" />         New Zealand Flora exhibit</div>        </div>                                    Main Address:;         Zoological and Botanical Garden of the Plzen Town (Zoologicka a Botanicka zahrada mesta Plzne);         Pod Vinicemi 9;                Plzen;        301 00 Czech Republic;        ;                 Telephone: +420 37 803 8301;         Fax: +420 37 803 8302;         URL: www.zooplzen.cz;         Primary Email: zoo@plzen.eu       ;              
+2-Plant Records Officer's Name: Tomas Pes
+2-Research Staff Number: 3
+3-Altitude: 330.00 Metres
+3-Annual Rainfall: 512 mm
+3-Date founded: 1961
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 49.7333
+3-Longitude: 13.3833
+3-Total Area: 21 Hectares
+3-Total area of glasshouses: 750 Metres
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 430000
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Accession Number: 10000
+5-Cultivation Taxa Num: 12000
+5-Educational exhibits: plant biology, ecology, useful plants, evolution
+5-Special Collections: Biogeographic exhibits
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Horticulture: Yes
+7-Plant Breeding: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+9-BGCI Member: Yes
+9-Fax: +420 37 803 8302
+9-Institution Code: PLZEN
+9-International Agenda Registration: No
+9-Primary Email: zoo@plzen.eu
+9-Telephone: +420 37 803 8301
+9-URL: www.zooplzen.cz

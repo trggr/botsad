@@ -1,13 +1,22 @@
-ID:	4305
-Name:	Tizer Botanic Gardens and Arboretum 
-Curator's Name:	
-Director's Name:	Belva Lotzer, Executive Director
-Info:	  United States of America - Montana - Jefferson City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Tizer Botanic Gardens and Arboretum; 38 Tizer Lake Road; P.O. Box 129; Jefferson City; Montana 59638 United States of America; ;  Telephone: (406) 933-8789; Fax: (209) 633-6109; URL: <a target="_blank" href="http://www.tizergardens.com">www.tizergardens.com; Primary Email: info@tizergardens.com ; 
-Plant Records Officer's Name:	
-Altitude:	1524.00 Metres
-Date founded:	1998
-Institution Type:	Botanic Garden
-Latitude:	46.3714520
-Longitude:	-112.0204850
-Disabled access:	Yes
-Open to public:	Yes
+0-ID: 4305
+1-Name: Tizer Botanic Gardens and Arboretum 
+2-Altitude: 1524.00 Metres
+2-Date founded: 1998
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Tizer Botanic Gardens and Arboretum;         38 Tizer Lake Road;        P.O. Box 129;        Jefferson City;        Montana 59638 United States of America;        ;                 Telephone: (406) 933-8789;         Fax: (209) 633-6109;         URL: www.tizergardens.com;         Primary Email: info@tizergardens.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.3714520
+2-Longitude: -112.0204850
+3-Disabled access: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4305">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4305">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4305">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4305">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: (209) 633-6109
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@tizergardens.com
+9-Telephone: (406) 933-8789
+9-URL: www.tizergardens.com

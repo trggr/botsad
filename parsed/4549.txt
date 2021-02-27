@@ -1,80 +1,84 @@
-ID:	4549
-Name:	Fangorn, private garden 
-Fax:	
-Info:	  Australia - New South Wales - Armidale  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	maria.hitchcock@gmail.com
-Telephone:	02 67 751139
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Maria Hitchcock, Manager/Collector
-Educational Staff Number:	
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	Maria Hitchcock
-Research Staff Number:	
-Altitude:	1100.00 Metres
-Annual Rainfall:	800 mm
-Date founded:	1980
-Institution Type:	Private Collection
-Landscaped Area:	Yes
-Latitude:	-30.48639
-Local Address:	16 Hitchcock Lane
-Locality:	Information
-Longitude:	151.59667
-Natural Vegetation Area:	No
-Total Area:	1 Hectares
-Total area of glasshouses:	5 Metres
-Total area of shadehouses:	25 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	No
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	289
-Cultivation Taxa Num:	289
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Special Collections:	Taxa planted in garden or held in pots or as cutting material.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	No
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 4549
+1-Name: Fangorn, private garden 
+2-Administration Staff Number: 
+2-Curator's Name: 
+2-Director's Name: Maria Hitchcock, Manager/Collector
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4549/HoarFrostJun122a.jpg" alt="A section of Fangorn native garden during a Hoar Frost in 2012. The garden hosts the National Living Correa Collection." />         A section of Fangorn native garden during a Hoar Frost in 2012. The garden hosts the National Living Correa Collection.</div>        </div>                           About the Fangorn, private garden        This private garden was established over 30 years ago and was renovated in 2007. It comprises two very large bush gardens which allow for many different microclimates. The garden is situated at approximately 1100 m above sea level and is built on a ridge of floating basalt. The climate here is cool temperate with winter minimums reaching -15C and summer maximums rarely exceeding 35C. The garden hosts the National living Correa collection. The owner and collector, Maria Hitchcock was Leader of the ANPSA Correa Study Group for 16 years and developed the collection during that time. She is author of 'Correas - Australian Plants for Waterwise Gardens (Rosenberg 2010). Maria is currently Leader of the ANPSA Waratah and Flannel Flower Study Group and is establishing a collection of hybrid Waratahs in the garden. The area experienced a major drought in 2013-14 which has has continued into 2019 making it the worst drought on record. The gardens are watered sparingly from a reliable bore and the water quality is favourable for garden conditions.;                        Main Address:;         Fangorn, private garden;         16 Hitchcock Lane;                Armidale;        New South Wales 2350 Australia;        ;                 Telephone: 02 67 751139;         Fax: ;         URL: correacollection.weebly.com;         Primary Email: maria.hitchcock@gmail.com       ;              
+2-Plant Records Officer's Name: Maria Hitchcock
+2-Research Staff Number: 
+3-Altitude: 1100.00 Metres
+3-Annual Rainfall: 800 mm
+3-Date founded: 1980
+3-Institution Type: Private Collection
+3-Landscaped Area: Yes
+3-Latitude: -30.48639
+3-Local Address: 16 Hitchcock Lane
+3-Locality: Information
+3-Longitude: 151.59667
+3-Natural Vegetation Area: No
+3-Total Area: 1 Hectares
+3-Total area of glasshouses: 5 Metres
+3-Total area of shadehouses: 25 Metres
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: No
+4-Friends society: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: No
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: No
+5-Accession Number: 289
+5-Cultivation Taxa Num: 289
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+5-Special Collections: Taxa planted in garden or held in pots or as cutting material.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: Yes
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: No
+8-Education Programme: No
+8-Education Signs in Garden: No
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: maria.hitchcock@gmail.com
+9-Telephone: 02 67 751139
+9-URL: correacollection.weebly.com

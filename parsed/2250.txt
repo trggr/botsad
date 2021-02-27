@@ -1,10 +1,19 @@
-ID:	2250
-Name:	Mountain Horticultural Crops Research & Extension Center 
-Curator's Name:	Thomas Ranney, Professor
-Director's Name:	Unknown
-Info:	  United States of America - North Carolina - Mills River  ;Garden Information;  Institution Code: FLETCH; International Agenda Registration: No; BGCI Member: No; About the Mountain Horticultural Crops Research & Extension Center The Mountain Horticultural Crops Research & Extension Center is located in the southern Appalachian mountains of western North Carolina near Asheville. Fifty faculty and staff, from the North Carolina State University College of Agriculture and Life Sciences and the College of Natural Resources, conduct research and extension programs for the departments of Entomology, Forestry, Horticulture, Plant Pathology, Soil Science, and Zoology. The Center also houses the administrative offices for the North Carolina Cooperative Extension Service West and West Central Districts. ; ; The Center strives to help the people of western North Carolina improve their lives by conducting applied research and developing and implementing highly effective extension programs related to agriculture, the environment, family, and community.;  Main Address:; Mountain Horticultural Crops Research & Extension Center; North Carolina State University; 455 Research Drive; Mills River; North Carolina 28759 United States of America; ;  Telephone: (828) 684-3562; Fax: (828) 684-8715; URL: <a target="_blank" href="http://www.ces.ncsu.edu/fletcher/">www.ces.ncsu.edu/fletcher/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	35.4261760
-Longitude:	-82.5609570
+0-ID: 2250
+1-Name: Mountain Horticultural Crops Research & Extension Center 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: FLETCH;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Mountain Horticultural Crops Research & Extension Center        The Mountain Horticultural Crops Research & Extension Center is located in the southern Appalachian mountains of western North Carolina near Asheville. Fifty faculty and staff, from the North Carolina State University College of Agriculture and Life Sciences and the College of Natural Resources, conduct research and extension programs for the departments of Entomology, Forestry, Horticulture, Plant Pathology, Soil Science, and Zoology. The Center also houses the administrative offices for the North Carolina Cooperative Extension Service West and West Central Districts. ;  ;  The Center strives to help the people of western North Carolina improve their lives by conducting applied research and developing and implementing highly effective extension programs related to agriculture, the environment, family, and community.;                        Main Address:;         Mountain Horticultural Crops Research & Extension Center;         North Carolina State University;        455 Research Drive;        Mills River;        North Carolina 28759 United States of America;        ;                 Telephone: (828) 684-3562;         Fax: (828) 684-8715;         URL: www.ces.ncsu.edu/fletcher/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.4261760
+2-Longitude: -82.5609570
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2250">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2250">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2250">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2250">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2250">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (828) 684-8715
+9-Institution Code: FLETCH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (828) 684-3562
+9-URL: www.ces.ncsu.edu/fletcher/

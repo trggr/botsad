@@ -1,13 +1,20 @@
-ID:	1000
-Name:	Koko Crater Botanical Garden 
-Curator's Name:	
-Director's Name:	Winnifred Singeo
-Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: HKC; International Agenda Registration: No; BGCI Member: Yes; About the Koko Crater Botanical Garden Koko Crater Botanical Garden is a 60-acre basin inside the landmark Koko Crater on the eastern end of the island of Oahu. The hot, dry climate here makes this garden the ideal location for the dryland collections of the Honolulu Botanical Gardens.; ; One of five botanic gardens on the island of Oahu which are a part of the Honolulu Botanical Gardens System.;  Main Address:; Koko Crater Botanical Garden; Kokonani Street; Honolulu Botanical Gardens System; Honolulu; Hawaii 96817 United States of America; ;  Telephone: (808) 522-7060; Fax: ; URL: <a target="_blank" href="http://www.co.honolulu.hi.us/parks/hbg/kcbg.htm">www.co.honolulu.hi.us/parks/hbg/kcbg.htm; Primary Email: hbg@honolulu.gov ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	21.2848800
-Longitude:	-157.6811500
-Total Area:	24 Hectares
-Open to public:	Yes
-Special Collections:	Cacti, Alluaudias, Sansevierias, Baobabs, Dryland, Palms, Aloes, Euphorbias, Adeniums
+0-ID: 1000
+1-Name: Koko Crater Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HKC;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Koko Crater Botanical Garden        Koko Crater Botanical Garden is a 60-acre basin inside the landmark Koko Crater on the eastern end of the island of Oahu. The hot, dry climate here makes this garden the ideal location for the dryland collections of the Honolulu Botanical Gardens.;  ;  One of five botanic gardens on the island of Oahu which are a part of the Honolulu Botanical Gardens System.;                        Main Address:;         Koko Crater Botanical Garden;         Kokonani Street;        Honolulu Botanical Gardens System;        Honolulu;        Hawaii 96817 United States of America;        ;                 Telephone: (808) 522-7060;         Fax: ;         URL: www.co.honolulu.hi.us/parks/hbg/kcbg.htm;         Primary Email: hbg@honolulu.gov       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.2848800
+2-Longitude: -157.6811500
+2-Total Area: 24 Hectares
+3-Open to public: Yes
+4-Special Collections: Cacti, Alluaudias, Sansevierias, Baobabs, Dryland, Palms, Aloes, Euphorbias, Adeniums
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1000">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1000">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1000">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: HKC
+9-International Agenda Registration: No
+9-Primary Email: hbg@honolulu.gov
+9-Telephone: (808) 522-7060
+9-URL: www.co.honolulu.hi.us/parks/hbg/kcbg.htm

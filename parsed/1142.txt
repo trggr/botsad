@@ -1,11 +1,19 @@
-ID:	1142
-Name:	Arboretum of the All-Union Institute of 
-Curator's Name:	
-Director's Name:	Dr. N.I. Khizhnyar
-Info:	  Russian Federation - Volgograd  ;Garden Information;  Institution Code: ARVOL; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Arboretum of the All-Union Institute of; Amelioration, 400105 VOLGOGRAD, Krasno presnenskaya str., Russian Federation; Volgograd; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1963
-Institution Type:	Botanic Garden
-Latitude:	48.7180
-Longitude:	44.5046
-Special Collections:	Acer, Berberis, Betula, Cerasus, Crataegus,Lonicera, Populus, Rosa, Syringa.
+0-ID: 1142
+1-Name: Arboretum of the All-Union Institute of 
+2-Date founded: 1963
+2-Info:              Institution Code: ARVOL;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Arboretum of the All-Union Institute of;         Amelioration,  400105 VOLGOGRAD,  Krasno presnenskaya str.,  Russian Federation;                Volgograd;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.7180
+2-Longitude: 44.5046
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1142">Please click here if you can update us</a>
+4-Special Collections: Acer, Berberis, Betula, Cerasus, Crataegus,Lonicera, Populus, Rosa, Syringa.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1142">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1142">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1142">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ARVOL
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,74 +1,81 @@
-ID:	3631
-Name:	Jardin botanique de Paris 
-Curator's Name:	
-Director's Name:	Régis CRISNAIRE
-Info:	  France - Paris  ;Garden Information;  Institution Code: JBP; International Agenda Registration: No; BGCI Member: Yes; About the Jardin botanique de Paris With more than 15 000 species and varieties of plants cultivated on more than 70 hectares, the Jardin Botanique de Paris carries out its missions of conservation and study flora diversity, engage in dialogue with the scientific community, improve the public’s understanding of the collections, with four sites from the East and the West of the capital: ; the Jardin des Serres d’Auteuil and its tropical landscapes,; the Parc de Bagatelle and its internationally renowned rose gardens,; the Parc Floral de Paris and its regional flora,; the Arboretum de Paris and its trees from temperate regions all over the world.; ; Founded in 1995, the Jardin Botanique de Paris has been recognized by the Association des jardins botaniques de France et des pays francophones (The association of botanic gardens of France and french-speaking countries) since 1998. The Jardin Botanique de Paris has a bank seed of regional flora and publishes an Index Seminum. ; ; Many events take place in the Parc Floral de Paris and the Parc de Bagatelle: concerts, photo exhibitions,… Every year, in these parks and in the Jardin des Serres d’Auteuil and the Arboretum, a botanic exhibition take place : in 2018 the topic will be « Plants and insects ». ; ; Staff contacts; Curator's and Chief name : Régis CRISNAIRE (regis.crisnaire@paris.fr); Deputy chief name : Christine BARREAU (christine.barreau@paris.fr); Plant records officer's name: Vincent Lipa (vincent.lipa@paris.fr);  Main Address:; Jardin botanique de Paris; 103 avenue de France; Paris; 75639 Paris Cedex 13 France; ;  Telephone: + 33 01 71 28 53 36; Fax: + 33 01 71 28 53 52; URL: <a target="_blank" href="http://www.paris.fr/pratique/Portal.lut?page_id=8354">http://www.paris.fr/pratique/Portal.lut?page_id=8354; Primary Email: jardin.botanique@paris.fr ; 
-Plant Records Officer's Name:	Vincent Lipa
-Altitude:	50.00 Metres
-Annual Rainfall:	637 mm
-Date founded:	1995
-Institution Type:	Botanic Garden
-Latitude:	48.8551
-Longitude:	2.2577
-Satellite Garden Names:	Jardin des Serres d’Auteuil, Parc de Bagatelle, Parc Floral de Paris, Arboretum de Paris.
-Total Area:	73 Hectares
-Total area of glasshouses:	10000 Metres
-Arboretum:	Yes
-Arboretum Size:	13
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	1500000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	No
-ARBORETUM:	This urban arboretum showcases more than 500 species of trees from Parisian region forests and from the entire world that are adapted to the Parisian climate (Sequoiadendron giganteum, Cedruslibani, Davidia involucrata, Pinus bungeana, Pinus coulteri, Ulmus chenmoui…). The presentation according to the botanical classification allows one to learn how to identify different tree species. The recreated environments and ecosystems, such as hedgerows of native shrubs, ponds, reed beds, and other wetlands, diversify the landscape and enrich the biodiversity.
-Accession Number:	25000
-BAGATELLE:	The International Competition of New Roses is open to all amateur or professional breeders of new, non-commercialized roses. A technical committee traditionally comes together to rate the rosebushes five times during two seasons.
-Cultivation Taxa Num:	14400
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	The JARDIN DES SERRES D’AUTEUIL exhibits exotic plants from tropical regions in the greenhouses and plants from temperate regions outside in the landscaping. More than a hectare of greenhouses are dedicated to the presentation and conservation of botanical collections (Araceae, Bromeliaceae, Peperomia, Hoya, Begonia, ferns, tropical orchids, palms,…).
-The park was home to several horticultural collections and expositions collections over the years. Now, there are a dozen horticultural and botanical collections of temperate climate plants:	about 1200 varieties of modern roses in the landscape rose garden and in the classic rose garden, bulbs, Mediterranean plants, edible plants, aquatic plants, clematis, peonies, asters, pelargoniums, …
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	No
-Ecosystem Conservation:	Yes
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	Yes
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 3631
+1-Name: Jardin botanique de Paris 
+2-Altitude: 50.00 Metres
+2-Annual Rainfall: 637 mm
+2-Date founded: 1995
+2-Info:              Institution Code: JBP;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Jardin botanique de Paris        With more than 15 000 species and varieties of plants cultivated on more than 70 hectares, the Jardin Botanique de Paris carries out its missions of conservation and study flora diversity, engage in dialogue with the scientific community, improve the public’s understanding of the collections, with four sites from the East and the West of the capital: ;  the Jardin des Serres d’Auteuil and its tropical landscapes,;  the Parc de Bagatelle and its internationally renowned rose gardens,;  the Parc Floral de Paris and its regional flora,;  the Arboretum de Paris and its trees from temperate regions all over the world.;  ;  Founded in 1995, the Jardin Botanique de Paris has been recognized by the Association des jardins botaniques de France et des pays francophones (The association of botanic gardens of France and french-speaking countries) since 1998. The Jardin Botanique de Paris has a bank seed of regional flora and publishes an Index Seminum.   ;  ;  Many events take place in the Parc Floral de Paris and the Parc de Bagatelle: concerts, photo exhibitions,… Every year, in these parks and in the Jardin des Serres d’Auteuil and the Arboretum, a botanic exhibition take place : in 2018 the topic will be « Plants and insects ». ;  ;  Staff contacts;  Curator's and Chief  name : Régis CRISNAIRE (regis.crisnaire@paris.fr);  Deputy chief name : Christine BARREAU (christine.barreau@paris.fr);  Plant records officer's name: Vincent Lipa (vincent.lipa@paris.fr);                        Main Address:;         Jardin botanique de Paris;         103 avenue de France;                Paris;        75639 Paris Cedex 13 France;        ;                 Telephone: + 33 01 71 28 53 36;         Fax: + 33 01 71 28 53 52;         URL: http://www.paris.fr/pratique/Portal.lut?page_id=8354;         Primary Email: jardin.botanique@paris.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.8551
+2-Longitude: 2.2577
+2-Satellite Garden Names: Jardin des Serres d’Auteuil, Parc de Bagatelle, Parc Floral de Paris, Arboretum de Paris.
+2-Total Area: 73 Hectares
+2-Total area of glasshouses: 10000 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 13
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 1500000
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: No
+4-ARBORETUM: This urban arboretum showcases more than 500 species of trees from Parisian region forests and from the entire world that are adapted to the Parisian climate (Sequoiadendron giganteum, Cedruslibani, Davidia involucrata, Pinus bungeana, Pinus coulteri, Ulmus chenmoui…). The presentation according to the botanical classification allows one to learn how to identify different tree species. The recreated environments and ecosystems, such as hedgerows of native shrubs, ponds, reed beds, and other wetlands, diversify the landscape and enrich the biodiversity.
+4-Accession Number: 25000
+4-BAGATELLE: The International Competition of New Roses is open to all amateur or professional breeders of new, non-commercialized roses. A technical committee traditionally comes together to rate the rosebushes five times during two seasons.
+4-Cultivation Taxa Num: 14400
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+4-Special Collections: The JARDIN DES SERRES D’AUTEUIL exhibits exotic plants from tropical regions in the greenhouses and plants from temperate regions outside in the landscaping. More than a hectare of greenhouses are dedicated to the presentation and conservation of botanical collections (Araceae, Bromeliaceae, Peperomia, Hoya, Begonia, ferns, tropical orchids, palms,…).
+4-The park was home to several horticultural collections and expositions collections over the years. Now, there are a dozen horticultural and botanical collections of temperate climate plants: about 1200 varieties of modern roses in the landscape rose garden and in the classic rose garden, bulbs, Mediterranean plants, edible plants, aquatic plants, clematis, peonies, asters, pelargoniums, …
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: No
+6-Ecosystem Conservation: Yes
+6-Education: No
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: Yes
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: Yes
+6-Systematics and Taxonomy: No
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-About the Jardin botanique de Paris        With more than 15 000 species and varieties of plants cultivated on more than 70 hectares, the Jardin Botanique de Paris carries out its missions of conservation and study flora diversity, engage in dialogue with the scientific community, improve the public’s understanding of the collections, with four sites from the East and the West of the capital: 
+9-BGCI Member: Yes
+9-Curator's and Chief  name: Régis CRISNAIRE (regis.crisnaire@paris.fr)
+9-Deputy chief name: Christine BARREAU (christine.barreau@paris.fr)
+9-Fax: + 33 01 71 28 53 52
+9-Institution Code: JBP
+9-International Agenda Registration: No
+9-Plant records officer's name: Vincent Lipa (vincent.lipa@paris.fr)
+9-Primary Email: jardin.botanique@paris.fr
+9-Telephone: + 33 01 71 28 53 36

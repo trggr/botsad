@@ -1,76 +1,76 @@
-ID:	220
-Name:	Trompenburg Gardens & Arboretum 
-Administration Staff Number:	1
-Curator's Name:	G. Fortgens
-Director's Name:	G. Fortgens
-Educational Staff Number:	1
-Horticultural Staff Number:	5
-Info:	  Netherlands - Rotterdam  ;Garden Information;  Institution Code: ROT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Trompenburg Gardens & Arboretum; Honingerdijk 86; Rotterdam; 3062 NX Netherlands; ;  Telephone: 31 10 2330166; Fax: 31 10 2330171; URL: <a target="_blank" href="http://www.trompenburg.nl">www.trompenburg.nl; Primary Email: tuinen@trompenburg.nl ; 
-Plant Records Officer's Name:	G. Fortgens
-Research Staff Number:	1
-Altitude:	-1.20 Metres
-Annual Rainfall:	700 mm
-Date founded:	1958
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	51.9313
-Longitude:	4.5176
-Total Area:	8 Hectares
-Total area of glasshouses:	500 Metres
-Arboretum:	Yes
-Arboretum Size:	5
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	50000
-Number of Volunteers:	60
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	10000
-Cultivation Taxa Num:	9000
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Member of NPC scheme specialising in, Fagus, Ilex, Quercus, Rhododendron, Ligustrum, Rodgersia, Hosta. Also collections Cedrus, Chamaecyparis, Acer, Liriodendron, Betula, Salix, Juniperus, Picea, Pinus, Taxus, Thuja. Succulent greenhouse, perennial plantings.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 220
+1-Name: Trompenburg Gardens & Arboretum 
+2-Altitude: -1.20 Metres
+2-Annual Rainfall: 700 mm
+2-Date founded: 1958
+2-Info:              Institution Code: ROT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Trompenburg Gardens & Arboretum;         Honingerdijk 86;                Rotterdam;        3062 NX Netherlands;        ;                 Telephone: 31 10 2330166;         Fax: 31 10 2330171;         URL: www.trompenburg.nl;         Primary Email: tuinen@trompenburg.nl       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 51.9313
+2-Longitude: 4.5176
+2-Total Area: 8 Hectares
+2-Total area of glasshouses: 500 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 5
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 50000
+3-Number of Volunteers: 60
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: No
+4-ABS Policy: Yes
+4-Accession Number: 10000
+4-Cultivation Taxa Num: 9000
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: Member of NPC scheme specialising in, Fagus, Ilex, Quercus, Rhododendron, Ligustrum, Rodgersia, Hosta. Also collections Cedrus, Chamaecyparis, Acer, Liriodendron, Betula, Salix, Juniperus, Picea, Pinus, Taxus, Thuja. Succulent greenhouse, perennial plantings.
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: No
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 31 10 2330171
+9-Institution Code: ROT
+9-International Agenda Registration: No
+9-Primary Email: tuinen@trompenburg.nl
+9-Telephone: 31 10 2330166
+9-URL: www.trompenburg.nl

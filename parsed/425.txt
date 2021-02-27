@@ -1,12 +1,19 @@
-ID:	425
-Name:	Forstbotanischer Garten Eberswalde 
-Curator's Name:	Dr. K.Jürgen Endtmann
-Director's Name:	Prof. Dr. Harald Schill
-Info:	  Germany - Deutschland - Eberswalde  ;Garden Information;  Institution Code: EBERF; International Agenda Registration: No; BGCI Member: No; About the Forstbotanischer Garten Eberswalde The Forest Botanical Garden founded in 1830, is one of the oldest botanical gardens in Europe.;  Main Address:; Forstbotanischer Garten Eberswalde; Institut fur Forstwissenschaften; Am Zainhammer 5; Eberswalde; 16225 Germany - Deutschland; ;  Telephone: 03334/65 562; Fax: ; URL: <a target="_blank" href="http://www.hnee.de/Einrichtungen/Forstbotanischer-Garten/Forstbotanischer-Garten-Eberswalde-E2168.htm">http://www.hnee.de/Einrichtungen/Forstbotanischer-Garten/Forstbotanischer-Garten-Eberswalde-E2168.htm; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1945
-Institution Type:	Botanic Garden
-Latitude:	52.8480
-Longitude:	13.8368
-Special Collections:	The Forest Botanical Garden since 1954, takes on international seed exchange part. For this to be compiled every 2 years seed catalogs (INDEX seminars), which include the current supply of garden seeds, as well as ordering options. These catalogs are shipped worldwide to more than 350 botanical gardens. The offer may be inferior to fluctuations, because the seed formation is sometimes not every year. The Forest Botanical Garden itself gets international seed offerings to expand the variety yet.
+0-ID: 425
+1-Name: Forstbotanischer Garten Eberswalde 
+2-Altitude: 0.00 Metres
+2-Date founded: 1945
+2-Info:              Institution Code: EBERF;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Forstbotanischer Garten Eberswalde        The Forest Botanical Garden founded in 1830, is one of the oldest botanical gardens in Europe.;                        Main Address:;         Forstbotanischer Garten Eberswalde;         Institut fur Forstwissenschaften;        Am Zainhammer 5;        Eberswalde;        16225 Germany - Deutschland;        ;                 Telephone: 03334/65 562;         Fax: ;         URL: http://www.hnee.de/Einrichtungen/Forstbotanischer-Garten/Forstbotanischer-Garten-Eberswalde-E2168.htm;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.8480
+2-Longitude: 13.8368
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=425">Please click here if you can update us</a>
+4-Special Collections: The Forest Botanical Garden since 1954, takes on international seed exchange part. For this to be compiled every 2 years seed catalogs (INDEX seminars), which include the current supply of garden seeds, as well as ordering options. These catalogs are shipped worldwide to more than 350 botanical gardens. The offer may be inferior to fluctuations, because the seed formation is sometimes not every year. The Forest Botanical Garden itself gets international seed offerings to expand the variety yet.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=425">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=425">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=425">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: EBERF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 03334/65 562

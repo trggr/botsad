@@ -1,9 +1,18 @@
-ID:	5490
-Name:	Jardín Botánico de Plantas Medicinales de las Islas Pitiusas 
-Curator's Name:	
-Director's Name:	
-Info:	  Spain - Baleares - Ibiza  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Jardín Botánico de Plantas Medicinales de las Islas Pitiusas; APDO 31; San Juan de Labritja; Ibiza; Baleares 07810 Spain; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: clarebeacham@yahoo.co.uk ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.0773591
-Longitude:	1.5118375
+0-ID: 5490
+1-Name: Jardín Botánico de Plantas Medicinales de las Islas Pitiusas 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Jardín Botánico de Plantas Medicinales de las Islas Pitiusas;         APDO 31;        San Juan de Labritja;        Ibiza;        Baleares 07810 Spain;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: clarebeacham@yahoo.co.uk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.0773591
+2-Longitude: 1.5118375
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5490">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5490">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5490">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5490">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5490">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: clarebeacham@yahoo.co.uk
+9-Telephone: 
+9-URL: 

@@ -1,10 +1,19 @@
-ID:	2363
-Name:	Danishmandan Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr Amin U. Khan
-Info:	  Pakistan - Lahore  ;Garden Information;  Institution Code: DANIS; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Danishmandan Botanic Garden; 13-B Lake Road, Lahore, Pakistan; Lahore; Pakistan; ;  Telephone: +92-300-8481460, +92-42-37117661; Fax: PAKISTAN 712 4943; URL: <a target="_blank" href="http://">; Primary Email: lhro1687@pakneti.ptc.pk ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	31.6000
-Longitude:	74.3139
+0-ID: 2363
+1-Name: Danishmandan Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: DANIS;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Danishmandan Botanic Garden;         13-B Lake Road, Lahore, Pakistan;                Lahore;        Pakistan;        ;                 Telephone: +92-300-8481460, +92-42-37117661;         Fax: PAKISTAN 712 4943;         URL: ;         Primary Email: lhro1687@pakneti.ptc.pk       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.6000
+2-Longitude: 74.3139
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2363">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2363">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2363">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2363">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2363">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: PAKISTAN 712 4943
+9-Institution Code: DANIS
+9-International Agenda Registration: No
+9-Primary Email: lhro1687@pakneti.ptc.pk
+9-Telephone: +92-300-8481460, +92-42-37117661
+9-URL: 

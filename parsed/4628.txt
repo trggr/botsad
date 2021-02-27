@@ -1,9 +1,18 @@
-ID:	4628
-Name:	Honolulu Zoo 
-Curator's Name:	Ronald Kodama, Horticulturist
-Director's Name:	Unknown
-Info:	  United States of America - Hawaii - Honolulu  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Honolulu Zoo; 151 Kapahulu Avenue; Honolulu; Hawaii 96815 United States of America; ;  Telephone: (808) 971-7171; Fax: ; URL: <a target="_blank" href="http://www.honoluluzoo.org">www.honoluluzoo.org; Primary Email: education@honzoosoc.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	21.2716382
-Longitude:	-157.8213834
+0-ID: 4628
+1-Name: Honolulu Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Honolulu Zoo;         151 Kapahulu Avenue;                Honolulu;        Hawaii 96815 United States of America;        ;                 Telephone: (808) 971-7171;         Fax: ;         URL: www.honoluluzoo.org;         Primary Email: education@honzoosoc.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 21.2716382
+2-Longitude: -157.8213834
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4628">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4628">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4628">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4628">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4628">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: education@honzoosoc.org
+9-Telephone: (808) 971-7171
+9-URL: www.honoluluzoo.org

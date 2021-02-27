@@ -1,14 +1,21 @@
-ID:	870
-Name:	Xi'an Botanical Garden 
-Curator's Name:	
-Director's Name:	Yue Ming, Director
-Info:	  China - Shaanxi - Xi'an  ;Garden Information;  Institution Code: XIAN; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Xi'an Botanical Garden; Shaanxi Academy of Sciences; No. 17 Cuihua South Road; Xi'an; Shaanxi 710061 China; ;  Telephone: +86-029-85251800; Fax: +86-029-85251800; URL: <a target="_blank" href="http://www.xazwy.com/">http://www.xazwy.com/; Primary Email: yueming@nwu.edu.cn ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1959
-Institution Type:	Botanic Garden
-Latitude:	34.2638
-Local Address:	中国陕西省西安市翠华南路陕西科学院，邮编 710061
-Locality:	Information
-Longitude:	108.9541
-Special Collections:	Aesculus, Cephalotaxus, Eucommia, Paeonia, Rosa, Syringa, fragrant plants, herbs, hydrophytes, economic plants.
+0-ID: 870
+1-Name: Xi'an Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1959
+2-Info:              Institution Code: XIAN;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Xi'an Botanical Garden;         Shaanxi Academy of Sciences;        No. 17 Cuihua South Road;        Xi'an;        Shaanxi 710061 China;        ;                 Telephone: +86-029-85251800;         Fax: +86-029-85251800;         URL: http://www.xazwy.com/;         Primary Email: yueming@nwu.edu.cn       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.2638
+2-Local Address: 中国陕西省西安市翠华南路陕西科学院，邮编 710061
+2-Locality: Information
+2-Longitude: 108.9541
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=870">Please click here if you can update us</a>
+4-Special Collections: Aesculus, Cephalotaxus, Eucommia, Paeonia, Rosa, Syringa, fragrant plants, herbs, hydrophytes, economic plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=870">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=870">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=870">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +86-029-85251800
+9-Institution Code: XIAN
+9-International Agenda Registration: No
+9-Primary Email: yueming@nwu.edu.cn
+9-Telephone: +86-029-85251800

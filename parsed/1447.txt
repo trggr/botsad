@@ -1,74 +1,78 @@
-ID:	1447
-Name:	Arboretum at Flagstaff, The 
-Fax:	(928) 774-1441
-Info:	  United States of America - Arizona - Flagstaff  ;Garden Information;  Institution Code: TZHI; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	Info@thearb.org
-Telephone:	(928) 774-1442
-Administration Staff Number:	1
-Curator's Name:	Sheila Murray, Research Botanist
-Director's Name:	Dr. Kristin Haskins, Executive Director
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	2179.00 Metres
-Date founded:	1981
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	35.1688869
-Longitude:	-111.7010361
-Natural Vegetation Area:	Yes
-Total Area:	81 Hectares
-Arboretum:	Yes
-Arboretum Size:	81
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	22172
-Number of Volunteers:	75
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Accession Number:	1763
-Cultivation Taxa Num:	2457
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	The mission of the Arboretum at Flagstaff is to increase the understanding, appreciation, and conservation of plants and plant communities native to the Colorado Plateau (USA), to identify, evaluate, display, and introduce plants adaptable to the climatic and soil conditions of the Flagstaff, Arizona environment, to seek through scientific research innovative solutions to conservation issues of this high altitude environment, and to develop educational programs that will increase the understanding of the need for wise stewardship of our natural environment.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1447
+1-Name: Arboretum at Flagstaff, The 
+2-Administration Staff Number: 1
+2-Curator's Name: Sheila Murray, Research Botanist
+2-Director's Name: Dr. Kristin Haskins, Executive Director
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: TZHI;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/1447/Horticulture Center 2 sm.jpg" alt="The Horticultural Center at The Arboretum at Flagstaff" />         The Horticultural Center at The Arboretum at Flagstaff</div>        </div>                           About the Arboretum at Flagstaff, The        The Arboretum at Flagstaff is a botanical garden, research station, and environmental education center.  Our goal is to help you better understand the plants and plant communities of the world-renowned Colorado Plateau, home to such natural wonders as Grand Canyon and Zion National Parks.  The Arboretum is known for its beautiful collection of 2,500 species of plants, guided tours,  and spectacular views of the surrounding mountains, meadows, and forests.;                        Main Address:;         Arboretum at Flagstaff, The;         4001 South Woody Mountain Road;                Flagstaff;        Arizona 86005 United States of America;        ;                 Telephone: (928) 774-1442;         Fax: (928) 774-1441;         URL: www.thearb.org;         Primary Email: Info@thearb.org       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 1
+3-Altitude: 2179.00 Metres
+3-Date founded: 1981
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 35.1688869
+3-Longitude: -111.7010361
+3-Natural Vegetation Area: Yes
+3-Total Area: 81 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 81
+4-Computer Plant Record System: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 22172
+4-Number of Volunteers: 75
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: Yes
+5-Accession Number: 1763
+5-Cultivation Taxa Num: 2457
+5-Invasive Species Monitoring: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: The mission of the Arboretum at Flagstaff is to increase the understanding, appreciation, and conservation of plants and plant communities native to the Colorado Plateau (USA), to identify, evaluate, display, and introduce plants adaptable to the climatic and soil conditions of the Flagstaff, Arizona environment, to seek through scientific research innovative solutions to conservation issues of this high altitude environment, and to develop educational programs that will increase the understanding of the need for wise stewardship of our natural environment.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: Yes
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: No
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (928) 774-1441
+9-Institution Code: TZHI
+9-International Agenda Registration: Yes
+9-Primary Email: Info@thearb.org
+9-Telephone: (928) 774-1442
+9-URL: www.thearb.org

@@ -1,11 +1,19 @@
-ID:	2125
-Name:	Arboretum Radigojno 
-Curator's Name:	
-Director's Name:	Dipl.Ing. Dragisa Dozic
-Info:	  Montenegro - Kolasin  ;Garden Information;  Institution Code: RADIG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Radigojno; c/o Nacionalni Park Biogradska Gora, 81210 KOLASIN, Montenegro; Kolasin; Montenegro; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1992
-Institution Type:	Botanic Garden
-Latitude:	42.8226
-Longitude:	19.5164
-Special Collections:	Trees and shrubs. Native plants
+0-ID: 2125
+1-Name: Arboretum Radigojno 
+2-Date founded: 1992
+2-Info:              Institution Code: RADIG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Radigojno;         c/o Nacionalni Park Biogradska Gora, 81210 KOLASIN, Montenegro;                Kolasin;        Montenegro;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.8226
+2-Longitude: 19.5164
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2125">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs. Native plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2125">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2125">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2125">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: RADIG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

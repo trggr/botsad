@@ -1,11 +1,19 @@
-ID:	3389
-Name:	Roxburgh Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Allahabad  ;Garden Information;  Institution Code: ALLAH; International Agenda Registration: No; BGCI Member: No; About the Roxburgh Botanic Garden ? A Government Garden (Motilal Nehru Park), ALLAHABAD was established in 1857 near Allahabad Junction railway station for the production of fruit, ornamentals and greenhouse plants. It has a collection of 50,000 specimens of trees, shrubs and other plants;  Main Address:; Roxburgh Botanic Garden; Dept. of Botany University of Allahabad ALLAHABAD 211 001 Uttar Pradesh India; Allahabad; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1923
-Institution Type:	Botanic Garden
-Latitude:	25.4429
-Longitude:	81.8284
-Special Collections:	Trees and shrubs (200 accessions), gymnosperms (50 spp.).
+0-ID: 3389
+1-Name: Roxburgh Botanic Garden 
+2-Date founded: 1923
+2-Info:              Institution Code: ALLAH;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Roxburgh Botanic Garden        ? A Government Garden (Motilal Nehru Park), ALLAHABAD was established in 1857 near Allahabad Junction railway station for the production of fruit, ornamentals and greenhouse plants. It has a collection of 50,000 specimens of trees, shrubs and other plants;                        Main Address:;         Roxburgh Botanic Garden;         Dept. of Botany University of Allahabad ALLAHABAD 211 001 Uttar Pradesh India;                Allahabad;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.4429
+2-Longitude: 81.8284
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3389">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (200 accessions), gymnosperms (50 spp.).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3389">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3389">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3389">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ALLAH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,10 +1,19 @@
-ID:	4122
-Name:	Conservatoire Botanique National du Massif-Central 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Chavaniac-Lafayette  ;Garden Information;  Institution Code: CBNCM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Conservatoire Botanique National du Massif-Central; Le Bourg; Chavaniac-Lafayette; 43230 France; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: cbnmc@mail.es-conseil.fr ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	45.2114
-Longitude:	3.5517
+0-ID: 4122
+1-Name: Conservatoire Botanique National du Massif-Central 
+2-Date founded: 
+2-Info:              Institution Code: CBNCM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Conservatoire Botanique National du Massif-Central;         Le Bourg;                Chavaniac-Lafayette;        43230 France;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: cbnmc@mail.es-conseil.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.2114
+2-Longitude: 3.5517
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4122">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4122">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4122">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4122">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4122">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CBNCM
+9-International Agenda Registration: No
+9-Primary Email: cbnmc@mail.es-conseil.fr
+9-Telephone: 
+9-URL: 

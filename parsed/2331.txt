@@ -1,14 +1,21 @@
-ID:	2331
-Name:	Newhaven Botanic Garden 
-Curator's Name:	G. Jones
-Director's Name:	
-Info:	  United Kingdom - Newhaven  ;Garden Information;  Institution Code: NEWHN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Newhaven Botanic Garden; Paradise Park, Avis Road, Newhaven, East Sussex BN9 0DH, U.K.; Newhaven; United Kingdom; ;  Telephone: 01273 5121213; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: PARADISE@FASTNET.CO.UK ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1997
-Institution Type:	Botanic Garden
-Latitude:	50.801696
-Longitude:	0.053091
-Total area of glasshouses:	1300 Metres
-Number of Visitors:	80000
-Special Collections:	Cactaceae, Mesembranthaceae, Aloaceae, Mammillaria, Gymnocalycium, Conophyllum, Aloe, Hawarthia.
+0-ID: 2331
+1-Name: Newhaven Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1997
+2-Info:              Institution Code: NEWHN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Newhaven Botanic Garden;         Paradise Park,  Avis Road, Newhaven, East Sussex  BN9 0DH,  U.K.;                Newhaven;        United Kingdom;        ;                 Telephone: 01273 5121213;         Fax: ;         URL: ;         Primary Email: PARADISE@FASTNET.CO.UK       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.801696
+2-Longitude: 0.053091
+2-Total area of glasshouses: 1300 Metres
+3-Number of Visitors: 80000
+4-Special Collections: Cactaceae, Mesembranthaceae, Aloaceae, Mammillaria, Gymnocalycium, Conophyllum, Aloe, Hawarthia.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2331">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2331">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2331">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NEWHN
+9-International Agenda Registration: No
+9-Primary Email: PARADISE@FASTNET.CO.UK
+9-Telephone: 01273 5121213
+9-URL: 

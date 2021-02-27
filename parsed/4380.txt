@@ -1,12 +1,20 @@
-ID:	4380
-Name:	Wild Flower Botanical Garden 
-Curator's Name:	Sang-Nam Kim
-Director's Name:	Il-Mo Jeong
-Info:	  South Korea - Gyeonggi-do  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wild Flower Botanical Garden; 365-5, Ohbin-ri, Yangpyeong-eup, Yangpyeong-gun; Gyeonggi-do 476-803 South Korea; ;  Telephone: 031-772-1800; Fax: 031-771-1732; URL: <a target="_blank" href="http://www.nemunimo.co.kr">http://www.nemunimo.co.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.50222
-Local Address:	양평군 양평읍 오빈리 365-5
-Locality:	Information
-Longitude:	127.4697
+0-ID: 4380
+1-Name: Wild Flower Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wild Flower Botanical Garden;         365-5, Ohbin-ri, Yangpyeong-eup, Yangpyeong-gun;                        Gyeonggi-do 476-803 South Korea;        ;                 Telephone: 031-772-1800;         Fax: 031-771-1732;         URL: http://www.nemunimo.co.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.50222
+2-Local Address: 양평군 양평읍 오빈리 365-5
+2-Locality: Information
+2-Longitude: 127.4697
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4380">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4380">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4380">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4380">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4380">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 031-771-1732
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 031-772-1800

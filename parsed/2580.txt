@@ -1,18 +1,25 @@
-ID:	2580
-Name:	McKee Botanical Garden 
-Curator's Name:	Andreas Daehnick, Director of Horticulture
-Director's Name:	Christine Hobart, Executive Director
-Info:	  United States of America - Florida - Vero Beach  ;Garden Information;  Institution Code: MCKEE; International Agenda Registration: No; BGCI Member: Yes; About the McKee Botanical Garden McKee Botanical Garden, located on an 18-acre tropical hammock in Vero Beach, Florida, is where native plants and exotic botanicals combine with Old Florida charm. The Garden features 10,000 native and tropical plants as well as one of the largest waterlily collections in the state of Florida comprised of over 80 varieties and over 300 potted and 100 free-range plants including night and day-blooming varieties. Thousands of visitors come to the Garden each year to learn about McKee’s rich history and enjoy the natural landscape of majestic palms, exotic plants, trees, waterfalls, tranquil streams, and historic structures. ; ; In addition to the Garden’s horticultural beauty, McKee Botanical Garden is a valued resource for cultural enrichment, hosting a variety of programs each season including world-class art exhibits, educational courses for adults and children, and special events. ; ; McKee Botanical Garden is a private, nonprofit organization whose mission is to nurture and enhance a historic garden in a unique tropical setting for the education, enjoyment and enrichment of all. ; ; McKee has garnered national attention in publications such as Better Homes and Gardens, Coastal Living, House and Garden, Southern Living and The New York Times, and was named one of “22 Secret Gardens – Soothing Places of Surprise and Sanctuary in the U.S. and Canada” by National Geographic Traveler and was recognized as one of the “Top 10 Most Beautiful Gardens That Florida Has To Offer” by TripsToDiscover.com. In 2018, McKee was awarded the 2018 Certificate of Excellence award from TripAdvisor.com. The Garden is also listed on the National Register of Historic Places and endorsed by The Garden Conservancy as a project of national significance. ; ; The Garden continues to grow and prosper through the support of individuals, foundations and corporations and from income generated through admissions, gift shop sales, and educational programs. ; ; In the fall of 2017, McKee embarked upon a new journey… the Children’s Garden at McKee. As a natural compliment to McKee’s existing offerings, the Children’s Garden will provide not only an engaging place for families, but will allow for expanded educational opportunities and programs to encourage young visitors to engage with nature as our future stewards. The mission of the Children’s Garden is to create a fun and whimsical outdoor destination that inspires imagination and curiosity through interaction, education and exploration. The Children’s Garden is expected to open in late summer, 2019.;  Main Address:; McKee Botanical Garden; 350 US Highway 1; Vero Beach; Florida 32962-4314 United States of America; ;  Telephone: (772) 794-0601; Fax: ; URL: <a target="_blank" href="http://www.mckeegarden.org">www.mckeegarden.org; Primary Email: info@mckeegarden.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Annual Rainfall:	1409 mm
-Date founded:	2001
-Institution Type:	Botanic Garden
-Latitude:	27.6364574
-Longitude:	-80.3819122
-Total Area:	7 Hectares
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Courses for General Public:	Yes
-Guided Tours:	Yes
+0-ID: 2580
+1-Name: McKee Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 1409 mm
+2-Date founded: 2001
+2-Info:              Institution Code: MCKEE;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the McKee Botanical Garden        McKee Botanical Garden, located on an 18-acre tropical hammock in Vero Beach, Florida, is where native plants and exotic botanicals combine with Old Florida charm.  The Garden features 10,000 native and tropical plants as well as one of the largest waterlily collections in the state of Florida comprised of over 80 varieties and over 300 potted and 100 free-range plants including night and day-blooming varieties. Thousands of visitors come to the Garden each year to learn about McKee’s rich history and enjoy the natural landscape of majestic palms, exotic plants, trees, waterfalls, tranquil streams, and historic structures.  ;  ;  In addition to the Garden’s horticultural beauty, McKee Botanical Garden is a valued resource for cultural enrichment, hosting a variety of programs each season including world-class art exhibits, educational courses for adults and children, and special events.  ;  ;  McKee Botanical Garden is a private, nonprofit organization whose mission is to nurture and enhance a historic garden in a unique tropical setting for the education, enjoyment and enrichment of all.  ;  ;  McKee has garnered national attention in publications such as Better Homes and Gardens, Coastal Living, House and Garden, Southern Living and The New York Times, and was named one of “22 Secret Gardens – Soothing Places of Surprise and Sanctuary in the U.S. and Canada” by National Geographic Traveler and was recognized as one of the “Top 10 Most Beautiful Gardens That Florida Has To Offer” by TripsToDiscover.com.  In 2018,  McKee was awarded the 2018 Certificate of Excellence award from TripAdvisor.com. The Garden is also listed on the National Register of Historic Places and endorsed by The Garden Conservancy as a project of national significance. ;  ;  The Garden continues to grow and prosper through the support of individuals, foundations and corporations and from income generated through admissions, gift shop sales, and educational programs.  ;  ;  In the fall of 2017, McKee embarked upon a new journey… the Children’s Garden at McKee.  As a natural compliment to McKee’s existing offerings, the Children’s Garden will provide not only an engaging place for families, but will allow for expanded educational opportunities and programs to encourage young visitors to engage with nature as our future stewards. The mission of the Children’s Garden is to create a fun and whimsical outdoor destination that inspires imagination and curiosity through interaction, education and exploration. The Children’s Garden is expected to open in late summer, 2019.;                        Main Address:;         McKee Botanical Garden;         350 US Highway 1;                Vero Beach;        Florida 32962-4314 United States of America;        ;                 Telephone: (772) 794-0601;         Fax: ;         URL: www.mckeegarden.org;         Primary Email: info@mckeegarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 27.6364574
+2-Longitude: -80.3819122
+2-Total Area: 7 Hectares
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2580">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2580">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2580">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Guided Tours: Yes
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: MCKEE
+9-International Agenda Registration: No
+9-Primary Email: info@mckeegarden.org
+9-Telephone: (772) 794-0601
+9-URL: www.mckeegarden.org

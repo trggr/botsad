@@ -1,12 +1,20 @@
-ID:	10
-Name:	Dendropark of the Technical University 
-Curator's Name:	
-Director's Name:	P.M. Malakhovets
-Info:	  Russian Federation - Arkhangelsk  ;Garden Information;  Institution Code: ARK; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dendropark of the Technical University; Naberezhnaya Severnoy Dvini st., 17, ARKHANGELSK, Russian Federation; Arkhangelsk; Russian Federation; ;  Telephone: (8182) 44-22-36; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1933
-Institution Type:	Botanic Garden
-Latitude:	64.5369
-Longitude:	40.5655
-Special Collections:	Acer, Malus, Rosa, Crataegus, Ribes etc.
+0-ID: 10
+1-Name: Dendropark of the Technical University 
+2-Altitude: 0.00 Metres
+2-Date founded: 1933
+2-Info:              Institution Code: ARK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dendropark of the Technical University;         Naberezhnaya Severnoy Dvini st., 17, ARKHANGELSK, Russian Federation;                Arkhangelsk;        Russian Federation;        ;                 Telephone: (8182) 44-22-36;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 64.5369
+2-Longitude: 40.5655
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=10">Please click here if you can update us</a>
+4-Special Collections: Acer, Malus, Rosa, Crataegus, Ribes etc.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=10">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=10">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=10">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ARK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (8182) 44-22-36
+9-URL: 

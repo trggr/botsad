@@ -1,11 +1,19 @@
-ID:	829
-Name:	L'Arboretum Bazos 
-Curator's Name:	Muresan Lazar
-Director's Name:	Dr.Ing.Popa-Costea Viorel
-Info:	  Romania - Timisoara  ;Garden Information;  Institution Code: TIMSA; International Agenda Registration: No; BGCI Member: No;  Main Address:; L'Arboretum Bazos; Statiunea ICAS, 1900 TIMISOARA, Padurea Verde, Romania.; Timisoara; Romania; ;  Telephone: 18016; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1913
-Institution Type:	Botanic Garden
-Latitude:	45.7479
-Longitude:	21.2251
-Special Collections:	A general collection of trees and shrubs. North American trees.
+0-ID: 829
+1-Name: L'Arboretum Bazos 
+2-Date founded: 1913
+2-Info:              Institution Code: TIMSA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         L'Arboretum Bazos;         Statiunea ICAS,  1900 TIMISOARA,  Padurea Verde,  Romania.;                Timisoara;        Romania;        ;                 Telephone: 18016;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.7479
+2-Longitude: 21.2251
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=829">Please click here if you can update us</a>
+4-Special Collections: A general collection of trees and shrubs. North American trees.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=829">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=829">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=829">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TIMSA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 18016
+9-URL: 

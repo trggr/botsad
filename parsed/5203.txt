@@ -1,9 +1,18 @@
-ID:	5203
-Name:	Mae Fah Luang Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Thailand - Chiang Rai  ;Garden Information;  Institution Code: MFLBG; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Mae Fah Luang Botanical Garden; 333 M.1, Tasud; Muang; Chiang Rai; 57100 Thailand; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: jantrararuk@mfu.ac.th ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	19.9077031
-Longitude:	99.7950186
+0-ID: 5203
+1-Name: Mae Fah Luang Botanical Garden 
+2-Info:              Institution Code: MFLBG;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Mae Fah Luang Botanical Garden;         333 M.1, Tasud;        Muang;        Chiang Rai;        57100 Thailand;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: jantrararuk@mfu.ac.th       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 19.9077031
+2-Longitude: 99.7950186
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5203">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5203">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5203">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5203">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5203">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: MFLBG
+9-International Agenda Registration: No
+9-Primary Email: jantrararuk@mfu.ac.th
+9-Telephone: 
+9-URL: 

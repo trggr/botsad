@@ -1,12 +1,19 @@
-ID:	4327
-Name:	Gardens by the Bay 
-Curator's Name:	
-Director's Name:	-
-Info:	  Singapore - Singapore  ;Garden Information;  Institution Code: SIGBB; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Gardens by the Bay; 18 Marina Gardens Drive; Singapore; 018953 Singapore; ;  Telephone: +65 6420 6848; Fax: ; URL: <a target="_blank" href="http://www.gardensbythebay.com.sg/en/home.html">http://www.gardensbythebay.com.sg/en/home.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2011
-Institution Type:	Botanic Garden
-Latitude:	1.31134
-Longitude:	103.81535
-Open to public:	Yes
+0-ID: 4327
+1-Name: Gardens by the Bay 
+2-Altitude: 0.00 Metres
+2-Date founded: 2011
+2-Info:              Institution Code: SIGBB;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Gardens by the Bay;         18 Marina Gardens Drive;                Singapore;        018953 Singapore;        ;                 Telephone: +65 6420 6848;         Fax: ;         URL: http://www.gardensbythebay.com.sg/en/home.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 1.31134
+2-Longitude: 103.81535
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4327">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4327">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4327">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4327">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: SIGBB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +65 6420 6848

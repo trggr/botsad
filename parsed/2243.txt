@@ -1,13 +1,24 @@
-ID:	2243
-Name:	Urumqi Botanical Garden 
-Curator's Name:	Yin Linke
-Director's Name:	Pan Borong & Yin Linke
-Info:	  China - Xinjiang - Urumqi  ;Garden Information;  Institution Code: URUM; International Agenda Registration: No; BGCI Member: No; About the Urumqi Botanical Garden Urumqi Botanical Garden was built in 1986, the construction of park policy is: to gather and explore the wild plant resources, protection of rare and endangered plants in Xinjiang, focusing on the direction of plant landscaping for the building to the appearance of gardens, science content, research and realization of Botanical Garden , science, development and tourism functions.; Botanical Garden covers an area of ​​60 hectares, the area has been built Rose Garden, perennial flowers area, planting demonstration area, lawn area, landscape garden, medicinal plants and desert flora area. Has collected more than 400 types of plants (excluding varieties) in which the root of deer, sand holly, naked fruit, Siberian fir and other species of our region more than 10 rare and endangered plants, perennial flowers, 46 species, 20 kinds of a biennial flower. It is gratifying that the national level to protect plants successful introduction and cultivation of Ginkgo biloba in China, security, winter growing strong, four have three meters tall.; Botanical Garden, a 730 square meters of existing smart greenhouse, greenhouse 3 of 1,800 square meters, tissue culture laboratory and other facilities. Botanical Garden has completed in recent years, national, regional, municipal wide range of issues, and has won numerous awards. Which promote the value of the larger research projects are: "Introduction and domestication of perennial flowers, and promote the use of", "Beijing as early as the introduction and cultivation of small inflorescences and promote the use of", "One, two, and Rejuvenation Health and flower seed production technology", "vertical greening The introduction and application of materials "," Management and flowering potted chrysanthemum control "," factory flower nursery, "and so on. Botanical Garden for many years insisted on scientific research to production, and have achieved some results.;  Main Address:; Urumqi Botanical Garden; Xinjiang Institute of Biology, Chinese Aademy of Sciences; No. 30 Beijing Road, Northern Suburbs; Urumqi; Xinjiang 830013 China; ;  Telephone: 0991-6626679; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	43.7826
-Local Address:	中国新疆乌鲁木齐市北郊中科院新疆植物研究所，邮编 830011
-Locality:	Information
-Longitude:	87.5865
+0-ID: 2243
+1-Name: Urumqi Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1976
+2-Info:              Institution Code: URUM;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Urumqi Botanical Garden        Urumqi Botanical Garden was built in 1986, the construction of park policy is: to gather and explore the wild plant resources, protection of rare and endangered plants in Xinjiang, focusing on the direction of plant landscaping for the building to the appearance of gardens, science content, research and realization of Botanical Garden , science, development and tourism functions.;  Botanical Garden covers an area of ​​60 hectares, the area has been built Rose Garden, perennial flowers area, planting demonstration area, lawn area, landscape garden, medicinal plants and desert flora area. Has collected more than 400 types of plants (excluding varieties) in which the root of deer, sand holly, naked fruit, Siberian fir and other species of our region more than 10 rare and endangered plants, perennial flowers, 46 species, 20 kinds of a biennial flower. It is gratifying that the national level to protect plants successful introduction and cultivation of Ginkgo biloba in China, security, winter growing strong, four have three meters tall.;  Botanical Garden, a 730 square meters of existing smart greenhouse, greenhouse 3 of 1,800 square meters, tissue culture laboratory and other facilities. Botanical Garden has completed in recent years, national, regional, municipal wide range of issues, and has won numerous awards. Which promote the value of the larger research projects are: "Introduction and domestication of perennial flowers, and promote the use of", "Beijing as early as the introduction and cultivation of small inflorescences and promote the use of", "One, two, and Rejuvenation Health and flower seed production technology", "vertical greening The introduction and application of materials "," Management and flowering potted chrysanthemum control "," factory flower nursery, "and so on. Botanical Garden for many years insisted on scientific research to production, and have achieved some results.;                        Main Address:;         Urumqi Botanical Garden;         Xinjiang Institute of Biology, Chinese Aademy of Sciences;        No. 30 Beijing Road, Northern Suburbs;        Urumqi;        Xinjiang 830013 China;        ;                 Telephone: 0991-6626679;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.7826
+2-Local Address: 中国新疆乌鲁木齐市北郊中科院新疆植物研究所，邮编 830011
+2-Locality: Information
+2-Longitude: 87.5865
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2243">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2243">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2243">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2243">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2243">Please click here if you can update us</a>
+9-About the Urumqi Botanical Garden        Urumqi Botanical Garden was built in 1986, the construction of park policy is: to gather and explore the wild plant resources, protection of rare and endangered plants in Xinjiang, focusing on the direction of plant landscaping for the building to the appearance of gardens, science content, research and realization of Botanical Garden , science, development and tourism functions.
+9-BGCI Member: No
+9-Botanical Garden, a 730 square meters of existing smart greenhouse, greenhouse 3 of 1,800 square meters, tissue culture laboratory and other facilities. Botanical Garden has completed in recent years, national, regional, municipal wide range of issues, and has won numerous awards. Which promote the value of the larger research projects are: "Introduction and domestication of perennial flowers, and promote the use of", "Beijing as early as the introduction and cultivation of small inflorescences and promote the use of", "One, two, and Rejuvenation Health and flower seed production technology", "vertical greening The introduction and application of materials "," Management and flowering potted chrysanthemum control "," factory flower nursery, "and so on. Botanical Garden for many years insisted on scientific research to production, and have achieved some results.
+9-Fax: 
+9-Institution Code: URUM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0991-6626679
+9-URL: 

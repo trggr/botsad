@@ -1,10 +1,19 @@
-ID:	4853
-Name:	Wallington 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Northumberland - Morpeth  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Wallington The style of the gardens and parkland are derived from the scheme of the 18th century, when Sir Walter Blackett established the balance of woodland, open meadow and ponds, together with much of the sculpture and buildings. The mature trees give the garden a sense of history and harmony. The walled garden, created in 1760 as a vegetable garden, now shelters Wallington's most delicate plants, with a conservatory restored in 1988.;  Main Address:; Wallington; Cambo; Morpeth; Northumberland NE61 4AR United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-wallington/">www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-wallington/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	55.15262604
-Longitude:	-1.956424713
+0-ID: 4853
+1-Name: Wallington 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Wallington        The style of the gardens and parkland are derived from the scheme of the 18th century, when Sir Walter Blackett established the balance of woodland, open meadow and ponds, together with much of the sculpture and buildings. The mature trees give the garden a sense of history and harmony. The walled garden, created in 1760 as a vegetable garden, now shelters Wallington's most delicate plants, with a conservatory restored in 1988.;                        Main Address:;         Wallington;         Cambo;                Morpeth;        Northumberland NE61 4AR United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-wallington/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 55.15262604
+2-Longitude: -1.956424713
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4853">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4853">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4853">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4853">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4853">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-wallington/

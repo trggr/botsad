@@ -1,11 +1,19 @@
-ID:	2240
-Name:	Malmsbury Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Malmsbury  ;Garden Information;  Institution Code: MALMS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Malmsbury Botanic Gardens; P.O. Box 151, KYNETON, VIC 3444, Australia; Malmsbury; Australia; ;  Telephone: 61 (0)3 5422 1433; Fax: 61 (0)3 5422 3623; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-37.1885618
-Longitude:	144.3828515
-Special Collections:	10 % of collection is Australian flora.
+0-ID: 2240
+1-Name: Malmsbury Botanic Gardens 
+2-Date founded: 
+2-Info:              Institution Code: MALMS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Malmsbury Botanic Gardens;         P.O. Box 151,  KYNETON,  VIC 3444,  Australia;                Malmsbury;        Australia;        ;                 Telephone: 61 (0)3 5422 1433;         Fax: 61 (0)3 5422 3623;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -37.1885618
+2-Longitude: 144.3828515
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2240">Please click here if you can update us</a>
+4-Special Collections: 10 % of collection is Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2240">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2240">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2240">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5422 3623
+9-Institution Code: MALMS
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 61 (0)3 5422 1433
+9-URL: 

@@ -1,11 +1,19 @@
-ID:	801
-Name:	Botanischer Garten der Stadt Wuppertal 
-Curator's Name:	W. Pieper
-Director's Name:	
-Info:	  Germany - Deutschland - Wuppertal  ;Garden Information;  Institution Code: WUPPT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanischer Garten der Stadt Wuppertal; Elisenhohe 1; Wuppertal; D-42107 Germany - Deutschland; ;  Telephone: +49 (0)2025634207; Fax: +49 (0)2025638092; URL: <a target="_blank" href="http://www.botanischer-garden-wuppertal.de">www.botanischer-garden-wuppertal.de; Primary Email: botanischergarten@stadt.wuppertal.de ; 
-Plant Records Officer's Name:	
-Date founded:	1910
-Institution Type:	Botanic Garden
-Latitude:	51.2641
-Longitude:	7.1562
-Special Collections:	Bulbs, Rhododendron
+0-ID: 801
+1-Name: Botanischer Garten der Stadt Wuppertal 
+2-Date founded: 1910
+2-Info:              Institution Code: WUPPT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanischer Garten der Stadt Wuppertal;         Elisenhohe 1;                Wuppertal;        D-42107 Germany - Deutschland;        ;                 Telephone: +49 (0)2025634207;         Fax: +49 (0)2025638092;         URL: www.botanischer-garden-wuppertal.de;         Primary Email: botanischergarten@stadt.wuppertal.de       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.2641
+2-Longitude: 7.1562
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=801">Please click here if you can update us</a>
+4-Special Collections: Bulbs, Rhododendron
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=801">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=801">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=801">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +49 (0)2025638092
+9-Institution Code: WUPPT
+9-International Agenda Registration: No
+9-Primary Email: botanischergarten@stadt.wuppertal.de
+9-Telephone: +49 (0)2025634207
+9-URL: www.botanischer-garden-wuppertal.de

@@ -1,24 +1,26 @@
-ID:	741
-Name:	Winterthur Museum, Garden & Library 
-Administration Staff Number:	2
-Curator's Name:	Linda Eirhart
-Director's Name:	Dr. David Roselle
-Educational Staff Number:	
-Horticultural Staff Number:	17
-Info:	  United States of America - Delaware - Winterthur  ;Garden Information;  Institution Code: WINTE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Winterthur Museum, Garden & Library; 5105 Kennett Pike (Route 52); Winterthur; Delaware 19735 United States of America; ;  Telephone: (302) 888-4600; Fax: (302) 888-4945; URL: <a target="_blank" href="http://www.winterthur.org">www.winterthur.org; Primary Email: tourinfo@winterthur.org ; 
-Plant Records Officer's Name:	Patricia Pleva
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Annual Rainfall:	1087 mm
-Date founded:	1930
-Institution Type:	Botanic Garden
-Latitude:	39.8048800
-Longitude:	-75.6116580
-Total Area:	404 Hectares
-Arboretum:	No
-Disabled access:	Yes
-Herbarium:	No
-Number of Visitors:	170000
-Open to public:	Yes
-Special Collections:	Amaryllidaceae, Caprifoliaceae, Cornaceae, Ericaceae, Liliaceae, Oleaceae, Pinaceae, Ranunculaceae, Rosaceae, Saxifragaceae, Abies (9 spp., 10 taxa), Chaenomeles (3 spp., 13 taxa), Chamaecyparis (5 spp., 34 taxa), Iris (13 spp., 25 taxa), Juniperus (10 sp
-Guided Tours:	Yes
+0-ID: 741
+1-Name: Winterthur Museum, Garden & Library 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 1087 mm
+2-Date founded: 1930
+2-Info:              Institution Code: WINTE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Winterthur Museum, Garden & Library;         5105 Kennett Pike (Route 52);                Winterthur;        Delaware 19735 United States of America;        ;                 Telephone: (302) 888-4600;         Fax: (302) 888-4945;         URL: www.winterthur.org;         Primary Email: tourinfo@winterthur.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.8048800
+2-Longitude: -75.6116580
+2-Total Area: 404 Hectares
+3-Arboretum: No
+3-Disabled access: Yes
+3-Herbarium: No
+3-Number of Visitors: 170000
+3-Open to public: Yes
+4-Special Collections: Amaryllidaceae, Caprifoliaceae, Cornaceae, Ericaceae, Liliaceae, Oleaceae, Pinaceae, Ranunculaceae, Rosaceae, Saxifragaceae, Abies (9 spp., 10 taxa), Chaenomeles (3 spp., 13 taxa), Chamaecyparis (5 spp., 34 taxa), Iris (13 spp., 25 taxa), Juniperus (10 sp
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=741">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=741">Please click here if you can update us</a>
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: (302) 888-4945
+9-Institution Code: WINTE
+9-International Agenda Registration: No
+9-Primary Email: tourinfo@winterthur.org
+9-Telephone: (302) 888-4600
+9-URL: www.winterthur.org

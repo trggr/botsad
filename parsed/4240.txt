@@ -1,10 +1,18 @@
-ID:	4240
-Name:	Borde Hill Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  United Kingdom - West Sussex  ;Garden Information;  Institution Code: BOHIG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Borde Hill Garden; Haywards Heath; West Sussex RH16 1XP United Kingdom; ;  Telephone: +44 (0)1444 450326; Fax: +44 (0)1444 440 427; URL: <a target="_blank" href="http://www.bordehill.co.uk/Index.html">http://www.bordehill.co.uk/Index.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	51.021606
-Longitude:	-0.11533
+0-ID: 4240
+1-Name: Borde Hill Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BOHIG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Borde Hill Garden;         Haywards Heath;                        West Sussex RH16 1XP United Kingdom;        ;                 Telephone: +44 (0)1444 450326;         Fax: +44 (0)1444 440 427;         URL: http://www.bordehill.co.uk/Index.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.021606
+2-Longitude: -0.11533
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4240">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4240">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4240">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4240">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4240">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +44 (0)1444 440 427
+9-Institution Code: BOHIG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +44 (0)1444 450326

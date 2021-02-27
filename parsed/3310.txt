@@ -1,23 +1,28 @@
-ID:	3310
-Name:	Shinyalu 
-Curator's Name:	Daniel M. Murende
-Director's Name:	Mathew M. Shilabula
-Info:	  Kenya - Kakamega  ;Garden Information;  Institution Code: ISUKH; International Agenda Registration: Yes; BGCI Member: No; About the Shinyalu Preserve, conserve Isukha culture, tradition, customs, environment, revising Isukha language and suppliers of tree seed/seedlings and medicinal plants;  Main Address:; Shinyalu; PO Box 568-50100; Kakamega; 50100 Kenya; ;  Telephone: 254 56 41087/723 667447 (mobile); Fax: 254 56 30441; URL: <a target="_blank" href="http://">; Primary Email: shibogaa@yahoo.co.uk ; 
-Plant Records Officer's Name:	Moses Vikatsi
-Altitude:	0.00 Metres
-Annual Rainfall:	1500 mm
-Date founded:	2002
-Institution Type:	Other
-Latitude:	0.2849
-Longitude:	34.7559
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	BOTANICAL GARDENS ISUKHA HERITAGE ISUKHA HERITAGE ARBORETUM
-Total Area:	2 Hectares
-Arboretum Size:	2
-Open to public:	Yes
-Seed Bank:	Yes
-Accession Number:	2000
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
+0-ID: 3310
+1-Name: Shinyalu 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 1500 mm
+2-Date founded: 2002
+2-Info:              Institution Code: ISUKH;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Shinyalu        Preserve, conserve Isukha culture, tradition, customs, environment, revising Isukha language and suppliers of tree seed/seedlings and medicinal plants;                        Main Address:;         Shinyalu;         PO Box 568-50100;                Kakamega;        50100 Kenya;        ;                 Telephone: 254 56 41087/723 667447 (mobile);         Fax: 254 56 30441;         URL: ;         Primary Email: shibogaa@yahoo.co.uk       ;              
+2-Institution Type: Other
+2-Latitude: 0.2849
+2-Longitude: 34.7559
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: BOTANICAL GARDENS ISUKHA HERITAGE ISUKHA HERITAGE ARBORETUM
+2-Total Area: 2 Hectares
+3-Arboretum Size: 2
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Accession Number: 2000
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Ethnobotany: Yes
+6-Horticulture: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3310">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 254 56 30441
+9-Institution Code: ISUKH
+9-International Agenda Registration: Yes
+9-Primary Email: shibogaa@yahoo.co.uk
+9-Telephone: 254 56 41087/723 667447 (mobile)
+9-URL: 

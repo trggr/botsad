@@ -1,66 +1,68 @@
-ID:	4456
-Name:	Mountain Top Arboretum 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Marc Wolf, Executive Director
-Educational Staff Number:	
-Horticultural Staff Number:	1
-Info:	  United States of America - New York - Tannersville  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ; About the Mountain Top Arboretum The Mountain Top Arboretum is a living museum of trees and shrubs created for the education and pleasure of the public. Its founders, the Ahrens family, designed and planted a seven acre mountain top area starting in 1977, to display the range of native and exotic trees and shrubs that successfully adapt to the rigorous climate at 2,400 feet elevation. Over time the Arboretum has grown to 178 acres, an area which includes ecologically important and visually stunning meadows, wetlands and forests. As the Arboretum has grown in size, its commitment to land stewardship has grown as well, both in managing the important watershed ecosystem and in curating collections focused on native plant communities and their relationships to environmental health. In addition, the Arboretum conducts public programming, lectures and workshops which promote environmental stewardship and appreciation for the beauty and importance of the Catskill Mountains.;  Main Address:; Mountain Top Arboretum; 4 Maude Adams Road; P.O. Box 379; Tannersville; New York 12485 United States of America; ;  Telephone: (518) 589-3903; Fax: (518) 589-3903; URL: <a target="_blank" href="http://www.mtarboretum.org">www.mtarboretum.org; Primary Email: info@mtarboretum.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	731.50 Metres
-Date founded:	1977
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	42.2225640
-Longitude:	-74.1336520
-Natural Vegetation Area:	Yes
-Total Area:	72 Hectares
-Arboretum:	Yes
-Arboretum Size:	11
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	Yes
+0-ID: 4456
+1-Name: Mountain Top Arboretum 
+2-Altitude: 731.50 Metres
+2-Date founded: 1977
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                          About the Mountain Top Arboretum        The Mountain Top Arboretum is a living museum of trees and shrubs created for the education and pleasure of the public.  Its founders, the Ahrens family, designed and planted a seven acre mountain top area starting in 1977, to display the range of native and exotic trees and shrubs that successfully adapt to the rigorous climate at 2,400 feet elevation.  Over time the Arboretum has grown to 178 acres, an area which includes ecologically important and visually stunning meadows, wetlands and forests. As the Arboretum has grown in size, its commitment to land stewardship has grown as well, both in managing the important watershed ecosystem and in curating collections focused on native plant communities and their relationships to environmental health. In addition, the Arboretum conducts public programming, lectures and workshops which promote environmental stewardship and appreciation for the beauty and importance of the Catskill Mountains.;                        Main Address:;         Mountain Top Arboretum;         4 Maude Adams Road;        P.O. Box 379;        Tannersville;        New York 12485 United States of America;        ;                 Telephone: (518) 589-3903;         Fax: (518) 589-3903;         URL: www.mtarboretum.org;         Primary Email: info@mtarboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 42.2225640
+2-Longitude: -74.1336520
+2-Natural Vegetation Area: Yes
+2-Total Area: 72 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 11
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4456">Please click here if you can update us</a>
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: No
+7-Visitor/Education Centre: Yes
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: (518) 589-3903
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@mtarboretum.org
+9-Telephone: (518) 589-3903
+9-URL: www.mtarboretum.org

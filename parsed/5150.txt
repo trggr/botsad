@@ -1,9 +1,17 @@
-ID:	5150
-Name:	Debre Birhan University Medicinal Plant Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Ethiopia - Debre Birhan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Debre Birhan University Medicinal Plant Garden; Debre Birhan University; Debre Birhan; Ethiopia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.dbu.edu.et/">http://www.dbu.edu.et/; Primary Email: dbuankoberp@dbu.edu.et ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	9.656598
-Longitude:	39.521388
+0-ID: 5150
+1-Name: Debre Birhan University Medicinal Plant Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Debre Birhan University Medicinal Plant Garden;         Debre Birhan University;                Debre Birhan;        Ethiopia;        ;                 Telephone: ;         Fax: ;         URL: http://www.dbu.edu.et/;         Primary Email: dbuankoberp@dbu.edu.et       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.656598
+2-Longitude: 39.521388
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5150">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5150">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5150">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5150">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5150">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: dbuankoberp@dbu.edu.et
+9-Telephone: 

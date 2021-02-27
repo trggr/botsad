@@ -1,10 +1,19 @@
-ID:	4802
-Name:	Castle Drogo 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Devon - Exeter  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Castle Drogo The 20th-century Norman fantasy castle, high on Dartmoor, was designed by Sir Edwin Lutyens for Julius Drewe, founder of the Home and Colonial Stores during the 1920's. The garden is the highest owned by the National Trust nationally. The formal Arts and Crafts gardens (Grade II*), was originally designed by George Dillistone, which are surrounded by architectural yew hedges. The garden contain herbaceous borders, a rose garden. a fragrant garden, a circular Croquet Lawn, a shrubbery and 4 Parrotia arbours under planted with ferns. There is also a Rhododendron Garden and Chapel Garden overlooking Dartmoor and Teign Valley.;  Main Address:; Castle Drogo; Drewsteignton; Exeter; Devon EX6 6PB United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/castle-drogo/">www.nationaltrust.org.uk/castle-drogo/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	50.69585279
-Longitude:	-3.811161518
+0-ID: 4802
+1-Name: Castle Drogo 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Castle Drogo        The 20th-century Norman fantasy castle, high on Dartmoor, was designed by Sir Edwin Lutyens for Julius Drewe, founder of the Home and Colonial Stores during the 1920's. The garden is the highest owned by the National Trust nationally. The formal Arts and Crafts gardens (Grade II*), was originally designed by George Dillistone, which are surrounded by architectural yew hedges. The garden contain herbaceous borders, a rose garden. a fragrant garden, a circular Croquet Lawn, a shrubbery and 4 Parrotia arbours under planted with ferns. There is also a Rhododendron Garden and Chapel Garden overlooking Dartmoor and Teign Valley.;                        Main Address:;         Castle Drogo;         Drewsteignton;                Exeter;        Devon EX6 6PB United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/castle-drogo/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 50.69585279
+2-Longitude: -3.811161518
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4802">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4802">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4802">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4802">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4802">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/castle-drogo/

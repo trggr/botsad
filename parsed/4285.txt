@@ -1,15 +1,23 @@
-ID:	4285
-Name:	Minnetrista 
-Curator's Name:	Cassie Banning, Horticulture Manager
-Director's Name:	Betty Brewer, President & CEO
-Info:	  United States of America - Indiana - Muncie  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Minnetrista; 1200 North Minnetrista Parkway; Muncie; Indiana 47303 United States of America; ;  Telephone: (765) 282-4848 x163; Fax: (765) 213-3533; URL: <a target="_blank" href="http://www.minnetrista.net">www.minnetrista.net; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1988
-Institution Type:	Botanic Garden
-Latitude:	40.2056720
-Longitude:	-85.3899490
-Total Area:	16 Hectares
-Friends society:	Yes
-Number of Volunteers:	356
-Open to public:	Yes
+0-ID: 4285
+1-Name: Minnetrista 
+2-Altitude: 0.00 Metres
+2-Date founded: 1988
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Minnetrista;         1200  North Minnetrista Parkway;                Muncie;        Indiana 47303 United States of America;        ;                 Telephone: (765) 282-4848 x163;         Fax: (765) 213-3533;         URL: www.minnetrista.net;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.2056720
+2-Longitude: -85.3899490
+2-Total Area: 16 Hectares
+3-Friends society: Yes
+3-Number of Volunteers: 356
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4285">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4285">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4285">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4285">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (765) 213-3533
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (765) 282-4848 x163
+9-URL: www.minnetrista.net

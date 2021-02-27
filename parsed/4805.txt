@@ -1,10 +1,20 @@
-ID:	4805
-Name:	Claremont Landscape Garden 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Surrey - Esher  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Claremont Landscape Garden Claremont's creation and development involved some of the great names in garden history: Sir John Vanbrugh, Charles Bridgeman, William Kent and Capability Brown all played their part in the landscape seen today. The garden, begun c.1715, was described in 1726 by Stephen Switzer as "the noblest of any in Europe". The many features include a lake island with pavilion, grotto, turf amphitheatre and camellia terrace. Lovely walks with ever-changing vistas.;  Main Address:; Claremont Landscape Garden; Portsmouth Road; Esher; Surrey KT10 9JG United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/claremont/">www.nationaltrust.org.uk/claremont/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	51.355875
-Longitude:	-0.381373
+0-ID: 4805
+1-Name: Claremont Landscape Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Claremont Landscape Garden        Claremont's creation and development involved some of the great names in garden history: Sir John Vanbrugh, Charles Bridgeman, William Kent and Capability Brown all played their part in the landscape seen today. The garden, begun c.1715, was described in 1726 by Stephen Switzer as "the noblest of any in Europe". The many features include a lake island with pavilion, grotto, turf amphitheatre and camellia terrace. Lovely walks with ever-changing vistas.;                        Main Address:;         Claremont Landscape Garden;         Portsmouth Road;                Esher;        Surrey KT10 9JG United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/claremont/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 51.355875
+2-Longitude: -0.381373
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4805">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4805">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4805">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4805">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4805">Please click here if you can update us</a>
+9-About the Claremont Landscape Garden        Claremont's creation and development involved some of the great names in garden history: Sir John Vanbrugh, Charles Bridgeman, William Kent and Capability Brown all played their part in the landscape seen today. The garden, begun c.1715, was described in 1726 by Stephen Switzer as "the noblest of any in Europe". The many features include a lake island with pavilion, grotto, turf amphitheatre and camellia terrace. Lovely walks with ever-changing vistas.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/claremont/

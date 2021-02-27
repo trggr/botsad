@@ -1,11 +1,19 @@
-ID:	2296
-Name:	Maharaja Sayajirao University Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Vadodara  ;Garden Information;  Institution Code: BARO; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Maharaja Sayajirao University Botanic Gardens; Faculty of Science, M.S. University of Baroda, VADODARA - 390 002, Gujarat, India; Vadodara; India; ;  Telephone: 91 0265 791891; Fax: 91 0265 363791; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	22.3065
-Longitude:	73.1875
-Special Collections:	Economic plants, ferns, medicinal plants, trees and shrubs (5,000 accessions)
+0-ID: 2296
+1-Name: Maharaja Sayajirao University Botanic Gardens 
+2-Date founded: 
+2-Info:              Institution Code: BARO;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Maharaja Sayajirao University Botanic Gardens;         Faculty of Science, M.S. University of Baroda, VADODARA - 390 002, Gujarat, India;                Vadodara;        India;        ;                 Telephone: 91 0265 791891;         Fax: 91 0265 363791;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.3065
+2-Longitude: 73.1875
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2296">Please click here if you can update us</a>
+4-Special Collections: Economic plants, ferns, medicinal plants, trees and shrubs (5,000 accessions)
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2296">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2296">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2296">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 0265 363791
+9-Institution Code: BARO
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 91 0265 791891
+9-URL: 

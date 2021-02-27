@@ -1,18 +1,24 @@
-ID:	729
-Name:	John A. Finch Arboretum 
-Curator's Name:	Kathi Young, Park Operations
-Director's Name:	Leroy Eadie, Director of Parks and Recreation
-Info:	  United States of America - Washington - Spokane  ;Garden Information;  Institution Code: FINCH; International Agenda Registration: No; BGCI Member: No; About the John A. Finch Arboretum Spokane's Finch Arboretum is a 65 acre tree wonderland. Just minutes southwest of downtown, the site is an extensive botanical and tree garden with more than 2,000 labeled ornamental trees, shrubs, and flowers. Garden Springs Creek runs along it and several walking paths run through it.;  Main Address:; John A. Finch Arboretum; 3404 W. Woodlawn Boulevard; Mailing: Spokane Parks & Recreation Department, City Hall, 808 W. Spokane Falls Boulevard; Spokane; Washington 99201 United States of America; ;  Telephone: (509) 363-5457; Fax: (509) 625-6205; URL: <a target="_blank" href="http://parks.bhw1staging.com/index.php/Parks/page/99/">http://parks.bhw1staging.com/index.php/Parks/page/99/; Primary Email: parks@spokanecity.org ; 
-Plant Records Officer's Name:	Steve Nittolo, Horticulture Supervisor
-Altitude:	0.00 Metres
-Date founded:	1949
-Institution Type:	Botanic Garden
-Latitude:	47.6409400
-Longitude:	-117.4669600
-Total Area:	26 Hectares
-Arboretum:	Yes
-Arboretum Size:	26
-Open to public:	Yes
-Accession Number:	2000
-Special Collections:	Spring ornamentals, autumn colour plants.
-Education Signs in Garden:	Yes
+0-ID: 729
+1-Name: John A. Finch Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1949
+2-Info:              Institution Code: FINCH;             International Agenda Registration: No;        BGCI Member: No;                                                  About the John A. Finch Arboretum        Spokane's Finch Arboretum is a 65 acre tree wonderland. Just minutes southwest of downtown, the site is an extensive botanical and tree garden with more than 2,000 labeled ornamental trees, shrubs, and flowers. Garden Springs Creek runs along it and several walking paths run through it.;                        Main Address:;         John A. Finch Arboretum;         3404 W. Woodlawn Boulevard;        Mailing: Spokane Parks & Recreation Department, City Hall, 808 W. Spokane Falls Boulevard;        Spokane;        Washington 99201 United States of America;        ;                 Telephone: (509) 363-5457;         Fax: (509) 625-6205;         URL: http://parks.bhw1staging.com/index.php/Parks/page/99/;         Primary Email: parks@spokanecity.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.6409400
+2-Longitude: -117.4669600
+2-Total Area: 26 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 26
+3-Open to public: Yes
+4-Accession Number: 2000
+4-Special Collections: Spring ornamentals, autumn colour plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=729">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=729">Please click here if you can update us</a>
+7-Education Signs in Garden: Yes
+9-BGCI Member: No
+9-Fax: (509) 625-6205
+9-Institution Code: FINCH
+9-International Agenda Registration: No
+9-Mailing: Spokane Parks & Recreation Department, City Hall, 808 W. Spokane Falls Boulevard
+9-Primary Email: parks@spokanecity.org
+9-Telephone: (509) 363-5457

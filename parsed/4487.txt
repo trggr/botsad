@@ -1,9 +1,18 @@
-ID:	4487
-Name:	Niagara College Arboretum and Greenhouse 
-Curator's Name:	Marcie Newell, Greenhouse Clerk
-Director's Name:	Jim Thomson, Manager, Campus Development and Greenhouse
-Info:	  Canada - Ontario - Niagara-on-the-Lake  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Niagara College Arboretum and Greenhouse; 135 Taylor Road; Niagara-on-the-Lake; Ontario L0S 1J0 Canada; ;  Telephone: (905) 641-2252; Fax: ; URL: <a target="_blank" href="http://www.niagaracollegegreenhouse.com">www.niagaracollegegreenhouse.com; Primary Email: jthomson@niagaracollege.ca ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	43.153244
-Longitude:	-79.165976
+0-ID: 4487
+1-Name: Niagara College Arboretum and Greenhouse 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Niagara College Arboretum and Greenhouse;         135 Taylor Road;                Niagara-on-the-Lake;        Ontario L0S 1J0 Canada;        ;                 Telephone: (905) 641-2252;         Fax: ;         URL: www.niagaracollegegreenhouse.com;         Primary Email: jthomson@niagaracollege.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.153244
+2-Longitude: -79.165976
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4487">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4487">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4487">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4487">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4487">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jthomson@niagaracollege.ca
+9-Telephone: (905) 641-2252
+9-URL: www.niagaracollegegreenhouse.com

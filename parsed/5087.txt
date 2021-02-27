@@ -1,12 +1,20 @@
-ID:	5087
-Name:	Ogród Botaniczny Uniwersytetu Kazimierza Wielkiego w Bydgoszczy 
-Fax:	
-Info:	  Poland - kujawsko-pomorskie - Bydgoszcz  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	ogrodb@ukw.edu.pl
-Telephone:	0048 523419293
-Curator's Name:	
-Director's Name:	dr hab. Katarzyna Marcysiak
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	53.06
-Longitude:	18.00
+0-ID: 5087
+1-Name: Ogród Botaniczny Uniwersytetu Kazimierza Wielkiego w Bydgoszczy 
+2-Curator's Name: 
+2-Director's Name: dr hab. Katarzyna Marcysiak
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/5087/Ogród Botaniczny Uniwersytetu Kaziemierza Wielkiego.JPG" alt="" />         </div>        </div>                                    Main Address:;         Ogród Botaniczny Uniwersytetu Kazimierza Wielkiego w Bydgoszczy;         ul. Chodkiewicza 30;        PL 85-064 Bydgoszcz;        Bydgoszcz;        kujawsko-pomorskie Poland;        ;                 Telephone: 0048 523419293;         Fax: ;         URL: https://ogrod.ukw.edu.pl/jednostka/ogrod_botaniczny;         Primary Email: ogrodb@ukw.edu.pl       ;              
+2-Plant Records Officer's Name: 
+3-Institution Type: Botanic Garden
+3-Latitude: 53.06
+3-Longitude: 18.00
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5087">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5087">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5087">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5087">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=5087">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ogrodb@ukw.edu.pl
+9-Telephone: 0048 523419293

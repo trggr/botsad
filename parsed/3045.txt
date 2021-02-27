@@ -1,12 +1,21 @@
-ID:	3045
-Name:	Hefei Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Anhui - Hefei  ;Garden Information;  Institution Code: HEFEI; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Hefei Botanical Garden; Please change this to Parks and Landscape Bureau of Hefei, West Suburb, Hehuai Road, Hefei, Anhui, 230031, China; Hefei; Anhui China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	31.8666
-Local Address:	中国安徽省合肥市西郊环湖路(原董铺水库东岸)，邮编 230031
-Locality:	Information
-Longitude:	117.2916
+0-ID: 3045
+1-Name: Hefei Botanical Garden 
+2-Date founded: 
+2-Info:              Institution Code: HEFEI;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Hefei Botanical Garden;         Please change this to Parks and Landscape Bureau of Hefei, West Suburb, Hehuai Road, Hefei, Anhui, 230031, China;                Hefei;        Anhui China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.8666
+2-Local Address: 中国安徽省合肥市西郊环湖路(原董铺水库东岸)，邮编 230031
+2-Locality: Information
+2-Longitude: 117.2916
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3045">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3045">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3045">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3045">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3045">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: HEFEI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,10 +1,19 @@
-ID:	1374
-Name:	Mutomo Hill Plant Sanctuary 
-Curator's Name:	
-Director's Name:	?
-Info:	  Kenya - Kitui  ;Garden Information;  Institution Code: MUTOH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Mutomo Hill Plant Sanctuary; KITUI, Kenya.; Kitui; 90200 Kenya; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	-1.3602
-Longitude:	38.0076
+0-ID: 1374
+1-Name: Mutomo Hill Plant Sanctuary 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MUTOH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Mutomo Hill Plant Sanctuary;         KITUI, Kenya.;                Kitui;        90200 Kenya;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: -1.3602
+2-Longitude: 38.0076
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1374">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1374">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1374">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1374">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1374">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MUTOH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,13 +1,22 @@
-ID:	4259
-Name:	For-Mar Nature Preserve & Arboretum 
-Curator's Name:	
-Director's Name:	Brian VanPatten, Arboretum Horticulturist
-Info:	  United States of America - Michigan - Burton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level II ;  Main Address:; For-Mar Nature Preserve & Arboretum; 2142 North Genesee Road; Burton; Michigan 48509-1209 United States of America; ;  Telephone: (810) 789-8568; Fax: (810) 249-2386; URL: <a target="_blank" href="http://www.geneseecountyparks.org/formar.htm">www.geneseecountyparks.org/formar.htm; Primary Email: parkswebteam@gcparks.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	43.0369690
-Longitude:	-83.6155580
-Total Area:	155 Hectares
-Arboretum:	Yes
-Open to public:	Yes
+0-ID: 4259
+1-Name: For-Mar Nature Preserve & Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level II       ;                                                   Main Address:;         For-Mar Nature Preserve & Arboretum;         2142 North Genesee Road;                Burton;        Michigan 48509-1209 United States of America;        ;                 Telephone: (810) 789-8568;         Fax: (810) 249-2386;         URL: www.geneseecountyparks.org/formar.htm;         Primary Email: parkswebteam@gcparks.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.0369690
+2-Longitude: -83.6155580
+2-Total Area: 155 Hectares
+3-Arboretum: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4259">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4259">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4259">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4259">Please click here if you can update us</a>
+9-ArbNet Accredited: Level II
+9-BGCI Member: No
+9-Fax: (810) 249-2386
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: parkswebteam@gcparks.org
+9-Telephone: (810) 789-8568
+9-URL: www.geneseecountyparks.org/formar.htm

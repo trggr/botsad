@@ -1,10 +1,19 @@
-ID:	4492
-Name:	Cibolo Nature Center 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Texas - Boerne  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Cibolo Nature Center; 140 City Park Road; Boerne; Texas 78006 United States of America; ;  Telephone: (830) 249-4616; Fax: ; URL: <a target="_blank" href="http://www.cibolo.org">www.cibolo.org; Primary Email: nature@cibolo.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	29.8371230
-Longitude:	-98.5904790
+0-ID: 4492
+1-Name: Cibolo Nature Center 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Cibolo Nature Center;         140 City Park Road;                Boerne;        Texas 78006 United States of America;        ;                 Telephone: (830) 249-4616;         Fax: ;         URL: www.cibolo.org;         Primary Email: nature@cibolo.org       ;              
+2-Institution Type: Other
+2-Latitude: 29.8371230
+2-Longitude: -98.5904790
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4492">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4492">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4492">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4492">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4492">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: nature@cibolo.org
+9-Telephone: (830) 249-4616
+9-URL: www.cibolo.org

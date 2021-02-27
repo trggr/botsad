@@ -1,87 +1,92 @@
-ID:	108
-Name:	Jerusalem Botanical Gardens 
--"garden-project" style="margin-top:	1em"> Jewish-Arab Coexistence Programme <!-- <img src="/files/Community_projects/small_ja_coexistence.jpg" alt="" /> --> Bringing Jewish and Arab primary school children together through plant-related activities in mixed groups, to build bridges and help&nbsp
--<div align="center"><address><img width="450" height="300" style="width:	450px
--<img width="442" height="85" style="width:	416px
--<strong>Activities:	</strong>
--height:	69px" src="/files/Community_projects/jbg_logo.jpg" border="0" />
--two important messages:	the need to respect people from cultures different from one&rsquo
--"garden-project" style="margin-top:	1em"> Kishurim - 'Skills' Project <!-- <img src="/files/Community_projects/alut_small.jpg" alt="" /> -->
--<img width="442" height="85" style="width:	400px
--<img width="450" height="598" style="width:	329px
--<p align="right"><img width="390" height="115" style="width:	321px
--height:	89px" src="/files/Community_projects/alut_logo.jpg" border="0" />
-Fax:	+972-2-679-3941
-Info:	  Israel - Israel - Jerusalem  ;Garden Information;<a href="#tabs-2">Community Projects;  Institution Code: HUJ; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	jbotanic@botanic.co.il
-Telephone:	+972-2-679-4012
-Administration Staff Number:	7
-Curator's Name:	Dr. Ori Fragman-Sapir
-Director's Name:	Tom Amit
-Educational Staff Number:	10
-Horticultural Staff Number:	15
-Plant Records Officer's Name:	Noam Bar-Shai
-Research Staff Number:	4
-Altitude:	750.00 Metres
-Annual Rainfall:	550 mm
-Date founded:	1954
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	31.7857
-Local Address:	האוניברסיטה העברית, גבעת רם, 91904
-Locality:	Information
-Longitude:	35.2007
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Ein Gedi Botanical Garden (Dead Sea area)
-Total Area:	35 Hectares
-Total area of glasshouses:	2000 Metres
-Total area of shadehouses:	35 Metres
-Arboretum:	Yes
-Arboretum Size:	110
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	200000
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	16000
-Cultivation Taxa Num:	6096
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 108
+1-Name: Jerusalem Botanical Gardens 
+10-"garden-project" style="margin-top: 1em"> Kishurim - 'Skills' Project <!-- <img src="/files/Community_projects/alut_small.jpg" alt="" /> -->
+10-<img width="442" height="85" style="width: 400px
+10-<img width="450" height="598" style="width: 329px
+10-<p align="right"><img width="390" height="115" style="width: 321px
+10-accommodation operated by ALUT.Currently, the <em>Kishurim</em> ('Skills') project caters to four young adult men in their 20s and 30s, all at the lower end of the functional spectrum. However, they have the potential to be integrated into the community rather than housed in closed institutions.A Jerusalem Botanical Gardens project team consisting of a social worker, a special needs teacher and a volunteer has built separate skills programmes for each participant, covering a range of activity fields. Activities are delivered either one to one or as a group. Each programme incorporates the following skills fields: <strong><em>Cognitive</em></strong> &ndash
+10-height: 89px" src="/files/Community_projects/alut_logo.jpg" border="0" />&nbsp
+2-Administration Staff Number: 7
+2-Curator's Name: Dr. Ori Fragman-Sapir
+2-Director's Name: Tom Amit
+2-Educational Staff Number: 10
+2-Horticultural Staff Number: 15
+2-Info:              Institution Code: HUJ;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/108/JBG_edited.jpg" alt="JBG's visitor's center" />         JBG's visitor's center</div>        </div>                           About the Jerusalem Botanical Gardens        The Jerusalem Botanical Gardens comprises more than six thousand plant species, which were brought to Israel from all over the world and are being preserved for the benefit and enjoyment of the public. The plants are displayed in six sections, each designed to create a miniature landscape of the region of origin of the plants. The Gardens also boasts a tropical greenhouse in the name of Florence Dvorsky, which contains a wide variety of plants from tropical regions. The University Botanical Gardens operates enrichment programs for school children - from kindergarten to secondary school - on numerous and diverse subjects dealing with nature and preservation of the environment. ;  Special activities are offered during holidays and the summer vacation. The School of Gardens and Landscape Studies of the Botanical Gardens teaches professional courses on various Gardening subjects in cooperation with the Plant Engineering Department of the Training and Vocational Service, Ministry of Agriculture. The Botanical Gardens also teaches a professional Gardening course in cooperation with the Ministry of Labor and Welfare. The Jerusalem Botanical Gardens, in cooperation with the Society of Friends of Botanical Gardens, arranges cultural and artistic events that are centered on plant life. Thus, the Gardens served as the scene of sculpture exhibitions, flower arrangement, photography, painting and embroidery.;                        Main Address:;         Jerusalem Botanical Gardens;         Hebrew University, Givat Ram campus;                Jerusalem;        Israel 91904 Israel;        ;                 Telephone: +972-2-679-4012;         Fax: +972-2-679-3941;         URL: www.botanic.co.il;         Primary Email: jbotanic@botanic.co.il       ;              
+2-Plant Records Officer's Name: Noam Bar-Shai
+2-Research Staff Number: 4
+3-Altitude: 750.00 Metres
+3-Annual Rainfall: 550 mm
+3-Date founded: 1954
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 31.7857
+3-Local Address: האוניברסיטה העברית, גבעת רם, 91904
+3-Locality: Information
+3-Longitude: 35.2007
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Ein Gedi Botanical Garden (Dead Sea area)
+3-Total Area: 35 Hectares
+3-Total area of glasshouses: 2000 Metres
+3-Total area of shadehouses: 35 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 110
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 200000
+4-Number of Volunteers: 100
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: Yes
+5-Accession Number: 16000
+5-Cultivation Taxa Num: 6096
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Conservation - Biology: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Plant Breeding: Yes
+7-Pollination Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-"garden-project" style="margin-top: 1em"> Jewish-Arab Coexistence Programme <!-- <img src="/files/Community_projects/small_ja_coexistence.jpg" alt="" /> --> Bringing Jewish and Arab primary school children together through plant-related activities in mixed groups, to build bridges and help&nbsp
+9-<div align="center"><address><img width="450" height="300" style="width: 450px
+9-<img width="442" height="85" style="width: 416px
+9-<strong>Activities: </strong> Before the first inter-school meeting, the children work with the counsellors to create introductory PowerPoint presentations to send to the other participating schools. In these, they can show their classrooms, friends and after-school activities. Later on in the programme, each school will prepare a planting box for their partner school. After the initial meeting, JBG carries out feedback sessions with the school&nbsp
+9-BGCI Member: Yes
+9-Fax: +972-2-679-3941
+9-Institution Code: HUJ
+9-International Agenda Registration: Yes
+9-Primary Email: jbotanic@botanic.co.il
+9-Telephone: +972-2-679-4012
+9-URL: www.botanic.co.il
+9-height: 69px" src="/files/Community_projects/jbg_logo.jpg" border="0" />
+9-two important messages: the need to respect people from cultures different from one&rsquo

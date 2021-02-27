@@ -1,9 +1,18 @@
-ID:	4615
-Name:	Central Florida Zoo and Botanical Gardens 
-Curator's Name:	Steven DeCresie, Zoo Horticulturist
-Director's Name:	Unknown
-Info:	  United States of America - Florida - Sanford  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Central Florida Zoo and Botanical Gardens; 3755 NW Hwy 17-92; P.O. Box 470309; Sanford; Florida 32747-0309 United States of America; ;  Telephone: (407) 323-4450; Fax: ; URL: <a target="_blank" href="http://www.centralfloridazoo.org">www.centralfloridazoo.org; Primary Email: information@centralfloridazoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	28.7357244
-Longitude:	-81.3048140
+0-ID: 4615
+1-Name: Central Florida Zoo and Botanical Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Central Florida Zoo and Botanical Gardens;         3755 NW Hwy 17-92;        P.O. Box 470309;        Sanford;        Florida 32747-0309 United States of America;        ;                 Telephone: (407) 323-4450;         Fax: ;         URL: www.centralfloridazoo.org;         Primary Email: information@centralfloridazoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 28.7357244
+2-Longitude: -81.3048140
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4615">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4615">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4615">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4615">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4615">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: information@centralfloridazoo.org
+9-Telephone: (407) 323-4450
+9-URL: www.centralfloridazoo.org

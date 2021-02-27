@@ -1,18 +1,20 @@
-ID:	2027
-Name:	Wentworth Castle Gardens 
-Administration Staff Number:	
-Curator's Name:	C.J. Margrave
-Director's Name:	Unknown
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Info:	  United Kingdom - Barnsley  ;Garden Information;  Institution Code: WENTW; International Agenda Registration: No; BGCI Member: No;  Main Address:; Wentworth Castle Gardens; Barnsley M.B.C,Stainborough, BARNSLEY, South Yorkshire S75 3ET; Barnsley; United Kingdom; ;  Telephone: 01226 776040; Fax: 0226 284308; URL: <a target="_blank" href="http://www.wentworthcastle.org/">http://www.wentworthcastle.org/; Primary Email: heritagetrust@wentworthcastle.org ; 
-Plant Records Officer's Name:	Christopher Margrave
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1715
-Institution Type:	Botanic Garden
-Latitude:	53.524922
-Longitude:	-1.519734
-Number of Visitors:	5000
-Number of Volunteers:	45
-Special Collections:	Rhododendron species & hybrids, Sorbus, Magnolia, Betula, Camellia, Meconopsis, Asiatic primulas, 'old' roses. Maintains a seed bank with medium-term storage capacity, containing 149 accessions, representing 149 species (1994 figures).
+0-ID: 2027
+1-Name: Wentworth Castle Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1715
+2-Info:              Institution Code: WENTW;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Wentworth Castle Gardens;         Barnsley M.B.C,Stainborough, BARNSLEY, South Yorkshire S75 3ET;                Barnsley;        United Kingdom;        ;                 Telephone: 01226 776040;         Fax: 0226 284308;         URL: http://www.wentworthcastle.org/;         Primary Email: heritagetrust@wentworthcastle.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 53.524922
+2-Longitude: -1.519734
+3-Number of Visitors: 5000
+3-Number of Volunteers: 45
+4-Special Collections: Rhododendron species & hybrids, Sorbus, Magnolia, Betula, Camellia, Meconopsis, Asiatic primulas, 'old' roses. Maintains a seed bank with medium-term storage capacity, containing 149 accessions, representing 149 species (1994 figures).
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2027">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2027">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2027">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0226 284308
+9-Institution Code: WENTW
+9-International Agenda Registration: No
+9-Primary Email: heritagetrust@wentworthcastle.org
+9-Telephone: 01226 776040

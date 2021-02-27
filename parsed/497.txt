@@ -1,11 +1,19 @@
-ID:	497
-Name:	Kemigawa Arboretum 
-Curator's Name:	Satomi Watanabe
-Director's Name:	Kenjiro Saio
-Info:	  Japan - Chiba  ;Garden Information;  Institution Code: CHIBA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kemigawa Arboretum; Experimental Station of Plants for Landscaping, Faculty of Agriculture, University of Tokyo, 1051; Chiba; Japan; ;  Telephone: 0472 73 8326; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1965
-Institution Type:	Botanic Garden
-Latitude:	35.6190
-Longitude:	140.1234
-Special Collections:	Trees and shrubs, lawn grasses, camellias.
+0-ID: 497
+1-Name: Kemigawa Arboretum 
+2-Date founded: 1965
+2-Info:              Institution Code: CHIBA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kemigawa Arboretum;         Experimental Station of Plants for Landscaping,  Faculty of Agriculture, University of Tokyo,  1051;                Chiba;        Japan;        ;                 Telephone: 0472 73 8326;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.6190
+2-Longitude: 140.1234
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=497">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs, lawn grasses, camellias.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=497">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=497">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=497">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CHIBA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0472 73 8326
+9-URL: 

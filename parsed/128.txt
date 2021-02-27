@@ -1,11 +1,18 @@
-ID:	128
-Name:	Rimba Ilmu Botanic Garden 
-Curator's Name:	Dr. Yong Kien Thai
-Director's Name:	Mr Manickam Sugumaran
-Info:	  Malaysia - Kuala Lumpur  ;Garden Information;  Institution Code: KLU; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Rimba Ilmu Botanic Garden; Institute of Biological Sciences, Faculty of Science,; University of Malaya,; Kuala Lumpur; 50603 Malaysia; ;  Telephone: 603 7967 4686/4687; Fax: 603 7967 6150; URL: <a target="_blank" href="http://rimba.um.edu.my">http://rimba.um.edu.my; Primary Email: rimba@um.edu.my ; 
-Plant Records Officer's Name:	
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	3.1502
-Longitude:	101.7077
-Special Collections:	Aquatic plants, medicinal plants (+ 600 species), tropical fruit trees and their relatives, Pandanaceae, citrus and citrus relatives, timber trees, wild plants of ornamental potential, palms, ferns, plants for stabilizing slopes e.g. Vetiveria zizanoides
+0-ID: 128
+1-Name: Rimba Ilmu Botanic Garden 
+2-Date founded: 1974
+2-Info:              Institution Code: KLU;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Rimba Ilmu Botanic Garden;         Institute of Biological Sciences, Faculty of Science,;        University of Malaya,;        Kuala Lumpur;        50603 Malaysia;        ;                 Telephone: 603 7967 4686/4687;         Fax: 603 7967 6150;         URL: http://rimba.um.edu.my;         Primary Email: rimba@um.edu.my       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 3.1502
+2-Longitude: 101.7077
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=128">Please click here if you can update us</a>
+4-Special Collections: Aquatic plants, medicinal plants (+ 600 species), tropical fruit trees and their relatives, Pandanaceae, citrus and citrus relatives, timber trees, wild plants of ornamental potential, palms, ferns, plants for stabilizing slopes e.g. Vetiveria zizanoides
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=128">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=128">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=128">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 603 7967 6150
+9-Institution Code: KLU
+9-International Agenda Registration: No
+9-Primary Email: rimba@um.edu.my
+9-Telephone: 603 7967 4686/4687

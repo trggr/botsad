@@ -1,9 +1,18 @@
-ID:	4713
-Name:	Erie Zoo 
-Curator's Name:	Jeff Carey, Horticulturist
-Director's Name:	Unknown
-Info:	  United States of America - Pennsylvania - Erie  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Erie Zoo; 423 W. 38th Street; P.O. Box 3268; Erie; Pennsylvania 16508 United States of America; ;  Telephone: (814)864-4091; Fax: ; URL: <a target="_blank" href="http://www.eriezoo.org">www.eriezoo.org; Primary Email: Info@eriezoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	42.0983200
-Longitude:	-80.0775472
+0-ID: 4713
+1-Name: Erie Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Erie Zoo;         423 W. 38th Street;        P.O. Box 3268;        Erie;        Pennsylvania 16508 United States of America;        ;                 Telephone: (814)864-4091;         Fax: ;         URL: www.eriezoo.org;         Primary Email: Info@eriezoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 42.0983200
+2-Longitude: -80.0775472
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4713">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4713">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4713">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4713">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4713">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Info@eriezoo.org
+9-Telephone: (814)864-4091
+9-URL: www.eriezoo.org

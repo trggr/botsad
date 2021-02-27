@@ -1,9 +1,17 @@
-ID:	5346
-Name:	Ogród Botaniczny "Egzotarium Ogród Botaniczny" 
-Curator's Name:	
-Director's Name:	
-Info:	  Poland - Sosnowiec  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Ogród Botaniczny "Egzotarium Ogród Botaniczny"; ul. Marszałka J. Piłsudskiego 116; 41-200 Sosnowiec; Sosnowiec; Poland; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.mzuk.sosnowiec.pl/dzial_botanicznozoologiczny_egzotarium.html">http://www.mzuk.sosnowiec.pl/dzial_botanicznozoologiczny_egzotarium.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	50.283937
-Longitude:	19.104795
+0-ID: 5346
+1-Name: Ogród Botaniczny "Egzotarium Ogród Botaniczny" 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Ogród Botaniczny "Egzotarium Ogród Botaniczny";         ul. Marszałka J. Piłsudskiego 116;        41-200 Sosnowiec;        Sosnowiec;        Poland;        ;                 Telephone: ;         Fax: ;         URL: http://www.mzuk.sosnowiec.pl/dzial_botanicznozoologiczny_egzotarium.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.283937
+2-Longitude: 19.104795
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5346">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5346">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5346">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5346">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5346">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

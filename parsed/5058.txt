@@ -1,72 +1,75 @@
-ID:	5058
-Name:	Melton Botanic Garden 
-Fax:	
-Info:	  Australia - Victoria - Melton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Mailing:	FMBG, P.O. Box 2381, Melton South 3338
-Primary Email:	friends@fmbg.org.au
-Telephone:	+61397433819
-Curator's Name:	
-Director's Name:	John Bentley (President FMBG)
-Plant Records Officer's Name:	Jennifer Peters
-Altitude:	0.00 Metres
-Annual Rainfall:	450 mm
-Date founded:	2011
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-37.689535
-Longitude:	144.589620
-Natural Vegetation Area:	Yes
-Total Area:	26 Hectares
-Arboretum:	Yes
-Arboretum Size:	3
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 5058
+1-Name: Melton Botanic Garden 
+2-Curator's Name: 
+2-Director's Name: John Bentley (President FMBG)
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/5058/IMG_3416 (Custom).jpeg" alt="Southern African Garden" />         Southern African Garden</div>        </div>                           About the Melton Botanic Garden        The Melton Botanic Garden is being developed by volunteers on 26ha of council land.;  The garden is based on a dryland theme with plants from 450mm or less of rainfall in the natural habitat or will tolerate low water conditions once established.  Melton's long term average rainfall is 450mm. ;  The main garden areas developed to date are indigenous plantings, Victorian Volcanic Plains Garden, Koori Student Garden, Eucalyptus Arboretum with an understory of Australian natives including a collection of eremophila, ;  Mediterranean Region Garden, Western and South Australian Garden, the Southern African Garden, Bushfoods Garden, Indigenous Peoples Garden and a mixed garden beds area that is like a mini botanic garden on 0.5ha.;  As at 2020, Garden areas currently being built are an Eastern Australian Dryland Garden, Californian, Central and South American Garden and the remaining indigenous plantings around the lake and small lake.;  The garden is open to the public 24/7.;                        Main Address:;         Melton Botanic Garden;         40 Lakewood Boulevard;        Mailing: FMBG, P.O. Box 2381, Melton South 3338;        Melton;        Victoria 3338 Australia;        ;                 Telephone: +61397433819;         Fax: ;         URL: http://www.fmbg.org.au;         Primary Email: friends@fmbg.org.au       ;              
+2-Plant Records Officer's Name: Jennifer Peters
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 450 mm
+3-Date founded: 2011
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -37.689535
+3-Longitude: 144.589620
+3-Natural Vegetation Area: Yes
+3-Total Area: 26 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 3
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Volunteers: 100
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: No
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: No
+5-Plant Collection Policy: No
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: No
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: No
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: FMBG, P.O. Box 2381, Melton South 3338
+9-Primary Email: friends@fmbg.org.au
+9-Telephone: +61397433819

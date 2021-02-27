@@ -1,9 +1,17 @@
-ID:	4959
-Name:	Winter garden of Gomel Park and Palace Ensemble 
-Curator's Name:	
-Director's Name:	Gorbachov A.A.
-Info:	  Belarus - Gomel Voblast - Gomel  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Winter garden of Gomel Park and Palace Ensemble; Lenina square, 4; Gomel; Gomel Voblast 46050 Belarus; ;  Telephone: +375 (232) 70-38-18; Fax: +375 (232) 70-38-18; URL: <a target="_blank" href="http://eng.palacegomel.by/index.php?do=static&page=park">http://eng.palacegomel.by/index.php?do=static&page=park; Primary Email: ansambl.rp@mail.ru ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	52.423491
-Longitude:	31.015710
+0-ID: 4959
+1-Name: Winter garden of Gomel Park and Palace Ensemble 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Winter garden of Gomel Park and Palace Ensemble;         Lenina square, 4;                Gomel;        Gomel Voblast 46050 Belarus;        ;                 Telephone: +375 (232) 70-38-18;         Fax: +375 (232) 70-38-18;         URL: http://eng.palacegomel.by/index.php?do=static&page=park;         Primary Email: ansambl.rp@mail.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.423491
+2-Longitude: 31.015710
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4959">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4959">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4959">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4959">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4959">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +375 (232) 70-38-18
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ansambl.rp@mail.ru
+9-Telephone: +375 (232) 70-38-18

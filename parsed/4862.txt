@@ -1,27 +1,30 @@
-ID:	4862
-Name:	Giardino Botanico Alpino Saussurea 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Dr. Isabella Vanacore Falco
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Info:	  Italy - Courmayuer  ;Garden Information;  Institution Code: Aosta; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Botanico Alpino Saussurea; Loc. Pavillon du Mont Fréty; Courmayuer; 11013 Italy; ;  Telephone: +39 333 446 2959; Fax: ; URL: <a target="_blank" href="http://www.saussurea.net">www.saussurea.net; Primary Email: info@saussurea.net ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	2175.00 Metres
-Date founded:	1984
-Institution Type:	Botanic Garden
-Latitude:	45.81602
-Local Address:	Loc. Pavillon du Mont Fréty
-Locality:	Information
-Longitude:	6.96158
-Natural Vegetation Area:	No
-Total Area:	1 Hectares
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Plant Breeding:	No
+0-ID: 4862
+1-Name: Giardino Botanico Alpino Saussurea 
+2-Altitude: 2175.00 Metres
+2-Date founded: 1984
+2-Info:              Institution Code: Aosta;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino Botanico Alpino Saussurea;         Loc. Pavillon du Mont Fréty;                Courmayuer;        11013 Italy;        ;                 Telephone: +39 333 446 2959;         Fax: ;         URL: www.saussurea.net;         Primary Email: info@saussurea.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.81602
+2-Local Address: Loc. Pavillon du Mont Fréty
+2-Locality: Information
+2-Longitude: 6.96158
+2-Natural Vegetation Area: No
+2-Total Area: 1 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4862">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4862">Please click here if you can update us</a>
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Plant Breeding: No
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4862">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: Aosta
+9-International Agenda Registration: No
+9-Primary Email: info@saussurea.net
+9-Telephone: +39 333 446 2959
+9-URL: www.saussurea.net

@@ -1,11 +1,19 @@
-ID:	1078
-Name:	Orto Botanico dell' Universita 
-Curator's Name:	
-Director's Name:	Dr. Fabrizio Martini
-Info:	  Italy - Trieste  ;Garden Information;  Institution Code: TSB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico dell' Universita; Via L. Giorgieri 10, Trieste, C/O Dipartimento di Biologia dell' Universita, Via Monte Valerio 32,; Trieste; Italy; ;  Telephone: 39 (0)40 6763862; Fax: 040 568855; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1962
-Institution Type:	Botanic Garden
-Latitude:	45.6945
-Longitude:	13.7473
-Special Collections:	Approx. 700 herbaceous specimens, aquatic plants, Nymphaea, Nuphar, Eichornia crassipes, Pistia stratiotes, Cyperus papyrus, Amaryllis, Clivia, Agapanthus, Crinus, Ficus, Ficus macrophylla, Cephalocereus euphorbioides, Euphorbia cactus, Agave victoriae-re
+0-ID: 1078
+1-Name: Orto Botanico dell' Universita 
+2-Date founded: 1962
+2-Info:              Institution Code: TSB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Orto Botanico dell' Universita;         Via L. Giorgieri 10,  Trieste, C/O Dipartimento di Biologia dell' Universita,  Via Monte Valerio 32,;                Trieste;        Italy;        ;                 Telephone: 39 (0)40 6763862;         Fax: 040 568855;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.6945
+2-Longitude: 13.7473
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1078">Please click here if you can update us</a>
+4-Special Collections: Approx. 700 herbaceous specimens, aquatic plants, Nymphaea, Nuphar, Eichornia crassipes, Pistia stratiotes, Cyperus papyrus, Amaryllis, Clivia, Agapanthus, Crinus, Ficus, Ficus macrophylla, Cephalocereus euphorbioides, Euphorbia cactus, Agave victoriae-re
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1078">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1078">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1078">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 040 568855
+9-Institution Code: TSB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 39 (0)40 6763862
+9-URL: 

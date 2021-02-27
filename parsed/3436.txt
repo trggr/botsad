@@ -1,10 +1,19 @@
-ID:	3436
-Name:	Dendrological Park of Volga-Kama State Preserve 
-Curator's Name:	
-Director's Name:	
-Info:	  Russian Federation - Tatarstan  ;Garden Information;  Institution Code: TAT; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Dendrological Park of Volga-Kama State Preserve; P. O. Raifa, poselok Sadoviy, 422537 Zelenodolskiy Region, Tatarstan Russian Federation; Tatarstan; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	55.3250
-Longitude:	50.7605
+0-ID: 3436
+1-Name: Dendrological Park of Volga-Kama State Preserve 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: TAT;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Dendrological Park of Volga-Kama State Preserve;         P. O. Raifa, poselok Sadoviy, 422537 Zelenodolskiy Region, Tatarstan Russian Federation;                Tatarstan;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.3250
+2-Longitude: 50.7605
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3436">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3436">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3436">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3436">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3436">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TAT
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

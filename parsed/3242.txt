@@ -1,23 +1,26 @@
-ID:	3242
-Name:	Calabar Botanic Garden and Conservation Centre 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Mr. Tunde Morakinyo
-Educational Staff Number:	
-Horticultural Staff Number:	4
-Info:	  Nigeria - Calabar  ;Garden Information;  Institution Code: OCV; International Agenda Registration: No; BGCI Member: No; About the Calabar Botanic Garden and Conservation Centre The Iroko Foundation (based in the UK) and Cercopan, a Nigerian NGO, have commenced a project to rehabilitate the old botanical gardens in the centre of the city of Calabar in SE Nigeria. The new garden will incorporate a nature trail, medicinal plant nursery, primate rehabilitation facilities and an environmental education centre and will educate Nigerians about the endangered African rainforests of Cross River State.; ; The botanical gardens were established by the British colonial administration in the mid-1880's to introduce economic crops into Nigeria from other parts of the tropics and to cultivate African plants for export to other parts of the empire. However, by the 1930s much of the grounds were sold off leaving the remainder to house the state government Forestry Commission offices. The Commission unsuccessfully tried to establish a zoo in the garden and the grounds have been derelict for over two decades. In spite of this, they are still visited by people who sit in the shade of its large old trees since the area is the only green space close to the university and the commercial centre of Calabar city. Many of these trees are indigenous to the rainforests of Cross River State and are endangered by the logging industry in the area.; ; In 2001, staff from the Iroko Foundation, Schoenaich Rees Landscape Architects, the Royal Botanic Gardens, Kew and Limbe Botanic Garden (in neighbouring Cameroon) facilitated a workshop with the Cross River State Forestry Commission, and local NGOs to re-design the garden. The new design entails substantial re-landscaping of the grounds and will be planted with endangered economic and medicinal plants collected from the Cross River rainforests. A nature trail will be constructed through these plantings together with facilities for the rehabilitation of orphaned captive primates that will be re-introduced to the wild. The garden will also contain a nursery to propagate and sell medicinal plants and trees from the rainforests to the public. This nursery will operate an extension service to train villages throughout the state, to establish their own tree nurseries. The design also incorporates an environmental education centre for schools, university students, and the public. ; ; Cercopan is running the gardens with the Forestry Commission on behalf of a semi-autonomous management board. The garden staff will be Nigerians who will be trained at Kew and Limbe Botanic Garden. There are plans to establish a trust fund for the gardens’ long-term up-keep.; ; The project is still in its very early stages and has raised an initial amount of funding to kick off the work. It has recruited a small number of staff to commence the re-landscaping and replanting of the garden. We are seeking extra funds particularly for the landscaping and for training the new staff of the garden at Kew. It is hoped that once the staff of the garden have been recruited, the garden will join the newly established African Botanic Garden Network. ; ; For images, see website: www.irokofoundation.org;  Main Address:; Calabar Botanic Garden and Conservation Centre; c/o Tunde Morakinyo, Iroko Foundation, 18 Academy Court, Kirkwall Place, London, E2 0NQ, United Kingdom; c/o Cercopan, 4 Ishie Lane, Housing Estate P.O Box 826, Calabar, Cross River State, Nigeria; Calabar; Nigeria; ;  Telephone: +44 208 981 2011; Fax: ; URL: <a target="_blank" href="http://www.irokofoundation.org">www.irokofoundation.org; Primary Email: irokofoundation@yahoo.com ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	10.00 Metres
-Annual Rainfall:	2 mm
-Institution Type:	Botanic Garden
-Latitude:	4.9593
-Local Address:	c/o Cercopan, 4 Ishie Lane, Housing Estate P.O Box 826, Calabar, Cross River State, Nigeria
-Locality:	Information
-Longitude:	8.3157
-Total Area:	7 Hectares
-Total area of shadehouses:	30 Metres
-Special Collections:	Trees indigenous to the Cross River rainforests.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Sustainability:	Yes
+0-ID: 3242
+1-Name: Calabar Botanic Garden and Conservation Centre 
+2-Altitude: 10.00 Metres
+2-Annual Rainfall: 2 mm
+2-Info:              Institution Code: OCV;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Calabar Botanic Garden and Conservation Centre        The Iroko Foundation (based in the UK) and Cercopan, a Nigerian NGO, have commenced a project to rehabilitate the old botanical gardens in the centre of the city of Calabar in SE Nigeria. The new garden will incorporate a nature trail, medicinal plant nursery, primate rehabilitation facilities and an environmental education centre and will educate Nigerians about the endangered African rainforests of Cross River State.;  ;  The botanical gardens were established by the British colonial administration in the mid-1880's to introduce economic crops into Nigeria from other parts of the tropics and to cultivate African plants for export to other parts of the empire. However, by the 1930s much of the grounds were sold off leaving the remainder to house the state government Forestry Commission offices. The Commission unsuccessfully tried to establish a zoo in the garden and the grounds have been derelict for over two decades. In spite of this, they are still visited by people who sit in the shade of its large old trees since the area is the only green space close to the university and the commercial centre of Calabar city. Many of these trees are indigenous to the rainforests of Cross River State and are endangered by the logging industry in the area.;  ;  In 2001, staff from the Iroko Foundation, Schoenaich Rees Landscape Architects, the Royal Botanic Gardens, Kew and Limbe Botanic Garden (in neighbouring Cameroon) facilitated a workshop with the Cross River State Forestry Commission, and local NGOs to re-design the garden. The new design entails substantial re-landscaping of the grounds and will be planted with endangered economic and medicinal plants collected from the Cross River rainforests. A nature trail will be constructed through these plantings together with facilities for the rehabilitation of orphaned captive primates that will be re-introduced to the wild. The garden will also contain a nursery to propagate and sell medicinal plants and trees from the rainforests to the public. This nursery will operate an extension service to train villages throughout the state, to establish their own tree nurseries. The design also incorporates an environmental education centre for schools, university students, and the public. ;  ;  Cercopan is running the gardens with the Forestry Commission on behalf of a semi-autonomous management board. The garden staff will be Nigerians who will be trained at Kew and Limbe Botanic Garden. There are plans to establish a trust fund for the gardens’ long-term up-keep.;  ;  The project is still in its very early stages and has raised an initial amount of funding to kick off the work. It has recruited a small number of staff to commence the re-landscaping and replanting of the garden. We are seeking extra funds particularly for the landscaping and for training the new staff of the garden at Kew. It is hoped that once the staff of the garden have been recruited, the garden will join the newly established African Botanic Garden Network. ;  ;  For images, see website: www.irokofoundation.org;                        Main Address:;         Calabar Botanic Garden and Conservation Centre;         c/o Tunde Morakinyo, Iroko Foundation, 18 Academy Court, Kirkwall Place, London, E2 0NQ, United Kingdom;        c/o Cercopan, 4 Ishie Lane, Housing Estate P.O Box 826, Calabar, Cross River State, Nigeria;        Calabar;        Nigeria;        ;                 Telephone: +44 208 981 2011;         Fax: ;         URL: www.irokofoundation.org;         Primary Email: irokofoundation@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 4.9593
+2-Local Address: c/o Cercopan, 4 Ishie Lane, Housing Estate P.O Box 826, Calabar, Cross River State, Nigeria
+2-Locality: Information
+2-Longitude: 8.3157
+2-Total Area: 7 Hectares
+2-Total area of shadehouses: 30 Metres
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3242">Please click here if you can update us</a>
+4-Special Collections: Trees indigenous to the Cross River rainforests.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+6-Sustainability: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3242">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-For images, see website: www.irokofoundation.org
+9-Institution Code: OCV
+9-International Agenda Registration: No
+9-Primary Email: irokofoundation@yahoo.com
+9-Telephone: +44 208 981 2011
+9-URL: www.irokofoundation.org

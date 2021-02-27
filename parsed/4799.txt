@@ -1,10 +1,19 @@
-ID:	4799
-Name:	Buckland Abbey 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Devon - Yelverton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Buckland Abbey An interesting herb garden, inspired by Vita Sackville-West, with a series of ilex-edged beds, filled with herbs and medicinal plants. On the north-east side of the Abbey where once stood an ancient row of yew trees, is a newly-created Elizabethan-style garden with topiary and old varieties of fruit trees. Standing on the south side of the Abbey are two magnificent large evergreen magnolias, M. grandiflora and M. delavayi, which flower right through until the first frosts. Shrubs and herbaceous borders.;  Main Address:; Buckland Abbey; Yelverton; Devon PL20 6EY United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/buckland-abbey/">www.nationaltrust.org.uk/buckland-abbey/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	50.48139796
-Longitude:	-4.13228631
+0-ID: 4799
+1-Name: Buckland Abbey 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Buckland Abbey        An interesting herb garden, inspired by Vita Sackville-West, with a series of ilex-edged beds, filled with herbs and medicinal plants. On the north-east side of the Abbey where once stood an ancient row of yew trees, is a newly-created Elizabethan-style garden with topiary and old varieties of fruit trees. Standing on the south side of the Abbey are two magnificent large evergreen magnolias, M. grandiflora and M. delavayi, which flower right through until the first frosts. Shrubs and herbaceous borders.;                        Main Address:;         Buckland Abbey;                         Yelverton;        Devon PL20 6EY United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/buckland-abbey/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 50.48139796
+2-Longitude: -4.13228631
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4799">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4799">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4799">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4799">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4799">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/buckland-abbey/

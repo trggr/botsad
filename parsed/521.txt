@@ -1,12 +1,20 @@
-ID:	521
-Name:	Fuji Bamboo Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Shizuoka-ken  ;Garden Information;  Institution Code: FUJIB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fuji Bamboo Garden; 885 Minami-Isshiki, Nagaizumi-cho, Sunto-gun, SHIZUOKA-KEN, 411, Japan.; Shizuoka-ken; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1955
-Institution Type:	Botanic Garden
-Latitude:	36.2048
-Longitude:	138.2529
-Special Collections:	450 species and varieties of Bamboo.
+0-ID: 521
+1-Name: Fuji Bamboo Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1955
+2-Info:              Institution Code: FUJIB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Fuji Bamboo Garden;         885 Minami-Isshiki,  Nagaizumi-cho,  Sunto-gun, SHIZUOKA-KEN, 411,  Japan.;                Shizuoka-ken;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.2048
+2-Longitude: 138.2529
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=521">Please click here if you can update us</a>
+4-Special Collections: 450 species and varieties of Bamboo.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=521">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=521">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=521">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FUJIB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

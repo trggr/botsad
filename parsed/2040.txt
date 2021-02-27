@@ -1,11 +1,27 @@
-ID:	2040
-Name:	Jardin d'Eden RÉUNION 
-Curator's Name:	
-Director's Name:	M. Ph. Kaufmant
-Info:	  Reunion - St Gilles Les Bains  ;Garden Information;  Institution Code: HLBAN; International Agenda Registration: Yes; BGCI Member: No; About the Jardin d'Eden RÉUNION Location: HERMITAGE LES BAINS ; Founded: 1991 ; Garden Name: Jardin d'Eden; Address: RN1 HERMITAGE LES BAINS, Reunion Island 97434; Status: Private; Herbarium: Unknown.; Ex situ Collections:; No information available.; No. of taxa: Unknown; Rare & Endange;  Main Address:; Jardin d'Eden RÉUNION; 155 Route National 1; L'Ermitage; St Gilles Les Bains; 97434 Reunion; ;  Telephone: 262 338316; Fax: 262 338316; URL: <a target="_blank" href="http://www.jardindeden.re">www.jardindeden.re; Primary Email: jardin.eden0328@orange.fr ; 
-Plant Records Officer's Name:	Pitt David
-Altitude:	0.00 Metres
-Date founded:	1991
-Institution Type:	Botanic Garden
-Latitude:	-21.1151
-Longitude:	55.5363
+0-ID: 2040
+1-Name: Jardin d'Eden RÉUNION 
+2-Altitude: 0.00 Metres
+2-Date founded: 1991
+2-Info:              Institution Code: HLBAN;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Jardin d'Eden RÉUNION        Location: HERMITAGE LES BAINS ;  Founded: 1991 ;  Garden Name: Jardin d'Eden;  Address: RN1 HERMITAGE LES BAINS, Reunion Island 97434;  Status: Private;  Herbarium: Unknown.;  Ex situ Collections:;  No information available.;  No. of taxa: Unknown;  Rare & Endange;                        Main Address:;         Jardin d'Eden RÉUNION;         155 Route National 1;        L'Ermitage;        St Gilles Les Bains;        97434 Reunion;        ;                 Telephone: 262 338316;         Fax: 262 338316;         URL: www.jardindeden.re;         Primary Email: jardin.eden0328@orange.fr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -21.1151
+2-Longitude: 55.5363
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2040">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2040">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2040">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2040">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2040">Please click here if you can update us</a>
+9-About the Jardin d'Eden RÉUNION        Location: HERMITAGE LES BAINS
+9-Address: RN1 HERMITAGE LES BAINS, Reunion Island 97434
+9-BGCI Member: No
+9-Fax: 262 338316
+9-Founded: 1991
+9-Garden Name: Jardin d'Eden
+9-Herbarium: Unknown.
+9-Institution Code: HLBAN
+9-International Agenda Registration: Yes
+9-No. of taxa: Unknown
+9-Primary Email: jardin.eden0328@orange.fr
+9-Status: Private
+9-Telephone: 262 338316
+9-URL: www.jardindeden.re

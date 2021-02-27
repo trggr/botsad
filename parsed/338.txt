@@ -1,96 +1,101 @@
-ID:	338
-Name:	Xishuangbanna Tropical Botanical Garden, CAS 
--"garden-project" style="margin-top:	1em"> Tropical Forest Restoration and Environmental Education <!-- <img src="/files/Community_projects/xish_conservation_talking_small.jpg" alt="" /> --> A challenging project to restore parts of Xishaungbanna's tropical rainforest, involving schoolchildren and volunteers to enable the local community to play an active role in conserving their rainforest for the future.
--<img width="192" height="68" style="width:	212px
--<p align="center"><img width="450" height="303" style="width:	450px
--Anticipated end date:	31st December 2014
--Started:	1st June 2012&nbsp
--The anticipated impact of the project is threefold:	
--height:	76px" src="/files/Community_projects/xish_cas.jpg" border="0" />
--"><img src="https:	//www.bgci.org/files/ERABG/project_images/Xishuangbanna-Tropical-Botanic-Gardens-ERA-Restoration_DSC7317.jpg" alt="" width="500" height="333" />
--">Native orchid nursery at XTBG. Photo credit:	Barney Wilczak
--<p style="text-align:	center
--Surveying Yin Chang limestone rainforest. Photo credit:	Barney Wilczak
-Fax:	86 691 8715070
-Info:	  China - Yunnan - Mengla  ;Garden Information;<a href="#tabs-2">Community Projects;<a href="#tabs-3">Restoration Projects;  Institution Code: HITBC; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	stp@xtbg.org.cn
-Telephone:	86 691 8715460
-XTBG has become one of the <a target="_blank" href="http:	//english.xtbg.cas.cn/ns/es/201107/t20110706_72414.html">“AAAAA” level tourist destinations in China since July 2011.
-Administration Staff Number:	45
-Curator's Name:	Dr. Shi Jipu
-Director's Name:	Dr. CHEN Jin
-Educational Staff Number:	20
-Horticultural Staff Number:	60
-Plant Records Officer's Name:	Su Yanping
-Research Staff Number:	184
-Altitude:	560.00 Metres
-Annual Rainfall:	1560 mm
-Date founded:	1959
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	21.927321
-Local Address:	勐仑镇
-Locality:	Information
-Longitude:	101.253862
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Jingdong Subtropical Botanical Garden
-Total Area:	1125 Hectares
-Total area of glasshouses:	1700 Metres
-Total area of shadehouses:	8000 Metres
-Arboretum:	Yes
-Arboretum Size:	6
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	770000
-Number of Volunteers:	30
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	44000
-Cultivation Taxa Num:	13500
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Palms, orchids, bamboo, Vines, tropical fruits, shade-plants, ornamental plants, oil plants, medicinal plants, Zingiberaceae, Araceae, Dipterocarpaceae, tropical conifers, aquatic plants, and more, altogether 38 collections.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Pharmacology:	Yes
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 338
+1-Name: Xishuangbanna Tropical Botanical Garden, CAS 
+10-">In 2015, work will continue to support education programmes at local schools, involving students in some practical work to remove invasive species and planting saplings. Additional training in restoration techniques will also be carried out for local community representatives. <p style="text-align: justify
+10-<p style="text-align: center
+10-s nurseries, over three hundred saplings of 16 native species of local provenance were planted in the sites of Manyangguang village and Menglun town. Trial plantings with native species have continued over the last year. <p style="text-align: justify
+2-Administration Staff Number: 45
+2-Curator's Name: Dr. Shi Jipu
+2-Director's Name: Dr. CHEN Jin
+2-Educational Staff Number: 20
+2-Horticultural Staff Number: 60
+2-Info:              Institution Code: HITBC;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/338/caixt.JPG" alt="Founder of XTBG, Professor Cai Xitao and his associates." />         Founder of XTBG, Professor Cai Xitao and his associates.</div>        </div>                           About the Xishuangbanna Tropical Botanical Garden, CAS        中国科学院西双版纳热带植物园;  Xishuangbanna Tropical Botanic Garden (XTBG), the Chinese Academy of Sciences (CAS) is located in Menglun Township, Mengla County of Yunnan Province.;  ;  XTBG is a comprehensive research institution engaged in biodiversity conservation and sustainable uses of plant resources, focusing on forest ecosystem ecology, conservation biology and resource plant development. Facilities available for scientific research include two national field research stations (Xishuangbanna Tropical Rainforest Ecosystem Station, and Ailaoshan Station for Forest Ecosystem Studies); laboratories for Biogeochemistry, Molecular Biology & Biotechnology, Plant Phylogenetics & Conservation Biology, Physiological Ecology; a Germplasm Bank for Rare & Endangered Plants; and a Herbarium of Tropical Plants, etc. Aside from the headquarter in Xishuangbanna, an important division has been setup in Kunming, the capital city of Yunnan Province.;  ;  Currently (as of Dec. 2016), XTBG has 345 staff members, including 184 researchers and technical personnel. There are 90 senior researchers and 110 PhD holders, 181 postgraduate students (59 of them are doctoral candidates) and postdoctoral or visiting scientists.;  ;  Over 13,500 species of plants are well preserved in its 38 living collections.;  ;  Search us within BGCI website:  >>>--GO--<<< ;  ;  More information:;  ;  XTBG has become one of the “AAAAA” level tourist destinations in China since July 2011.;  ;  Download: Annual Reports (since 2006);  ;  Download: International Agenda for Botanic Gardens in Conservation (中文版);  ;  Visit:  ... Chinese Union of Botanical Gardens (CUBG) ... ;  ;  Visit:   ... Digital XTBG / Database ... ;                        Main Address:;         Xishuangbanna Tropical Botanical Garden, CAS;         中国科学院西双版纳热带植物园;        Menglun, Mengla;        Mengla;        Yunnan 666303 China;        ;                 Telephone: 86 691 8715460;         Fax: 86 691 8715070;         URL: www.xtbg.cas.cn;         Primary Email: stp@xtbg.org.cn       ;              
+2-Plant Records Officer's Name: Su Yanping
+2-Research Staff Number: 184
+3-Altitude: 560.00 Metres
+3-Annual Rainfall: 1560 mm
+3-Date founded: 1959
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 21.927321
+3-Local Address: 勐仑镇
+3-Locality: Information
+3-Longitude: 101.253862
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Jingdong Subtropical Botanical Garden
+3-Total Area: 1125 Hectares
+3-Total area of glasshouses: 1700 Metres
+3-Total area of shadehouses: 8000 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 6
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 770000
+4-Number of Volunteers: 30
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: Yes
+5-Accession Number: 44000
+5-Cultivation Taxa Num: 13500
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Palms, orchids, bamboo, Vines, tropical fruits, shade-plants, ornamental plants, oil plants, medicinal plants, Zingiberaceae, Araceae, Dipterocarpaceae, tropical conifers, aquatic plants, and more, altogether 38 collections.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: Yes
+7-Pharmacology: Yes
+7-Plant Breeding: Yes
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-"garden-project" style="margin-top: 1em"> Tropical Forest Restoration and Environmental Education <!-- <img src="/files/Community_projects/xish_conservation_talking_small.jpg" alt="" /> --> A challenging project to restore parts of Xishaungbanna's tropical rainforest, involving schoolchildren and volunteers to enable the local community to play an active role in conserving their rainforest for the future.<ul><li><address>&nbsp
+9-<img width="192" height="68" style="width: 212px
+9-<p align="center"><img width="450" height="303" style="width: 450px
+9-Anticipated end date: 31st December 2014&nbsp
+9-BGCI Member: Yes
+9-Download: International Agenda for Botanic Gardens in Conservation (中文版)
+9-Fax: 86 691 8715070
+9-Institution Code: HITBC
+9-International Agenda Registration: Yes
+9-Primary Email: stp@xtbg.org.cn
+9-Search us within BGCI website: >>>--GO--<<<
+9-Started: 1st June 2012&nbsp
+9-Telephone: 86 691 8715460
+9-The anticipated impact of the project is threefold: 
+9-URL: www.xtbg.cas.cn
+9-Visit: ... Digital XTBG / Database ...
+9-height: 76px" src="/files/Community_projects/xish_cas.jpg" border="0" />&nbsp

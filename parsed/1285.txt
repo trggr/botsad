@@ -1,13 +1,21 @@
-ID:	1285
-Name:	Jardin Tropical de Esmeraldas 
-Curator's Name:	
-Director's Name:	Ing. For. Alfredo Ar‚valo Tello
-Info:	  Ecuador - Esmeraldas  ;Garden Information;  Institution Code: ESM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Tropical de Esmeraldas; Universidad Tecnica "Luis Vargas Torres", Facultad Ciencias Agropecuarias, Casilla:08-01-0173, ES; Esmeraldas; Ecuador; ;  Telephone: 593 6 726446; Fax: 593 6 726446; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1985
-Institution Type:	Botanic Garden
-Latitude:	0.9374
-Longitude:	-79.6670
-Special Collections:	Pachyrhizus erosus (5 species). Native plants of the Esmeraldas region.
-Reintroduction Programme:	Yes
+0-ID: 1285
+1-Name: Jardin Tropical de Esmeraldas 
+2-Altitude: 0.00 Metres
+2-Date founded: 1985
+2-Info:              Institution Code: ESM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Tropical de Esmeraldas;         Universidad Tecnica "Luis Vargas Torres",  Facultad Ciencias Agropecuarias,  Casilla:08-01-0173,  ES;                Esmeraldas;        Ecuador;        ;                 Telephone: 593 6 726446;         Fax: 593 6 726446;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 0.9374
+2-Longitude: -79.6670
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1285">Please click here if you can update us</a>
+4-Special Collections: Pachyrhizus erosus (5 species). Native plants of the Esmeraldas region.
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1285">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1285">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 593 6 726446
+9-Institution Code: ESM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 593 6 726446
+9-URL: 
+9-Universidad Tecnica "Luis Vargas Torres",  Facultad Ciencias Agropecuarias,  Casilla: 08-01-0173,  ES

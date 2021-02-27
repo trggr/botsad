@@ -1,10 +1,18 @@
-ID:	1143
-Name:	Children's Botanical Garden 
-Curator's Name:	
-Director's Name:	Director
-Info:	  Ukraine - Zaporozhye  ;Garden Information;  Institution Code: CHILD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Children's Botanical Garden; Czarivnaja 11, 330068 ZAPOROZHYE, Ukraine.; Zaporozhye; Ukraine; ;  Telephone: (0612) 65-32-52; Fax: (0612) 65-32-52; URL: <a target="_blank" href="http://botsad.zp.ua/">http://botsad.zp.ua/; Primary Email: zmdbs@mail.ru ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	47.83709
-Longitude:	35.19591
+0-ID: 1143
+1-Name: Children's Botanical Garden 
+2-Date founded: 
+2-Info:              Institution Code: CHILD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Children's Botanical Garden;         Czarivnaja 11, 330068 ZAPOROZHYE, Ukraine.;                Zaporozhye;        Ukraine;        ;                 Telephone: (0612) 65-32-52;         Fax: (0612) 65-32-52;         URL: http://botsad.zp.ua/;         Primary Email: zmdbs@mail.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.83709
+2-Longitude: 35.19591
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1143">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1143">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1143">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1143">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1143">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (0612) 65-32-52
+9-Institution Code: CHILD
+9-International Agenda Registration: No
+9-Primary Email: zmdbs@mail.ru
+9-Telephone: (0612) 65-32-52

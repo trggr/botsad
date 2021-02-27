@@ -1,10 +1,19 @@
-ID:	4808
-Name:	Cragside 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Aberdeenshire - Morpeth  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Cragside Cragside has one of Britain's finest high-Victorian gardens that is open to visitors. The rock garden is amongst the largest in Europe and is probably the last surviving example of its type. A fine collection of conifers, mainly from North America, is to be found in the Pinetum, below Cragside House, and across the valley lie the three terraces of the formal garden. On the middle terrace is the orchard house, the only remaining glasshouse in the gardens, which was built for the culture of early fruit. Nearby are the stone-framed carpet beds, planted for the summer season and on the terrace just below is the Dahlia walk. Restoration is still in progress on the bottom, or Italian, terrace, which contains a wonderful loggia and an imposing quatrefoil pool. Finally, the valley garden itself is yet to be developed, but provides a wonderful setting for a gentle stroll.;  Main Address:; Cragside; Rothbury; Morpeth; Aberdeenshire NE65 7PX United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/cragside/">www.nationaltrust.org.uk/cragside/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	55.31370636
-Longitude:	-1.885544658
+0-ID: 4808
+1-Name: Cragside 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Cragside        Cragside has one of Britain's finest high-Victorian gardens that is open to visitors. The rock garden is amongst the largest in Europe and is probably the last surviving example of its type. A fine collection of conifers, mainly from North America, is to be found in the Pinetum, below Cragside House, and across the valley lie the three terraces of the formal garden. On the middle terrace is the orchard house, the only remaining glasshouse in the gardens, which was built for the culture of early fruit. Nearby are the stone-framed carpet beds, planted for the summer season and on the terrace just below is the Dahlia walk. Restoration is still in progress on the bottom, or Italian, terrace, which contains a wonderful loggia and an imposing quatrefoil pool. Finally, the valley garden itself is yet to be developed, but provides a wonderful setting for a gentle stroll.;                        Main Address:;         Cragside;         Rothbury;                Morpeth;        Aberdeenshire NE65 7PX United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/cragside/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 55.31370636
+2-Longitude: -1.885544658
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4808">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4808">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4808">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4808">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4808">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/cragside/

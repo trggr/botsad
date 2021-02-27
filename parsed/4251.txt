@@ -1,41 +1,43 @@
-ID:	4251
-Name:	Fellows Riverside Gardens 
-Administration Staff Number:	6
-Curator's Name:	
-Director's Name:	Keith Kaiser, Horticulture Director
-Educational Staff Number:	2
-Horticultural Staff Number:	11
-Info:	  United States of America - Ohio - Youngstown  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Fellows Riverside Gardens Fellows Riverside Gardens is a free public garden located at the northern end of Mill Creek Park. This twelve-acre display garden features a landscape of remarkable beauty with diverse and colorful plant displays, roses of all classes, seasonal displays of annuals, perennials, and flowering bulbs, and scenic vistas. The magnificent D.D. and Velma Davis Education & Visitor Center makes the Gardens a destination for all seasons. Fellows Riverside Gardens is one of Ohio's finest public gardens and attracts over 400,000 visitors a year.;  Main Address:; Fellows Riverside Gardens; Mill Creek MetroParks; 123 McKinley Avenue; Youngstown; Ohio 44509 United States of America; ;  Telephone: (330) 740-7116; Fax: (330) 740-7128; URL: <a target="_blank" href="http://www.millcreekmetroparks.org">www.millcreekmetroparks.org; Primary Email: FellowsRiversideGardens@MillCreekMetroParks.org ; 
-Plant Records Officer's Name:	Ellen Speicher, Assistant Horticulture Director
-Research Staff Number:	
-Altitude:	281.00 Metres
-Annual Rainfall:	965 mm
-Date founded:	1958
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	41.0996810
-Local Address:	123 McKinley Ave Youngstown, OH 44509
-Locality:	Information
-Longitude:	-80.6764520
-Natural Vegetation Area:	Yes
-Total Area:	5 Hectares
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Number of Visitors:	400000
-Number of Volunteers:	200
-Open to public:	Yes
-Accession Number:	2462
-Cultivation Taxa Num:	1992
-Invasive Species Monitoring:	Yes
-Special Collections:	Rhododendron, Narcissus, Fagus, Rosa
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4251
+1-Name: Fellows Riverside Gardens 
+2-Altitude: 281.00 Metres
+2-Annual Rainfall: 965 mm
+2-Date founded: 1958
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Fellows Riverside Gardens        Fellows Riverside Gardens is a free public garden located at the northern end of Mill Creek Park. This twelve-acre display garden features a landscape of remarkable beauty with diverse and colorful plant displays, roses of all classes, seasonal displays of annuals, perennials, and flowering bulbs, and scenic vistas. The magnificent D.D. and Velma Davis Education & Visitor Center makes the Gardens a destination for all seasons. Fellows Riverside Gardens is one of Ohio's finest public gardens and attracts over 400,000 visitors a year.;                        Main Address:;         Fellows Riverside Gardens;         Mill Creek MetroParks;        123 McKinley Avenue;        Youngstown;        Ohio 44509 United States of America;        ;                 Telephone: (330) 740-7116;         Fax: (330) 740-7128;         URL: www.millcreekmetroparks.org;         Primary Email: FellowsRiversideGardens@MillCreekMetroParks.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 41.0996810
+2-Local Address: 123 McKinley Ave Youngstown, OH 44509
+2-Locality: Information
+2-Longitude: -80.6764520
+2-Natural Vegetation Area: Yes
+2-Total Area: 5 Hectares
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Number of Visitors: 400000
+3-Number of Volunteers: 200
+3-Open to public: Yes
+4-Accession Number: 2462
+4-Cultivation Taxa Num: 1992
+4-Invasive Species Monitoring: Yes
+4-Special Collections: Rhododendron, Narcissus, Fagus, Rosa
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4251">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4251">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (330) 740-7128
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: FellowsRiversideGardens@MillCreekMetroParks.org
+9-Telephone: (330) 740-7116
+9-URL: www.millcreekmetroparks.org

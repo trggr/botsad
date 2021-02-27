@@ -1,11 +1,19 @@
-ID:	146
-Name:	All Russian N.I. Vavilov Research Institute Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Russian Federation - St Petersburg  ;Garden Information;  Institution Code: LEVAV; International Agenda Registration: No; BGCI Member: No;  Main Address:; All Russian N.I. Vavilov Research Institute Botanic Garden; B. Morskaya St., 42, 190000 ST.PETERSBURG, Russian Federation; St Petersburg; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	59.9390
-Longitude:	30.3157
-Special Collections:	No information available.
+0-ID: 146
+1-Name: All Russian N.I. Vavilov Research Institute Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: LEVAV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         All Russian N.I. Vavilov Research Institute Botanic Garden;         B. Morskaya St., 42, 190000 ST.PETERSBURG,  Russian Federation;                St Petersburg;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 59.9390
+2-Longitude: 30.3157
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=146">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=146">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=146">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=146">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: LEVAV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,75 +1,75 @@
-ID:	4212
-Name:	Guldborgsund Zoo & Botanical Garden 
-Administration Staff Number:	2
-Curator's Name:	John Steno
-Director's Name:	Steen Frederiksen
-Educational Staff Number:	1
-Horticultural Staff Number:	3
-Info:	  Denmark - Nykoebing  ;Garden Information;  Institution Code: NYKOE; International Agenda Registration: No; BGCI Member: Yes; About the Guldborgsund Zoo & Botanical Garden Guldborgsund Zoo is an zoological garden in wich we're planning a botanical garden. We're still in the primary stage of this development. We're in the process of making a masterplan, but we also have made the first steps into making visible changes in the garden, that a botanical garden is about to emerge in the near future.;  Main Address:; Guldborgsund Zoo & Botanical Garden; Ostre Alle 97; Nykoebing; 4800 Denmark; ;  Telephone: +45 5485 2076; Fax: +45 5485 2026; URL: <a target="_blank" href="http://www.guldborgsundzoo.dk">www.guldborgsundzoo.dk; Primary Email: info@guldborgsundzoo.dk ; 
-Plant Records Officer's Name:	John Steno
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Annual Rainfall:	584 mm
-Date founded:	1933
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	56.7916
-Local Address:	
-Locality:	Information
-Longitude:	8.8679
-Natural Vegetation Area:	No
-Total Area:	7 Hectares
-Total area of glasshouses:	450 Metres
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	70000
-Number of Volunteers:	1
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	1100
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 4212
+1-Name: Guldborgsund Zoo & Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 584 mm
+2-Date founded: 1933
+2-Info:              Institution Code: NYKOE;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Guldborgsund Zoo & Botanical Garden        Guldborgsund Zoo is an zoological garden in wich we're planning a botanical garden. We're still in the primary stage of this development. We're in the process of making a masterplan, but we also have made the first steps into making visible changes in the garden, that a botanical garden is about to emerge in the near future.;                        Main Address:;         Guldborgsund Zoo & Botanical Garden;         Ostre Alle 97;                Nykoebing;        4800 Denmark;        ;                 Telephone: +45 5485 2076;         Fax: +45 5485 2026;         URL: www.guldborgsundzoo.dk;         Primary Email: info@guldborgsundzoo.dk       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 56.7916
+2-Local Address: 
+2-Locality: Information
+2-Longitude: 8.8679
+2-Natural Vegetation Area: No
+2-Total Area: 7 Hectares
+2-Total area of glasshouses: 450 Metres
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 70000
+3-Number of Volunteers: 1
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: No
+4-Accession Number: 1100
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: No
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: Yes
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: No
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: +45 5485 2026
+9-Institution Code: NYKOE
+9-International Agenda Registration: No
+9-Primary Email: info@guldborgsundzoo.dk
+9-Telephone: +45 5485 2076
+9-URL: www.guldborgsundzoo.dk

@@ -1,42 +1,45 @@
-ID:	1236
-Name:	Dow Gardens 
-Administration Staff Number:	
-Curator's Name:	Karin Johnson
-Director's Name:	Elizabeth Lumbert, Managing Director
-Educational Staff Number:	
-Horticultural Staff Number:	7
-Info:	  United States of America - Michigan - Midland  ;Garden Information;  Institution Code: DOWM; International Agenda Registration: No; BGCI Member: No; About the Dow Gardens Mission Statement: ; ; The Dow Gardens exist to preserve the history, enhance the horticultural beauty and share the educational and leisure time opportunities of the Herbert H. and Grace A. Dow estate. ​;  Main Address:; Dow Gardens; 1018 West Main Street; Midland; Michigan 48640 United States of America; ;  Telephone: (989) 631-2677; Fax: (989) 631-0675; URL: <a target="_blank" href="http://www.dowgardens.org">www.dowgardens.org; Primary Email: johnson@dowgardens.org ; 
-Plant Records Officer's Name:	Karin Johnson
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1899
-Institution Type:	Botanic Garden
-Latitude:	43.6208650
-Longitude:	-84.2543580
-Satellite Garden Names:	Whiting Forest of the Dow Gardens, 2303 Eastman Ave, Midland, MI 48640
-Total Area:	45 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	6400
-Cultivation Taxa Num:	2100
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1236
+1-Name: Dow Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1899
+2-Info:              Institution Code: DOWM;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Dow Gardens        Mission Statement: ;  ;  The Dow Gardens exist to preserve the history, enhance the horticultural beauty and share the educational and leisure time opportunities of the Herbert H. and Grace A. Dow estate. ​;                        Main Address:;         Dow Gardens;         1018 West Main Street;                Midland;        Michigan 48640 United States of America;        ;                 Telephone: (989) 631-2677;         Fax: (989) 631-0675;         URL: www.dowgardens.org;         Primary Email: johnson@dowgardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.6208650
+2-Longitude: -84.2543580
+2-Satellite Garden Names: Whiting Forest of the Dow Gardens, 2303 Eastman Ave, Midland, MI 48640
+2-Total Area: 45 Hectares
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: No
+4-ABS Policy: Yes
+4-Accession Number: 6400
+4-Cultivation Taxa Num: 2100
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1236">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1236">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-About the Dow Gardens        Mission Statement: 
+9-BGCI Member: No
+9-Fax: (989) 631-0675
+9-Institution Code: DOWM
+9-International Agenda Registration: No
+9-Primary Email: johnson@dowgardens.org
+9-Telephone: (989) 631-2677
+9-URL: www.dowgardens.org

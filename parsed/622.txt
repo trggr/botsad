@@ -1,11 +1,19 @@
-ID:	622
-Name:	South London Botanical Institute 
-Curator's Name:	
-Director's Name:	F.H. Brightman (President)
-Info:	  United Kingdom - London  ;Garden Information;  Institution Code: SLBI; International Agenda Registration: No; BGCI Member: No;  Main Address:; South London Botanical Institute; 323 Norwood Road, LONDON SE24 9AQ U.K.; London; United Kingdom; ;  Telephone: 081 674 5787; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1910
-Institution Type:	Botanic Garden
-Latitude:	51.443473
-Longitude:	-0.104907
-Special Collections:	Polygonaceae, Rubus
+0-ID: 622
+1-Name: South London Botanical Institute 
+2-Date founded: 1910
+2-Info:              Institution Code: SLBI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         South London Botanical Institute;         323 Norwood Road,  LONDON SE24 9AQ U.K.;                London;        United Kingdom;        ;                 Telephone: 081 674 5787;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.443473
+2-Longitude: -0.104907
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=622">Please click here if you can update us</a>
+4-Special Collections: Polygonaceae, Rubus
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=622">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=622">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=622">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SLBI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 081 674 5787
+9-URL: 

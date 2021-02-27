@@ -1,9 +1,18 @@
-ID:	5290
-Name:	Woodlands Garden 
-Curator's Name:	
-Director's Name:	Kate Baltzell
-Info:	  United States of America - Georgia - Decatur  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Woodlands Garden; 932 Scott Blvd; Decatur; Georgia 30030 United States of America; ;  Telephone: +1 (404) 373 2222; Fax: ; URL: <a target="_blank" href="http://www.woodlandsgarden.org">www.woodlandsgarden.org; Primary Email: info@woodlandsgarden.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	33.785950
-Longitude:	-84.303753
+0-ID: 5290
+1-Name: Woodlands Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Woodlands Garden;         932 Scott Blvd;                Decatur;        Georgia 30030 United States of America;        ;                 Telephone: +1 (404) 373 2222;         Fax: ;         URL: www.woodlandsgarden.org;         Primary Email: info@woodlandsgarden.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 33.785950
+2-Longitude: -84.303753
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5290">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5290">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5290">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5290">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5290">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@woodlandsgarden.org
+9-Telephone: +1 (404) 373 2222
+9-URL: www.woodlandsgarden.org

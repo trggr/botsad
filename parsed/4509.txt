@@ -1,10 +1,19 @@
-ID:	4509
-Name:	Laboratorio Microcosmos Bioedáfico del Departamento de Edafología Instituto de Geología, UNAM 
-Curator's Name:	
-Director's Name:	Maria Pilar Ortega
-Info:	  Mexico - Distrito Federal - Mexico City  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Laboratorio Microcosmos Bioedáfico del Departamento de Edafología Instituto de Geología, UNAM; Circuito Exterior s/n, Ciudad Universitaria; Mexico City; Distrito Federal 04510 Mexico; ;  Telephone: 52 (55 56 22 42 86) ext. 141; Fax: 52 (55 56 22 43 17); URL: <a target="_blank" href="http://www.geologia.unam.mx/igl/index.php?option=com_content&view=category&layout=blog&id=79&Itemid=65">www.geologia.unam.mx/igl/index.php?option=com_content&view=category&layout=blog&id=79&Itemid=65; Primary Email: mpol@geologia.unam.mx ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	19.3253
-Longitude:	-99.6045
+0-ID: 4509
+1-Name: Laboratorio Microcosmos Bioedáfico del Departamento de Edafología Instituto de Geología, UNAM 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Laboratorio Microcosmos Bioedáfico del Departamento de Edafología Instituto de Geología, UNAM;         Circuito Exterior s/n, Ciudad Universitaria;                Mexico City;        Distrito Federal 04510 Mexico;        ;                 Telephone: 52 (55 56 22 42 86) ext. 141;         Fax: 52 (55 56 22 43 17);         URL: www.geologia.unam.mx/igl/index.php?option=com_content&view=category&layout=blog&id=79&Itemid=65;         Primary Email: mpol@geologia.unam.mx       ;              
+2-Institution Type: Other
+2-Latitude: 19.3253
+2-Longitude: -99.6045
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4509">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4509">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4509">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4509">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4509">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 52 (55 56 22 43 17)
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: mpol@geologia.unam.mx
+9-Telephone: 52 (55 56 22 42 86) ext. 141
+9-URL: www.geologia.unam.mx/igl/index.php?option=com_content&view=category&layout=blog&id=79&Itemid=65

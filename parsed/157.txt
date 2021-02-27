@@ -1,50 +1,53 @@
-ID:	157
-Name:	Jardin Botanique de la Ville de Lyon 
-Administration Staff Number:	3
-Curator's Name:	David Scherberich
-Director's Name:	Gilles Deparis
-Educational Staff Number:	6
-Horticultural Staff Number:	25
-Info:	  France - Lyon Cedex 01  ;Garden Information;  Institution Code: LYJB; International Agenda Registration: Yes; BGCI Member: Yes; About the Jardin Botanique de la Ville de Lyon Free entrance.; ; Outside collections:; October-March: 9.00am-5.00pm; April-September: 9.00am-6.00pm; ; Alpine Garden:; March to October: 9.00am-11.30am; ; Greenhouses: ; October-March: 9.00am-4.30pm; April-September: 9.00am-5.30pm;  Main Address:; Jardin Botanique de la Ville de Lyon; Mairie de Lyon; Lyon Cedex 01; 69205 France; ;  Telephone: +33 (0)4 78 89 16 02; Fax: +33 (0)4 72 82 35 09; URL: <a target="_blank" href="http://www.jardin-botanique-lyon.com/">http://www.jardin-botanique-lyon.com/; Primary Email: gilles.deparis@mairie-lyon.fr ; 
-Plant Records Officer's Name:	David Scherberich
-Research Staff Number:	5
-Altitude:	170.00 Metres
-Annual Rainfall:	845 mm
-Date founded:	1857
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	45.7666
-Longitude:	4.8500
-Total Area:	8 Hectares
-Total area of glasshouses:	6500 Metres
-Arboretum:	Yes
-Arboretum Size:	4
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Volunteers:	2
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	16368
-Cultivation Taxa Num:	12917
-Otherwise 289 families represented:	Cactaceae and succulents (2889 taxa), Commelinaceae (168 taxa), Bamboo (79 taxa), Orchidaceae (1618 taxa), Rosa (498 taxa), Carnivorous plants (151 taxa), Alpine Garden (1739 taxa), Arboretum (474 taxa), Shrubs (629 taxa).
-Plant Collection Policy:	Yes
-Special Collections:	National Plant Collections
-Ex Situ Conservation Programme:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Education:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Seed/Spore Biology:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	Yes
+0-ID: 157
+1-Name: Jardin Botanique de la Ville de Lyon 
+2-Altitude: 170.00 Metres
+2-Annual Rainfall: 845 mm
+2-Date founded: 1857
+2-Info:              Institution Code: LYJB;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Jardin Botanique de la Ville de Lyon        Free entrance.;  ;  Outside collections:;  October-March: 9.00am-5.00pm;  April-September: 9.00am-6.00pm;    ;  Alpine Garden:;  March to October: 9.00am-11.30am;    ;  Greenhouses: ;  October-March: 9.00am-4.30pm;  April-September: 9.00am-5.30pm;                        Main Address:;         Jardin Botanique de la Ville de Lyon;         Mairie de Lyon;                Lyon Cedex 01;        69205 France;        ;                 Telephone: +33 (0)4 78 89 16 02;         Fax: +33 (0)4 72 82 35 09;         URL: http://www.jardin-botanique-lyon.com/;         Primary Email: gilles.deparis@mairie-lyon.fr       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 45.7666
+2-Longitude: 4.8500
+2-Total Area: 8 Hectares
+2-Total area of glasshouses: 6500 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 4
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Volunteers: 2
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 16368
+4-Cultivation Taxa Num: 12917
+4-Otherwise 289 families represented: Cactaceae and succulents (2889 taxa), Commelinaceae (168 taxa), Bamboo (79 taxa), Orchidaceae (1618 taxa), Rosa (498 taxa), Carnivorous plants (151 taxa), Alpine Garden (1739 taxa), Arboretum (474 taxa), Shrubs (629 taxa).
+4-Plant Collection Policy: Yes
+4-Special Collections: National Plant Collections
+5-Ex Situ Conservation Programme: Yes
+6-Conservation - Biology: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Education: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Seed/Spore Biology: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Special Exhibitions: Yes
+9-April-September: 9.00am-5.30pm
+9-BGCI Member: Yes
+9-Fax: +33 (0)4 72 82 35 09
+9-Greenhouses: 
+9-Institution Code: LYJB
+9-International Agenda Registration: Yes
+9-March to October: 9.00am-11.30am
+9-October-March: 9.00am-4.30pm
+9-Primary Email: gilles.deparis@mairie-lyon.fr
+9-Telephone: +33 (0)4 78 89 16 02

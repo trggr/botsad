@@ -1,10 +1,19 @@
-ID:	2504
-Name:	Tregothnan Estate 
-Curator's Name:	
-Director's Name:	Jonathon Jones
-Info:	  United Kingdom - Cornwall - Truro  ;Garden Information;  Institution Code: TREG; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Tregothnan Estate; Estate Office; Truro; Cornwall TR2 4AN United Kingdom; ;  Telephone: +44 (0)1872 520000; Fax: +44 (0)1872 520291; URL: <a target="_blank" href="http://www.tregothnan.co.uk">www.tregothnan.co.uk; Primary Email: enquiries@tregothnan.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	50.240321
-Longitude:	-5.005064
+0-ID: 2504
+1-Name: Tregothnan Estate 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: TREG;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Tregothnan Estate;         Estate  Office;                Truro;        Cornwall TR2 4AN United Kingdom;        ;                 Telephone: +44 (0)1872 520000;         Fax: +44 (0)1872 520291;         URL: www.tregothnan.co.uk;         Primary Email: enquiries@tregothnan.com       ;              
+2-Institution Type: Other
+2-Latitude: 50.240321
+2-Longitude: -5.005064
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2504">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2504">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2504">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2504">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2504">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +44 (0)1872 520291
+9-Institution Code: TREG
+9-International Agenda Registration: No
+9-Primary Email: enquiries@tregothnan.com
+9-Telephone: +44 (0)1872 520000
+9-URL: www.tregothnan.co.uk

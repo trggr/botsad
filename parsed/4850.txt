@@ -1,12 +1,20 @@
-ID:	4850
-Name:	Trelissick Garden 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Cornwall - Truro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Trelissick Garden Beautifully situated at the head of the Fal Estuary above the King Harry Ferry, the estate commands panoramic views over the area and has extensive park and woodland walks beside the River Fal. At the heart is the tranquil garden, set on many levels and containing a superb collection of tender and exotic plants which give colour throughout the year. The display of spring-flowering plants and shrubs is particularly spectacular. Drifts of daffodils and narcissus in spring are followed by wild flowers in summer. Features include a wildlife pond, several thatched summer-houses and a traditional Cornish apple orchard containing many original varieties, some nearly extinct. The house is not open but there is an art and craft gallery, and a fine Georgian stable block. There is also a Celtic Cross and a sensory garden for visually-impaired visitors. Holds the National Collections of Photinia and Azara.;  Main Address:; Trelissick Garden; Feock; Truro; Cornwall TR3 6QL United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/trelissick-garden/">www.nationaltrust.org.uk/trelissick-garden/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	50.217176
-Longitude:	-5.033759
-Total Area:	12 Hectares
-Number of Visitors:	100000
+0-ID: 4850
+1-Name: Trelissick Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Trelissick Garden        Beautifully situated at the head of the Fal Estuary above the King Harry Ferry, the estate commands panoramic views over the area and has extensive park and woodland walks beside the River Fal. At the heart is the tranquil garden, set on many levels and containing a superb collection of tender and exotic plants which give colour throughout the year. The display of spring-flowering plants and shrubs is particularly spectacular. Drifts of daffodils and narcissus in spring are followed by wild flowers in summer. Features include a wildlife pond, several thatched summer-houses and a traditional Cornish apple orchard containing many original varieties, some nearly extinct. The house is not open but there is an art and craft gallery, and a fine Georgian stable block. There is also a Celtic Cross and a sensory garden for visually-impaired visitors. Holds the National Collections of Photinia and Azara.;                        Main Address:;         Trelissick Garden;         Feock;                Truro;        Cornwall TR3 6QL United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/trelissick-garden/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 50.217176
+2-Longitude: -5.033759
+2-Total Area: 12 Hectares
+3-Number of Visitors: 100000
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4850">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4850">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4850">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4850">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/trelissick-garden/

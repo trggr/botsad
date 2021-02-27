@@ -1,11 +1,19 @@
-ID:	2341
-Name:	University Botanic Garden 
-Curator's Name:	
-Director's Name:	Mr Moretloa Polaki
-Info:	  Lesotho - Roma  ;Garden Information;  Institution Code: NUL; International Agenda Registration: No; BGCI Member: No;  Main Address:; University Botanic Garden; c/o Biology Department, National University of Lesotho, PO Roma 180, Lesotho; Roma; Lesotho; ;  Telephone: 266 340601; Fax: 266 340000; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-29.4288
-Longitude:	27.6996
-Special Collections:	Ferns, palms, shade-loving plants on banks of a small stream
+0-ID: 2341
+1-Name: University Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: NUL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University Botanic Garden;         c/o Biology Department, National University of Lesotho, PO Roma 180, Lesotho;                Roma;        Lesotho;        ;                 Telephone: 266 340601;         Fax: 266 340000;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -29.4288
+2-Longitude: 27.6996
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2341">Please click here if you can update us</a>
+4-Special Collections: Ferns, palms, shade-loving plants on banks of a small stream
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2341">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2341">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2341">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 266 340000
+9-Institution Code: NUL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 266 340601
+9-URL: 

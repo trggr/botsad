@@ -1,18 +1,23 @@
-ID:	3066
-Name:	Seac Pai Van Park, Macao 
-Curator's Name:	Ms. Chen Yu Fen, Fanny
-Director's Name:	Mr. Pun Wing Wah
-Info:	  China - Macau - Coloane  ;Garden Information;  Institution Code: TAIPA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Seac Pai Van Park, Macao; Serviços de Zonas Verdes e Jardins, Instituto para os Assuntos Cívicos e Municipais,; Parque de Seac Pai Van,; Coloane; Macau China; ;  Telephone: +853-870277; Fax: +853-882247; URL: <a target="_blank" href="http://nature.iacm.gov.mo">http://nature.iacm.gov.mo; Primary Email: decn@iacm.gov.mo ; 
-Plant Records Officer's Name:	Ms. Hong Pou Ieng
-Altitude:	0.00 Metres
-Date founded:	1985
-Institution Type:	Other
-Latitude:	22.1913
-Local Address:	澳門路環石排灣郊野公園 民政總署園林綠化部
-Locality:	Information
-Longitude:	113.5515
-Special Collections:	Medicinal Plant Garden - 137 species
-Education:	Yes
-Education Booklets/Leaflets:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
+0-ID: 3066
+1-Name: Seac Pai Van Park, Macao 
+2-Altitude: 0.00 Metres
+2-Date founded: 1985
+2-Info:              Institution Code: TAIPA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Seac Pai Van Park, Macao;         Serviços de Zonas Verdes e Jardins, Instituto para os Assuntos Cívicos e Municipais,;        Parque de Seac Pai Van,;        Coloane;        Macau China;        ;                 Telephone: +853-870277;         Fax: +853-882247;         URL: http://nature.iacm.gov.mo;         Primary Email: decn@iacm.gov.mo       ;              
+2-Institution Type: Other
+2-Latitude: 22.1913
+2-Local Address: 澳門路環石排灣郊野公園 民政總署園林綠化部
+2-Locality: Information
+2-Longitude: 113.5515
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3066">Please click here if you can update us</a>
+4-Special Collections: Medicinal Plant Garden - 137 species
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3066">Please click here if you can update us</a>
+6-Education: Yes
+7-Education Booklets/Leaflets: Yes
+7-Guided Tours: Yes
+7-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: +853-882247
+9-Institution Code: TAIPA
+9-International Agenda Registration: No
+9-Primary Email: decn@iacm.gov.mo
+9-Telephone: +853-870277

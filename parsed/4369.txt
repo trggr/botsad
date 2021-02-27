@@ -1,42 +1,47 @@
-ID:	4369
-Name:	Hippocrates Botanical Garden of Kos 
-Fax:	+30 210 2843580
-Info:	  Greece - Athens - Kos  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
-Our long-term commitment is not only focused at researching, studying, promoting and disseminating Hippocrates’s work, but it largely involves a higher cause:	the creation of a cultural focal point and the establishment of a modern Noah’s arc and an international renowned research centre of Hippocratic plants. In order to secure the viability and sustainability of our work we were led to the foundation of the non-profit organisation “Hippocrates 2500 years”, which will ensure the success, development and evolution of the Hippocrates Garden. Ultimately we envision to handover a social, environmental and cultural heritage that we have only temporarily borrowed from the future generations of the world.
-Primary Email:	kamilakis-i@apivita.gr
-Telephone:	+30 210 2854415
-Administration Staff Number:	11
-Curator's Name:	Eirini Valianatou
-Director's Name:	Ioannis Kamilakis
-Educational Staff Number:	3
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	Elpida Fanouriou
-Research Staff Number:	4
-Altitude:	0.00 Metres
-Date founded:	2007
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	36.87439
-Local Address:	ΠΛΑΤΑΝΙ, ΚΩΣ
-Locality:	Information
-Longitude:	27.26673
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Hippocrate BOtanical Garden of Markopoulo
-Total Area:	200 Hectares
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	254
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 4369
+1-Name: Hippocrates Botanical Garden of Kos 
+2-Administration Staff Number: 11
+2-Curator's Name: Eirini Valianatou
+2-Director's Name: Ioannis Kamilakis
+2-Educational Staff Number: 3
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/4369/λογοτυπο facebook eng.png" alt="" />         </div>        </div>                           About the Hippocrates Botanical Garden of Kos        As tribute to the “father of Medicine”, we have made an ongoing commitment to reviving “Hippocrates Botanical Garden Kos”, in a 5 acre land on the island of Kos near Asklepieion archaeological area, by planting the 254 herbs that Hippocrates cited in his books and used in the treatment of his patients.;  Our long-term commitment is not only focused at researching, studying, promoting and disseminating Hippocrates’s work, but it largely involves a higher cause: the creation of a cultural focal point and the establishment of a modern Noah’s arc and an international renowned research centre of Hippocratic plants. In order to secure the viability and sustainability of our work we were led to the foundation of the non-profit organisation “Hippocrates 2500 years”, which will ensure the success, development and evolution of the Hippocrates Garden. Ultimately we envision to handover a social, environmental and cultural heritage that we have only temporarily borrowed from the future generations of the world.;                        Main Address:;         Hippocrates Botanical Garden of Kos;         Industrial Park of Markopoulo Mesogaias;                Kos;        Athens 19003 Greece;        ;                 Telephone: +30 210 2854415;         Fax: +30 210 2843580;         URL: https://www.hbgk.gr;         Primary Email: kamilakis-i@apivita.gr       ;              
+2-Plant Records Officer's Name: Elpida Fanouriou
+2-Research Staff Number: 4
+3-Altitude: 0.00 Metres
+3-Date founded: 2007
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 36.87439
+3-Local Address: ΠΛΑΤΑΝΙ, ΚΩΣ
+3-Locality: Information
+3-Longitude: 27.26673
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Hippocrate BOtanical Garden of Markopoulo
+3-Total Area: 200 Hectares
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Accession Number: 254
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4369">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4369">Please click here if you can update us</a>
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+9-BGCI Member: Yes
+9-Fax: +30 210 2843580
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Our long-term commitment is not only focused at researching, studying, promoting and disseminating Hippocrates’s work, but it largely involves a higher cause: the creation of a cultural focal point and the establishment of a modern Noah’s arc and an international renowned research centre of Hippocratic plants. In order to secure the viability and sustainability of our work we were led to the foundation of the non-profit organisation “Hippocrates 2500 years”, which will ensure the success, development and evolution of the Hippocrates Garden. Ultimately we envision to handover a social, environmental and cultural heritage that we have only temporarily borrowed from the future generations of the world.
+9-Primary Email: kamilakis-i@apivita.gr
+9-Telephone: +30 210 2854415

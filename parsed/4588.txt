@@ -1,9 +1,18 @@
-ID:	4588
-Name:	Basalt Public Gardens and Community Forestry 
-Curator's Name:	Lisa DiNardo, Horticulturist/Certified Arborist
-Director's Name:	Lisa DiNardo, Horticulturist/Certified Arborist
-Info:	  United States of America - Colorado - Basalt  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Basalt Public Gardens and Community Forestry; 200 Fiou Lane; Basalt; Colorado 81621 United States of America; ;  Telephone: (970) 618-0034; Fax: ; URL: <a target="_blank" href="http://www.basalt.net/basaltgardens.htm">www.basalt.net/basaltgardens.htm; Primary Email: basaltgardens@basalt.net ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	39.3624451
-Longitude:	-107.0374619
+0-ID: 4588
+1-Name: Basalt Public Gardens and Community Forestry 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Basalt Public Gardens and Community Forestry;         200 Fiou Lane;                Basalt;        Colorado 81621 United States of America;        ;                 Telephone: (970) 618-0034;         Fax: ;         URL: www.basalt.net/basaltgardens.htm;         Primary Email: basaltgardens@basalt.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.3624451
+2-Longitude: -107.0374619
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4588">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4588">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4588">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4588">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4588">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: basaltgardens@basalt.net
+9-Telephone: (970) 618-0034
+9-URL: www.basalt.net/basaltgardens.htm

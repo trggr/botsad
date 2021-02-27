@@ -1,11 +1,19 @@
-ID:	2182
-Name:	Walai Rukhavej Botanical Research Institute 
-Curator's Name:	Dr Wissanu Kobsiriphat
-Director's Name:	Dr Usa Klinhom
-Info:	  Thailand - Mahasarakham  ;Garden Information;  Institution Code: WALAI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Walai Rukhavej Botanical Research Institute; Srinakharinwirot University,; Mahasarakham; Thailand; ;  Telephone: 66 43 723 539; Fax: 66 43 723 539; URL: <a target="_blank" href="http://www.walai.msu.ac.th">www.walai.msu.ac.th; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1993
-Institution Type:	Botanic Garden
-Latitude:	16.0244
-Longitude:	103.1741
-Special Collections:	Native plants, bamboos, medicinal herbs, bananas, wetland forest.
+0-ID: 2182
+1-Name: Walai Rukhavej Botanical Research Institute 
+2-Date founded: 1993
+2-Info:              Institution Code: WALAI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Walai Rukhavej Botanical Research Institute;         Srinakharinwirot University,;                Mahasarakham;        Thailand;        ;                 Telephone: 66 43 723 539;         Fax: 66 43 723 539;         URL: www.walai.msu.ac.th;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 16.0244
+2-Longitude: 103.1741
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2182">Please click here if you can update us</a>
+4-Special Collections: Native plants, bamboos, medicinal herbs, bananas, wetland forest.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2182">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2182">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2182">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 66 43 723 539
+9-Institution Code: WALAI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 66 43 723 539
+9-URL: www.walai.msu.ac.th

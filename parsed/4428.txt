@@ -1,31 +1,35 @@
-ID:	4428
-Name:	Trees Atlanta 
-Fax:	(404) 681-4909
-Info:	  United States of America - Georgia - Atlanta  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	kelly@treesatlanta.org
-Telephone:	(404) 522-4097
-Curator's Name:	Kelly Ridenhour, Associate Director - Design
-Director's Name:	Connie Veates and Greg Levine, Co-Executive Directors
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1985
-Institution Type:	Other
-Latitude:	33.7480500
-Longitude:	-84.3598160
-Open to public:	Yes
-ABS Policy:	Yes
-Accession Number:	4587
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Sustainability:	Yes
-Urban Environments:	Yes
-Education Signs in Garden:	Yes
-Public Lectures/Talks:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4428
+1-Name: Trees Atlanta 
+2-Curator's Name: Kelly Ridenhour, Associate Director - Design
+2-Director's Name: Connie Veates and Greg Levine, Co-Executive Directors
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/4428/Trees_Atlanta_green.jpg" alt="" />         </div>        </div>                           About the Trees Atlanta        Founded in 1985 by Central Atlanta Progress, the Junior League of Atlanta, Inc. and the Atlanta Parks Commissioner, Trees Atlanta has been a prime force in addressing Atlanta's tree loss, creating increased green space, and conserving the city's trees. ;  ;  Trees Atlanta has:;  ~Planted and distributed more than 75,000 shade trees (view map);  ~Cared for more than 100,000 trees;  ~Recruited thousands of volunteers (we communicate with 4,000+ per week);  ~Educated an average of 2,000 children and adults annually about the importance of urban trees and how to plant and properly care for them;  ;  Nearly 25 years after its inception, Trees Atlanta has inspired thousands of Atlanta citizens to advocate for better tree ordinances to protect the city's urban landscape, an integral action that has resulted in Trees Atlanta becoming one of the most widely known and supported non-profits throughout metro-Atlanta, and a highly regarded community steward of our urban environment. With several programs in operation at the Platinum LEED-certified Trees Atlanta Kendeda Center, this citizens' group shows no sign of slowing down.;                        Main Address:;         Trees Atlanta;         225 Chester Avenue, SE;                Atlanta;        Georgia 30316 United States of America;        ;                 Telephone: (404) 522-4097;         Fax: (404) 681-4909;         URL: www.treesatlanta.org;         Primary Email: kelly@treesatlanta.org       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1985
+3-Institution Type: Other
+3-Latitude: 33.7480500
+3-Longitude: -84.3598160
+4-Open to public: Yes
+5-ABS Policy: Yes
+5-Accession Number: 4587
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+6-Conservation Programme: No
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Sustainability: Yes
+7-Urban Environments: Yes
+8-Education Signs in Garden: Yes
+8-Public Lectures/Talks: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (404) 681-4909
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: kelly@treesatlanta.org
+9-Telephone: (404) 522-4097
+9-URL: www.treesatlanta.org

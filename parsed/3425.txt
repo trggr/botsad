@@ -1,12 +1,23 @@
-ID:	3425
-Name:	Botanical Garden of Nizhny Novgorod State University / ???????????? ??? ?????????????? ?. ????. 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  Russian Federation - Nizhny Novgorod oblast - Nizhny Novgorod  ;Garden Information;  Institution Code: NIGND; International Agenda Registration: No; BGCI Member: No; About the Botanical Garden of Nizhny Novgorod State University / ???????????? ??? ?????????????? ?. ????. The main collection includes trees and shrubs, which include 1,503 taxa (2,937 specimens) from 58 families, they include thematic collections: conifers - 102 taxa, heather - 120, woody vines - 169. Herbaceous plants represented 363 taxa (484 samples); tropical and subtropical plants indoors - 522 taxa of fruit and berry plants - 75 varieties. The collections saved 29 rare and endangered species listed in the Red Book of Russia, including 5 of them belong to category 1 (E): species threatened with extinction.; ; Basic research is conducted on the topic: "The introduction of trees and shrubs and herbaceous plants," "Study and Conservation of rare and endangered plants of local and foreign flora," "Study and the selection of useful practical use of types, shapes and varieties of plants," "The development of new sustainable and productive forms and varieties of plant genera of rhododendron, blueberry and mulberry "," Study of salt tolerance in plants used in landscaping in Nizhny Novgorod. " ; ; The Garden serves as a production and experimental base for teaching students of the Faculty of Biology NSU courses "nerd", "geography, morphology and ecology of plants", "taxonomy of angiosperms," ​​Geobotany. Workshops are held for students in the Agricultural and Medical Academy, Department of Landscape Architecture Novgorod construction and architecture of the University.; ; Themed tours for kindergarten, students and adults.;  Main Address:; Botanical Garden of Nizhny Novgorod State University / ???????????? ??? ?????????????? ?. ????.; 37 Sverdlova Street; Nizhny Novgorod; Nizhny Novgorod oblast 603062 Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	56.3299
-Longitude:	44.0091
-Cultivation Taxa Num:	1503
-tropical and subtropical plants indoors - 522 taxa of fruit and berry plants - 75 varieties. The collections saved 29 rare and endangered species listed in the Red Book of Russia, including 5 of them belong to category 1 (E):	species threatened with extinction.
+0-ID: 3425
+1-Name: Botanical Garden of Nizhny Novgorod State University / ???????????? ??? ?????????????? ?. ????. 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: NIGND;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Botanical Garden of Nizhny Novgorod State University /  ???????????? ??? ?????????????? ?. ????.        The main collection includes trees and shrubs, which include 1,503 taxa (2,937 specimens) from 58 families, they include thematic collections: conifers - 102 taxa, heather - 120, woody vines - 169. Herbaceous plants represented 363 taxa (484 samples); tropical and subtropical plants indoors - 522 taxa of fruit and berry plants - 75 varieties. The collections saved 29 rare and endangered species listed in the Red Book of Russia, including 5 of them belong to category 1 (E): species threatened with extinction.;  ;  Basic research is conducted on the topic: "The introduction of trees and shrubs and herbaceous plants," "Study and Conservation of rare and endangered plants of local and foreign flora," "Study and the selection of useful practical use of types, shapes and varieties of plants," "The development of new sustainable and productive forms and varieties of plant genera of rhododendron, blueberry and mulberry "," Study of salt tolerance in plants used in landscaping in Nizhny Novgorod. " ;  ;  The Garden serves as a production and experimental base for teaching students of the Faculty of Biology NSU courses "nerd", "geography, morphology and ecology of plants", "taxonomy of angiosperms," ​​Geobotany. Workshops are held for students in the Agricultural and Medical Academy, Department of Landscape Architecture Novgorod construction and architecture of the University.;  ;  Themed tours for kindergarten, students and adults.;                        Main Address:;         Botanical Garden of Nizhny Novgorod State University /  ???????????? ??? ?????????????? ?. ????.;         37 Sverdlova Street;                Nizhny Novgorod;        Nizhny Novgorod oblast 603062 Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 56.3299
+2-Longitude: 44.0091
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3425">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 1503
+4-tropical and subtropical plants indoors - 522 taxa of fruit and berry plants - 75 varieties. The collections saved 29 rare and endangered species listed in the Red Book of Russia, including 5 of them belong to category 1 (E): species threatened with extinction.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3425">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3425">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3425">Please click here if you can update us</a>
+9-About the Botanical Garden of Nizhny Novgorod State University /  ???????????? ??? ?????????????? ?. ????.        The main collection includes trees and shrubs, which include 1,503 taxa (2,937 specimens) from 58 families, they include thematic collections: conifers - 102 taxa, heather - 120, woody vines - 169. Herbaceous plants represented 363 taxa (484 samples)
+9-BGCI Member: No
+9-Basic research is conducted on the topic: "The introduction of trees and shrubs and herbaceous plants," "Study and Conservation of rare and endangered plants of local and foreign flora," "Study and the selection of useful practical use of types, shapes and varieties of plants," "The development of new sustainable and productive forms and varieties of plant genera of rhododendron, blueberry and mulberry "," Study of salt tolerance in plants used in landscaping in Nizhny Novgorod. "
+9-Fax: 
+9-Institution Code: NIGND
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 
+9-tropical and subtropical plants indoors - 522 taxa of fruit and berry plants - 75 varieties. The collections saved 29 rare and endangered species listed in the Red Book of Russia, including 5 of them belong to category 1 (E): species threatened with extinction.

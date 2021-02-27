@@ -1,11 +1,19 @@
-ID:	1432
-Name:	International Forest Line Arboretum 
-Curator's Name:	
-Director's Name:	Prof. Erkki Haukioja
-Info:	  Finland - Turku  ;Garden Information;  Institution Code: TURIF; International Agenda Registration: No; BGCI Member: No;  Main Address:; International Forest Line Arboretum; Kevo Subarctic Research Institute, University of Turku, SF-20500 TURKU 50, Finland.; Turku; Finland; ;  Telephone: 358 21 633 5930; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1978
-Institution Type:	Botanic Garden
-Latitude:	60.4514
-Longitude:	22.2687
-Special Collections:	Angelica archangelica research collection
+0-ID: 1432
+1-Name: International Forest Line Arboretum 
+2-Date founded: 1978
+2-Info:              Institution Code: TURIF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         International Forest Line Arboretum;         Kevo Subarctic Research Institute,  University of Turku,  SF-20500 TURKU 50,  Finland.;                Turku;        Finland;        ;                 Telephone: 358 21 633 5930;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 60.4514
+2-Longitude: 22.2687
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1432">Please click here if you can update us</a>
+4-Special Collections: Angelica archangelica research collection
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1432">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1432">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1432">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TURIF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 358 21 633 5930
+9-URL: 

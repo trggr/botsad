@@ -1,12 +1,21 @@
-ID:	1255
-Name:	Fujian Subtropical Economic Plant Institute 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Fujian - Xiamen  ;Garden Information;  Institution Code: FUJST; International Agenda Registration: No; BGCI Member: No;  Main Address:; Fujian Subtropical Economic Plant Institute; No. 4, Gusheng Road, Gulangyu Island, Xiamen, Fujian, 361000, China; Xiamen; Fujian China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	24.4777
-Local Address:	中国福建省厦门市鼓浪屿鼓声路4号，邮编 361000
-Locality:	Information
-Longitude:	118.1000
+0-ID: 1255
+1-Name: Fujian Subtropical Economic Plant Institute 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: FUJST;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Fujian Subtropical Economic Plant Institute;         No. 4, Gusheng Road, Gulangyu Island, Xiamen, Fujian, 361000, China;                Xiamen;        Fujian China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 24.4777
+2-Local Address: 中国福建省厦门市鼓浪屿鼓声路4号，邮编 361000
+2-Locality: Information
+2-Longitude: 118.1000
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1255">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1255">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1255">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1255">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1255">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FUJST
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

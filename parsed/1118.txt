@@ -1,11 +1,19 @@
-ID:	1118
-Name:	Gorno-Altai Botanical Garden / ?????-????????? ???????????? ??? 
-Curator's Name:	
-Director's Name:	Achimova Altynai A., Director
-Info:	  Russian Federation - Atlai krai - Gorno-Altai  ;Garden Information;  Institution Code: GORNO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gorno-Altai Botanical Garden / ?????-????????? ???????????? ???; Institute of Gorno-Altai Autonomous Region, Atlai Branch of the Central Siberian Botanical Garden, Russian Academy of Science; Shebalino district, Kamlak, tract Net Luh; Gorno-Altai; Atlai krai 649218 Russian Federation; ;  Telephone: 89236614153; Fax: ; URL: <a target="_blank" href="http://www.g-abs.ru">www.g-abs.ru; Primary Email: gabs@ngs.ru ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	51.9581
-Longitude:	85.9712
-Special Collections:	Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+0-ID: 1118
+1-Name: Gorno-Altai Botanical Garden / ?????-????????? ???????????? ??? 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: GORNO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gorno-Altai Botanical Garden / ?????-????????? ???????????? ???;         Institute of Gorno-Altai Autonomous Region, Atlai Branch of the Central Siberian Botanical Garden, Russian Academy of Science;        Shebalino district, Kamlak, tract Net Luh;        Gorno-Altai;        Atlai krai 649218 Russian Federation;        ;                 Telephone: 89236614153;         Fax: ;         URL: www.g-abs.ru;         Primary Email: gabs@ngs.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.9581
+2-Longitude: 85.9712
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1118">Please click here if you can update us</a>
+4-Special Collections: Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1118">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1118">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1118">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: GORNO
+9-International Agenda Registration: No
+9-Primary Email: gabs@ngs.ru
+9-Telephone: 89236614153
+9-URL: www.g-abs.ru

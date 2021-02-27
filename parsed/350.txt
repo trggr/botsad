@@ -1,10 +1,19 @@
-ID:	350
-Name:	Arboretum Stredni lesnicke technicke skoly 
-Curator's Name:	
-Director's Name:	
-Info:	  Czech Republic - Hranice  ;Garden Information;  Institution Code: HRANI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Stredni lesnicke technicke skoly; HRANICE n. M., Severomoravsky, Czech Republic.; Hranice; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	49.5650
-Longitude:	17.7422
+0-ID: 350
+1-Name: Arboretum Stredni lesnicke technicke skoly 
+2-Date founded: 
+2-Info:              Institution Code: HRANI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Stredni lesnicke technicke skoly;         HRANICE n. M.,  Severomoravsky,  Czech Republic.;                Hranice;        Czech Republic;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.5650
+2-Longitude: 17.7422
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=350">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=350">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=350">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=350">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=350">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HRANI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

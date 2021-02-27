@@ -1,9 +1,18 @@
-ID:	4738
-Name:	Community Arboretum at VWCC 
-Curator's Name:	
-Director's Name:	Lee Hipp, Professor
-Info:	  United States of America - Virginia - Roanoke  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Community Arboretum at VWCC; Virginia Western Community College; P.O. Box 14007; Roanoke; Virginia 24038 United States of America; ;  Telephone: (540) 857-6388; Fax: ; URL: <a target="_blank" href="http://www.virginiawestern.edu/arboretum">www.virginiawestern.edu/arboretum; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	37.2455110
-Longitude:	-79.9742050
+0-ID: 4738
+1-Name: Community Arboretum at VWCC 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Community Arboretum at VWCC;         Virginia Western Community College;        P.O. Box 14007;        Roanoke;        Virginia 24038 United States of America;        ;                 Telephone: (540) 857-6388;         Fax: ;         URL: www.virginiawestern.edu/arboretum;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.2455110
+2-Longitude: -79.9742050
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4738">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4738">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4738">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4738">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4738">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (540) 857-6388
+9-URL: www.virginiawestern.edu/arboretum

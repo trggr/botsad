@@ -1,71 +1,76 @@
-ID:	2344
-Name:	Bristol Zoo Gardens 
-Administration Staff Number:	
-Curator's Name:	Eddie Mole
-Director's Name:	Dr Bryan Carroll
-Educational Staff Number:	
-Horticultural Staff Number:	17
-Info:	  United Kingdom - Bristol  ;Garden Information;<a href="#tabs-2">Community Projects;  Institution Code: BRZOO; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Bristol Zoo Gardens; Clifton; Bristol; BS8 3HA United Kingdom; ;  Telephone: 0(117) 974 7399; Fax: (0117) 973 6814; URL: <a target="_blank" href="http://www.bristolzoo.org.uk">www.bristolzoo.org.uk; Primary Email: emole@bristolzoo.org.uk ; 
-Plant Records Officer's Name:	Mike Adams
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1835
-Institution Type:	Zoological Institution
-Landscaped Area:	Yes
-Latitude:	51.463467
-Longitude:	-2.622305
-Natural Vegetation Area:	Yes
-Total Area:	5 Hectares
-Total area of glasshouses:	240 Metres
-Arboretum:	Yes
-Arboretum Size:	5
-Computer Plant Record System:	Yes
-Herbarium:	Yes
-Number of Visitors:	500000
-Number of Volunteers:	3
-Open to public:	Yes
-Accession Number:	2000
-Cultivation Taxa Num:	4000
-Special Collections:	70,000 plants. Phalaenopsis, Paphiopedilum, Caryopteris, Actinidia, Ornithogalum, Primula, Lantana, Hedychium, Fuchsia, Dahlia, Pelagonium, trees.
-Conservation Programme:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Horticulture:	Yes
-Sustainability:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Education Signs in Garden:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Visitor/Education Centre:	Yes
-" align="justify">The pilot of this project was initially funded by <a href="http:	//www.gulbenkian.org.uk/" target="_blank">Calouste Gulbenkian Foundation and was run as part of <a href="/" target="_blank">BGCI&rsquo
-" border="0" width="337" align="center"> <tbody> <tr style="text-align:	center
-" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/video.jpg" alt="" width="320" height="181" border="0" /></td> </tr> <tr style="text-align:	center
-" width="90"> <tbody> <tr style="text-align:	center
-"> <td><a href="http:	//www.youtube.com/watch?v=q34mSMFkGyA&amp
-"> <td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Robinson.jpg" alt="" width="400" border="0" /></td> </tr> <tr style="text-align:	center
-"> <td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Upper%20horfield.jpg" alt="" width="237" height="314" align="middle" border="0" /></td> </tr> <tr style="text-align:	center
-"> <td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/calendula.jpg" alt="" width="400" height="298" border="0" /></td> </tr> <tr style="text-align:	center
-"><strong><a href="http:	//www.glendale-services.co.uk/" target="_blank">Glendale Management Services</strong>
-"><strong>IMPACTS</strong> <p style="text-align:	justify
-"><strong>WHAT'S NEXT?</strong> <p style="text-align:	justify
-">A National Plant Collection is a <a href="http:	//www.nccpg.com/" target="_blank">Plant Heritage scheme where individuals or organizations document, develop and preserve a comprehensive collection of one group of plants of horticultural importance in Britain.
-">Bristol Community Plant Collection is an innovative project run by <a href="http:	//www.bristolzoo.org.uk/" target="_blank">Bristol Zoo Gardens (BZG) aiming to establish the first model for a dispersed national collection of hardy annual garden plants. In addition to this, through empowerment and engagement with the community, the project aims to reach out to new audiences enable participation in plant conservation and bring together a wide range of Bristol&rsquo
-<a href="http:	//content.yudu.com/Library/A21ur6/SomersetCountryGarde/resources/index.htm?referrerUrl=http%3A//free.yudu.com/item/details/731006/Somerset-Country-Gardener-Spring-2013" target="_blank">&lsquo
-<h3 style="text-align:	justify
-<p class="Small" style="text-align:	justify
-<p style="text-align:	justify
-<strong> <a href="http:	//www.gulbenkian.org.uk/" target="_blank">Calouste Gulbenkian Foundation</strong>
-<strong>ABOUT</strong> <p style="text-align:	justify
-<table style="height:	99px
-Bristol Zoo Gardens</h5> </td> </tr> </tbody> </table> <p style="text-align:	justify
-Bristol Zoo Gardens</strong></h5> </td> </tr> </tbody> </table> <p style="text-align:	justify
-Karen:	I think it is absolutely excellent to do the project in Bristol and with people in sheltered accommodations. I think it is absolutely wonderful to get people involved.
-SPONSORS</strong> <p style="text-align:	justify
-Sue:	I knew that there are things that are going extinct. But I didn&rsquo
-and will feature in the RHS magazine <a href="http:	//www.rhs.org.uk/Plants/RHS-Publications/Journals/The-Garden" target="_blank">&lsquo
-display:	block
-feature=youtu.be" target="_blank"><img style="margin-right:	auto
-margin-left:	auto
-margin-right:	auto
-own sites where they planted and began caring for their plants. This was an exciting time for all. A teacher from Stoke Bishop Church of England Primary School reported that:	&lsquo
+0-ID: 2344
+1-Name: Bristol Zoo Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1835
+2-Info:              Institution Code: BRZOO;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Bristol Zoo Gardens;         Clifton;                Bristol;        BS8 3HA United Kingdom;        ;                 Telephone: 0(117) 974 7399;         Fax: (0117) 973 6814;         URL: www.bristolzoo.org.uk;         Primary Email: emole@bristolzoo.org.uk       ;              
+2-Institution Type: Zoological Institution
+2-Landscaped Area: Yes
+2-Latitude: 51.463467
+2-Longitude: -2.622305
+2-Natural Vegetation Area: Yes
+2-Total Area: 5 Hectares
+2-Total area of glasshouses: 240 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 5
+3-Computer Plant Record System: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 500000
+3-Number of Volunteers: 3
+3-Open to public: Yes
+4-Accession Number: 2000
+4-Cultivation Taxa Num: 4000
+4-Special Collections: 70,000 plants. Phalaenopsis, Paphiopedilum, Caryopteris, Actinidia, Ornithogalum, Primula, Lantana, Hedychium, Fuchsia, Dahlia, Pelagonium, trees.
+5-Conservation Programme: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Horticulture: Yes
+6-Sustainability: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Education Signs in Garden: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Visitor/Education Centre: Yes
+8-" align="justify">The pilot of this project was initially funded by <a href="http: //www.gulbenkian.org.uk/" target="_blank">Calouste Gulbenkian Foundation</a> and was run as part of <a href="/" target="_blank">BGCI&rsquo
+8-" border="0" width="337" align="center"> <tbody> <tr style="text-align: center
+8-" src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/video.jpg" alt="" width="320" height="181" border="0" /></a></td> </tr> <tr style="text-align: center
+8-" width="90"> <tbody> <tr style="text-align: center
+8-"> <td><a href="http: //www.youtube.com/watch?v=q34mSMFkGyA&amp
+8-"> <td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Robinson.jpg" alt="" width="400" border="0" /></td> </tr> <tr style="text-align: center
+8-"> <td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/Upper%20horfield.jpg" alt="" width="237" height="314" align="middle" border="0" /></td> </tr> <tr style="text-align: center
+8-"> <td><img src="/files/Worldwide/Education/Social_inclusion/Mapping_applet/calendula.jpg" alt="" width="400" height="298" border="0" /></td> </tr> <tr style="text-align: center
+8-"><strong><a href="http: //www.glendale-services.co.uk/" target="_blank">Glendale Management Services</a></strong>
+8-"><strong>IMPACTS</strong> <p style="text-align: justify
+8-"><strong>WHAT'S NEXT?</strong> <p style="text-align: justify
+8-">Bristol Community Plant Collection is an innovative project run by <a href="http: //www.bristolzoo.org.uk/" target="_blank">Bristol Zoo Gardens</a> (BZG) aiming to establish the first model for a dispersed national collection of hardy annual garden plants. In addition to this, through empowerment and engagement with the community, the project aims to reach out to new audiences enable participation in plant conservation and bring together a wide range of Bristol&rsquo
+8-</strong> <p style="text-align: center
+8-<a href="http: //content.yudu.com/Library/A21ur6/SomersetCountryGarde/resources/index.htm?referrerUrl=http%3A//free.yudu.com/item/details/731006/Somerset-Country-Gardener-Spring-2013" target="_blank">&lsquo
+8-<h3 style="text-align: justify
+8-<p class="Small" style="text-align: justify
+8-<p style="text-align: justify
+8-<strong> <a href="http: //www.gulbenkian.org.uk/" target="_blank">Calouste Gulbenkian Foundation</a></strong> <table border="0"> <tbody> <tr> <td> &nbsp
+8-<strong>ABOUT</strong> <p style="text-align: justify
+8-<strong>Emma Moore</strong>, Gardens Supervisor, Bristol Zoo Gardens <p style="text-align: justify
+8-<table style="height: 99px
+8-Bristol Zoo Gardens</h5> </td> </tr> </tbody> </table> <p style="text-align: justify
+8-Bristol Zoo Gardens</strong></h5> </td> </tr> </tbody> </table> <p style="text-align: justify
+8-For more details on the impact of the project read the Communities in Nature <a href="/files/Worldwide/Education/Social_inclusion/CinN_evaluation.pdf">Evaluation Report</a>. <p style="text-align: justify
+8-Groups were trained to germinate and care for their plants and to hand pollinate them and collect seed for next year. <table style="height: 99px
+8-Karen: I think it is absolutely excellent to do the project in Bristol and with people in sheltered accommodations. I think it is absolutely wonderful to get people involved.
+8-SPONSORS</strong> <p style="text-align: justify
+8-Sue: I knew that there are things that are going extinct. But I didn&rsquo
+8-Unfortunately, not everything went smoothly, some groups had problems with germination rates, poor weather affected growth and overwatering by overeager participants affected the number of plants produced for display. Even so, 7 groups produced plants for display with others focusing on producing seed after slow growth and germination rates were reported. Again, the project was concluded with a reception to celebrate the project and allow participants from other groups to meet. <table style="height: 99px
+8-and will feature in the RHS magazine <a href="http: //www.rhs.org.uk/Plants/RHS-Publications/Journals/The-Garden" target="_blank">&lsquo
+8-display: block
+8-feature=youtu.be" target="_blank"><img style="margin-right: auto
+8-margin-left: auto
+8-margin-right: auto
+8-own sites where they planted and began caring for their plants. This was an exciting time for all. A teacher from Stoke Bishop Church of England Primary School reported that: &lsquo
+8-s </a><a href="/education/communities_in_nature" target="_blank">Communities in Nature</a> initiative. <p style="text-align: justify
+9-BGCI Member: Yes
+9-Fax: (0117) 973 6814
+9-Institution Code: BRZOO
+9-International Agenda Registration: Yes
+9-Primary Email: emole@bristolzoo.org.uk
+9-Telephone: 0(117) 974 7399
+9-URL: www.bristolzoo.org.uk

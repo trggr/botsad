@@ -1,11 +1,19 @@
-ID:	2414
-Name:	Jardín Botánico Municipal de San Carlos Centro 
-Curator's Name:	Dr. Eliana Exner
-Director's Name:	Ing. Agr. Rubén A. Broda
-Info:	  Argentina - Santa Fe - San Carlos Centro  ;Garden Information;  Institution Code: SAFE; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Botánico Municipal de San Carlos Centro; Av I. Gorriti 3900, Rivadavia y San Lorenzo; Gobierno de San Carlos Centro, Tomás Lubary 452; San Carlos Centro; Santa Fe 3000 Argentina; ;  Telephone: 54 (0) 3404-420 021; Fax: 54 (0) 3404-420 677; URL: <a target="_blank" href="http://www.sancarloscentro.com.ar">www.sancarloscentro.com.ar; Primary Email: gobiernodesancarloscentro@gmail.com ; 
-Plant Records Officer's Name:	Ing. Roben Alfredo Broda
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-31.736872
-Longitude:	-61.092713
-Special Collections:	No information available
+0-ID: 2414
+1-Name: Jardín Botánico Municipal de San Carlos Centro 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SAFE;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Municipal de San Carlos Centro;         Av I. Gorriti 3900, Rivadavia y San Lorenzo;        Gobierno de San Carlos Centro, Tomás Lubary 452;        San Carlos Centro;        Santa Fe 3000 Argentina;        ;                 Telephone: 54 (0) 3404-420 021;         Fax: 54 (0) 3404-420 677;         URL: www.sancarloscentro.com.ar;         Primary Email: gobiernodesancarloscentro@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -31.736872
+2-Longitude: -61.092713
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2414">Please click here if you can update us</a>
+4-Special Collections: No information available
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2414">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2414">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2414">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 54 (0) 3404-420 677
+9-Institution Code: SAFE
+9-International Agenda Registration: Yes
+9-Primary Email: gobiernodesancarloscentro@gmail.com
+9-Telephone: 54 (0) 3404-420 021
+9-URL: www.sancarloscentro.com.ar

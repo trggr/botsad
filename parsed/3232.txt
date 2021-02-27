@@ -1,10 +1,19 @@
-ID:	3232
-Name:	Hatley Park National Historic Site 
-Curator's Name:	David Rutherford, Manager, Grounds and Gardens
-Director's Name:	Bonnie Nelson, Director of Visitor Services
-Info:	  Canada - British Columbia - Victoria  ;Garden Information;  Institution Code: RRUHP; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hatley Park National Historic Site; Royal Roads University; 2005 Sookie Road; Victoria; British Columbia V9B 5Y2 Canada; ;  Telephone: (250) 391-2666; Fax: (250) 391-2620; URL: <a target="_blank" href="http://www.hatleypark.ca">www.hatleypark.ca; Primary Email: info@hatleypark.ca ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	48.439643
-Longitude:	-123.477595
+0-ID: 3232
+1-Name: Hatley Park National Historic Site 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: RRUHP;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hatley Park National Historic Site;         Royal Roads University;        2005 Sookie Road;        Victoria;        British Columbia V9B 5Y2 Canada;        ;                 Telephone: (250) 391-2666;         Fax: (250) 391-2620;         URL: www.hatleypark.ca;         Primary Email: info@hatleypark.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.439643
+2-Longitude: -123.477595
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3232">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3232">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3232">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3232">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3232">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (250) 391-2620
+9-Institution Code: RRUHP
+9-International Agenda Registration: No
+9-Primary Email: info@hatleypark.ca
+9-Telephone: (250) 391-2666
+9-URL: www.hatleypark.ca

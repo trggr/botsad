@@ -1,12 +1,26 @@
-ID:	2564
-Name:	Sentier de Decouverte 
-Curator's Name:	
-Director's Name:	Pierre Jozelon
-Info:	  France - Melle  ;Garden Information;  Institution Code: MELLE; International Agenda Registration: No; BGCI Member: No; About the Sentier de Decouverte Location: MELLE; Founded: 1987; Garden Name: Sentier de Decouverte; Address: Avenue Sainte Jacques, 06500 MENTON-GARAVAN.; Status: Municipal; Herbarium: Unknown.; Ex situ Collections:; Temperate plants of the world, trees, shrubs and herbaceous plants.; N;  Main Address:; Sentier de Decouverte; Mairie de MelleService des Espaces Verts79500 MELLEFrance; Melle; France; ;  Telephone: 33 5 49 27 00 23; Fax: 33 5 49 27 01 51; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1987
-Institution Type:	Botanic Garden
-Latitude:	46.2207
-Longitude:	-0.1455
-Special Collections:	Temperate plants of the world, trees, shrubs and herbaceous plants.
+0-ID: 2564
+1-Name: Sentier de Decouverte 
+2-Altitude: 0.00 Metres
+2-Date founded: 1987
+2-Info:              Institution Code: MELLE;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Sentier de Decouverte        Location: MELLE;  Founded: 1987;  Garden Name: Sentier de Decouverte;  Address: Avenue Sainte Jacques, 06500 MENTON-GARAVAN.;  Status: Municipal;  Herbarium: Unknown.;  Ex situ Collections:;  Temperate plants of the world, trees, shrubs and herbaceous plants.;  N;                        Main Address:;         Sentier de Decouverte;         Mairie de MelleService des Espaces Verts79500 MELLEFrance;                Melle;        France;        ;                 Telephone: 33 5 49 27 00 23;         Fax: 33 5 49 27 01 51;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.2207
+2-Longitude: -0.1455
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2564">Please click here if you can update us</a>
+4-Special Collections: Temperate plants of the world, trees, shrubs and herbaceous plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2564">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2564">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2564">Please click here if you can update us</a>
+9-About the Sentier de Decouverte        Location: MELLE
+9-Address: Avenue Sainte Jacques, 06500 MENTON-GARAVAN.
+9-BGCI Member: No
+9-Fax: 33 5 49 27 01 51
+9-Founded: 1987
+9-Garden Name: Sentier de Decouverte
+9-Herbarium: Unknown.
+9-Institution Code: MELLE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: Municipal
+9-Telephone: 33 5 49 27 00 23
+9-URL: 

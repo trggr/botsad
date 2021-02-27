@@ -1,23 +1,26 @@
-ID:	2349
-Name:	De wereld van Kina: de Tuin 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Annemie Van Gyseghem
-Educational Staff Number:	1
-Horticultural Staff Number:	3
-Info:	  Belgium - Ghent  ;Garden Information;  Institution Code: THIER; International Agenda Registration: No; BGCI Member: No;  Main Address:; De wereld van Kina: de Tuin; De wereld van Kina: de Tuin, Berouw 55, B-9000 Gent; Ghent; B-9000 Belgium; ;  Telephone: 32 (0)9 225 05 42; Fax: 32 (0)9 234 30 56; URL: <a target="_blank" href="http://www.dewereldvankina.be">www.dewereldvankina.be; Primary Email: kinatuin@gent.be ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	7.70 Metres
-Institution Type:	Other
-Latitude:	51.0351
-Longitude:	3.4327
-Friends society:	Yes
-Number of Visitors:	18000
-Open to public:	Yes
-Accession Number:	1047
-Special Collections:	Ornamentals
-Courses for School Children:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2349
+1-Name: De wereld van Kina: de Tuin 
+2-Altitude: 7.70 Metres
+2-Info:              Institution Code: THIER;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         De wereld van Kina: de Tuin;         De wereld van Kina: de Tuin, Berouw 55, B-9000 Gent;                Ghent;        B-9000 Belgium;        ;                 Telephone: 32 (0)9 225 05 42;         Fax: 32 (0)9 234 30 56;         URL: www.dewereldvankina.be;         Primary Email: kinatuin@gent.be       ;              
+2-Institution Type: Other
+2-Latitude: 51.0351
+2-Longitude: 3.4327
+3-Friends society: Yes
+3-Number of Visitors: 18000
+3-Open to public: Yes
+4-Accession Number: 1047
+4-Special Collections: Ornamentals
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2349">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2349">Please click here if you can update us</a>
+7-Courses for School Children: Yes
+7-Guided Tours: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-De wereld van Kina: de Tuin, Berouw 55, B-9000 Gent
+9-Fax: 32 (0)9 234 30 56
+9-Institution Code: THIER
+9-International Agenda Registration: No
+9-Primary Email: kinatuin@gent.be
+9-Telephone: 32 (0)9 225 05 42
+9-URL: www.dewereldvankina.be

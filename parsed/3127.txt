@@ -1,11 +1,18 @@
-ID:	3127
-Name:	National Garden Athens 
-Curator's Name:	
-Director's Name:	.
-Info:	  Greece - Athens  ;Garden Information;  Institution Code: SYNT; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Garden Athens; 1, Amalia avenue; Athens; 105 57 Greece; ;  Telephone: +30 210 7211178, +30 210 7215019; Fax: +30 210 7215019; URL: <a target="_blank" href="https://www.cityofathens.gr/episkeptes/aksiotheata/diadromes-stin-istoria-tis-athinas/o-kipos-tis-athinas">https://www.cityofathens.gr/episkeptes/aksiotheata/diadromes-stin-istoria-tis-athinas/o-kipos-tis-athinas; Primary Email: ethkhpos@otenet.gr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.9894
-Longitude:	23.7444
-Special Collections:	trees and shrubs
+0-ID: 3127
+1-Name: National Garden Athens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SYNT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Garden Athens;         1, Amalia avenue;                Athens;        105 57 Greece;        ;                 Telephone: +30 210 7211178, +30 210 7215019;         Fax: +30 210 7215019;         URL: https://www.cityofathens.gr/episkeptes/aksiotheata/diadromes-stin-istoria-tis-athinas/o-kipos-tis-athinas;         Primary Email: ethkhpos@otenet.gr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.9894
+2-Longitude: 23.7444
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3127">Please click here if you can update us</a>
+4-Special Collections: trees and shrubs
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3127">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3127">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3127">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +30 210 7215019
+9-Institution Code: SYNT
+9-International Agenda Registration: No
+9-Primary Email: ethkhpos@otenet.gr
+9-Telephone: +30 210 7211178, +30 210 7215019

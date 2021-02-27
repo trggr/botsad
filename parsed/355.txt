@@ -1,27 +1,28 @@
-ID:	355
-Name:	Flora Olomouc 
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	Unknown
-Educational Staff Number:	
-Horticultural Staff Number:	10
-Info:	  Czech Republic - Olomouc  ;Garden Information;  Institution Code: OLOMO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Flora Olomouc; Wolkerova 17, 775 10 OLOMOUC, Czech Republic.; Olomouc; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1927
-Institution Type:	Botanic Garden
-Latitude:	49.5955
-Longitude:	17.2518
-Total Area:	8 Hectares
-Arboretum:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	23400
-Seed Bank:	No
-Cultivation Taxa Num:	1900
-Special Collections:	Cactacae, Bromeliaceae, Aracaceae, Orchidaceae, tulips, perennials, roses, arboretum, alpinum, magnolias, irises, plants of Georgia, Hungary, Latvia, Ukraine, Crimea, Bulgaria.
-Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Education:	No
+0-ID: 355
+1-Name: Flora Olomouc 
+2-Altitude: 0.00 Metres
+2-Date founded: 1927
+2-Info:              Institution Code: OLOMO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Flora Olomouc;         Wolkerova 17, 775 10 OLOMOUC, Czech Republic.;                Olomouc;        Czech Republic;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.5955
+2-Longitude: 17.2518
+2-Total Area: 8 Hectares
+3-Arboretum: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 23400
+3-Seed Bank: No
+4-Cultivation Taxa Num: 1900
+4-Special Collections: Cactacae, Bromeliaceae, Aracaceae, Orchidaceae, tulips, perennials, roses, arboretum, alpinum, magnolias, irises, plants of Georgia, Hungary, Latvia, Ukraine, Crimea, Bulgaria.
+5-Conservation Programme: No
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Education: No
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=355">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: OLOMO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

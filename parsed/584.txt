@@ -1,75 +1,79 @@
-ID:	584
-Name:	Stellenbosch University Botanical Garden 
-Fax:	+27 21 808 9504
-Info:	  South Africa - Western Cape - Stellenbosch  ;Garden Information;  Institution Code: STE-U; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	subg@sun.ac.za
-Telephone:	+27 21 808 3054
-Administration Staff Number:	1
-Curator's Name:	Dr Donovan Kirkwood
-Director's Name:	Mr Hein Swanepoel
-Educational Staff Number:	
-Horticultural Staff Number:	5
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	120.00 Metres
-Annual Rainfall:	700 mm
-Date founded:	1922
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-33.936164
-Local Address:	
-Locality:	Information
-Longitude:	18.864453
-Natural Vegetation Area:	No
-Arboretum:	No
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	11
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	No
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 584
+1-Name: Stellenbosch University Botanical Garden 
+2-Administration Staff Number: 1
+2-Curator's Name: Dr Donovan Kirkwood
+2-Director's Name: Mr Hein Swanepoel
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 5
+2-Info:              Institution Code: STE-U;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/584/999303_555282837900842_212876288_n.jpg" alt="View of lily pond" />         View of lily pond</div>        </div>                           About the Stellenbosch University Botanical Garden        The Botanical Garden is located in the historical center of Stellenbosch and is the oldest university botanical garden in South Africa. This compact garden houses an enormous diversity of plants, both indigenous to South Africa and exotic. The Botanical Garden is open to the public and admission is free;                        Main Address:;         Stellenbosch University Botanical Garden;         Private Bag X1;        Matieland;        Stellenbosch;        Western Cape 7602 South Africa;        ;                 Telephone: +27 21 808 3054;         Fax: +27 21 808 9504;         URL: www.sun.ac.za/botanicalgarden;         Primary Email: subg@sun.ac.za       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 120.00 Metres
+3-Annual Rainfall: 700 mm
+3-Date founded: 1922
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -33.936164
+3-Local Address: 
+3-Locality: Information
+3-Longitude: 18.864453
+3-Natural Vegetation Area: No
+4-Arboretum: No
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Volunteers: 11
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: No
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: No
+7-Ecology: No
+7-Ecosystem Conservation: No
+7-Education: No
+7-Ethnobotany: No
+7-Exploration: No
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: No
+7-Land Restoration: No
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: No
+7-Seed/Spore Biology: No
+7-Sustainability: No
+7-Systematics and Taxonomy: No
+7-Urban Environments: No
+8-Courses for General Public: No
+8-Courses for School Children: No
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: No
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: +27 21 808 9504
+9-Institution Code: STE-U
+9-International Agenda Registration: No
+9-Primary Email: subg@sun.ac.za
+9-Telephone: +27 21 808 3054
+9-URL: www.sun.ac.za/botanicalgarden

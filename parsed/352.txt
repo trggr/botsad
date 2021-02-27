@@ -1,10 +1,19 @@
-ID:	352
-Name:	Arboretum Kostelec, Czech Agricultural University of Prague 
-Curator's Name:	
-Director's Name:	J. Pokorny
-Info:	  Czech Republic - Kostelec  ;Garden Information;  Institution Code: KOST; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Kostelec, Czech Agricultural University of Prague; Truba 839, 281 63, KOSTELEC NAD CERNYMI LESY, Czech Republic.; Kostelec; Czech Republic; ;  Telephone: 0203 97201; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1954
-Institution Type:	Botanic Garden
-Latitude:	49.0266
-Longitude:	17.1530
+0-ID: 352
+1-Name: Arboretum Kostelec, Czech Agricultural University of Prague 
+2-Date founded: 1954
+2-Info:              Institution Code: KOST;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Kostelec, Czech Agricultural University of Prague;         Truba 839, 281 63, KOSTELEC NAD CERNYMI LESY,  Czech Republic.;                Kostelec;        Czech Republic;        ;                 Telephone: 0203 97201;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.0266
+2-Longitude: 17.1530
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=352">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=352">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=352">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=352">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=352">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KOST
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0203 97201
+9-URL: 

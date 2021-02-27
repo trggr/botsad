@@ -1,0 +1,95 @@
+0-ID
+1-Name
+2-Administration Staff Number
+2-Altitude
+2-Annual Rainfall
+2-Curator's Name
+2-Date founded
+2-Director's Name
+2-Educational Staff Number
+2-Horticultural Staff Number
+2-Institution Type
+2-Landscaped Area
+2-Latitude
+2-Local Address
+2-Locality
+2-Longitude
+2-Natural Vegetation Area
+2-Plant Records Officer's Name
+2-Research Staff Number
+2-Total Area
+3-Altitude
+3-Arboretum
+3-Computer Plant Record System
+3-Date founded
+3-Disabled access
+3-Friends society
+3-Herbarium
+3-Institution Type
+3-Landscaped Area
+3-Latitude
+3-Longitude
+3-Micropropagation/ Tissue Culture Facilities
+3-Natural Vegetation Area
+3-Number of Visitors
+3-Number of Volunteers
+3-Open to public
+3-Published Plant Catalogue
+3-Seed Bank
+3-Total Area
+4-Accession Number
+4-Arboretum
+4-Computer Plant Record System
+4-Cultivation Taxa Num
+4-Disabled access
+4-Friends society
+4-Herbarium
+4-Micropropagation/ Tissue Culture Facilities
+4-Number of Visitors
+4-Open to public
+4-Published Plant Catalogue
+4-Seed Bank
+4-Special Collections
+5-Conservation Programme
+5-Ex Situ Conservation Programme
+5-Medicinal Plant Programme
+5-Reintroduction Programme
+5-Special Collections
+6-Conservation - Biology
+6-Conservation Programme
+6-Education
+6-Ex Situ Conservation Programme
+6-Horticulture
+6-Medicinal Plant Programme
+6-Reintroduction Programme
+7-Courses for General Public
+7-Courses for School Children
+7-Courses for University/College Students
+7-Education
+7-Education Booklets/Leaflets
+7-Education Programme
+7-Education Signs in Garden
+7-Guided Tours
+7-Permanent Public Displays
+7-Public Lectures/Talks
+7-Special Exhibitions
+7-Visitor/Education Centre
+8-Courses for General Public
+8-Courses for School Children
+8-Education Booklets/Leaflets
+8-Education Programme
+8-Education Signs in Garden
+8-Guided Tours
+8-Permanent Public Displays
+8-Public Lectures/Talks
+8-Special Exhibitions
+8-Visitor/Education Centre
+9-ArbNet Accredited
+9-BGCI Member
+9-Fax
+9-Institution Code
+9-International Agenda Registration
+9-Primary Email
+9-Telephone
+9-URL
+2-Info

@@ -1,12 +1,19 @@
-ID:	24
-Name:	The State Dendrological Park "Alexandria" of Ukrainian National Academy of Sciences 
-Curator's Name:	
-Director's Name:	S.I.Galkin
-Info:	  Ukraine - Belaja Tserkov  ;Garden Information;  Institution Code: BELA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; The State Dendrological Park "Alexandria" of Ukrainian National Academy of Sciences; Dendropark "Alexandria" NANU 09113, BELAJA TSERKOV-13, Kiev Region, Ukraine; Belaja Tserkov; Ukraine; ;  Telephone: 4 10 57; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: index_bc@ukr.net ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	49.81185
-Longitude:	30.06715
-Special Collections:	Ornamental shrubs, rare and endangered species, rose garden. Crataegus, Philadelphus, Populus, Begonia, Rosa, Syringa, Lonicera.
-Reintroduction Programme:	No
+0-ID: 24
+1-Name: The State Dendrological Park "Alexandria" of Ukrainian National Academy of Sciences 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: BELA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         The State Dendrological Park "Alexandria" of Ukrainian National Academy of Sciences;         Dendropark "Alexandria" NANU 09113, BELAJA TSERKOV-13, Kiev Region, Ukraine;                Belaja Tserkov;        Ukraine;        ;                 Telephone: 4 10 57;         Fax: ;         URL: ;         Primary Email: index_bc@ukr.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.81185
+2-Longitude: 30.06715
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=24">Please click here if you can update us</a>
+4-Special Collections: Ornamental shrubs, rare and endangered species, rose garden. Crataegus, Philadelphus, Populus, Begonia, Rosa, Syringa, Lonicera.
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=24">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=24">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BELA
+9-International Agenda Registration: Yes
+9-Primary Email: index_bc@ukr.net
+9-Telephone: 4 10 57
+9-URL: 

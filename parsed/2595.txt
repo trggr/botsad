@@ -1,12 +1,20 @@
-ID:	2595
-Name:	Flower Forest 
-Curator's Name:	
-Director's Name:	Director
-Info:	  Barbados - St Joseph  ;Garden Information;  Institution Code: BASJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Flower Forest; Richmond Plantation; St Joseph; Barbados; ;  Telephone: 246-433-8152; Fax: ; URL: <a target="_blank" href="http://www.barbados.org/sightseeing/flowerforest/">www.barbados.org/sightseeing/flowerforest/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1983
-Institution Type:	Other
-Latitude:	13.2023
-Longitude:	-59.5267
-Special Collections:	Includes a large collection of tropical ornamentals.
+0-ID: 2595
+1-Name: Flower Forest 
+2-Altitude: 0.00 Metres
+2-Date founded: 1983
+2-Info:              Institution Code: BASJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Flower Forest;         Richmond Plantation;                St Joseph;        Barbados;        ;                 Telephone: 246-433-8152;         Fax: ;         URL: www.barbados.org/sightseeing/flowerforest/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 13.2023
+2-Longitude: -59.5267
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2595">Please click here if you can update us</a>
+4-Special Collections: Includes a large collection of tropical ornamentals.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2595">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2595">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2595">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BASJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 246-433-8152
+9-URL: www.barbados.org/sightseeing/flowerforest/

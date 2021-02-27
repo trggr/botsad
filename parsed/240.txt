@@ -1,11 +1,19 @@
-ID:	240
-Name:	Tadzhikistan State University Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr. (Mrs.) K.N. Nimadzhanova
-Info:	  Tajikistan - Dushanbe  ;Garden Information;  Institution Code: TADU; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Tadzhikistan State University Botanic Garden; Box 48, 734025 DUSHANBE, Tajikistan; Dushanbe; Tajikistan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1959
-Institution Type:	Botanic Garden
-Latitude:	38.5737
-Longitude:	68.7738
-Special Collections:	Orchard, nut, citrus, trees, shrubs, vegetables, grasses.
+0-ID: 240
+1-Name: Tadzhikistan State University Botanic Garden 
+2-Date founded: 1959
+2-Info:              Institution Code: TADU;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Tadzhikistan State University Botanic Garden;         Box 48,  734025 DUSHANBE,  Tajikistan;                Dushanbe;        Tajikistan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.5737
+2-Longitude: 68.7738
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=240">Please click here if you can update us</a>
+4-Special Collections: Orchard, nut, citrus, trees, shrubs, vegetables, grasses.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=240">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=240">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=240">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TADU
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

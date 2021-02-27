@@ -1,11 +1,19 @@
-ID:	1091
-Name:	Arboretumul Simeria 
-Curator's Name:	
-Director's Name:	
-Info:	  Romania - Simeria  ;Garden Information;  Institution Code: SIMRA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretumul Simeria; Str. Biscarisi N1, 2625 SIMERIA, Jud Hunedoara, Romania.; Simeria; Romania; ;  Telephone: 40 54 261254; Fax: 40 54 261254; URL: <a target="_blank" href="http://">; Primary Email: icashd@bx.logicnet.ro ; 
-Plant Records Officer's Name:	
-Date founded:	2018
-Institution Type:	Botanic Garden
-Latitude:	45.8476
-Longitude:	23.0012
-Special Collections:	Native and exotic trees and shrubs. Gymnosperms, including Abies pinsapo, A. cephalonica “simeria”, A. homolepis. Fagaceae such as Quercus imbricaria, Q. macrocarpa and Q. libani. Robinia pseudoacacia, Celtis occidentalis, Taxodium distichum. 14% of the t
+0-ID: 1091
+1-Name: Arboretumul Simeria 
+2-Date founded: 2018
+2-Info:              Institution Code: SIMRA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretumul Simeria;         Str. Biscarisi N1,  2625 SIMERIA,  Jud Hunedoara,  Romania.;                Simeria;        Romania;        ;                 Telephone: 40 54 261254;         Fax: 40 54 261254;         URL: ;         Primary Email: icashd@bx.logicnet.ro       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.8476
+2-Longitude: 23.0012
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1091">Please click here if you can update us</a>
+4-Special Collections: Native and exotic trees and shrubs. Gymnosperms, including Abies pinsapo, A. cephalonica “simeria”, A. homolepis. Fagaceae such as Quercus imbricaria, Q. macrocarpa and Q. libani. Robinia pseudoacacia, Celtis occidentalis, Taxodium distichum. 14% of the t
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1091">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1091">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1091">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 40 54 261254
+9-Institution Code: SIMRA
+9-International Agenda Registration: No
+9-Primary Email: icashd@bx.logicnet.ro
+9-Telephone: 40 54 261254
+9-URL: 

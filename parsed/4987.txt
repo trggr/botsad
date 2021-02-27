@@ -1,16 +1,20 @@
-ID:	4987
-Name:	MWH Seed Bank for New Zealand's Threatened Plants 
-Curator's Name:	Zane Webber
-Director's Name:	-
-Info:	  New Zealand - Manawatu-Wanganui - Palmerston North  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; MWH Seed Bank for New Zealand's Threatened Plants; Margot Forde Germplasm Centre, Tennent Drive; Private Bag 11008; Palmerston North; Manawatu-Wanganui 4442 New Zealand; ;  Telephone: +64 6 351 8012; Fax: ; URL: <a target="_blank" href="http://www.agresearch.co.nz/business/services/germplasm-centre/Pages/default.aspx">http://www.agresearch.co.nz/business/services/germplasm-centre/Pages/default.aspx; Primary Email: info@nzpcn.org.nz ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	-40.39121
-Longitude:	175.60954
-Computer Plant Record System:	Yes
-Seed Bank:	Yes
-Accession Number:	65000
-Cultivation Taxa Num:	1800
-Conservation Programme:	Yes
-Plant Breeding:	Yes
+0-ID: 4987
+1-Name: MWH Seed Bank for New Zealand's Threatened Plants 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         MWH Seed Bank for New Zealand's Threatened Plants;         Margot Forde Germplasm Centre, Tennent Drive;        Private Bag 11008;        Palmerston North;        Manawatu-Wanganui 4442 New Zealand;        ;                 Telephone: +64 6 351 8012;         Fax: ;         URL: http://www.agresearch.co.nz/business/services/germplasm-centre/Pages/default.aspx;         Primary Email: info@nzpcn.org.nz       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: -40.39121
+2-Longitude: 175.60954
+3-Computer Plant Record System: Yes
+3-Seed Bank: Yes
+4-Accession Number: 65000
+4-Cultivation Taxa Num: 1800
+5-Conservation Programme: Yes
+6-Plant Breeding: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4987">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@nzpcn.org.nz
+9-Telephone: +64 6 351 8012

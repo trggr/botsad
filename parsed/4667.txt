@@ -1,9 +1,18 @@
-ID:	4667
-Name:	Zoo New England - Franklin Park Zoo & Stone Zoo 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  United States of America - Massachusetts - Boston  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Zoo New England - Franklin Park Zoo & Stone Zoo; 1 Franklin Park Road; Boston; Massachusetts 02121 United States of America; ;  Telephone: (617) 989-2053; Fax: ; URL: <a target="_blank" href="http://www.zoonewengland.org">www.zoonewengland.org; Primary Email: info@zoonewengland.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	42.3028180
-Longitude:	-71.0863996
+0-ID: 4667
+1-Name: Zoo New England - Franklin Park Zoo & Stone Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Zoo New England - Franklin Park Zoo & Stone Zoo;         1 Franklin Park Road;                Boston;        Massachusetts 02121 United States of America;        ;                 Telephone: (617) 989-2053;         Fax: ;         URL: www.zoonewengland.org;         Primary Email: info@zoonewengland.com       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 42.3028180
+2-Longitude: -71.0863996
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4667">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4667">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4667">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4667">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4667">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@zoonewengland.com
+9-Telephone: (617) 989-2053
+9-URL: www.zoonewengland.org

@@ -1,11 +1,19 @@
-ID:	888
-Name:	Botanical Research Centre SEMENGOH 
-Curator's Name:	
-Director's Name:	Director of Forests.
-Info:	  Malaysia - Sarawak - Kuching  ;Garden Information;  Institution Code: SAR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Research Centre SEMENGOH; c/o Forest Department Headquarters,; Wisma Sumber Alam; Kuching; Sarawak 93660 KUCHING Malaysia; ;  Telephone: 60 82 615161; Fax: 60 82 441377; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	1.6019
-Longitude:	110.3244
-Special Collections:	Wild orchids, Nepenthes and palms.
+0-ID: 888
+1-Name: Botanical Research Centre SEMENGOH 
+2-Date founded: 1976
+2-Info:              Institution Code: SAR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Research Centre SEMENGOH;         c/o Forest Department Headquarters,;        Wisma Sumber Alam;        Kuching;        Sarawak 93660 KUCHING Malaysia;        ;                 Telephone: 60 82 615161;         Fax: 60 82 441377;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 1.6019
+2-Longitude: 110.3244
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=888">Please click here if you can update us</a>
+4-Special Collections: Wild orchids, Nepenthes and palms.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=888">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=888">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=888">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 60 82 441377
+9-Institution Code: SAR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 60 82 615161
+9-URL: 

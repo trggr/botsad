@@ -1,55 +1,59 @@
-ID:	1248
-Name:	Wellington Botanic Garden 
-Fax:	64 4 499 1903
-Info:	  New Zealand - Wellington  ;Garden Information;  Institution Code: WELTN; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	treehouse@wcc.govt.nz
-Telephone:	64 4 499 1400
-Administration Staff Number:	6
-Curator's Name:	Karin van der Walt
-Director's Name:	David Sole
-Educational Staff Number:	
-Horticultural Staff Number:	19
-Plant Records Officer's Name:	Eleanor Burton
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1868
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-41.28316
-Local Address:	101 Glenmore Street
-Locality:	Information
-Longitude:	174.76745
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Truby King Park. This park, once the house and garden of Sir Truby and Lady Isabella King, Plunket Society co-founders, is a 1.9 hectare heritage-listed estate. Designed by prominent local architect Gray Young, the 1923 house has New Zealand Historic Places Trust and Wellington City Council heritage listings. The house and garden were originally known as ‘Mount Melrose’. The remainder of the estate, including the former Karitane Products Society factory and Karitane Hospital, is now owned privately. Truby King was an avid gardener in later life, planting many pines, rhododendrons, azaleas and roses, and building elaborate brickwork structures
-Total Area:	130 Hectares
-Arboretum:	Yes
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	1500000
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Herbs, camellias, modern and heritage roses, conifers, begonias, cacti and succulents, ferns, perennials, grasses, native streamside, woodland gardens, red garden, floral bedding, native and exotic trees and NZ forest areas.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Ecology:	Yes
-Ecosystem Conservation:	No
-Invasive Species Biology and Control:	Yes
-Plant Breeding:	Yes
-Seed/Spore Biology:	Yes
-Urban Environments:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1248
+1-Name: Wellington Botanic Garden 
+2-Administration Staff Number: 6
+2-Curator's Name: Karin van der Walt
+2-Director's Name: David Sole
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 19
+2-Info:              Institution Code: WELTN;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/1248/Wellington Botanic Garden.jpg" alt="Wellington Botanic Garden - Main Garden, Stonebridge Gully" />         Wellington Botanic Garden - Main Garden, Stonebridge Gully</div>        </div>                           About the Wellington Botanic Garden        Exceptional blend of native bush, exotic trees, plant collections and stunning seasonal floral bedding displays – including 25,000 tulips in spring. Check out the award-winning Lady Norwood Rose Garden, the Begonia House conservatory tropical and temperate areas, succulent, fragrant and herb gardens, duck pond, historic conifer collection, sculpture walk, Peace Flame garden and a heritage rose collection in the adjacent Bolton Street Memorial Park. Set in a landscape of steep topography, views of the city and garden are exquisite. The Treehouse Visitor Centre offers garden information and exhibits, and a gift shop and Picnic café are located in the Begonia House. Otari Wilton's Bush is New Zealand's only native botanic garden and consists of 75ha of indigenous forest and 25ha of landscaped areas containing native threatened species;                        Main Address:;         Wellington Botanic Garden;         Wellington City Council;        P.O. Box 2199;        Wellington;        6012 New Zealand;        ;                 Telephone: 64 4 499 1400;         Fax: 64 4 499 1903;         URL: www.wellington.govt.nz;         Primary Email: treehouse@wcc.govt.nz       ;              
+2-Plant Records Officer's Name: Eleanor Burton
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1868
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: -41.28316
+3-Local Address: 101 Glenmore Street
+3-Locality: Information
+3-Longitude: 174.76745
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Truby King Park. This park, once the house and garden of Sir Truby and Lady Isabella King, Plunket Society co-founders, is a 1.9 hectare heritage-listed estate. Designed by prominent local architect Gray Young, the 1923 house has New Zealand Historic Places Trust and Wellington City Council heritage listings. The house and garden were originally known as ‘Mount Melrose’. The remainder of the estate, including the former Karitane Products Society factory and Karitane Hospital, is now owned privately. Truby King was an avid gardener in later life, planting many pines, rhododendrons, azaleas and roses, and building elaborate brickwork structures
+3-Total Area: 130 Hectares
+4-Arboretum: Yes
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 1500000
+4-Open to public: Yes
+4-Published Plant Catalogue: No
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Herbs, camellias, modern and heritage roses, conifers, begonias, cacti and succulents, ferns, perennials, grasses, native streamside, woodland gardens, red garden, floral bedding, native and exotic trees and NZ forest areas.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: No
+6-Reintroduction Programme: No
+7-Ecology: Yes
+7-Ecosystem Conservation: No
+7-Invasive Species Biology and Control: Yes
+7-Plant Breeding: Yes
+7-Seed/Spore Biology: Yes
+7-Urban Environments: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: 64 4 499 1903
+9-Institution Code: WELTN
+9-International Agenda Registration: Yes
+9-Primary Email: treehouse@wcc.govt.nz
+9-Telephone: 64 4 499 1400
+9-URL: www.wellington.govt.nz

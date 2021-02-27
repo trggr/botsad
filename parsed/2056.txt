@@ -1,12 +1,20 @@
-ID:	2056
-Name:	Kinabalu Park. 
-Curator's Name:	Mr. Jamili Nais
-Director's Name:	Mr. Lamri Ali
-Info:	  Malaysia - Kota Kinabalu  ;Garden Information;  Institution Code: KINAB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kinabalu Park.; P.O. Box 10626, 88806 KOTA KINABALU, Sabah, Malaysia.; Kota Kinabalu; Malaysia; ;  Telephone: 60 88 889396, 01 810 626; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1981
-Institution Type:	Other
-Latitude:	5.9726
-Longitude:	116.0705
-Special Collections:	Kinabalu orchids, Nepenthes, rhododendrons.
+0-ID: 2056
+1-Name: Kinabalu Park. 
+2-Altitude: 0.00 Metres
+2-Date founded: 1981
+2-Info:              Institution Code: KINAB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kinabalu Park.;         P.O. Box 10626,  88806 KOTA KINABALU,  Sabah,  Malaysia.;                Kota Kinabalu;        Malaysia;        ;                 Telephone: 60 88 889396, 01 810 626;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 5.9726
+2-Longitude: 116.0705
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2056">Please click here if you can update us</a>
+4-Special Collections: Kinabalu orchids, Nepenthes, rhododendrons.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2056">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2056">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2056">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KINAB
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 60 88 889396, 01 810 626
+9-URL: 

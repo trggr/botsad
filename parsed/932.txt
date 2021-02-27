@@ -1,11 +1,19 @@
-ID:	932
-Name:	Madurai Kamraj University Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Madurai  ;Garden Information;  Institution Code: MADUR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Madurai Kamraj University Botanic Garden; Division of Plant Sciences, Madurai Kamraj University, MADURAI 625 021, Tamil Nadu, India.; Madurai; India; ;  Telephone: 33171; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1973
-Institution Type:	Botanic Garden
-Latitude:	9.9139
-Longitude:	78.1217
-Special Collections:	Trees & shrubs (3,500 accessions), local succulents, Nagamalai flora.
+0-ID: 932
+1-Name: Madurai Kamraj University Botanic Garden 
+2-Date founded: 1973
+2-Info:              Institution Code: MADUR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Madurai Kamraj University Botanic Garden;         Division of Plant Sciences, Madurai Kamraj University,  MADURAI 625 021,  Tamil Nadu,  India.;                Madurai;        India;        ;                 Telephone: 33171;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 9.9139
+2-Longitude: 78.1217
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=932">Please click here if you can update us</a>
+4-Special Collections: Trees & shrubs (3,500 accessions), local succulents, Nagamalai flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=932">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=932">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=932">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MADUR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 33171
+9-URL: 

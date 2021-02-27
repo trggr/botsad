@@ -1,19 +1,22 @@
-ID:	2028
-Name:	Hergest Croft Gardens 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	Mr. W.L Banks
-Educational Staff Number:	
-Horticultural Staff Number:	6
-Info:	  United Kingdom - Herefordshire - Kington  ;Garden Information;  Institution Code: HCRFT; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Hergest Croft Gardens; Kington; Herefordshire HR5 3EG United Kingdom; ;  Telephone: 01544 230160; Fax: 01544 232031; URL: <a target="_blank" href="http://www.hergest.co.uk">www.hergest.co.uk; Primary Email: gardens@hergest.co.uk ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1896
-Institution Type:	Other
-Latitude:	52.204048
-Longitude:	-3.04563
-Total Area:	20 Hectares
-Number of Visitors:	12000
-Cultivation Taxa Num:	2000
-Special Collections:	Betulaceae, Aceraceae, Rosaceae, Ulmaceae, Pinaceae, Ericaceae. Betula, Acer, Alnus, Sorbus, Tilia, Quercus, Zelkova, Picea, Pinus, Abies, Rhododendron, Viburnum.
+0-ID: 2028
+1-Name: Hergest Croft Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1896
+2-Info:              Institution Code: HCRFT;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Hergest Croft Gardens;                         Kington;        Herefordshire HR5 3EG United Kingdom;        ;                 Telephone: 01544 230160;         Fax: 01544 232031;         URL: www.hergest.co.uk;         Primary Email: gardens@hergest.co.uk       ;              
+2-Institution Type: Other
+2-Latitude: 52.204048
+2-Longitude: -3.04563
+2-Total Area: 20 Hectares
+3-Number of Visitors: 12000
+4-Cultivation Taxa Num: 2000
+4-Special Collections: Betulaceae, Aceraceae, Rosaceae, Ulmaceae, Pinaceae, Ericaceae. Betula, Acer, Alnus, Sorbus, Tilia, Quercus, Zelkova, Picea, Pinus, Abies, Rhododendron, Viburnum.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2028">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2028">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2028">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 01544 232031
+9-Institution Code: HCRFT
+9-International Agenda Registration: No
+9-Primary Email: gardens@hergest.co.uk
+9-Telephone: 01544 230160
+9-URL: www.hergest.co.uk

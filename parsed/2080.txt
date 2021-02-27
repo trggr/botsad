@@ -1,13 +1,21 @@
-ID:	2080
-Name:	Arboretum of Jiangxi Institute of Forestry Science 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Jiangxi - Nanchang  ;Garden Information;  Institution Code: JIANG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of Jiangxi Institute of Forestry Science; Meiling Scenic Spot, Maiyuan, Nanchang, Jiangxi, 330032, China; Nanchang; Jiangxi China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1980
-Institution Type:	Botanic Garden
-Latitude:	28.6777
-Local Address:	中国江西省南昌麦园梅岭风景区，邮编 330032
-Locality:	Information
-Longitude:	115.8958
-Special Collections:	Magnolia and woody plants
+0-ID: 2080
+1-Name: Arboretum of Jiangxi Institute of Forestry Science 
+2-Date founded: 1980
+2-Info:              Institution Code: JIANG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of Jiangxi Institute of Forestry Science;         Meiling Scenic Spot, Maiyuan, Nanchang, Jiangxi, 330032, China;                Nanchang;        Jiangxi China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.6777
+2-Local Address: 中国江西省南昌麦园梅岭风景区，邮编 330032
+2-Locality: Information
+2-Longitude: 115.8958
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2080">Please click here if you can update us</a>
+4-Special Collections: Magnolia and woody plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2080">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2080">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2080">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: JIANG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,78 +1,78 @@
-ID:	4220
-Name:	Finca Los Monos Botanical Garden 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Lin Gillingham
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Info:	  Panama - Isla Colon  ;Garden Information;  Institution Code: FLMPA; International Agenda Registration: No; BGCI Member: No; About the Finca Los Monos Botanical Garden Situated on Isla Colon, ten minutes from the historical town of Bocas, the botanical garden is set on 9.6 hectare (24 acres)span across a narrow part of the island. Growing in the lush climate are heliconias, gingers, palms, flowering trees, fruits and spices. ; Open ocean to the east offers stunning views of the Bocas archipelago and westwards a calm lagoon protected by mangroves.; Our mission is to conserve the uniqueness of this land, to educate future generations and to give a small insight to visitors of the delights and wonders of tropical gardening.;  Main Address:; Finca Los Monos Botanical Garden; La Loma del Idaan; Bocas del Toro; Isla Colon; Panama; ;  Telephone: (507) 757 9461; Fax: (507) 757 9461; URL: <a target="_blank" href="http://www.bocasdeltorobotanicalgarden.com">www.bocasdeltorobotanicalgarden.com; Primary Email: gillinghamdl@yahoo.com ; 
-Plant Records Officer's Name:	Lin Gillingham
-Research Staff Number:	
-Altitude:	80.00 Metres
-Annual Rainfall:	7000 mm
-Date founded:	2007
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	9.3887
-Local Address:	La loma del Idaan, Isla Colon, Republic de Panama
-Locality:	Information
-Longitude:	-82.2707
-Natural Vegetation Area:	Yes
-Total Area:	10 Hectares
-Total area of shadehouses:	250 Metres
-Arboretum:	Yes
-Arboretum Size:	1
-Computer Plant Record System:	No
-Disabled access:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	700
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	1200
-Cultivation Taxa Num:	400
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	No
-Special Collections:	Worldwide collection of palms, large collection of heliconias, gingers, calatheas, fruits, native trees, spices and ornamentals.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	Yes
+0-ID: 4220
+1-Name: Finca Los Monos Botanical Garden 
+2-Altitude: 80.00 Metres
+2-Annual Rainfall: 7000 mm
+2-Date founded: 2007
+2-Info:              Institution Code: FLMPA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Finca Los Monos Botanical Garden        Situated on Isla Colon, ten minutes from the historical town of Bocas, the botanical garden is set on 9.6 hectare (24 acres)span across a narrow part of the island. Growing in the lush climate are heliconias, gingers, palms, flowering trees, fruits and spices. ;  Open ocean to the east offers stunning views of the Bocas archipelago and westwards a calm lagoon protected by mangroves.;  Our mission is to conserve the uniqueness of this land, to educate future generations and to give a small insight to visitors of the delights and wonders of tropical gardening.;                        Main Address:;         Finca Los Monos Botanical Garden;         La Loma del Idaan;        Bocas del Toro;        Isla Colon;        Panama;        ;                 Telephone: (507) 757 9461;         Fax: (507) 757 9461;         URL: www.bocasdeltorobotanicalgarden.com;         Primary Email: gillinghamdl@yahoo.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 9.3887
+2-Local Address: La loma del Idaan, Isla Colon, Republic de Panama
+2-Locality: Information
+2-Longitude: -82.2707
+2-Natural Vegetation Area: Yes
+2-Total Area: 10 Hectares
+2-Total area of shadehouses: 250 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 1
+3-Computer Plant Record System: No
+3-Disabled access: No
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 700
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: No
+4-Accession Number: 1200
+4-Cultivation Taxa Num: 400
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: No
+4-Special Collections: Worldwide collection of palms, large collection of heliconias, gingers, calatheas, fruits, native trees, spices and ornamentals.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: No
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: No
+7-Special Exhibitions: No
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (507) 757 9461
+9-Institution Code: FLMPA
+9-International Agenda Registration: No
+9-Primary Email: gillinghamdl@yahoo.com
+9-Telephone: (507) 757 9461
+9-URL: www.bocasdeltorobotanicalgarden.com

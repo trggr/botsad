@@ -1,10 +1,19 @@
-ID:	4831
-Name:	Lytes Cary Manor 
-Curator's Name:	
-Director's Name:	Mike Calnan
-Info:	  United Kingdom - Somerset - Somerton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Lytes Cary Manor Charming Somerset manor house inhabited by the Lyte family from the 13th to 18th centuries. Henry Lyte's Nieuw Herbal - a translation from the work of a Flemish herbalist - was dedicated to Queen Elizabeth I. The property was neglected after the Lyte family left in 1748 but was rescued by Sir Walter Jenner who bought it in 1907. Sir Walter created a wonderful garden divided by clipped yew hedges, with colourful shrubs, roses and a herbaceous border. A raised walk overlooking the orchard is planted with crab apples, medlar, quince and spring bulbs. A yew-hedged walk leads to a formal pool with statues of Flora and Diana. Hornbeam tunnel leads to crescent of variegated weigela.;  Main Address:; Lytes Cary Manor; Charlton Mackrell; Somerton; Somerset TA11 7HU United Kingdom; ;  Telephone: 07786661602; Fax: ; URL: <a target="_blank" href="http://www.nationaltrust.org.uk/lytes-cary-manor/">www.nationaltrust.org.uk/lytes-cary-manor/; Primary Email: ; 
-Plant Records Officer's Name:	Alison Crook - Plant Collections Curator
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	51.036723
-Longitude:	-2.666046
+0-ID: 4831
+1-Name: Lytes Cary Manor 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Lytes Cary Manor        Charming Somerset manor house inhabited by the Lyte family from the 13th to 18th centuries. Henry Lyte's Nieuw Herbal - a translation from the work of a Flemish herbalist - was dedicated to Queen Elizabeth I. The property was neglected after the Lyte family left in 1748 but was rescued by Sir Walter Jenner who bought it in 1907. Sir Walter created a wonderful garden divided by clipped yew hedges, with colourful shrubs, roses and a herbaceous border. A raised walk overlooking the orchard is planted with crab apples, medlar, quince and spring bulbs. A yew-hedged walk leads to a formal pool with statues of Flora and Diana. Hornbeam tunnel leads to crescent of variegated weigela.;                        Main Address:;         Lytes Cary Manor;         Charlton Mackrell;                Somerton;        Somerset TA11 7HU United Kingdom;        ;                 Telephone: 07786661602;         Fax: ;         URL: www.nationaltrust.org.uk/lytes-cary-manor/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 51.036723
+2-Longitude: -2.666046
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4831">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4831">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4831">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4831">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4831">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 07786661602
+9-URL: www.nationaltrust.org.uk/lytes-cary-manor/

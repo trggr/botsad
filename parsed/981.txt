@@ -1,12 +1,20 @@
-ID:	981
-Name:	The University Botanical Garden 
-Curator's Name:	
-Director's Name:	Dr. Tsc. S. Hamrakulov
-Info:	  Uzbekistan - Samarkand  ;Garden Information;  Institution Code: SAMK; International Agenda Registration: No; BGCI Member: No;  Main Address:; The University Botanical Garden; M. Gorky Bulvar 15, 703004 SAMARKAND, Uzbekistan; Samarkand; Uzbekistan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1970
-Institution Type:	Botanic Garden
-Latitude:	39.5
-Longitude:	67.02
-Special Collections:	Trees and shrubs, fruit trees.
+0-ID: 981
+1-Name: The University Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1970
+2-Info:              Institution Code: SAMK;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The University Botanical Garden;         M. Gorky Bulvar 15, 703004 SAMARKAND, Uzbekistan;                Samarkand;        Uzbekistan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.5
+2-Longitude: 67.02
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=981">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs, fruit trees.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=981">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=981">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=981">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SAMK
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

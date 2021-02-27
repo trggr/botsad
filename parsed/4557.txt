@@ -1,9 +1,18 @@
-ID:	4557
-Name:	Applewood Estates 
-Curator's Name:	Mike Belco, Integrated Pest Management Specialist
-Director's Name:	Deborah Elliott, Estate Manager
-Info:	  United States of America - Michigan - Flint  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Applewood Estates; Ruth Mott Foundation; 1400 East Kearsley Street; Flint; Michigan 48503 United States of America; ;  Telephone: (810) 233-3835; Fax: ; URL: <a target="_blank" href="http://www.applewood.org">www.applewood.org; Primary Email: delliott@rmfdn.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	43.0224919
-Longitude:	-83.6791738
+0-ID: 4557
+1-Name: Applewood Estates 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Applewood Estates;         Ruth Mott Foundation;        1400 East Kearsley Street;        Flint;        Michigan 48503 United States of America;        ;                 Telephone: (810) 233-3835;         Fax: ;         URL: www.applewood.org;         Primary Email: delliott@rmfdn.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.0224919
+2-Longitude: -83.6791738
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4557">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4557">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4557">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4557">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4557">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: delliott@rmfdn.org
+9-Telephone: (810) 233-3835
+9-URL: www.applewood.org

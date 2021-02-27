@@ -1,9 +1,17 @@
-ID:	4426
-Name:	Abkhazi Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Canada - British Columbia - Victoria  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Abkhazi Garden; 1964 Fairfield Road; Victoria; British Columbia V8S 1H4 Canada; ;  Telephone: (250) 598-8096; Fax: ; URL: <a target="_blank" href="http://blog.conservancy.bc.ca/properties/vancouver-island-region/abkhazi-garden/visiting-abkhazi-garden/">http://blog.conservancy.bc.ca/properties/vancouver-island-region/abkhazi-garden/visiting-abkhazi-garden/; Primary Email: abkhazi@conservancy.bc.ca ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	48.415687
-Longitude:	-123.32619
+0-ID: 4426
+1-Name: Abkhazi Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Abkhazi Garden;         1964 Fairfield Road;                Victoria;        British Columbia V8S 1H4 Canada;        ;                 Telephone: (250) 598-8096;         Fax: ;         URL: http://blog.conservancy.bc.ca/properties/vancouver-island-region/abkhazi-garden/visiting-abkhazi-garden/;         Primary Email: abkhazi@conservancy.bc.ca       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.415687
+2-Longitude: -123.32619
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4426">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4426">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4426">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4426">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4426">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: abkhazi@conservancy.bc.ca
+9-Telephone: (250) 598-8096

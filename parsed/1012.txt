@@ -1,11 +1,19 @@
-ID:	1012
-Name:	Ballarat Botanic Gardens 
-Curator's Name:	James Reynolds
-Director's Name:	
-Info:	  Australia - Victoria - Ballarat  ;Garden Information;  Institution Code: LEGNF; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Ballarat Botanic Gardens; c/o Horticultural Officer City of Ballarat, PO Box 655,; Ballarat; Victoria 3353 Australia; ;  Telephone: 61 (0)3 5320 7444; Fax: 61 (0)3 5334 3133; URL: <a target="_blank" href="http://">; Primary Email: info@begonia.ballarat.net.au ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-37.5362494
-Longitude:	143.8726117
-Special Collections:	10 % of collection is Australian flora. Begonia tuberhybrida - Large Flowered Exhibition.
+0-ID: 1012
+1-Name: Ballarat Botanic Gardens 
+2-Date founded: 
+2-Info:              Institution Code: LEGNF;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Ballarat Botanic Gardens;         c/o Horticultural Officer City of Ballarat, PO Box 655,;                Ballarat;        Victoria 3353 Australia;        ;                 Telephone: 61 (0)3 5320 7444;         Fax: 61 (0)3 5334 3133;         URL: ;         Primary Email: info@begonia.ballarat.net.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -37.5362494
+2-Longitude: 143.8726117
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1012">Please click here if you can update us</a>
+4-Special Collections: 10 % of collection is Australian flora. Begonia tuberhybrida - Large Flowered Exhibition.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1012">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1012">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1012">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 61 (0)3 5334 3133
+9-Institution Code: LEGNF
+9-International Agenda Registration: No
+9-Primary Email: info@begonia.ballarat.net.au
+9-Telephone: 61 (0)3 5320 7444
+9-URL: 

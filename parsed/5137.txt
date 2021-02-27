@@ -1,9 +1,18 @@
-ID:	5137
-Name:	Dunn Gardens 
-Curator's Name:	Quill Teal-Sullivan, Director of Historic Preservation
-Director's Name:	Beth Weir, Executive Director
-Info:	  United States of America - Washington - Seattle  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dunn Gardens; 13533 Northshire Rd NW; Mailing: P.O. Box 77126; Seattle; Washington 98177 United States of America; ;  Telephone: (206) 362-0933; Fax: (206)367-2318; URL: <a target="_blank" href="http://dunngardens.org/">http://dunngardens.org/; Primary Email: info@dunngardens.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	47.727820
-Longitude:	-122.362736
+0-ID: 5137
+1-Name: Dunn Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dunn Gardens;         13533 Northshire Rd NW;        Mailing: P.O. Box 77126;        Seattle;        Washington 98177 United States of America;        ;                 Telephone: (206) 362-0933;         Fax: (206)367-2318;         URL: http://dunngardens.org/;         Primary Email: info@dunngardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.727820
+2-Longitude: -122.362736
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5137">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5137">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5137">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5137">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5137">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (206)367-2318
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 77126
+9-Primary Email: info@dunngardens.org
+9-Telephone: (206) 362-0933

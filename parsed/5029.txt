@@ -1,9 +1,18 @@
-ID:	5029
-Name:	Foundation El Arbol 
-Curator's Name:	
-Director's Name:	
-Info:	  Netherlands - Heemskerk  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Foundation El Arbol; Luxemburglaan 341; Heemskerk; 1966 MC Netherlands; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: vanvuurensaski@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	52.4989654
-Longitude:	4.67748
+0-ID: 5029
+1-Name: Foundation El Arbol 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Foundation El Arbol;         Luxemburglaan 341;                Heemskerk;        1966 MC Netherlands;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email: vanvuurensaski@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 52.4989654
+2-Longitude: 4.67748
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5029">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5029">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5029">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5029">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5029">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: vanvuurensaski@gmail.com
+9-Telephone: 
+9-URL: 

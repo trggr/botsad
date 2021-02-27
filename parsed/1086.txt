@@ -1,11 +1,19 @@
-ID:	1086
-Name:	Rotorua Arboretum 
-Curator's Name:	
-Director's Name:	Dr. J. Kininmonth
-Info:	  New Zealand - Rotorua  ;Garden Information;  Institution Code: NZFRI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Rotorua Arboretum; Forest Research Institute, P.B., ROTORUA, New Zealand.; Rotorua; New Zealand; ;  Telephone: 64 (0)7 347 5899; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1947
-Institution Type:	Botanic Garden
-Latitude:	-38.160004
-Longitude:	176.265366
-Special Collections:	Provenance trials and clonal archives for a range of timber trees.
+0-ID: 1086
+1-Name: Rotorua Arboretum 
+2-Date founded: 1947
+2-Info:              Institution Code: NZFRI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Rotorua Arboretum;         Forest Research Institute,  P.B., ROTORUA,  New Zealand.;                Rotorua;        New Zealand;        ;                 Telephone: 64 (0)7 347 5899;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -38.160004
+2-Longitude: 176.265366
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1086">Please click here if you can update us</a>
+4-Special Collections: Provenance trials and clonal archives for a range of timber trees.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1086">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1086">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1086">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NZFRI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 64 (0)7 347 5899
+9-URL: 

@@ -1,12 +1,20 @@
-ID:	819
-Name:	Tokyo Metropolitan Medicinal Plants Garden 
-Curator's Name:	
-Director's Name:	Hiroshi Tanaka
-Info:	  Japan - Tokyo  ;Garden Information;  Institution Code: TOKMM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tokyo Metropolitan Medicinal Plants Garden; 72 Nakajima - cho, Kodaira - shi, TOKYO 187, Japan.; Tokyo; Japan; ;  Telephone: 0423(41)0344; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1945
-Institution Type:	Botanic Garden
-Latitude:	35.6784
-Longitude:	139.6822
-Special Collections:	Medicinal plants, Papaver, Aconitum.
+0-ID: 819
+1-Name: Tokyo Metropolitan Medicinal Plants Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1945
+2-Info:              Institution Code: TOKMM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Tokyo Metropolitan Medicinal Plants Garden;         72 Nakajima - cho,  Kodaira - shi,  TOKYO 187,  Japan.;                Tokyo;        Japan;        ;                 Telephone: 0423(41)0344;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.6784
+2-Longitude: 139.6822
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=819">Please click here if you can update us</a>
+4-Special Collections: Medicinal plants, Papaver, Aconitum.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=819">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=819">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=819">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TOKMM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0423(41)0344
+9-URL: 

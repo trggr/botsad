@@ -1,53 +1,56 @@
-ID:	3614
-Name:	Siit Arboretum Botanical Garden 
-Fax:	
-Info:	  Philippines - Negros Oriental - Dumaguete  ;Garden Information;  Institution Code: SIIT; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	siitarboretum@yahoo.com
-Telephone:	63(0)35 4262050
-Administration Staff Number:	1
-Curator's Name:	Eric Hanquinet
-Director's Name:	Pol Carino
-Educational Staff Number:	1
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	Eric Hanquinet
-Research Staff Number:	
-Altitude:	25.00 Metres
-Annual Rainfall:	900 mm
-Date founded:	1999
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	9.3007
-Local Address:	Lutoban - Zamboanguita,
-Locality:	Information
-Longitude:	123.3122
-Natural Vegetation Area:	Yes
-Total Area:	11 Hectares
-Arboretum:	Yes
-Arboretum Size:	10
-Computer Plant Record System:	Yes
-Disabled access:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-Accession Number:	650
-Cultivation Taxa Num:	50
-Invasive Species Monitoring:	Yes
-Special Collections:	African savannah
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Sustainability:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	No
+0-ID: 3614
+1-Name: Siit Arboretum Botanical Garden 
+2-Administration Staff Number: 1
+2-Curator's Name: Eric Hanquinet
+2-Director's Name: Pol Carino
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: SIIT;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/3614/pic BGCI.resized.jpg" alt="visiting schools" />         visiting schools</div>        </div>                           About the Siit Arboretum Botanical Garden        Siit Arboretum Botanical Garden is home to many collections of plants from the Philippines and  other places around the world.;   ;  BIODIVERSITY is our priority aim in making this garden, the safeguarding of our native species the hopeful outcome from the influence our visitors could give on their individual environments due to a closer link with the plant world following their visit.;                        Main Address:;         Siit Arboretum Botanical Garden;         C/O Park avenue hotel;        Perdices St.;        Dumaguete;        Negros Oriental 6200 Philippines;        ;                 Telephone: 63(0)35 4262050;         Fax: ;         URL: http://www.siitarboretum.com/;         Primary Email: siitarboretum@yahoo.com       ;              
+2-Plant Records Officer's Name: Eric Hanquinet
+2-Research Staff Number: 
+3-Altitude: 25.00 Metres
+3-Annual Rainfall: 900 mm
+3-Date founded: 1999
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 9.3007
+3-Local Address: Lutoban - Zamboanguita,
+3-Locality: Information
+3-Longitude: 123.3122
+3-Natural Vegetation Area: Yes
+3-Total Area: 11 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 10
+4-Computer Plant Record System: Yes
+4-Disabled access: No
+4-Herbarium: No
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-Accession Number: 650
+5-Cultivation Taxa Num: 50
+5-Invasive Species Monitoring: Yes
+5-Special Collections: African savannah
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: No
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: No
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Sustainability: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Special Exhibitions: No
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: SIIT
+9-International Agenda Registration: Yes
+9-Primary Email: siitarboretum@yahoo.com
+9-Telephone: 63(0)35 4262050

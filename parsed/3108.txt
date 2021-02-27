@@ -1,11 +1,19 @@
-ID:	3108
-Name:	Giardino Botanico delle Api orientali 
-Curator's Name:	
-Director's Name:	
-Info:	  Italy - Veneto  ;Garden Information;  Institution Code: FAVE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Botanico delle Api orientali; Monte Faverghera (BL), Corpo Forestale dello Stato die Belluno, Mkonte Faverghera, Veneto, Itlay; Veneto; Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	45.7357
-Longitude:	11.8617
-Special Collections:	oriental aplines, Physoplexis comosa, Paederota lutea, Paederota bonarota, Moehringia glaucovirens, Arenaria huteri, Wulfenia carinthica, Rhodothmanus chamaecistus
+0-ID: 3108
+1-Name: Giardino Botanico delle Api orientali 
+2-Date founded: 1969
+2-Info:              Institution Code: FAVE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino Botanico delle Api orientali;         Monte Faverghera (BL),  Corpo Forestale dello Stato die Belluno,  Mkonte Faverghera,  Veneto,  Itlay;                Veneto;        Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.7357
+2-Longitude: 11.8617
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3108">Please click here if you can update us</a>
+4-Special Collections: oriental aplines, Physoplexis comosa, Paederota lutea, Paederota bonarota, Moehringia glaucovirens, Arenaria huteri, Wulfenia carinthica, Rhodothmanus chamaecistus
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3108">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3108">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3108">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: FAVE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

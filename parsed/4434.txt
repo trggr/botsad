@@ -1,9 +1,18 @@
-ID:	4434
-Name:	Botanica, The Wichita Gardens 
-Curator's Name:	Pat McKernan, Landscape Supervisor
-Director's Name:	Marty Miller, Executive Director
-Info:	  United States of America - Kansas - Wichita  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanica, The Wichita Gardens; 701 North Amidon; Wichita; Kansas 67203 United States of America; ;  Telephone: (316) 264-0448; Fax: ; URL: <a target="_blank" href="http://www.botanica.org">www.botanica.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	37.6945720
-Longitude:	-97.3642020
+0-ID: 4434
+1-Name: Botanica, The Wichita Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanica, The Wichita Gardens;         701 North Amidon;                Wichita;        Kansas 67203 United States of America;        ;                 Telephone: (316) 264-0448;         Fax: ;         URL: www.botanica.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.6945720
+2-Longitude: -97.3642020
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4434">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4434">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4434">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4434">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4434">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (316) 264-0448
+9-URL: www.botanica.org

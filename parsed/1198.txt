@@ -1,17 +1,24 @@
-ID:	1198
-Name:	International Peace Garden 
-Curator's Name:	Connie Lagerquist, Horticutlurist
-Director's Name:	Doug Hevenor, CEO
-Info:	  United States of America - North Dakota (Manitoba - Canada) - Dunseith (Boissevain - Canada)  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the International Peace Garden Devoted to World Peace, along the world’s longest unfortified border, lies a 2,339 acre; Botanical Garden. Thousands of tourists are attracted to the garden, annually.;  Main Address:; International Peace Garden; RR 1 Box 116 (Box 419 - Canada); Dunseith (Boissevain - Canada); North Dakota (Manitoba - Canada) 58329, R0K0E0 Canada United States of America; ;  Telephone: (888) 432-6733; Fax: ; URL: <a target="_blank" href="http://www.peacegarden.com">www.peacegarden.com; Primary Email: kathy@peacegarden.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1932
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	48.9892100
-Longitude:	-100.0641200
-Natural Vegetation Area:	Yes
-Total Area:	947 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	No information available.
+0-ID: 1198
+1-Name: International Peace Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1932
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the International Peace Garden        Devoted to World Peace, along the world’s longest unfortified border, lies a 2,339 acre;  Botanical Garden. Thousands of tourists are attracted to the garden, annually.;                        Main Address:;         International Peace Garden;         RR 1 Box 116 (Box 419 - Canada);                Dunseith (Boissevain - Canada);        North Dakota (Manitoba - Canada) 58329, R0K0E0 Canada United States of America;        ;                 Telephone: (888) 432-6733;         Fax: ;         URL: www.peacegarden.com;         Primary Email: kathy@peacegarden.com       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 48.9892100
+2-Longitude: -100.0641200
+2-Natural Vegetation Area: Yes
+2-Total Area: 947 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1198">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1198">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1198">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: kathy@peacegarden.com
+9-Telephone: (888) 432-6733
+9-URL: www.peacegarden.com

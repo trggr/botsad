@@ -1,12 +1,20 @@
-ID:	1213
-Name:	Jardin Botanico Regional del CICY 
-Curator's Name:	
-Director's Name:	Dr. Roger Orellana Lanza
-Info:	  Mexico - Yucatan - Merida  ;Garden Information;  Institution Code: CICY; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Jardin Botanico Regional del CICY; Centro de Investigacion Cientifica de Yutacan (CICY); Calle 43 No. 130, Colonia Chuburná de Hidalgo; Merida; Yucatan 97200 Mexico; ;  Telephone: 00 52 (99) 81 39 14; Fax: 00 52 (99) 81 39 00; URL: <a target="_blank" href="http://www.cicy.mx">www.cicy.mx; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1983
-Institution Type:	Botanic Garden
-Latitude:	21.0599
-Longitude:	-89.3904
-Special Collections:	Agavaceae (32 taxa - 8 native), Cactaceae (16 spp - 15 native), Orchidaceae (72 spp., Encyclia (8sp) Epidendrum (8sp), Palmae (12 spp - 11 native), sand dune scrub and deciduous tropical forest, thorn forest, ornamentals, medicinals, aquatics, epiphytes,
+0-ID: 1213
+1-Name: Jardin Botanico Regional del CICY 
+2-Altitude: 0.00 Metres
+2-Date founded: 1983
+2-Info:              Institution Code: CICY;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Jardin Botanico Regional del CICY;         Centro de Investigacion Cientifica de Yutacan (CICY);        Calle 43 No. 130, Colonia Chuburná de Hidalgo;        Merida;        Yucatan 97200 Mexico;        ;                 Telephone: 00 52 (99) 81 39 14;         Fax: 00 52 (99) 81 39 00;         URL: www.cicy.mx;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 21.0599
+2-Longitude: -89.3904
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1213">Please click here if you can update us</a>
+4-Special Collections: Agavaceae (32 taxa - 8 native), Cactaceae (16 spp - 15 native), Orchidaceae (72 spp., Encyclia (8sp) Epidendrum (8sp), Palmae (12 spp - 11 native), sand dune scrub and deciduous tropical forest, thorn forest, ornamentals, medicinals, aquatics, epiphytes,
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1213">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1213">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1213">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 00 52 (99) 81 39 00
+9-Institution Code: CICY
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 00 52 (99) 81 39 14
+9-URL: www.cicy.mx

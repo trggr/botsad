@@ -1,11 +1,19 @@
-ID:	754
-Name:	Botanical Garden of Osaka City University 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Osaka  ;Garden Information;  Institution Code: OSAKU; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden of Osaka City University; Kisaichi, Katano-cho, Kitakawachi-gun, OSAKA 576, Japan.; Osaka; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	34.6784
-Longitude:	135.5073
-Special Collections:	Hibiscus, Hemerocallis and wild trees of Japan, Acer, Alnus, Camellia, Cinnamomum, Ilex, Lagerstroemia, Quercus, Rhus, Trapa, Thamnus, Vaccinium, Zanthoxylum
+0-ID: 754
+1-Name: Botanical Garden of Osaka City University 
+2-Date founded: 
+2-Info:              Institution Code: OSAKU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden of Osaka City University;         Kisaichi, Katano-cho,  Kitakawachi-gun,  OSAKA 576,  Japan.;                Osaka;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.6784
+2-Longitude: 135.5073
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=754">Please click here if you can update us</a>
+4-Special Collections: Hibiscus, Hemerocallis and wild trees of Japan, Acer, Alnus, Camellia, Cinnamomum, Ilex, Lagerstroemia, Quercus, Rhus, Trapa, Thamnus, Vaccinium, Zanthoxylum
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=754">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=754">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=754">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: OSAKU
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,9 +1,18 @@
-ID:	4149
-Name:	BiosHill - Ran No Sato Okinawa 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Okinawa - Uruma-City  ;Garden Information;  Institution Code: ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; BiosHill - Ran No Sato Okinawa; 961-30, Kadekaru; Ishikawa; Uruma-City; Okinawa 904-1114 Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	26.4227
-Longitude:	127.7998
+0-ID: 4149
+1-Name: BiosHill - Ran No Sato Okinawa 
+2-Info:              Institution Code: ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         BiosHill - Ran No Sato Okinawa;         961-30, Kadekaru;        Ishikawa;        Uruma-City;        Okinawa 904-1114 Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 26.4227
+2-Longitude: 127.7998
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4149">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4149">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4149">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4149">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4149">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

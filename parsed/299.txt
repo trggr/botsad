@@ -1,12 +1,20 @@
-ID:	299
-Name:	Landesmuseum Joanneum und Alpengarten Rannach 
-Curator's Name:	Dr.Detlef Ernet
-Director's Name:	
-Info:	  Austria - Graz  ;Garden Information;  Institution Code: GJO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Landesmuseum Joanneum und Alpengarten Rannach; Raubergasse 10 A 8010 GRAZ Austria.; Graz; Austria; ;  Telephone: (0316) 691 45 65; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1954
-Institution Type:	Other
-Latitude:	47.0805
-Longitude:	15.4930
-Special Collections:	Alpine plants
+0-ID: 299
+1-Name: Landesmuseum Joanneum und Alpengarten Rannach 
+2-Altitude: 0.00 Metres
+2-Date founded: 1954
+2-Info:              Institution Code: GJO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Landesmuseum Joanneum und Alpengarten Rannach;         Raubergasse 10  A 8010 GRAZ  Austria.;                Graz;        Austria;        ;                 Telephone: (0316) 691 45 65;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 47.0805
+2-Longitude: 15.4930
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=299">Please click here if you can update us</a>
+4-Special Collections: Alpine plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=299">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=299">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=299">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: GJO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (0316) 691 45 65
+9-URL: 

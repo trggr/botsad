@@ -1,10 +1,19 @@
-ID:	3632
-Name:	Botanical Garden of Belgorod State University 
-Curator's Name:	
-Director's Name:	
-Info:	  Russian Federation - Belgorod  ;Garden Information;  Institution Code: BSURU; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Botanical Garden of Belgorod State University; Pobediy st., 85; Belgorod; 308015 Russian Federation; ;  Telephone: +7 (0722) 30-11-01; 30-11-00; Fax: +7 (0722) 30-11-00; URL: <a target="_blank" href="http://www.bsu.edu.ru/Struktura/BotanicGarden/">www.bsu.edu.ru/Struktura/BotanicGarden/; Primary Email: maslov@bsu.edu.ru ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	50.5966
-Longitude:	36.6092
+0-ID: 3632
+1-Name: Botanical Garden of Belgorod State University 
+2-Date founded: 
+2-Info:              Institution Code: BSURU;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Botanical Garden of Belgorod State University;         Pobediy st., 85;                Belgorod;        308015 Russian Federation;        ;                 Telephone: +7 (0722) 30-11-01; 30-11-00;         Fax: +7 (0722) 30-11-00;         URL: www.bsu.edu.ru/Struktura/BotanicGarden/;         Primary Email: maslov@bsu.edu.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.5966
+2-Longitude: 36.6092
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3632">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3632">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3632">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3632">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3632">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +7 (0722) 30-11-00
+9-Institution Code: BSURU
+9-International Agenda Registration: Yes
+9-Primary Email: maslov@bsu.edu.ru
+9-Telephone: +7 (0722) 30-11-01
+9-URL: www.bsu.edu.ru/Struktura/BotanicGarden/

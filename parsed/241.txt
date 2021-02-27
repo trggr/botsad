@@ -1,55 +1,54 @@
-ID:	241
-Name:	Taipei Botanical Garden 
-Administration Staff Number:	7
-Curator's Name:	Dr. Su-Wei Fan
-Director's Name:	Mr. Bin Chang
-Educational Staff Number:	4
-Horticultural Staff Number:	15
-Info:	  Taiwan, China - Taipei City  ;Garden Information;  Institution Code: TAIF; International Agenda Registration: Yes; BGCI Member: Yes; About the Taipei Botanical Garden The Taipei Botanic Garden was first built as a nursery (Taipei Nursery) in 1896 during the Japanese colonial period. It was later expanded and renamed Taipei Botanical Garden in 1921 and became the first botanical garden in Taiwan. The garden was reassigned to be under the management of Taiwan Forestry Research Institute after the WWII.; ; The Garden occupies 8.2 hectares which contains the gardens of Gymnosperms, Ferns, Taxonomic Garden, Ethno-plants, Aquatic plants, Lotus pond, Taiwan Indigenous Plant Display Area and other theme exhibition sites with a collection of more than 2,000 plant species. It has become one of the most important institute for the research and educational resource for plants in Taiwan.; ; Taipei Botanical Garden also happens to be an unearthed cultural relic of the old Taipei Lake. Around 4,500 years ago, the lake became habitable land, and human activities started to take place in the area. The abundant cultural remnants left behind makes the botanical garden an important archeological site in Taiwan.; In addition, there are two historic monuments in the garden - the Herbarium and Museum of Imperial Envoy Lodging (formerly known as the Guest House of Imperial Envoys). The Herbarium was built in 1924 and was the first herbarium in Taiwan. The worldwide plant specimens collection dated back from the last century along with abundant living plants makes the garden a precious place in Taiwan. The Guest House of Imperial Envoys was built in 1888 at the location of the Taipei Zhongshan Hall. It was relocated to the current site in 1933.;  Main Address:; Taipei Botanical Garden; Botanical Garden Division, Taiwan Forestry Research Institute; 53, Nanhai Road; Taipei City; 10066 Taiwan, China; ;  Telephone: 886 2 23039978 ext. 2701; Fax: 886 2 23076220; URL: <a target="_blank" href="http://tpbg.tfri.gov.tw/en/Introduction.php">http://tpbg.tfri.gov.tw/en/Introduction.php; Primary Email: tfribio@tfri.gov.tw ; 
-Plant Records Officer's Name:	Ms. Shu-Hui Wu
-Research Staff Number:	18
-Altitude:	0.00 Metres
-Annual Rainfall:	2800 mm
-Date founded:	1896
-Institution Type:	Botanic Garden
-Latitude:	25.0618
-Local Address:	南海路53號
-Locality:	Information
-Longitude:	121.5475
-Natural Vegetation Area:	No
-Total Area:	8 Hectares
-Disabled access:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	1500000
-Number of Volunteers:	190
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	5000
-Cultivation Taxa Num:	1221
-Special Collections:	Economic trees and tropical to subtropical plants.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Molecular Genetics:	Yes
-Pollination Biology:	Yes
-Seed/Spore Biology:	Yes
-Systematics and Taxonomy:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	No
+0-ID: 241
+1-Name: Taipei Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 2800 mm
+2-Date founded: 1896
+2-Info:              Institution Code: TAIF;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Taipei Botanical Garden        The Taipei Botanic Garden was first built as a nursery (Taipei Nursery) in 1896 during the Japanese colonial period. It was later expanded and renamed Taipei Botanical Garden in 1921 and became the first botanical garden in Taiwan. The garden was reassigned to be under the management of Taiwan Forestry Research Institute after the WWII.;  ;       The Garden occupies 8.2 hectares which contains the gardens of Gymnosperms, Ferns, Taxonomic Garden, Ethno-plants, Aquatic plants, Lotus pond, Taiwan Indigenous Plant Display Area and other theme exhibition sites with a collection of more than 2,000 plant species. It has become one of the most important institute for the research and educational resource for plants in Taiwan.;  ;       Taipei Botanical Garden also happens to be an unearthed cultural relic of the old Taipei Lake. Around 4,500 years ago, the lake became habitable land, and human activities started to take place in the area. The abundant cultural remnants left behind makes the botanical garden an important archeological site in Taiwan.;  In addition, there are two historic monuments in the garden - the Herbarium and Museum of Imperial Envoy Lodging (formerly known as the Guest House of Imperial Envoys). The Herbarium was built in 1924 and was the first herbarium in Taiwan. The worldwide plant specimens collection dated back from the last century along with abundant living plants makes the garden a precious place in Taiwan. The Guest House of Imperial Envoys was built in 1888 at the location of the Taipei Zhongshan Hall. It was relocated to the current site in 1933.;                        Main Address:;         Taipei Botanical Garden;         Botanical Garden Division, Taiwan Forestry Research Institute;        53, Nanhai Road;        Taipei City;        10066 Taiwan, China;        ;                 Telephone: 886 2 23039978 ext. 2701;         Fax: 886 2 23076220;         URL: http://tpbg.tfri.gov.tw/en/Introduction.php;         Primary Email: tfribio@tfri.gov.tw       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.0618
+2-Local Address: 南海路53號
+2-Locality: Information
+2-Longitude: 121.5475
+2-Natural Vegetation Area: No
+2-Total Area: 8 Hectares
+3-Disabled access: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 1500000
+3-Number of Volunteers: 190
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Accession Number: 5000
+4-Cultivation Taxa Num: 1221
+4-Special Collections: Economic trees and tropical to subtropical plants.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Molecular Genetics: Yes
+6-Pollination Biology: Yes
+6-Seed/Spore Biology: Yes
+6-Systematics and Taxonomy: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: 886 2 23076220
+9-Institution Code: TAIF
+9-International Agenda Registration: Yes
+9-Primary Email: tfribio@tfri.gov.tw
+9-Telephone: 886 2 23039978 ext. 2701

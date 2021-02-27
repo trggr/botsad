@@ -1,28 +1,29 @@
-ID:	1042
-Name:	Arboretum Novy Dvur 
-Administration Staff Number:	3
-Curator's Name:	Dipl.Ing. Milan Velicka
-Director's Name:	Dipl.Ing. Miroslav Frank
-Educational Staff Number:	5
-Horticultural Staff Number:	13
-Info:	  Czech Republic - Steborice  ;Garden Information;  Institution Code: AND; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Novy Dvur; Slezski muzeum Opava, 74751 Posta STEBORICE, Czech Republic; Steborice; Czech Republic; ;  Telephone: 0653 93131; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	5
-Altitude:	0.00 Metres
-Date founded:	1958
-Institution Type:	Botanic Garden
-Latitude:	49.9377
-Longitude:	17.8089
-Total Area:	23 Hectares
-Arboretum:	Yes
-Arboretum Size:	23
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	32000
-Open to public:	Yes
-Seed Bank:	No
-Cultivation Taxa Num:	10000
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Education:	Yes
+0-ID: 1042
+1-Name: Arboretum Novy Dvur 
+2-Altitude: 0.00 Metres
+2-Date founded: 1958
+2-Info:              Institution Code: AND;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Novy Dvur;         Slezski muzeum Opava, 74751 Posta STEBORICE, Czech Republic;                Steborice;        Czech Republic;        ;                 Telephone: 0653 93131;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.9377
+2-Longitude: 17.8089
+2-Total Area: 23 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 23
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 32000
+3-Open to public: Yes
+3-Seed Bank: No
+4-Cultivation Taxa Num: 10000
+5-Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Education: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1042">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AND
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0653 93131
+9-URL: 

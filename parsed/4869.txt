@@ -1,12 +1,21 @@
-ID:	4869
-Name:	Sanbangsan Beewon 
-Curator's Name:	Jung-Hyen Shin
-Director's Name:	Deok-Hun Kim
-Info:	  South Korea - gyeongsangnam-do - Geoje-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sanbangsan Beewon; 197 Sanbang-ri, Doondeok-myeon; Geoje-si; gyeongsangnam-do South Korea; ;  Telephone: 055-633-1221; Fax: 055-633-5515; URL: <a target="_blank" href="http://www.beeone.co.kr">www.beeone.co.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	34.86069
-Local Address:	둔덕면 산방리 197
-Locality:	Information
-Longitude:	128.52662
+0-ID: 4869
+1-Name: Sanbangsan Beewon 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sanbangsan Beewon;         197 Sanbang-ri, Doondeok-myeon;                Geoje-si;        gyeongsangnam-do South Korea;        ;                 Telephone: 055-633-1221;         Fax: 055-633-5515;         URL: www.beeone.co.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.86069
+2-Local Address: 둔덕면 산방리 197
+2-Locality: Information
+2-Longitude: 128.52662
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4869">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4869">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4869">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4869">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4869">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 055-633-5515
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 055-633-1221
+9-URL: www.beeone.co.kr

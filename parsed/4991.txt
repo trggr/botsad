@@ -1,18 +1,23 @@
-ID:	4991
-Name:	Arboretum Anita Holmann 
-Curator's Name:	
-Director's Name:	Director
-Info:	  Nicaragua - Rivas  ;Garden Information;  Institution Code: BG5753; International Agenda Registration: No; BGCI Member: No; About the Arboretum Anita Holmann 1. Features and facilities; ; The Arboretum Anita Holmann has an area of 45 hectares, is a band of approximately 150 m wide by 3000 m long, and connects at one end to the South Panamerican Highway and the other end to the great lake of Nicaragua. It is crossed by the river The Galpa. The terrain is mostly flat with a few undulations in the south. The soil is clay loam with some rocky areas. ; ; Throughout the arboretum are large trees and a riparian forest is found along the river.; ; The arboretum has access to the South Panamerican Highway and it located to 115.5 kilometers from Managua. The river that is part of the property can be used to obtain water for irrigation of plants during the dry season. The arboretum soon will have an interpretive center and viewpoints along the area.; ; The site was formerly a cattle farm and has extensive facilities that can be converted into offices, dormitories and research laboratories.; ; The arboretum uses a truck that is part of the UNO foundation to which belong the arboretum.; ; ; 2. Plant collections; ; The arboretum has about 74 species of fruit plants from Nicaragua, grouped in an area of 20 natives, 45 introduced species and 9 lianas and vines, this numbers include those fruit species that are disappearing in Nicaragua.; ; 3. Conservation Program; ; The arboretum is a home to endangered species of fruit plants list of Nicaragua, in the near future these species will be place in nurseries to be sent to other areas outside the arboretum with the aim of conserving the species and that the population can have a variety of fruits as part of their diet.; ; 4. Research Program; ; The Arboretum has contacts with the International School of Agriculture and Livestock and National Autonomous University of Nicaragua-Leon for monitoring of plantations, including growth rate and diseases.; ; 5. Educational program; ; The Arboretum Anita Holmann has as part of their priorities the environmental education so that students from colleges and universities can visit the arboretum to learn about maintenance techniques of tree populations using compost, fruit types, species conservation, production of organic fertilizer etc.. The student and all the visitors will be aware of the different themes that can be seen in the garden in the interpretative center, hand out, signs, placard and posters.;  Main Address:; Arboretum Anita Holmann; Carretera Panamericana Sur; Km 115.3, Rivas,; Rivas Nicaragua; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	67.15 Metres
-Annual Rainfall:	1345 mm
-Institution Type:	Botanic Garden
-Latitude:	11.438476
-Longitude:	-85.828367
-Total Area:	45 Hectares
-Open to public:	Yes
-Special Collections:	The arboretum has about 74 species of fruit plants from Nicaragua, grouped in an area of 20 natives, 45 introduced species and 9 lianas and vines, this numbers include those fruit species that are disappearing in Nicaragua.
-Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Education Signs in Garden:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 4991
+1-Name: Arboretum Anita Holmann 
+2-Altitude: 67.15 Metres
+2-Annual Rainfall: 1345 mm
+2-Info:              Institution Code: BG5753;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Arboretum Anita Holmann        1. Features and facilities;  ;  The Arboretum Anita Holmann has an area of 45 hectares, is a band of approximately 150 m wide by 3000 m long, and connects at one end to the South Panamerican Highway and the other end to the great lake of Nicaragua. It is crossed by the river The Galpa. The terrain is mostly flat with a few undulations in the south. The soil is clay loam with some rocky areas. ;  ;  Throughout the arboretum are large trees and a riparian forest is found along the river.;  ;  The arboretum has access to the South Panamerican Highway and it located to 115.5 kilometers from Managua. The river that is part of the property can be used to obtain water for irrigation of plants during the dry season. The arboretum soon will have an interpretive center and viewpoints along the area.;  ;  The site was formerly a cattle farm and has extensive facilities that can be converted into offices, dormitories and research laboratories.;  ;  The arboretum uses a truck that is part of the UNO foundation to which belong the arboretum.;  ;  ;  2. Plant collections;  ;  The arboretum has about 74 species of fruit plants from Nicaragua, grouped in an area of 20 natives, 45 introduced species and 9 lianas and vines, this numbers include those fruit species that are disappearing in Nicaragua.;  ;  3. Conservation Program;  ;  The arboretum is a home to endangered species of fruit plants list of Nicaragua, in the near future these species will be place in nurseries to be sent to other areas outside the arboretum with the aim of conserving the species and that the population can have a variety of fruits as part of their diet.;  ;  4. Research Program;  ;  The Arboretum has contacts with the International School of Agriculture and Livestock and National Autonomous University of Nicaragua-Leon for monitoring of plantations, including growth rate and diseases.;  ;  5. Educational program;  ;  The Arboretum Anita Holmann has as part of their priorities the environmental education so that students from colleges and universities can visit the arboretum to learn about maintenance techniques of tree populations using compost, fruit types, species conservation, production of organic fertilizer etc.. The student and all the visitors will be aware of the different themes that can be seen in the garden in the interpretative center, hand out, signs, placard and posters.;                        Main Address:;         Arboretum Anita Holmann;         Carretera Panamericana Sur;        Km 115.3, Rivas,;                Rivas Nicaragua;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 11.438476
+2-Longitude: -85.828367
+2-Total Area: 45 Hectares
+3-Open to public: Yes
+4-Special Collections: The arboretum has about 74 species of fruit plants from Nicaragua, grouped in an area of 20 natives, 45 introduced species and 9 lianas and vines, this numbers include those fruit species that are disappearing in Nicaragua.
+5-Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4991">Please click here if you can update us</a>
+7-Education Signs in Garden: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BG5753
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

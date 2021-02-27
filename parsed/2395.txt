@@ -1,11 +1,19 @@
-ID:	2395
-Name:	Gisborne Botanic Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  Australia - Kyneton  ;Garden Information;  Institution Code: GISB; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gisborne Botanic Gardens; Macedon Ranges Shire Council, PO Box 151, KYNETON, VIC 3444, Australia; Kyneton; Australia; ;  Telephone: 61 (0)3 5422 1433; Fax: 61 (0)3 5422 3623; URL: <a target="_blank" href="http://">; Primary Email: mrsc@macedon-ranges.vic.gov.au ; 
-Plant Records Officer's Name:	
-Date founded:	1991
-Institution Type:	Botanic Garden
-Latitude:	-37.48414
-Longitude:	144.58824
-Special Collections:	5 % of collection if Australian flora.
+0-ID: 2395
+1-Name: Gisborne Botanic Gardens 
+2-Date founded: 1991
+2-Info:              Institution Code: GISB;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gisborne Botanic Gardens;         Macedon Ranges Shire Council,  PO Box 151, KYNETON,  VIC 3444,  Australia;                Kyneton;        Australia;        ;                 Telephone: 61 (0)3 5422 1433;         Fax: 61 (0)3 5422 3623;         URL: ;         Primary Email: mrsc@macedon-ranges.vic.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -37.48414
+2-Longitude: 144.58824
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2395">Please click here if you can update us</a>
+4-Special Collections: 5 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2395">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2395">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2395">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5422 3623
+9-Institution Code: GISB
+9-International Agenda Registration: No
+9-Primary Email: mrsc@macedon-ranges.vic.gov.au
+9-Telephone: 61 (0)3 5422 1433
+9-URL: 

@@ -1,26 +1,29 @@
-ID:	2526
-Name:	Cape Fear Botanical Garden 
-Administration Staff Number:	10
-Curator's Name:	Antonio Ramirez
-Director's Name:	Executive Director & Director of Horticulture & Education
-Educational Staff Number:	1
-Horticultural Staff Number:	6
-Info:	  United States of America - North Carolina - Fayetteville  ;Garden Information;  Institution Code: FEAR; International Agenda Registration: No; BGCI Member: No; About the Cape Fear Botanical Garden Cape Fear Botanical Garden serves this region as a center for:; ; Enrichment, inspiration and enjoyment of nature; ; The collection, culture and aesthetic display of plants; ; Encouragement of environmental stewardship; ; Conservation, education and research; ; The preservation of our agricultural heritage; and ; Engagement and involvement of the community.;  Main Address:; Cape Fear Botanical Garden; 536 N. Eastern Boulevard; Mailing: P.O. Box 53485; Fayetteville; North Carolina 28305 United States of America; ;  Telephone: (910) 486-0221; Fax: (910) 486-4209; URL: <a target="_blank" href="http://www.capefearbg.org">www.capefearbg.org; Primary Email: info@capefearbg.org ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	80.00 Metres
-Annual Rainfall:	1153 mm
-Date founded:	1989
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	35.0549010
-Longitude:	-78.8621740
-Natural Vegetation Area:	Yes
-Total Area:	32 Hectares
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Accession Number:	2000
-Special Collections:	pine and hardwood forest
-Education Booklets/Leaflets:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2526
+1-Name: Cape Fear Botanical Garden 
+2-Altitude: 80.00 Metres
+2-Annual Rainfall: 1153 mm
+2-Date founded: 1989
+2-Info:              Institution Code: FEAR;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Cape Fear Botanical Garden        Cape Fear Botanical Garden serves this region as a center for:;  ;  Enrichment, inspiration and enjoyment of nature; ;  The collection, culture and aesthetic display of plants; ;  Encouragement of environmental stewardship; ;  Conservation, education and research; ;  The preservation of our agricultural heritage; and ;  Engagement and involvement of the community.;                        Main Address:;         Cape Fear Botanical Garden;         536 N. Eastern Boulevard;        Mailing: P.O. Box 53485;        Fayetteville;        North Carolina 28305 United States of America;        ;                 Telephone: (910) 486-0221;         Fax: (910) 486-4209;         URL: www.capefearbg.org;         Primary Email: info@capefearbg.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 35.0549010
+2-Longitude: -78.8621740
+2-Natural Vegetation Area: Yes
+2-Total Area: 32 Hectares
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-Accession Number: 2000
+4-Special Collections: pine and hardwood forest
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2526">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2526">Please click here if you can update us</a>
+7-Education Booklets/Leaflets: Yes
+7-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: (910) 486-4209
+9-Institution Code: FEAR
+9-International Agenda Registration: No
+9-Mailing: P.O. Box 53485
+9-Primary Email: info@capefearbg.org
+9-Telephone: (910) 486-0221
+9-URL: www.capefearbg.org

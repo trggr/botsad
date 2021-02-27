@@ -1,9 +1,17 @@
-ID:	5328
-Name:	UC Davis Botanical Conservatory 
-Curator's Name:	Eva Bayon, Assistant Curator
-Director's Name:	Ernesto Sandoval
-Info:	  United States of America - California - Davis  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; UC Davis Botanical Conservatory; Department of Plant Biology; 1 Shields Avenue; Davis; California 95616 United States of America; ;  Telephone: (530) 752-0569; Fax: ; URL: <a target="_blank" href="http://greenhouse.ucdavis.edu/conservatory/index.html">http://greenhouse.ucdavis.edu/conservatory/index.html; Primary Email: jesandoval@ucdavis.edu ; 
-Plant Records Officer's Name:	Marlene Simon, Nursery Technician
-Institution Type:	Botanic Garden
-Latitude:	38.540972
-Longitude:	-121.746408
+0-ID: 5328
+1-Name: UC Davis Botanical Conservatory 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         UC Davis Botanical Conservatory;         Department of Plant Biology;        1 Shields Avenue;        Davis;        California 95616 United States of America;        ;                 Telephone: (530) 752-0569;         Fax: ;         URL: http://greenhouse.ucdavis.edu/conservatory/index.html;         Primary Email: jesandoval@ucdavis.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.540972
+2-Longitude: -121.746408
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5328">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5328">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5328">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5328">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5328">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jesandoval@ucdavis.edu
+9-Telephone: (530) 752-0569

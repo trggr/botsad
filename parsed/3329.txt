@@ -1,11 +1,19 @@
-ID:	3329
-Name:	Tunduru Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Mozambique - Maputo  ;Garden Information;  Institution Code: TMA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Tunduru Botanical Garden; P.O. Box 251 MAPUTO; Maputo; Mozambique; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-25.9686
-Longitude:	32.5804
-Special Collections:	41 families are represented amongst the plant collections, Cycadaceae, palmae, Araceae, Araliaceae, collection of herbaceous and succulent plants.
+0-ID: 3329
+1-Name: Tunduru Botanical Garden 
+2-Date founded: 
+2-Info:              Institution Code: TMA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Tunduru Botanical Garden;         P.O. Box 251 MAPUTO;                Maputo;        Mozambique;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -25.9686
+2-Longitude: 32.5804
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3329">Please click here if you can update us</a>
+4-Special Collections: 41 families are represented amongst the plant collections, Cycadaceae, palmae, Araceae, Araliaceae, collection of herbaceous and succulent plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3329">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3329">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3329">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TMA
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

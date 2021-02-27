@@ -1,12 +1,21 @@
-ID:	4351
-Name:	Parque Zoobotânico Orquidario Municipal de Santos 
-Curator's Name:	Paulo Gonzalez Monteiro
-Director's Name:	Greicilene Regina Pedro
-Info:	  Brazil - São Paulo - Santos  ;Garden Information;  Institution Code: PZOMS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Parque Zoobotânico Orquidario Municipal de Santos; Praça Washington s/n, Bairro: José Menino; Santos; São Paulo 11065-600 Brazil; ;  Telephone: (13) 3237 6970; Fax: (13) 3225 1353; URL: <a target="_blank" href="http://www.santoscidade.com.br/orq.htm">http://www.santoscidade.com.br/orq.htm; Primary Email: orquidario-setur@santos.sp.gov.br ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1945
-Institution Type:	Botanic Garden
-Latitude:	-23.96586
-Longitude:	-46.34996
-Total Area:	1 Hectares
+0-ID: 4351
+1-Name: Parque Zoobotânico Orquidario Municipal de Santos 
+2-Altitude: 0.00 Metres
+2-Date founded: 1945
+2-Info:              Institution Code: PZOMS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Parque Zoobotânico Orquidario Municipal de Santos;         Praça Washington s/n, Bairro: José Menino;                Santos;        São Paulo 11065-600 Brazil;        ;                 Telephone: (13) 3237 6970;         Fax: (13) 3225 1353;         URL: http://www.santoscidade.com.br/orq.htm;         Primary Email: orquidario-setur@santos.sp.gov.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -23.96586
+2-Longitude: -46.34996
+2-Total Area: 1 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4351">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4351">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4351">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4351">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4351">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (13) 3225 1353
+9-Institution Code: PZOMS
+9-International Agenda Registration: No
+9-Praça Washington s/n, Bairro: José Menino
+9-Primary Email: orquidario-setur@santos.sp.gov.br
+9-Telephone: (13) 3237 6970

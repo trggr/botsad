@@ -1,112 +1,113 @@
-ID:	900
-Name:	Government College University, Lahore Botanic Garden (BGGC) 
--" src="https:	//www.bgci.org/files/ERABG/project_images/crop%20off%20lower%20part%20to%20show%20only%20the%20hill%20forest.JPG" alt="" width="530" height="398" />
--"garden-project" style="margin-top:	1em"> Restoration of Dryland Ecosystems in Pakistan <!-- <img src="/files/ERABG/project_images/mdm-SoanValleyPakistan_small.jpg" alt="" /> --> BGCI&nbsp
--<img style="display:	block
--<p style="text-align:	center
--Piloting restoration of a unique yet vanishing natural resource, which can be downloaded <a href="http:	//www.bgci.org/files/Worldwide/News/2015jan_feb/PakistanWoodlowres.pdf" target="_blank">here.
--font-family:	"Calibri","sans-serif"
--font-size:	11.0pt
--line-height:	115%
--margin-left:	auto
--margin-right:	auto
--mso-ascii-font-family:	Calibri
--mso-ascii-theme-font:	minor-latin
--mso-fareast-font-family:	"Times New Roman"
--mso-fareast-theme-font:	minor-fareast
--mso-hansi-font-family:	Calibri
--mso-hansi-theme-font:	minor-latin
--mso-padding-alt:	0cm 5.4pt 0cm 5.4pt
--mso-pagination:	widow-orphan
--mso-para-margin-bottom:	10.0pt
--mso-para-margin-left:	0cm
--mso-para-margin-right:	0cm
--mso-para-margin-top:	0cm
--mso-style-noshow:	yes
--mso-style-parent:	""
--mso-style-priority:	99
--mso-style-qformat:	yes
--mso-tstyle-colband-size:	0
--mso-tstyle-rowband-size:	0
-Fax:	(92 42) 9213341
-Info:	  Pakistan - Punjab - Lahore  ;Garden Information;<a href="#tabs-3">Restoration Projects;  Institution Code: LAHOR; International Agenda Registration: No; BGCI Member: Yes; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; 
-Primary Email:	botanicgarden@gcu.edu.pk
-Telephone:	(92 42) 111000010/256,257, (92 42 6118849) (92 42 6118849)
-Administration Staff Number:	3
-Curator's Name:	Dr.Zafar Siddiq
-Director's Name:	Prof. Dr.Amin U Khan
-Educational Staff Number:	2
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	Dr.Zafar Siddiq
-Research Staff Number:	5
-Altitude:	234.00 Metres
-Annual Rainfall:	350 mm
-Date founded:	1912
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	31.3800
-Local Address:	NA
-Locality:	Information
-Longitude:	73.3800
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Satellite Garden of Indigenous Vegetation at Harappa Mound
-Total Area:	15 Hectares
-Total area of glasshouses:	10 Metres
-Total area of shadehouses:	20 Metres
-Arboretum:	Yes
-Arboretum Size:	5
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	5000
-Number of Volunteers:	10
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	No
-Accession Number:	950
-Cultivation Taxa Num:	700
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Plants are used for teaching and research.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	No
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	Yes
+0-ID: 900
+1-Name: Government College University, Lahore Botanic Garden (BGGC) 
+2-Administration Staff Number: 3
+2-Curator's Name: Dr.Zafar Siddiq
+2-Director's Name: Prof. Dr.Amin U Khan
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: LAHOR;             International Agenda Registration: No;        BGCI Member: Yes;                       ArbNet Accredited:          Level I       ;                                       <img src="/photos/900/GCBG, Pakistan.jpg" alt="View of one of the Plot at Botanic Garden Government College University Lahore Pakistan" />         View of one of the Plot at Botanic Garden Government College University Lahore Pakistan</div>        </div>                           About the Government College University, Lahore Botanic Garden (BGGC)        GCBG was established in 1912 and this is the oldest Botanic Garden of Pakistan.The Garden is also the "Secretariat of Pakistan Botanic Gardens Network". The Garden is well connected both inside and abroad. For the last three years the collaborative project with BGCI is being carried out here which focuses on the restoration of Dry land ecosystems in Punjab.;                        Main Address:;         Government College University, Lahore Botanic Garden (BGGC);         Department of Botany, Government College University;        Katchery Road;        Lahore;        Punjab 54000 Pakistan;        ;                 Telephone: (92 42) 111000010/256,257, (92 42 6118849) (92 42 6118849);         Fax: (92 42) 9213341;         URL: www.gcu.edu.pk/Botn.htm;         Primary Email: botanicgarden@gcu.edu.pk       ;              
+2-Plant Records Officer's Name: Dr.Zafar Siddiq
+2-Research Staff Number: 5
+3-Altitude: 234.00 Metres
+3-Annual Rainfall: 350 mm
+3-Date founded: 1912
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 31.3800
+3-Local Address: NA
+3-Locality: Information
+3-Longitude: 73.3800
+3-Natural Vegetation Area: Yes
+3-Satellite Garden Names: Satellite Garden of Indigenous Vegetation at Harappa Mound
+3-Total Area: 15 Hectares
+3-Total area of glasshouses: 10 Metres
+3-Total area of shadehouses: 20 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 5
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 5000
+4-Number of Volunteers: 10
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: No
+5-Accession Number: 950
+5-Cultivation Taxa Num: 700
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Plants are used for teaching and research.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: Yes
+7-Plant Breeding: No
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: No
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: Yes
+9-"garden-project" style="margin-top: 1em"> Restoration of Dryland Ecosystems in Pakistan <!-- <img src="/files/ERABG/project_images/mdm-SoanValleyPakistan_small.jpg" alt="" /> --> BGCI&nbsp
+9-ArbNet Accredited: Level I
+9-BGCI Member: Yes
+9-Fax: (92 42) 9213341
+9-Institution Code: LAHOR
+9-International Agenda Registration: No
+9-Primary Email: botanicgarden@gcu.edu.pk
+9-Telephone: (92 42) 111000010/256,257, (92 42 6118849) (92 42 6118849)
+9-URL: www.gcu.edu.pk/Botn.htm
+9-font-family: "Calibri","sans-serif"
+9-font-size: 11.0pt
+9-line-height: 115%
+9-margin-left: auto
+9-margin-right: auto
+9-mso-ascii-font-family: Calibri
+9-mso-ascii-theme-font: minor-latin
+9-mso-fareast-font-family: "Times New Roman"
+9-mso-fareast-theme-font: minor-fareast
+9-mso-hansi-font-family: Calibri
+9-mso-hansi-theme-font: minor-latin
+9-mso-padding-alt: 0cm 5.4pt 0cm 5.4pt
+9-mso-pagination: widow-orphan
+9-mso-para-margin-bottom: 10.0pt
+9-mso-para-margin-left: 0cm
+9-mso-para-margin-right: 0cm
+9-mso-para-margin-top: 0cm
+9-mso-style-noshow: yes
+9-mso-style-parent: ""
+9-mso-style-priority: 99
+9-mso-style-qformat: yes
+9-mso-tstyle-colband-size: 0
+9-mso-tstyle-rowband-size: 0

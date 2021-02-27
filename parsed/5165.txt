@@ -1,92 +1,96 @@
-ID:	5165
-Name:	Qur'anic Botanic Garden 
-Aesthetic Elements:	Gardens & Greening
-Ecology:	Water, Air, Organism
-Fax:	+974 44548304
-Info:	  Qatar - Qatar - Doha  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; 
-Mission:	To promote a complete understanding of the plants, botanic terms and conservation principles mentioned in the Holy Qur’an, Hadith and Sunnah by applying scientific innovations, building appreciation of cultural traditions and by creating a garden that will provide unique opportunities for learning.
-Morals & Ethics Values:	Behaviors & Law
-Primary Email:	qbg@qf.org.qa
-Sustainability:	Conservation (Seeds) & Food Security (Farms)
-Telephone:	+974 44541542
-Vision:	A garden of a worldwide center of excellence for knowledge, education and research, and bridge cultures in inspiring appreciation of nature and fostering responsibility for our environment.
-Administration Staff Number:	4
-Curator's Name:	Ahmed Elgharib, Assistant Researcher
-Director's Name:	Fatima S. Al-Khulaifi
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	Mohamed Hassona, Horticulturist
-Research Staff Number:	1
-Altitude:	70.00 Metres
-Annual Rainfall:	13 mm
-Date founded:	2008
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	25.2893292
-Local Address:	Al-Laqta Street
-Locality:	Information
-Longitude:	51.4594191
-Natural Vegetation Area:	No
-Total Area:	2 Hectares
-Total area of glasshouses:	150 Metres
-Total area of shadehouses:	1000 Metres
-Arboretum:	Yes
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	30000
-Number of Volunteers:	56
-Open to public:	No
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	No
-Accession Number:	2618
-Cultivation Taxa Num:	52
-Global conservation for Plants takes many techniques that sustainably conserve the plants as follows:	
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	The conservation and nursery technique in the Qur’anic Botanic Garden
-• Cultivation collections:	Plants under horticultural care in a constructed landscape, typically a botanic garden or arboreta.
-• Cuttings:	
-• Inter situ:	Plants are under horticulture care, but the environment is managed to near natural conditions.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 5165
+1-Name: Qur'anic Botanic Garden 
+2-Administration Staff Number: 4
+2-Curator's Name: Ahmed Elgharib, Assistant Researcher
+2-Director's Name: Fatima S. Al-Khulaifi
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/5165/QBG Logo 200PX.png" alt="" />         </div>        </div>                           About the Qur'anic Botanic Garden        The Qur’anic Botanic Garden, a member of Qatar Foundation for Education, Science and Community Development, the first of its kind in the world announced to exhibit all the plant species mentioned in the Holy Qur’an, and those in the Hadith and Sunnah (Sayings & traditions of the Prophet Muhammad PBUH). The Qur’anic Botanic Garden was inaugurated by Her Highness Sheikha Moza bint Nasser, Chairperson of Qatar Foundation, on 17 September 2008. To mark the event, she planted the Garden’s very first tree, the Sidra (Ziziphus spina-christi Willd, Sidr), which is also the symbol of the Foundation. The Garden exhibits the botanical terms mentioned in the Holy Qur’an, explaining the significance of their mention in the Holy Qur’an, as well as the scientific explanations of composition, application and usefulness to man. It inspires appreciation of nature by encouraging respect and responsibility for our environment.;  ;  Vision: A garden of a worldwide center of excellence for knowledge, education and research, and bridge cultures in inspiring appreciation of nature and fostering responsibility for our environment.;  ;  Mission: To promote a complete understanding of the plants, botanic terms and conservation principles mentioned in the Holy Qur’an, Hadith and Sunnah by applying scientific innovations, building appreciation of cultural traditions and by creating a garden that will provide unique opportunities for learning.;  ;  Roles:;  ENVIRONMENTAL ROLE:;  The Garden aims to maintain and preserve the diversity of plants collected from different regions of the world against dangers or threats.;  ;  EDUCATIONAL ROLE:;  The Garden's Educational program for schools produces basic and applied information on plants, horticulture, conservation and cultural heritage throughout multiple applied and interactive activities.;  ;  SCIENTIFIC ROLE:;  The Garden facilities research on Horticulture, Conservation, Biotechnology, Medicinal and Biotechnology, Medicinal and Socio-economic values of the plants of the Holy Qur’an and Hadith.;  ;  CULTURAL ROLE:;  The revival of cultural tradition is a main goal for the Qur’anic Botanic Garden. The Garden aims to be the first destination for the whole family, who can enjoy and learn around its activities.;  ;  RECREATIONAL ROLE;  The Qur’anic Botanic Garden, with unique design, contents and objectives, is an inspiring and generous place, committed to serving its community.;  ;  Concepts:;  Sustainability : Conservation (Seeds) & Food Security (Farms);  ;  Aesthetic Elements: Gardens & Greening;  ;  Morals & Ethics Values: Behaviors & Law;  ;  Ecology: Water, Air, Organism;                        Main Address:;         Qur'anic Botanic Garden;         Qatar Foundation;        P.O. Box 5825;        Doha;        Qatar 05825 Qatar;        ;                 Telephone: +974 44541542;         Fax: +974 44548304;         URL: www.qbg.org.qa;         Primary Email: qbg@qf.org.qa       ;              
+2-Plant Records Officer's Name: Mohamed Hassona, Horticulturist
+2-Research Staff Number: 1
+3-Altitude: 70.00 Metres
+3-Annual Rainfall: 13 mm
+3-Date founded: 2008
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 25.2893292
+3-Local Address: Al-Laqta Street
+3-Locality: Information
+3-Longitude: 51.4594191
+3-Natural Vegetation Area: No
+3-Total Area: 2 Hectares
+3-Total area of glasshouses: 150 Metres
+3-Total area of shadehouses: 1000 Metres
+4-Arboretum: Yes
+4-Computer Plant Record System: No
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 30000
+4-Number of Volunteers: 56
+4-Open to public: No
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-ABS Policy: No
+5-Accession Number: 2618
+5-Cultivation Taxa Num: 52
+5-Global conservation for Plants takes many techniques that sustainably conserve the plants as follows: 
+5-Invasive Species Monitoring: No
+5-Invasive Species Policy: No
+5-Plant Collection Policy: Yes
+5-Special Collections: The conservation and nursery technique in the Qur’anic Botanic Garden
+5-• Cultivation collections: Plants under horticultural care in a constructed landscape, typically a botanic garden or arboreta.
+5-• Cuttings: 
+5-• Inter situ: Plants are under horticulture care, but the environment is managed to near natural conditions.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: Yes
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Data Management Systems and Information Technology: No
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: No
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: No
+7-Plant Breeding: Yes
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Sustainability: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: No
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-Aesthetic Elements: Gardens & Greening
+9-BGCI Member: Yes
+9-Ecology: Water, Air, Organism
+9-Fax: +974 44548304
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mission: To promote a complete understanding of the plants, botanic terms and conservation principles mentioned in the Holy Qur’an, Hadith and Sunnah by applying scientific innovations, building appreciation of cultural traditions and by creating a garden that will provide unique opportunities for learning.
+9-Morals & Ethics Values: Behaviors & Law
+9-Primary Email: qbg@qf.org.qa
+9-Sustainability: Conservation (Seeds) & Food Security (Farms)
+9-Telephone: +974 44541542
+9-URL: www.qbg.org.qa
+9-Vision: A garden of a worldwide center of excellence for knowledge, education and research, and bridge cultures in inspiring appreciation of nature and fostering responsibility for our environment.

@@ -1,9 +1,17 @@
-ID:	5056
-Name:	Allen Centennial Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Wisconsin - Madison  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Allen Centennial Gardens; Department of Horticulture, University of Wisconsin-Madison; 1575 Linden Drive; Madison; Wisconsin 53706 United States of America; ;  Telephone: (608)262-1490; Fax: ; URL: <a target="_blank" href="http://www.allencentennialgardens.org/">http://www.allencentennialgardens.org/; Primary Email: eslyon@wisc.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	43.077249
-Longitude:	-89.413207
+0-ID: 5056
+1-Name: Allen Centennial Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Allen Centennial Gardens;         Department of Horticulture, University of Wisconsin-Madison;        1575 Linden Drive;        Madison;        Wisconsin 53706 United States of America;        ;                 Telephone: (608)262-1490;         Fax: ;         URL: http://www.allencentennialgardens.org/;         Primary Email: eslyon@wisc.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.077249
+2-Longitude: -89.413207
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5056">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5056">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5056">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5056">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5056">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: eslyon@wisc.edu
+9-Telephone: (608)262-1490

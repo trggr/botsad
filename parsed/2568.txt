@@ -1,11 +1,25 @@
-ID:	2568
-Name:	Jardin Botanique de la Ville de Metz 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Montigny-les-metz  ;Garden Information;  Institution Code: METZ; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de la Ville de Metz Location: MONTIGNY-LES-METZ; Founded: 1865; Garden Name: Jardin Botanique de la Ville de Metz; Address: 27 ter, rue de Pont-a-Mousson, 57950 MONTIGNY-LES-METZ; Status: Municipal; Herbarium: No; Ex situ Collections:; Temperate trees, including Ginkgo bilob;  Main Address:; Jardin Botanique de la Ville de Metz; 27 ter, rue de Pont-a-Mousson 57950 MONTIGNY-LES-METZ France; Montigny-les-metz; France; ;  Telephone: 33 3 87 55 54 00; Fax: 33 3 87 65 43 29; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	49.0967
-Longitude:	6.1547
-Special Collections:	Temperate trees, including Ginkgo biloba, Sequoiadendron giganteum, Gymnocladus dioicus, Taxodium distichum, Torreya californica, Fagus sylvatica. Aromatic plants, roses, Poaceae, 300 taxa cultivated under glass, including Ficus, Begonia, orchids, Peperom
+0-ID: 2568
+1-Name: Jardin Botanique de la Ville de Metz 
+2-Date founded: 
+2-Info:              Institution Code: METZ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique de la Ville de Metz        Location: MONTIGNY-LES-METZ; Founded: 1865; Garden Name: Jardin Botanique de la Ville de Metz; Address: 27 ter, rue de Pont-a-Mousson, 57950 MONTIGNY-LES-METZ; Status: Municipal; Herbarium: No; Ex situ Collections:; Temperate trees, including Ginkgo bilob;                        Main Address:;         Jardin Botanique de la Ville de Metz;         27 ter, rue de Pont-a-Mousson 57950 MONTIGNY-LES-METZ France;                Montigny-les-metz;        France;        ;                 Telephone: 33 3 87 55 54 00;         Fax: 33 3 87 65 43 29;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.0967
+2-Longitude: 6.1547
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2568">Please click here if you can update us</a>
+4-Special Collections: Temperate trees, including Ginkgo biloba, Sequoiadendron giganteum, Gymnocladus dioicus, Taxodium distichum, Torreya californica, Fagus sylvatica. Aromatic plants, roses, Poaceae, 300 taxa cultivated under glass, including Ficus, Begonia, orchids, Peperom
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2568">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2568">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2568">Please click here if you can update us</a>
+9-About the Jardin Botanique de la Ville de Metz        Location: MONTIGNY-LES-METZ
+9-Address: 27 ter, rue de Pont-a-Mousson, 57950 MONTIGNY-LES-METZ
+9-BGCI Member: No
+9-Fax: 33 3 87 65 43 29
+9-Founded: 1865
+9-Garden Name: Jardin Botanique de la Ville de Metz
+9-Herbarium: No
+9-Institution Code: METZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: Municipal
+9-Telephone: 33 3 87 55 54 00
+9-URL: 

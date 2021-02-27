@@ -1,22 +1,28 @@
-ID:	3312
-Name:	Holehird Gardens 
-Curator's Name:	
-Director's Name:	Unknown
-Info:	  United Kingdom - Windermere  ;Garden Information;  Institution Code: HWC; International Agenda Registration: No; BGCI Member: No; About the Holehird Gardens Herbarium for Astilbe and Polystichum;  Main Address:; Holehird Gardens; Lakeland Horticultural Society WINDERMERECumbriaLA23 1NP; Windermere; United Kingdom; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.holehirdgardens.org.uk/">http://www.holehirdgardens.org.uk/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	54.399248
-Longitude:	-2.909317
-Total Area:	4 Hectares
-Total area of glasshouses:	100 Metres
-Computer Plant Record System:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	30000
-Number of Volunteers:	50
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-Cultivation Taxa Num:	4000
-Special Collections:	Erica, Calluna, Hosta, Rhododendron, Hydrangea, Astilbe, Polystichum
+0-ID: 3312
+1-Name: Holehird Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HWC;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Holehird Gardens        Herbarium for Astilbe and Polystichum;                        Main Address:;         Holehird Gardens;         Lakeland Horticultural Society WINDERMERECumbriaLA23 1NP;                Windermere;        United Kingdom;        ;                 Telephone: ;         Fax: ;         URL: http://www.holehirdgardens.org.uk/;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 54.399248
+2-Longitude: -2.909317
+2-Total Area: 4 Hectares
+2-Total area of glasshouses: 100 Metres
+3-Computer Plant Record System: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 30000
+3-Number of Volunteers: 50
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-Cultivation Taxa Num: 4000
+4-Special Collections: Erica, Calluna, Hosta, Rhododendron, Hydrangea, Astilbe, Polystichum
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3312">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3312">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3312">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HWC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

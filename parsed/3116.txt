@@ -1,12 +1,20 @@
-ID:	3116
-Name:	Giardino Officinale 
-Curator's Name:	
-Director's Name:	
-Info:	  Italy - Marzana  ;Garden Information;  Institution Code: VR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Officinale; Marzana (VR), Corpo forestale di Verona, Italy; Marzana; Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1980
-Institution Type:	Botanic Garden
-Latitude:	45.5024
-Longitude:	11.0139
-Special Collections:	American, African, Russian plants, including medicinal and pharmaceutical plants and plants in perfume and cosmetic industry
+0-ID: 3116
+1-Name: Giardino Officinale 
+2-Altitude: 0.00 Metres
+2-Date founded: 1980
+2-Info:              Institution Code: VR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino Officinale;         Marzana (VR),  Corpo forestale di Verona, Italy;                Marzana;        Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.5024
+2-Longitude: 11.0139
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3116">Please click here if you can update us</a>
+4-Special Collections: American, African, Russian plants, including medicinal and pharmaceutical plants and plants in perfume and cosmetic industry
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3116">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3116">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3116">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: VR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

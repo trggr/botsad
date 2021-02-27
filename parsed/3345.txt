@@ -1,21 +1,25 @@
-ID:	3345
-Name:	Kumkang Botanic Garden 
-Administration Staff Number:	1
-Curator's Name:	Moon-Sung Kim
-Director's Name:	Moon-Sung Kim
-Educational Staff Number:	
-Horticultural Staff Number:	2
-Info:	  South Korea - Busan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kumkang Botanic Garden; San 43-1 Changjon 2-Dong; Geumjeong-gu; Busan; 609-840 South Korea; ;  Telephone: 051-582-3284(8031); Fax: 051-581-8031; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	1466 mm
-Date founded:	1966
-Institution Type:	Botanic Garden
-Latitude:	35.1403
-Local Address:	금정구 장전2동 산43
-Locality:	Information
-Longitude:	129.0628
-Total Area:	2 Hectares
-Cultivation Taxa Num:	2300
-Special Collections:	The garden has 1,120 species and displays over 2300 kinds of plants, which consist of 560 kinds of tropical plants, 20 kinds of coconut trees, and 540 kinds of succulent plant. The garden also has a reserve of plenty of top quality black pine trees. In addition to this the Geumgang Botanical Garden, Busan has a various selection of rare plants like imported cactus. Variety of native plants includes a coastal bush clover, a betula ermani and etc.
+0-ID: 3345
+1-Name: Kumkang Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 1466 mm
+2-Date founded: 1966
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kumkang Botanic Garden;         San 43-1 Changjon 2-Dong;        Geumjeong-gu;        Busan;        609-840 South Korea;        ;                 Telephone: 051-582-3284(8031);         Fax: 051-581-8031;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.1403
+2-Local Address: 금정구 장전2동 산43
+2-Locality: Information
+2-Longitude: 129.0628
+2-Total Area: 2 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3345">Please click here if you can update us</a>
+4-Cultivation Taxa Num: 2300
+4-Special Collections: The garden has 1,120 species and displays over 2300 kinds of plants, which consist of 560 kinds of tropical plants, 20 kinds of coconut trees, and 540 kinds of succulent plant. The garden also has a reserve of plenty of top quality black pine trees. In addition to this the Geumgang Botanical Garden, Busan has a various selection of rare plants like imported cactus. Variety of native plants includes a coastal bush clover, a betula ermani and etc.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3345">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3345">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3345">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 051-581-8031
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 051-582-3284(8031)
+9-URL: 

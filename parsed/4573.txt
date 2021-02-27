@@ -1,14 +1,18 @@
-ID:	4573
-Name:	San Diego Zoo's Institute for Conservation Research 
-Administration Staff Number:	1
-Curator's Name:	Chris Nagem, Senior Horticulturist
-Director's Name:	Allison Alberts, Ph.D., Chief Conservation and Research Officer, Benirschke Chair
-Educational Staff Number:	
-Horticultural Staff Number:	1
-Info:	  United States of America - California - Escondido  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; San Diego Zoo's Institute for Conservation Research; 15600 San Pasqual Valley Road; Escondido; California 92027 United States of America; ;  Telephone: (760) 291-5427; Fax: ; URL: <a target="_blank" href="http://www.sandiegozoo.org/conservation/plants">www.sandiegozoo.org/conservation/plants; Primary Email: ; 
-Plant Records Officer's Name:	Katie Heineman, Scientist
-Research Staff Number:	7
-Institution Type:	Gene/Seed Bank
-Latitude:	33.0861754
-Longitude:	-116.9906685
-Seed Bank:	Yes
+0-ID: 4573
+1-Name: San Diego Zoo's Institute for Conservation Research 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         San Diego Zoo's Institute for Conservation Research;         15600 San Pasqual Valley Road;                Escondido;        California 92027 United States of America;        ;                 Telephone: (760) 291-5427;         Fax: ;         URL: www.sandiegozoo.org/conservation/plants;         Primary Email:        ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 33.0861754
+2-Longitude: -116.9906685
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4573">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4573">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4573">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4573">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (760) 291-5427
+9-URL: www.sandiegozoo.org/conservation/plants

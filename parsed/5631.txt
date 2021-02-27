@@ -1,58 +1,63 @@
-ID:	5631
-Name:	The Jones Center at Ichuaway - seed bank 
-Curator's Name:	Lisa Giencke
-Director's Name:	Kier D. Klepzig, Director
-Info:	  United States of America - Georgia - Newton  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; The Jones Center at Ichuaway - seed bank; 3988 Jones Center Drive; Newton; Georgia 39870 United States of America; ;  Telephone: (229) 734-4706; Fax: ; URL: <a target="_blank" href="http://www.jonesctr.org">www.jonesctr.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2019
-Institution Type:	Gene/Seed Bank
-Latitude:	31.220731
-Longitude:	-84.479219
-Natural Vegetation Area:	Yes
-Arboretum:	No
-Computer Plant Record System:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	No
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	No
-Guided Tours:	No
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 5631
+1-Name: The Jones Center at Ichuaway - seed bank 
+2-Altitude: 0.00 Metres
+2-Date founded: 2019
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         The Jones Center at Ichuaway - seed bank;         3988 Jones Center Drive;                Newton;        Georgia 39870 United States of America;        ;                 Telephone: (229) 734-4706;         Fax: ;         URL: www.jonesctr.org;         Primary Email:        ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 31.220731
+2-Longitude: -84.479219
+2-Natural Vegetation Area: Yes
+3-Arboretum: No
+3-Computer Plant Record System: Yes
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: No
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5631">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: No
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: No
+6-Invasive Species Biology and Control: No
+6-Land Restoration: Yes
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: No
+7-Guided Tours: No
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: No
+7-Special Exhibitions: No
+7-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (229) 734-4706
+9-URL: www.jonesctr.org

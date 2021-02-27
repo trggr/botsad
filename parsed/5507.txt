@@ -1,9 +1,18 @@
-ID:	5507
-Name:	Jardín Botánico Pirámides de Güímar 
-Curator's Name:	
-Director's Name:	
-Info:	  Spain - Tenerife  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Pirámides de Güímar; Departamento de botánica, Parque Etnográfico & Jardín Botánico; Calle Chacona s/n Güímar; Tenerife; I.C. E38500 Spain; ;  Telephone: 922-514510; Fax: 922-514511; URL: <a target="_blank" href="http://www.piramidesdeguimar.es">www.piramidesdeguimar.es; Primary Email: rocio@piramidesdeguimar.es ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	28.3196666
-Longitude:	-16.4149818
+0-ID: 5507
+1-Name: Jardín Botánico Pirámides de Güímar 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Pirámides de Güímar;         Departamento de botánica, Parque Etnográfico & Jardín Botánico;        Calle Chacona s/n Güímar;        Tenerife;        I.C. E38500 Spain;        ;                 Telephone: 922-514510;         Fax: 922-514511;         URL: www.piramidesdeguimar.es;         Primary Email: rocio@piramidesdeguimar.es       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 28.3196666
+2-Longitude: -16.4149818
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5507">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5507">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5507">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5507">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5507">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 922-514511
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: rocio@piramidesdeguimar.es
+9-Telephone: 922-514510
+9-URL: www.piramidesdeguimar.es

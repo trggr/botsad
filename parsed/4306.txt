@@ -1,13 +1,20 @@
-ID:	4306
-Name:	Tulsa Garden Center 
-Curator's Name:	Barry Fugatt, Director of Horticulture
-Director's Name:	Barbie Raney, Executive Director
-Info:	  United States of America - Oklahoma - Tulsa  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tulsa Garden Center; 2435 South Peoria Avenue; Tulsa; Oklahoma 74114 United States of America; ;  Telephone: (918) 746-5125; Fax: (918) 746-5128; URL: <a target="_blank" href="http://www.tulsagardencenter.com">www.tulsagardencenter.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	36.1307580
-Longitude:	-95.9756260
-Friends society:	Yes
-Open to public:	Yes
-Education Programme:	Yes
+0-ID: 4306
+1-Name: Tulsa Garden Center 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Tulsa Garden Center;         2435 South Peoria Avenue;                Tulsa;        Oklahoma 74114 United States of America;        ;                 Telephone: (918) 746-5125;         Fax: (918) 746-5128;         URL: www.tulsagardencenter.com;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.1307580
+2-Longitude: -95.9756260
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4306">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4306">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4306">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-BGCI Member: No
+9-Fax: (918) 746-5128
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (918) 746-5125
+9-URL: www.tulsagardencenter.com

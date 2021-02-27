@@ -1,11 +1,19 @@
-ID:	3328
-Name:	INIA Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Mozambique - Maputo  ;Garden Information;  Institution Code: IAMA; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; INIA Botanical Garden; INIA C.P. 3658 Mavalane MAPUTO; Maputo; Mozambique; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	-25.9686
-Longitude:	32.5804
-Special Collections:	Approximately 90 % of plants in the collection are indigenous to Mozambique. 33 families are represented amongst the plant collections. The Garden contains a building housing the National Gene Bank.
+0-ID: 3328
+1-Name: INIA Botanical Garden 
+2-Date founded: 1968
+2-Info:              Institution Code: IAMA;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         INIA Botanical Garden;         INIA C.P. 3658 Mavalane MAPUTO;                Maputo;        Mozambique;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -25.9686
+2-Longitude: 32.5804
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3328">Please click here if you can update us</a>
+4-Special Collections: Approximately 90 % of plants in the collection are indigenous to Mozambique. 33 families are represented amongst the plant collections. The Garden contains a building housing the National Gene Bank.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3328">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3328">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3328">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: IAMA
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

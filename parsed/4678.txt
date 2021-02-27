@@ -1,9 +1,18 @@
-ID:	4678
-Name:	Dickerson Park Zoo 
-Curator's Name:	
-Director's Name:	Mike Crocker, Zoo Director
-Info:	  United States of America - Missouri - Springfield  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dickerson Park Zoo; 3043 North Fort; Springfield; Missouri 65803 United States of America; ;  Telephone: (417) 833-1570; Fax: (417) 833-4459; URL: <a target="_blank" href="http://www.dickersonparkzoo.org">www.dickersonparkzoo.org; Primary Email: info@dickersonparkzoo.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Zoological Institution
-Latitude:	37.2518648
-Longitude:	-93.3061421
+0-ID: 4678
+1-Name: Dickerson Park Zoo 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dickerson Park Zoo;         3043 North Fort;                Springfield;        Missouri 65803 United States of America;        ;                 Telephone: (417) 833-1570;         Fax: (417) 833-4459;         URL: www.dickersonparkzoo.org;         Primary Email: info@dickersonparkzoo.org       ;              
+2-Institution Type: Zoological Institution
+2-Latitude: 37.2518648
+2-Longitude: -93.3061421
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4678">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4678">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4678">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4678">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4678">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (417) 833-4459
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@dickersonparkzoo.org
+9-Telephone: (417) 833-1570
+9-URL: www.dickersonparkzoo.org

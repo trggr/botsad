@@ -1,59 +1,63 @@
-ID:	1177
-Name:	North Carolina Arboretum, The 
-Fax:	(828) 665-2371
-Info:	  United States of America - North Carolina - Asheville  ;Garden Information;  Institution Code: WNCA; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	info@ncarboretum.org
-Telephone:	(828) 665-2492
-Administration Staff Number:	5
-Curator's Name:	Clara Curtis, Director of Horticulture and Landscape
-Director's Name:	George Briggs, Executive Director
-Educational Staff Number:	6
-Horticultural Staff Number:	12
-Plant Records Officer's Name:	Angela Brown, Records
-Research Staff Number:	2
-Altitude:	762.00 Metres
-Annual Rainfall:	411 mm
-Date founded:	1986
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	35.4962520
-Local Address:	100 Frederick Law Olmsted Way
-Locality:	Information
-Longitude:	-82.6094610
-Natural Vegetation Area:	Yes
-Total Area:	175 Hectares
-Total area of glasshouses:	650 Metres
-Total area of shadehouses:	279 Metres
-Arboretum:	Yes
-Arboretum Size:	176
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	370000
-Number of Volunteers:	270
-Open to public:	Yes
-Seed Bank:	Yes
-Accession Number:	3817
-Cultivation Taxa Num:	2366
-Special Collections:	National Native Azalea Repository, Southeastern US Native woody plants, Southern Appalachian Woody Plants. (2007 figures).
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Biotechnology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Sustainability:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1177
+1-Name: North Carolina Arboretum, The 
+2-Administration Staff Number: 5
+2-Curator's Name: Clara Curtis, Director of Horticulture and Landscape
+2-Director's Name: George Briggs, Executive Director
+2-Educational Staff Number: 6
+2-Horticultural Staff Number: 12
+2-Info:              Institution Code: WNCA;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/1177/TNCA_BGCI.jpg" alt="" />         </div>        </div>                           About the North Carolina Arboretum, The        The North Carolina Arboretum is a 434-acre public garden located within the Bent Creek Experimental Forest of the Pisgah National Forest. Surrounded by the dense folds of the botanically diverse Southern Appalachian Mountains, the Arboretum is nestled in one of the most beautiful natural garden settings in America.;  ;  Established in 1986 by the General Assembly as an inter-institutional facility of the University of North Carolina, the Arboretum came into existence nearly a century after this country's father of landscape architecture, Frederick Law Olmsted, first envisioned such an institution near Asheville.;  ;  A center for education, research, conservation and economic development, and garden demonstration, the Arboretum offers a wide range of activities for visitors of all ages.;  ;  The North Carolina Arboretum is a public institution -- integrating education, landscape, and research -- that elevates the aesthetic, cultural, and economic quality of life in North Carolina. The Arboretum, through conservation of the traditional values, environmental resourcefulness, and botanical mystique of the Southern Appalachian region, broadens contemporary expressions of landscape stewardship.;                        Main Address:;         North Carolina Arboretum, The;         100 Frederick Law Olmsted Way;                Asheville;        North Carolina 28806-9315 United States of America;        ;                 Telephone: (828) 665-2492;         Fax: (828) 665-2371;         URL: www.ncarboretum.org;         Primary Email: info@ncarboretum.org       ;              
+2-Plant Records Officer's Name: Angela Brown, Records
+2-Research Staff Number: 2
+3-Altitude: 762.00 Metres
+3-Annual Rainfall: 411 mm
+3-Date founded: 1986
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 35.4962520
+3-Local Address: 100 Frederick Law Olmsted Way
+3-Locality: Information
+3-Longitude: -82.6094610
+3-Natural Vegetation Area: Yes
+3-Total Area: 175 Hectares
+3-Total area of glasshouses: 650 Metres
+3-Total area of shadehouses: 279 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 176
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 370000
+4-Number of Volunteers: 270
+4-Open to public: Yes
+4-Seed Bank: Yes
+5-Accession Number: 3817
+5-Cultivation Taxa Num: 2366
+5-Special Collections: National Native Azalea Repository, Southeastern US Native woody plants, Southern Appalachian Woody Plants. (2007 figures).
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Biotechnology: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Sustainability: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: (828) 665-2371
+9-Institution Code: WNCA
+9-International Agenda Registration: Yes
+9-Primary Email: info@ncarboretum.org
+9-Telephone: (828) 665-2492
+9-URL: www.ncarboretum.org

@@ -1,11 +1,19 @@
-ID:	601
-Name:	Jardin botanique du Canton du Jura 
-Curator's Name:	Francois Guenat
-Director's Name:	Charles Brebeck
-Info:	  Switzerland - Porentruy  ;Garden Information;  Institution Code: PORTY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin botanique du Canton du Jura; route de Fontenais 22, CH-2900 PORENTRUY, Switzerland; Porentruy; Switzerland; ;  Telephone: 066 66 30 15; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	47.4144
-Longitude:	7.0746
-Special Collections:	Iris, Rosa, Cactaceae, Orchidaceae.
+0-ID: 601
+1-Name: Jardin botanique du Canton du Jura 
+2-Date founded: 
+2-Info:              Institution Code: PORTY;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin botanique du Canton du Jura;         route de Fontenais 22, CH-2900 PORENTRUY, Switzerland;                Porentruy;        Switzerland;        ;                 Telephone: 066 66 30 15;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.4144
+2-Longitude: 7.0746
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=601">Please click here if you can update us</a>
+4-Special Collections: Iris, Rosa, Cactaceae, Orchidaceae.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=601">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=601">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=601">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PORTY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 066 66 30 15
+9-URL: 

@@ -1,17 +1,24 @@
-ID:	4246
-Name:	Dothan Area Botanical Gardens 
-Curator's Name:	Charles McClendon, Gardener
-Director's Name:	Miles Coleman, President
-Info:	  United States of America - Alabama - Dothan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Dothan Area Botanical Gardens The Gardens mission is to provide an enhancement to the quality of life for Wiregrass citizens, serve as an educational resource for children and adults in garden lore and environmental issues and be a vibrant area attraction that promotes tourism and economic development in the Wiregrass.;  Main Address:; Dothan Area Botanical Gardens; 5130 Headland Avenue; Dothan; Alabama 36303 United States of America; ;  Telephone: (334) 793-3224; Fax: (334) 793-5275; URL: <a target="_blank" href="http://www.dabg.com">www.dabg.com; Primary Email: dabg@dabg.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	31.2949000
-Longitude:	-85.3716000
-Total Area:	20 Hectares
-Disabled access:	Yes
-Friends society:	Yes
-Open to public:	Yes
-Education Programme:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 4246
+1-Name: Dothan Area Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1990
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Dothan Area Botanical Gardens        The Gardens mission is to provide an enhancement to the quality of life for Wiregrass citizens, serve as an educational resource for children and adults in garden lore and environmental issues and be a vibrant area attraction that promotes tourism and economic development in the Wiregrass.;                        Main Address:;         Dothan Area Botanical Gardens;         5130 Headland Avenue;                Dothan;        Alabama 36303 United States of America;        ;                 Telephone: (334) 793-3224;         Fax: (334) 793-5275;         URL: www.dabg.com;         Primary Email: dabg@dabg.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 31.2949000
+2-Longitude: -85.3716000
+2-Total Area: 20 Hectares
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4246">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4246">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4246">Please click here if you can update us</a>
+7-Education Programme: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: (334) 793-5275
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: dabg@dabg.com
+9-Telephone: (334) 793-3224
+9-URL: www.dabg.com

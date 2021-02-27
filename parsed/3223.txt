@@ -1,11 +1,20 @@
-ID:	3223
-Name:	Butchart Gardens, The 
-Curator's Name:	Rick Los, Director of Horticulture
-Director's Name:	Dave Cowen, General Manager
-Info:	  Canada - British Columbia - Victoria  ;Garden Information;  Institution Code: BUTCH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Butchart Gardens, The; 800 Benvenuto Avenue; P.O. Box 4010; Victoria; British Columbia V8X 3X4 Canada; ;  Telephone: 250-652-4422; Fax: ; URL: <a target="_blank" href="http://www.butchartgardens.com">www.butchartgardens.com; Primary Email: email@butchartgardens.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1904
-Institution Type:	Botanic Garden
-Latitude:	48.56509
-Longitude:	-123.46908
+0-ID: 3223
+1-Name: Butchart Gardens, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 1904
+2-Info:              Institution Code: BUTCH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Butchart Gardens, The;         800 Benvenuto Avenue;        P.O. Box 4010;        Victoria;        British Columbia V8X 3X4 Canada;        ;                 Telephone: 250-652-4422;         Fax: ;         URL: www.butchartgardens.com;         Primary Email: email@butchartgardens.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.56509
+2-Longitude: -123.46908
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3223">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3223">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3223">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3223">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3223">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BUTCH
+9-International Agenda Registration: No
+9-Primary Email: email@butchartgardens.com
+9-Telephone: 250-652-4422
+9-URL: www.butchartgardens.com

@@ -1,9 +1,18 @@
-ID:	5140
-Name:	Myanmar Floriculturist Association 
-Curator's Name:	
-Director's Name:	
-Info:	  Myanmar - Yangon  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Myanmar Floriculturist Association; People's Square and People's Park; Ahlone Road, Dagon P.O.; Yangon; 11111 Myanmar; ;  Telephone: +9595413809; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: myanmarorchid@gmail.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	16.798605
-Longitude:	96.1412314
+0-ID: 5140
+1-Name: Myanmar Floriculturist Association 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Myanmar Floriculturist Association;         People's Square and People's Park;        Ahlone Road, Dagon P.O.;        Yangon;        11111 Myanmar;        ;                 Telephone: +9595413809;         Fax: ;         URL: ;         Primary Email: myanmarorchid@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 16.798605
+2-Longitude: 96.1412314
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5140">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5140">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5140">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5140">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5140">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: myanmarorchid@gmail.com
+9-Telephone: +9595413809
+9-URL: 

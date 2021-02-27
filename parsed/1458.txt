@@ -1,11 +1,19 @@
-ID:	1458
-Name:	Dryandra Inland Arboretum 
-Curator's Name:	District Manager
-Director's Name:	Dr. S, Shea
-Info:	  Australia - Narrogin  ;Garden Information;  Institution Code: KALGO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dryandra Inland Arboretum; Department of CALM, PO Box 100, NARROGIN, WA 6312, Australia; Narrogin; Australia; ;  Telephone: 61 (0)8 9881 1444; Fax: 61 (0)8 9881 3297; URL: <a target="_blank" href="http://">; Primary Email: gregd@calm.gov.au ; 
-Plant Records Officer's Name:	
-Date founded:	1958
-Institution Type:	Botanic Garden
-Latitude:	-32.78417
-Longitude:	116.96691
-Special Collections:	100 % of collection is Australian flora. Mixed inland & exotic Eucalyptus and Pinus spp.
+0-ID: 1458
+1-Name: Dryandra Inland Arboretum 
+2-Date founded: 1958
+2-Info:              Institution Code: KALGO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dryandra Inland Arboretum;         Department of CALM,  PO Box 100,  NARROGIN,  WA 6312,  Australia;                Narrogin;        Australia;        ;                 Telephone: 61 (0)8 9881 1444;         Fax: 61 (0)8 9881 3297;         URL: ;         Primary Email: gregd@calm.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -32.78417
+2-Longitude: 116.96691
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1458">Please click here if you can update us</a>
+4-Special Collections: 100 % of collection is Australian flora. Mixed inland & exotic Eucalyptus and Pinus spp.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1458">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1458">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1458">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)8 9881 3297
+9-Institution Code: KALGO
+9-International Agenda Registration: No
+9-Primary Email: gregd@calm.gov.au
+9-Telephone: 61 (0)8 9881 1444
+9-URL: 

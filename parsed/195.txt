@@ -1,13 +1,20 @@
-ID:	195
-Name:	Neuer Botanischer Garten der Universität Göttingen 
-Curator's Name:	Dr. Lars Köhler, Curator
-Director's Name:	Dr. C. Leuschner, Professor and Director
-Info:	  Germany - Deutschland - Göttingen  ;Garden Information;  Institution Code: NGOET; International Agenda Registration: No; BGCI Member: No;  Main Address:; Neuer Botanischer Garten der Universität Göttingen; Grisebachstrasse 1a, D-37077 Göttingen, Germany; Göttingen; Germany - Deutschland; ;  Telephone: 0551-395713 /25; Fax: 0551-393556; URL: <a target="_blank" href="http://www.uni-goettingen.de/en/44267.html">http://www.uni-goettingen.de/en/44267.html; Primary Email: nbarke@uni-goettingen.de ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1967
-Institution Type:	Botanic Garden
-Latitude:	51.5663
-Longitude:	9.9845
-Total Area:	36 Hectares
-Special Collections:	Centaurea and related genera, Native flora of Central Europe. Holarctic forest flora and vegetation, rare weeds.
+0-ID: 195
+1-Name: Neuer Botanischer Garten der Universität Göttingen 
+2-Altitude: 0.00 Metres
+2-Date founded: 1967
+2-Info:              Institution Code: NGOET;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Neuer Botanischer Garten der Universität Göttingen;         Grisebachstrasse 1a, D-37077 Göttingen, Germany;                Göttingen;        Germany - Deutschland;        ;                 Telephone: 0551-395713 /25;         Fax: 0551-393556;         URL: http://www.uni-goettingen.de/en/44267.html;         Primary Email: nbarke@uni-goettingen.de       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.5663
+2-Longitude: 9.9845
+2-Total Area: 36 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=195">Please click here if you can update us</a>
+4-Special Collections: Centaurea and related genera, Native flora of Central Europe. Holarctic forest flora and vegetation, rare weeds.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=195">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=195">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=195">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 0551-393556
+9-Institution Code: NGOET
+9-International Agenda Registration: No
+9-Primary Email: nbarke@uni-goettingen.de
+9-Telephone: 0551-395713 /25

@@ -1,12 +1,21 @@
-ID:	3586
-Name:	Yingkou Botanical Garden (Liaoning) 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Liaoning - Yingkou  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Yingkou Botanical Garden (Liaoning); Parks and Landscape Management Office, Yingkou, Liaoning, 115000, China; Yingkou; Liaoning China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	40.6583
-Local Address:	中国辽宁省营口市园林管理处，邮编 115000
-Locality:	Information
-Longitude:	122.2208
+0-ID: 3586
+1-Name: Yingkou Botanical Garden (Liaoning) 
+2-Date founded: 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Yingkou Botanical Garden (Liaoning);         Parks and Landscape Management Office, Yingkou, Liaoning, 115000, China;                Yingkou;        Liaoning China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.6583
+2-Local Address: 中国辽宁省营口市园林管理处，邮编 115000
+2-Locality: Information
+2-Longitude: 122.2208
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3586">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3586">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3586">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3586">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3586">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

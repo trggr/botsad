@@ -1,11 +1,19 @@
-ID:	516
-Name:	Handayama Botanical Garden 
-Curator's Name:	
-Director's Name:	T. Kuroda (Waterworks Bureau)
-Info:	  Japan - Okayama  ;Garden Information;  Institution Code: OKAY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Handayama Botanical Garden; 2-1319 Kitagata, OKAYAMA-SHI, Japan.; Okayama; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1953
-Institution Type:	Botanic Garden
-Latitude:	34.6566
-Longitude:	133.9274
-Special Collections:	Camellia, Acer.
+0-ID: 516
+1-Name: Handayama Botanical Garden 
+2-Date founded: 1953
+2-Info:              Institution Code: OKAY;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Handayama Botanical Garden;         2-1319 Kitagata,  OKAYAMA-SHI,  Japan.;                Okayama;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.6566
+2-Longitude: 133.9274
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=516">Please click here if you can update us</a>
+4-Special Collections: Camellia, Acer.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=516">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=516">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=516">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: OKAY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

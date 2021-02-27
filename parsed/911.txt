@@ -1,11 +1,19 @@
-ID:	911
-Name:	Botanical Garden, Bihar Agricultural College 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Bhagalpur  ;Garden Information;  Institution Code: BHAGL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanical Garden, Bihar Agricultural College; Sabour; Bhagalpur; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	25.2400
-Longitude:	86.9845
-Special Collections:	Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+0-ID: 911
+1-Name: Botanical Garden, Bihar Agricultural College 
+2-Date founded: 
+2-Info:              Institution Code: BHAGL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanical Garden, Bihar Agricultural College;                 Sabour;        Bhagalpur;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 25.2400
+2-Longitude: 86.9845
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=911">Please click here if you can update us</a>
+4-Special Collections: Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus, climbing plants such a
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=911">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=911">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=911">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BHAGL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

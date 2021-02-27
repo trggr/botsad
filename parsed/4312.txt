@@ -1,13 +1,22 @@
-ID:	4312
-Name:	Western Kentucky Botanical Garden 
-Curator's Name:	
-Director's Name:	Susie Tyler, Director
-Info:	  United States of America - Kentucky - Owensboro  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Western Kentucky Botanical Garden Mission: To discover, observe and enjoy the wonders of our environment and to provide priceless education in order to foster an awareness of our interaction with nature.;  Main Address:; Western Kentucky Botanical Garden; P.O. Box 22562; Owensboro; Kentucky 43204-2562 United States of America; ;  Telephone: (270) 852-8925; Fax: ; URL: <a target="_blank" href="http://www.wkbg.org">www.wkbg.org; Primary Email: wkbg@bellsouth.net ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1993
-Institution Type:	Botanic Garden
-Latitude:	37.7766310
-Longitude:	-87.1446550
-Total Area:	3 Hectares
-Education Programme:	Yes
+0-ID: 4312
+1-Name: Western Kentucky Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1993
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Western Kentucky Botanical Garden        Mission:  To discover, observe and enjoy the wonders of our environment and to provide priceless education in order to foster an awareness of our interaction with nature.;                        Main Address:;         Western Kentucky Botanical Garden;         P.O. Box 22562;                Owensboro;        Kentucky 43204-2562 United States of America;        ;                 Telephone: (270) 852-8925;         Fax: ;         URL: www.wkbg.org;         Primary Email: wkbg@bellsouth.net       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.7766310
+2-Longitude: -87.1446550
+2-Total Area: 3 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4312">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4312">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4312">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4312">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-About the Western Kentucky Botanical Garden        Mission: To discover, observe and enjoy the wonders of our environment and to provide priceless education in order to foster an awareness of our interaction with nature.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: wkbg@bellsouth.net
+9-Telephone: (270) 852-8925
+9-URL: www.wkbg.org

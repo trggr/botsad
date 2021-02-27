@@ -1,22 +1,31 @@
-ID:	4998
-Name:	Flecheiras Jardins 
-Curator's Name:	
-Director's Name:	Vincent de Valk
-Info:	  Brazil - Ceará - Trairi  ;Garden Information;  Institution Code: BG 5762; International Agenda Registration: No; BGCI Member: No; About the Flecheiras Jardins The botanic gardens are an integral part of a large gated community garden area. Our aim is to concentrate on plants and trees native to the Northeast of Brazil and adapt well to the coastal climate and conditions. We plan to grow different botanical gardens with different themes. A flowering tree garden, a tree garden, a palmtree garden, a lower plants garden and a collection of orchids. Within the area plants and trees are added to the natural environment.;  Main Address:; Flecheiras Jardins; Lagoa de Dentro, Flecheiras; Mailing: Tatajuba empreendimentos Ltda, P.O. Box 52768, Fortaleza 60150-970; Trairi; Ceará 62690-000 Brazil; ;  Telephone: +55 85 3264 7336; Fax: +55 85 3224 5103; URL: <a target="_blank" href="http://">; Primary Email: info@flecheiras.com.br ; 
-Plant Records Officer's Name:	
-Altitude:	40.00 Metres
-Annual Rainfall:	1300 mm
-Date founded:	2014
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	-3.219842
-Longitude:	-39.279664
-Natural Vegetation Area:	Yes
-Total Area:	97 Hectares
-Arboretum:	Yes
-Arboretum Size:	13
-Friends society:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	No
-Published Plant Catalogue:	No
-Seed Bank:	No
+0-ID: 4998
+1-Name: Flecheiras Jardins 
+2-Altitude: 40.00 Metres
+2-Annual Rainfall: 1300 mm
+2-Date founded: 2014
+2-Info:              Institution Code: BG 5762;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Flecheiras Jardins        The botanic gardens are an integral part of a large gated community garden area. Our aim is to concentrate on plants and trees native to the Northeast of Brazil and adapt well to the coastal climate and conditions. We plan to grow different botanical gardens with different themes. A flowering tree garden, a tree garden, a palmtree garden,  a lower plants garden and a collection of orchids. Within the area plants and trees are added to the natural environment.;                        Main Address:;         Flecheiras Jardins;         Lagoa de Dentro, Flecheiras;        Mailing: Tatajuba empreendimentos Ltda, P.O. Box 52768, Fortaleza 60150-970;        Trairi;        Ceará 62690-000 Brazil;        ;                 Telephone: +55 85 3264 7336;         Fax: +55 85 3224 5103;         URL: ;         Primary Email: info@flecheiras.com.br       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: -3.219842
+2-Longitude: -39.279664
+2-Natural Vegetation Area: Yes
+2-Total Area: 97 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 13
+3-Friends society: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: No
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4998">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4998">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4998">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4998">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +55 85 3224 5103
+9-Institution Code: BG 5762
+9-International Agenda Registration: No
+9-Mailing: Tatajuba empreendimentos Ltda, P.O. Box 52768, Fortaleza 60150-970
+9-Primary Email: info@flecheiras.com.br
+9-Telephone: +55 85 3264 7336
+9-URL: 

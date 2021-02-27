@@ -1,78 +1,83 @@
-ID:	2579
-Name:	Jardin Botanique et Arboretum Henri Gaussen 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Dr Séjalon-Delmas Nathalie
-Educational Staff Number:	1
-Horticultural Staff Number:	4
-Info:	  France - Toulouse  ;Garden Information;  Institution Code: TOU; International Agenda Registration: No; BGCI Member: Yes; About the Jardin Botanique et Arboretum Henri Gaussen Location: TOULOUSE; Founded: Early 19th century; Garden Name: Jardin Botanique Henri Gaussen; Address: 2 rue lamarck 31400 TOULOUSE ; Situated: ; Status: University;  Main Address:; Jardin Botanique et Arboretum Henri Gaussen; Université Paul Sabatier,; 2 rue Lamarck; Toulouse; 31400 France; ;  Telephone: 33 5 82 52 59 70; Fax: ; URL: <a target="_blank" href="http://jardin-botanique.ups-tlse.fr">http://jardin-botanique.ups-tlse.fr; Primary Email: sceccp.contact@univ-tlse3.fr ; 
-Plant Records Officer's Name:	Jean-Yves Marc
-Research Staff Number:	1
-Altitude:	152.00 Metres
-Annual Rainfall:	650 mm
-Date founded:	1887
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	43.6037
-Local Address:	2, Rue Lamarck
-Locality:	Information
-Longitude:	1.4429
-Natural Vegetation Area:	No
-Satellite Garden Names:	Arboretum Henri Gaussen 31110 Bagnères de Luchon
-Total Area:	1 Hectares
-Total area of glasshouses:	450 Metres
-Arboretum:	Yes
-Arboretum Size:	2
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	200000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Cultivation Taxa Num:	3500
-Invasive Species Monitoring:	No
-Invasive Species Policy:	Yes
-Plant Collection Policy:	No
-Special Collections:	Ethnobotanical plants, economic plants, toxic plants(840 spp), ethnobotanical tropical plants (145spp), tropical greenhouse plants, epiphytes (300 spp), succulents (730 spp.), carnivorous plants (90spp).
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	Yes
-Horticulture:	No
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	No
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2579
+1-Name: Jardin Botanique et Arboretum Henri Gaussen 
+2-Altitude: 152.00 Metres
+2-Annual Rainfall: 650 mm
+2-Date founded: 1887
+2-Info:              Institution Code: TOU;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Jardin Botanique et Arboretum Henri Gaussen        Location: TOULOUSE;  Founded: Early 19th century;  Garden Name: Jardin Botanique Henri Gaussen;  Address: 2 rue lamarck 31400 TOULOUSE ;  Situated: ;  Status: University;                        Main Address:;         Jardin Botanique et Arboretum Henri Gaussen;         Université Paul Sabatier,;        2 rue Lamarck;        Toulouse;        31400 France;        ;                 Telephone: 33 5 82 52 59 70;         Fax: ;         URL: http://jardin-botanique.ups-tlse.fr;         Primary Email: sceccp.contact@univ-tlse3.fr       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 43.6037
+2-Local Address: 2, Rue Lamarck
+2-Locality: Information
+2-Longitude: 1.4429
+2-Natural Vegetation Area: No
+2-Satellite Garden Names: Arboretum Henri Gaussen 31110 Bagnères de Luchon
+2-Total Area: 1 Hectares
+2-Total area of glasshouses: 450 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 2
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 200000
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Cultivation Taxa Num: 3500
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: No
+4-Special Collections: Ethnobotanical plants, economic plants, toxic plants(840 spp), ethnobotanical tropical plants (145spp), tropical greenhouse plants, epiphytes (300 spp), succulents (730 spp.), carnivorous plants (90spp).
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: Yes
+6-Biotechnology: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: No
+6-Floristics: Yes
+6-Horticulture: No
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: Yes
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: No
+7-Education Programme: No
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-About the Jardin Botanique et Arboretum Henri Gaussen        Location: TOULOUSE
+9-Address: 2 rue lamarck 31400 TOULOUSE
+9-BGCI Member: Yes
+9-Fax: 
+9-Founded: Early 19th century
+9-Garden Name: Jardin Botanique Henri Gaussen
+9-Institution Code: TOU
+9-International Agenda Registration: No
+9-Primary Email: sceccp.contact@univ-tlse3.fr
+9-Situated: 
+9-Status: University
+9-Telephone: 33 5 82 52 59 70

@@ -1,12 +1,20 @@
-ID:	38
-Name:	Dendrogarden of the Siberian Res. Hort. Institute 
-Curator's Name:	
-Director's Name:	Dr.N.B.Semenjuk
-Info:	  Russian Federation - Barnaul  ;Garden Information;  Institution Code: BNUL; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dendrogarden of the Siberian Res. Hort. Institute; Zmeinogorsky Tract 49, Altai Region, 656020 BARNAUL, Russian Federation; Barnaul; Russian Federation; ;  Telephone: 3 16 86; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1933
-Institution Type:	Other
-Latitude:	53.3563
-Longitude:	83.7616
-Special Collections:	Plants native to W. Siberia, Far East, N.America
+0-ID: 38
+1-Name: Dendrogarden of the Siberian Res. Hort. Institute 
+2-Altitude: 0.00 Metres
+2-Date founded: 1933
+2-Info:              Institution Code: BNUL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dendrogarden of the Siberian Res. Hort. Institute;         Zmeinogorsky Tract 49,  Altai Region,  656020 BARNAUL,  Russian Federation;                Barnaul;        Russian Federation;        ;                 Telephone: 3 16 86;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 53.3563
+2-Longitude: 83.7616
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=38">Please click here if you can update us</a>
+4-Special Collections: Plants native to W. Siberia, Far East, N.America
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=38">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=38">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=38">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BNUL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 3 16 86
+9-URL: 

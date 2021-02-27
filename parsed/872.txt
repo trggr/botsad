@@ -1,11 +1,19 @@
-ID:	872
-Name:	Arboreta and Experimental Gardens of Silviculture 
-Curator's Name:	
-Director's Name:	
-Info:	  Indonesia - Bogor  ;Garden Information;  Institution Code: BZF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboreta and Experimental Gardens of Silviculture; Forest Research Institute, BOGOR, Java, Indonesia; Bogor; Indonesia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	-6.5959
-Longitude:	106.7920
-Special Collections:	Collections include accessions of rare and endangered species of Calamus (Palmae)
+0-ID: 872
+1-Name: Arboreta and Experimental Gardens of Silviculture 
+2-Date founded: 
+2-Info:              Institution Code: BZF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboreta and Experimental Gardens of Silviculture;         Forest Research Institute,  BOGOR,  Java,  Indonesia;                Bogor;        Indonesia;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -6.5959
+2-Longitude: 106.7920
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=872">Please click here if you can update us</a>
+4-Special Collections: Collections include accessions of rare and endangered species of Calamus (Palmae)
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=872">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=872">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=872">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BZF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

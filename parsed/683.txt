@@ -1,80 +1,81 @@
-ID:	683
-Name:	Holden Arboretum, The 
-Administration Staff Number:	3
-Curator's Name:	Charles Tubesing, Plant Collections Curator
-Director's Name:	Roger Gettig, Vice President of Horticulture and Conservation
-Educational Staff Number:	7
-Horticultural Staff Number:	13
-Info:	  United States of America - Ohio - Kirtland  ;Garden Information;  Institution Code: HOL; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level IV ; About the Holden Arboretum, The In 2014 The Holden Arboretum acquired the Cleveland Botanical Garden. We have branded ourselves Holden Forests & Gardens. Our Mission: Advance and inspire a deeper understanding of plants to enhance life. Our Vision: Vibrant green communities and diverse native forests of the Great Lakes region will flourish and sustain life.; ; Cleveland Botanical Garden (4 hectares); The Holden Arboretum (1457 hectares).;  Main Address:; Holden Arboretum, The; 9500 Sperry Road; Kirtland; Ohio 44094-5172 United States of America; ;  Telephone: (440) 946-4400; Fax: (440) 602 3857; URL: <a target="_blank" href="http://www.holdenarb.org">www.holdenarb.org; Primary Email: holden@holdenarb.org ; 
-Plant Records Officer's Name:	Ethan Johnson, Plant Records Curator
-Research Staff Number:	8
-Altitude:	347.00 Metres
-Annual Rainfall:	1150 mm
-Date founded:	1931
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	41.6026550
-Local Address:	11030 East Boulevard
-Locality:	Information
-Longitude:	-81.3060670
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Cleveland Botanical Garden
-Total Area:	1461 Hectares
-Total area of glasshouses:	1535 Metres
-Arboretum:	Yes
-Arboretum Size:	1457
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	87946
-Number of Volunteers:	520
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	10467
-Cultivation Taxa Num:	5490
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	Ericaceae (excluding Rhododendron - 56 spp., 182 taxa), Conifers (219 spp., 442 taxa), Quercus (41 spp., 70 taxa), Acer (41 spp., 148 taxa), Viburnum (26 spp., 61 taxa), Malus (18 spp., 161 taxa), Syringa (12 spp., 160 taxa), Rhododendron (57 spp., 718 taxa), Magnolia (19 spp., 122 taxa), Betula (23 spp., 39 taxa), Ohio native plants (464 spp.), nut-bearing trees (114 taxa), hedge (22 taxa).
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	No
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	Yes
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 683
+1-Name: Holden Arboretum, The 
+2-Altitude: 347.00 Metres
+2-Annual Rainfall: 1150 mm
+2-Date founded: 1931
+2-Info:              Institution Code: HOL;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level IV       ;                                          About the Holden Arboretum, The        In 2014 The Holden Arboretum acquired the Cleveland Botanical Garden. We have branded ourselves Holden Forests & Gardens. Our Mission: Advance and inspire a deeper understanding of plants to enhance life. Our Vision: Vibrant green communities and diverse native forests of the Great Lakes region will flourish and sustain life.;  ;  Cleveland Botanical Garden (4 hectares); The Holden Arboretum (1457 hectares).;                        Main Address:;         Holden Arboretum, The;         9500 Sperry Road;                Kirtland;        Ohio 44094-5172 United States of America;        ;                 Telephone: (440) 946-4400;         Fax: (440) 602 3857;         URL: www.holdenarb.org;         Primary Email: holden@holdenarb.org       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 41.6026550
+2-Local Address: 11030 East Boulevard
+2-Locality: Information
+2-Longitude: -81.3060670
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Cleveland Botanical Garden
+2-Total Area: 1461 Hectares
+2-Total area of glasshouses: 1535 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 1457
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 87946
+3-Number of Volunteers: 520
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: No
+4-ABS Policy: No
+4-Accession Number: 10467
+4-Cultivation Taxa Num: 5490
+4-Invasive Species Monitoring: Yes
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+4-Special Collections: Ericaceae (excluding Rhododendron - 56 spp., 182 taxa), Conifers (219 spp., 442 taxa), Quercus (41 spp., 70 taxa), Acer (41 spp., 148 taxa), Viburnum (26 spp., 61 taxa), Malus (18 spp., 161 taxa), Syringa (12 spp., 160 taxa), Rhododendron (57 spp., 718 taxa), Magnolia (19 spp., 122 taxa), Betula (23 spp., 39 taxa), Ohio native plants (464 spp.), nut-bearing trees (114 taxa), hedge (22 taxa).
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: Yes
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: No
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: No
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: Yes
+7-Visitor/Education Centre: Yes
+9-ArbNet Accredited: Level IV
+9-BGCI Member: No
+9-Fax: (440) 602 3857
+9-Institution Code: HOL
+9-International Agenda Registration: No
+9-Primary Email: holden@holdenarb.org
+9-Telephone: (440) 946-4400
+9-URL: www.holdenarb.org

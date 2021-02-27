@@ -1,15 +1,21 @@
-ID:	1265
-Name:	Brandywine Conservancy 
-Curator's Name:	Mark Gormel, Horticultural Coordinator
-Director's Name:	Sherri Evans-Stanton, Director, Environmental Management Center
-Info:	  United States of America - Pennsylvania - Chadds Ford  ;Garden Information;  Institution Code: BRAND; International Agenda Registration: No; BGCI Member: No; About the Brandywine Conservancy The mission of the Brandywine Conservancy's Environmental Management Center is to conserve the natural and cultural resources of the Brandywine River watershed and other selected areas with a primary emphasis on conservation of water quantity and quality.; ; The mission is founded on a belief that a healthy and secure natural environment is essential to meet the needs and aspirations of present and future generations.;  Main Address:; Brandywine Conservancy; U.S. Route 1; P.O. Box 141; Chadds Ford; Pennsylvania 19317 United States of America; ;  Telephone: (610) 388-2700; Fax: (610) 388-8397; URL: <a target="_blank" href="http://www.brandywineconservancy.org">www.brandywineconservancy.org; Primary Email: emc@brandywine.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1967
-Institution Type:	Botanic Garden
-Latitude:	39.8697640
-Longitude:	-75.5930100
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Native azaleas, native perennials, native ferns.
-Reintroduction Programme:	Yes
+0-ID: 1265
+1-Name: Brandywine Conservancy 
+2-Altitude: 0.00 Metres
+2-Date founded: 1967
+2-Info:              Institution Code: BRAND;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Brandywine Conservancy        The mission of the Brandywine Conservancy's Environmental Management Center is to conserve the natural and cultural resources of the Brandywine River watershed and other selected areas with a primary emphasis on conservation of water quantity and quality.;  ;  The mission is founded on a belief that a healthy and secure natural environment is essential to meet the needs and aspirations of present and future generations.;                        Main Address:;         Brandywine Conservancy;         U.S. Route 1;        P.O. Box 141;        Chadds Ford;        Pennsylvania 19317 United States of America;        ;                 Telephone: (610) 388-2700;         Fax: (610) 388-8397;         URL: www.brandywineconservancy.org;         Primary Email: emc@brandywine.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.8697640
+2-Longitude: -75.5930100
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Native azaleas, native perennials, native ferns.
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1265">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1265">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (610) 388-8397
+9-Institution Code: BRAND
+9-International Agenda Registration: No
+9-Primary Email: emc@brandywine.org
+9-Telephone: (610) 388-2700
+9-URL: www.brandywineconservancy.org

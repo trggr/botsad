@@ -1,11 +1,19 @@
-ID:	1134
-Name:	Arboretum of Saratov Institute of Agriculture 
-Curator's Name:	
-Director's Name:	
-Info:	  Russian Federation - Saratov  ;Garden Information;  Institution Code: SARIA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of Saratov Institute of Agriculture; 7 Tulajkova Street, 410020 SARATOV, Russian Federation; Saratov; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	51.5332
-Longitude:	46.0345
-Special Collections:	No information available.
+0-ID: 1134
+1-Name: Arboretum of Saratov Institute of Agriculture 
+2-Date founded: 
+2-Info:              Institution Code: SARIA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of Saratov Institute of Agriculture;         7 Tulajkova Street, 410020 SARATOV,  Russian Federation;                Saratov;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.5332
+2-Longitude: 46.0345
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1134">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1134">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1134">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1134">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SARIA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

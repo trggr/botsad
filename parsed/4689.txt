@@ -1,9 +1,18 @@
-ID:	4689
-Name:	Battery Park City Parks Conservancy 
-Curator's Name:	
-Director's Name:	Tessa Huxley, Executive Director
-Info:	  United States of America - New York - New York  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Battery Park City Parks Conservancy; 2 South End Avenue; New York; New York 10280 United States of America; ;  Telephone: (212) 267-9700; Fax: ; URL: <a target="_blank" href="http://www.bpcparks.org">www.bpcparks.org; Primary Email: info@bpcparks.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	40.7080466
-Longitude:	-74.0173809
+0-ID: 4689
+1-Name: Battery Park City Parks Conservancy 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Battery Park City Parks Conservancy;         2 South End Avenue;                New York;        New York 10280 United States of America;        ;                 Telephone: (212) 267-9700;         Fax: ;         URL: www.bpcparks.org;         Primary Email: info@bpcparks.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.7080466
+2-Longitude: -74.0173809
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4689">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4689">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4689">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4689">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4689">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@bpcparks.org
+9-Telephone: (212) 267-9700
+9-URL: www.bpcparks.org

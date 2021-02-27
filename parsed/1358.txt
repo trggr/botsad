@@ -1,36 +1,42 @@
-ID:	1358
-Name:	Paleis Het Loo Nationaal Museum 
-Fax:	+ 31(0)55 5219 983
-Info:	  Netherlands - Netherlands - Apeldoorn  ;Garden Information;  Institution Code: APELD; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	info@paleishetloo.nl
-Telephone:	+31(0)55 5772 455
-Administration Staff Number:	5
-Curator's Name:	ir. L.E. Groen
-Director's Name:	dr. J.R. ter Molen
-Educational Staff Number:	2
-Horticultural Staff Number:	15
-Plant Records Officer's Name:	ir. L.E. Groen
-Research Staff Number:	10
-Altitude:	60.00 Metres
-Annual Rainfall:	750 mm
-Date founded:	1984
-Institution Type:	Other
-Latitude:	52.2333
-Longitude:	5.9465
-Satellite Garden Names:	Stichting Twickel, Twickerelerlaan 7, 7495 VG Ambt Delden
-Total Area:	6 Hectares
-Total area of glasshouses:	2000 Metres
-Disabled access:	Yes
-Number of Visitors:	250
-Number of Volunteers:	200
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Accession Number:	900
-Cultivation Taxa Num:	900
-Special Collections:	Historical plant collection of the period of William and Mary, orangery collectionhistoric bitter orange (Citrus aurantium)
-Courses for School Children:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 1358
+1-Name: Paleis Het Loo Nationaal Museum 
+2-Administration Staff Number: 5
+2-Curator's Name: ir. L.E. Groen
+2-Director's Name: dr. J.R. ter Molen
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 15
+2-Info:              Institution Code: APELD;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/1358/Paleis_phpGQskau.JPG" alt="" />         </div>        </div>                                    Main Address:;         Paleis Het Loo Nationaal Museum;         Koninklijk Park 1;                Apeldoorn;        Netherlands 7315 JA Netherlands;        ;                 Telephone: +31(0)55 5772 455;         Fax: + 31(0)55 5219 983;         URL: paleishetloo.nl;         Primary Email: info@paleishetloo.nl       ;              
+2-Plant Records Officer's Name: ir. L.E. Groen
+2-Research Staff Number: 10
+3-Altitude: 60.00 Metres
+3-Annual Rainfall: 750 mm
+3-Date founded: 1984
+3-Institution Type: Other
+3-Latitude: 52.2333
+3-Longitude: 5.9465
+3-Satellite Garden Names: Stichting Twickel, Twickerelerlaan 7, 7495 VG Ambt Delden
+3-Total Area: 6 Hectares
+3-Total area of glasshouses: 2000 Metres
+4-Disabled access: Yes
+4-Number of Visitors: 250
+4-Number of Volunteers: 200
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+5-Accession Number: 900
+5-Cultivation Taxa Num: 900
+5-Special Collections: Historical plant collection of the period of William and Mary, orangery collectionhistoric bitter orange (Citrus aurantium)
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1358">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1358">Please click here if you can update us</a>
+8-Courses for School Children: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: + 31(0)55 5219 983
+9-Institution Code: APELD
+9-International Agenda Registration: No
+9-Primary Email: info@paleishetloo.nl
+9-Telephone: +31(0)55 5772 455
+9-URL: paleishetloo.nl

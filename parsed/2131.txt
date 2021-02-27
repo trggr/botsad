@@ -1,10 +1,19 @@
-ID:	2131
-Name:	NHCS - Nelliyampathi Hills Conservation Society 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Padagiri  ;Garden Information;  Institution Code: MAGAL; International Agenda Registration: No; BGCI Member: No;  Main Address:; NHCS - Nelliyampathi Hills Conservation Society; formerly Magali Estates (P) Ltd., PADAGIRI P.O. 678 509, Kerala, India.; Padagiri; India; ;  Telephone: 91 (0)492 346267; Fax: 91 (0)484 222066; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	10.4833
-Longitude:	76.7000
+0-ID: 2131
+1-Name: NHCS - Nelliyampathi Hills Conservation Society 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MAGAL;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         NHCS - Nelliyampathi Hills Conservation Society;         formerly Magali Estates (P) Ltd.,  PADAGIRI P.O. 678 509,  Kerala, India.;                Padagiri;        India;        ;                 Telephone: 91 (0)492 346267;         Fax: 91 (0)484 222066;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 10.4833
+2-Longitude: 76.7000
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2131">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2131">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2131">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2131">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2131">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 (0)484 222066
+9-Institution Code: MAGAL
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 91 (0)492 346267
+9-URL: 

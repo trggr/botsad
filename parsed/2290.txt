@@ -1,12 +1,20 @@
-ID:	2290
-Name:	Kerala University Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr P.M. Radhamany
-Info:	  India - Kerala - Thiruvananthapuram  ;Garden Information;  Institution Code: KARIA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Kerala University Botanic Garden; Department of Botany - University of Kerala; Kariavattom, P.O.; Thiruvananthapuram; Kerala 695581 India; ;  Telephone: +91-471-2308301; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: unikerbot@rediffmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1968
-Institution Type:	Botanic Garden
-Latitude:	8.5036
-Longitude:	76.9521
-Special Collections:	Economic,medical, horticultural plants and wild relatives of crops.
+0-ID: 2290
+1-Name: Kerala University Botanic Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1968
+2-Info:              Institution Code: KARIA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Kerala University Botanic Garden;         Department of Botany - University of Kerala;        Kariavattom, P.O.;        Thiruvananthapuram;        Kerala 695581 India;        ;                 Telephone: +91-471-2308301;         Fax: ;         URL: ;         Primary Email: unikerbot@rediffmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 8.5036
+2-Longitude: 76.9521
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2290">Please click here if you can update us</a>
+4-Special Collections: Economic,medical, horticultural plants and wild relatives of crops.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2290">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2290">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2290">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KARIA
+9-International Agenda Registration: No
+9-Primary Email: unikerbot@rediffmail.com
+9-Telephone: +91-471-2308301
+9-URL: 

@@ -1,13 +1,21 @@
-ID:	1003
-Name:	Kalopa State Park Arboretum 
-Curator's Name:	
-Director's Name:	Committee Chair of Volunteer Group
-Info:	  United States of America - Hawaii - Honokaa  ;Garden Information;  Institution Code: HKSP; International Agenda Registration: No; BGCI Member: No; About the Kalopa State Park Arboretum Lodging, picnicking and easy family nature hike (0.7-mile loop trail) in a native 'ohi'a forest at a 2000-foot elevation. Trail passes through the beginnings of an arboretum of the Island's native plants. Additional trails in the adjoining forest reserve, including a 2-mile horse loop trail.;  Main Address:; Kalopa State Park Arboretum; Hamakua District Development Council; P.O. Box 637; Honokaa; Hawaii 96727 United States of America; ;  Telephone: (808) 775 0239; Fax: ; URL: <a target="_blank" href="http://www.hawaiistateparks.org/parks/hawaii/Index.cfm?park_id=45">www.hawaiistateparks.org/parks/hawaii/Index.cfm?park_id=45; Primary Email: dlnr@hawaii.gov ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1970
-Institution Type:	Botanic Garden
-Latitude:	20.0388600
-Longitude:	-155.4358200
-Total Area:	40 Hectares
-Special Collections:	Rare local species, Hawaii island genera, Polynesian introductions.
+0-ID: 1003
+1-Name: Kalopa State Park Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1970
+2-Info:              Institution Code: HKSP;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Kalopa State Park Arboretum        Lodging, picnicking and easy family nature hike (0.7-mile loop trail) in a native 'ohi'a forest at a 2000-foot elevation. Trail passes through the beginnings of an arboretum of the Island's native plants. Additional trails in the adjoining forest reserve, including a 2-mile horse loop trail.;                        Main Address:;         Kalopa State Park Arboretum;         Hamakua District Development Council;        P.O. Box 637;        Honokaa;        Hawaii 96727 United States of America;        ;                 Telephone: (808) 775 0239;         Fax: ;         URL: www.hawaiistateparks.org/parks/hawaii/Index.cfm?park_id=45;         Primary Email: dlnr@hawaii.gov       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.0388600
+2-Longitude: -155.4358200
+2-Total Area: 40 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1003">Please click here if you can update us</a>
+4-Special Collections: Rare local species, Hawaii island genera, Polynesian introductions.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1003">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1003">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1003">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: HKSP
+9-International Agenda Registration: No
+9-Primary Email: dlnr@hawaii.gov
+9-Telephone: (808) 775 0239
+9-URL: www.hawaiistateparks.org/parks/hawaii/Index.cfm?park_id=45

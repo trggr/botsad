@@ -1,20 +1,24 @@
-ID:	1237
-Name:	San Antonio Botanical Gardens 
-Administration Staff Number:	5
-Curator's Name:	Michael Eason, Conservation Officer
-Director's Name:	Sabina Carr, Chief Executive Officer
-Educational Staff Number:	3
-Horticultural Staff Number:	12
-Info:	  United States of America - Texas - San Antonio  ;Garden Information;  Institution Code: SABG; International Agenda Registration: No; BGCI Member: No; About the San Antonio Botanical Gardens MISSION: ; To inspire people to connect with the plant world and understand the importance of plants in our lives.;  Main Address:; San Antonio Botanical Gardens; 555 Funston Place; San Antonio; Texas 78209 United States of America; ;  Telephone: (210) 207-3250; Fax: (210) 207-3274; URL: <a target="_blank" href="http://www.sabot.org">www.sabot.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	0.00 Metres
-Date founded:	1980
-Institution Type:	Botanic Garden
-Latitude:	29.4590080
-Longitude:	-98.4576190
-Total Area:	13 Hectares
-Disabled access:	Yes
-Open to public:	Yes
-Seed Bank:	Yes
-Special Collections:	Cactaceae, Palmae, Polypodiaceae, herb garden, Rosa, garden for the blind, native areas.
+0-ID: 1237
+1-Name: San Antonio Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1980
+2-Info:              Institution Code: SABG;             International Agenda Registration: No;        BGCI Member: No;                                                  About the San Antonio Botanical Gardens        MISSION: ;  To inspire people to connect with the plant world and understand the importance of plants in our lives.;                        Main Address:;         San Antonio Botanical Gardens;         555 Funston Place;                San Antonio;        Texas 78209 United States of America;        ;                 Telephone: (210) 207-3250;         Fax: (210) 207-3274;         URL: www.sabot.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.4590080
+2-Longitude: -98.4576190
+2-Total Area: 13 Hectares
+3-Disabled access: Yes
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-Special Collections: Cactaceae, Palmae, Polypodiaceae, herb garden, Rosa, garden for the blind, native areas.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1237">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1237">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1237">Please click here if you can update us</a>
+9-About the San Antonio Botanical Gardens        MISSION: 
+9-BGCI Member: No
+9-Fax: (210) 207-3274
+9-Institution Code: SABG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (210) 207-3250
+9-URL: www.sabot.org

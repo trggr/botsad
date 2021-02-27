@@ -1,27 +1,31 @@
-ID:	572
-Name:	Kwanak Arboretum of Seoul National University 
-Curator's Name:	Yeon-Su Ryu
-Director's Name:	Pil-sun Park
-Info:	  South Korea - Gyunggi-do - Anyang-si  ;Garden Information;  Institution Code: SUWEO; International Agenda Registration: No; BGCI Member: Yes; About the Kwanak Arboretum of Seoul National University The number of taxa includes 83 families and 201 genera.;  Main Address:; Kwanak Arboretum of Seoul National University; Seoul National University; 280 Yeosulgongwon-ro, Manan-gu; Anyang-si; Gyunggi-do 13911 South Korea; ;  Telephone: +82 31 473 0071; Fax: +82 31 473 0072; URL: <a target="_blank" href="http://arbor.snu.ac.kr">http://arbor.snu.ac.kr; Primary Email: arbor@snu.ac.kr ; 
-Plant Records Officer's Name:	Sook-Hyang Kim
-Altitude:	90.00 Metres
-Annual Rainfall:	12 mm
-Date founded:	1967
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	37.4166
-Local Address:	280 Yeosulgongwon-ro, Manan-gu
-Locality:	Information
-Longitude:	126.9333
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Suwon Arboretum
-Arboretum:	Yes
-Herbarium:	Yes
-Number of Visitors:	6
-Open to public:	Yes
-Special Collections:	Native woody plants and perennials of botanical interests. Endemics. Callicarpa, Clerodendron, Deutzia, Forsythia, Philadelphus, Prunus, Rhododendron, Rosa, Spiraea, Vitex, Weigelia, Abies, Chamaecyparis, Juniperus, Larix, Picea, Pinus, Taxodium, Taxus, etc.
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Systematics and Taxonomy:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 572
+1-Name: Kwanak Arboretum of Seoul National University 
+2-Altitude: 90.00 Metres
+2-Annual Rainfall: 12 mm
+2-Date founded: 1967
+2-Info:              Institution Code: SUWEO;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Kwanak Arboretum of Seoul National University        The number of taxa includes 83 families and 201 genera.;                        Main Address:;         Kwanak Arboretum of Seoul National University;         Seoul National University;        280 Yeosulgongwon-ro, Manan-gu;        Anyang-si;        Gyunggi-do 13911 South Korea;        ;                 Telephone: +82 31 473 0071;         Fax: +82 31 473 0072;         URL: http://arbor.snu.ac.kr;         Primary Email: arbor@snu.ac.kr       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 37.4166
+2-Local Address: 280 Yeosulgongwon-ro, Manan-gu
+2-Locality: Information
+2-Longitude: 126.9333
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Suwon Arboretum
+3-Arboretum: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 6
+3-Open to public: Yes
+4-Special Collections: Native woody plants and perennials of botanical interests. Endemics. Callicarpa, Clerodendron, Deutzia, Forsythia, Philadelphus, Prunus, Rhododendron, Rosa, Spiraea, Vitex, Weigelia, Abies, Chamaecyparis, Juniperus, Larix, Picea, Pinus, Taxodium, Taxus, etc.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=572">Please click here if you can update us</a>
+6-Conservation - Biology: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Systematics and Taxonomy: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: Yes
+9-Fax: +82 31 473 0072
+9-Institution Code: SUWEO
+9-International Agenda Registration: No
+9-Primary Email: arbor@snu.ac.kr
+9-Telephone: +82 31 473 0071

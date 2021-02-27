@@ -1,11 +1,19 @@
-ID:	3544
-Name:	Arboretum Guaycolec 
-Curator's Name:	Ing. Ftal. Darvin A. Cáceres
-Director's Name:	Ing. Julio Ramón Soupet
-Info:	  Argentina - Formosa - Formosa  ;Garden Information;  Institution Code: FGUAY; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum Guaycolec; Parque Botánico Lucas Tortorelli, Ruta Provincial 11; Facultad de Recursos Naturales, UNF, Av. Dr. Luis Gutniski 3.200; Formosa; Formosa 3600 Argentina; ;  Telephone: 54 (0) 3717-452-241; Fax: 54 (0) 3717-452-241; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-26.192964
-Longitude:	-58.199433
-Open to public:	Yes
+0-ID: 3544
+1-Name: Arboretum Guaycolec 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: FGUAY;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum Guaycolec;         Parque Botánico Lucas Tortorelli, Ruta Provincial 11;        Facultad de Recursos Naturales, UNF, Av.  Dr. Luis Gutniski 3.200;        Formosa;        Formosa 3600 Argentina;        ;                 Telephone: 54 (0) 3717-452-241;         Fax: 54 (0) 3717-452-241;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -26.192964
+2-Longitude: -58.199433
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3544">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3544">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3544">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3544">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 54 (0) 3717-452-241
+9-Institution Code: FGUAY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 54 (0) 3717-452-241
+9-URL: 

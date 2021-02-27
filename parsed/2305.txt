@@ -1,11 +1,19 @@
-ID:	2305
-Name:	Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Trichur  ;Garden Information;  Institution Code: KFRI; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden; Kerala Forest Research Institute, Peechi, Dist. TRICHUR, Kerala, India.; Trichur; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	10.5079
-Longitude:	76.2093
-Special Collections:	Acer, Allium, Crataegus, Betula, Lonicera, Rosa, Thalictrum. Flora of Western Europe, European former USSR, Crimea and Caucasus. Middle Asia, Western and Eastern Siberia, Far East, tropics.
+0-ID: 2305
+1-Name: Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: KFRI;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanic Garden;         Kerala Forest Research Institute,  Peechi, Dist.  TRICHUR, Kerala,  India.;                Trichur;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 10.5079
+2-Longitude: 76.2093
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2305">Please click here if you can update us</a>
+4-Special Collections: Acer, Allium, Crataegus, Betula, Lonicera, Rosa, Thalictrum. Flora of Western Europe, European former USSR, Crimea and Caucasus. Middle Asia, Western and Eastern Siberia, Far East, tropics.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2305">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2305">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2305">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KFRI
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

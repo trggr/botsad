@@ -1,9 +1,18 @@
-ID:	5271
-Name:	Burden Museum and Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Louisiana - Baton Rouge  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Burden Museum and Gardens; 4560 Essen Lane; Baton Rouge; Louisiana 70809 United States of America; ;  Telephone: (225) 763-3990; Fax: ; URL: <a target="_blank" href="http://www.lsu.edu/botanic-gardens">www.lsu.edu/botanic-gardens; Primary Email: botanicgardens@agcenter.lsu.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	30.405681
-Longitude:	-91.103595
+0-ID: 5271
+1-Name: Burden Museum and Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Burden Museum and Gardens;         4560 Essen Lane;                Baton Rouge;        Louisiana 70809 United States of America;        ;                 Telephone: (225) 763-3990;         Fax: ;         URL: www.lsu.edu/botanic-gardens;         Primary Email: botanicgardens@agcenter.lsu.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.405681
+2-Longitude: -91.103595
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5271">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5271">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5271">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5271">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5271">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: botanicgardens@agcenter.lsu.edu
+9-Telephone: (225) 763-3990
+9-URL: www.lsu.edu/botanic-gardens

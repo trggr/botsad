@@ -1,15 +1,23 @@
-ID:	3378
-Name:	Botanic Garden of Oklahoma State University, The 
-Curator's Name:	Jane Carter, Garden Manager
-Director's Name:	Lou Anella, Director
-Info:	  United States of America - Oklahoma - Stillwater  ;Garden Information;  Institution Code: OKLA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanic Garden of Oklahoma State University, The; 3300 W. 6th; Mailing: 358 Agricultural Hall; Stillwater; Oklahoma 74078 United States of America; ;  Telephone: (405) 744-5414; Fax: (405) 744-9709; URL: <a target="_blank" href="http://www.osubotanicalgarden.okstate.edu">www.osubotanicalgarden.okstate.edu; Primary Email: botanicgarden@okstate.edu ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	36.1268077
-Longitude:	-97.0627150
-Total Area:	40 Hectares
-Arboretum:	Yes
-Open to public:	Yes
-Special Collections:	Herbaceous and woody plants, aquatics
+0-ID: 3378
+1-Name: Botanic Garden of Oklahoma State University, The 
+2-Altitude: 0.00 Metres
+2-Date founded: 1976
+2-Info:              Institution Code: OKLA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanic Garden of Oklahoma State University, The;         3300 W. 6th;        Mailing: 358 Agricultural Hall;        Stillwater;        Oklahoma 74078 United States of America;        ;                 Telephone: (405) 744-5414;         Fax: (405) 744-9709;         URL: www.osubotanicalgarden.okstate.edu;         Primary Email: botanicgarden@okstate.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 36.1268077
+2-Longitude: -97.0627150
+2-Total Area: 40 Hectares
+3-Arboretum: Yes
+3-Open to public: Yes
+4-Special Collections: Herbaceous and woody plants, aquatics
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3378">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3378">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3378">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (405) 744-9709
+9-Institution Code: OKLA
+9-International Agenda Registration: No
+9-Mailing: 358 Agricultural Hall
+9-Primary Email: botanicgarden@okstate.edu
+9-Telephone: (405) 744-5414
+9-URL: www.osubotanicalgarden.okstate.edu

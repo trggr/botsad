@@ -1,11 +1,19 @@
-ID:	133
-Name:	The Botanical Garden State University 
-Curator's Name:	
-Director's Name:	C.A.Rozno
-Info:	  Russian Federation - Samara  ;Garden Information;  Institution Code: KUIB; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; The Botanical Garden State University; Moscovskoe Shosse 36, 443086 SAMARA, Russian Federation; Samara; Russian Federation; ;  Telephone: 34 43 82; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1932
-Institution Type:	Botanic Garden
-Latitude:	53.2021
-Longitude:	50.1596
-Special Collections:	The woody plant collections include 675 taxa. 1,029 taxa are maintained in the glasshouse (of these 241 are succulents), 103 species and 50 varieties of climbers are grown, 730 taxa of flowering herbaceous and ornamental taxa are maintained. Special colle
+0-ID: 133
+1-Name: The Botanical Garden State University 
+2-Date founded: 1932
+2-Info:              Institution Code: KUIB;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         The Botanical Garden State University;         Moscovskoe Shosse 36,  443086 SAMARA,  Russian Federation;                Samara;        Russian Federation;        ;                 Telephone: 34 43 82;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 53.2021
+2-Longitude: 50.1596
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=133">Please click here if you can update us</a>
+4-Special Collections: The woody plant collections include 675 taxa. 1,029 taxa are maintained in the glasshouse (of these 241 are succulents), 103 species and 50 varieties of climbers are grown, 730 taxa of flowering herbaceous and ornamental taxa are maintained. Special colle
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=133">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=133">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=133">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: KUIB
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 34 43 82
+9-URL: 

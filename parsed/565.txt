@@ -1,73 +1,75 @@
-ID:	565
-Name:	Jardim Botanico da Ajuda 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Dr. Maria Dalila Espirito Santo
-Educational Staff Number:	2
-Horticultural Staff Number:	4
-Info:	  Portugal - Lisboa  ;Garden Information;  Institution Code: LISI; International Agenda Registration: Yes; BGCI Member: Yes; About the Jardim Botanico da Ajuda After the great earthquake that reduced Lisbon to ruins on the 1st of November 1755, King Dom José I’s Prime Minister, the Marquis of Pombal, moved the court to Ajuda, which was then a suburb of the capital city and where enough palaces had remained standing to house all the different ministries. The king bought a farm next to the royal residence in order to grow the fruit and vegetables needed for the palace (Caixinhas, 1991). It was on this piece of land that in 1765 Domingos Vandelli planned what were to be Europe’s fifteenth and Portugal’s first botanical gardens, which were intended to serve the education of the king’s grandsons, Princes Dom José and Dom João. ; The Gardens were actually founded in around 1768. They were and are characterised by the perfect symmetry of their layout, which reveals the influence of the French and Italian gardens of the period. They are divided into two levels: the upper terrace contains a patchwork of flowerbeds that house the botanical collection, while the lower level is dominated by a large central lake that is richly ornamented with sculptures of water-related animals and is prepared for growing aquatic plants.; Four years later Domingos Vandelli was commissioned to design another Botanical Garden, this time for Coimbra University. Following his retirement from the University, in 1791 Vandelli was appointed Director of the “Ajuda Royal Botanic Gardens, Chemistry Laboratory, Natural History Museum and the ‘House of Drawing’”. He had live plants and seeds brought from botanical gardens all over the world and at one point amassed a collection of more than 5,000 species. However, due to acclimatisation difficulties, a few years later only 1,200 of these remained under cultivation. ; The Gardens were opened to the public during the reign of Dom João VI, who succeeded Dom José’s daughter, Dona Maria I. During this period the number of species rose again, thanks to the increase in the specimens presented by the governors of the country’s colonies.; In 1811 another retired professor from Coimbra University, Félix de Avelar Brotero, was appointed Administrator and Director of the Gardens. He was of the opinion that although the Botanical Collection included many plants that were rare and/or useful for medicinal, agricultural or artistic purposes, it had been put together in a way that lacked scientific rigueur. His stewardship saw the cultivation of large numbers of plants – a catalogue that he drew up himself records 1,370 species (Caixinhas, 1991). However, partly as a result of the French invasions, after his death the Gardens went through a period of decline.; In 1836 the Ajuda Royal Museum and Botanic Gardens were placed under the administrative responsibility of the Academy of Science. When the Polytechnic School was created the next year, it was recognised that a botanical garden was indispensable to its work and so in 1839 the Gardens (but not the Natural History Museum) were incorporated into the new institution. However, because the School and the Gardens were a long way apart, and in order to make teaching Botany easier, in 1842 work began on the construction of a teaching garden in Lisbon itself that was to become the Polytechnic School Botanic Gardens.; In 1874 the Ajuda Royal Botanic Gardens were handed back to the management of the royal household and from then onwards progressively fell into a state of decay. Various boards of management came and went, until in 1910 the Gardens were placed under the responsibility of the Instituto Superior de Agronomia (Higher Institute of Agronomy – ISA).; The Botanic Gardens underwent their first major restoration in 1948, as a result of a natural disaster – the hurricane that struck Lisbon in 1941. A large proportion of the trees had been uprooted and part of the wood that the botanical collection had created over the years had disappeared. In fact this proved beneficial to the Gardens’ aspect: on the one hand, a number of new views out across the Tagus were opened up; on the other, the hurricane eliminated some 200-year-old trees that were already past their prime. The shade caused by the excessive density of the trees had restricted the growth of many plants, but now the Gardens enjoyed a new luminosity. The restorers did not try to recreate the old botanical collection. Instead they began to manage the Gardens in such a way as to keep them clean and make sure that the plants were healthy, thanks to new facilities such as the potting building.; The second large restoration was carried out between 1995 and 1997. Priority was given to the irrigation and drainage infrastructures and to recreating the botanical collection along the lines originally laid down by Vandelli. An abandoned kitchen garden was also converted into a space that is especially designed for the blind and visually challenged. ; The Ajuda Botanic Gardens are currently a special unit within the Higher Institute of Agronomy (ISA). Although they are no longer reserved for princes, they retain their educational vocation. The connection with the University is preserved not only directly via the teaching of a number of courses, but also due to the fact that lecturers, students and other volunteers all take part in a variety of programmes that are of interest to the public.;  Main Address:; Jardim Botanico da Ajuda; c/o Instituto Superior de Agronomia; Calçada da Ajuda; Lisboa; P-1300-011 Portugal; ;  Telephone: 35 1 213622503; Fax: 35 1 213622503; URL: <a target="_blank" href="http://www.isa.ulisboa.pt/jba">www.isa.ulisboa.pt/jba; Primary Email: botanicoajuda@isa.ulisboa.pt ; 
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	80.00 Metres
-Annual Rainfall:	690 mm
-Date founded:	1768
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	38.7095
-Local Address:	Calçada da Ajuda s/ nº, 1300-010 Lisboa, Portugal
-Locality:	Information
-Longitude:	-9.1965
-Natural Vegetation Area:	No
-Total Area:	4 Hectares
-Total area of glasshouses:	500 Metres
-Total area of shadehouses:	20000 Metres
-Arboretum:	Yes
-Arboretum Size:	1
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	35000
-Number of Volunteers:	20
-Open to public:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	1644
-Cultivation Taxa Num:	1300
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	A formal garden of the 18th century designed by Vandelli. The upper terrace contains a patchwork of flowerbeds that house the botanical collection, where plants are distributed by phytogegraphical regions.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Data Management Systems and Information Technology:	No
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	No
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Pharmacology:	No
-Plant Breeding:	Yes
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Sustainability:	No
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Visitor/Education Centre:	No
+0-ID: 565
+1-Name: Jardim Botanico da Ajuda 
+2-Altitude: 80.00 Metres
+2-Annual Rainfall: 690 mm
+2-Date founded: 1768
+2-Info:              Institution Code: LISI;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Jardim Botanico da Ajuda        After the great earthquake that reduced Lisbon to ruins on the 1st of November 1755, King Dom José I’s Prime Minister, the Marquis of Pombal, moved the court to Ajuda, which was then a suburb of the capital city and where enough palaces had remained standing to house all the different ministries. The king bought a farm next to the royal residence in order to grow the fruit and vegetables needed for the palace (Caixinhas, 1991). It was on this piece of land that in 1765 Domingos Vandelli planned what were to be Europe’s fifteenth and Portugal’s first botanical gardens, which were intended to serve the education of the king’s grandsons, Princes Dom José and Dom João. ;  The Gardens were actually founded in around 1768. They were and are characterised by the perfect symmetry of their layout, which reveals the influence of the French and Italian gardens of the period. They are divided into two levels: the upper terrace contains a patchwork of flowerbeds that house the botanical collection, while the lower level is dominated by a large central lake that is richly ornamented with sculptures of water-related animals and is prepared for growing aquatic plants.;  Four years later Domingos Vandelli was commissioned to design another Botanical Garden, this time for Coimbra University. Following his retirement from the University, in 1791 Vandelli was appointed Director of the “Ajuda Royal Botanic Gardens, Chemistry Laboratory, Natural History Museum and the ‘House of Drawing’”. He had live plants and seeds brought from botanical gardens all over the world and at one point amassed a collection of more than 5,000 species. However, due to acclimatisation difficulties, a few years later only 1,200 of these remained under cultivation. ;  The Gardens were opened to the public during the reign of Dom João VI, who succeeded Dom José’s daughter, Dona Maria I. During this period the number of species rose again, thanks to the increase in the specimens presented by the governors of the country’s colonies.;  In 1811 another retired professor from Coimbra University, Félix de Avelar Brotero, was appointed Administrator and Director of the Gardens. He was of the opinion that although the Botanical Collection included many plants that were rare and/or useful for medicinal, agricultural or artistic purposes, it had been put together in a way that lacked scientific rigueur. His stewardship saw the cultivation of large numbers of plants – a catalogue that he drew up himself records 1,370 species (Caixinhas, 1991). However, partly as a result of the French invasions, after his death the Gardens went through a period of decline.;  In 1836 the Ajuda Royal Museum and Botanic Gardens were placed under the administrative responsibility of the Academy of Science. When the Polytechnic School was created the next year, it was recognised that a botanical garden was indispensable to its work and so in 1839 the Gardens (but not the Natural History Museum) were incorporated into the new institution. However, because the School and the Gardens were a long way apart, and in order to make teaching Botany easier, in 1842 work began on the construction of a teaching garden in Lisbon itself that was to become the Polytechnic School Botanic Gardens.;  In 1874 the Ajuda Royal Botanic Gardens were handed back to the management of the royal household and from then onwards progressively fell into a state of decay. Various boards of management came and went, until in 1910 the Gardens were placed under the responsibility of the Instituto Superior de Agronomia (Higher Institute of Agronomy – ISA).;  The Botanic Gardens underwent their first major restoration in 1948, as a result of a natural disaster – the hurricane that struck Lisbon in 1941. A large proportion of the trees had been uprooted and part of the wood that the botanical collection had created over the years had disappeared. In fact this proved beneficial to the Gardens’ aspect: on the one hand, a number of new views out across the Tagus were opened up; on the other, the hurricane eliminated some 200-year-old trees that were already past their prime. The shade caused by the excessive density of the trees had restricted the growth of many plants, but now the Gardens enjoyed a new luminosity. The restorers did not try to recreate the old botanical collection. Instead they began to manage the Gardens in such a way as to keep them clean and make sure that the plants were healthy, thanks to new facilities such as the potting building.;  The second large restoration was carried out between 1995 and 1997. Priority was given to the irrigation and drainage infrastructures and to recreating the botanical collection along the lines originally laid down by Vandelli. An abandoned kitchen garden was also converted into a space that is especially designed for the blind and visually challenged. ;  The Ajuda Botanic Gardens are currently a special unit within the Higher Institute of Agronomy (ISA). Although they are no longer reserved for princes, they retain their educational vocation. The connection with the University is preserved not only directly via the teaching of a number of courses, but also due to the fact that lecturers, students and other volunteers all take part in a variety of programmes that are of interest to the public.;                        Main Address:;         Jardim Botanico da Ajuda;         c/o Instituto Superior de Agronomia;        Calçada da Ajuda;        Lisboa;        P-1300-011 Portugal;        ;                 Telephone: 35 1 213622503;         Fax: 35 1 213622503;         URL: www.isa.ulisboa.pt/jba;         Primary Email: botanicoajuda@isa.ulisboa.pt       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 38.7095
+2-Local Address: Calçada da Ajuda s/ nº, 1300-010 Lisboa, Portugal
+2-Locality: Information
+2-Longitude: -9.1965
+2-Natural Vegetation Area: No
+2-Total Area: 4 Hectares
+2-Total area of glasshouses: 500 Metres
+2-Total area of shadehouses: 20000 Metres
+3-Arboretum: Yes
+3-Arboretum Size: 1
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Number of Visitors: 35000
+3-Number of Volunteers: 20
+3-Open to public: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 1644
+4-Cultivation Taxa Num: 1300
+4-Invasive Species Policy: Yes
+4-Plant Collection Policy: Yes
+4-Special Collections: A formal garden of the 18th century designed by Vandelli. The upper terrace contains a patchwork of flowerbeds that house the botanical collection, where plants are distributed by phytogegraphical regions.
+5-Conservation Programme: Yes
+5-Ex Situ Conservation Programme: Yes
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: Yes
+6-Agriculture: Yes
+6-Biotechnology: Yes
+6-Conservation - Biology: Yes
+6-Conservation - Genetics: Yes
+6-Data Management Systems and Information Technology: No
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: No
+6-Floristics: Yes
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: Yes
+6-Pharmacology: No
+6-Plant Breeding: Yes
+6-Pollination Biology: No
+6-Restoration Ecology: Yes
+6-Seed/Spore Biology: Yes
+6-Sustainability: No
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+7-Education Programme: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+7-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: 35 1 213622503
+9-Institution Code: LISI
+9-International Agenda Registration: Yes
+9-Primary Email: botanicoajuda@isa.ulisboa.pt
+9-Telephone: 35 1 213622503
+9-The Botanic Gardens underwent their first major restoration in 1948, as a result of a natural disaster – the hurricane that struck Lisbon in 1941. A large proportion of the trees had been uprooted and part of the wood that the botanical collection had created over the years had disappeared. In fact this proved beneficial to the Gardens’ aspect: on the one hand, a number of new views out across the Tagus were opened up
+9-The Gardens were actually founded in around 1768. They were and are characterised by the perfect symmetry of their layout, which reveals the influence of the French and Italian gardens of the period. They are divided into two levels: the upper terrace contains a patchwork of flowerbeds that house the botanical collection, while the lower level is dominated by a large central lake that is richly ornamented with sculptures of water-related animals and is prepared for growing aquatic plants.
+9-URL: www.isa.ulisboa.pt/jba

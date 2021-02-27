@@ -1,50 +1,50 @@
-ID:	3506
-Name:	University of Delaware Botanic Gardens 
-Administration Staff Number:	2
-Curator's Name:	Andrew Adams
-Director's Name:	Valann Budischak, Interim Director
-Educational Staff Number:	1
-Horticultural Staff Number:	1
-Info:	  United States of America - Delaware - Newark  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the University of Delaware Botanic Gardens The University of Delaware Botanic Gardens traces its roots back to the late 1950’s with the planting of specimen trees and shrubs around Townsend Hall at the College of Agriculture and Natural Resources (CANR). These early plantings initially supported undergraduate coursework and evolved over time into gardens.; ; Today, the UD Botanic Garden is a series of twelve gardens on fifteen acres. UDBG continues to be used by faculty, students, Green Industry professionals, and the public, and serves a primary role in supporting the CANR programs in horticulture, plant science, entomology, and landscape design.; ; UD Botanic Gardens contributes to an understanding of the changing relationships between plants and people through education, extension, research, and community support.;  Main Address:; University of Delaware Botanic Gardens; 531 South College Avenue; Mailing: 152 Townsend Hall, Plant & Soil Sciences; Newark; Delaware 19717 United States of America; ;  Telephone: (302) 831-0153; Fax: (302) 831-0605; URL: <a target="_blank" href="http://ag.udel.edu/udbg/">http://ag.udel.edu/udbg/; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1950
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	39.6676410
-Longitude:	-75.7527060
-Total Area:	6 Hectares
-Arboretum:	Yes
-Arboretum Size:	6
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Open to public:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	1938
-Cultivation Taxa Num:	1401
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Biotechnology:	No
-Education:	Yes
-Plant Breeding:	No
-Courses for General Public:	Yes
-Courses for School Children:	No
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	No
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 3506
+1-Name: University of Delaware Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1950
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the University of Delaware Botanic Gardens        The University of Delaware Botanic Gardens traces its roots back to the late 1950’s with the planting of specimen trees and shrubs around Townsend Hall at the College of Agriculture and Natural Resources (CANR). These early plantings initially supported undergraduate coursework and evolved over time into gardens.;  ;  Today, the UD Botanic Garden is a series of twelve gardens on fifteen acres. UDBG continues to be used by faculty, students, Green Industry professionals, and the public, and serves a primary role in supporting the CANR programs in horticulture, plant science, entomology, and landscape design.;  ;  UD Botanic Gardens contributes to an understanding of the changing relationships between plants and people through education, extension, research, and community support.;                        Main Address:;         University of Delaware Botanic Gardens;         531 South College Avenue;        Mailing: 152 Townsend Hall, Plant & Soil Sciences;        Newark;        Delaware 19717 United States of America;        ;                 Telephone: (302) 831-0153;         Fax: (302) 831-0605;         URL: http://ag.udel.edu/udbg/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 39.6676410
+2-Longitude: -75.7527060
+2-Total Area: 6 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 6
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Open to public: Yes
+3-Seed Bank: No
+4-ABS Policy: Yes
+4-Accession Number: 1938
+4-Cultivation Taxa Num: 1401
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Biotechnology: No
+6-Education: Yes
+6-Plant Breeding: No
+7-Courses for General Public: Yes
+7-Courses for School Children: No
+7-Courses for University/College Students: Yes
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: No
+7-Permanent Public Displays: Yes
+7-Public Lectures/Talks: Yes
+7-Special Exhibitions: No
+7-Visitor/Education Centre: No
+9-BGCI Member: Yes
+9-Fax: (302) 831-0605
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Mailing: 152 Townsend Hall, Plant & Soil Sciences
+9-Primary Email: 
+9-Telephone: (302) 831-0153

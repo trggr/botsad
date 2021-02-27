@@ -1,27 +1,29 @@
-ID:	139
-Name:	Giardini Botanici Hanbury 
-Administration Staff Number:	2
-Curator's Name:	Dott. Pier Giorgio Campodonico
-Director's Name:	Carolyn Hanbury, Owner
-Educational Staff Number:	
-Horticultural Staff Number:	12
-Info:	  Italy - Liguria - Ventimiglia (IM)  ;Garden Information;  Institution Code: LATT; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardini Botanici Hanbury; C.so Montecarlo 43 - La Mortola; Ventimiglia (IM); Liguria 18039 Italy; ;  Telephone: 39 (0)184 22661; Fax: 39 (0)184 226632; URL: <a target="_blank" href="http://www.parks.it/giardini.botanici.hanbury/index.html">www.parks.it/giardini.botanici.hanbury/index.html; Primary Email: gbhelena@unige.it ; 
-Plant Records Officer's Name:	Dott. Elena Zappa
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	821 mm
-Institution Type:	Botanic Garden
-Latitude:	43.7833
-Longitude:	7.5500
-Natural Vegetation Area:	Yes
-Total Area:	18 Hectares
-Friends society:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Special Collections:	Agave, Aloe, Acacia, Salvia, Brugmansia, Bignoniaceae,Citrus (old cultivars)
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Special Exhibitions:	Yes
+0-ID: 139
+1-Name: Giardini Botanici Hanbury 
+2-Altitude: 0.00 Metres
+2-Annual Rainfall: 821 mm
+2-Info:              Institution Code: LATT;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardini Botanici Hanbury;         C.so Montecarlo 43 - La Mortola;                Ventimiglia (IM);        Liguria 18039 Italy;        ;                 Telephone: 39 (0)184 22661;         Fax: 39 (0)184 226632;         URL: www.parks.it/giardini.botanici.hanbury/index.html;         Primary Email: gbhelena@unige.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.7833
+2-Longitude: 7.5500
+2-Natural Vegetation Area: Yes
+2-Total Area: 18 Hectares
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Special Collections: Agave, Aloe, Acacia, Salvia, Brugmansia, Bignoniaceae,Citrus (old cultivars)
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=139">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=139">Please click here if you can update us</a>
+7-Education Booklets/Leaflets: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: 39 (0)184 226632
+9-Institution Code: LATT
+9-International Agenda Registration: No
+9-Primary Email: gbhelena@unige.it
+9-Telephone: 39 (0)184 22661
+9-URL: www.parks.it/giardini.botanici.hanbury/index.html

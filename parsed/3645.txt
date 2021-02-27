@@ -1,11 +1,18 @@
-ID:	3645
-Name:	Biología Vegetal - Universidad Politécnica de Madrid 
-Curator's Name:	
-Director's Name:	The Director
-Info:	  Spain - MADRID  ;Garden Information;  Institution Code: EMMA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Biología Vegetal - Universidad Politécnica de Madrid; Ciudad Universitaria, S/N; MADRID; 28040 Spain; ;  Telephone: 91 336 56 00; Fax: 91 543 48 79; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	40.4472
-Longitude:	-3.7277
-Seed Bank:	Yes
+0-ID: 3645
+1-Name: Biología Vegetal - Universidad Politécnica de Madrid 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: EMMA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Biología Vegetal  - Universidad Politécnica de Madrid;         Ciudad Universitaria, S/N;                MADRID;        28040 Spain;        ;                 Telephone: 91 336 56 00;         Fax: 91 543 48 79;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 40.4472
+2-Longitude: -3.7277
+3-Seed Bank: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3645">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3645">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3645">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 543 48 79
+9-Institution Code: EMMA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 91 336 56 00
+9-URL: 

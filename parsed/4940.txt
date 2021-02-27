@@ -1,14 +1,20 @@
-ID:	4940
-Name:	Domaine Joly-De Lotbinière 
-Curator's Name:	
-Director's Name:	Jean Bergeron, Foundation President
-Info:	  Canada - Quebec - Sainte-Croix  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Domaine Joly-De Lotbinière; 7015, route de Pointe Platon, C.P. 1000; Sainte-Croix; Quebec G0S 2H0 Canada; ;  Telephone: (418) 926-2462; Fax: (418) 926-2525; URL: <a target="_blank" href="http://www.domainejoly.com/fr/accueil/">http://www.domainejoly.com/fr/accueil/; Primary Email: info@domainejoly.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	46.669539
-Longitude:	-71.85051
-Total Area:	138 Hectares
-Arboretum:	Yes
-Open to public:	Yes
-Cultivation Taxa Num:	2300
+0-ID: 4940
+1-Name: Domaine Joly-De Lotbinière 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Domaine Joly-De Lotbinière;         7015, route de Pointe Platon, C.P. 1000;                Sainte-Croix;        Quebec G0S 2H0 Canada;        ;                 Telephone: (418) 926-2462;         Fax: (418) 926-2525;         URL: http://www.domainejoly.com/fr/accueil/;         Primary Email: info@domainejoly.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 46.669539
+2-Longitude: -71.85051
+2-Total Area: 138 Hectares
+3-Arboretum: Yes
+3-Open to public: Yes
+4-Cultivation Taxa Num: 2300
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4940">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4940">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4940">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (418) 926-2525
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@domainejoly.com
+9-Telephone: (418) 926-2462

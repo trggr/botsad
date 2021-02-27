@@ -1,9 +1,18 @@
-ID:	4918
-Name:	Chongqing Medicinal Plants Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Chongqing  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Chongqing Medicinal Plants Botanic Garden; Sanquan Township; Nanchuan Distr; Chongqing; 408435 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.cqywyjs.com">www.cqywyjs.com; Primary Email: renmingbo1973@163.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	29.15789
-Longitude:	107.09927
+0-ID: 4918
+1-Name: Chongqing Medicinal Plants Botanic Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Chongqing Medicinal Plants Botanic Garden;         Sanquan Township;        Nanchuan Distr;        Chongqing;        408435 China;        ;                 Telephone: ;         Fax: ;         URL: www.cqywyjs.com;         Primary Email: renmingbo1973@163.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.15789
+2-Longitude: 107.09927
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4918">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4918">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4918">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4918">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4918">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: renmingbo1973@163.com
+9-Telephone: 
+9-URL: www.cqywyjs.com

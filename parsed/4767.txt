@@ -1,10 +1,18 @@
-ID:	4767
-Name:	Gardens of the Big Bend: Magnolia Garden 
-Curator's Name:	
-Director's Name:	Gary Knox, Extension Specialist and Professor of Environmental Horticulture
-Info:	  United States of America - Florida - Quincy  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Gardens of the Big Bend: Magnolia Garden; University of Florida/IFAS, North Florida Research and Education Center; 155 Research Road; Quincy; Florida 32351 United States of America; ;  Telephone: (850) 875-7162; Fax: (850) 875-7188; URL: <a target="_blank" href="http://nfrec.ifas.ufl.edu/programs/landscape_plant_evaluations.shtml">http://nfrec.ifas.ufl.edu/programs/landscape_plant_evaluations.shtml; Primary Email: gwknox@ufl.edu ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	30.5450900
-Longitude:	-84.5930600
-Reintroduction Programme:	No
+0-ID: 4767
+1-Name: Gardens of the Big Bend: Magnolia Garden 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Gardens of the Big Bend: Magnolia Garden;         University of Florida/IFAS, North Florida Research and Education Center;        155 Research Road;        Quincy;        Florida 32351 United States of America;        ;                 Telephone: (850) 875-7162;         Fax: (850) 875-7188;         URL: http://nfrec.ifas.ufl.edu/programs/landscape_plant_evaluations.shtml;         Primary Email: gwknox@ufl.edu       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.5450900
+2-Longitude: -84.5930600
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4767">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4767">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4767">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4767">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (850) 875-7188
+9-Gardens of the Big Bend: Magnolia Garden
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: gwknox@ufl.edu
+9-Telephone: (850) 875-7162

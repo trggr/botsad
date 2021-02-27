@@ -1,21 +1,24 @@
-ID:	4489
-Name:	Royal Roads University Botanical Gardens 
-Administration Staff Number:	
-Curator's Name:	
-Director's Name:	David Rutherford, Manager, Grounds & Gardens
-Educational Staff Number:	
-Horticultural Staff Number:	14
-Info:	  Canada - British Columbia - Victoria  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Royal Roads University Botanical Gardens; 2005 Sooke Road; Victoria; British Columbia V9B 5Y2 Canada; ;  Telephone: (250) 391-2511; Fax: ; URL: <a target="_blank" href="http://www.royalroads.ca">www.royalroads.ca; Primary Email: Jessie.2phillips@RoyalRoads.ca ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1908
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	48.439643
-Longitude:	-123.477595
-Natural Vegetation Area:	Yes
-Total Area:	246 Hectares
-Computer Plant Record System:	Yes
-Open to public:	Yes
-Invasive Species Monitoring:	Yes
+0-ID: 4489
+1-Name: Royal Roads University Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1908
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Royal Roads University Botanical Gardens;         2005 Sooke Road;                Victoria;        British Columbia V9B 5Y2 Canada;        ;                 Telephone: (250) 391-2511;         Fax: ;         URL: www.royalroads.ca;         Primary Email: Jessie.2phillips@RoyalRoads.ca       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 48.439643
+2-Longitude: -123.477595
+2-Natural Vegetation Area: Yes
+2-Total Area: 246 Hectares
+3-Computer Plant Record System: Yes
+3-Open to public: Yes
+4-Invasive Species Monitoring: Yes
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4489">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4489">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4489">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: Jessie.2phillips@RoyalRoads.ca
+9-Telephone: (250) 391-2511
+9-URL: www.royalroads.ca

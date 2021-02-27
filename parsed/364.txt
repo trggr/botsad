@@ -1,29 +1,30 @@
-ID:	364
-Name:	Botanicka Zahrada Stredni zemedelske techn. skoly 
-Administration Staff Number:	1
-Curator's Name:	
-Director's Name:	Unknown
-Educational Staff Number:	2
-Horticultural Staff Number:	2
-Info:	  Czech Republic - Benešov  ;Garden Information;  Institution Code: TABOR; International Agenda Registration: No; BGCI Member: No;  Main Address:; Botanicka Zahrada Stredni zemedelske techn. skoly; P.O. Box 34, 390 33 TABOR, Czech Republic.; Benešov; Czech Republic; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	49.4141
-Local Address:	
-Locality:	Information
-Longitude:	14.6577
-Total area of glasshouses:	208 Metres
-Arboretum:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	320
-Seed Bank:	No
-Cultivation Taxa Num:	523
-Special Collections:	Cereals, grasses, root-crops, fodder crops, weeds, leguminous.
-Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Education:	Yes
+0-ID: 364
+1-Name: Botanicka Zahrada Stredni zemedelske techn. skoly 
+2-Altitude: 0.00 Metres
+2-Date founded: 1969
+2-Info:              Institution Code: TABOR;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Botanicka Zahrada Stredni zemedelske techn. skoly;         P.O. Box 34, 390 33 TABOR, Czech Republic.;                Benešov;        Czech Republic;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 49.4141
+2-Local Address: 
+2-Locality: Information
+2-Longitude: 14.6577
+2-Total area of glasshouses: 208 Metres
+3-Arboretum: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 320
+3-Seed Bank: No
+4-Cultivation Taxa Num: 523
+4-Special Collections: Cereals, grasses, root-crops, fodder crops, weeds, leguminous.
+5-Conservation Programme: No
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Education: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=364">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TABOR
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

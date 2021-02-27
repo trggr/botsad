@@ -1,59 +1,63 @@
-ID:	2523
-Name:	Jardin Botanico Universitario BUAP 
-Fax:	+ 52 (222) 2443938
-Info:	  Mexico - Puebla - Puebla  ;Garden Information;  Institution Code: IRA; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	dochelita56@hotmail.com
-Telephone:	+ 52 (222) 2443938
-Administration Staff Number:	1
-Curator's Name:	Allen J. Coombes
-Director's Name:	Dra. Maricela Rodríguez Acosta
-Educational Staff Number:	1
-Horticultural Staff Number:	3
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	2150.00 Metres
-Date founded:	1987
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	18.9992
-Local Address:	Edificio 76 planta baja. Ciudad Universitaria Avenida San Claudio s/n Col. Jardines de San Manuel CP 72500 Puebla, Pue. Mexico
-Locality:	Information
-Longitude:	-98.1961
-Natural Vegetation Area:	No
-Total Area:	10 Hectares
-Arboretum:	Yes
-Arboretum Size:	5
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	2000
-Number of Volunteers:	10
-Open to public:	Yes
-Accession Number:	3000
-Cultivation Taxa Num:	1050
-Invasive Species Monitoring:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	There are 4 very important collections
-Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Agriculture:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Land Restoration:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
+0-ID: 2523
+1-Name: Jardin Botanico Universitario BUAP 
+2-Administration Staff Number: 1
+2-Curator's Name: Allen J. Coombes
+2-Director's Name: Dra. Maricela Rodríguez Acosta
+2-Educational Staff Number: 1
+2-Horticultural Staff Number: 3
+2-Info:              Institution Code: IRA;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/2523/Imagen3.jpg" alt="Pinus  is one of the most important collection in our garden. A view of Pinus pseudostrobus var. apulcensis." />         Pinus  is one of the most important collection in our garden. A view of Pinus pseudostrobus var. apulcensis.</div>        </div>                           About the Jardin Botanico Universitario BUAP        The Botanical Garden of the University of Puebla, has 10.7 hectares and was founded in August 1987 by M. en C. Maricela Rodriguez and Arq. Sergio Villalon.;  It is one of the most important green areas of the city and holds the most diverse plant collection in the State of Puebla.;                        Main Address:;         Jardin Botanico Universitario BUAP;         Prolongacion 24 Sur y Av. San Claudio;        Edif. HJB1, Ciudad Universitaria, Col, San Manuel;        Puebla;        Puebla 72590 Mexico;        ;                 Telephone: + 52 (222) 2443938; +52 (222) 2295500 ext. 7031, 7030;         Fax: + 52 (222) 2443938;         URL: www.jardinbotanico.buap.mx;         Primary Email: dochelita56@hotmail.com       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 2
+3-Altitude: 2150.00 Metres
+3-Date founded: 1987
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 18.9992
+3-Local Address: Edificio 76 planta baja. Ciudad Universitaria Avenida San Claudio s/n Col. Jardines de San Manuel CP 72500 Puebla, Pue. Mexico
+3-Locality: Information
+3-Longitude: -98.1961
+3-Natural Vegetation Area: No
+3-Total Area: 10 Hectares
+4-Arboretum: Yes
+4-Arboretum Size: 5
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 2000
+4-Number of Volunteers: 10
+4-Open to public: Yes
+5-Accession Number: 3000
+5-Cultivation Taxa Num: 1050
+5-Invasive Species Monitoring: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: There are 4 very important collections
+6-Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+7-Agriculture: Yes
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Land Restoration: Yes
+7-Systematics and Taxonomy: Yes
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+9-BGCI Member: Yes
+9-Fax: + 52 (222) 2443938
+9-Institution Code: IRA
+9-International Agenda Registration: Yes
+9-Primary Email: dochelita56@hotmail.com
+9-Telephone: + 52 (222) 2443938
+9-URL: www.jardinbotanico.buap.mx

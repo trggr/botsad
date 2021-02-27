@@ -1,9 +1,17 @@
-ID:	4780
-Name:	Conservatoire Botanique National de Mascarin 
-Curator's Name:	
-Director's Name:	
-Info:	  Reunion - SAINT LEU  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Conservatoire Botanique National de Mascarin; Domaines des Colimaçons; 2 Rue du Père Georges; SAINT LEU; 97436 Reunion; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://en.wikipedia.org/wiki/Conservatoire_botanique_national_de_Mascarin">http://en.wikipedia.org/wiki/Conservatoire_botanique_national_de_Mascarin; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	-21.13774
-Longitude:	55.29545
+0-ID: 4780
+1-Name: Conservatoire Botanique National de Mascarin 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Conservatoire Botanique National de Mascarin;         Domaines des Colimaçons;        2 Rue du Père Georges;        SAINT LEU;        97436 Reunion;        ;                 Telephone: ;         Fax: ;         URL: http://en.wikipedia.org/wiki/Conservatoire_botanique_national_de_Mascarin;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -21.13774
+2-Longitude: 55.29545
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4780">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4780">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4780">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4780">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4780">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

@@ -1,14 +1,19 @@
-ID:	4982
-Name:	Queensland Seeds for Life - Brisbane Botanic Gardens 
-Curator's Name:	Philip Cameron, Seed Bank Manager
-Director's Name:	-
-Info:	  Australia - Queensland - Toowong  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Queensland Seeds for Life - Brisbane Botanic Gardens; Mt Coot-tha Road; Toowong; Queensland 4066 Australia; ;  Telephone: +(07) 617 3403 2533; Fax: +(07) 617 3403 2552; URL: <a target="_blank" href="http://collections.ala.org.au/public/show/co188">http://collections.ala.org.au/public/show/co188; Primary Email: philip.cameron@brisbane.qld.gov.au ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1983
-Institution Type:	Gene/Seed Bank
-Latitude:	-27.4767276
-Longitude:	152.9753942
-Seed Bank:	Yes
-Cultivation Taxa Num:	800
-Conservation Programme:	Yes
+0-ID: 4982
+1-Name: Queensland Seeds for Life - Brisbane Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1983
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Queensland Seeds for Life - Brisbane Botanic Gardens;         Mt Coot-tha Road;                Toowong;        Queensland 4066 Australia;        ;                 Telephone: +(07) 617 3403 2533;         Fax: +(07) 617 3403 2552;         URL: http://collections.ala.org.au/public/show/co188;         Primary Email: philip.cameron@brisbane.qld.gov.au       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: -27.4767276
+2-Longitude: 152.9753942
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 800
+5-Conservation Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4982">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4982">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +(07) 617 3403 2552
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: philip.cameron@brisbane.qld.gov.au
+9-Telephone: +(07) 617 3403 2533

@@ -1,12 +1,20 @@
-ID:	4373
-Name:	Hong-reung Arboretum 
-Curator's Name:	Myoung-Seop Choe
-Director's Name:	Myoung-Seop Choe
-Info:	  South Korea - Seoul  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hong-reung Arboretum; 57, Huegi-dong, Dongdaemun-gu; Seoul; 130-712 South Korea; ;  Telephone: 02-961-2551; Fax: 02-961-2629; URL: <a target="_blank" href="http://www.kfri.go.kr">http://www.kfri.go.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.5931
-Local Address:	동대문구 청량리동 207번지 국립산림과학원
-Locality:	Information
-Longitude:	127.04366
+0-ID: 4373
+1-Name: Hong-reung Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hong-reung Arboretum;         57, Huegi-dong, Dongdaemun-gu;                Seoul;        130-712 South Korea;        ;                 Telephone: 02-961-2551;         Fax: 02-961-2629;         URL: http://www.kfri.go.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.5931
+2-Local Address: 동대문구 청량리동 207번지 국립산림과학원
+2-Locality: Information
+2-Longitude: 127.04366
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4373">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4373">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4373">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4373">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4373">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 02-961-2629
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 02-961-2551

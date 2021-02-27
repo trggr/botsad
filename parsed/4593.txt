@@ -1,9 +1,18 @@
-ID:	4593
-Name:	Trinidad History Museum 
-Curator's Name:	
-Director's Name:	Paula Manini, Executive Director
-Info:	  United States of America - Colorado - Trinidad  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Trinidad History Museum; 312 East Main Street; P. O. Box 377; Trinidad; Colorado 81082 United States of America; ;  Telephone: (719) 846-7217; Fax: ; URL: <a target="_blank" href="http://www.coloradohistory.org/hist_sites/trinidad/trinidad.htm">www.coloradohistory.org/hist_sites/trinidad/trinidad.htm; Primary Email: paula.manini@chs.state.co.us ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	37.1694726
-Longitude:	-104.5027091
+0-ID: 4593
+1-Name: Trinidad History Museum 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Trinidad History Museum;         312 East Main Street;        P. O. Box 377;        Trinidad;        Colorado 81082 United States of America;        ;                 Telephone: (719) 846-7217;         Fax: ;         URL: www.coloradohistory.org/hist_sites/trinidad/trinidad.htm;         Primary Email: paula.manini@chs.state.co.us       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.1694726
+2-Longitude: -104.5027091
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4593">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4593">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4593">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4593">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4593">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: paula.manini@chs.state.co.us
+9-Telephone: (719) 846-7217
+9-URL: www.coloradohistory.org/hist_sites/trinidad/trinidad.htm

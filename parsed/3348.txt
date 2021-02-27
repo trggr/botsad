@@ -1,26 +1,28 @@
-ID:	3348
-Name:	Hantaek Botanic Garden 
-Administration Staff Number:	3
-Curator's Name:	Jung-hwa Kang
-Director's Name:	Taek-Ju Lee
-Educational Staff Number:	3
-Horticultural Staff Number:	10
-Info:	  South Korea - Gyeonnggi-do - Yongin-si  ;Garden Information;  Institution Code: HYG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hantaek Botanic Garden; 2 hantaek-ro, Baegam-myon, Cheoin-gu; Yongin-si; Gyeonnggi-do 449-863 South Korea; ;  Telephone: 031-333-3558; Fax: 031-333-6431; URL: <a target="_blank" href="http://www.hantaek.co.kr">http://www.hantaek.co.kr; Primary Email: hantaek@hantaek.co.kr ; 
-Plant Records Officer's Name:	
-Research Staff Number:	2
-Altitude:	300.00 Metres
-Date founded:	1979
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	36.0000
-Longitude:	128.0000
-Total Area:	66 Hectares
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	200000
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Special Collections:	Conifers, endemics, Acer, Arisaema, Aster, Berberis, Adenophora, Viburnum, Lonicera, Sedum, Juniperus, Thuja, Rhododendron, Quercus, Corydalis, Gentiana, Geranium, Iris, Hosta, Lilium, Orchidaceae, Paeonia, Picea, Aconitum, Thalictrum, Prunus, Viola.
+0-ID: 3348
+1-Name: Hantaek Botanic Garden 
+2-Altitude: 300.00 Metres
+2-Date founded: 1979
+2-Info:              Institution Code: HYG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hantaek Botanic Garden;         2 hantaek-ro, Baegam-myon, Cheoin-gu;                Yongin-si;        Gyeonnggi-do 449-863 South Korea;        ;                 Telephone: 031-333-3558;         Fax: 031-333-6431;         URL: http://www.hantaek.co.kr;         Primary Email: hantaek@hantaek.co.kr       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 36.0000
+2-Longitude: 128.0000
+2-Total Area: 66 Hectares
+3-Computer Plant Record System: Yes
+3-Disabled access: Yes
+3-Friends society: Yes
+3-Micropropagation/ Tissue Culture Facilities: Yes
+3-Number of Visitors: 200000
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-Special Collections: Conifers, endemics, Acer, Arisaema, Aster, Berberis, Adenophora, Viburnum, Lonicera, Sedum, Juniperus, Thuja, Rhododendron, Quercus, Corydalis, Gentiana, Geranium, Iris, Hosta, Lilium, Orchidaceae, Paeonia, Picea, Aconitum, Thalictrum, Prunus, Viola.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3348">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3348">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3348">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 031-333-6431
+9-Institution Code: HYG
+9-International Agenda Registration: No
+9-Primary Email: hantaek@hantaek.co.kr
+9-Telephone: 031-333-3558

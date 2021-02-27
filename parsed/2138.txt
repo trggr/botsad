@@ -1,59 +1,63 @@
-ID:	2138
-Name:	Jardín Botánico El Charco del Ingenio 
-Fax:	+(52) 415 1544715
-Info:	  Mexico - Guanajuato - San Miguel de Allende  ;Garden Information;  Institution Code: CANTE; International Agenda Registration: Yes; BGCI Member: No; 
-Primary Email:	charcodelingenio@gmail.com
-Telephone:	+(52) 415 1544715
-Administration Staff Number:	4
-Curator's Name:	Martina García Granados
-Director's Name:	Mario Hernández (director)
-Educational Staff Number:	2
-Horticultural Staff Number:	3
-Plant Records Officer's Name:	T. Nelly Sandoval Mata/ Martina García Granados
-Research Staff Number:	2
-Altitude:	1990.00 Metres
-Annual Rainfall:	512 mm
-Date founded:	1991
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	20.8500
-Local Address:	Antiguo Camino a Xichú s.n.
-Locality:	Information
-Longitude:	-100.8166
-Natural Vegetation Area:	Yes
-Total Area:	70 Hectares
-Total area of glasshouses:	400 Metres
-Total area of shadehouses:	100 Metres
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Number of Visitors:	30000
-Number of Volunteers:	7
-Open to public:	Yes
-Accession Number:	5
-Cultivation Taxa Num:	524
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	Cactaceae (327 taxa), Crassulaceae (104), Agavaceae (58), Nolinaceae (10), Other botanical families (25)
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Restoration Ecology:	Yes
-Urban Environments:	Yes
-Courses for School Children:	Yes
-Education Booklets/Leaflets:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Special Exhibitions:	Yes
+0-ID: 2138
+1-Name: Jardín Botánico El Charco del Ingenio 
+2-Administration Staff Number: 4
+2-Curator's Name: Martina García Granados
+2-Director's Name: Mario Hernández (director)
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 3
+2-Info:              Institution Code: CANTE;             International Agenda Registration: Yes;        BGCI Member: No;                                               <img src="/photos/2138/IMG_1505.JPG" alt="Conservatorio de Plantas Mexicanas" />         Conservatorio de Plantas Mexicanas</div>        </div>                           About the Jardín Botánico El Charco del Ingenio        Located on land with different natural habitats, the Garden is mainly dedicated to the preservation of local and regional flora. It also contains an important collection of endangered plants from arid and semi-arid zones of Mexico, mainly cacti and succulents. ;  The Garden is run by a local non-profit organization called El Charco del Ingenio AC, which holds programmes of conservation, education and research, and works for the Garden's self sustainability in the long term.;                        Main Address:;         Jardín Botánico El Charco del Ingenio;         Jesús #32;                San Miguel de Allende;        Guanajuato 37700 Mexico;        ;                 Telephone: +(52) 415 1544715;         Fax: +(52) 415 1544715;         URL: www.elcharco.org.mx;         Primary Email: charcodelingenio@gmail.com       ;              
+2-Plant Records Officer's Name: T. Nelly Sandoval Mata/ Martina García Granados
+2-Research Staff Number: 2
+3-Altitude: 1990.00 Metres
+3-Annual Rainfall: 512 mm
+3-Date founded: 1991
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 20.8500
+3-Local Address: Antiguo Camino a Xichú s.n.
+3-Locality: Information
+3-Longitude: -100.8166
+3-Natural Vegetation Area: Yes
+3-Total Area: 70 Hectares
+3-Total area of glasshouses: 400 Metres
+3-Total area of shadehouses: 100 Metres
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Number of Visitors: 30000
+4-Number of Volunteers: 7
+4-Open to public: Yes
+5-Accession Number: 5
+5-Cultivation Taxa Num: 524
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: Cactaceae (327 taxa), Crassulaceae (104), Agavaceae (58), Nolinaceae (10), Other botanical families (25)
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Reintroduction Programme: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Restoration Ecology: Yes
+7-Urban Environments: Yes
+8-Courses for School Children: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Special Exhibitions: Yes
+9-BGCI Member: No
+9-Fax: +(52) 415 1544715
+9-Institution Code: CANTE
+9-International Agenda Registration: Yes
+9-Primary Email: charcodelingenio@gmail.com
+9-Telephone: +(52) 415 1544715
+9-URL: www.elcharco.org.mx

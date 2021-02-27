@@ -1,11 +1,19 @@
-ID:	928
-Name:	Burdwan University Botanic Garden 
-Curator's Name:	P.K.Bhattacharyya
-Director's Name:	Head of Dept. of Botany (rotational)
-Info:	  India - Burdwan  ;Garden Information;  Institution Code: BURDW; International Agenda Registration: No; BGCI Member: No;  Main Address:; Burdwan University Botanic Garden; Department of Botany, Burdwan University, BURDWAN, Golapbag, West Bengal, 713104 India.; Burdwan; India; ;  Telephone: BDN.2371 75; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	23.2324
-Longitude:	87.8637
-Special Collections:	Trees and shrubs (500), Annonaceae, Rosaceae.
+0-ID: 928
+1-Name: Burdwan University Botanic Garden 
+2-Date founded: 
+2-Info:              Institution Code: BURDW;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Burdwan University Botanic Garden;         Department of Botany, Burdwan University,  BURDWAN, Golapbag,  West Bengal, 713104  India.;                Burdwan;        India;        ;                 Telephone: BDN.2371 75;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 23.2324
+2-Longitude: 87.8637
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=928">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (500), Annonaceae, Rosaceae.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=928">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=928">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=928">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BURDW
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: BDN.2371 75
+9-URL: 

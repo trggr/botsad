@@ -1,12 +1,26 @@
-ID:	859
-Name:	Institut de Botanique 
-Curator's Name:	
-Director's Name:	
-Info:	  French Guiana - Cayenne  ;Garden Information;  Institution Code: CAY; International Agenda Registration: No; BGCI Member: No; About the Institut de Botanique Location: CAYENNE; Founded: 1965 ; Garden Name: Institut de Botanique; Address: Institut de Recherche pour le Developpement, Ronte de Montabo, B.P. 165, 97323 CAYENNE Cedex; Status: State; Herbarium: Yes (included in the Herbier de Guyane) Approx. no. of;  Main Address:; Institut de Botanique; Institut de Recherche pour le Developpement Ronte de Montabo, B.P. 165, 97323 CAYENNE Cedex, Frenc; Cayenne; French Guiana; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1965
-Institution Type:	Other
-Latitude:	4.9346
-Longitude:	-52.3303
-Special Collections:	No information available
+0-ID: 859
+1-Name: Institut de Botanique 
+2-Altitude: 0.00 Metres
+2-Date founded: 1965
+2-Info:              Institution Code: CAY;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Institut de Botanique        Location: CAYENNE;  Founded: 1965 ;  Garden Name: Institut de Botanique;  Address: Institut de Recherche pour le Developpement, Ronte de Montabo, B.P. 165, 97323 CAYENNE Cedex;  Status: State;  Herbarium: Yes (included in the Herbier de Guyane) Approx. no. of;                        Main Address:;         Institut de Botanique;         Institut de Recherche pour le Developpement Ronte de Montabo, B.P. 165,  97323 CAYENNE Cedex,  Frenc;                Cayenne;        French Guiana;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 4.9346
+2-Longitude: -52.3303
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=859">Please click here if you can update us</a>
+4-Special Collections: No information available
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=859">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=859">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=859">Please click here if you can update us</a>
+9-About the Institut de Botanique        Location: CAYENNE
+9-Address: Institut de Recherche pour le Developpement, Ronte de Montabo, B.P. 165, 97323 CAYENNE Cedex
+9-BGCI Member: No
+9-Fax: 
+9-Founded: 1965
+9-Garden Name: Institut de Botanique
+9-Herbarium: Yes (included in the Herbier de Guyane) Approx. no. of
+9-Institution Code: CAY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: State
+9-Telephone: 
+9-URL: 

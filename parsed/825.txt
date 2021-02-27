@@ -1,11 +1,19 @@
-ID:	825
-Name:	Tromso Botanic Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Norway - Tromso  ;Garden Information;  Institution Code: TROM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Tromso Botanic Garden; Institute of Botanic and Geology and Tromso Museum, University of Tromso,; Tromso; 9006 Norway; ;  Telephone: +47 77645717; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1991
-Institution Type:	Botanic Garden
-Latitude:	69.6612
-Longitude:	18.9502
-Special Collections:	Includes an Arctic-Alpine Garden at Breivika (opened in 1994), close to the university and an Arboretum at Holt. Rhododendron (eg. R. lapponicum), Meconopsis, Aster, Polemonium, Erigeron, Codonopsis, rose cultivars, Allium, Saxifraga, Silene, Tellima, Heu
+0-ID: 825
+1-Name: Tromso Botanic Garden 
+2-Date founded: 1991
+2-Info:              Institution Code: TROM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Tromso Botanic Garden;         Institute of Botanic and Geology and Tromso Museum, University of Tromso,;                Tromso;        9006 Norway;        ;                 Telephone: +47 77645717;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 69.6612
+2-Longitude: 18.9502
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=825">Please click here if you can update us</a>
+4-Special Collections: Includes an Arctic-Alpine Garden at Breivika (opened in 1994), close to the university and an Arboretum at Holt. Rhododendron (eg. R. lapponicum), Meconopsis, Aster, Polemonium, Erigeron, Codonopsis, rose cultivars, Allium, Saxifraga, Silene, Tellima, Heu
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=825">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=825">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=825">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TROM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: +47 77645717
+9-URL: 

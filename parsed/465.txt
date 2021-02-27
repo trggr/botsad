@@ -1,12 +1,20 @@
-ID:	465
-Name:	Havath-Noy Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Israel - Ruppin  ;Garden Information;  Institution Code: RUPPN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Havath-Noy Garden; Ministry of Agriculture Research Post, RUPPIN, Israel.; Ruppin; Israel; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1949
-Institution Type:	Other
-Latitude:	32.5468
-Longitude:	35.6506
-Special Collections:	Ornamental plants for subtropical climate and limited irrigation.
+0-ID: 465
+1-Name: Havath-Noy Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1949
+2-Info:              Institution Code: RUPPN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Havath-Noy Garden;         Ministry of Agriculture Research Post,  RUPPIN,  Israel.;                Ruppin;        Israel;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 32.5468
+2-Longitude: 35.6506
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=465">Please click here if you can update us</a>
+4-Special Collections: Ornamental plants for subtropical climate and limited irrigation.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=465">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=465">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=465">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: RUPPN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

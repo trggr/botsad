@@ -1,10 +1,19 @@
-ID:	1133
-Name:	Arboretum of Pereslavi 
-Curator's Name:	
-Director's Name:	
-Info:	  Russian Federation - PERESLAVL' ZALESSKLY  ;Garden Information;  Institution Code: PERES; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of Pereslavi; Zhuravlova 1, Jaroslavskaja Region, 152140 PERESLAVL' ZALESSKLY, Russian Federation; PERESLAVL' ZALESSKLY; Russian Federation; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	56.7347
-Longitude:	38.8874
+0-ID: 1133
+1-Name: Arboretum of Pereslavi 
+2-Date founded: 
+2-Info:              Institution Code: PERES;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of Pereslavi;         Zhuravlova 1,  Jaroslavskaja Region,  152140 PERESLAVL' ZALESSKLY,  Russian Federation;                PERESLAVL' ZALESSKLY;        Russian Federation;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 56.7347
+2-Longitude: 38.8874
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1133">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1133">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1133">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1133">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1133">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PERES
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

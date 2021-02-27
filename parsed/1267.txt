@@ -1,23 +1,28 @@
-ID:	1267
-Name:	Texas Discovery Gardens 
-Curator's Name:	Roger Sanderson, Director of Horticulture
-Director's Name:	Dick Davis, Executive Director
-Info:	  United States of America - Texas - Dallas  ;Garden Information;  Institution Code: DALCC; International Agenda Registration: No; BGCI Member: No;  Main Address:; Texas Discovery Gardens; 3601 Martin Luther King Jr. Boulevard; P.O. Box 152537; Dallas; Texas 75315 United States of America; ;  Telephone: (214) 428-7476; Fax: (214) 428-5338; URL: <a target="_blank" href="http://www.texasdiscoverygardens.org">www.texasdiscoverygardens.org; Primary Email: TDG@TexasDiscoveryGardens.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1936
-Institution Type:	Botanic Garden
-Latitude:	32.7761240
-Longitude:	-96.7605080
-Total Area:	2 Hectares
-Arboretum:	No
-Friends society:	Yes
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Volunteers:	200
-Open to public:	Yes
-Seed Bank:	No
-Special Collections:	Ferns, orchids, bromeliads, cycads.
-Conservation Programme:	Yes
-Reintroduction Programme:	Yes
-Education Programme:	Yes
+0-ID: 1267
+1-Name: Texas Discovery Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1936
+2-Info:              Institution Code: DALCC;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Texas Discovery Gardens;         3601 Martin Luther King Jr. Boulevard;        P.O. Box 152537;        Dallas;        Texas 75315 United States of America;        ;                 Telephone: (214) 428-7476;         Fax: (214) 428-5338;         URL: www.texasdiscoverygardens.org;         Primary Email: TDG@TexasDiscoveryGardens.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.7761240
+2-Longitude: -96.7605080
+2-Total Area: 2 Hectares
+3-Arboretum: No
+3-Friends society: Yes
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Volunteers: 200
+3-Open to public: Yes
+3-Seed Bank: No
+4-Special Collections: Ferns, orchids, bromeliads, cycads.
+5-Conservation Programme: Yes
+5-Reintroduction Programme: Yes
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1267">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-BGCI Member: No
+9-Fax: (214) 428-5338
+9-Institution Code: DALCC
+9-International Agenda Registration: No
+9-Primary Email: TDG@TexasDiscoveryGardens.org
+9-Telephone: (214) 428-7476
+9-URL: www.texasdiscoverygardens.org

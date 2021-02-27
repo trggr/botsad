@@ -1,11 +1,19 @@
-ID:	2246
-Name:	Jardin Botanico de Matanzas 
-Curator's Name:	Lic Vladimir P‚rez Pedron
-Director's Name:	Ing. Jos‚ R. D?az Delgado
-Info:	  Cuba - Matanzas  ;Garden Information;  Institution Code: MATAZ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de Matanzas; Universidad de Matanzas, Autopista a Varadero Km 3, Matanzas CP 44740, Cuba; Matanzas; Cuba; ;  Telephone: (53) 7 61286; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	23.0500
-Longitude:	-81.5833
-Special Collections:	Succulents and other cacti, ornamentals, citrus, medicinal and aromatic plants.
+0-ID: 2246
+1-Name: Jardin Botanico de Matanzas 
+2-Date founded: 
+2-Info:              Institution Code: MATAZ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico de Matanzas;         Universidad de Matanzas,  Autopista a Varadero Km 3,  Matanzas CP 44740,  Cuba;                Matanzas;        Cuba;        ;                 Telephone: (53) 7 61286;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 23.0500
+2-Longitude: -81.5833
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2246">Please click here if you can update us</a>
+4-Special Collections: Succulents and other cacti, ornamentals, citrus, medicinal and aromatic plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2246">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2246">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2246">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MATAZ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (53) 7 61286
+9-URL: 

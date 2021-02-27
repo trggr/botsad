@@ -1,11 +1,19 @@
-ID:	1124
-Name:	Arboretum of the Research Institute of 
-Curator's Name:	
-Director's Name:	Dr. V. A. Shutilov
-Info:	  Russian Federation - Kamyshin  ;Garden Information;  Institution Code: ARBRA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum of the Research Institute of; Reclaimative Afforestation, P.O.Box 21, Volgograd Region, 403850 KAMYSHIN, Russian Federation; Kamyshin; Russian Federation; ;  Telephone: 2 32 10; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1931
-Institution Type:	Botanic Garden
-Latitude:	50.0825
-Longitude:	45.3926
-Special Collections:	No information available.
+0-ID: 1124
+1-Name: Arboretum of the Research Institute of 
+2-Date founded: 1931
+2-Info:              Institution Code: ARBRA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum of the Research Institute of;         Reclaimative Afforestation,  P.O.Box 21,  Volgograd Region,  403850 KAMYSHIN,  Russian Federation;                Kamyshin;        Russian Federation;        ;                 Telephone: 2 32 10;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 50.0825
+2-Longitude: 45.3926
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1124">Please click here if you can update us</a>
+4-Special Collections: No information available.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1124">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1124">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1124">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ARBRA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 2 32 10
+9-URL: 

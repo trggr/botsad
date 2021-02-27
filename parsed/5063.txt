@@ -1,9 +1,17 @@
-ID:	5063
-Name:	Xinglong Tropical Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  China - Hainan Province  ;Garden Information;  Institution Code: XTBG; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Xinglong Tropical Botanical Garden; Xinglong Hot Spring Tourism Area; Wanning; Hainan Province 570533 China; ;  Telephone: +86 0898 62553687; Fax: +86 0898 62561083; URL: <a target="_blank" href="http://zwy.xlrdzwy.com">http://zwy.xlrdzwy.com; Primary Email: kjb3687@163.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	18.733023
-Longitude:	110.198031
+0-ID: 5063
+1-Name: Xinglong Tropical Botanical Garden 
+2-Info:              Institution Code: XTBG;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Xinglong Tropical Botanical Garden;         Xinglong Hot Spring Tourism Area;        Wanning;                Hainan Province 570533 China;        ;                 Telephone: +86 0898 62553687;         Fax: +86 0898 62561083;         URL: http://zwy.xlrdzwy.com;         Primary Email: kjb3687@163.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.733023
+2-Longitude: 110.198031
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5063">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5063">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5063">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5063">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5063">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +86 0898 62561083
+9-Institution Code: XTBG
+9-International Agenda Registration: No
+9-Primary Email: kjb3687@163.com
+9-Telephone: +86 0898 62553687

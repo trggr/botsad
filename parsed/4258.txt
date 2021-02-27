@@ -1,20 +1,23 @@
-ID:	4258
-Name:	Edith J. Carrier Arboretum and Botanical Gardens 
-Administration Staff Number:	2
-Curator's Name:	Gail Turnbull, Assistant Director
-Director's Name:	Jan Sievers Mahon
-Educational Staff Number:	2
-Horticultural Staff Number:	4
-Info:	  United States of America - Virginia - Harrisonburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ; About the Edith J. Carrier Arboretum and Botanical Gardens The Edith J. Carrier Arboretum it located at James Madison University in Harrisonburg, Virginia, U.S. Groundbreaking took place in April 1985 under direction of Dr. Norlyn Bodkin who is credited the first scientific botanical discovery along the Eastern Seaboard of the United States since the 1940s, Trillium: Shenandoah Wake Robin, presently found at the arboretum. The only arboretum and botanical gardens located on campus of a Virginia state university. Exhibits in 16 botanical gardens include an acidic sphagnum bog supporting northern species and insectivorous plants, a native azalea and rhododendron garden sponsored by the Mid Atlantic Chapter of the American Rhododendron Society displaying rare endangered large-flowered azaleas, the only shale barren with endemic species in an arboretum, a 3 mile trail system winding through 125 acres of mature Oak-Hickory Forrest including two identified century specimens and a species on the U.S. Fish and Wildlife Threatened Species list found protected at the arboretum: Betula uber, Round-Leaf Birch.;  Main Address:; Edith J. Carrier Arboretum and Botanical Gardens; James Madison University; 780 University Blvd, MSC 3705; Harrisonburg; Virginia 22807 United States of America; ;  Telephone: (540) 568-3194; Fax: (540) 568-5115; URL: <a target="_blank" href="http://www.jmu.edu/arboretum">www.jmu.edu/arboretum; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	38.4533500
-Longitude:	-78.8670790
-Arboretum:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Open to public:	Yes
-Reintroduction Programme:	No
-Education Programme:	Yes
+0-ID: 4258
+1-Name: Edith J. Carrier Arboretum and Botanical Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                          About the Edith J. Carrier Arboretum and Botanical Gardens        The Edith J. Carrier Arboretum it located at James Madison University in Harrisonburg, Virginia, U.S. Groundbreaking took place in April 1985 under direction of Dr. Norlyn Bodkin who is credited the first scientific botanical discovery along the Eastern Seaboard of the United States since the 1940s, Trillium: Shenandoah Wake Robin, presently found at the arboretum. The only arboretum and botanical gardens located on campus of a Virginia state university. Exhibits in 16 botanical gardens include an acidic sphagnum bog supporting northern species and insectivorous plants, a native azalea and rhododendron garden sponsored by the Mid Atlantic Chapter of the American Rhododendron Society displaying rare endangered large-flowered azaleas, the only shale barren with endemic species in an arboretum, a 3 mile trail system winding through 125 acres of mature Oak-Hickory Forrest including two identified century specimens and a species on the U.S. Fish and Wildlife Threatened Species list found protected at the arboretum: Betula uber, Round-Leaf Birch.;                        Main Address:;         Edith J. Carrier Arboretum and Botanical Gardens;         James Madison University;        780 University Blvd, MSC 3705;        Harrisonburg;        Virginia 22807 United States of America;        ;                 Telephone: (540) 568-3194;         Fax: (540) 568-5115;         URL: www.jmu.edu/arboretum;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.4533500
+2-Longitude: -78.8670790
+3-Arboretum: Yes
+3-Friends society: Yes
+3-Herbarium: Yes
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4258">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4258">Please click here if you can update us</a>
+7-Education Programme: Yes
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: (540) 568-5115
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (540) 568-3194
+9-URL: www.jmu.edu/arboretum

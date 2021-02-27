@@ -1,11 +1,19 @@
-ID:	835
-Name:	Jardin Botanique de l'Universite du Benin 
-Curator's Name:	
-Director's Name:	Dr Koffi Akpagana
-Info:	  Togo - Lome  ;Garden Information;  Institution Code: TOGO; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardin Botanique de l'Universite du Benin; Ministere de l'Education Nationale et de la Recherche B.P. 1515, LOME, Republic of Togo.; Lome; Togo; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1986
-Institution Type:	Botanic Garden
-Latitude:	6.1228
-Longitude:	1.2255
-Special Collections:	Regional natives, such as Adansonia digitata and Bombax costatum. Horticultural introductions and hybrids, medicinal species including Jatropha curcas, Ocimum basilicum, Gloriosa superba and Aloe spp. Economic plants such as Punica granatum, Capiscum frut
+0-ID: 835
+1-Name: Jardin Botanique de l'Universite du Benin 
+2-Date founded: 1986
+2-Info:              Institution Code: TOGO;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardin Botanique de l'Universite du Benin;         Ministere de l'Education Nationale et de la Recherche B.P. 1515,  LOME,  Republic of Togo.;                Lome;        Togo;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 6.1228
+2-Longitude: 1.2255
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=835">Please click here if you can update us</a>
+4-Special Collections: Regional natives, such as Adansonia digitata and Bombax costatum. Horticultural introductions and hybrids, medicinal species including Jatropha curcas, Ocimum basilicum, Gloriosa superba and Aloe spp. Economic plants such as Punica granatum, Capiscum frut
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=835">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=835">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=835">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: TOGO
+9-International Agenda Registration: Yes
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

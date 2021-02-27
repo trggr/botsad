@@ -1,10 +1,19 @@
-ID:	5037
-Name:	Association for Zoological Horticulture (AZH) 
-Curator's Name:	Christy Powell, Conservation Committee Chair
-Director's Name:	-
-Info:	  United States of America - California - San Diego  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; Association for Zoological Horticulture (AZH); San Diego Zoo, P.O. Box 120551; San Diego; California 92112 United States of America; ;  Telephone: (619) 231-1515 ext 4160; Fax: (619) 685-3232; URL: <a target="_blank" href="http://www.azh.org">www.azh.org; Primary Email: cpowell@sandiegozoo.org ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Network
-Latitude:	32.735569
-Longitude:	-117.149014
+0-ID: 5037
+1-Name: Association for Zoological Horticulture (AZH) 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         Association for Zoological Horticulture (AZH);         San Diego Zoo, P.O. Box 120551;                San Diego;        California 92112 United States of America;        ;                 Telephone: (619) 231-1515 ext 4160;         Fax: (619) 685-3232;         URL: www.azh.org;         Primary Email: cpowell@sandiegozoo.org       ;              
+2-Institution Type: Network
+2-Latitude: 32.735569
+2-Longitude: -117.149014
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5037">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5037">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5037">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5037">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5037">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (619) 685-3232
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cpowell@sandiegozoo.org
+9-Telephone: (619) 231-1515 ext 4160
+9-URL: www.azh.org

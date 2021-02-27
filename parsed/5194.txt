@@ -1,13 +1,21 @@
-ID:	5194
-Name:	Ogród Botaniczny Uniwersytetu Zielonogórskiego 
-Fax:	
-Info:	  Poland - lubuskie - Zielona Góra  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	
-Telephone:	0048 503159372
-Curator's Name:	
-Director's Name:	Piotr Reda PhD
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	51.9213
-Longitude:	15.4981
+0-ID: 5194
+1-Name: Ogród Botaniczny Uniwersytetu Zielonogórskiego 
+2-Curator's Name: 
+2-Director's Name: Piotr Reda PhD
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/5194/ob zielonagóra.jpg" alt="" />         </div>        </div>                                    Main Address:;         Ogród Botaniczny Uniwersytetu Zielonogórskiego;         ul. Botaniczna 50a;        65-392 Zielona Góra;        Zielona Góra;        lubuskie Poland;        ;                 Telephone: 0048 503159372;         Fax: ;         URL: http://ogrod.uz.zgora.pl/pl;         Primary Email:        ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Institution Type: Botanic Garden
+3-Latitude: 51.9213
+3-Longitude: 15.4981
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5194">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5194">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5194">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5194">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=5194">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 0048 503159372

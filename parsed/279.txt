@@ -1,11 +1,18 @@
-ID:	279
-Name:	Nikitsky Botanical Gardens 
-Curator's Name:	
-Director's Name:	Ezhov V.N.
-Info:	  Ukraine - Yalta  ;Garden Information;  Institution Code: YALT; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Nikitsky Botanical Gardens; Ukrainian Academy of SciencesAll Union Agricultural Academy, 334267 YALTA, Crimea, Ukraine.; Yalta; Ukraine; ;  Telephone: (0654) 33 55 30; Fax: (0654) 33 53 86; URL: <a target="_blank" href="http://www.nbgnsc.com/">http://www.nbgnsc.com/; Primary Email: nbg1812@yandex.ua ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	44.51097
-Longitude:	34.23302
-Special Collections:	Pinus, Berberis, Cotoneaster, relict coniferous plants, Clematis, Rosa, Chrysanthemum, fruit and nut trees.
+0-ID: 279
+1-Name: Nikitsky Botanical Gardens 
+2-Date founded: 
+2-Info:              Institution Code: YALT;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Nikitsky Botanical Gardens;         Ukrainian Academy of SciencesAll Union Agricultural Academy, 334267 YALTA, Crimea, Ukraine.;                Yalta;        Ukraine;        ;                 Telephone: (0654) 33 55 30;         Fax: (0654) 33 53 86;         URL: http://www.nbgnsc.com/;         Primary Email: nbg1812@yandex.ua       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.51097
+2-Longitude: 34.23302
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=279">Please click here if you can update us</a>
+4-Special Collections: Pinus, Berberis, Cotoneaster, relict coniferous plants, Clematis, Rosa, Chrysanthemum, fruit and nut trees.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=279">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=279">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=279">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (0654) 33 53 86
+9-Institution Code: YALT
+9-International Agenda Registration: Yes
+9-Primary Email: nbg1812@yandex.ua
+9-Telephone: (0654) 33 55 30

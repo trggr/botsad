@@ -1,11 +1,19 @@
-ID:	2206
-Name:	Hamilton Botanic Gardens 
-Curator's Name:	
-Director's Name:	-
-Info:	  Australia - VIC - Hamilton  ;Garden Information;  Institution Code: HMAUS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hamilton Botanic Gardens; Cnr Thompson and French Street; Mailing: PO Box 107; Hamilton; VIC 3300 Australia; ;  Telephone: 61 (0)3 5573 0430; Fax: 61 (0)3 5572 2910; URL: <a target="_blank" href="http://www.hamiltonvictoria.com.au/Main.asp?_=Botanic%20Gardens">http://www.hamiltonvictoria.com.au/Main.asp?_=Botanic%20Gardens; Primary Email: hvic@sthgrampians.vic.gov.au ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-37.7468076
-Longitude:	142.0238587
-Special Collections:	10 % of collection if Australian flora.
+0-ID: 2206
+1-Name: Hamilton Botanic Gardens 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: HMAUS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hamilton Botanic Gardens;         Cnr Thompson and French Street;        Mailing: PO Box 107;        Hamilton;        VIC 3300 Australia;        ;                 Telephone: 61 (0)3 5573 0430;         Fax: 61 (0)3 5572 2910;         URL: http://www.hamiltonvictoria.com.au/Main.asp?_=Botanic%20Gardens;         Primary Email: hvic@sthgrampians.vic.gov.au       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -37.7468076
+2-Longitude: 142.0238587
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2206">Please click here if you can update us</a>
+4-Special Collections: 10 % of collection if Australian flora.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2206">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2206">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2206">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 61 (0)3 5572 2910
+9-Institution Code: HMAUS
+9-International Agenda Registration: No
+9-Mailing: PO Box 107
+9-Primary Email: hvic@sthgrampians.vic.gov.au
+9-Telephone: 61 (0)3 5573 0430

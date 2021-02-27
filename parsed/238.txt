@@ -1,11 +1,19 @@
-ID:	238
-Name:	Sea World San Diego 
-Curator's Name:	
-Director's Name:	S. Locke, Director of Horticulture
-Info:	  United States of America - California - San Diego  ;Garden Information;  Institution Code: SWSD; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sea World San Diego; 500 SeaWorld Drive; San Diego; California 92109 United States of America; ;  Telephone: (619) 222-6363; Fax: ; URL: <a target="_blank" href="http://seaworld.com">http://seaworld.com; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1964
-Institution Type:	Other
-Latitude:	32.7622120
-Longitude:	-117.2241070
+0-ID: 238
+1-Name: Sea World San Diego 
+2-Altitude: 0.00 Metres
+2-Date founded: 1964
+2-Info:              Institution Code: SWSD;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sea World San Diego;         500 SeaWorld Drive;                San Diego;        California 92109 United States of America;        ;                 Telephone: (619) 222-6363;         Fax: ;         URL: http://seaworld.com;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 32.7622120
+2-Longitude: -117.2241070
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=238">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=238">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=238">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=238">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=238">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SWSD
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (619) 222-6363

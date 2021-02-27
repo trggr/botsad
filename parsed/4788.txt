@@ -1,11 +1,18 @@
-ID:	4788
-Name:	University of KwaZulu-Natal Botanical Garden 
-Curator's Name:	Alison Young
-Director's Name:	Unknown
-Info:	  South Africa - KwaZulu-Natal - Pietermaritzburg  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; University of KwaZulu-Natal Botanical Garden; University of KwaZulu-Natal, School of Biological and Conservation Sciences; PB X01, Scottsville; Pietermaritzburg; KwaZulu-Natal 3209 South Africa; ;  Telephone: +27 33 2605154; Fax: ; URL: <a target="_blank" href="http://sls.ukzn.ac.za/Facilities/botgdns_/botgdns_au.aspx">http://sls.ukzn.ac.za/Facilities/botgdns_/botgdns_au.aspx; Primary Email: younga@ukzn.ac.za ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-29.625073
-Longitude:	30.403557
-Reintroduction Programme:	No
+0-ID: 4788
+1-Name: University of KwaZulu-Natal Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         University of KwaZulu-Natal Botanical Garden;         University of KwaZulu-Natal, School of Biological and Conservation Sciences;        PB X01, Scottsville;        Pietermaritzburg;        KwaZulu-Natal 3209 South Africa;        ;                 Telephone: +27 33 2605154;         Fax: ;         URL: http://sls.ukzn.ac.za/Facilities/botgdns_/botgdns_au.aspx;         Primary Email: younga@ukzn.ac.za       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -29.625073
+2-Longitude: 30.403557
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4788">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4788">Please click here if you can update us</a>
+5-Reintroduction Programme: No
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4788">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4788">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: younga@ukzn.ac.za
+9-Telephone: +27 33 2605154

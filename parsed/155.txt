@@ -1,79 +1,79 @@
-ID:	155
-Name:	Ukrainian National Forestry University Botanic Garden 
-Administration Staff Number:	5
-Curator's Name:	Anatoliy Ivchenko, Oleksandra Efremova
-Director's Name:	Ihor Patcura
-Educational Staff Number:	3
-Horticultural Staff Number:	30
-Info:	  Ukraine - L'viv  ;Garden Information;  Institution Code: LVOP; International Agenda Registration: Yes; BGCI Member: No; About the Ukrainian National Forestry University Botanic Garden Ukrainian National Forestry University Botanic Garden is a research, educational and nature protection institution of national significance. The Garden was created on February, 22, 1991 by the Council of Ministers of the Ukrainian SSR and by the Cabinet of Ministers of Ukraine on October 12, 1992. Geographically it consist of dendropark, dendrariy, arboretum and an ornamental nursery covering the area of 26,05 ha.; Nowadays, the flora of the Garden includes above 1300 taxons. They belong to 6 classes (Equisetopsida, Polypodiopsida, Ginkgopsida, Liliopsida, Magnoliopsida, Pinopsida), 130 families and 512 genera. ; The institution includes two departments in its structure: forest and botanical research department, and horticulture and plant reproduction department.;  Main Address:; Ukrainian National Forestry University Botanic Garden; Generala Chuprynky Str., 103; L'viv; 79057 Ukraine; ;  Telephone: (032) 237-88-20; Fax: (032) 237-89-05; URL: <a target="_blank" href="http://www.botsad.nltu.edu.ua/">http://www.botsad.nltu.edu.ua/; Primary Email: botsad@ukr.net ; 
-Plant Records Officer's Name:	Pavlo Tretyak
-Research Staff Number:	8
-Altitude:	340.00 Metres
-Annual Rainfall:	688 mm
-Date founded:	1992
-Institution Type:	Botanic Garden
-Landscaped Area:	No
-Latitude:	49.81388
-Local Address:	вул. Генерала Чупринки, 103
-Locality:	Information
-Longitude:	24.02222
-Natural Vegetation Area:	Yes
-Satellite Garden Names:	Dendrarium on Kobylyanska Str., Stradchivskyy Arboretum
-Total Area:	26 Hectares
-Arboretum:	Yes
-Arboretum Size:	13
-Computer Plant Record System:	No
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	10000
-Number of Volunteers:	100
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-ABS Policy:	Yes
-Accession Number:	6131
-Cultivation Taxa Num:	1308
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	Yes
-Special Collections:	The flora of the Garden belongs to 6 classes (Equisetopsida, Polypodiopsida, Ginkgopsida, Liliopsida, Magnoliopsida, Pinopsida), 130 families and 512 genera.
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	Yes
-Ethnobotany:	Yes
-Exploration:	Yes
-Floristics:	No
-Horticulture:	Yes
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
-Courses for General Public:	No
-Courses for School Children:	No
-Courses for University/College Students:	No
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	No
-Public Lectures/Talks:	No
-Special Exhibitions:	No
-Visitor/Education Centre:	No
+0-ID: 155
+1-Name: Ukrainian National Forestry University Botanic Garden 
+2-Altitude: 340.00 Metres
+2-Annual Rainfall: 688 mm
+2-Date founded: 1992
+2-Info:              Institution Code: LVOP;             International Agenda Registration: Yes;        BGCI Member: No;                                                  About the Ukrainian National Forestry University Botanic Garden        Ukrainian National Forestry University Botanic Garden is a research, educational and nature protection institution of national significance. The Garden was created on February, 22, 1991 by the Council of Ministers of the Ukrainian SSR and by the Cabinet of Ministers of Ukraine on October 12, 1992. Geographically it consist of dendropark, dendrariy, arboretum and an ornamental nursery covering the area of 26,05 ha.;  Nowadays, the flora of the Garden includes above 1300 taxons. They belong to 6 classes (Equisetopsida, Polypodiopsida, Ginkgopsida, Liliopsida, Magnoliopsida, Pinopsida), 130 families and 512 genera. ;  The institution includes two departments in its structure: forest and botanical research department, and horticulture and plant reproduction department.;                        Main Address:;         Ukrainian National Forestry University Botanic Garden;         Generala Chuprynky Str., 103;                L'viv;        79057 Ukraine;        ;                 Telephone: (032) 237-88-20;         Fax: (032) 237-89-05;         URL: http://www.botsad.nltu.edu.ua/;         Primary Email: botsad@ukr.net       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: No
+2-Latitude: 49.81388
+2-Local Address: вул. Генерала Чупринки, 103
+2-Locality: Information
+2-Longitude: 24.02222
+2-Natural Vegetation Area: Yes
+2-Satellite Garden Names: Dendrarium on Kobylyanska Str., Stradchivskyy Arboretum
+2-Total Area: 26 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 13
+3-Computer Plant Record System: No
+3-Disabled access: Yes
+3-Friends society: No
+3-Herbarium: Yes
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 10000
+3-Number of Volunteers: 100
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-ABS Policy: Yes
+4-Accession Number: 6131
+4-Cultivation Taxa Num: 1308
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: No
+4-Plant Collection Policy: Yes
+4-Special Collections: The flora of the Garden belongs to 6 classes (Equisetopsida, Polypodiopsida, Ginkgopsida, Liliopsida, Magnoliopsida, Pinopsida), 130 families and 512 genera.
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: Yes
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: Yes
+6-Ethnobotany: Yes
+6-Exploration: Yes
+6-Floristics: No
+6-Horticulture: Yes
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-Courses for General Public: No
+7-Courses for School Children: No
+7-Courses for University/College Students: No
+7-Education Booklets/Leaflets: Yes
+7-Education Programme: Yes
+7-Education Signs in Garden: Yes
+7-Guided Tours: Yes
+7-Permanent Public Displays: No
+7-Public Lectures/Talks: No
+7-Special Exhibitions: No
+7-Visitor/Education Centre: No
+9-BGCI Member: No
+9-Fax: (032) 237-89-05
+9-Institution Code: LVOP
+9-International Agenda Registration: Yes
+9-Primary Email: botsad@ukr.net
+9-Telephone: (032) 237-88-20
+9-The institution includes two departments in its structure: forest and botanical research department, and horticulture and plant reproduction department.

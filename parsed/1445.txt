@@ -1,11 +1,18 @@
-ID:	1445
-Name:	Krivorozhskiy Botanical Garden of Ukrainian National Academy of Sciences 
-Curator's Name:	
-Director's Name:	Dr. A. E. Mazur
-Info:	  Ukraine - Krivoy Rog  ;Garden Information;  Institution Code: KRIV; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Krivorozhskiy Botanical Garden of Ukrainian National Academy of Sciences; Marshaka st., 50; Dnepropetrovskaya obl.; Krivoy Rog; 5089 Ukraine; ;  Telephone: (0564) 38-49-22, 38-49-23, 38-48-02; Fax: (0564) 38-48-03; URL: <a target="_blank" href="http://garden.gov.ua/">http://garden.gov.ua/; Primary Email: botgard@ukrtel.dp.ua ; 
-Plant Records Officer's Name:	
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	48.14415
-Longitude:	33.58348
-Special Collections:	Callistephus chinensis, Chrysanthemum, Dahlia, Iris, Tulipa, Rosa, medicinal plants.
+0-ID: 1445
+1-Name: Krivorozhskiy Botanical Garden of Ukrainian National Academy of Sciences 
+2-Date founded: 1974
+2-Info:              Institution Code: KRIV;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Krivorozhskiy Botanical Garden of Ukrainian National Academy of Sciences;         Marshaka st., 50;        Dnepropetrovskaya obl.;        Krivoy Rog;        5089 Ukraine;        ;                 Telephone: (0564) 38-49-22, 38-49-23, 38-48-02;         Fax: (0564) 38-48-03;         URL: http://garden.gov.ua/;         Primary Email: botgard@ukrtel.dp.ua       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.14415
+2-Longitude: 33.58348
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1445">Please click here if you can update us</a>
+4-Special Collections: Callistephus chinensis, Chrysanthemum, Dahlia, Iris, Tulipa, Rosa, medicinal plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1445">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1445">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1445">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (0564) 38-48-03
+9-Institution Code: KRIV
+9-International Agenda Registration: Yes
+9-Primary Email: botgard@ukrtel.dp.ua
+9-Telephone: (0564) 38-49-22, 38-49-23, 38-48-02

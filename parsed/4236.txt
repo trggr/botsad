@@ -1,25 +1,28 @@
-ID:	4236
-Name:	Daniel Stowe Botanical Garden 
-Administration Staff Number:	
-Curator's Name:	Duane Clerc , Garden Curator
-Director's Name:	Patrick Larkin, Executive Director
-Educational Staff Number:	3
-Horticultural Staff Number:	5
-Info:	  United States of America - North Carolina - Belmont  ;Garden Information;  Institution Code: DASBG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Daniel Stowe Botanical Garden; 6500 S. New Hope Road; Belmont; North Carolina 28120 United States of America; ;  Telephone: 704-825-4490; Fax: 704) 829-1240; URL: <a target="_blank" href="http://www.dsbg.org">www.dsbg.org; Primary Email: info@dsbg.org ; 
-Plant Records Officer's Name:	Hank Bruno , Director of Horticulture
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1991
-Institution Type:	Botanic Garden
-Latitude:	35.1676600
-Longitude:	-81.0568660
-Total Area:	182 Hectares
-Total area of glasshouses:	734 Metres
-Friends society:	Yes
-Herbarium:	No
-Open to public:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Education Programme:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
+0-ID: 4236
+1-Name: Daniel Stowe Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1991
+2-Info:              Institution Code: DASBG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Daniel Stowe Botanical Garden;         6500 S. New Hope Road;                Belmont;        North Carolina 28120 United States of America;        ;                 Telephone: 704-825-4490;         Fax: 704) 829-1240;         URL: www.dsbg.org;         Primary Email: info@dsbg.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 35.1676600
+2-Longitude: -81.0568660
+2-Total Area: 182 Hectares
+2-Total area of glasshouses: 734 Metres
+3-Friends society: Yes
+3-Herbarium: No
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4236">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4236">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4236">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Education Programme: Yes
+7-Guided Tours: Yes
+7-Public Lectures/Talks: Yes
+9-BGCI Member: No
+9-Fax: 704) 829-1240
+9-Institution Code: DASBG
+9-International Agenda Registration: No
+9-Primary Email: info@dsbg.org
+9-Telephone: 704-825-4490
+9-URL: www.dsbg.org

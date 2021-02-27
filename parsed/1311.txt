@@ -1,12 +1,19 @@
-ID:	1311
-Name:	School Botanic Garden 'Ostrog' 
-Curator's Name:	
-Director's Name:	Leda Tomas
-Info:	  Croatia - Croatia - Kastel Luksic  ;Garden Information;  Institution Code: KASLU; International Agenda Registration: No; BGCI Member: No;  Main Address:; School Botanic Garden 'Ostrog'; Primary School Ostrog; Put sv. Lovre 2; Kastel Luksic; Croatia 21215 Croatia; ;  Telephone: +38521227033; Fax: +38521260140; URL: <a target="_blank" href="http://www.os-ostrog-kastelluksic.skole.hr/skola">http://www.os-ostrog-kastelluksic.skole.hr/skola; Primary Email: ostrozic@skole.t-com.hr ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	43.5524
-Longitude:	16.3648
-Special Collections:	Mediterranean native plants, marsh plants, medicinal plants, tropical and sub-tropical plants, trees and shrubs including Acacia and Eucalyptus.
+0-ID: 1311
+1-Name: School Botanic Garden 'Ostrog' 
+2-Altitude: 0.00 Metres
+2-Date founded: 1976
+2-Info:              Institution Code: KASLU;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         School Botanic Garden 'Ostrog';         Primary School Ostrog;        Put sv. Lovre 2;        Kastel Luksic;        Croatia 21215 Croatia;        ;                 Telephone: +38521227033;         Fax: +38521260140;         URL: http://www.os-ostrog-kastelluksic.skole.hr/skola;         Primary Email: ostrozic@skole.t-com.hr       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.5524
+2-Longitude: 16.3648
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1311">Please click here if you can update us</a>
+4-Special Collections: Mediterranean native plants, marsh plants, medicinal plants, tropical and sub-tropical plants, trees and shrubs including Acacia and Eucalyptus.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1311">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1311">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1311">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +38521260140
+9-Institution Code: KASLU
+9-International Agenda Registration: No
+9-Primary Email: ostrozic@skole.t-com.hr
+9-Telephone: +38521227033

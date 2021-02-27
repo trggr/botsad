@@ -1,52 +1,56 @@
-ID:	2411
-Name:	The Living Rainforest 
-Fax:	+44(0)1635 202440
-Info:	  United Kingdom - Berkshire - Thatcham  ;Garden Information;  Institution Code: WYLD; International Agenda Registration: No; BGCI Member: Yes; 
-Primary Email:	enquiries@livingrainforest.org
-Telephone:	+44(0)1635 202444
-Administration Staff Number:	4
-Curator's Name:	Peter Clark
-Director's Name:	Karl Hansen
-Educational Staff Number:	10
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Annual Rainfall:	2000 mm
-Date founded:	1991
-Institution Type:	Other
-Landscaped Area:	Yes
-Latitude:	51.481848
-Local Address:	Hampstead Norreys
-Locality:	Information
-Longitude:	-1.219013
-Natural Vegetation Area:	Yes
-Total Area:	2 Hectares
-Total area of glasshouses:	1100 Metres
-Total area of shadehouses:	400 Metres
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Number of Visitors:	80000
-Number of Volunteers:	30
-Open to public:	Yes
-ABS Policy:	Yes
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	The Plant Collection at The Living Rainforest contains some of the most attractive species of the many tropical plant families such as bananas, gingers and bromeliads. However the highlight is the collection of AROIDS, the Philippine Jade Vine (seasonal) and Giant Amazon Water Lily (seasonal).
-Conservation Programme:	Yes
-Education:	Yes
-Horticulture:	Yes
-Sustainability:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 2411
+1-Name: The Living Rainforest 
+2-Administration Staff Number: 4
+2-Curator's Name: Peter Clark
+2-Director's Name: Karl Hansen
+2-Educational Staff Number: 10
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: WYLD;             International Agenda Registration: No;        BGCI Member: Yes;                                               <img src="/photos/2411/livingrainforest.jpg" alt="" />         </div>        </div>                           About the The Living Rainforest        The Living Rainforest comprises approximately 600 species of plants and 100 species of animals from tropical rainforests around the world.  Free-ranging animals include reptiles, birds and butterflies and a two-toed sloth. The plant collection is known for its wide range of aroids and seasonally flowering Philippine jade vine and Giant Amazon water lily.;                        Main Address:;         The Living Rainforest;         Hampstead Norreys;                Thatcham;        Berkshire RG18 0TN United Kingdom;        ;                 Telephone: +44(0)1635 202444;         Fax: +44(0)1635 202440;         URL: www.livingrainforest.org;         Primary Email: enquiries@livingrainforest.org       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 
+3-Altitude: 0.00 Metres
+3-Annual Rainfall: 2000 mm
+3-Date founded: 1991
+3-Institution Type: Other
+3-Landscaped Area: Yes
+3-Latitude: 51.481848
+3-Local Address: Hampstead Norreys
+3-Locality: Information
+3-Longitude: -1.219013
+3-Natural Vegetation Area: Yes
+3-Total Area: 2 Hectares
+3-Total area of glasshouses: 1100 Metres
+3-Total area of shadehouses: 400 Metres
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Number of Visitors: 80000
+4-Number of Volunteers: 30
+4-Open to public: Yes
+5-ABS Policy: Yes
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: The Plant Collection at The Living Rainforest contains some of the most attractive species of the many tropical plant families such as bananas, gingers and bromeliads. However the highlight is the collection of AROIDS, the Philippine Jade Vine (seasonal) and Giant Amazon Water Lily (seasonal).
+6-Conservation Programme: Yes
+7-Education: Yes
+7-Horticulture: Yes
+7-Sustainability: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: +44(0)1635 202440
+9-Institution Code: WYLD
+9-International Agenda Registration: No
+9-Primary Email: enquiries@livingrainforest.org
+9-Telephone: +44(0)1635 202444
+9-URL: www.livingrainforest.org

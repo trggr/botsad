@@ -1,14 +1,22 @@
-ID:	1258
-Name:	Research Institute of Subtropical Forestry (Zhejiang) 
-Curator's Name:	Jiang Jiangmin
-Director's Name:	Chen Yitai
-Info:	  China - Zhejiang - Fuyang  ;Garden Information;  Institution Code: FUYA; International Agenda Registration: No; BGCI Member: No;  Main Address:; Research Institute of Subtropical Forestry (Zhejiang); Chinese Academy of Forestry, Fuyang, Zhejiang, 311400, China; Fuyang; Zhejiang China; ;  Telephone: 86 (0)571 326 801; Fax: 86 (0)571 322 719; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	Jiang Jingmin
-Altitude:	0.00 Metres
-Date founded:	1964
-Institution Type:	Other
-Latitude:	32.8944
-Local Address:	中国浙江省富阳中国林业研究所，邮编 311400
-Locality:	Information
-Longitude:	115.8166
-Special Collections:	Bamboo, Magnolia, exotic pines and Cupressus
+0-ID: 1258
+1-Name: Research Institute of Subtropical Forestry (Zhejiang) 
+2-Altitude: 0.00 Metres
+2-Date founded: 1964
+2-Info:              Institution Code: FUYA;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Research Institute of Subtropical Forestry (Zhejiang);         Chinese Academy of Forestry, Fuyang,  Zhejiang, 311400, China;                Fuyang;        Zhejiang China;        ;                 Telephone: 86 (0)571 326 801;         Fax: 86 (0)571 322 719;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 32.8944
+2-Local Address: 中国浙江省富阳中国林业研究所，邮编 311400
+2-Locality: Information
+2-Longitude: 115.8166
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1258">Please click here if you can update us</a>
+4-Special Collections: Bamboo, Magnolia, exotic pines and Cupressus
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1258">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1258">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1258">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 86 (0)571 322 719
+9-Institution Code: FUYA
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 86 (0)571 326 801
+9-URL: 

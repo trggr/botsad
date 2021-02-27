@@ -1,10 +1,19 @@
-ID:	3273
-Name:	Frank Skinner Arboretum 
-Curator's Name:	John Skinner
-Director's Name:	Hugh Skinner, Owner
-Info:	  Canada - Manitoba - ROBLIN  ;Garden Information;  Institution Code: SRM; International Agenda Registration: No; BGCI Member: No; About the Frank Skinner Arboretum The nursery shut down some time ago. Hugh Skinner still lives on the property and in recent years has been working at converting it into an arboretum. A little south of Roblin, plant fanatics can wander the paths and view some of Skinner's prairie-friendly creations. While it's free to wander the arboretum, donations are appreciated to help preserve this bit of botanical history.;  Main Address:; Frank Skinner Arboretum; P.O. Box 1221; ROBLIN; Manitoba ROL 1PO Canada; ;  Telephone: (204) 564-2336; Fax: (204) 564-2324; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	Marilyn Simpson
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	51.03776
-Longitude:	-101.33262
+0-ID: 3273
+1-Name: Frank Skinner Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SRM;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Frank Skinner Arboretum        The nursery shut down some time ago. Hugh Skinner still lives on the property and in recent years has been working at converting it into an arboretum. A little south of Roblin, plant fanatics can wander the paths and view some of Skinner's prairie-friendly creations. While it's free to wander the arboretum, donations are appreciated to help preserve this bit of botanical history.;                        Main Address:;         Frank Skinner Arboretum;         P.O. Box 1221;                ROBLIN;        Manitoba ROL 1PO Canada;        ;                 Telephone: (204) 564-2336;         Fax: (204) 564-2324;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 51.03776
+2-Longitude: -101.33262
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3273">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3273">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3273">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3273">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3273">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (204) 564-2324
+9-Institution Code: SRM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (204) 564-2336
+9-URL: 

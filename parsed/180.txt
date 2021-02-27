@@ -1,16 +1,20 @@
-ID:	180
-Name:	Moscow State University Botanical Garden 
-Administration Staff Number:	5
-Curator's Name:	Rappoport Alexander, Deputy chief
-Director's Name:	Novikov Vladimir Sergeevich
-Educational Staff Number:	4
-Horticultural Staff Number:	50
-Info:	  Russian Federation - Moscow oblast - Moscow  ;Garden Information;  Institution Code: MW; International Agenda Registration: Yes; BGCI Member: Yes; About the Moscow State University Botanical Garden The Moscow State University Herbarium is located in the Biology Faculty at 119899 Moscow.;  Main Address:; Moscow State University Botanical Garden; Leninskie gory, 1, Building12; Moscow; Moscow oblast 119991 Russian Federation; ;  Telephone: +7495 939 3477, +7495 939 2450, +7495 680 7222; Fax: +7 495 939 4309; URL: <a target="_blank" href="http://www.botsad.msu.ru">www.botsad.msu.ru; Primary Email: info@bg.msu.ru ; 
-Plant Records Officer's Name:	
-Research Staff Number:	28
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	55.7557
-Longitude:	37.6176
-Satellite Garden Names:	Moscow State University Apothecary Garden / Ботанический сад МГУ «Аптекарский огород»
-Special Collections:	Trees and shrubs, mountain flora, steppe flora, useful plants, systematic collections, decorative plants, fruit and berries, hothouse plants.
+0-ID: 180
+1-Name: Moscow State University Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: MW;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Moscow State University Botanical Garden        The Moscow State University Herbarium is located in the Biology Faculty at 119899 Moscow.;                        Main Address:;         Moscow State University Botanical Garden;         Leninskie gory, 1, Building12;                Moscow;        Moscow oblast 119991 Russian Federation;        ;                 Telephone: +7495 939 3477, +7495 939 2450, +7495 680 7222;         Fax: +7 495 939 4309;         URL: www.botsad.msu.ru;         Primary Email: info@bg.msu.ru       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.7557
+2-Longitude: 37.6176
+2-Satellite Garden Names: Moscow State University Apothecary Garden / Ботанический сад МГУ «Аптекарский огород»
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=180">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs, mountain flora, steppe flora, useful plants, systematic collections, decorative plants, fruit and berries, hothouse plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=180">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=180">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=180">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +7 495 939 4309
+9-Institution Code: MW
+9-International Agenda Registration: Yes
+9-Primary Email: info@bg.msu.ru
+9-Telephone: +7495 939 3477, +7495 939 2450, +7495 680 7222
+9-URL: www.botsad.msu.ru

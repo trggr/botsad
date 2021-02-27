@@ -1,12 +1,20 @@
-ID:	3092
-Name:	Giardino Botanico Alpino 
-Curator's Name:	
-Director's Name:	
-Info:	  Italy - Valderia  ;Garden Information;  Institution Code: AVM; International Agenda Registration: No; BGCI Member: No;  Main Address:; Giardino Botanico Alpino; Parco Naturale Alpi, Maritime, Corso Dante Livio Bianco 5, 12010 Valderia, Italy; Valderia; Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	44.2709
-Longitude:	7.2032
-Special Collections:	Saxifraga florulenta, S. stellaris and S. aizoides, Caltha palustris, Epilobium alsinifolium, Viola valderia, 26 species endemic to Maritime Alps, Potentilla valderia, P. fruticosa, Galium tendae, Silene cordifolia, Viola argenteria, Senecio balbisianus,
+0-ID: 3092
+1-Name: Giardino Botanico Alpino 
+2-Altitude: 0.00 Metres
+2-Date founded: 1990
+2-Info:              Institution Code: AVM;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Giardino Botanico Alpino;         Parco Naturale Alpi,  Maritime,  Corso Dante Livio Bianco 5,  12010 Valderia,  Italy;                Valderia;        Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.2709
+2-Longitude: 7.2032
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3092">Please click here if you can update us</a>
+4-Special Collections: Saxifraga florulenta, S. stellaris and S. aizoides, Caltha palustris, Epilobium alsinifolium, Viola valderia, 26 species endemic to Maritime Alps, Potentilla valderia, P. fruticosa, Galium tendae, Silene cordifolia, Viola argenteria, Senecio balbisianus,
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3092">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3092">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3092">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: AVM
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

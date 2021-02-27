@@ -1,9 +1,17 @@
-ID:	5215
-Name:	Threave Garden and Estate - National Trust for Scotland 
-Curator's Name:	
-Director's Name:	
-Info:	  United Kingdom  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Threave Garden and Estate - National Trust for Scotland; Threave Estate; Castle Douglas; DG7 1RX United Kingdom; ;  Telephone: 01556 502575; Fax: ; URL: <a target="_blank" href="http://www.nts.org.uk/Visit/Threave">http://www.nts.org.uk/Visit/Threave; Primary Email: ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	54.922951
-Longitude:	-3.947359
+0-ID: 5215
+1-Name: Threave Garden and Estate - National Trust for Scotland 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Threave Garden and Estate - National Trust for Scotland;         Threave Estate;        Castle Douglas;                DG7 1RX United Kingdom;        ;                 Telephone: 01556 502575;         Fax: ;         URL: http://www.nts.org.uk/Visit/Threave;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 54.922951
+2-Longitude: -3.947359
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5215">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5215">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5215">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5215">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5215">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 01556 502575

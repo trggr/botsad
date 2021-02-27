@@ -1,18 +1,24 @@
-ID:	4362
-Name:	Giardino Botanico "Caplez" 
-Curator's Name:	Dr.Massimo Cantoni
-Director's Name:	Cristina Schindler
-Info:	  Italy - Milan  ;Garden Information;  Institution Code: MIGBC; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Giardino Botanico "Caplez"; Via Urbano III, 4; Milan; 20123 Italy; ;  Telephone: +390258106009; Fax: +390294304584; URL: <a target="_blank" href="http://www.ortobotanicoitalia.it/emilia-romagna/giardino-botanico-caplez/#cennistorici">http://www.ortobotanicoitalia.it/emilia-romagna/giardino-botanico-caplez/#cennistorici; Primary Email: cschindler@tiscali.it ; 
-Plant Records Officer's Name:	Dr.Massimo Cantoni
-Altitude:	720.00 Metres
-Annual Rainfall:	800 mm
-Institution Type:	Botanic Garden
-Latitude:	44.5421
-Longitude:	9.1945
-Total area of shadehouses:	42000 Metres
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	Yes
-Accession Number:	3700
-Cultivation Taxa Num:	360
-Special Collections:	Philadelphus, Spiraea, Deutzia, Salvia, Alpine Plants, Medicinal Plants
+0-ID: 4362
+1-Name: Giardino Botanico "Caplez" 
+2-Altitude: 720.00 Metres
+2-Annual Rainfall: 800 mm
+2-Info:              Institution Code: MIGBC;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Giardino Botanico "Caplez";         Via Urbano III, 4;                Milan;        20123 Italy;        ;                 Telephone: +390258106009;         Fax: +390294304584;         URL: http://www.ortobotanicoitalia.it/emilia-romagna/giardino-botanico-caplez/#cennistorici;         Primary Email: cschindler@tiscali.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 44.5421
+2-Longitude: 9.1945
+2-Total area of shadehouses: 42000 Metres
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: Yes
+4-Accession Number: 3700
+4-Cultivation Taxa Num: 360
+4-Special Collections: Philadelphus, Spiraea, Deutzia, Salvia, Alpine Plants, Medicinal Plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4362">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4362">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4362">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: +390294304584
+9-Institution Code: MIGBC
+9-International Agenda Registration: Yes
+9-Primary Email: cschindler@tiscali.it
+9-Telephone: +390258106009

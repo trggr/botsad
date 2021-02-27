@@ -1,11 +1,26 @@
-ID:	1055
-Name:	Jardin Botanique de la Ville de Limoges 
-Curator's Name:	
-Director's Name:	
-Info:	  France - Limoges  ;Garden Information;  Institution Code: LIMOG; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de la Ville de Limoges Location: LIMOGES; Founded: 1958 ; Garden Name: Jardin Botanique de la Ville de Limoges; Address: Direction des Espaces Verts, place Leon Betoulle, 87031, LIMOGES Cedex; Situated: Place de la Cathedrale, F-87100 LIMOGES.; Status: Municipal; Herbarium: No;  Main Address:; Jardin Botanique de la Ville de Limoges; Direction des Espaces Verts place Leon Betoulle 87000 LIMOGES; Limoges; France; ;  Telephone: 55 33 70 10; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1958
-Institution Type:	Botanic Garden
-Latitude:	45.8213
-Longitude:	1.2510
-Special Collections:	Systematic herbaceous plants, dwarf trees and shrubs, bee plants, forage plants, medicinals, food plants, poisonous and toxic plants, dye and industrial plants, aromatic plants, herb and spice plants.
+0-ID: 1055
+1-Name: Jardin Botanique de la Ville de Limoges 
+2-Date founded: 1958
+2-Info:              Institution Code: LIMOG;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique de la Ville de Limoges        Location: LIMOGES; Founded: 1958 ; Garden Name: Jardin Botanique de la Ville de Limoges; Address: Direction des Espaces Verts, place Leon Betoulle, 87031, LIMOGES Cedex; Situated: Place de la Cathedrale, F-87100 LIMOGES.; Status: Municipal; Herbarium: No;                        Main Address:;         Jardin Botanique de la Ville de Limoges;         Direction des Espaces Verts place Leon Betoulle 87000 LIMOGES;                Limoges;        France;        ;                 Telephone: 55 33 70 10;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.8213
+2-Longitude: 1.2510
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1055">Please click here if you can update us</a>
+4-Special Collections: Systematic herbaceous plants, dwarf trees and shrubs, bee plants, forage plants, medicinals, food plants, poisonous and toxic plants, dye and industrial plants, aromatic plants, herb and spice plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1055">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1055">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1055">Please click here if you can update us</a>
+9-About the Jardin Botanique de la Ville de Limoges        Location: LIMOGES
+9-Address: Direction des Espaces Verts, place Leon Betoulle, 87031, LIMOGES Cedex
+9-BGCI Member: No
+9-Fax: 
+9-Founded: 1958
+9-Garden Name: Jardin Botanique de la Ville de Limoges
+9-Herbarium: No
+9-Institution Code: LIMOG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Situated: Place de la Cathedrale, F-87100 LIMOGES.
+9-Status: Municipal
+9-Telephone: 55 33 70 10
+9-URL: 

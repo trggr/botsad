@@ -1,48 +1,51 @@
-ID:	808
-Name:	Institute of Forest Genetics & Tree Breeding 
-Fax:	91 422 2430549
-Info:	  India - Tamil Nadu - Coimbatore  ;Garden Information;  Institution Code: FRC; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	kunhikannan@icfre.org
-Telephone:	91 422 2484100
-Administration Staff Number:	
-Curator's Name:	Dr.C.Kunhikannan
-Director's Name:	R S Prashanth
-Educational Staff Number:	
-Horticultural Staff Number:	1
-Plant Records Officer's Name:	
-Research Staff Number:	1
-Altitude:	467.00 Metres
-Annual Rainfall:	490 mm
-Date founded:	1971
-Institution Type:	Other
-Latitude:	11.0048
-Local Address:	IFGTB Forest Campus R S Puram Coimbatore 641002
-Locality:	Information
-Longitude:	76.9698
-Total Area:	3 Hectares
-Total area of shadehouses:	74 Metres
-Arboretum:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	600
-Open to public:	Yes
-Seed Bank:	Yes
-Accession Number:	370
-Special Collections:	Wild orchids and rare plants of Western Ghats Forest of Peninsular India.
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Biotechnology:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Education:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Molecular Genetics:	Yes
-Pollination Biology:	Yes
-Seed/Spore Biology:	Yes
-Systematics and Taxonomy:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 808
+1-Name: Institute of Forest Genetics & Tree Breeding 
+2-Administration Staff Number: 
+2-Curator's Name: Dr.C.Kunhikannan
+2-Director's Name: R S Prashanth
+2-Educational Staff Number: 
+2-Horticultural Staff Number: 1
+2-Info:              Institution Code: FRC;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/808/0112_phpiZiewI.JPG" alt="Entrance  of the Botanical garden" />         Entrance  of the Botanical garden</div>        </div>                                    Main Address:;         Institute of Forest Genetics & Tree Breeding;         Forest Campus, PO Box 1061, R.S.Puram;                Coimbatore;        Tamil Nadu 641002 India;        ;                 Telephone: 91 422 2484100;         Fax: 91 422 2430549;         URL: http://ifgtb.icfre.gov.in;         Primary Email: kunhikannan@icfre.org       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 1
+3-Altitude: 467.00 Metres
+3-Annual Rainfall: 490 mm
+3-Date founded: 1971
+3-Institution Type: Other
+3-Latitude: 11.0048
+3-Local Address: IFGTB Forest Campus R S Puram Coimbatore 641002
+3-Locality: Information
+3-Longitude: 76.9698
+3-Total Area: 3 Hectares
+3-Total area of shadehouses: 74 Metres
+4-Arboretum: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 600
+4-Open to public: Yes
+4-Seed Bank: Yes
+5-Accession Number: 370
+5-Special Collections: Wild orchids and rare plants of Western Ghats Forest of Peninsular India.
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+7-Biotechnology: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Ecology: Yes
+7-Education: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Molecular Genetics: Yes
+7-Pollination Biology: Yes
+7-Seed/Spore Biology: Yes
+7-Systematics and Taxonomy: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: No
+9-Fax: 91 422 2430549
+9-Institution Code: FRC
+9-International Agenda Registration: No
+9-Primary Email: kunhikannan@icfre.org
+9-Telephone: 91 422 2484100

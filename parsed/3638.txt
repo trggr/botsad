@@ -1,10 +1,18 @@
-ID:	3638
-Name:	Sunderland Museum and Winter Garden 
-Curator's Name:	
-Director's Name:	Director
-Info:	  United Kingdom - Tyne & Wear - Sunderland  ;Garden Information;  Institution Code: SUN; International Agenda Registration: No; BGCI Member: No;  Main Address:; Sunderland Museum and Winter Garden; Sunderland Museum; Burdon Road; Sunderland; Tyne & Wear SR1 1PP United Kingdom; ;  Telephone: (0191) 553 2323; Fax: ; URL: <a target="_blank" href="http://www.twmuseums.org.uk/sunderland.html">http://www.twmuseums.org.uk/sunderland.html; Primary Email: info@sunderlandmuseums.org.uk ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Other
-Latitude:	54.904253
-Longitude:	-1.380649
+0-ID: 3638
+1-Name: Sunderland Museum and Winter Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: SUN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Sunderland Museum and Winter Garden;         Sunderland Museum;        Burdon Road;        Sunderland;        Tyne & Wear SR1 1PP United Kingdom;        ;                 Telephone: (0191) 553 2323;         Fax: ;         URL: http://www.twmuseums.org.uk/sunderland.html;         Primary Email: info@sunderlandmuseums.org.uk       ;              
+2-Institution Type: Other
+2-Latitude: 54.904253
+2-Longitude: -1.380649
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3638">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3638">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3638">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3638">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3638">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SUN
+9-International Agenda Registration: No
+9-Primary Email: info@sunderlandmuseums.org.uk
+9-Telephone: (0191) 553 2323

@@ -1,11 +1,21 @@
-ID:	2039
-Name:	Orto Botanico ed Arboreto "Tor Vergata" 
-Curator's Name:	
-Director's Name:	Dr. Alessandro Travaglini
-Info:	  Italy - Rome  ;Garden Information;  Institution Code: RO; International Agenda Registration: No; BGCI Member: No; About the Orto Botanico ed Arboreto "Tor Vergata" Botanic garden with romantic archaeological remains: plans to create a Roman garden;  Main Address:; Orto Botanico ed Arboreto "Tor Vergata"; Dipartimento di Biologia, Universita degli studi di Roma Tor Vergata; Via della ricerca scientifica; Rome; I - 00133 Italy; ;  Telephone: 0039 (0)6725794342; Fax: 0039 (0)62023500; URL: <a target="_blank" href="http://www. uniroma2.it/bioogia/polline">www. uniroma2.it/bioogia/polline; Primary Email: travagli@uniroma2.it ; 
-Plant Records Officer's Name:	
-Date founded:	1988
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	41.8544
-Longitude:	12.6385
+0-ID: 2039
+1-Name: Orto Botanico ed Arboreto "Tor Vergata" 
+2-Date founded: 1988
+2-Info:              Institution Code: RO;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Orto Botanico ed Arboreto "Tor Vergata"        Botanic garden with romantic archaeological remains: plans to create a Roman garden;                        Main Address:;         Orto Botanico ed Arboreto "Tor Vergata";         Dipartimento di Biologia,   Universita degli studi di Roma Tor Vergata;        Via della ricerca scientifica;        Rome;        I - 00133 Italy;        ;                 Telephone: 0039 (0)6725794342;         Fax: 0039 (0)62023500;         URL: www. uniroma2.it/bioogia/polline;         Primary Email: travagli@uniroma2.it       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 41.8544
+2-Longitude: 12.6385
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2039">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=2039">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2039">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2039">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2039">Please click here if you can update us</a>
+9-About the Orto Botanico ed Arboreto "Tor Vergata"        Botanic garden with romantic archaeological remains: plans to create a Roman garden
+9-BGCI Member: No
+9-Fax: 0039 (0)62023500
+9-Institution Code: RO
+9-International Agenda Registration: No
+9-Primary Email: travagli@uniroma2.it
+9-Telephone: 0039 (0)6725794342
+9-URL: www. uniroma2.it/bioogia/polline

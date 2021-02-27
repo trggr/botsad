@@ -1,83 +1,86 @@
-ID:	5060
-Name:	Orquidario Moxquivil 
-"garden-photo"> <img src="/photos/5060/for web om.jpg" alt="View of Orquideas Moxviquil" /> View of Orquideas Moxviquil  About the Orquidario Moxquivil Simply put, Orquídeas Moxviquil's mission is to safeguard for future generations a small sampling of the vast and varied essence of Chiapas' living natural wonders, while at the same time maintaining an area where people can visit and share in the beauty of these most graceful, fanciful and simply extraordinary handiwork of evolution:	the flora of Chiapas.
-Fax:	
-Info:	  Mexico - Chiapas - San Cristóbal de Las Casas  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; 
-Primary Email:	info@orchidsmexico.com
-Telephone:	+52 (967) 678-5727
-Administration Staff Number:	2
-Curator's Name:	
-Director's Name:	Craig Robert (Cisco) Dietz, Director
-Educational Staff Number:	2
-Horticultural Staff Number:	2
-Plant Records Officer's Name:	Craig Robert (Cisco) Dietz
-Research Staff Number:	
-Altitude:	2144.00 Metres
-Annual Rainfall:	1500 mm
-Date founded:	2009
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	16.754439
-Local Address:	Periferico Norte #4a
-Locality:	Information
-Longitude:	-92.633520
-Natural Vegetation Area:	Yes
-Total Area:	3 Hectares
-Total area of glasshouses:	200 Metres
-Total area of shadehouses:	280 Metres
-Arboretum:	Yes
-Arboretum Size:	1
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	No
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	2000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	No
-ABS Policy:	Yes
-Accession Number:	25000
-Cultivation Taxa Num:	7
-Invasive Species Monitoring:	Yes
-Invasive Species Policy:	Yes
-Plant Collection Policy:	Yes
-Special Collections:	All of our plants are rescued since 1994 when the rescue campaign was started by Cisco Dietz. All are of Chiapas origin.
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	Yes
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Ethnobotany:	No
-Exploration:	Yes
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	No
-Pharmacology:	Yes
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	Yes
-Seed/Spore Biology:	No
-Sustainability:	Yes
-Systematics and Taxonomy:	No
-Urban Environments:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	No
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Permanent Public Displays:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	No
-Visitor/Education Centre:	Yes
+0-ID: 5060
+1-Name: Orquidario Moxquivil 
+2-Administration Staff Number: 2
+2-Curator's Name: 
+2-Director's Name: Craig Robert (Cisco) Dietz, Director
+2-Educational Staff Number: 2
+2-Horticultural Staff Number: 2
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                               <img src="/photos/5060/for web om.jpg" alt="View of Orquideas Moxviquil" />         View of Orquideas Moxviquil</div>        </div>                           About the Orquidario Moxquivil        Simply put, Orquídeas Moxviquil's mission is to safeguard for future generations a small sampling of the vast and varied essence of Chiapas' living natural wonders, while at the same time maintaining an area where people can visit and share in the beauty of these most graceful, fanciful and simply extraordinary handiwork of evolution: the flora of Chiapas.;  ;  ;  Through the collection and care of various distinct bio regions of Chiapas, Orquídeas Moxviquil OM acts as a resource to help disperse critical information for scientific studies, along with being a natural educational playground open to people of all walks of life. Reaching further afield, OM intends to be a source and springboard to encourage campesino groups to take control of the destiny of their wild well-preserved forests by helping them maintain and expand virgin and unexploited forests, while facilitating the establishment of nurseries to seed, grow and produce flowers and plants for local and export markets. With special focus on the remarkable orchid, OM brings together like-minded people and those new to the natural wonders of Chiapas and their local forests to share in the majesty of orchids, as well as all other plant and animal life.;  ;  As it extends itself to the community, OM will continue to encourage the formation of orchid societies and satellite Jardines de Orquídeas in other areas of Chiapas and Mexico. OM now provides a space where new and existing information about orchids and epiphytes, plants living on the bark of trees and shrubs that are not parasites, can gather and grow; helping to create a natural and educational paradise nestled within the beauty of San Cristóbal de las Casas, Chiapas, Mexico.;                        Main Address:;         Orquidario Moxquivil;         Periférico Norte #4a, Ojo de Agua;                San Cristóbal de Las Casas;        Chiapas 29228 Mexico;        ;                 Telephone: +52 (967) 678-5727;         Fax: ;         URL: http://www.orchidsmexico.com;         Primary Email: info@orchidsmexico.com       ;              
+2-Plant Records Officer's Name: Craig Robert (Cisco) Dietz
+2-Research Staff Number: 
+3-Altitude: 2144.00 Metres
+3-Annual Rainfall: 1500 mm
+3-Date founded: 2009
+3-Institution Type: Botanic Garden
+3-Landscaped Area: Yes
+3-Latitude: 16.754439
+3-Local Address: Periferico Norte #4a
+3-Locality: Information
+3-Longitude: -92.633520
+3-Natural Vegetation Area: Yes
+3-Total Area: 3 Hectares
+3-Total area of glasshouses: 200 Metres
+3-Total area of shadehouses: 280 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 1
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: No
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: No
+4-Number of Visitors: 2000
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: No
+5-ABS Policy: Yes
+5-Accession Number: 25000
+5-Cultivation Taxa Num: 7
+5-Invasive Species Monitoring: Yes
+5-Invasive Species Policy: Yes
+5-Plant Collection Policy: Yes
+5-Special Collections: All of our plants are rescued since 1994 when the rescue campaign was started by Cisco Dietz. All are of Chiapas origin.
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Agriculture: No
+7-Biotechnology: No
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: No
+7-Data Management Systems and Information Technology: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Ethnobotany: No
+7-Exploration: Yes
+7-Floristics: No
+7-Horticulture: No
+7-Invasive Species Biology and Control: Yes
+7-Land Restoration: Yes
+7-Molecular Genetics: No
+7-Pharmacology: Yes
+7-Plant Breeding: No
+7-Pollination Biology: No
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: No
+7-Sustainability: Yes
+7-Systematics and Taxonomy: No
+7-Urban Environments: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: No
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Permanent Public Displays: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: No
+8-Visitor/Education Centre: Yes
+9-<img src="/photos/5060/for web om.jpg" alt="View of Orquideas Moxviquil" />         View of Orquideas Moxviquil</div>        </div>                           About the Orquidario Moxquivil        Simply put, Orquídeas Moxviquil's mission is to safeguard for future generations a small sampling of the vast and varied essence of Chiapas' living natural wonders, while at the same time maintaining an area where people can visit and share in the beauty of these most graceful, fanciful and simply extraordinary handiwork of evolution: the flora of Chiapas.
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@orchidsmexico.com
+9-Telephone: +52 (967) 678-5727

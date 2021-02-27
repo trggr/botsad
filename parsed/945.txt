@@ -1,11 +1,19 @@
-ID:	945
-Name:	Experimental cum Botanic Garden 
-Curator's Name:	
-Director's Name:	Dr.N.Paria
-Info:	  India - Calcutta  ;Garden Information;  Institution Code: CUH; International Agenda Registration: No; BGCI Member: No; About the Experimental cum Botanic Garden 1.The Assembly House in Calcutta includes a 6 ha. Garden with a collection of about 160 perennial species, as well as a rose garden containing 250 varieties. (Deputy Secretary, Leglislative Assembly House,Calcutta 700 001, West Bengal.; 2. Bidhan Sishu Ud;  Main Address:; Experimental cum Botanic Garden; Department of Botany, University of Calcutta, 35 Ballygunge Circular Road, CALCUTTA 700 019, West; Calcutta; India; ;  Telephone: 475 3681; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1918
-Institution Type:	Botanic Garden
-Latitude:	22.5726
-Longitude:	88.3638
-Special Collections:	A general collection of angiosperms, gymnosperms, pteridophytes and other lower plants.
+0-ID: 945
+1-Name: Experimental cum Botanic Garden 
+2-Date founded: 1918
+2-Info:              Institution Code: CUH;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Experimental cum Botanic Garden        1.The Assembly House in Calcutta includes a 6 ha. Garden with a collection of about 160 perennial species, as well as a rose garden containing 250 varieties. (Deputy Secretary, Leglislative Assembly House,Calcutta 700 001, West Bengal.; 2. Bidhan Sishu Ud;                        Main Address:;         Experimental cum Botanic Garden;         Department of Botany, University of Calcutta,  35 Ballygunge Circular Road,  CALCUTTA 700 019,  West;                Calcutta;        India;        ;                 Telephone: 475 3681;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 22.5726
+2-Longitude: 88.3638
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=945">Please click here if you can update us</a>
+4-Special Collections: A general collection of angiosperms, gymnosperms, pteridophytes and other lower plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=945">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=945">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=945">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CUH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 475 3681
+9-URL: 

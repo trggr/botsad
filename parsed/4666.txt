@@ -1,9 +1,18 @@
-ID:	4666
-Name:	Long Hill Reservation and Sedgwick Gardens 
-Curator's Name:	
-Director's Name:	Daniel Bouchard, Superintendent
-Info:	  United States of America - Massachusetts - Beverly  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Long Hill Reservation and Sedgwick Gardens; 572 Essex Street; Beverly; Massachusetts 01915 United States of America; ;  Telephone: (978) 921-1944; Fax: ; URL: <a target="_blank" href="http://www.thetrustees.org/pages/314_long_hill.cfm">www.thetrustees.org/pages/314_long_hill.cfm; Primary Email: neregion@ttor.org ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	42.5842560
-Longitude:	-70.8421753
+0-ID: 4666
+1-Name: Long Hill Reservation and Sedgwick Gardens 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Long Hill Reservation and Sedgwick Gardens;         572 Essex Street;                Beverly;        Massachusetts 01915 United States of America;        ;                 Telephone: (978) 921-1944;         Fax: ;         URL: www.thetrustees.org/pages/314_long_hill.cfm;         Primary Email: neregion@ttor.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 42.5842560
+2-Longitude: -70.8421753
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4666">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4666">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4666">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4666">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4666">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: neregion@ttor.org
+9-Telephone: (978) 921-1944
+9-URL: www.thetrustees.org/pages/314_long_hill.cfm

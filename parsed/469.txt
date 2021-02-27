@@ -1,11 +1,19 @@
-ID:	469
-Name:	Orto Botanico dell'Universita degli Studi 
-Curator's Name:	
-Director's Name:	Anna Maria Fadda
-Info:	  Italy - Sardegna - Cagliari  ;Garden Information;  Institution Code: CAG; International Agenda Registration: No; BGCI Member: No;  Main Address:; Orto Botanico dell'Universita degli Studi; Viale Fra Ignazio de Laconi, 13; Cagliari; Sardegna 0900 Italy; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	39.2149
-Longitude:	9.1094
-Special Collections:	Medicinal plants, succulents, Ceratonia siliqua, Pinus halepensis, Olea europaea, Rhmnus alaternus, Pistacia lentiscus, Quercus ilex, Arbutus unedo, Erica arborea, Quercus calliprinos, Buxus balearica, Buxus sempervirens, Phoenix dactylifera, Chamaerops h
+0-ID: 469
+1-Name: Orto Botanico dell'Universita degli Studi 
+2-Date founded: 
+2-Info:              Institution Code: CAG;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Orto Botanico dell'Universita degli Studi;         Viale Fra Ignazio de Laconi, 13;                Cagliari;        Sardegna 0900 Italy;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 39.2149
+2-Longitude: 9.1094
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=469">Please click here if you can update us</a>
+4-Special Collections: Medicinal plants, succulents, Ceratonia siliqua, Pinus halepensis, Olea europaea, Rhmnus alaternus, Pistacia lentiscus, Quercus ilex, Arbutus unedo, Erica arborea, Quercus calliprinos, Buxus balearica, Buxus sempervirens, Phoenix dactylifera, Chamaerops h
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=469">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=469">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=469">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: CAG
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

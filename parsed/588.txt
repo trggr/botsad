@@ -1,68 +1,72 @@
-ID:	588
-Name:	Jardí Botànic de la Universitat de València 
-Fax:	+34 6 315 68 26
-Info:	  Spain - Valencia  ;Garden Information;  Institution Code: VAL; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	botanic@uv.es
-Telephone:	+(34) 963 15 68 00
-Administration Staff Number:	5
-Curator's Name:	Jaime Güemes Heras
-Director's Name:	Isabel Mateu Andres, Directora
-Educational Staff Number:	6
-Horticultural Staff Number:	14
-Plant Records Officer's Name:	
-Research Staff Number:	6
-Altitude:	15.00 Metres
-Annual Rainfall:	450 mm
-Date founded:	1567
-Institution Type:	Botanic Garden
-Latitude:	39.4726
-Local Address:	
-Locality:	Information
-Longitude:	-0.3903
-Natural Vegetation Area:	No
-Total Area:	5 Hectares
-Total area of glasshouses:	300 Metres
-Total area of shadehouses:	560 Metres
-Arboretum:	Yes
-Arboretum Size:	4
-Computer Plant Record System:	Yes
-Disabled access:	Yes
-Friends society:	Yes
-Herbarium:	Yes
-Micropropagation/ Tissue Culture Facilities:	Yes
-Number of Visitors:	130000
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Accession Number:	4800
-Cultivation Taxa Num:	4500
-Special Collections:	Palmaceae, Fagaceae, Desert plants. Plants from similar Mediterranean climatic regions throughout the world. Maintains a seed bank with medium-term storage capacity, containing 1840 accessions, representing 888 species (2004 figures).
-Conservation Programme:	Yes
-Ex Situ Conservation Programme:	Yes
-Medicinal Plant Programme:	Yes
-Reintroduction Programme:	Yes
-Conservation - Biology:	Yes
-Conservation - Genetics:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Exploration:	Yes
-Floristics:	Yes
-Horticulture:	Yes
-Invasive Species Biology and Control:	Yes
-Molecular Genetics:	Yes
-Pharmacology:	Yes
-Pollination Biology:	Yes
-Restoration Ecology:	Yes
-Seed/Spore Biology:	Yes
-Systematics and Taxonomy:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
-Education Booklets/Leaflets:	Yes
-Education Programme:	Yes
-Education Signs in Garden:	Yes
-Guided Tours:	Yes
-Public Lectures/Talks:	Yes
-Special Exhibitions:	Yes
-Visitor/Education Centre:	Yes
+0-ID: 588
+1-Name: Jardí Botànic de la Universitat de València 
+2-Administration Staff Number: 5
+2-Curator's Name: Jaime Güemes Heras
+2-Director's Name: Isabel Mateu Andres, Directora
+2-Educational Staff Number: 6
+2-Horticultural Staff Number: 14
+2-Info:              Institution Code: VAL;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/588/edif_botanico.jpg" alt="" />         </div>        </div>                           About the Jardí Botànic de la Universitat de València        The “Jardí botànic de la Universitat de València” is one of the oldest botanical gardens in Spain. It was founded in 1567, and for a long time it was the only one. It was originally thought as a garden for the teaching of medicinal herbs in the 16th century. Nowadays, the JBUV’s mission is to become a centre of excellence in research, conservation, education and understanding. Its aim is to contribute to a better management of the Earth’s environment by increasing knowledge, awareness and understanding of the Plant Kingdom, which is the basis of life on Earth, its importance and its conservation.;  ;  ;  The JBUV is one of the most valued heritage landmarks of the city of Valencia. Recently it has been declared a place of cultural and historical interest. In its research building (inaugurated in 2000) scientific, cultural and educational activities take place. We can also find the University of Valencia herbarium (with more than 200,000 specimens), a specialized library and a seed bank of Valencian and Mediterranean threatened flora.;  ;  All this near a beautiful garden of centenary trees with more than 4,500 cultivated species.;                        Main Address:;         Jardí Botànic de la Universitat de València;         Quart, 80;                Valencia;        46008 Spain;        ;                 Telephone: +(34) 963 15 68 00;         Fax: +34 6 315 68 26;         URL: www.jardibotanic.org;         Primary Email: botanic@uv.es       ;              
+2-Plant Records Officer's Name: 
+2-Research Staff Number: 6
+3-Altitude: 15.00 Metres
+3-Annual Rainfall: 450 mm
+3-Date founded: 1567
+3-Institution Type: Botanic Garden
+3-Latitude: 39.4726
+3-Local Address: 
+3-Locality: Information
+3-Longitude: -0.3903
+3-Natural Vegetation Area: No
+3-Total Area: 5 Hectares
+3-Total area of glasshouses: 300 Metres
+3-Total area of shadehouses: 560 Metres
+4-Arboretum: Yes
+4-Arboretum Size: 4
+4-Computer Plant Record System: Yes
+4-Disabled access: Yes
+4-Friends society: Yes
+4-Herbarium: Yes
+4-Micropropagation/ Tissue Culture Facilities: Yes
+4-Number of Visitors: 130000
+4-Open to public: Yes
+4-Published Plant Catalogue: Yes
+4-Seed Bank: Yes
+5-Accession Number: 4800
+5-Cultivation Taxa Num: 4500
+5-Special Collections: Palmaceae, Fagaceae, Desert plants. Plants from similar Mediterranean climatic regions throughout the world. Maintains a seed bank with medium-term storage capacity, containing 1840 accessions, representing 888 species (2004 figures).
+6-Conservation Programme: Yes
+6-Ex Situ Conservation Programme: Yes
+6-Medicinal Plant Programme: Yes
+6-Reintroduction Programme: Yes
+7-Conservation - Biology: Yes
+7-Conservation - Genetics: Yes
+7-Ecology: Yes
+7-Ecosystem Conservation: Yes
+7-Education: Yes
+7-Exploration: Yes
+7-Floristics: Yes
+7-Horticulture: Yes
+7-Invasive Species Biology and Control: Yes
+7-Molecular Genetics: Yes
+7-Pharmacology: Yes
+7-Pollination Biology: Yes
+7-Restoration Ecology: Yes
+7-Seed/Spore Biology: Yes
+7-Systematics and Taxonomy: Yes
+8-Courses for General Public: Yes
+8-Courses for School Children: Yes
+8-Courses for University/College Students: Yes
+8-Education Booklets/Leaflets: Yes
+8-Education Programme: Yes
+8-Education Signs in Garden: Yes
+8-Guided Tours: Yes
+8-Public Lectures/Talks: Yes
+8-Special Exhibitions: Yes
+8-Visitor/Education Centre: Yes
+9-BGCI Member: Yes
+9-Fax: +34 6 315 68 26
+9-Institution Code: VAL
+9-International Agenda Registration: Yes
+9-Primary Email: botanic@uv.es
+9-Telephone: +(34) 963 15 68 00
+9-URL: www.jardibotanic.org

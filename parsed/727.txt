@@ -1,16 +1,23 @@
-ID:	727
-Name:	Jackson's Garden of Union College 
-Curator's Name:	Arborist
-Director's Name:	-
-Info:	  United States of America - New York - Schenectady  ;Garden Information;  Institution Code: UCS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jackson's Garden of Union College; Union College Campus; 807 Union St.; Schenectady; New York 12308 United States of America; ;  Telephone: (518) 370 6262; Fax: ; URL: <a target="_blank" href="http://www.union.edu/Campus/trees/gardens.php">www.union.edu/Campus/trees/gardens.php; Primary Email: schmitzc@union.edu ; 
-Plant Records Officer's Name:	Connie Schmitz, Landscape Specialist
-Altitude:	0.00 Metres
-Date founded:	1832
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	42.8192530
-Longitude:	-73.9290170
-Natural Vegetation Area:	Yes
-Total Area:	3 Hectares
-Open to public:	Yes
-Special Collections:	Tree peonies, Ginkgo, Metasequoia, perennials, annual and formal garden.
+0-ID: 727
+1-Name: Jackson's Garden of Union College 
+2-Altitude: 0.00 Metres
+2-Date founded: 1832
+2-Info:              Institution Code: UCS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jackson's Garden of Union College;         Union College Campus;        807 Union St.;        Schenectady;        New York 12308 United States of America;        ;                 Telephone: (518) 370 6262;         Fax: ;         URL: www.union.edu/Campus/trees/gardens.php;         Primary Email: schmitzc@union.edu       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 42.8192530
+2-Longitude: -73.9290170
+2-Natural Vegetation Area: Yes
+2-Total Area: 3 Hectares
+3-Open to public: Yes
+4-Special Collections: Tree peonies, Ginkgo, Metasequoia, perennials, annual and formal garden.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=727">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=727">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=727">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: UCS
+9-International Agenda Registration: No
+9-Primary Email: schmitzc@union.edu
+9-Telephone: (518) 370 6262
+9-URL: www.union.edu/Campus/trees/gardens.php

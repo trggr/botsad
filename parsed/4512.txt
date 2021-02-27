@@ -1,11 +1,19 @@
-ID:	4512
-Name:	California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) - Seed Bank 
-Curator's Name:	Cheryl Birker, Seed Conservation Program Manager
-Director's Name:	Lucinda McDade, Executive Director
-Info:	  United States of America - California - Claremont  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes;  Main Address:; California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) - Seed Bank; 1500 North College Avenue; Claremont; California 91711 United States of America; ;  Telephone: (909) 625-8767; Fax: (909) 626-7670; URL: <a target="_blank" href="http://www.rsabg.org">www.rsabg.org; Primary Email: cbirker@rsabg.org ; 
-Plant Records Officer's Name:	James Reed, Plant Records Manager
-Altitude:	0.00 Metres
-Institution Type:	Gene/Seed Bank
-Latitude:	34.1093060
-Longitude:	-117.7149180
-Seed Bank:	Yes
+0-ID: 4512
+1-Name: California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) - Seed Bank 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                           Main Address:;         California Botanic Garden (formerly Rancho Santa Ana Botanic Garden) - Seed Bank;         1500 North College Avenue;                Claremont;        California 91711 United States of America;        ;                 Telephone: (909) 625-8767;         Fax: (909) 626-7670;         URL: www.rsabg.org;         Primary Email: cbirker@rsabg.org       ;              
+2-Institution Type: Gene/Seed Bank
+2-Latitude: 34.1093060
+2-Longitude: -117.7149180
+3-Seed Bank: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4512">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4512">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4512">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4512">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: (909) 626-7670
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cbirker@rsabg.org
+9-Telephone: (909) 625-8767
+9-URL: www.rsabg.org

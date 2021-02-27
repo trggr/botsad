@@ -1,11 +1,19 @@
-ID:	940
-Name:	Dhauladhar Botanical Gardens and Arboretum 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Palampur  ;Garden Information;  Institution Code: PALDH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dhauladhar Botanical Gardens and Arboretum; Department of Forestry, Haryana Pradesh Krishi Viswa Vidyalaya, PALAMPUR, Kangra, Himachal Prades; Palampur; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1981
-Institution Type:	Botanic Garden
-Latitude:	32.1065
-Longitude:	76.5434
-Special Collections:	Trees and shrubs (350 accessions), gymnosperms, legumes, azaleas, orchids.
+0-ID: 940
+1-Name: Dhauladhar Botanical Gardens and Arboretum 
+2-Date founded: 1981
+2-Info:              Institution Code: PALDH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dhauladhar Botanical Gardens and Arboretum;         Department of Forestry,  Haryana Pradesh Krishi Viswa Vidyalaya,  PALAMPUR,  Kangra, Himachal Prades;                Palampur;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.1065
+2-Longitude: 76.5434
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=940">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (350 accessions), gymnosperms, legumes, azaleas, orchids.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=940">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=940">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=940">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: PALDH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

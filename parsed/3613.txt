@@ -1,10 +1,19 @@
-ID:	3613
-Name:	Jardín Etnobotánico Felipe Marin Moreno Pisaq 
-Curator's Name:	
-Director's Name:	Entomóloga Rosmarina Marin Loayza
-Info:	  Peru - Cusco - Pisaq  ;Garden Information;  Institution Code: PISQ; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardín Etnobotánico Felipe Marin Moreno Pisaq; Asociacion para la Naturaleza y Desarrollo para Comunidades Sostenibles ( ANDES); Ruinas 451; Pisaq; Cusco Peru; ;  Telephone: +51 84 245021; Fax: +51 84 230626; URL: <a target="_blank" href="http://">; Primary Email: andes@andes.org.pe ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	-6.9674
-Longitude:	-76.4274
+0-ID: 3613
+1-Name: Jardín Etnobotánico Felipe Marin Moreno Pisaq 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: PISQ;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardín Etnobotánico Felipe Marin Moreno Pisaq;         Asociacion para la Naturaleza y Desarrollo para Comunidades Sostenibles ( ANDES);        Ruinas 451;        Pisaq;        Cusco Peru;        ;                 Telephone: +51 84 245021;         Fax: +51 84 230626;         URL: ;         Primary Email: andes@andes.org.pe       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -6.9674
+2-Longitude: -76.4274
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3613">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3613">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3613">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3613">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3613">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +51 84 230626
+9-Institution Code: PISQ
+9-International Agenda Registration: Yes
+9-Primary Email: andes@andes.org.pe
+9-Telephone: +51 84 245021
+9-URL: 

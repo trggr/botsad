@@ -1,61 +1,62 @@
-ID:	390
-Name:	Arboretum National des Barres ( et Fruticetum Vilmorinianum ) 
-Administration Staff Number:	3
-Curator's Name:	Nicolas Perrette, Collections Manager
-Director's Name:	Girard Quentin
-Educational Staff Number:	2
-Horticultural Staff Number:	5
-Info:	  France - Loiret - Nogent-sur-Vernisson  ;Garden Information;  Institution Code: NOGSV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Arboretum National des Barres ( et Fruticetum Vilmorinianum ); Domaine des Barres; Nogent-sur-Vernisson; Loiret F-45290 France; ;  Telephone: 33 (0) 2 38.97.62.21; Fax: 33 (0) 2 38.97.65.15; URL: <a target="_blank" href="http://www.arboretumdesbarres.onf.fr">www.arboretumdesbarres.onf.fr; Primary Email: ; 
-Plant Records Officer's Name:	
-Research Staff Number:	
-Altitude:	0.00 Metres
-Date founded:	1873
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	47.8458
-Longitude:	2.7416
-Natural Vegetation Area:	Yes
-Total Area:	281 Hectares
-Arboretum:	Yes
-Arboretum Size:	35
-Computer Plant Record System:	No
-Friends society:	No
-Herbarium:	No
-Micropropagation/ Tissue Culture Facilities:	No
-Number of Visitors:	17200
-Open to public:	Yes
-Published Plant Catalogue:	No
-Seed Bank:	No
-ABS Policy:	No
-Accession Number:	8700
-Cultivation Taxa Num:	2596
-Invasive Species Monitoring:	No
-Invasive Species Policy:	No
-Plant Collection Policy:	No
-Conservation Programme:	No
-Ex Situ Conservation Programme:	No
-Medicinal Plant Programme:	No
-Reintroduction Programme:	No
-Agriculture:	No
-Biotechnology:	No
-Conservation - Biology:	No
-Conservation - Genetics:	No
-Data Management Systems and Information Technology:	No
-Ecology:	No
-Ecosystem Conservation:	No
-Education:	No
-Ethnobotany:	No
-Exploration:	No
-Floristics:	No
-Horticulture:	No
-Invasive Species Biology and Control:	No
-Land Restoration:	No
-Molecular Genetics:	No
-Pharmacology:	No
-Plant Breeding:	No
-Pollination Biology:	No
-Restoration Ecology:	No
-Seed/Spore Biology:	No
-Sustainability:	No
-Systematics and Taxonomy:	No
-Urban Environments:	No
+0-ID: 390
+1-Name: Arboretum National des Barres ( et Fruticetum Vilmorinianum ) 
+2-Altitude: 0.00 Metres
+2-Date founded: 1873
+2-Info:              Institution Code: NOGSV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Arboretum National des Barres ( et Fruticetum Vilmorinianum );         Domaine des Barres;                Nogent-sur-Vernisson;        Loiret F-45290 France;        ;                 Telephone: 33 (0) 2 38.97.62.21;         Fax: 33 (0) 2 38.97.65.15;         URL: www.arboretumdesbarres.onf.fr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 47.8458
+2-Longitude: 2.7416
+2-Natural Vegetation Area: Yes
+2-Total Area: 281 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 35
+3-Computer Plant Record System: No
+3-Friends society: No
+3-Herbarium: No
+3-Micropropagation/ Tissue Culture Facilities: No
+3-Number of Visitors: 17200
+3-Open to public: Yes
+3-Published Plant Catalogue: No
+3-Seed Bank: No
+4-ABS Policy: No
+4-Accession Number: 8700
+4-Cultivation Taxa Num: 2596
+4-Invasive Species Monitoring: No
+4-Invasive Species Policy: No
+4-Plant Collection Policy: No
+5-Conservation Programme: No
+5-Ex Situ Conservation Programme: No
+5-Medicinal Plant Programme: No
+5-Reintroduction Programme: No
+6-Agriculture: No
+6-Biotechnology: No
+6-Conservation - Biology: No
+6-Conservation - Genetics: No
+6-Data Management Systems and Information Technology: No
+6-Ecology: No
+6-Ecosystem Conservation: No
+6-Education: No
+6-Ethnobotany: No
+6-Exploration: No
+6-Floristics: No
+6-Horticulture: No
+6-Invasive Species Biology and Control: No
+6-Land Restoration: No
+6-Molecular Genetics: No
+6-Pharmacology: No
+6-Plant Breeding: No
+6-Pollination Biology: No
+6-Restoration Ecology: No
+6-Seed/Spore Biology: No
+6-Sustainability: No
+6-Systematics and Taxonomy: No
+6-Urban Environments: No
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=390">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 33 (0) 2 38.97.65.15
+9-Institution Code: NOGSV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 33 (0) 2 38.97.62.21
+9-URL: www.arboretumdesbarres.onf.fr

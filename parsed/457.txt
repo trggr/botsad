@@ -1,11 +1,19 @@
-ID:	457
-Name:	Empress Botanical Gardens 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Pune  ;Garden Information;  Institution Code: EMPRE; International Agenda Registration: No; BGCI Member: No;  Main Address:; Empress Botanical Gardens; PUNE (MS), India., returned 1994; Pune; India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	18.5204
-Longitude:	73.8566
-Special Collections:	Deciduous trees, tropical shrubs/climbers and exotic foliage plants.
+0-ID: 457
+1-Name: Empress Botanical Gardens 
+2-Date founded: 
+2-Info:              Institution Code: EMPRE;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Empress Botanical Gardens;         PUNE (MS),   India.,     returned 1994;                Pune;        India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 18.5204
+2-Longitude: 73.8566
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=457">Please click here if you can update us</a>
+4-Special Collections: Deciduous trees, tropical shrubs/climbers and exotic foliage plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=457">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=457">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=457">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: EMPRE
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

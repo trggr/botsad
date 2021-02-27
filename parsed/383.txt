@@ -1,11 +1,24 @@
-ID:	383
-Name:	Jardin Botanique de l'Arquebuse 
-Curator's Name:	
-Director's Name:	R. Buzy-Debat
-Info:	  France - Dijon  ;Garden Information;  Institution Code: DIJON; International Agenda Registration: No; BGCI Member: No; About the Jardin Botanique de l'Arquebuse Location: DIJON; Founded: 1833 ; Garden Name: Jardin Botanique de l’Arquebuse; Address: 1 Avenue Albert-Premier, F-21000 DIJON.; Status: Municipal; Herbarium: Yes Approx. no. of herbarium specimens: 100,000; Ex situ Collections:; Ornamental plants, a syst;  Main Address:; Jardin Botanique de l'Arquebuse; 1 Avenue Albert-Premier, F-21000 DIJON, France.; Dijon; France; ;  Telephone: 33 3 80 76 82 84; Fax: 33 3 80 76 82 85; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	47.3320
-Longitude:	5.0322
-Special Collections:	Ornamental plants, a systematic collection (3,352 taxa), regional flora of Bourgogne (1,423 taxa), French native plants (789 spp.), 1,140 plant species from the rest of the world. Food plants, succulents, carnivorous plants, subtropical plants, Mediterran
+0-ID: 383
+1-Name: Jardin Botanique de l'Arquebuse 
+2-Date founded: 
+2-Info:              Institution Code: DIJON;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Jardin Botanique de l'Arquebuse        Location: DIJON; Founded: 1833 ; Garden Name: Jardin Botanique de l’Arquebuse; Address: 1 Avenue Albert-Premier, F-21000 DIJON.; Status: Municipal; Herbarium: Yes Approx. no. of herbarium specimens: 100,000; Ex situ Collections:; Ornamental plants, a syst;                        Main Address:;         Jardin Botanique de l'Arquebuse;         1 Avenue Albert-Premier,  F-21000 DIJON, France.;                Dijon;        France;        ;                 Telephone: 33 3 80 76 82 84;         Fax: 33 3 80 76 82 85;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.3320
+2-Longitude: 5.0322
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=383">Please click here if you can update us</a>
+4-Special Collections: Ornamental plants, a systematic collection (3,352 taxa), regional flora of Bourgogne (1,423 taxa), French native plants (789 spp.), 1,140 plant species from the rest of the world. Food plants, succulents, carnivorous plants, subtropical plants, Mediterran
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=383">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=383">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=383">Please click here if you can update us</a>
+9-About the Jardin Botanique de l'Arquebuse        Location: DIJON
+9-Address: 1 Avenue Albert-Premier, F-21000 DIJON.
+9-BGCI Member: No
+9-Fax: 33 3 80 76 82 85
+9-Founded: 1833
+9-Garden Name: Jardin Botanique de l’Arquebuse
+9-Institution Code: DIJON
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Status: Municipal
+9-Telephone: 33 3 80 76 82 84
+9-URL: 

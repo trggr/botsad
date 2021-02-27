@@ -1,12 +1,20 @@
-ID:	5031
-Name:	Longfellow Arboretum at Payson Park 
-Curator's Name:	Jeff Tarling, City Arborist
-Director's Name:	-
-Info:	  United States of America - Maine - Portland  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Longfellow Arboretum at Payson Park; Ocean Avenue and Baxter Boulevard; Portland; Maine 04103 United States of America; ;  Telephone: (207) 874-8820; Fax: ; URL: <a target="_blank" href="http://portlandmaine.gov/DocumentCenter/View/1916">portlandmaine.gov/DocumentCenter/View/1916; Primary Email: jst@portlandmaine.gov ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1976
-Institution Type:	Botanic Garden
-Latitude:	43.681164
-Longitude:	-70.268193
-Accession Number:	116
+0-ID: 5031
+1-Name: Longfellow Arboretum at Payson Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 1976
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Longfellow Arboretum at Payson Park;         Ocean Avenue and Baxter Boulevard;                Portland;        Maine 04103 United States of America;        ;                 Telephone: (207) 874-8820;         Fax: ;         URL: portlandmaine.gov/DocumentCenter/View/1916;         Primary Email: jst@portlandmaine.gov       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 43.681164
+2-Longitude: -70.268193
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5031">Please click here if you can update us</a>
+4-Accession Number: 116
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5031">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5031">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5031">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: jst@portlandmaine.gov
+9-Telephone: (207) 874-8820
+9-URL: portlandmaine.gov/DocumentCenter/View/1916

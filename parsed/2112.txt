@@ -1,12 +1,20 @@
-ID:	2112
-Name:	Conservatoire Botanique de Wallonie 
-Curator's Name:	
-Director's Name:	L.A. Dutilleux
-Info:	  Belgium - Genappe  ;Garden Information;  Institution Code: WALLO; International Agenda Registration: No; BGCI Member: No;  Main Address:; Conservatoire Botanique de Wallonie; 1, Rue Fievez; Genappe; B-1470 Belgium; ;  Telephone: 32 (0)2 633 2025; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1985
-Institution Type:	Private Collection
-Latitude:	50.6051
-Longitude:	4.4787
-Special Collections:	Cultivated plants, genetic resources, ancient cultivated varieties, Allium spp., 1,500 taxa cultivated outdoors, tulips, potatoes, alpine plants, geraniums.
+0-ID: 2112
+1-Name: Conservatoire Botanique de Wallonie 
+2-Altitude: 0.00 Metres
+2-Date founded: 1985
+2-Info:              Institution Code: WALLO;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Conservatoire Botanique de Wallonie;         1, Rue Fievez;                Genappe;        B-1470 Belgium;        ;                 Telephone: 32 (0)2 633 2025;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Private Collection
+2-Latitude: 50.6051
+2-Longitude: 4.4787
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2112">Please click here if you can update us</a>
+4-Special Collections: Cultivated plants, genetic resources, ancient cultivated varieties, Allium spp., 1,500 taxa cultivated outdoors, tulips, potatoes, alpine plants, geraniums.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2112">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2112">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2112">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: WALLO
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 32 (0)2 633 2025
+9-URL: 

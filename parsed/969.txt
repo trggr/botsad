@@ -1,16 +1,22 @@
-ID:	969
-Name:	Botanical Garden of the I.M. Sechenov First Moscow Medical University 
-Curator's Name:	
-Director's Name:	V.M.Radionova
-Info:	  Russian Federation - Moscow  ;Garden Information;  Institution Code: MOSC; International Agenda Registration: No; BGCI Member: No; About the Botanical Garden of the I.M. Sechenov First Moscow Medical University Main goal of the Garden’s staff is to organize practical training in botany and pharmacognosy for students of the pharmaceutical faculty. Unique herbaria needed for teaching process, drug raw materials, real plants and fixed materials for anatomism are prepared at the Garden.; ; The other responsibilities of the Botanic Garden include:; - Scientific research of anatomical and morphological characteristics, as well as physical and chemical composition of various plants either officially approved or potentially appropriate for medical use.; - Introduction, and maintenance of a seed bank of medical and rare plants.; - Public educative activities.;  Main Address:; Botanical Garden of the I.M. Sechenov First Moscow Medical University; First Moscow State Medical University; 2-4 Bolshaya Pirogovskaya St.; Moscow; 119991 Russian Federation; ;  Telephone: 256 81 96; Fax: ; URL: <a target="_blank" href="https://www.sechenov.ru/univers/structure/other/botanical-garden/">https://www.sechenov.ru/univers/structure/other/botanical-garden/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	167.00 Metres
-Date founded:	1946
-Institution Type:	Botanic Garden
-Latitude:	55.7557
-Longitude:	37.6176
-Total Area:	5 Hectares
-Arboretum:	Yes
-Herbarium:	Yes
-Cultivation Taxa Num:	8000
-Special Collections:	Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus.
+0-ID: 969
+1-Name: Botanical Garden of the I.M. Sechenov First Moscow Medical University 
+2-Altitude: 167.00 Metres
+2-Date founded: 1946
+2-Info:              Institution Code: MOSC;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Botanical Garden of the I.M. Sechenov First Moscow Medical University        Main goal of the Garden’s staff is to organize practical training in botany and pharmacognosy for students of the pharmaceutical faculty. Unique herbaria needed for teaching process, drug raw materials, real plants and fixed materials for anatomism are prepared at the Garden.;  ;  The other responsibilities of the Botanic Garden include:;  - Scientific research of anatomical and morphological characteristics, as well as physical and chemical composition of various plants either officially approved or potentially appropriate for medical use.;  - Introduction, and maintenance of a seed bank of medical and rare plants.;  - Public educative activities.;                        Main Address:;         Botanical Garden of the I.M. Sechenov First Moscow Medical University;         First Moscow State Medical University;        2-4 Bolshaya Pirogovskaya St.;        Moscow;        119991 Russian Federation;        ;                 Telephone: 256 81 96;         Fax: ;         URL: https://www.sechenov.ru/univers/structure/other/botanical-garden/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 55.7557
+2-Longitude: 37.6176
+2-Total Area: 5 Hectares
+3-Arboretum: Yes
+3-Herbarium: Yes
+4-Cultivation Taxa Num: 8000
+4-Special Collections: Rosa, Cactaceae and other succulents (such as Agave, Euphorbia, Kalanchoe, Stapelia, Sansevieria), Paeonia, Lilium, Syringa, Iris, flora of Kazakhstan, Europe, Far East, America, Asia, medicinal plants, conifers, such as Podocarpus.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=969">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=969">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=969">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: MOSC
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 256 81 96

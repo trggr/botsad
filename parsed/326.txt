@@ -1,11 +1,19 @@
-ID:	326
-Name:	Lakehead University Arboretum 
-Curator's Name:	
-Director's Name:	Dr. Ulf Runesson, R.P.F., Interim Dean and Chair, HBScF Program
-Info:	  Canada - Ontario - Thunder Bay  ;Garden Information;  Institution Code: LKHDF; International Agenda Registration: No; BGCI Member: No;  Main Address:; Lakehead University Arboretum; Faculty of Natural Resources Management, Lakehead University; 955 Oliver Road; Thunder Bay; Ontario P7B 5E1 Canada; ;  Telephone: (807) 343-8507; Fax: (807) 343-8116; URL: <a target="_blank" href="http://nrm.lakeheadu.ca">http://nrm.lakeheadu.ca; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1975
-Institution Type:	Botanic Garden
-Latitude:	48.42345
-Longitude:	-89.26171
+0-ID: 326
+1-Name: Lakehead University Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1975
+2-Info:              Institution Code: LKHDF;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Lakehead University Arboretum;         Faculty of Natural Resources Management, Lakehead University;        955 Oliver Road;        Thunder Bay;        Ontario P7B 5E1 Canada;        ;                 Telephone: (807) 343-8507;         Fax: (807) 343-8116;         URL: http://nrm.lakeheadu.ca;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 48.42345
+2-Longitude: -89.26171
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=326">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=326">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=326">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=326">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=326">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (807) 343-8116
+9-Institution Code: LKHDF
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (807) 343-8507

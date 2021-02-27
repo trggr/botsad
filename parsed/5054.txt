@@ -1,23 +1,28 @@
-ID:	5054
-Name:	Brooklyn Bridge Park 
-Curator's Name:	
-Director's Name:	Nancy Webster
-Info:	  United States of America - New York - New York  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; About the Brooklyn Bridge Park The Brooklyn Bridge Park Corporation, d/b/a Brooklyn Bridge Park, is the not‐ for-proﬁt entity responsible for the planning, construction, maintenance and operation of Brooklyn Bridge Park, an 85‐acre sustainable waterfront park stretching 1.3 miles along Brooklyn’s East River shoreline. The Corporation’s mission is to create and maintain a world class park that is a recreational, environmental and cultural destination enjoyed by the residents of, and visitors to, New York City. The Corporation operates under a mandate, embodied by its General Project Plan, to be ﬁnancially self-sustaining, which includes the activation of certain development sites within the project’s footprint.;  Main Address:; Brooklyn Bridge Park; 334 Furman Street; Brooklyn Heights; New York; New York 11201 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.BrooklynBridgePark.org">www.BrooklynBridgePark.org; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1990
-Institution Type:	Botanic Garden
-Latitude:	40°41′51″N
-Local Address:	
-Locality:	Information
-Longitude:	73°59′57″W
-Total Area:	35 Hectares
-Number of Visitors:	170000
-Open to public:	Yes
-Conservation Programme:	Yes
-Conservation - Biology:	Yes
-Ecosystem Conservation:	Yes
-Horticulture:	Yes
-Sustainability:	Yes
-Urban Environments:	Yes
-Guided Tours:	Yes
+0-ID: 5054
+1-Name: Brooklyn Bridge Park 
+2-Altitude: 0.00 Metres
+2-Date founded: 1990
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Brooklyn Bridge Park        The Brooklyn Bridge Park Corporation, d/b/a Brooklyn Bridge Park, is the not‐ for-proﬁt entity responsible for the planning, construction, maintenance and operation of Brooklyn Bridge Park, an 85‐acre sustainable waterfront park stretching 1.3 miles along Brooklyn’s East River shoreline. The Corporation’s mission is to create and maintain a world class park that is a recreational, environmental and cultural destination enjoyed by the residents of, and visitors to, New York City. The Corporation operates under a mandate, embodied by its General Project Plan, to be ﬁnancially self-sustaining, which includes the activation of certain development sites within the project’s footprint.;                        Main Address:;         Brooklyn Bridge Park;         334 Furman Street;        Brooklyn Heights;        New York;        New York 11201 United States of America;        ;                 Telephone: ;         Fax: ;         URL: www.BrooklynBridgePark.org;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40°41′51″N
+2-Local Address: 
+2-Locality: Information
+2-Longitude: 73°59′57″W
+2-Total Area: 35 Hectares
+3-Number of Visitors: 170000
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5054">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+6-Conservation - Biology: Yes
+6-Ecosystem Conservation: Yes
+6-Horticulture: Yes
+6-Sustainability: Yes
+6-Urban Environments: Yes
+7-Guided Tours: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: www.BrooklynBridgePark.org

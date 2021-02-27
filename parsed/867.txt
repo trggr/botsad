@@ -1,14 +1,22 @@
-ID:	867
-Name:	Hangzhou Botanical Garden 
-Curator's Name:	
-Director's Name:	Yu Zhi-Zhou
-Info:	  China - Zhejiang Province - Hangzhou City  ;Garden Information;  Institution Code: HHBG; International Agenda Registration: Yes; BGCI Member: Yes;  Main Address:; Hangzhou Botanical Garden; Taoyuanling, Yuquan; Hangzhou City; Zhejiang Province 310013 China; ;  Telephone: (+86)057187961908; Fax: ; URL: <a target="_blank" href="http://www.hzbg.cn">www.hzbg.cn; Primary Email: Yu700001@126.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1956
-Institution Type:	Botanic Garden
-Latitude:	30.2722
-Local Address:	中国浙江省杭州市玉泉桃源岭，邮编 310013
-Locality:	Information
-Longitude:	120.1708
-Special Collections:	Acer, Camellia, Carpinus, Cinnamomum, Dioscorea, Magnolia, Osmanthus, Phyllostachys, Rhododendron, Rosa. Economic plants, ornamentals, bamboos, herbs and medicinal plants
+0-ID: 867
+1-Name: Hangzhou Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1956
+2-Info:              Institution Code: HHBG;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                           Main Address:;         Hangzhou Botanical Garden;         Taoyuanling, Yuquan;                Hangzhou City;        Zhejiang Province 310013 China;        ;                 Telephone: (+86)057187961908;         Fax: ;         URL: www.hzbg.cn;         Primary Email: Yu700001@126.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 30.2722
+2-Local Address: 中国浙江省杭州市玉泉桃源岭，邮编 310013
+2-Locality: Information
+2-Longitude: 120.1708
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=867">Please click here if you can update us</a>
+4-Special Collections: Acer, Camellia, Carpinus, Cinnamomum, Dioscorea, Magnolia, Osmanthus, Phyllostachys, Rhododendron, Rosa. Economic plants, ornamentals, bamboos, herbs and medicinal plants
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=867">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=867">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=867">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: HHBG
+9-International Agenda Registration: Yes
+9-Primary Email: Yu700001@126.com
+9-Telephone: (+86)057187961908
+9-URL: www.hzbg.cn

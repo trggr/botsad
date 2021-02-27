@@ -1,12 +1,20 @@
-ID:	498
-Name:	Enoshima Tropical Plants Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  Japan - Enoshima  ;Garden Information;  Institution Code: ENOSH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Enoshima Tropical Plants Garden; ENOSHIMA 2-3-28, Fujisawa, Japan.; Enoshima; Japan; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1880
-Institution Type:	Botanic Garden
-Latitude:	34.4060
-Longitude:	132.4568
-Special Collections:	Camellias
+0-ID: 498
+1-Name: Enoshima Tropical Plants Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1880
+2-Info:              Institution Code: ENOSH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Enoshima Tropical Plants Garden;         ENOSHIMA 2-3-28,  Fujisawa,  Japan.;                Enoshima;        Japan;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 34.4060
+2-Longitude: 132.4568
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=498">Please click here if you can update us</a>
+4-Special Collections: Camellias
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=498">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=498">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=498">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ENOSH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

@@ -1,11 +1,19 @@
-ID:	2016
-Name:	Botanical Garden " Dr H.S. Gour Vishwavidyalaya" 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Sagar  ;Garden Information;  Institution Code: SAGAR; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Botanical Garden " Dr H.S. Gour Vishwavidyalaya"; Botany Dept. University of Sagar,SAGAR 470-003, Madhya Pradesh,India.; Sagar; India; ;  Telephone: 91 (0)75 82474; Fax: 91 (0)75 823117.; URL: <a target="_blank" href="http://">; Primary Email: trsahu@rediff.com ; 
-Plant Records Officer's Name:	Prof. T.R. Sahu
-Date founded:	1946
-Institution Type:	Botanic Garden
-Latitude:	23.8465
-Longitude:	78.7528
-Special Collections:	Trees and shrubs (500 spp), Ginkgo, Pinus, Tylophora, leafy cacti, Ephedra, Areca, Rauvolfia, Caryota, Dillenia, ferns.
+0-ID: 2016
+1-Name: Botanical Garden " Dr H.S. Gour Vishwavidyalaya" 
+2-Date founded: 1946
+2-Info:              Institution Code: SAGAR;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Botanical Garden " Dr H.S. Gour Vishwavidyalaya";         Botany Dept.  University of Sagar,SAGAR 470-003, Madhya Pradesh,India.;                Sagar;        India;        ;                 Telephone: 91 (0)75 82474;         Fax: 91 (0)75 823117.;         URL: ;         Primary Email: trsahu@rediff.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 23.8465
+2-Longitude: 78.7528
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2016">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (500 spp), Ginkgo, Pinus, Tylophora, leafy cacti, Ephedra, Areca, Rauvolfia, Caryota, Dillenia, ferns.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2016">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2016">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2016">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 91 (0)75 823117.
+9-Institution Code: SAGAR
+9-International Agenda Registration: Yes
+9-Primary Email: trsahu@rediff.com
+9-Telephone: 91 (0)75 82474
+9-URL: 

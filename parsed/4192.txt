@@ -1,23 +1,30 @@
-ID:	4192
-Name:	Dharma Vana Arboretum 
-Curator's Name:	
-Director's Name:	.
-Info:	  India - Telangana - Hyderabad  ;Garden Information;  Institution Code: DVA; International Agenda Registration: No; BGCI Member: No; About the Dharma Vana Arboretum The Dharma Vana Arboretum is under development in the Bhongir mandal, Nalgonda district, Telangana, India. Bhongir is 50 km from Hyderabad, the capital city of Telangana. We expect to open to the public in 2020.; ; Established to conserve the biodiversity of woody flora found throughout the Deccan Plateau and Eastern Ghats, the DVA is an arboretum specialising in tropical dry forest species. At 455 acres, the DVA is the largest botanic park focused on tropical dry flora worldwide.;  Main Address:; Dharma Vana Arboretum; Administrative Office, Plot 95/1, Phase 2; IDA Cherlapally; Hyderabad; Telangana 500 051 India; ;  Telephone: +91 40 3911 4200; Fax: +91 40 3911 4219; URL: <a target="_blank" href="http://www.arboretum.org.in">www.arboretum.org.in; Primary Email: supportdva@arboretum.org.in ; 
-Plant Records Officer's Name:	
-Altitude:	507.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	17.5169
-Longitude:	78.8835
-Conservation Programme:	Yes
-Conservation - Biology:	Yes
-Data Management Systems and Information Technology:	Yes
-Ecology:	Yes
-Ecosystem Conservation:	Yes
-Education:	Yes
-Exploration:	Yes
-Land Restoration:	Yes
-Molecular Genetics:	Yes
-Restoration Ecology:	Yes
-Sustainability:	Yes
-Systematics and Taxonomy:	Yes
-Urban Environments:	Yes
+0-ID: 4192
+1-Name: Dharma Vana Arboretum 
+2-Altitude: 507.00 Metres
+2-Info:              Institution Code: DVA;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Dharma Vana Arboretum        The Dharma Vana Arboretum is under development in the Bhongir mandal, Nalgonda district, Telangana, India. Bhongir is 50 km from Hyderabad, the capital city of Telangana. We expect to open to the public in 2020.;  ;  Established to conserve the biodiversity of woody flora found throughout the Deccan Plateau and Eastern Ghats, the DVA is an arboretum specialising in tropical dry forest species. At 455 acres, the DVA is the largest botanic park focused on tropical dry flora worldwide.;                        Main Address:;         Dharma Vana Arboretum;         Administrative Office, Plot 95/1, Phase 2;        IDA Cherlapally;        Hyderabad;        Telangana 500 051 India;        ;                 Telephone: +91 40 3911 4200;         Fax: +91 40 3911 4219;         URL: www.arboretum.org.in;         Primary Email: supportdva@arboretum.org.in       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 17.5169
+2-Longitude: 78.8835
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4192">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4192">Please click here if you can update us</a>
+5-Conservation Programme: Yes
+6-Conservation - Biology: Yes
+6-Data Management Systems and Information Technology: Yes
+6-Ecology: Yes
+6-Ecosystem Conservation: Yes
+6-Education: Yes
+6-Exploration: Yes
+6-Land Restoration: Yes
+6-Molecular Genetics: Yes
+6-Restoration Ecology: Yes
+6-Sustainability: Yes
+6-Systematics and Taxonomy: Yes
+6-Urban Environments: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4192">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: +91 40 3911 4219
+9-Institution Code: DVA
+9-International Agenda Registration: No
+9-Primary Email: supportdva@arboretum.org.in
+9-Telephone: +91 40 3911 4200
+9-URL: www.arboretum.org.in

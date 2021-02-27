@@ -1,11 +1,19 @@
-ID:	495
-Name:	National Arboretum Foundation 
-Curator's Name:	
-Director's Name:	Director
-Info:	  Jamaica - Kingston  ;Garden Information;  Institution Code: NAFJ; International Agenda Registration: No; BGCI Member: No;  Main Address:; National Arboretum Foundation; PO Box 777, Kingston 6, Jamaica; Kingston; Jamaica; ;  Telephone: 876 927 1371/1375; Fax: 876 977 9759; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	
-Institution Type:	Botanic Garden
-Latitude:	17.9927
-Longitude:	-76.7920
-Special Collections:	Native and exotic trees and shrubs, tropical ornamentals.
+0-ID: 495
+1-Name: National Arboretum Foundation 
+2-Date founded: 
+2-Info:              Institution Code: NAFJ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         National Arboretum Foundation;         PO Box 777, Kingston 6, Jamaica;                Kingston;        Jamaica;        ;                 Telephone: 876 927 1371/1375;         Fax: 876 977 9759;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 17.9927
+2-Longitude: -76.7920
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=495">Please click here if you can update us</a>
+4-Special Collections: Native and exotic trees and shrubs, tropical ornamentals.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=495">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=495">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=495">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 876 977 9759
+9-Institution Code: NAFJ
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 876 927 1371/1375
+9-URL: 

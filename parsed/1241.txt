@@ -1,23 +1,29 @@
-ID:	1241
-Name:	Dallas Arboretum and Botanical Garden 
-Curator's Name:	Jimmy Turner, Senior Director of Gardens
-Director's Name:	Mary Brinegar, President & CEO
-Info:	  United States of America - Texas - Dallas  ;Garden Information;<a href="#tabs-2">Community Projects;  Institution Code: DABS; International Agenda Registration: No; BGCI Member: No;  Main Address:; Dallas Arboretum and Botanical Garden; 8525 Garland Road; Dallas; Texas 75218 United States of America; ;  Telephone: (214) 515-6500; Fax: (214) 515-6670; URL: <a target="_blank" href="http://www.dallasarboretum.org">www.dallasarboretum.org; Primary Email: info@dallasarboretum.org ; 
-Plant Records Officer's Name:	Susan Morgan, Horticulture Manager
-Altitude:	0.00 Metres
-Date founded:	1974
-Institution Type:	Botanic Garden
-Latitude:	32.8233660
-Longitude:	-96.7164100
-Total Area:	27 Hectares
-Friends society:	Yes
-Open to public:	Yes
-Special Collections:	Hardy Fern Collection
-Courses for General Public:	Yes
-Public Lectures/Talks:	Yes
-"garden-project" style="margin-top:	1em"> Therapeutic Horticulture Program <!-- <img src="/files/Community_projects/dallasarboretum_memorycare_small.jpg" alt="" /> --> Dallas Arboretum&rsquo
-<div align="center"><address><img width="301" height="450" style="width:	301px
-<div align="center"><address><img width="427" height="316" style="width:	427px
-<div align="center"><address><img width="450" height="301" style="width:	450px
-Therapeutic Horticulture Program was featured in the <a href="http:	//www.dallasnews.com/lifestyles/headlines/20120613-horticultural-therapy-blooms-at-the-dallas-arboretum.ece " target="_blank">Dallas Morning News (2012)
-height:	301px" src="/files/Community_projects/dallasstaff.jpg" border="0" /></address><div align="center"><address>Horticultural training &copy
+0-ID: 1241
+1-Name: Dallas Arboretum and Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Date founded: 1974
+2-Info:              Institution Code: DABS;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Dallas Arboretum and Botanical Garden;         8525 Garland Road;                Dallas;        Texas 75218 United States of America;        ;                 Telephone: (214) 515-6500;         Fax: (214) 515-6670;         URL: www.dallasarboretum.org;         Primary Email: info@dallasarboretum.org       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 32.8233660
+2-Longitude: -96.7164100
+2-Total Area: 27 Hectares
+3-Friends society: Yes
+3-Open to public: Yes
+4-Special Collections: Hardy Fern Collection
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1241">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1241">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Public Lectures/Talks: Yes
+8-"garden-project" style="margin-top: 1em"> Therapeutic Horticulture Program <!-- <img src="/files/Community_projects/dallasarboretum_memorycare_small.jpg" alt="" /> --> Dallas Arboretum&rsquo
+8-<div align="center"><address><img width="301" height="450" style="width: 301px
+8-<div align="center"><address><img width="427" height="316" style="width: 427px
+8-<div align="center"><address><img width="450" height="301" style="width: 450px
+8-Therapeutic Horticulture Program was featured in the <a href="http: //www.dallasnews.com/lifestyles/headlines/20120613-horticultural-therapy-blooms-at-the-dallas-arboretum.ece " target="_blank">Dallas Morning News (2012)</a> More information about the Therapeutic Horticulture Program is available on the <a href="/cms/www.dallasarboretum.org/therapeutichorticulture " target="_blank">Arboretum&rsquo
+8-height: 301px" src="/files/Community_projects/dallasstaff.jpg" border="0" /></address><div align="center"><address>Horticultural training &copy
+9-BGCI Member: No
+9-Fax: (214) 515-6670
+9-Institution Code: DABS
+9-International Agenda Registration: No
+9-Primary Email: info@dallasarboretum.org
+9-Telephone: (214) 515-6500
+9-URL: www.dallasarboretum.org

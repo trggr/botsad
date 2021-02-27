@@ -1,25 +1,28 @@
-ID:	5214
-Name:	Smithsonian Gardens 
-Administration Staff Number:	6
-Curator's Name:	Sarah Hedean, Living Plant Collections Manager
-Director's Name:	Barbara Faust
-Educational Staff Number:	2
-Horticultural Staff Number:	59
-Info:	  United States of America - District of Columbia - Washington  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: Yes; About the Smithsonian Gardens Our mission:; As a vital and vibrant part of the Smithsonian experience, we engage, people with plants and gardens, inform on the roles both play in our cultural and natural worlds, and inspire appreciation and stewardship.; ; Established in 1972 to manage the museum grounds, Smithsonian Gardens extends the Smithsonian’s museum experience in a public garden setting, inspiring visitors with exceptional displays and educating them about horticulture, plants, the natural and built environments, and artistic design.;  Main Address:; Smithsonian Gardens; MRC 506, P.O. Box 37012; Washington; District of Columbia 20013-7012 United States of America; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://gardens.si.edu/">http://gardens.si.edu/; Primary Email: gardens@si.edu ; 
-Plant Records Officer's Name:	Sarah Hedean, Living Plant Collections Manager
-Research Staff Number:	
-Altitude:	125.00 Metres
-Date founded:	1972
-Institution Type:	Botanic Garden
-Landscaped Area:	Yes
-Latitude:	38.8910073
-Local Address:	900 Jefferson Dr. SW
-Locality:	Information
-Longitude:	-77.0290435
-Natural Vegetation Area:	Yes
-Total Area:	72 Hectares
-Total area of glasshouses:	5016 Metres
-Computer Plant Record System:	Yes
-Number of Visitors:	24000000
-Number of Volunteers:	75
-Open to public:	Yes
+0-ID: 5214
+1-Name: Smithsonian Gardens 
+2-Altitude: 125.00 Metres
+2-Date founded: 1972
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: Yes;                                                  About the Smithsonian Gardens        Our mission:;  As a vital and vibrant part of the Smithsonian experience, we engage, people with plants and gardens, inform on the roles both play in our cultural and natural worlds, and inspire appreciation and stewardship.;  ;  Established in 1972 to manage the museum grounds, Smithsonian Gardens extends the Smithsonian’s museum experience in a public garden setting, inspiring visitors with exceptional displays and educating them about horticulture, plants, the natural and built environments, and artistic design.;                        Main Address:;         Smithsonian Gardens;         MRC 506, P.O. Box 37012;                Washington;        District of Columbia 20013-7012 United States of America;        ;                 Telephone: ;         Fax: ;         URL: http://gardens.si.edu/;         Primary Email: gardens@si.edu       ;              
+2-Institution Type: Botanic Garden
+2-Landscaped Area: Yes
+2-Latitude: 38.8910073
+2-Local Address: 900 Jefferson Dr. SW
+2-Locality: Information
+2-Longitude: -77.0290435
+2-Natural Vegetation Area: Yes
+2-Total Area: 72 Hectares
+2-Total area of glasshouses: 5016 Metres
+3-Computer Plant Record System: Yes
+3-Number of Visitors: 24000000
+3-Number of Volunteers: 75
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5214">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5214">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5214">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5214">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: gardens@si.edu
+9-Telephone: 

@@ -1,14 +1,21 @@
-ID:	4896
-Name:	il Giardino della Minerva 
-Curator's Name:	Mauro Pellecchia, Head Gardener
-Director's Name:	Luciano Mauro, Curator
-Info:	  Italy - Campania - Salerno  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; il Giardino della Minerva; Via Ferrante Sanseverino, 1; Salerno; Campania 84121 Italy; ;  Telephone: +39 089 252423; Fax: ; URL: <a target="_blank" href="http://www.giardinodellaminerva.it">www.giardinodellaminerva.it; Primary Email: info@giardinodellaminerva.it ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.6807
-Longitude:	14.753969
-Open to public:	Yes
-Courses for General Public:	Yes
-Courses for School Children:	Yes
-Courses for University/College Students:	Yes
+0-ID: 4896
+1-Name: il Giardino della Minerva 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         il Giardino della Minerva;         Via Ferrante Sanseverino, 1;                Salerno;        Campania 84121 Italy;        ;                 Telephone: +39 089 252423;         Fax: ;         URL: www.giardinodellaminerva.it;         Primary Email: info@giardinodellaminerva.it       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.6807
+2-Longitude: 14.753969
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4896">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4896">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4896">Please click here if you can update us</a>
+7-Courses for General Public: Yes
+7-Courses for School Children: Yes
+7-Courses for University/College Students: Yes
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: info@giardinodellaminerva.it
+9-Telephone: +39 089 252423
+9-URL: www.giardinodellaminerva.it

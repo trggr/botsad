@@ -1,17 +1,23 @@
-ID:	1305
-Name:	Royal Botanic Gardens Victoria - Cranbourne Gardens 
-Fax:	61 (0)3 5990 2250
-Info:	  Australia - Victoria - Cranbourne  ;Garden Information;  Institution Code: MEL; International Agenda Registration: Yes; BGCI Member: Yes; 
-Primary Email:	rbg@rbg.vic.gov.au
-Telephone:	61 (0)3 5990 2200
-Curator's Name:	
-Director's Name:	Mr Chris Russell
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1970
-Institution Type:	Botanic Garden
-Latitude:	-38.1329334
-Longitude:	145.2734743
-Total Area:	363 Hectares
-Special Collections:	100 % of collection if Australian flora. Leptospermum myrsinoides heathland, Banksia, Callistemon, Dryandra, Proteaceae, wet heathland, grassy woodland, sedge swampland.
-Reintroduction Programme:	Yes
+0-ID: 1305
+1-Name: Royal Botanic Gardens Victoria - Cranbourne Gardens 
+2-Curator's Name: 
+2-Director's Name: Mr Chris Russell
+2-Info:              Institution Code: MEL;             International Agenda Registration: Yes;        BGCI Member: Yes;                                               <img src="/photos/1305/propagation_redsand.gif" alt="The new Australian "Red Sand" Garden shows off native plants" />         The new Australian "Red Sand" Garden shows off native plants</div>        </div>                           About the Royal Botanic Gardens Victoria - Cranbourne Gardens        The Royal Botanic Gardens Cranbourne, a division of the Royal Botanic Gardens Melbourne, is one of Victoria’s most precious areas of native bushland and offers nature-lovers the chance to explore 363 hectares of untouched heathlands, wetlands and woodlands.;  ;  These expansive natural gardens are also home to thriving bird and animal life, including several rare and endangered species. ;  ;  The RBG Cranbourne is home to a new garden - the Australian Garden. The Australian Garden is a place where visitors can immerse themselves in Australian flora, landscapes, art and architecture. This amazing new garden features a gallery of exhibition gardens, sculpture and displays - all highlighting the beauty and diversity of our Australian landscape.;                        Main Address:;         Royal Botanic Gardens Victoria - Cranbourne Gardens;         1000 Ballarto Road;                Cranbourne;        Victoria 3977 Australia;        ;                 Telephone: 61 (0)3 5990 2200;         Fax: 61 (0)3 5990 2250;         URL: http://www.rbg.vic.gov.au/visit-cranbourne/attractions/australian-garden;         Primary Email: rbg@rbg.vic.gov.au       ;              
+2-Plant Records Officer's Name: 
+3-Altitude: 0.00 Metres
+3-Date founded: 1970
+3-Institution Type: Botanic Garden
+3-Latitude: -38.1329334
+3-Longitude: 145.2734743
+3-Total Area: 363 Hectares
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1305">Please click here if you can update us</a>
+5-Special Collections: 100 % of collection if Australian flora. Leptospermum myrsinoides heathland, Banksia, Callistemon, Dryandra, Proteaceae, wet heathland, grassy woodland, sedge swampland.
+6-Reintroduction Programme: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1305">Please click here if you can update us</a>
+8-<a href="http: //www.bgci.org/garden_editor.php?comID=1305">Please click here if you can update us</a>
+9-BGCI Member: Yes
+9-Fax: 61 (0)3 5990 2250
+9-Institution Code: MEL
+9-International Agenda Registration: Yes
+9-Primary Email: rbg@rbg.vic.gov.au
+9-Telephone: 61 (0)3 5990 2200

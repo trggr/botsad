@@ -1,12 +1,21 @@
-ID:	3570
-Name:	Hohhot Botanical Garden 
-Curator's Name:	
-Director's Name:	-
-Info:	  China - Inner Mongolia Autonomous Region - Hohhot  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Hohhot Botanical Garden; No. 132 Gangtie Road; Huimin; Hohhot; Inner Mongolia Autonomous Region 010030 China; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	40.8055
-Local Address:	中国内蒙古呼和浩特市钢铁路132号，邮编 010030
-Locality:	Information
-Longitude:	111.6625
+0-ID: 3570
+1-Name: Hohhot Botanical Garden 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Hohhot Botanical Garden;         No. 132 Gangtie Road;        Huimin;        Hohhot;        Inner Mongolia Autonomous Region 010030 China;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 40.8055
+2-Local Address: 中国内蒙古呼和浩特市钢铁路132号，邮编 010030
+2-Locality: Information
+2-Longitude: 111.6625
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3570">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=3570">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3570">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3570">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3570">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

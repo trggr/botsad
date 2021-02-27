@@ -1,11 +1,19 @@
-ID:	879
-Name:	State Botanical Garden 
-Curator's Name:	
-Director's Name:	
-Info:	  India - Barang  ;Garden Information;  Institution Code: BARAN; International Agenda Registration: No; BGCI Member: No;  Main Address:; State Botanical Garden; BARANG 754 005, Cuttack, Orissa, India.; Barang; India; ;  Telephone: 52396; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1963
-Institution Type:	Botanic Garden
-Latitude:	20.4345
-Longitude:	85.8432
-Special Collections:	Trees and shrubs (750 spp.), cacti, palms.
+0-ID: 879
+1-Name: State Botanical Garden 
+2-Date founded: 1963
+2-Info:              Institution Code: BARAN;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         State Botanical Garden;         BARANG 754 005,  Cuttack,  Orissa,  India.;                Barang;        India;        ;                 Telephone: 52396;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.4345
+2-Longitude: 85.8432
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=879">Please click here if you can update us</a>
+4-Special Collections: Trees and shrubs (750 spp.), cacti, palms.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=879">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=879">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=879">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: BARAN
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 52396
+9-URL: 

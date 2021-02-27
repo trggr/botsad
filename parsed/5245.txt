@@ -1,9 +1,19 @@
-ID:	5245
-Name:	Blue Ridge School 
-Curator's Name:	
-Director's Name:	
-Info:	  United States of America - Virginia - St. George  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No; <a href="http://www.arbnet.org" target="_blank">ArbNet Accredited: Level I ;  Main Address:; Blue Ridge School; 273 Mayo Drive; St. George; Virginia 22935 United States of America; ;  Telephone: 434-985-2811; Fax: ; URL: <a target="_blank" href="http://blueridgeschool.com">blueridgeschool.com; Primary Email: cwoods@blueridgeschool.com ; 
-Plant Records Officer's Name:	
-Institution Type:	Botanic Garden
-Latitude:	38.265527
-Longitude:	-78.555492
+0-ID: 5245
+1-Name: Blue Ridge School 
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                       ArbNet Accredited:          Level I       ;                                                   Main Address:;         Blue Ridge School;         273 Mayo Drive;                St. George;        Virginia 22935 United States of America;        ;                 Telephone: 434-985-2811;         Fax: ;         URL: blueridgeschool.com;         Primary Email: cwoods@blueridgeschool.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 38.265527
+2-Longitude: -78.555492
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=5245">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5245">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5245">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5245">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5245">Please click here if you can update us</a>
+9-ArbNet Accredited: Level I
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: cwoods@blueridgeschool.com
+9-Telephone: 434-985-2811
+9-URL: blueridgeschool.com

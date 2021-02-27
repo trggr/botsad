@@ -1,17 +1,24 @@
-ID:	2576
-Name:	Espace Pierres Folles 
-Curator's Name:	
-Director's Name:	-
-Info:	  France - Saint-Jean-des-Vignes  ;Garden Information;  Institution Code: SJDV; International Agenda Registration: No; BGCI Member: No;  Main Address:; Espace Pierres Folles; 116, chemin du Pinay; Saint-Jean-des-Vignes; 69380 France; ;  Telephone: 33 4 78 43 69 20; Fax: 33 4 78 43 69 20; URL: <a target="_blank" href="http://www.espace-pierres-folles.com/jardin-botanique.php">www.espace-pierres-folles.com/jardin-botanique.php; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1992
-Institution Type:	Botanic Garden
-Latitude:	45.8738
-Longitude:	4.6848
-Total Area:	1 Hectares
-Open to public:	Yes
-Published Plant Catalogue:	Yes
-Seed Bank:	Yes
-Cultivation Taxa Num:	529
-Special Collections:	The botanical garden was built on the former quarry areas have been backfilled with soil. Plantations cover 8400 square meters and gather a collection of more than 500 species. This collection of plants that occur in the wild in our region, particularly those that colonize calcareous clay and limestone Beaujolais'.
+0-ID: 2576
+1-Name: Espace Pierres Folles 
+2-Altitude: 0.00 Metres
+2-Date founded: 1992
+2-Info:              Institution Code: SJDV;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Espace Pierres Folles;         116, chemin du Pinay;                Saint-Jean-des-Vignes;        69380 France;        ;                 Telephone: 33 4 78 43 69 20;         Fax: 33 4 78 43 69 20;         URL: www.espace-pierres-folles.com/jardin-botanique.php;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 45.8738
+2-Longitude: 4.6848
+2-Total Area: 1 Hectares
+3-Open to public: Yes
+3-Published Plant Catalogue: Yes
+3-Seed Bank: Yes
+4-Cultivation Taxa Num: 529
+4-Special Collections: The botanical garden was built on the former quarry areas have been backfilled with soil. Plantations cover 8400 square meters and gather a collection of more than 500 species. This collection of plants that occur in the wild in our region, particularly those that colonize calcareous clay and limestone Beaujolais'.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2576">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2576">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2576">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 33 4 78 43 69 20
+9-Institution Code: SJDV
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 33 4 78 43 69 20
+9-URL: www.espace-pierres-folles.com/jardin-botanique.php

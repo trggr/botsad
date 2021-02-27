@@ -1,11 +1,19 @@
-ID:	5148
-Name:	Jardin Botanico de la Instituto de Botánica, Universidad de Guadalajara 
-Curator's Name:	
-Director's Name:	Dr. Miguel Ángel Muñiz Castro, Researcher and Professor
-Info:	  Mexico - Jalisco - Zapopan  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardin Botanico de la Instituto de Botánica, Universidad de Guadalajara; Departamento de Botánica y Zoología, Centro Universitario de Ciencias Biológicas y Agropecuarias, Universidad de Guadalajara; Km 15.5 carr. Guadalajara a Nogales, Las Agujas, Nextipac; Zapopan; Jalisco 45110 Mexico; ;  Telephone: +52 (33)3777-1150; Fax: ; URL: <a target="_blank" href="http://cucba.udg.mx">cucba.udg.mx; Primary Email: miguelmunizcastro@gmail.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	20.745608
-Longitude:	-103.512970
-Herbarium:	Yes
+0-ID: 5148
+1-Name: Jardin Botanico de la Instituto de Botánica, Universidad de Guadalajara 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardin Botanico de la Instituto de Botánica, Universidad de Guadalajara;         Departamento de Botánica y Zoología, Centro Universitario de Ciencias Biológicas y Agropecuarias, Universidad de Guadalajara;        Km 15.5 carr. Guadalajara a Nogales, Las Agujas, Nextipac;        Zapopan;        Jalisco 45110 Mexico;        ;                 Telephone: +52 (33)3777-1150;         Fax: ;         URL: cucba.udg.mx;         Primary Email: miguelmunizcastro@gmail.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 20.745608
+2-Longitude: -103.512970
+3-Herbarium: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=5148">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=5148">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=5148">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=5148">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: miguelmunizcastro@gmail.com
+9-Telephone: +52 (33)3777-1150
+9-URL: cucba.udg.mx

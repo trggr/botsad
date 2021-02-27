@@ -1,12 +1,20 @@
-ID:	1292
-Name:	Jardín Botánico Quinta de San Pedro Alejandrino 
-Curator's Name:	
-Director's Name:	Eduino Carbono
-Info:	  Colombia - Santa Marta  ;Garden Information;  Institution Code: SMART; International Agenda Registration: No; BGCI Member: No;  Main Address:; Jardín Botánico Quinta de San Pedro Alejandrino; Av. del Libertador, sin número, Quinta de San Pedro Alejandrino.; Santa Marta; Colombia; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://www.museobolivariano.org.co/jardin-botanico-quinta-de-san-pedro-alejandrino/">http://www.museobolivariano.org.co/jardin-botanico-quinta-de-san-pedro-alejandrino/; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	2004
-Institution Type:	Botanic Garden
-Latitude:	11.228161
-Longitude:	-74.177359
-Total Area:	22 Hectares
+0-ID: 1292
+1-Name: Jardín Botánico Quinta de San Pedro Alejandrino 
+2-Altitude: 0.00 Metres
+2-Date founded: 2004
+2-Info:              Institution Code: SMART;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Jardín Botánico Quinta de San Pedro Alejandrino;         Av. del Libertador, sin número,  Quinta de San Pedro Alejandrino.;                Santa Marta;        Colombia;        ;                 Telephone: ;         Fax: ;         URL: http://www.museobolivariano.org.co/jardin-botanico-quinta-de-san-pedro-alejandrino/;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 11.228161
+2-Longitude: -74.177359
+2-Total Area: 22 Hectares
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=1292">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=1292">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1292">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1292">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1292">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: SMART
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 

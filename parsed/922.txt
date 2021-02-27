@@ -1,11 +1,19 @@
-ID:	922
-Name:	Aligarh Muslim University Botanic Garden 
-Curator's Name:	
-Director's Name:	Prof.S.K.Saxena
-Info:	  India - Aligarh  ;Garden Information;  Institution Code: ALIGH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Aligarh Muslim University Botanic Garden; Department of Botany, Aligarh Muslim University, ALIGARH, 20-200-1, Uttar Pradesh, India.; Aligarh; India; ;  Telephone: 4984; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Date founded:	1962
-Institution Type:	Botanic Garden
-Latitude:	27.8938
-Longitude:	78.0681
-Special Collections:	Trees (812 accessions) and shrubs (3,882 accessions), foliage & flowering plants.
+0-ID: 922
+1-Name: Aligarh Muslim University Botanic Garden 
+2-Date founded: 1962
+2-Info:              Institution Code: ALIGH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Aligarh Muslim University Botanic Garden;         Department of Botany, Aligarh Muslim University, ALIGARH, 20-200-1, Uttar Pradesh, India.;                Aligarh;        India;        ;                 Telephone: 4984;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 27.8938
+2-Longitude: 78.0681
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=922">Please click here if you can update us</a>
+4-Special Collections: Trees (812 accessions) and shrubs (3,882 accessions), foliage & flowering plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=922">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=922">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=922">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: ALIGH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 4984
+9-URL: 

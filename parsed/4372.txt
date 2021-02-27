@@ -1,12 +1,20 @@
-ID:	4372
-Name:	Streissguth Gardens 
-Curator's Name:	
-Director's Name:	Ben Streissguth
-Info:	  United States of America - Washington - Seattle  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Streissguth Gardens; 10th Avenue E. and E. Blaine Street; Seattle; Washington 98102 United States of America; ;  Telephone: (206) 322-3646; Fax: ; URL: <a target="_blank" href="http://www.streissguthgardens.com">www.streissguthgardens.com; Primary Email: ben@streissguthgardens.com ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1972
-Institution Type:	Botanic Garden
-Latitude:	47.6350250
-Longitude:	-122.3200940
-Open to public:	Yes
+0-ID: 4372
+1-Name: Streissguth Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1972
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Streissguth Gardens;         10th Avenue E. and E. Blaine Street;                Seattle;        Washington 98102 United States of America;        ;                 Telephone: (206) 322-3646;         Fax: ;         URL: www.streissguthgardens.com;         Primary Email: ben@streissguthgardens.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 47.6350250
+2-Longitude: -122.3200940
+3-Open to public: Yes
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4372">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4372">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4372">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4372">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: ben@streissguthgardens.com
+9-Telephone: (206) 322-3646
+9-URL: www.streissguthgardens.com

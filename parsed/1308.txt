@@ -1,17 +1,23 @@
-ID:	1308
-Name:	Mary Flagler Cary Arboretum 
-Curator's Name:	Allan Kling, Grounds Foreman
-Director's Name:	Dr. William Schlesinger, President
-Info:	  United States of America - New York - Millbrook  ;Garden Information;  Institution Code: NY; International Agenda Registration: No; BGCI Member: No; About the Mary Flagler Cary Arboretum The Cary Institute of Ecosystem Studies is dedicated to the creation, dissemination and application of knowledge about ecological systems. This knowledge is created through scientific research, disseminated through teaching, writing, and exhibits, and applied through participation in decision-making regarding the ecological management of natural resources and through promotion of a broader awareness about the importance of ecological relationships to human welfare.;  Main Address:; Mary Flagler Cary Arboretum; Cary Institute of Ecosystem Studies; 2801 Sharon Turnpike (Route 44), P.O. Box AB; Millbrook; New York 12545 United States of America; ;  Telephone: (845) 677-5343; Fax: ; URL: <a target="_blank" href="http://www.ecostudies.org/hiking-trails.html">www.ecostudies.org/hiking-trails.html; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1971
-Institution Type:	Botanic Garden
-Latitude:	41.7936010
-Longitude:	-73.6945500
-Total Area:	778 Hectares
-Arboretum:	Yes
-Arboretum Size:	778
-Open to public:	Yes
-Special Collections:	Wild collected woody plants of temperate areas, especially the former Soviet Union and eastern Asia. Emphasis on Betulaceae, Pinaceae, Acer, Salix, Fraxinus, temperate ferns and allies.
-Urban Environments:	Yes
+0-ID: 1308
+1-Name: Mary Flagler Cary Arboretum 
+2-Altitude: 0.00 Metres
+2-Date founded: 1971
+2-Info:              Institution Code: NY;             International Agenda Registration: No;        BGCI Member: No;                                                  About the Mary Flagler Cary Arboretum        The Cary Institute of Ecosystem Studies is dedicated to the creation, dissemination and application of knowledge about ecological systems. This knowledge is created through scientific research, disseminated through teaching, writing, and exhibits, and applied through participation in decision-making regarding the ecological management of natural resources and through promotion of a broader awareness about the importance of ecological relationships to human welfare.;                        Main Address:;         Mary Flagler Cary Arboretum;         Cary Institute of Ecosystem Studies;        2801 Sharon Turnpike (Route 44), P.O. Box AB;        Millbrook;        New York 12545 United States of America;        ;                 Telephone: (845) 677-5343;         Fax: ;         URL: www.ecostudies.org/hiking-trails.html;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 41.7936010
+2-Longitude: -73.6945500
+2-Total Area: 778 Hectares
+3-Arboretum: Yes
+3-Arboretum Size: 778
+3-Open to public: Yes
+4-Special Collections: Wild collected woody plants of temperate areas, especially the former Soviet Union and eastern Asia. Emphasis on Betulaceae, Pinaceae, Acer, Salix, Fraxinus, temperate ferns and allies.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1308">Please click here if you can update us</a>
+6-Urban Environments: Yes
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1308">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: NY
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: (845) 677-5343
+9-URL: www.ecostudies.org/hiking-trails.html

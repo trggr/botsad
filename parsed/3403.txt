@@ -1,12 +1,20 @@
-ID:	3403
-Name:	State Horticultural Research Station 
-Curator's Name:	
-Director's Name:	Uknown
-Info:	  India - Tamil Nadu - Krishnanagar  ;Garden Information;  Institution Code: KRISH; International Agenda Registration: No; BGCI Member: No;  Main Address:; State Horticultural Research Station; P.O. KRISHNANGARDist. NadiaWest BengalIndia; Krishnanagar; Tamil Nadu India; ;  Telephone: ; Fax: ; URL: <a target="_blank" href="http://">; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Date founded:	1934
-Institution Type:	Other
-Latitude:	23.4056
-Longitude:	88.5035
-Special Collections:	Citrus, custard apple, guava, litchi, mango, banana, pineapple, sapota and other fruits, vegetables and ornamental plants, represented by about 150 varieties.
+0-ID: 3403
+1-Name: State Horticultural Research Station 
+2-Altitude: 0.00 Metres
+2-Date founded: 1934
+2-Info:              Institution Code: KRISH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         State Horticultural Research Station;         P.O. KRISHNANGARDist. NadiaWest BengalIndia;                Krishnanagar;        Tamil Nadu India;        ;                 Telephone: ;         Fax: ;         URL: ;         Primary Email:        ;              
+2-Institution Type: Other
+2-Latitude: 23.4056
+2-Longitude: 88.5035
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=3403">Please click here if you can update us</a>
+4-Special Collections: Citrus, custard apple, guava, litchi, mango, banana, pineapple, sapota and other fruits, vegetables and ornamental plants, represented by about 150 varieties.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=3403">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=3403">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=3403">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 
+9-Institution Code: KRISH
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 
+9-URL: 

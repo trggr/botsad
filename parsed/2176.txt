@@ -1,11 +1,19 @@
-ID:	2176
-Name:	Jardim Botânico de Curitiba (Botanical Garden of Curitiba) 
-Curator's Name:	
-Director's Name:	.
-Info:	  Brazil - Curitiba  ;Garden Information;  Institution Code: CURIT; International Agenda Registration: Yes; BGCI Member: No;  Main Address:; Jardim Botânico de Curitiba (Botanical Garden of Curitiba); Secretaria Municipal do Meio Ambiente; Rua Eng. Ostoja Roguski, s/noCURITI; Curitiba; Brazil; ;  Telephone: 55 41 362 1800; Fax: 55 41 277 1983; URL: <a target="_blank" href="http://">; Primary Email: emielke@onda.com.br ; 
-Plant Records Officer's Name:	
-Date founded:	1991
-Institution Type:	Botanic Garden
-Latitude:	-25.4283
-Longitude:	-49.2732
-Special Collections:	Atlantic forest plants, Araucaria forest plants, Rio Nebular (cloud forest), forest plants, Parana Rio basin forest plants, medicinal and aromatic plants.
+0-ID: 2176
+1-Name: Jardim Botânico de Curitiba (Botanical Garden of Curitiba) 
+2-Date founded: 1991
+2-Info:              Institution Code: CURIT;             International Agenda Registration: Yes;        BGCI Member: No;                                                           Main Address:;         Jardim Botânico de Curitiba (Botanical Garden of Curitiba);         Secretaria Municipal do Meio Ambiente;        Rua Eng. Ostoja Roguski, s/noCURITI;        Curitiba;        Brazil;        ;                 Telephone: 55 41 362 1800;         Fax: 55 41 277 1983;         URL: ;         Primary Email: emielke@onda.com.br       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: -25.4283
+2-Longitude: -49.2732
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=2176">Please click here if you can update us</a>
+4-Special Collections: Atlantic forest plants, Araucaria forest plants, Rio Nebular (cloud forest), forest plants, Parana Rio basin forest plants, medicinal and aromatic plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=2176">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=2176">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=2176">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 55 41 277 1983
+9-Institution Code: CURIT
+9-International Agenda Registration: Yes
+9-Primary Email: emielke@onda.com.br
+9-Telephone: 55 41 362 1800
+9-URL: 

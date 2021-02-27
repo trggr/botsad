@@ -1,14 +1,21 @@
-ID:	1270
-Name:	Longue Vue House and Gardens 
-Curator's Name:	Amy Graham, Horticulture Director
-Director's Name:	Maria Pote, Executive Director
-Info:	  United States of America - Louisiana - New Orleans  ;Garden Information;  Institution Code: LVGH; International Agenda Registration: No; BGCI Member: No;  Main Address:; Longue Vue House and Gardens; 7 Bamboo Road; New Orleans; Louisiana 70124-1065 United States of America; ;  Telephone: (504) 488-5488; Fax: (504) 486-7015; URL: <a target="_blank" href="http://www.longuevue.com">www.longuevue.com; Primary Email: info@longuevue.com ; 
-Plant Records Officer's Name:	Lenora Costa, Curator
-Altitude:	0.00 Metres
-Date founded:	1969
-Institution Type:	Botanic Garden
-Latitude:	29.9769290
-Longitude:	-90.1235490
-Total Area:	3 Hectares
-Open to public:	Yes
-Special Collections:	Camellias, azaleas, native plants, roses, herbs, flowering tropical plants.
+0-ID: 1270
+1-Name: Longue Vue House and Gardens 
+2-Altitude: 0.00 Metres
+2-Date founded: 1969
+2-Info:              Institution Code: LVGH;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Longue Vue House and Gardens;         7 Bamboo Road;                New Orleans;        Louisiana 70124-1065 United States of America;        ;                 Telephone: (504) 488-5488;         Fax: (504) 486-7015;         URL: www.longuevue.com;         Primary Email: info@longuevue.com       ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 29.9769290
+2-Longitude: -90.1235490
+2-Total Area: 3 Hectares
+3-Open to public: Yes
+4-Special Collections: Camellias, azaleas, native plants, roses, herbs, flowering tropical plants.
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=1270">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=1270">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=1270">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: (504) 486-7015
+9-Institution Code: LVGH
+9-International Agenda Registration: No
+9-Primary Email: info@longuevue.com
+9-Telephone: (504) 488-5488
+9-URL: www.longuevue.com

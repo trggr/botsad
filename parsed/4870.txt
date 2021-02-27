@@ -1,12 +1,21 @@
-ID:	4870
-Name:	Konjiam Resort Arboretum 
-Curator's Name:	Seok-Jong Na
-Director's Name:	Yoon-Hee Lee
-Info:	  South Korea - Gyeonggi-do - Gawngju-si  ;Garden Information;  Institution Code: ; International Agenda Registration: No; BGCI Member: No;  Main Address:; Konjiam Resort Arboretum; San 23-1, Dowoong-ri, Docheok-myun; Gawngju-si; Gyeonggi-do 464-881 South Korea; ;  Telephone: 031-8026-6600 (6666); Fax: 031-8026-6611; URL: <a target="_blank" href="http://www.konjiamresort.co.kr">www.konjiamresort.co.kr; Primary Email: ; 
-Plant Records Officer's Name:	
-Altitude:	0.00 Metres
-Institution Type:	Botanic Garden
-Latitude:	37.341
-Local Address:	도척면 도응리 산41
-Locality:	Information
-Longitude:	127.29115
+0-ID: 4870
+1-Name: Konjiam Resort Arboretum 
+2-Altitude: 0.00 Metres
+2-Info:              Institution Code: ;             International Agenda Registration: No;        BGCI Member: No;                                                           Main Address:;         Konjiam Resort Arboretum;         San 23-1, Dowoong-ri, Docheok-myun;                Gawngju-si;        Gyeonggi-do 464-881 South Korea;        ;                 Telephone: 031-8026-6600 (6666);         Fax: 031-8026-6611;         URL: www.konjiamresort.co.kr;         Primary Email:        ;              
+2-Institution Type: Botanic Garden
+2-Latitude: 37.341
+2-Local Address: 도척면 도응리 산41
+2-Locality: Information
+2-Longitude: 127.29115
+3-<a href="http: //www.bgci.org/garden_editor.php?comID=4870">Please click here if you can update us</a>
+4-<a href="http: //www.bgci.org/garden_editor.php?comID=4870">Please click here if you can update us</a>
+5-<a href="http: //www.bgci.org/garden_editor.php?comID=4870">Please click here if you can update us</a>
+6-<a href="http: //www.bgci.org/garden_editor.php?comID=4870">Please click here if you can update us</a>
+7-<a href="http: //www.bgci.org/garden_editor.php?comID=4870">Please click here if you can update us</a>
+9-BGCI Member: No
+9-Fax: 031-8026-6611
+9-Institution Code: 
+9-International Agenda Registration: No
+9-Primary Email: 
+9-Telephone: 031-8026-6600 (6666)
+9-URL: www.konjiamresort.co.kr
