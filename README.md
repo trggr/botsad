@@ -26,7 +26,7 @@ next request.
         (Thread/sleep 2000))
 
 Once the files are retrieved and stored locally, we perform a series of steps
-to extract the information. (Refer to the source code src/botsad/core.clj)
+to extract the information, which are described below.  (Refer to the source code src/botsad/core.clj)
 
 Step 1. Read a full content of a file into a string named P1
    
@@ -36,9 +36,9 @@ Step 2. The information is between tags "article" and "/article".
 
     p2  (subs p1 (index-of p1 "<article>") (index-of p1 "</article>"))
 
-Step 3. There are 10 blocks of information in each article. The blocks are separated by tags
-"div class=". The variable P3 is an array of size 10. Each element is a string representing
-on of the blocks. The first block is not important and we discard it. Now P4 is an array of only 9 elements.
+Step 3. There are several blocks of information in each article. The blocks are separated by tags
+"div class=". Now P4 is an array of only 9 elements, and each element is a string representing
+one of the blocks.
 
     p3  (split p2 #"<div class=")
     p4  (rest p3)
