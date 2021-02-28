@@ -1,19 +1,0 @@
-0-ID: 3609
-1-Name: Latin American Ethnobotanical Garden 
-2-Altitude: 0.00 Metres
-2-Date founded: 1995
-2-Info:              Institution Code: LAEG;             International Agenda Registration: Yes;        BGCI Member: Yes;                                                  About the Latin American Ethnobotanical Garden        The Latin American Ethnobotanical Garden at the University of Georgia is an interdisciplinary and international collaborative effort that grew out of the partnership between the University of Georgia and El Colegio de la Frontera Sur in Chiapas, Mexico.;  ;  In 1995 faculty and graduate students involved with the project realized the need for a location on campus to conduct research on the horticultural requirements of medicinal plants. This idea quickly grew to encompass a public space that would introduce ethnobotany to the university and the local community and serve as a teaching laboratory for graduate and undergraduates. The concept was met with enthusiasm by the university administration and approval was granted to begin converting a site located behind the Department of Anthropology into a garden. A private foundation provided financial support in the form of an endowment that ensures continued development and maintenance of the garden. ;  ;  The purpose of the Latin American Ethnobotanical Garden is to highlight the plants of cultural significance in Latin America and focus attention on the critical need for conservation of this biodiversity. The project emphasizes the study of ethnobotany through a variety of related disciplines such as anthropology, botany, horticulture, ecology, pharmacology, biochemistry and conservation biology. An educational outreach program with local school children is also currently underway at the garden, providing an opportunity for children to share and experience the many cultural uses of plants in Latin America and learn more about the field of ethnobotany. ;  ;  The major foci of the garden are the medicinal plants of the Tzeltal and Tzotzil Maya of Highland Chiapas. However, the garden is also involved in developing sister garden projects in Costa Rica, Ecuador and Argentina. These sister garden projects encourage the preservation of ethnobotanical knowledge in the respective countries and provide technical assistance with the establishment and maintenance of ethnobotanical gardens.;                        Main Address:;         Latin American Ethnobotanical Garden;         Latin American and Carribean Studies Institute, University of Georgia;        290 South Hull Street;        Athens;        Georgia 30602 United States of America;        ;                 Telephone: (706) 542-9079;         Fax: (706) 542-8432;         URL: <a target="_blank" href="http://www.lacsiuga.org/latin-american-ethnobotanical-garden/ ">http://www.lacsiuga.org/latin-american-ethnobotanical-garden/ ;         Primary Email: pduncan@uga.edu       ;              
-2-Institution Type: Botanic Garden
-2-Latitude: 33.9449930
-2-Longitude: -83.3745280
-3-<a href="http: //www.bgci.org/garden_editor.php?comID=3609">Please click here if you can update us</a>
-4-<a href="http: //www.bgci.org/garden_editor.php?comID=3609">Please click here if you can update us</a>
-5-<a href="http: //www.bgci.org/garden_editor.php?comID=3609">Please click here if you can update us</a>
-6-<a href="http: //www.bgci.org/garden_editor.php?comID=3609">Please click here if you can update us</a>
-7-<a href="http: //www.bgci.org/garden_editor.php?comID=3609">Please click here if you can update us</a>
-9-BGCI Member: Yes
-9-Fax: (706) 542-8432
-9-Institution Code: LAEG
-9-International Agenda Registration: Yes
-9-Primary Email: pduncan@uga.edu
-9-Telephone: (706) 542-9079
