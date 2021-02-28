@@ -201,8 +201,8 @@ Step 17. This step saves the info into Excel
     (def xls (into [header] rows))
     (export-xls xls "gardens.xlsx")
 
-Clojure is an excellent language, but not an easy language to learn.
-I used it on and off for close to 10 years for hobby and professional projects, but can't
+Clojure is an excellent but not an easy language to learn.
+I used it on and off for for hobby and professional projects, but can't
 say I am an expert in it. The code is very terse (core.clj + crawler.cly together are 139 lines),
 but efficient and runs fast. 
 
