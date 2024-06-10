@@ -1,7 +1,7 @@
-(ns botsad.core
-  (:use [clojure.string :as str]))
+(ns botsad.crawler
+  (:require [clojure.string :as str]))
 
-(def ids (drop 10 (split (slurp "db/ids.txt") #"\n")))
+(def ids (str/split (slurp "db/ids.txt") #"\n"))
 
 (doseq [id ids]
    (println id)

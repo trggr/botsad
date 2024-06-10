@@ -13,4 +13,8 @@ pom.xml.asc
 .hg/
 *.xlsx
 *O
+site/*
+.calva/*
+.lsp/*
+0
 

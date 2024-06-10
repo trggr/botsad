@@ -1,3 +1,19 @@
+Revision on 6/9/2024
+
+1. Download full HTML page https://tools.bgci.org/garden_advanced_search.php?action=Find&mode=&ftrCountry=All&ftrInstitutionType=All&ftrKeyword=&x=84&y=22#results to a file 2024-06-09-garden_advanced_search.html
+
+2. wsl grep "<td><a href=\"https://tools.bgci.org/garden.php?id=" 2024-06-09-garden_advanced_search.html > 2024-06-09-step1.txt
+
+3. Then edit the file to distil the list of garden IDs and save them to db/ids.txt
+
+4. Run a crawler to fetch and store locally a web page of each garden (this could take 2-3 hours):
+
+     bb src/botsad/crawler.clj
+
+
+
+
+
 How to Parse Botanical Gardens
 
 At the bottom of "Advanced Search",
@@ -6,7 +22,7 @@ At the bottom of "Advanced Search",
 
 find and download a CSV file with a list of botanical gardens.
 The file has approximately 3700 rows.
-Each row contains an ID and the Name of every garden in the database. 
+Each row contains an ID and the Name of every garden in the database.
 
 Once you know garden's ID, you can request a full information about it via:
 
@@ -29,7 +45,7 @@ Once the files are retrieved and stored locally, we perform a series of steps
 to extract the information, which are described below.  (Refer to the source code src/botsad/core.clj)
 
 Step 1. Read a full content of a file into a string named P1
-   
+
     p1  (slurp (str "site/" id ".html"))
 
 Step 2. The information is between tags "article" and "/article".
@@ -45,7 +61,7 @@ one of the blocks.
 
 The blocks contain the following:
 
-     Block   Description   
+     Block   Description
      ------  ---------------
      0       not important
      1       Name
@@ -59,8 +75,8 @@ The blocks contain the following:
      9       Education
 
 
-Step 5. The most difficult block to parse is block Info (#2). 
-Some gardens provide a very elaborate information about themselves, including pictures and 
+Step 5. The most difficult block to parse is block Info (#2).
+Some gardens provide a very elaborate information about themselves, including pictures and
 specially formatted text. This is how we process this block:
 
     (let [p1 (subs art (index-of art "<div id=\"tabs-1\">") (index-of art "<div class=\"meta-heading first\">"))
@@ -72,7 +88,7 @@ specially formatted text. This is how we process this block:
                  (replace #"</b>" "")       ; remove </b> - end of bold font tags
                  (replace #"</a>" "")       ;
                  (replace #"</p>" ";")      ; REPLACE <p> (end of paragraf) with semicolons. Explained later.
-                 (replace #"<p>"  "")       ;  
+                 (replace #"<p>"  "")       ;
                  (replace #"<p>" "")        ;
                  (replace #"<div>" "")      ;
                  (replace #"<h2>" "")       ;
@@ -86,7 +102,7 @@ specially formatted text. This is how we process this block:
 Step 6. The rest of the blocks are similar to each other, and we apply the same logic to all of them. Function
 ELIM works as replace, only it works on all blocks at once.
 
-      p5  (-> p4 
+      p5  (-> p4
             (elim #"\s+" " ")
             (elim #"\"meta-heading\"> <h3 class=\"closed\">" "")
             (elim #"\"meta-heading first\"> <h3 class=\"closed\">" "")
@@ -123,17 +139,17 @@ Step 8. At this point each block is a string:
     "Altitude:	0.00 Metres ; Institution Type: Botanic Garden; Latitude: 21.2848800;"
 
 Step 9. We make a function TOMAP, which turns a block into key-value pairs.
-The function takes a block's number - IDX, and a block's content - ITEM. 
-It then splits ITEM into array at each semicolon (rememeber the semicolons from steps 5 and 6?), and further splits 
+The function takes a block's number - IDX, and a block's content - ITEM.
+It then splits ITEM into array at each semicolon (rememeber the semicolons from steps 5 and 6?), and further splits
 each element at a colon ':' into pairs.
 In a pairs, the first element is called KEY, and the second element VALUE.
-The KEYS are unique. We then leave only true pairs - filter where count = 2. For example, after TOMAP is applied to a 
+The KEYS are unique. We then leave only true pairs - filter where count = 2. For example, after TOMAP is applied to a
 second block, to a string above, we are getting:
 
     Key                 Value
     ---------           -------------
     2-Altitue           0.00 Metres
-    2-Institution Type  Botanic Garden 
+    2-Institution Type  Botanic Garden
     2-Latitue           21.2848800
 
 the source of TOMAP:
@@ -158,10 +174,10 @@ Step 12. We are adding ID, garden's name, and info to the map M, and call the re
 
 Step 13. At this point we have our garden looks like a map between a key and a value:
 
-     [0-ID:                1024, 
+     [0-ID:                1024,
       1-Name:              Myall Park Botanic Garden
       2-Altitute:          0.00 Meters
-      2-Institution Type:  Botanic Garden 
+      2-Institution Type:  Botanic Garden
       2-Latitue:           21.2848800
       4-Info:              text
       . . .
@@ -204,7 +220,7 @@ Step 17. This step saves the info into Excel
 Clojure is an excellent but not an easy language to learn.
 I used it on and off for for hobby and professional projects, but can't
 say I am an expert in it. The code is very terse (core.clj + crawler.cly together are 139 lines),
-but efficient and runs fast. 
+but efficient and runs fast.
 
 
 
