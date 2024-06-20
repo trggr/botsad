@@ -17,4 +17,5 @@ site/*
 .calva/*
 .lsp/*
 0
+parsed/*
 
