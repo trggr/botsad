@@ -1,5 +1,6 @@
 Revision on 6/9/2024
 
+
 1. Download full HTML page https://tools.bgci.org/garden_advanced_search.php?action=Find&mode=&ftrCountry=All&ftrInstitutionType=All&ftrKeyword=&x=84&y=22#results to a file 2024-06-09-garden_advanced_search.html
 
 2. wsl grep "<td><a href=\"https://tools.bgci.org/garden.php?id=" 2024-06-09-garden_advanced_search.html > 2024-06-09-step1.txt
